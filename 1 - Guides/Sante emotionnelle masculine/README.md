@@ -3,7 +3,7 @@ type: "guide"
 guide: "Santé émotionnelle masculine"
 sujet: "corps masculin"
 chapitres: 17
-mots: 22322
+mots: 22376
 verifie_le: 2026-07-31
 licence: "CC BY 4.0"
 ---
@@ -23,7 +23,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
 | 1 | [Le décor : ce que disent les chiffres](<01 - Ce que disent les chiffres.md>) | repères | 783 |
-| 2 | [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<02 - L'architecture émotionnelle.md>) | psychologie | 2 932 |
+| 2 | [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<02 - L'architecture émotionnelle.md>) | psychologie | 2 986 |
 | 2 bis | [Le substrat : analyse socio-neuro-psychologique](<02b - Le substrat socio-neuro-psychologique.md>) | psychologie | 1 970 |
 | 2 ter | [Les grands profils masculins](<02c - Les grands profils masculins.md>) | psychologie | 1 367 |
 | 3 | [La dépression masculine : le visage qu'elle ne prend pas](<03 - La dépression masculine.md>) | psychologie | 1 318 |
@@ -40,11 +40,13 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 10 bis | [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<10b - Le désir dans la durée.md>) | relation | 1 788 |
 | 11 | [Aide-mémoire](<11 - Aide-mémoire.md>) | repères | 959 |
 
-Total : 22 322 mots, 17 chapitres.
+Total : 22 376 mots, 17 chapitres.
 
 ## À savoir sur ce guide
 
 C'est le guide le plus dense de la collection, avec les chapitres ajoutés en numérotation bis et ter : le substrat socio-neuro-psychologique (2 bis), les grands profils masculins (2 ter), les conflits entre hommes (8 bis), les reproches récurrents (9 bis), le dilemme masculin contemporain (9 ter) et le désir dans la durée (10 bis).
+
+La section 2.7 ("Côte à côte plutôt que face à face") et les reformulations de la section 2.1 face à l'alexithymie sont généralisées, au-delà du masculin, dans le guide [Questions et communication](<../Questions et communication/README.md>) ; voir la notion [Côte à côte](<../../2 - Notions/Côte à côte.md>).
 
 ## Sources et mise à jour
 

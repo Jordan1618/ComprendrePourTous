@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sujet"
-mis_a_jour_le: 2026-08-02
+mis_a_jour_le: 2026-08-05
 licence: "CC BY 4.0"
 ---
 
@@ -78,3 +78,15 @@ Ce qui ne dépend pas du sexe : transmission des infections, prévention, gestes
 - [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `repères`
 - [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `relation`
 - [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `repères`
+
+**Questions et communication**
+
+- [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `psychologie`
+- [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>)  `pratique`
+- [Les six familles de questions](<../1 - Guides/Questions et communication/03 - Les six familles de questions.md>)  `repères`
+- [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `relation`
+- [Les émotions en jeu](<../1 - Guides/Questions et communication/05 - Les émotions en jeu.md>)  `psychologie`
+- [Le cadre](<../1 - Guides/Questions et communication/06 - Le cadre.md>)  `pratique`
+- [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `relation`
+- [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `relation`
+- [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `repères`

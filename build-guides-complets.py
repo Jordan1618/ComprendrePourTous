@@ -21,6 +21,7 @@ DOSSIERS = [
     "Sante emotionnelle masculine",
     "IST, depistage et prevention",
     "Massage professionnel",
+    "Questions et communication",
 ]
 
 def lire_frontmatter(texte):

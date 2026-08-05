@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sources"
-mis_a_jour_le: 2026-08-02
+mis_a_jour_le: 2026-08-05
 licence: "CC BY 4.0"
 ---
 
@@ -21,6 +21,7 @@ Quand une donnée est débattue ou incertaine, le texte donne une fourchette et 
 | [Santé émotionnelle masculine](<../1 - Guides/Sante emotionnelle masculine/README.md>) | juillet 2026 | 31 juillet 2026 | janvier 2027 |
 | [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | 21 juillet 2026 | 27 juillet 2026 | janvier 2027 |
 | [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | 21 juillet 2026 | 21 juillet 2026 | à revoir |
+| [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | 4 août 2026 | 4 août 2026 | février 2027 |
 
 ## Ce qui bouge vite et demande une surveillance
 

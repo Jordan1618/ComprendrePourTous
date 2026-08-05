@@ -142,6 +142,8 @@ C'est pour cette raison que les amitiés masculines se construisent autour d'act
 - Accepte les silences longs. Un silence de trente secondes dans ce format n'est pas un blocage, c'est le temps de traitement décrit en 2.2.
 - Ne préviens pas systématiquement à l'avance. "Il faut qu'on parle ce soir" laisse huit heures de montée d'anxiété qui vont fermer la porte avant même la conversation.
 
+Le guide "Questions et communication" (chapitre 6, "Le cadre") généralise cette observation au-delà du masculin : les bonnes fenêtres pour une question profonde, trajet en voiture, marche, tâche manuelle partagée, sont presque toujours des situations où on ne se regarde pas, quel que soit l'interlocuteur.
+
 ### 2.8 Ce que "ça va" veut dire
 
 Petit lexique de traduction, à prendre comme une aide et non comme une vérité universelle. La signification exacte dépend de l'homme, mais les registres sont assez stables.

@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "angle"
-mis_a_jour_le: 2026-08-02
+mis_a_jour_le: 2026-08-05
 licence: "CC BY 4.0"
 ---
 
@@ -31,6 +31,8 @@ Comment un fonctionnement mental se construit, et pourquoi il tient.
 - [Anxiété, stress et corps : le circuit court](<../1 - Guides/Sante emotionnelle masculine/04 - Anxiété, stress et corps.md>)  `corps masculin`
 - [Les âges de la vie masculine](<../1 - Guides/Sante emotionnelle masculine/07 - Les âges de la vie masculine.md>)  `corps masculin`
 - [Le dilemme masculin contemporain](<../1 - Guides/Sante emotionnelle masculine/09c - Le dilemme masculin contemporain.md>)  `corps masculin`
+- [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `commun`
+- [Les émotions en jeu](<../1 - Guides/Questions et communication/05 - Les émotions en jeu.md>)  `commun`
 
 ## Prévention
 
@@ -59,6 +61,8 @@ Quoi faire, concrètement, geste par geste ou réflexe par réflexe.
 - [Découpage complet par zone du corps](<../1 - Guides/Massage professionnel/06 - Découpage par zone du corps.md>)  `commun`
 - [Différences hommes / femmes : ce qu'il faut vraiment retenir](<../1 - Guides/Massage professionnel/07 - Différences hommes et femmes.md>)  `commun`
 - [Femme enceinte : ce qui change vraiment](<../1 - Guides/Massage professionnel/08 - Femme enceinte.md>)  `commun`
+- [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>)  `commun`
+- [Le cadre](<../1 - Guides/Questions et communication/06 - Le cadre.md>)  `commun`
 
 ## Relation
 
@@ -73,6 +77,9 @@ Ce que tout ça change réellement à deux.
 - [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Sante emotionnelle masculine/10 - Les limites.md>)  `corps masculin`
 - [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Sante emotionnelle masculine/10b - Le désir dans la durée.md>)  `corps masculin`
 - [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `commun`
+- [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `commun`
+- [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `commun`
+- [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `commun`
 
 ## Repères
 
@@ -85,3 +92,5 @@ Chiffres, glossaires, ressources, aide-mémoire.
 - [Aide-mémoire](<../1 - Guides/Sante emotionnelle masculine/11 - Aide-mémoire.md>)  `corps masculin`
 - [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `commun`
 - [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `commun`
+- [Les six familles de questions](<../1 - Guides/Questions et communication/03 - Les six familles de questions.md>)  `commun`
+- [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `commun`

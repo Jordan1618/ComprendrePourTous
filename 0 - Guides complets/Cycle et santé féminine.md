@@ -7,7 +7,7 @@ mots: 22463
 verifie_le: 2026-07-27
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Cycle et sante feminine"
-genere_le: 2026-08-02
+genere_le: 2026-08-05
 ---
 
 # Cycle et santé féminine

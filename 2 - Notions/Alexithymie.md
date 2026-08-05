@@ -14,3 +14,4 @@ La distinction change tout dans une relation. Quelqu'un qui ne répond pas à "q
 **Où c'est développé**
 - [L'architecture émotionnelle](<../1 - Guides/Sante emotionnelle masculine/02 - L'architecture émotionnelle.md>).
 - [Le substrat socio-neuro-psychologique](<../1 - Guides/Sante emotionnelle masculine/02b - Le substrat socio-neuro-psychologique.md>).
+- Les reformulations qui contournent l'alexithymie (menu fermé, corps, échelle, différentiel) sont généralisées à toute question difficile dans [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>), section 2.4.

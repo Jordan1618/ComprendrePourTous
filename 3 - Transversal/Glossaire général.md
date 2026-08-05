@@ -1,8 +1,8 @@
 ---
 type: "index"
 axe: "glossaire"
-termes: 48
-mis_a_jour_le: 2026-08-02
+termes: 53
+mis_a_jour_le: 2026-08-05
 licence: "CC BY 4.0"
 ---
 
@@ -30,6 +30,7 @@ Pour les termes du champ gynécologique, le glossaire détaillé du guide sur le
 - **Code viril** : [L'architecture émotionnelle](<../1 - Guides/Sante emotionnelle masculine/02 - L'architecture émotionnelle.md>) section 2
 - **Contre-indications au massage** : [Risques et contre-indications](<../1 - Guides/Massage professionnel/09 - Risques et contre-indications.md>) section 9
 - **Corps jaune** : [Le cycle menstruel](<../1 - Guides/Cycle et sante feminine/01 - Le cycle menstruel.md>) section 1.2
+- **Côte à côte (communication)** : [notion dédiée](<../2 - Notions/Côte à côte.md>)
 
 ## D
 
@@ -77,6 +78,7 @@ Pour les termes du champ gynécologique, le glossaire détaillé du guide sur le
 
 ## P
 
+- **Pourquoi (piège du)** : [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>) section 2.4
 - **PALM-COEIN** : [Troubles et pathologies du cycle](<../1 - Guides/Cycle et sante feminine/04 - Troubles et pathologies du cycle.md>) section 4.22
 - **Pétrissage** : [Les gestes techniques fondamentaux](<../1 - Guides/Massage professionnel/03 - Les gestes techniques fondamentaux.md>) section 3
 - **PGAD** : [Sexualité féminine](<../1 - Guides/Cycle et sante feminine/05 - Sexualité féminine.md>) section 5.7
@@ -91,6 +93,11 @@ Pour les termes du champ gynécologique, le glossaire détaillé du guide sur le
 
 - **RCIU** : [La grossesse](<../1 - Guides/Cycle et sante feminine/06 - La grossesse.md>) section 6.10
 
+## Q
+
+- **Question de suivi** : [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>) section 2.3
+- **Question de témoignage** : [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>) section 4.4
+
 ## S
 
 - **SMOP (anciennement SOPK)** : [Troubles et pathologies du cycle](<../1 - Guides/Cycle et sante feminine/04 - Troubles et pathologies du cycle.md>) section 4.6
@@ -99,6 +106,10 @@ Pour les termes du champ gynécologique, le glossaire détaillé du guide sur le
 ## T
 
 - **TasP** : [Le VIH aujourd'hui](<../1 - Guides/IST, depistage et prevention/05 - Le VIH aujourd'hui.md>) section 5
+
+## U
+
+- **U=U (indétectable = intransmissible)** : voir "Indétectable = intransmissible"
 
 ## V
 

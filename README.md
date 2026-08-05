@@ -1,11 +1,11 @@
 ---
 projet: "Comprendre pour tous"
 type: "collection"
-guides: 4
-chapitres: 47
-mots: 50000
+guides: 5
+chapitres: 56
+mots: 57600
 cree_le: 2026-07-21
-mis_a_jour_le: 2026-08-02
+mis_a_jour_le: 2026-08-05
 licence: "CC BY 4.0"
 auteur: "Jordan1618"
 depot: "https://github.com/Jordan1618/comprendre-pour-tous"
@@ -36,8 +36,11 @@ Chaque guide est écrit dans les deux sens. Celui sur le cycle féminin s'adress
 | [Santé émotionnelle masculine](<1 - Guides/Sante emotionnelle masculine/README.md>) | corps masculin | 17 | Architecture émotionnelle, dépression, corps, sexualité, conflits, couple | [lire](<0 - Guides complets/Santé émotionnelle masculine.md>) |
 | [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 6 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV | [lire](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [lire](<0 - Guides complets/Massage professionnel.md>) |
+| [Questions et communication](<1 - Guides/Questions et communication/README.md>) | commun | 9 | Ce qu'une question fait, comment elles se classent, celles qui changent une vie | [lire](<0 - Guides complets/Questions et communication.md>) |
 
-Environ 50 000 mots au total.
+Environ 57 600 mots au total.
+
+Un document à part condense le meilleur de chaque guide, 15 items maximum par guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>). C'est une synthèse tenue à la main, pas un artefact généré par `build-guides-complets.py`.
 
 ## Comment c'est classé
 
@@ -104,4 +107,4 @@ C'est un choix assumé : ce projet existe pour être utile, et une licence restr
 
 Cette collection est faite pour grandir. Un guide de moins de 8 000 mots reste un fichier unique. Au-delà, il prend son propre dossier et se découpe par chapitre, comme les quatre premiers.
 
-Dernière mise à jour de cette page : 2 août 2026.
+Dernière mise à jour de cette page : 5 août 2026.
