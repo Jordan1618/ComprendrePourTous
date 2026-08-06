@@ -465,6 +465,49 @@ main::before {
 .legal h2 { font-size: 1.32rem; }
 .legal ul { margin-bottom: 1.2rem; }
 
+/* ------------------------------------------------------ avis & contact */
+
+.feedback {
+  max-width: var(--measure); margin: 3rem 0 0; padding: 1.4rem 1.6rem;
+  background: var(--surface); border: 1px solid var(--border);
+  border-left: 3px solid var(--accent); border-radius: 0 var(--radius) var(--radius) 0;
+}
+.feedback h2 {
+  margin: 0 0 .9rem; padding: 0; border: 0;
+  font-family: var(--sans); font-size: 1.02rem; font-weight: 650; letter-spacing: 0;
+}
+.feedback-actions { display: flex; flex-wrap: wrap; gap: .5rem; }
+.fb {
+  padding: .48rem .95rem; font: inherit; font-size: .89rem; font-weight: 550;
+  cursor: pointer; color: var(--text); background: var(--surface-2);
+  border: 1px solid var(--border); border-radius: 999px;
+  transition: border-color .15s ease, background .15s ease;
+}
+.fb:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--accent-ink); }
+.feedback-note { margin: .9rem 0 0; font-size: .82rem; color: var(--faint); line-height: 1.5; }
+
+.contact-form { display: flex; flex-direction: column; gap: .35rem; margin: 1.4rem 0; }
+.contact-form label { font-size: .88rem; font-weight: 600; margin-top: .6rem; }
+.contact-form input, .contact-form select, .contact-form textarea {
+  font: inherit; padding: .6rem .8rem; color: var(--text);
+  background: var(--surface); border: 1px solid var(--border); border-radius: 9px;
+}
+.contact-form textarea { resize: vertical; min-height: 8rem; }
+.contact-form input:focus, .contact-form select:focus, .contact-form textarea:focus {
+  border-color: var(--accent); outline: none; box-shadow: 0 0 0 3px var(--accent-soft);
+}
+.contact-form button {
+  align-self: flex-start; margin-top: 1rem; padding: .7rem 1.3rem;
+  font: inherit; font-weight: 600; cursor: pointer;
+  color: #fff; background: var(--accent);
+  border: 1px solid var(--accent); border-radius: 10px;
+}
+:root[data-theme="dark"] .contact-form button { color: #10241f; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .contact-form button { color: #10241f; } }
+.contact-form button:hover { background: var(--accent-ink); border-color: var(--accent-ink); }
+
+@media print { .feedback, .contact-form { display: none !important; } }
+
 /* --------------------------------------------------------------- footer */
 
 .footer {

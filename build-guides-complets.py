@@ -22,6 +22,7 @@ DOSSIERS = [
     "IST, depistage et prevention",
     "Massage professionnel",
     "Questions et communication",
+    "Les emotions",
     "La rencontre",
     "L amour",
     "Pour Nous",

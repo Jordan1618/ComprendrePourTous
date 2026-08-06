@@ -89,6 +89,19 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Le désir dans la durée](<../1 - Guides/L amour/07 - Le desir dans la duree.md>)  `relation`
 - [Ce que l'amour engage concrètement](<../1 - Guides/L amour/08 - Ce que l amour engage.md>)  `pratique`
 - [Sources vérifiables](<../1 - Guides/L amour/09 - Sources verifiables.md>)  `repères`
+**Les émotions**
+
+- [Comment une émotion se fabrique](<../1 - Guides/Les emotions/01 - Comment une emotion se fabrique.md>)  `physiologie`
+- [D'où viennent les émotions : famille, société, institutions](<../1 - Guides/Les emotions/02 - D ou viennent les emotions.md>)  `psychologie`
+- [Reconnaître et nommer : la granularité émotionnelle](<../1 - Guides/Les emotions/03 - Reconnaitre et nommer.md>)  `psychologie`
+- [Décoder une émotion : à quoi sert chacune](<../1 - Guides/Les emotions/04 - Decoder une emotion.md>)  `pratique`
+- [Réguler : ce qui marche et ce qui ne marche pas](<../1 - Guides/Les emotions/05 - Reguler ce qui marche.md>)  `pratique`
+- [Les bonnes pratiques au quotidien](<../1 - Guides/Les emotions/06 - Les bonnes pratiques au quotidien.md>)  `pratique`
+- [Quand le corps est en cause : ce qu'il faut écarter d'abord](<../1 - Guides/Les emotions/07 - Quand le corps est en cause.md>)  `prévention`
+- [Les troubles psychiques : des repères, pas un diagnostic](<../1 - Guides/Les emotions/08 - Les troubles psychiques.md>)  `prévention`
+- [Envisager un parcours de soin, seul ou à deux](<../1 - Guides/Les emotions/09 - Envisager un parcours de soin.md>)  `pratique`
+- [Les tabous à démonter](<../1 - Guides/Les emotions/10 - Les tabous a demonter.md>)  `relation`
+- [Sources vérifiables](<../1 - Guides/Les emotions/11 - Sources verifiables.md>)  `repères`
 **IST, dépistage et prévention**
 
 - [Comprendre les IST : panorama et transmission](<../1 - Guides/IST, depistage et prevention/01 - Panorama et transmission.md>)  `prévention`

@@ -99,3 +99,48 @@ Cadence de revue : tous les six mois, guide par guide, en ne touchant qu'aux chi
 ## Licence
 
 CC BY 4.0. Utilisation, modification et rediffusion libres, y compris commerciales, à condition de citer le projet. Voir `LICENSE.md`.
+
+## Vérifier les correspondances après chaque ajout
+
+C'est le contrôle le plus facile à oublier, et celui qui fait le plus de dégâts silencieux : un guide ajouté que rien ne référence, ou une notion récente qu'aucun guide ancien ne cite. Le texte est bon, il est en ligne, et personne n'y arrive.
+
+À faire après **tout** ajout ou renommage de chapitre, de notion ou de guide.
+
+### 1. Régénérer les artefacts, dans cet ordre
+
+```
+python build-index.py             regenere Par sujet et Par angle depuis le frontmatter
+python build-guides-complets.py   regenere les versions integrales du dossier 0
+python build.py                   regenere le site dans _site/
+```
+
+`build.py` signale les liens internes qui pointent dans le vide : un build propre vaut donc vérification des liens.
+
+### 2. Les notions récentes doivent être citées par les guides anciens
+
+C'est le point le plus souvent manqué. Une notion créée pour un guide récent est presque toujours pertinente dans un guide plus ancien, qui l'évoque sans la nommer. Chercher le terme dans tout le dépôt, puis ajouter le renvoi là où il manque :
+
+```
+grep -ril "granularite emotionnelle" "1 - Guides"
+```
+
+Si un chapitre ancien parle du sujet sans lien vers la notion, ajouter le lien. L'inverse compte autant : chaque notion doit avoir sa section **Où c'est développé** à jour, pointant vers *tous* les chapitres qui la traitent, pas seulement le premier écrit.
+
+### 3. Les renvois croisés entre guides
+
+Un guide neuf doit être **cité par** les guides voisins, pas seulement les citer. Après avoir écrit un guide, relire les guides proches et ajouter les renvois manquants dans les deux sens. Un lien à sens unique est un lien à moitié fait.
+
+### 4. La checklist
+
+- [ ] Le guide apparaît dans le tableau du `README.md` racine.
+- [ ] Il apparaît dans `Par sujet` et `Par angle` (automatique via `build-index.py`).
+- [ ] Il est listé dans `Sources et dates de vérification.md`.
+- [ ] Ses termes nouveaux existent dans `2 - Notions/` et dans le glossaire général.
+- [ ] Chaque notion citée a sa section « Où c'est développé » complète.
+- [ ] Les guides voisins le citent en retour.
+- [ ] `GUIDE_ORDER` et `GUIDE_HUE` dans `build.py`, `DOSSIERS` dans `build-guides-complets.py`, `ORDRE_GUIDES` dans `build-index.py`.
+- [ ] En cas de renommage : les anciennes URL figurent dans `REDIRECTS` (`build.py`).
+
+### 5. Un renommage se fait toujours avec redirection
+
+Renommer un guide change son URL. Sans entrée dans `REDIRECTS`, tous les liens déjà partagés tombent en 404, y compris ceux qui circulent hors du site.

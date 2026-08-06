@@ -1,7 +1,7 @@
 ---
 projet: "Comprendre pour tous"
 type: "collection"
-guides: 8
+guides: 9
 chapitres: 82
 mots: 82123
 cree_le: 2026-07-21
@@ -37,6 +37,7 @@ J'écris chaque guide dans les deux sens. Celui sur le cycle féminin s'adresse 
 | [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 6 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV | [lire](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [lire](<0 - Guides complets/Massage professionnel.md>) |
 | [Questions et communication](<1 - Guides/Questions et communication/README.md>) | commun | 9 | Ce qu'une question fait, comment elles se classent, celles qui changent une vie | [lire](<0 - Guides complets/Questions et communication.md>) |
+| [Les émotions](<1 - Guides/Les emotions/README.md>) | commun | 11 | Fabrication, origines, nommer, décoder, réguler, troubles, parcours de soin, tabous | [lire](<0 - Guides complets/Les émotions.md>) |
 | [La rencontre](<1 - Guides/La rencontre/README.md>) | commun | 10 | Attirance, attachement, biais, applications, signaux d'alerte, sécurité | [lire](<0 - Guides complets/La rencontre.md>) |
 | [L'amour](<1 - Guides/L amour/README.md>) | commun | 9 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir, engagement | [lire](<0 - Guides complets/L'amour.md>) |
 | [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 7 | Trauma, hypervigilance, prises en charge, décider ensemble, tenir | [lire](<0 - Guides complets/Pour Nous.md>) |

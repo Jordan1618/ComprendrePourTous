@@ -34,6 +34,63 @@
     }
   }
 
+  /* ------------------------------- avis et contact (sans serveur) ----- */
+  /* Le site est statique : il ne peut rien enregistrer ni envoyer. Les
+     boutons composent un message pre-rempli dans la messagerie du visiteur.
+     L'adresse est assemblee ici plutot qu'ecrite dans le HTML, pour ne pas
+     etre aspiree telle quelle par les robots collecteurs. */
+  var MAIL = ["jordan.poncetpro", "gmail.com"].join("@");
+
+  function ouvrirMessage(sujet, corps) {
+    window.location.href = "mailto:" + MAIL +
+      "?subject=" + encodeURIComponent(sujet) +
+      "&body=" + encodeURIComponent(corps);
+  }
+
+  var LIBELLES = {
+    utile:     ["Retour positif", "Cette page m'a ete utile.\n\nCe qui m'a servi :\n"],
+    incomplet: ["Page incomplete", "Il me semble qu'il manque quelque chose sur cette page.\n\nCe que je cherchais :\n"],
+    erreur:    ["Signalement d'une erreur", "Je crois avoir repere une erreur.\n\nPassage concerne :\n\nCe qui me semble inexact :\n"],
+    ajout:     ["Proposition d'ajout", "Je propose un ajout sur cette page.\n\nSujet propose :\n\nPourquoi ce serait utile :\n"]
+  };
+
+  document.querySelectorAll(".feedback .fb").forEach(function (btn) {
+    btn.addEventListener("click", function () {
+      var bloc = btn.closest(".feedback");
+      var titre = bloc.getAttribute("data-title") || document.title;
+      var url = bloc.getAttribute("data-url") || location.pathname;
+      var l = LIBELLES[btn.getAttribute("data-avis")] || LIBELLES.utile;
+      ouvrirMessage(
+        "[Comprendre pour tous] " + l[0] + " \u2014 " + titre,
+        l[1] + "\n\n---\nPage : " + titre + "\n" + location.origin + url + "\n"
+      );
+      var note = bloc.querySelector(".feedback-note");
+      if (note) {
+        note.textContent = "Un message vient de s'ouvrir dans votre messagerie. "
+          + "S'il ne s'ouvre pas, ecrivez a " + MAIL + ".";
+      }
+    });
+  });
+
+  var cf = document.getElementById("contact-form");
+  if (cf) {
+    cf.addEventListener("submit", function (e) {
+      e.preventDefault();
+      var sujet = document.getElementById("cf-sujet").value;
+      var page = document.getElementById("cf-page").value.trim();
+      var msg = document.getElementById("cf-message").value.trim();
+      var info = document.getElementById("cf-fallback");
+      if (!msg) {
+        info.textContent = "Ecrivez d'abord un message.";
+        return;
+      }
+      ouvrirMessage("[Comprendre pour tous] " + sujet,
+                    msg + (page ? "\n\n---\nPage concernee : " + page : ""));
+      info.textContent = "Un message vient de s'ouvrir dans votre messagerie. "
+        + "S'il ne s'ouvre pas, ecrivez directement a " + MAIL + ".";
+    });
+  }
+
   /* --------------------------------------------------------- recherche */
   var input = document.getElementById("q");
   var results = document.getElementById("results");

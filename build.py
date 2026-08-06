@@ -58,6 +58,7 @@ GUIDE_ORDER = [
     "IST, depistage et prevention",
     "Massage professionnel",
     "Questions et communication",
+    "Les emotions",
     "La rencontre",
     "L amour",
     "Pour Nous",
@@ -71,6 +72,7 @@ FULL_GUIDE_ORDER = [
     "IST, dépistage et prévention",
     "Massage professionnel",
     "Questions et communication",
+    "Les émotions",
     "La rencontre",
     "L'amour",
     "Pour Nous",
@@ -80,6 +82,8 @@ FULL_GUIDE_ORDER = [
 SKIP_ROOT = {"README.md", "MAINTENANCE.md"}
 
 AUTEUR = "Jordan1618"
+CONTACT_USER = "jordan.poncetpro"
+CONTACT_DOMAIN = "gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/jordan-p-77a697228"
 
 # Teinte HSL par section et par guide. Le CSS derive tout seul l'accent
@@ -101,6 +105,7 @@ GUIDE_HUE = {
     "la-rencontre": 8,
     "l-amour": 348,
     "pour-nous": 196,
+    "les-emotions": 48,
 }
 
 # Illustrations : SVG en ligne, decoratifs, qui prennent la teinte de la
@@ -713,6 +718,7 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
      <a href="%(linkedin)s" target="_blank" rel="noopener">LinkedIn</a>.</p>
   <nav class="footer-links" aria-label="Liens de bas de page">
     <a href="/licence/">Licence CC BY 4.0</a>
+    <a href="/contact/">Contact</a>
     <a href="/mentions-legales/">Mentions légales</a>
     <a href="/confidentialite/">Confidentialité</a>
     <a href="/index-alphabetique/">Index</a>
@@ -760,6 +766,25 @@ def breadcrumb(page, by_url):
     parts.append('<span>/</span><span class="here">%s</span>' % esc(page.title))
     parts.append("</nav>")
     return "".join(parts)
+
+
+def feedback_block(title, url):
+    """Bloc d'avis. Sans serveur, un site statique ne peut rien enregistrer :
+    chaque bouton compose un message pre-rempli dans la messagerie du
+    visiteur. Rien n'est envoye automatiquement, rien n'est stocke."""
+    return (
+        '<section class="feedback" data-title="%s" data-url="%s">'
+        '<h2>Cette page vous a-t-elle été utile&nbsp;?</h2>'
+        '<div class="feedback-actions">'
+        '<button type="button" class="fb" data-avis="utile">Oui, utile</button>'
+        '<button type="button" class="fb" data-avis="incomplet">Incomplète</button>'
+        '<button type="button" class="fb" data-avis="erreur">Signaler une erreur</button>'
+        '<button type="button" class="fb" data-avis="ajout">Proposer un ajout</button>'
+        '</div>'
+        '<p class="feedback-note">Votre retour ouvre un message pré-rempli dans '
+        'votre application de courrier, avec le titre de la page. Rien n\'est '
+        'envoyé automatiquement et aucune donnée n\'est enregistrée ici.</p>'
+        '</section>' % (esc(title), esc(url)))
 
 
 def breadcrumb_simple(title):
@@ -944,6 +969,7 @@ def render_guide(guide, by_url, nav):
     body.append('<p class="source"><a href="%s" target="_blank" rel="noopener">'
                 'Voir ce dossier sur GitHub</a></p>' % gh_tree(guide.folder))
     body.append("</article>")
+    body.append(feedback_block(guide.title, guide.url))
     return layout(guide.title, excerpt(guide.html) or guide.title,
                   "".join(body), nav, guide.url, hue=guide.hue)
 
@@ -958,6 +984,7 @@ def render_page(page, by_url, nav):
     body.append(source_link(page))
     body.append("</article>")
     body.append(prev_next_html(page, by_url))
+    body.append(feedback_block(page.title, page.url))
     return layout(page.title, excerpt(page.html) or page.title,
                   "".join(body), nav, page.url, hue=page.hue)
 
@@ -1008,6 +1035,60 @@ def render_index_az(pages, nav):
     body.append("</article>")
     return layout("Index alphabétique", "Toutes les pages classées par titre.",
                   "".join(body), nav, "/index-alphabetique/")
+
+
+def render_contact(nav):
+    body = ['<article class="prose legal">']
+    body.append(breadcrumb_simple("Contact"))
+    body.append("<h1>Me contacter</h1>")
+    body.append("""
+<p class="lead">Une erreur à signaler, une précision à apporter, un sujet à
+proposer&nbsp;: c'est la contribution la plus utile qu'on puisse faire à ce
+projet, et je réponds.</p>
+
+<h2>Écrire un message</h2>
+<p>Ce site est entièrement statique&nbsp;: il n'a pas de serveur, donc pas de
+boîte de réception. Le formulaire ci-dessous <strong>prépare un message dans
+votre application de courrier</strong>, que vous relisez et envoyez
+vous-même. Rien ne transite par ce site, et rien n'y est enregistré.</p>
+
+<form class="contact-form" id="contact-form">
+  <label for="cf-sujet">Sujet</label>
+  <select id="cf-sujet">
+    <option value="Signalement d'une erreur">Signaler une erreur</option>
+    <option value="Proposition d'ajout">Proposer un ajout ou un sujet</option>
+    <option value="Question">Poser une question</option>
+    <option value="Retour général">Retour général</option>
+  </select>
+  <label for="cf-page">Page concernée (facultatif)</label>
+  <input type="text" id="cf-page" placeholder="ex. Pour Elle, chapitre 4">
+  <label for="cf-message">Message</label>
+  <textarea id="cf-message" rows="7" placeholder="Votre message…"></textarea>
+  <button type="submit">Ouvrir dans ma messagerie</button>
+</form>
+<p class="muted" id="cf-fallback"></p>
+
+<h2>Autres moyens</h2>
+<ul>
+<li><a href="%(repo)s/issues" target="_blank" rel="noopener">Ouvrir un signalement sur GitHub</a>
+    — le plus pratique pour une correction précise&nbsp;: c'est public, daté, et
+    ça garde une trace de la discussion.</li>
+<li><a href="%(linkedin)s" target="_blank" rel="noopener">LinkedIn</a>.</li>
+</ul>
+
+<h2>Ce à quoi je ne peux pas répondre</h2>
+<p>Je ne suis ni médecin, ni psychologue, ni sexologue, et je ne peux donc pas
+répondre à une question personnelle de santé&nbsp;: symptôme, traitement,
+situation individuelle. Ce n'est pas un refus de principe, c'est une limite
+réelle, et une réponse de ma part serait au mieux inutile.</p>
+<p>Pour une situation qui vous inquiète maintenant&nbsp;: <strong>15</strong>
+(SAMU), <strong>3114</strong> (prévention du suicide, ouvert aussi aux
+proches), <strong>3919</strong> (violences faites aux femmes). Voir la page
+<a href="/transversal/signaux-d-alerte/">signaux d'alerte</a>.</p>
+""" % {"repo": REPO, "linkedin": LINKEDIN})
+    body.append("</article>")
+    return layout("Contact", "Signaler une erreur, proposer un ajout, poser une question.",
+                  "".join(body), nav, "/contact/", hue=174)
 
 
 def render_mentions(nav):
@@ -1200,6 +1281,7 @@ def main():
 
     write("/recherche/", render_search(nav_for("/recherche/")))
     write("/index-alphabetique/", render_index_az(pages, nav_for("/index-alphabetique/")))
+    write("/contact/", render_contact(nav_for("/contact/")))
     write("/mentions-legales/", render_mentions(nav_for("/mentions-legales/")))
     write("/confidentialite/", render_privacy(nav_for("/confidentialite/")))
     (OUT / "404.html").write_text(render_404(nav_for("/404/")), encoding="utf-8")
@@ -1247,7 +1329,7 @@ def main():
         "User-agent: *\nAllow: /\nSitemap: https://%s/sitemap.xml\n" % DOMAIN,
         encoding="utf-8")
 
-    urls = ["/", "/recherche/", "/index-alphabetique/",
+    urls = ["/", "/recherche/", "/index-alphabetique/", "/contact/",
             "/mentions-legales/", "/confidentialite/"] + [
         p.url for p in pages if p.kind in ("section", "guide", "page")]
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
