@@ -22,7 +22,7 @@ Aucune restriction supplémentaire ne peut être ajoutée : vous ne pouvez pas a
 ## Mention d'attribution recommandée
 
 > "Comprendre pour tous", par Jordan1618, sous licence CC BY 4.0.
-> https://github.com/Jordan1618/comprendre-pour-tous
+> https://www.comprendrepourtous.fr
 
 En cas de modification, ajouter la mention : contenu modifié à partir de l'original.
 
