@@ -1,6 +1,6 @@
 baseURL = 'https://jordan1618.github.io/ComprendrePourTous/'
 locale = 'fr-FR'
-title = 'Comprendre pour tous'
+title = 'Apollon'
 theme = 'hugo-book'
 
 enableGitInfo = false
