@@ -58,6 +58,9 @@ GUIDE_ORDER = [
     "IST, depistage et prevention",
     "Massage professionnel",
     "Questions et communication",
+    "La rencontre",
+    "L amour",
+    "Durer et construire",
 ]
 
 # Ordre d'affichage des fichiers de "0 - Guides complets".
@@ -68,10 +71,86 @@ FULL_GUIDE_ORDER = [
     "IST, dépistage et prévention",
     "Massage professionnel",
     "Questions et communication",
+    "La rencontre",
+    "L'amour",
+    "Durer et construire",
 ]
 
 # Fichiers de la racine qui ne sont pas publies comme pages.
 SKIP_ROOT = {"README.md", "MAINTENANCE.md"}
+
+AUTEUR = "Jordan1618"
+LINKEDIN = "https://www.linkedin.com/in/jordan-p-77a697228"
+
+# Teinte HSL par section et par guide. Le CSS derive tout seul l'accent
+# clair et l'accent sombre a partir de cette unique valeur, ce qui evite
+# de maintenir deux palettes par couleur.
+DEFAULT_HUE = 174
+SECTION_HUE = {
+    "guides": 174,
+    "guides-complets": 250,
+    "notions": 32,
+    "transversal": 292,
+}
+GUIDE_HUE = {
+    "cycle-et-sante-feminine": 338,
+    "sante-emotionnelle-masculine": 212,
+    "ist-depistage-et-prevention": 265,
+    "massage-professionnel": 18,
+    "questions-et-communication": 152,
+    "la-rencontre": 8,
+    "l-amour": 348,
+    "durer-et-construire": 196,
+}
+
+# Illustrations : SVG en ligne, decoratifs, qui prennent la teinte de la
+# page via currentColor. Aucun fichier image, aucune requete reseau.
+ILLOS = {
+    "guides": (
+        '<path d="M12 62V20c14-6 26-6 48 2v42c-22-8-34-8-48-2Z" fill="currentColor" opacity=".12"/>'
+        '<path d="M108 62V20c-14-6-26-6-48 2v42c22-8 34-8 48-2Z" fill="currentColor" opacity=".22"/>'
+        '<path d="M12 62V20c14-6 26-6 48 2v42c-22-8-34-8-48-2Zm96 0V20c-14-6-26-6-48 2v42c22-8 34-8 48-2Z"'
+        ' fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/>'
+        '<path d="M60 22v42" stroke="currentColor" stroke-width="2.5" opacity=".45"/>'
+    ),
+    "guides-complets": (
+        '<rect x="26" y="14" width="68" height="15" rx="4" fill="currentColor" opacity=".3"/>'
+        '<rect x="17" y="33" width="86" height="15" rx="4" fill="currentColor" opacity=".19"/>'
+        '<rect x="26" y="52" width="68" height="15" rx="4" fill="currentColor" opacity=".12"/>'
+        '<rect x="26" y="14" width="68" height="15" rx="4" fill="none" stroke="currentColor" stroke-width="2.5"/>'
+        '<rect x="17" y="33" width="86" height="15" rx="4" fill="none" stroke="currentColor" stroke-width="2.5"/>'
+    ),
+    "notions": (
+        '<path d="M27 57 59 25l33 23" fill="none" stroke="currentColor" stroke-width="2.5" opacity=".5"/>'
+        '<circle cx="27" cy="57" r="9" fill="currentColor" opacity=".18"/>'
+        '<circle cx="59" cy="25" r="11" fill="currentColor" opacity=".3"/>'
+        '<circle cx="92" cy="48" r="8" fill="currentColor" opacity=".18"/>'
+        '<circle cx="27" cy="57" r="9" fill="none" stroke="currentColor" stroke-width="2.5"/>'
+        '<circle cx="59" cy="25" r="11" fill="none" stroke="currentColor" stroke-width="2.5"/>'
+        '<circle cx="92" cy="48" r="8" fill="none" stroke="currentColor" stroke-width="2.5"/>'
+    ),
+    "transversal": (
+        '<circle cx="60" cy="40" r="26" fill="currentColor" opacity=".12"/>'
+        '<circle cx="60" cy="40" r="26" fill="none" stroke="currentColor" stroke-width="2.5"/>'
+        '<path d="M60 12v56M32 40h56" stroke="currentColor" stroke-width="2.5" opacity=".45"/>'
+        '<path d="m47 53 11-25 15 11-26 14Z" fill="currentColor" opacity=".55"/>'
+    ),
+}
+
+ANCHOR_SVG = (
+    '<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor"'
+    ' stroke-width="2.2" stroke-linecap="round" aria-hidden="true">'
+    '<path d="M10.5 13.5a4.5 4.5 0 0 0 6.4 0l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4l-1 1"/>'
+    '<path d="M13.5 10.5a4.5 4.5 0 0 0-6.4 0l-2.6 2.6a4.5 4.5 0 0 0 6.4 6.4l1-1"/></svg>'
+)
+
+
+def illo(name, cls="illo"):
+    shapes = ILLOS.get(name)
+    if not shapes:
+        return ""
+    return ('<svg class="%s" viewBox="0 0 120 80" aria-hidden="true" focusable="false">%s</svg>'
+            % (cls, shapes))
 
 
 # --------------------------------------------------------------------------
@@ -255,8 +334,8 @@ class Markdown(object):
                     self.headings.append((level, hid, re.sub(r"[*`]", "", raw)))
                 out.append(
                     '<h%d id="%s">%s<a class="anchor" href="#%s" '
-                    'aria-label="Lien vers cette section">#</a></h%d>'
-                    % (level, hid, self.inline(raw), hid, level))
+                    'aria-label="Lien direct vers cette section">%s</a></h%d>'
+                    % (level, hid, self.inline(raw), hid, ANCHOR_SVG, level))
                 i += 1
                 continue
 
@@ -380,6 +459,8 @@ class Markdown(object):
 # --------------------------------------------------------------------------
 
 class Page(object):
+    hue = DEFAULT_HUE
+
     def __init__(self, src, url, title, section, fm, body,
                  weight=0, parent=None, kind="page"):
         self.src = src            # Path relatif a ROOT, ou None
@@ -427,6 +508,7 @@ def discover():
                            weight=si, parent="/", kind="section"))
         section.description = desc
         section.folder = folder
+        section.hue = SECTION_HUE.get(slug, DEFAULT_HUE)
 
         subdirs = sorted([p for p in src_dir.iterdir() if p.is_dir()],
                          key=lambda p: (GUIDE_ORDER.index(p.name)
@@ -439,10 +521,12 @@ def discover():
                 g_fm, g_body = parse_front_matter(g_readme.read_text(encoding="utf-8"))
                 g_src = g_readme.relative_to(ROOT)
             g_title = g_fm.get("guide") or d.name
-            guide = add(Page(g_src, "%s%s/" % (section_url, slugify(d.name)),
+            g_slug = slugify(d.name)
+            guide = add(Page(g_src, "%s%s/" % (section_url, g_slug),
                              g_title, slug, g_fm, g_body,
                              weight=gi, parent=section_url, kind="guide"))
             guide.folder = str(d.relative_to(ROOT)).replace("\\", "/")
+            guide.hue = GUIDE_HUE.get(g_slug, section.hue)
             section.children.append(guide)
 
             chapters = [p for p in d.iterdir()
@@ -456,6 +540,7 @@ def discover():
                                 "%s%s/" % (guide.url, slugify(rest)),
                                 title_, slug, fm, body,
                                 weight=ci, parent=guide.url))
+                page.hue = guide.hue
                 guide.children.append(page)
 
         files = [p for p in src_dir.iterdir()
@@ -474,6 +559,7 @@ def discover():
                             "%s%s/" % (section_url, slugify(p.stem)),
                             title_, slug, fm, body,
                             weight=fi, parent=section_url))
+            page.hue = GUIDE_HUE.get(slugify(p.stem), section.hue)
             section.children.append(page)
 
     # Licence
@@ -522,7 +608,13 @@ def make_resolver(page, by_src):
 
 def nav_html(pages, current_url):
     sections = [p for p in pages if p.kind == "section"]
-    out = ['<ul class="nav-root">']
+    out = ['<a class="nav-home%s" href="/">'
+           '<svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor"'
+           ' stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+           '<path d="M3 10.5 12 3l9 7.5"/><path d="M5.5 9.5V20h13V9.5"/></svg>'
+           '<span>Accueil</span></a>'
+           % (" active" if current_url == "/" else "")]
+    out.append('<ul class="nav-root">')
     for sec in sorted(sections, key=lambda p: p.weight):
         open_sec = current_url.startswith(sec.url)
         out.append("<li>")
@@ -555,7 +647,7 @@ def nav_html(pages, current_url):
     return "".join(out)
 
 
-def layout(title, description, body, nav, current_url, extra_head=""):
+def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAULT_HUE):
     full_title = SITE_TITLE if current_url == "/" else "%s · %s" % (title, SITE_TITLE)
     canonical = "https://%s%s" % (DOMAIN, current_url)
     return """<!doctype html>
@@ -576,7 +668,7 @@ def layout(title, description, body, nav, current_url, extra_head=""):
 <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
 %(extra_head)s
 </head>
-<body>
+<body style="--hue: %(hue)d">
 <a class="skip" href="#contenu">Aller au contenu</a>
 <input type="checkbox" id="nav-toggle" hidden>
 <header class="topbar">
@@ -593,10 +685,17 @@ def layout(title, description, body, nav, current_url, extra_head=""):
   <main id="contenu">%(body)s</main>
 </div>
 <footer class="footer">
-  <p><strong>%(site)s</strong> — %(tagline)s</p>
-  <p>Textes sous licence <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target="_blank" rel="noopener">CC BY 4.0</a> ·
-     <a href="%(repo)s" target="_blank" rel="noopener">Dépôt GitHub</a> ·
-     <a href="/licence/">Licence</a></p>
+  <p class="footer-brand"><strong>%(site)s</strong> — %(tagline)s</p>
+  <p class="footer-author">Tout a été fait par <strong>%(auteur)s</strong>. Vous pouvez me contacter sur
+     <a href="%(repo)s" target="_blank" rel="noopener">GitHub</a> ou sur
+     <a href="%(linkedin)s" target="_blank" rel="noopener">LinkedIn</a>.</p>
+  <nav class="footer-links" aria-label="Liens de bas de page">
+    <a href="/licence/">Licence CC BY 4.0</a>
+    <a href="/mentions-legales/">Mentions légales</a>
+    <a href="/confidentialite/">Confidentialité</a>
+    <a href="/index-alphabetique/">Index</a>
+    <a href="/recherche/">Rechercher</a>
+  </nav>
   <p class="disclaimer">Rien ici n'est un avis médical individualisé. Pour toute situation concrète, un professionnel de santé reste irremplaçable.</p>
 </footer>
 <script src="/assets/app.js" defer></script>
@@ -609,6 +708,9 @@ def layout(title, description, body, nav, current_url, extra_head=""):
         "site": esc(SITE_TITLE),
         "tagline": esc(TAGLINE),
         "repo": REPO,
+        "auteur": esc(AUTEUR),
+        "linkedin": LINKEDIN,
+        "hue": hue,
         "nav": nav,
         "body": body,
         "extra_head": extra_head,
@@ -636,6 +738,11 @@ def breadcrumb(page, by_url):
     parts.append('<span>/</span><span class="here">%s</span>' % esc(page.title))
     parts.append("</nav>")
     return "".join(parts)
+
+
+def breadcrumb_simple(title):
+    return ('<nav class="crumbs" aria-label="Fil d\'ariane"><a href="/">Accueil</a>'
+            '<span>/</span><span class="here">%s</span></nav>' % esc(title))
 
 
 def meta_bar(page):
@@ -733,9 +840,10 @@ def render_home(home, pages, by_url, nav):
         count = len(sec.children)
         label = "guides" if sec.section == "guides" else "pages"
         cards.append(
-            '<a class="card" href="%s"><h2>%s</h2><p>%s</p>'
+            '<a class="card" href="%s" style="--hue: %d">%s<h2>%s</h2><p>%s</p>'
             '<span class="card-meta">%d %s</span></a>'
-            % (sec.url, esc(sec.title), esc(sec.description), count, label))
+            % (sec.url, sec.hue, illo(sec.section), esc(sec.title),
+               esc(sec.description), count, label))
 
     body = ['<div class="hero">']
     body.append("<h1>%s</h1>" % esc(SITE_TITLE))
@@ -756,8 +864,10 @@ def render_home(home, pages, by_url, nav):
 def render_section(sec, by_url, nav):
     body = ['<article class="prose">']
     body.append(breadcrumb(sec, by_url))
-    body.append("<h1>%s</h1>" % esc(sec.title))
-    body.append('<p class="lead">%s</p>' % esc(sec.description))
+    body.append('<div class="page-head">%s<div><h1>%s</h1>'
+                '<p class="lead">%s</p></div></div>'
+                % (illo(sec.section, "illo illo-head"), esc(sec.title),
+                   esc(sec.description)))
     if sec.html:
         body.append('<div class="section-intro">%s</div>' % sec.html)
 
@@ -768,9 +878,11 @@ def render_section(sec, by_url, nav):
         cards = []
         for g in guides:
             cards.append(
-                '<a class="card" href="%s"><h2>%s</h2><p>%s</p>'
+                '<a class="card card-guide" href="%s" style="--hue: %d">'
+                '<span class="card-dot"></span><h2>%s</h2><p>%s</p>'
                 '<span class="card-meta">%d chapitres</span></a>'
-                % (g.url, esc(g.title), esc(excerpt(g.html, 150)), len(g.children)))
+                % (g.url, g.hue, esc(g.title), esc(excerpt(g.html, 150)),
+                   len(g.children)))
         body.append('<div class="cards">%s</div>' % "".join(cards))
 
     if leaves:
@@ -787,7 +899,8 @@ def render_section(sec, by_url, nav):
     body.append('<p class="source"><a href="%s" target="_blank" rel="noopener">'
                 'Voir ce dossier sur GitHub</a></p>' % gh_tree(sec.folder))
     body.append("</article>")
-    return layout(sec.title, sec.description, "".join(body), nav, sec.url)
+    return layout(sec.title, sec.description, "".join(body), nav, sec.url,
+                  hue=sec.hue)
 
 
 def render_guide(guide, by_url, nav):
@@ -810,7 +923,7 @@ def render_guide(guide, by_url, nav):
                 'Voir ce dossier sur GitHub</a></p>' % gh_tree(guide.folder))
     body.append("</article>")
     return layout(guide.title, excerpt(guide.html) or guide.title,
-                  "".join(body), nav, guide.url)
+                  "".join(body), nav, guide.url, hue=guide.hue)
 
 
 def render_page(page, by_url, nav):
@@ -824,7 +937,7 @@ def render_page(page, by_url, nav):
     body.append("</article>")
     body.append(prev_next_html(page, by_url))
     return layout(page.title, excerpt(page.html) or page.title,
-                  "".join(body), nav, page.url)
+                  "".join(body), nav, page.url, hue=page.hue)
 
 
 def render_search(nav):
@@ -873,6 +986,142 @@ def render_index_az(pages, nav):
     body.append("</article>")
     return layout("Index alphabétique", "Toutes les pages classées par titre.",
                   "".join(body), nav, "/index-alphabetique/")
+
+
+def render_mentions(nav):
+    body = ['<article class="prose legal">']
+    body.append(breadcrumb_simple("Mentions légales"))
+    body.append("<h1>Mentions légales</h1>")
+    body.append("""
+<h2>Éditeur du site</h2>
+<p>Ce site est édité à titre personnel et non commercial par <strong>%(auteur)s</strong>,
+personne physique, qui en assure la rédaction et la publication.</p>
+<p>Contact : <a href="%(repo)s/issues" target="_blank" rel="noopener">signaler une erreur ou
+écrire via GitHub</a>, ou <a href="%(linkedin)s" target="_blank" rel="noopener">LinkedIn</a>.</p>
+<p>Directeur de la publication : %(auteur)s.</p>
+
+<h2>Hébergement</h2>
+<p>Le site est hébergé par <strong>GitHub Pages</strong> — GitHub, Inc., 88 Colin P. Kelly Jr.
+Street, San Francisco, CA 94107, États-Unis
+(<a href="https://github.com" target="_blank" rel="noopener">github.com</a>).</p>
+<p>Le nom de domaine est enregistré chez <strong>OVH SAS</strong>, 2 rue Kellermann,
+59100 Roubaix, France.</p>
+
+<h2>Propriété intellectuelle et réutilisation</h2>
+<p>Les textes sont publiés sous licence
+<a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target="_blank" rel="noopener">Creative
+Commons Attribution 4.0 International (CC BY 4.0)</a>. Vous pouvez les copier, les modifier, les
+traduire et les rediffuser, y compris à des fins commerciales, à condition de citer le projet et
+son auteur et d'indiquer si des modifications ont été apportées. Voir la
+<a href="/licence/">page de licence</a> pour la mention d'attribution à reprendre.</p>
+<p>Le code source du site est consultable
+<a href="%(repo)s" target="_blank" rel="noopener">sur GitHub</a>.</p>
+
+<h2>Nature du contenu et responsabilité</h2>
+<p>Ce site a une vocation strictement <strong>éducative et informative</strong>. Son auteur n'est
+ni médecin, ni psychologue, ni sexologue, et le déclare ouvertement. Les contenus publiés sont des
+synthèses sourcées et datées, rédigées avec assistance d'intelligence artificielle puis vérifiées
+et relues.</p>
+<p><strong>Rien sur ce site ne constitue un avis médical, psychologique ou juridique
+individualisé</strong>, ni un diagnostic, ni une prescription. Aucune information lue ici ne
+remplace la consultation d'un professionnel qualifié ayant examiné une situation réelle. L'auteur
+ne saurait être tenu responsable de l'usage fait de ces informations.</p>
+<p>Les données chiffrées portent leur date de vérification. Une donnée peut avoir été mise à jour
+par la recherche depuis sa publication.</p>
+
+<h2>En cas d'urgence</h2>
+<p><strong>15</strong> (SAMU) pour une urgence médicale. <strong>3114</strong> pour la prévention
+du suicide, gratuit, 24 h/24 et 7 j/7, accessible aussi bien à la personne concernée qu'à un
+proche inquiet. Voir la page <a href="/transversal/signaux-d-alerte/">signaux d'alerte</a>.</p>
+
+<h2>Liens externes</h2>
+<p>Ce site renvoie vers des ressources externes (institutions de santé, associations, publications
+scientifiques). Leur contenu n'engage que leurs éditeurs respectifs.</p>
+
+<h2>Signaler une erreur</h2>
+<p>Toute erreur signalée est corrigée. C'est la contribution la plus utile qu'un lecteur puisse
+apporter : <a href="%(repo)s/issues" target="_blank" rel="noopener">ouvrir un signalement</a>.</p>
+""" % {"auteur": esc(AUTEUR), "repo": REPO, "linkedin": LINKEDIN})
+    body.append("</article>")
+    return layout("Mentions légales",
+                  "Éditeur, hébergeur, licence et responsabilité éditoriale du site.",
+                  "".join(body), nav, "/mentions-legales/", hue=292)
+
+
+def render_privacy(nav):
+    body = ['<article class="prose legal">']
+    body.append(breadcrumb_simple("Confidentialité"))
+    body.append("<h1>Confidentialité et données personnelles</h1>")
+    body.append("""
+<p class="lead">Ce site ne collecte aucune donnée personnelle, n'utilise aucun cookie et
+n'embarque aucun outil de mesure d'audience. Le détail ci-dessous explique ce que cela implique
+concrètement.</p>
+
+<h2>Aucune collecte, aucun cookie</h2>
+<p>Ce site est entièrement <strong>statique</strong> : ce sont des fichiers HTML pré-calculés,
+servis tels quels. Il n'y a ni base de données, ni compte utilisateur, ni formulaire de contact,
+ni commentaire, ni newsletter.</p>
+<ul>
+<li><strong>Aucun cookie</strong> n'est déposé, ni technique, ni publicitaire. C'est pourquoi
+aucune bannière de consentement ne vous est présentée : il n'y a rien à consentir.</li>
+<li><strong>Aucun traceur ni mesure d'audience</strong> : pas de Google Analytics, pas de pixel,
+pas de service tiers de statistiques.</li>
+<li><strong>Aucune ressource externe</strong> : les styles, le script et les illustrations sont
+servis depuis ce domaine. Aucune police ni bibliothèque n'est chargée depuis un serveur tiers,
+donc aucun tiers ne voit votre visite.</li>
+<li><strong>Aucune publicité</strong>, aucun partage ni revente de données.</li>
+</ul>
+
+<h2>Ce qui reste stocké dans votre navigateur</h2>
+<p>Une seule information est conservée, <strong>sur votre appareil uniquement</strong> : votre
+préférence de thème clair ou sombre, enregistrée dans le stockage local du navigateur
+(<code>localStorage</code>) sous la clé <code>theme</code>. Elle n'est jamais transmise, ne permet
+aucune identification, et disparaît si vous videz les données du site.</p>
+
+<h2>Journaux techniques de l'hébergeur</h2>
+<p>Le site est hébergé par <strong>GitHub Pages</strong>. Comme tout serveur web, GitHub peut
+enregistrer des journaux techniques de connexion (adresse IP, date, page demandée, type de
+navigateur) à des fins de sécurité et de fonctionnement du service. Ce traitement relève de
+GitHub, Inc. en tant que responsable, et non de l'éditeur de ce site, qui n'y a pas accès et n'en
+tire aucune statistique.</p>
+<p>Voir la
+<a href="https://docs.github.com/fr/site-policy/privacy-policies/github-privacy-statement" target="_blank" rel="noopener">déclaration
+de confidentialité de GitHub</a> et sa
+<a href="https://docs.github.com/fr/pages/getting-started-with-github-pages/what-is-github-pages#data-collection" target="_blank" rel="noopener">note
+sur la collecte de données de GitHub Pages</a>.</p>
+<p>GitHub, Inc. étant établi aux États-Unis, ces journaux peuvent impliquer un transfert de
+données hors de l'Union européenne, encadré par les clauses contractuelles types de la Commission
+européenne et le cadre de protection des données UE–États-Unis.</p>
+
+<h2>Vos droits (RGPD)</h2>
+<p>Le règlement (UE) 2016/679 vous ouvre des droits d'accès, de rectification, d'effacement,
+d'opposition, de limitation et de portabilité sur vos données personnelles.</p>
+<p>L'éditeur de ce site <strong>ne détenant aucune donnée personnelle vous concernant</strong>, il
+n'a matériellement rien à vous communiquer, rectifier ou effacer. Pour les journaux techniques
+mentionnés ci-dessus, ces droits s'exercent auprès de GitHub, Inc.</p>
+<p>Pour toute question, vous pouvez écrire via
+<a href="%(repo)s/issues" target="_blank" rel="noopener">GitHub</a> ou
+<a href="%(linkedin)s" target="_blank" rel="noopener">LinkedIn</a>. Vous avez également le droit
+d'introduire une réclamation auprès de la
+<a href="https://www.cnil.fr" target="_blank" rel="noopener">CNIL</a>.</p>
+
+<h2>Ce que vous lisez ici ne quitte pas votre appareil</h2>
+<p>Ce point mérite d'être dit explicitement, vu les sujets traités sur ce site : santé, sexualité,
+santé mentale, dépistage. <strong>Personne, y compris l'auteur, ne peut savoir quelles pages vous
+consultez</strong>, combien de temps, ni ce que vous recherchez. La recherche du site s'exécute
+entièrement dans votre navigateur : votre requête n'est envoyée à aucun serveur.</p>
+<p>Seule réserve, valable pour n'importe quel site : votre fournisseur d'accès et l'hébergeur
+voient qu'une connexion a lieu vers ce domaine. Si vous consultez ce site depuis un appareil
+partagé, la navigation privée reste la précaution la plus simple.</p>
+
+<h2>Modification de cette page</h2>
+<p>Toute évolution de ces pratiques sera publiée ici. L'historique complet des modifications est
+consultable <a href="%(repo)s/commits/main" target="_blank" rel="noopener">dans le dépôt</a>.</p>
+""" % {"repo": REPO, "linkedin": LINKEDIN})
+    body.append("</article>")
+    return layout("Confidentialité",
+                  "Aucune donnée collectée, aucun cookie, aucun traceur. Détail et droits RGPD.",
+                  "".join(body), nav, "/confidentialite/", hue=292)
 
 
 def render_404(nav):
@@ -929,6 +1178,8 @@ def main():
 
     write("/recherche/", render_search(nav_for("/recherche/")))
     write("/index-alphabetique/", render_index_az(pages, nav_for("/index-alphabetique/")))
+    write("/mentions-legales/", render_mentions(nav_for("/mentions-legales/")))
+    write("/confidentialite/", render_privacy(nav_for("/confidentialite/")))
     (OUT / "404.html").write_text(render_404(nav_for("/404/")), encoding="utf-8")
 
     # Index de recherche (les guides complets dupliquent les chapitres)
@@ -959,7 +1210,8 @@ def main():
         "User-agent: *\nAllow: /\nSitemap: https://%s/sitemap.xml\n" % DOMAIN,
         encoding="utf-8")
 
-    urls = ["/", "/recherche/", "/index-alphabetique/"] + [
+    urls = ["/", "/recherche/", "/index-alphabetique/",
+            "/mentions-legales/", "/confidentialite/"] + [
         p.url for p in pages if p.kind in ("section", "guide", "page")]
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
                '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']

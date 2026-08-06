@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sources"
-mis_a_jour_le: 2026-08-05
+mis_a_jour_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
 
@@ -15,13 +15,16 @@ Quand une donnée est débattue ou incertaine, le texte donne une fourchette et 
 
 ## État par guide
 
-| Guide | Rédigé | Dernière vérification | À revoir |
-|---|---|---|---|
-| [Cycle et santé féminine](<../1 - Guides/Cycle et sante feminine/README.md>) | 21 juillet 2026 | 27 juillet 2026 | janvier 2027 |
-| [Santé émotionnelle masculine](<../1 - Guides/Sante emotionnelle masculine/README.md>) | juillet 2026 | 31 juillet 2026 | janvier 2027 |
-| [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | 21 juillet 2026 | 27 juillet 2026 | janvier 2027 |
-| [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | 21 juillet 2026 | 21 juillet 2026 | à revoir |
-| [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | 4 août 2026 | 4 août 2026 | février 2027 |
+| Guide | Rédigé | Dernière vérification |
+|---|---|---|
+| [Cycle et santé féminine](<../1 - Guides/Cycle et sante feminine/README.md>) | 21 juillet 2026 | 27 juillet 2026 |
+| [Santé émotionnelle masculine](<../1 - Guides/Sante emotionnelle masculine/README.md>) | juillet 2026 | 31 juillet 2026 |
+| [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | 21 juillet 2026 | 27 juillet 2026 |
+| [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | 21 juillet 2026 | 21 juillet 2026 |
+| [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | 4 août 2026 | 4 août 2026 |
+| [La rencontre](<../1 - Guides/La rencontre/README.md>) | 6 août 2026 | 6 août 2026 |
+| [L'amour](<../1 - Guides/L amour/README.md>) | 6 août 2026 | 6 août 2026 |
+| [Durer et construire](<../1 - Guides/Durer et construire/README.md>) | 6 août 2026 | 6 août 2026 |
 
 ## Ce qui bouge vite et demande une surveillance
 

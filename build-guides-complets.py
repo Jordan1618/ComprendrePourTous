@@ -22,6 +22,9 @@ DOSSIERS = [
     "IST, depistage et prevention",
     "Massage professionnel",
     "Questions et communication",
+    "La rencontre",
+    "L amour",
+    "Durer et construire",
 ]
 
 def lire_frontmatter(texte):
@@ -36,6 +39,22 @@ def lire_frontmatter(texte):
             cle, val = ligne.split(":", 1)
             fm[cle.strip()] = val.strip().strip('"')
     return fm, corps
+
+def reecrire_liens(texte):
+    """Recale les liens relatifs vers le dossier des versions integrales.
+
+    Un chapitre vit dans "1 - Guides/<Guide>/", le fichier complet dans
+    "0 - Guides complets/". Les chemins relatifs ecrits dans les chapitres
+    doivent donc etre decales d'un cran, sinon ils pointent dans le vide,
+    aussi bien sur le site que sur GitHub.
+    """
+    JETON = "\x00"
+    # ../../X depuis un chapitre = racine du depot -> ../X depuis l'integrale
+    texte = texte.replace("](<../../", "](<" + JETON)
+    # ../X depuis un chapitre = un autre guide -> ../1 - Guides/X
+    texte = texte.replace("](<../", "](<../1 - Guides/")
+    return texte.replace("](<" + JETON, "](<../")
+
 
 def tri_chapitre(nom):
     """01 -> (1,0) ; 02b -> (2,1) ; 10b -> (10,1)"""
@@ -108,6 +127,7 @@ for dossier in DOSSIERS:
     entete += ["", "---", "", ""]
 
     contenu = "\n".join(entete) + "\n\n---\n\n".join(parties) + "\n"
+    contenu = reecrire_liens(contenu)
 
     nom = "%s.md" % guide.replace("/", "-")
     open(os.path.join(COMPLETS, nom), "w", encoding="utf-8").write(contenu)
