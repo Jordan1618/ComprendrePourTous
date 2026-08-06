@@ -29,6 +29,11 @@ Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérifi
 | La réaction aux bonnes nouvelles prédit la satisfaction du couple (6.3) | Gable et coll., travaux sur la capitalisation | 6 août 2026 |
 | Effet de la nouveauté partagée sur la qualité relationnelle (2.4, 7.4) | Aron et coll., travaux sur l'auto-expansion | 6 août 2026 |
 | Modèle du double contrôle : accélérateur et frein (7.1) | Bancroft & Janssen, Institut Kinsey ; vulgarisé par Emily Nagoski | 6 août 2026 |
+| Éros né de Poros et Pénia, échelle du beau (2b.2, 2b.4) | Platon, *Le Banquet* | 6 août 2026 |
+| Les trois amitiés : utilité, plaisir, vertu ; philautia (2b.2) | Aristote, *Éthique à Nicomaque*, livres VIII et IX | 6 août 2026 |
+| L'amour comme joie accompagnée de l'idée d'une cause extérieure (2b.4) | Spinoza, *Éthique*, livre III | 6 août 2026 |
+| L'amour comme capacité à développer, ses quatre composantes (2b.4) | Fromm, *L'art d'aimer*, 1956 | 6 août 2026 |
+| Six styles amoureux : éros, ludus, storgê, mania, pragma, agapè (2b.5) | Lee, 1973 ; échelle validée par Hendrick & Hendrick, 1986 | 6 août 2026 |
 
 ## Références juridiques françaises
 
@@ -41,6 +46,8 @@ Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérifi
 
 ## Affirmations sans source précise identifiée
 
+- **Liste canonique des « sept amours grecs »** (2b.2). Elle circule partout mais constitue une reconstruction moderne : les usages de ces mots variaient selon les auteurs et les époques. Présentée dans le guide comme une grille utile, explicitement pas comme une vérité philologique.
+- **Ampleur des effets des styles amoureux de Lee** (2b.5). Les associations (éros et agapè liés à plus de satisfaction, ludus à moins) sont retrouvées dans plusieurs travaux, mais je n'avance aucune taille d'effet.
 - **Durée de la phase passionnelle** (2.2). La fourchette de douze à vingt-quatre mois est un ordre de grandeur récurrent dans la littérature, mais les valeurs varient selon les instruments de mesure. Aucun chiffre unique n'est avancé pour cette raison.
 - **Chiffres précis de Gottman** (6.3). Les taux souvent cités (ratio 5 pour 1, pourcentages de prédiction du divorce) sont contestés sur le plan méthodologique. Seuls les principes, confirmés par d'autres équipes, sont retenus ici, sans les chiffres.
 - **Interprétation des données d'imagerie cérébrale** (1.3). Le champ est sujet à sur-interprétation ; seule la parenté fonctionnelle entre amour naissant et systèmes de motivation est affirmée.

@@ -65,10 +65,36 @@ Remplace l'ancienne logique "domaines de vie" (couple, famille, travail...) par 
 Élicitation en pratique :
 
 * Toujours demander, même si des angles ou des domaines ont déjà été nommés dans la demande — la question confirme et affine plutôt que de deviner à la place.
+* **Toujours présenter deux sources de choix côte à côte** : les angles et thématiques déjà présents dans le dépôt (relevés par l'inventaire décrit plus bas) et les angles suggérés depuis la grille. L'interlocuteur choisit dans les deux, et peut évidemment en ajouter.
+* **Toujours poser la question de recoupement** avant de créer un guide : oui ou non, faut-il vérifier si d'autres guides traitent déjà le sujet ? Poser la question même quand la réponse semble évidente.
 * Présenter d'abord les 10 familles, pas les 100 angles individuels d'un coup (illisible). Il ne s'agit pas de faire prioriser entre les familles : chaque famille pertinente pour le sujet du guide doit être proposée, sans hiérarchie imposée. La seule question qui compte est la pertinence par rapport à la demande et au sujet, pas un choix à trancher entre familles qui seraient toutes valables.
 * Une fois la ou les familles retenues, proposer les angles précis qu'elles contiennent pour affiner.
 * Pas de limite au nombre d'angles retenus pour un guide donné — si le sujet le justifie, traiter autant d'angles que nécessaire plutôt que de couper arbitrairement.
 * Quand deux angles se recoupent sur un même sujet (ex : sexologique et physiologique, ou juridique et institutionnel), ne pas choisir l'un au détriment de l'autre — les traiter tous les deux, chacun apportant un éclairage différent même sur une matière proche.
+
+Inventaire du dépôt — obligatoire, avant toute élicitation d'angles
+
+Avant de proposer quoi que ce soit, parcourir **tous** les dossiers du projet et en dresser l'état réel. Pas de mémoire, pas de supposition : lire ce qui existe.
+
+* `1 - Guides/` : chaque dossier de guide, son README, ses chapitres, et le `guide`, `sujet`, `angle` de chaque frontmatter.
+* `2 - Notions/` : quelles notions existent déjà.
+* `3 - Transversal/` : les index, le glossaire, les signaux d'alerte, les sources.
+* `0 - Guides complets/` : les versions intégrales, qui sont des artefacts régénérés.
+
+Cet inventaire sert trois choses, toutes obligatoires.
+
+**Un — la vérification de recoupement.** Avant de lancer un nouveau guide, chercher si le sujet est déjà traité, même partiellement, ailleurs. Puis **demander explicitement par oui ou non** : « d'autres guides abordent déjà ceci — voulez-vous que je vérifie les recoupements et que je vous propose soit d'enrichir l'existant, soit de délimiter clairement les périmètres ? ». Ne jamais créer un guide qui doublonne sans avoir posé la question. Si le recoupement est massif, le dire et recommander l'enrichissement ou le renommage plutôt qu'un guide de plus.
+
+**Deux — la liste des angles et thématiques déjà présents.** Au moment de l'élicitation, présenter systématiquement, en plus des propositions issues de la grille des 100 angles, **la liste des angles et thématiques réellement présents dans le dépôt**, extraits du frontmatter existant. L'interlocuteur choisit donc parmi deux sources : ce qui existe déjà (pour prolonger, croiser ou approfondir) et ce qui est suggéré (pour ouvrir). Ne jamais proposer uniquement ses propres suggestions.
+
+**Trois — la connexion.** Un guide n'est pas un silo. À chaque livraison, vérifier et mettre à jour les points de connexion, puis le dire explicitement dans le compte rendu :
+
+* les renvois croisés depuis et vers les guides voisins ;
+* les notions de `2 - Notions/` citées par le nouveau contenu — créer celles qui manquent, avec leur section « Où c'est développé » ;
+* les index de `3 - Transversal/` (par sujet, par angle, glossaire, sources) — les régénérer ou les compléter ;
+* le README racine et le README du guide.
+
+Un guide livré sans ces connexions est un guide inachevé, même si son texte est complet. Quand le projet dispose d'un script d'indexation, le lancer plutôt que de patcher les index à la main : un index tenu à la main finit toujours par diverger.
 
 Sourcing et dates
 * Vérifier et dater les faits avec la date système réelle du jour — pas une date vue ailleurs dans la conversation.
@@ -106,6 +132,8 @@ Ce qu'il faut éviter
 * Halluciner une statistique précise sans recherche — une fourchette honnête vaut mieux qu'un faux chiffre.
 * Réécrire une analogie déjà établie avec des mots différents "pour faire propre" — risque de contradiction subtile.
 * Traiter un gros document multi-chapitres comme "terminé" sans avoir vérifié concrètement quels chapitres ont réellement été faits.
+* **Livrer un guide sans avoir alimenté les notions et les index transversaux.** C'est l'oubli le plus facile et le plus fréquent : le texte est bon, le guide est dans son dossier, et rien ne pointe vers lui. Vérifier fichier par fichier, pas de mémoire.
+* **Créer un guide qui doublonne un guide existant** sans avoir posé la question du recoupement. Quand deux guides se recouvrent largement, enrichir ou renommer l'existant vaut mieux qu'en ajouter un.
 
 Si l'interlocuteur redirige
 * S'il dit que la portée visée était plus large que ce qui a été traité → confirmer la nouvelle portée et reprendre dessus, sans se justifier longuement.
@@ -116,4 +144,5 @@ Note de mise à jour
 * 3 août 2026 (v2) — remplacement de l'élicitation par domaines de vie par la grille des 100 angles d'analyse (10 familles de 10 : sciences du vivant, psychologie et esprit, économie et société, droit, pouvoir, stratégie, corps et intimité, philosophie et sens, communication et relation, contexte et environnement, risque, données, prévention, culture et expression). Ces angles sont transposables à n'importe quel sujet de guide, indépendamment du domaine de vie traité.
 * 3 août 2026 (v3) — élicitation systématique même si des angles ont déjà été nommés ; suppression de la limite de 4-8 angles par guide ; suppression de toute priorisation entre familles (seule la pertinence au sujet compte) ; recoupements entre angles proches traités en cumul plutôt qu'en arbitrage.
 * 3 août 2026 (v4) — ajout d'une section finale obligatoire "sources vérifiables" à tout guide produit par ce skill, regroupant l'ensemble des sources citées dans le document avec date de vérification.
+* 6 août 2026 (v6) — ajout de la section "Inventaire du dépôt", obligatoire avant toute élicitation. Origine : trois guides livrés dans `1 - Guides/` sans que `2 - Notions/` ni les index de `3 - Transversal/` soient alimentés, et un quatrième guide proposé alors qu'il doublonnait un guide existant. Trois règles nouvelles : parcourir tous les dossiers avant de proposer ; demander explicitement, par oui ou non, s'il faut vérifier les recoupements avec les guides déjà présents ; présenter à l'élicitation la liste des angles et thématiques réellement présents dans le dépôt, en plus des suggestions issues de la grille, pour que le choix se fasse dans les deux.
 * 3 août 2026 (v5) — seuil de longueur minimale par chapitre triplé : 2 500-3 000 mots devient 7 500-9 000 mots. Ce changement porte uniquement sur le gabarit par défaut que ce skill impose aux futurs guides générés — il ne s'applique pas rétroactivement au guide "Les questions qui font mouche" déjà produit, qui reste tel quel sauf demande explicite.

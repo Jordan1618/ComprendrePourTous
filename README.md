@@ -32,14 +32,14 @@ J'écris chaque guide dans les deux sens. Celui sur le cycle féminin s'adresse 
 
 | Guide | Sujet | Chapitres | Contenu | Intégrale |
 |---|---|---|---|---|
-| [Cycle et santé féminine](<1 - Guides/Cycle et sante feminine/README.md>) | corps féminin | 12 | Cycle, contraception, pathologies, sexualité, grossesse, post-partum | [lire](<0 - Guides complets/Cycle et santé féminine.md>) |
-| [Santé émotionnelle masculine](<1 - Guides/Sante emotionnelle masculine/README.md>) | corps masculin | 17 | Architecture émotionnelle, dépression, corps, sexualité, conflits, couple | [lire](<0 - Guides complets/Santé émotionnelle masculine.md>) |
+| [Pour Elle](<1 - Guides/Pour Elle/README.md>) | corps féminin | 12 | Cycle, contraception, pathologies, sexualité, grossesse, post-partum | [lire](<0 - Guides complets/Pour Elle.md>) |
+| [Pour Lui](<1 - Guides/Pour Lui/README.md>) | corps masculin | 17 | Architecture émotionnelle, dépression, corps, sexualité, conflits, couple | [lire](<0 - Guides complets/Pour Lui.md>) |
 | [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 6 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV | [lire](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [lire](<0 - Guides complets/Massage professionnel.md>) |
 | [Questions et communication](<1 - Guides/Questions et communication/README.md>) | commun | 9 | Ce qu'une question fait, comment elles se classent, celles qui changent une vie | [lire](<0 - Guides complets/Questions et communication.md>) |
 | [La rencontre](<1 - Guides/La rencontre/README.md>) | commun | 10 | Attirance, attachement, biais, applications, signaux d'alerte, sécurité | [lire](<0 - Guides complets/La rencontre.md>) |
 | [L'amour](<1 - Guides/L amour/README.md>) | commun | 9 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir, engagement | [lire](<0 - Guides complets/L'amour.md>) |
-| [Durer et construire](<1 - Guides/Durer et construire/README.md>) | commun | 7 | Trauma, hypervigilance, prises en charge, décider ensemble, tenir | [lire](<0 - Guides complets/Durer et construire.md>) |
+| [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 7 | Trauma, hypervigilance, prises en charge, décider ensemble, tenir | [lire](<0 - Guides complets/Pour Nous.md>) |
 
 Environ 82 100 mots au total.
 

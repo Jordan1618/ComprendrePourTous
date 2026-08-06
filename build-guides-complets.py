@@ -17,14 +17,14 @@ CHAPITRES = os.path.join(ROOT, "1 - Guides")
 COMPLETS = os.path.join(ROOT, "0 - Guides complets")
 
 DOSSIERS = [
-    "Cycle et sante feminine",
-    "Sante emotionnelle masculine",
+    "Pour Elle",
+    "Pour Lui",
     "IST, depistage et prevention",
     "Massage professionnel",
     "Questions et communication",
     "La rencontre",
     "L amour",
-    "Durer et construire",
+    "Pour Nous",
 ]
 
 def lire_frontmatter(texte):

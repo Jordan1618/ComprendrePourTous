@@ -48,7 +48,7 @@ Total : 10 812 mots, 10 chapitres.
 
 ## La suite
 
-Ce guide s'arrête là où la relation commence. Deux autres prennent le relais : [L'amour](<../L amour/README.md>) sur ce qu'est l'amour et ce qu'il devient quand l'intensité du début se transforme, et [Durer et construire](<../Durer et construire/README.md>) sur les projets communs, y compris avec des traumas ou des appréhensions.
+Ce guide s'arrête là où la relation commence. Deux autres prennent le relais : [L'amour](<../L amour/README.md>) sur ce qu'est l'amour et ce qu'il devient quand l'intensité du début se transforme, et [Pour Nous](<../Pour Nous/README.md>) sur les projets communs, y compris avec des traumas ou des appréhensions.
 
 ## Sources et mise à jour
 

@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "La rencontre"
 sujet: "commun"
 chapitres: 10
-mots: 10822
+mots: 10818
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/La rencontre"
@@ -140,7 +140,7 @@ Analyse les délais de réponse. Relit les messages. A besoin d'être rassuré s
 Va bien tant que la relation reste légère, se raidit quand elle se définit. Trouve des défauts au moment où le lien s'approfondit — un mécanisme documenté sous le nom de *deactivating strategies*. Valorise fortement son indépendance. Sa peur centrale : être absorbé, perdre son autonomie. Sa stratégie : mettre de la distance, physique ou émotionnelle.
 
 **Désorganisé / craintif** (les deux axes élevés).
-Veut la proximité et la craint en même temps. Alterne rapprochement intense et retrait brutal, ce qui est très déroutant pour l'autre — et pour la personne elle-même. Cette configuration est plus fréquente chez les personnes ayant vécu un trauma relationnel précoce, sujet traité dans le guide [Durer et construire](<../1 - Guides/Durer et construire/README.md>).
+Veut la proximité et la craint en même temps. Alterne rapprochement intense et retrait brutal, ce qui est très déroutant pour l'autre — et pour la personne elle-même. Cette configuration est plus fréquente chez les personnes ayant vécu un trauma relationnel précoce, sujet traité dans le guide [Pour Nous](<../1 - Guides/Pour Nous/README.md>).
 
 ### 2.4 Le piège anxieux-évitant : pourquoi cette combinaison accroche autant
 
@@ -621,7 +621,7 @@ La pression sociale à être en couple pousse à rester dans des relations médi
 
 💑 **Dans le couple**
 
-Une fois la relation installée, ce guide s'arrête et deux autres prennent le relais : [L'amour](<../1 - Guides/L amour/README.md>) sur ce qui se passe quand l'intensité du début se transforme, et [Durer et construire](<../1 - Guides/Durer et construire/README.md>) sur la façon de bâtir des projets communs, y compris quand on porte des traumas ou des appréhensions.
+Une fois la relation installée, ce guide s'arrête et deux autres prennent le relais : [L'amour](<../1 - Guides/L amour/README.md>) sur ce qui se passe quand l'intensité du début se transforme, et [Pour Nous](<../1 - Guides/Pour Nous/README.md>) sur la façon de bâtir des projets communs, y compris quand on porte des traumas ou des appréhensions.
 
 **Bons réflexes — la version courte**
 

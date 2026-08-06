@@ -65,7 +65,7 @@ La pression sociale à être en couple pousse à rester dans des relations médi
 
 💑 **Dans le couple**
 
-Une fois la relation installée, ce guide s'arrête et deux autres prennent le relais : [L'amour](<../L amour/README.md>) sur ce qui se passe quand l'intensité du début se transforme, et [Durer et construire](<../Durer et construire/README.md>) sur la façon de bâtir des projets communs, y compris quand on porte des traumas ou des appréhensions.
+Une fois la relation installée, ce guide s'arrête et deux autres prennent le relais : [L'amour](<../L amour/README.md>) sur ce qui se passe quand l'intensité du début se transforme, et [Pour Nous](<../Pour Nous/README.md>) sur la façon de bâtir des projets communs, y compris quand on porte des traumas ou des appréhensions.
 
 **Bons réflexes — la version courte**
 

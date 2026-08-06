@@ -16,7 +16,7 @@ Le modèle le plus utile sur cette question est le **modèle du double contrôle
 
 L'implication est décisive et va à l'encontre de tout ce que la culture raconte. Quand le désir baisse, le réflexe est d'ajouter de l'accélérateur : plus de séduction, plus de nouveauté, plus de propositions. Or dans la grande majorité des situations, le problème n'est pas un défaut d'accélérateur — **c'est un frein enfoncé**. Et appuyer sur l'accélérateur avec le frein serré n'avance à rien, tout en usant le moteur.
 
-Ce modèle est développé dans le guide [Cycle et santé féminine](<../Cycle et sante feminine/README.md>), chapitre 5.
+Ce modèle est développé dans le guide [Pour Elle](<../Pour Elle/README.md>), chapitre 5.
 
 ### 7.2 Désir spontané et désir réactif
 
@@ -36,7 +36,7 @@ La liste est banale, et c'est précisément ce qui la rend importante — on che
 
 **La routine du contexte, pas de l'acte.** Ce qui use n'est pas tant la répétition des gestes que celle du cadre : même lieu, même heure, même état de fatigue.
 
-**La peur de la déception.** Après plusieurs tentatives qui n'ont pas fonctionné, chaque nouvelle tentative porte un enjeu. L'enjeu est lui-même un frein — mécanisme central des troubles de l'érection dits situationnels, décrit dans [Santé émotionnelle masculine](<../Sante emotionnelle masculine/README.md>).
+**La peur de la déception.** Après plusieurs tentatives qui n'ont pas fonctionné, chaque nouvelle tentative porte un enjeu. L'enjeu est lui-même un frein — mécanisme central des troubles de l'érection dits situationnels, décrit dans [Pour Lui](<../Pour Lui/README.md>).
 
 **La disparition du contact non sexuel.** Quand tout contact physique est interprété comme une initiative sexuelle, le couple cesse de se toucher pour éviter le malentendu — et supprime du même coup ce qui entretenait le lien.
 

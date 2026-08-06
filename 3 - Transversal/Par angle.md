@@ -1,96 +1,125 @@
 ---
 type: "index"
 axe: "angle"
-mis_a_jour_le: 2026-08-05
+mis_a_jour_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
 
 # Index par angle
 
-Le second axe. Il traverse les guides : un chapitre sur la sexualité féminine et un chapitre sur la sexualité masculine relèvent du même angle, et se lisent bien l'un après l'autre.
+Le second axe. Il traverse les guides : un chapitre sur la sexualité féminine et un chapitre sur la sexualité masculine relèvent du même angle, et se lisent bien l'un après l'autre. Cet index est régénéré automatiquement par `build-index.py`.
 
 ## Physiologie
 
 Comment le corps fonctionne concrètement, mécanisme par mécanisme.
 
-- [Le cycle menstruel : anatomie et physiologie de base](<../1 - Guides/Cycle et sante feminine/01 - Le cycle menstruel.md>)  `corps féminin`
-- [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<../1 - Guides/Cycle et sante feminine/02 - Pourquoi les humains menstruent.md>)  `corps féminin`
-- [Panorama complet des troubles et pathologies du cycle](<../1 - Guides/Cycle et sante feminine/04 - Troubles et pathologies du cycle.md>)  `corps féminin`
-- [La grossesse : physiologie et complications](<../1 - Guides/Cycle et sante feminine/06 - La grossesse.md>)  `corps féminin`
-- [L'accouchement et le post-partum](<../1 - Guides/Cycle et sante feminine/07 - Accouchement et post-partum.md>)  `corps féminin`
-- [Le corps masculin : ce qu'il est utile de savoir](<../1 - Guides/Sante emotionnelle masculine/05 - Le corps masculin.md>)  `corps masculin`
+- [Le cycle menstruel : anatomie et physiologie de base](<../1 - Guides/Pour Elle/01 - Le cycle menstruel.md>)  `corps féminin` · Pour Elle
+- [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<../1 - Guides/Pour Elle/02 - Pourquoi les humains menstruent.md>)  `corps féminin` · Pour Elle
+- [Panorama complet des troubles et pathologies du cycle](<../1 - Guides/Pour Elle/04 - Troubles et pathologies du cycle.md>)  `corps féminin` · Pour Elle
+- [La grossesse : physiologie et complications](<../1 - Guides/Pour Elle/06 - La grossesse.md>)  `corps féminin` · Pour Elle
+- [L'accouchement et le post-partum](<../1 - Guides/Pour Elle/07 - Accouchement et post-partum.md>)  `corps féminin` · Pour Elle
+- [Le corps masculin : ce qu'il est utile de savoir](<../1 - Guides/Pour Lui/05 - Le corps masculin.md>)  `corps masculin` · Pour Lui
+- [Ce qu'un trauma fait au corps](<../1 - Guides/Pour Nous/01 - Ce qu un trauma fait au corps.md>)  `commun` · Pour Nous
+- [Ce que le cerveau décide avant vous](<../1 - Guides/La rencontre/01 - Ce que le cerveau decide avant vous.md>)  `commun` · La rencontre
+- [Ce que le cerveau appelle amour](<../1 - Guides/L amour/01 - Ce que le cerveau appelle amour.md>)  `commun` · L'amour
+- [Passion et attachement : deux temps, deux logiques](<../1 - Guides/L amour/02 - Passion et attachement.md>)  `commun` · L'amour
+- [Pourquoi l'amour existe : l'angle évolutionniste](<../1 - Guides/L amour/03 - Pourquoi l amour existe.md>)  `commun` · L'amour
 
 ## Psychologie
 
-Comment un fonctionnement mental se construit, et pourquoi il tient.
+Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 
-- [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<../1 - Guides/Sante emotionnelle masculine/02 - L'architecture émotionnelle.md>)  `corps masculin`
-- [Le substrat : analyse socio-neuro-psychologique](<../1 - Guides/Sante emotionnelle masculine/02b - Le substrat socio-neuro-psychologique.md>)  `corps masculin`
-- [Les grands profils masculins](<../1 - Guides/Sante emotionnelle masculine/02c - Les grands profils masculins.md>)  `corps masculin`
-- [La dépression masculine : le visage qu'elle ne prend pas](<../1 - Guides/Sante emotionnelle masculine/03 - La dépression masculine.md>)  `corps masculin`
-- [Anxiété, stress et corps : le circuit court](<../1 - Guides/Sante emotionnelle masculine/04 - Anxiété, stress et corps.md>)  `corps masculin`
-- [Les âges de la vie masculine](<../1 - Guides/Sante emotionnelle masculine/07 - Les âges de la vie masculine.md>)  `corps masculin`
-- [Le dilemme masculin contemporain](<../1 - Guides/Sante emotionnelle masculine/09c - Le dilemme masculin contemporain.md>)  `corps masculin`
-- [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `commun`
-- [Les émotions en jeu](<../1 - Guides/Questions et communication/05 - Les émotions en jeu.md>)  `commun`
+- [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<../1 - Guides/Pour Lui/02 - L'architecture émotionnelle.md>)  `corps masculin` · Pour Lui
+- [Le substrat : analyse socio-neuro-psychologique](<../1 - Guides/Pour Lui/02b - Le substrat socio-neuro-psychologique.md>)  `corps masculin` · Pour Lui
+- [Les grands profils masculins](<../1 - Guides/Pour Lui/02c - Les grands profils masculins.md>)  `corps masculin` · Pour Lui
+- [La dépression masculine : le visage qu'elle ne prend pas](<../1 - Guides/Pour Lui/03 - La dépression masculine.md>)  `corps masculin` · Pour Lui
+- [Anxiété, stress et corps : le circuit court](<../1 - Guides/Pour Lui/04 - Anxiété, stress et corps.md>)  `corps masculin` · Pour Lui
+- [Les âges de la vie masculine](<../1 - Guides/Pour Lui/07 - Les âges de la vie masculine.md>)  `corps masculin` · Pour Lui
+- [Le dilemme masculin contemporain](<../1 - Guides/Pour Lui/09c - Le dilemme masculin contemporain.md>)  `corps masculin` · Pour Lui
+- [Les styles d'attachement : la grille qui explique le plus](<../1 - Guides/La rencontre/02 - Les styles d attachement.md>)  `commun` · La rencontre
+- [Les biais qui font choisir de travers](<../1 - Guides/La rencontre/03 - Les biais qui font choisir de travers.md>)  `commun` · La rencontre
+- [Ce qu'on rejoue de son histoire](<../1 - Guides/L amour/04 - Ce qu on rejoue de son histoire.md>)  `commun` · L'amour
+- [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `commun` · Questions et communication
+- [Les émotions en jeu](<../1 - Guides/Questions et communication/05 - Les émotions en jeu.md>)  `commun` · Questions et communication
 
 ## Prévention
 
-Dépistage, protection, risques, ce qu'on peut éviter en sachant.
+Dépistage, protection, risque réel contre risque perçu.
 
-- [La pilule et la contraception hormonale : raisonnement étape par étape](<../1 - Guides/Cycle et sante feminine/03 - Contraception hormonale.md>)  `corps féminin`
-- [Comprendre les IST : panorama et transmission](<../1 - Guides/IST, depistage et prevention/01 - Panorama et transmission.md>)  `commun`
-- [Chlamydia et gonorrhée : les deux plus fréquentes, souvent silencieuses](<../1 - Guides/IST, depistage et prevention/02 - Chlamydia et gonorrhée.md>)  `commun`
-- [Syphilis : la grande oubliée qui revient en force](<../1 - Guides/IST, depistage et prevention/03 - Syphilis.md>)  `commun`
-- [Herpès génital : la gestion à vie plutôt que la guérison](<../1 - Guides/IST, depistage et prevention/04 - Herpès génital.md>)  `commun`
-- [Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans](<../1 - Guides/IST, depistage et prevention/05 - Le VIH aujourd'hui.md>)  `commun`
-- [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<../1 - Guides/IST, depistage et prevention/06 - HPV et vaccination.md>)  `commun`
-- [Risques, contre-indications et signaux d'alerte](<../1 - Guides/Massage professionnel/09 - Risques et contre-indications.md>)  `commun`
-
-## Pratique
-
-Quoi faire, concrètement, geste par geste ou réflexe par réflexe.
-
-- [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Cycle et sante feminine/09 - Conseils pratiques généraux.md>)  `corps féminin`
-- [Foire aux questions rapides](<../1 - Guides/Cycle et sante feminine/10 - Foire aux questions.md>)  `corps féminin`
-- [Le cadre général : ce qui précède la technique](<../1 - Guides/Massage professionnel/01 - Le cadre général.md>)  `commun`
-- [Les grandes familles de massage](<../1 - Guides/Massage professionnel/02 - Les grandes familles de massage.md>)  `commun`
-- [Les gestes techniques fondamentaux](<../1 - Guides/Massage professionnel/03 - Les gestes techniques fondamentaux.md>)  `commun`
-- [Outils et produits](<../1 - Guides/Massage professionnel/04 - Outils et produits.md>)  `commun`
-- [Astuces de pro : ce qui fait la différence](<../1 - Guides/Massage professionnel/05 - Astuces de pro.md>)  `commun`
-- [Découpage complet par zone du corps](<../1 - Guides/Massage professionnel/06 - Découpage par zone du corps.md>)  `commun`
-- [Différences hommes / femmes : ce qu'il faut vraiment retenir](<../1 - Guides/Massage professionnel/07 - Différences hommes et femmes.md>)  `commun`
-- [Femme enceinte : ce qui change vraiment](<../1 - Guides/Massage professionnel/08 - Femme enceinte.md>)  `commun`
-- [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>)  `commun`
-- [Le cadre](<../1 - Guides/Questions et communication/06 - Le cadre.md>)  `commun`
+- [La pilule et la contraception hormonale : raisonnement étape par étape](<../1 - Guides/Pour Elle/03 - Contraception hormonale.md>)  `corps féminin` · Pour Elle
+- [Ce qui se répare vraiment : les prises en charge qui ont des preuves](<../1 - Guides/Pour Nous/03 - Ce qui se repare vraiment.md>)  `commun` · Pour Nous
+- [Les signaux d'alerte documentés](<../1 - Guides/La rencontre/07 - Les signaux d alerte documentes.md>)  `commun` · La rencontre
+- [Sécurité pratique et cadre légal](<../1 - Guides/La rencontre/08 - Securite et cadre legal.md>)  `commun` · La rencontre
+- [Comprendre les IST : panorama et transmission](<../1 - Guides/IST, depistage et prevention/01 - Panorama et transmission.md>)  `commun` · IST, dépistage et prévention
+- [Chlamydia et gonorrhée : les deux plus fréquentes, souvent silencieuses](<../1 - Guides/IST, depistage et prevention/02 - Chlamydia et gonorrhée.md>)  `commun` · IST, dépistage et prévention
+- [Syphilis : la grande oubliée qui revient en force](<../1 - Guides/IST, depistage et prevention/03 - Syphilis.md>)  `commun` · IST, dépistage et prévention
+- [Herpès génital : la gestion à vie plutôt que la guérison](<../1 - Guides/IST, depistage et prevention/04 - Herpès génital.md>)  `commun` · IST, dépistage et prévention
+- [Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans](<../1 - Guides/IST, depistage et prevention/05 - Le VIH aujourd'hui.md>)  `commun` · IST, dépistage et prévention
+- [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<../1 - Guides/IST, depistage et prevention/06 - HPV et vaccination.md>)  `commun` · IST, dépistage et prévention
+- [Risques, contre-indications et signaux d'alerte](<../1 - Guides/Massage professionnel/09 - Risques et contre-indications.md>)  `commun` · Massage professionnel
 
 ## Relation
 
-Ce que tout ça change réellement à deux.
+Ce que ça change concrètement quand on est deux.
 
-- [La sexualité féminine : anatomie, réponse sexuelle, troubles](<../1 - Guides/Cycle et sante feminine/05 - Sexualité féminine.md>)  `corps féminin`
-- [La sexualité comme langage émotionnel](<../1 - Guides/Sante emotionnelle masculine/06 - La sexualité comme langage émotionnel.md>)  `corps masculin`
-- [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Sante emotionnelle masculine/08 - Le désert relationnel.md>)  `corps masculin`
-- [Les conflits entre hommes](<../1 - Guides/Sante emotionnelle masculine/08b - Les conflits entre hommes.md>)  `corps masculin`
-- [La boîte à outils de couple](<../1 - Guides/Sante emotionnelle masculine/09 - La boîte à outils de couple.md>)  `corps masculin`
-- [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<../1 - Guides/Sante emotionnelle masculine/09b - Les reproches récurrents.md>)  `corps masculin`
-- [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Sante emotionnelle masculine/10 - Les limites.md>)  `corps masculin`
-- [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Sante emotionnelle masculine/10b - Le désir dans la durée.md>)  `corps masculin`
-- [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `commun`
-- [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `commun`
-- [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `commun`
-- [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `commun`
+- [La sexualité féminine : anatomie, réponse sexuelle, troubles](<../1 - Guides/Pour Elle/05 - Sexualité féminine.md>)  `corps féminin` · Pour Elle
+- [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/06 - La sexualité comme langage émotionnel.md>)  `corps masculin` · Pour Lui
+- [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Pour Lui/08 - Le désert relationnel.md>)  `corps masculin` · Pour Lui
+- [Les conflits entre hommes](<../1 - Guides/Pour Lui/08b - Les conflits entre hommes.md>)  `corps masculin` · Pour Lui
+- [La boîte à outils de couple](<../1 - Guides/Pour Lui/09 - La boîte à outils de couple.md>)  `corps masculin` · Pour Lui
+- [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<../1 - Guides/Pour Lui/09b - Les reproches récurrents.md>)  `corps masculin` · Pour Lui
+- [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Pour Lui/10 - Les limites.md>)  `corps masculin` · Pour Lui
+- [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/10b - Le désir dans la durée.md>)  `corps masculin` · Pour Lui
+- [Hypervigilance et évitement : ce que ça donne à deux](<../1 - Guides/Pour Nous/02 - Hypervigilance et evitement en couple.md>)  `commun` · Pour Nous
+- [En parler à son partenaire : les formulations qui passent](<../1 - Guides/Pour Nous/04 - En parler a son partenaire.md>)  `commun` · Pour Nous
+- [Traverser les crises et tenir dans la durée](<../1 - Guides/Pour Nous/06 - Traverser les crises.md>)  `commun` · Pour Nous
+- [Les premiers échanges : ce qui se joue vraiment](<../1 - Guides/La rencontre/06 - Les premiers echanges.md>)  `commun` · La rencontre
+- [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/06 - Les langages de l amour.md>)  `commun` · L'amour
+- [Le désir dans la durée](<../1 - Guides/L amour/07 - Le desir dans la duree.md>)  `commun` · L'amour
+- [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `commun` · Massage professionnel
+- [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `commun` · Questions et communication
+- [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `commun` · Questions et communication
+- [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `commun` · Questions et communication
+
+## Pratique
+
+Quoi faire, concrètement, avec des formulations et des gestes précis.
+
+- [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Pour Elle/09 - Conseils pratiques généraux.md>)  `corps féminin` · Pour Elle
+- [Foire aux questions rapides](<../1 - Guides/Pour Elle/10 - Foire aux questions.md>)  `corps féminin` · Pour Elle
+- [Décider et construire ensemble](<../1 - Guides/Pour Nous/05 - Decider et construire ensemble.md>)  `commun` · Pour Nous
+- [Mieux choisir : la synthèse actionnable](<../1 - Guides/La rencontre/09 - Mieux choisir la synthese.md>)  `commun` · La rencontre
+- [Ce que l'amour engage concrètement](<../1 - Guides/L amour/08 - Ce que l amour engage.md>)  `commun` · L'amour
+- [Le cadre général : ce qui précède la technique](<../1 - Guides/Massage professionnel/01 - Le cadre général.md>)  `commun` · Massage professionnel
+- [Les grandes familles de massage](<../1 - Guides/Massage professionnel/02 - Les grandes familles de massage.md>)  `commun` · Massage professionnel
+- [Les gestes techniques fondamentaux](<../1 - Guides/Massage professionnel/03 - Les gestes techniques fondamentaux.md>)  `commun` · Massage professionnel
+- [Outils et produits](<../1 - Guides/Massage professionnel/04 - Outils et produits.md>)  `commun` · Massage professionnel
+- [Astuces de pro : ce qui fait la différence](<../1 - Guides/Massage professionnel/05 - Astuces de pro.md>)  `commun` · Massage professionnel
+- [Découpage complet par zone du corps](<../1 - Guides/Massage professionnel/06 - Découpage par zone du corps.md>)  `commun` · Massage professionnel
+- [Différences hommes / femmes : ce qu'il faut vraiment retenir](<../1 - Guides/Massage professionnel/07 - Différences hommes et femmes.md>)  `commun` · Massage professionnel
+- [Femme enceinte : ce qui change vraiment](<../1 - Guides/Massage professionnel/08 - Femme enceinte.md>)  `commun` · Massage professionnel
+- [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>)  `commun` · Questions et communication
+- [Le cadre](<../1 - Guides/Questions et communication/06 - Le cadre.md>)  `commun` · Questions et communication
 
 ## Repères
 
-Chiffres, glossaires, ressources, aide-mémoire.
+Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin.
 
-- [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Cycle et sante feminine/08 - La recherche en 2026.md>)  `corps féminin`
-- [Ressources et associations utiles](<../1 - Guides/Cycle et sante feminine/11 - Ressources et associations.md>)  `corps féminin`
-- [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Cycle et sante feminine/12 - Glossaire des termes médicaux.md>)  `corps féminin`
-- [Le décor : ce que disent les chiffres](<../1 - Guides/Sante emotionnelle masculine/01 - Ce que disent les chiffres.md>)  `corps masculin`
-- [Aide-mémoire](<../1 - Guides/Sante emotionnelle masculine/11 - Aide-mémoire.md>)  `corps masculin`
-- [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `commun`
-- [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `commun`
-- [Les six familles de questions](<../1 - Guides/Questions et communication/03 - Les six familles de questions.md>)  `commun`
-- [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `commun`
+- [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Elle/08 - La recherche en 2026.md>)  `corps féminin` · Pour Elle
+- [Ressources et associations utiles](<../1 - Guides/Pour Elle/11 - Ressources et associations.md>)  `corps féminin` · Pour Elle
+- [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/12 - Glossaire des termes médicaux.md>)  `corps féminin` · Pour Elle
+- [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Lui/01 - Ce que disent les chiffres.md>)  `corps masculin` · Pour Lui
+- [Aide-mémoire](<../1 - Guides/Pour Lui/11 - Aide-mémoire.md>)  `corps masculin` · Pour Lui
+- [Sources vérifiables](<../1 - Guides/Pour Nous/07 - Sources verifiables.md>)  `commun` · Pour Nous
+- [Où les gens se rencontrent vraiment](<../1 - Guides/La rencontre/04 - Ou les gens se rencontrent vraiment.md>)  `commun` · La rencontre
+- [Les applications : la logique derrière l'écran](<../1 - Guides/La rencontre/05 - Les applications de rencontre.md>)  `commun` · La rencontre
+- [Sources vérifiables](<../1 - Guides/La rencontre/10 - Sources verifiables.md>)  `commun` · La rencontre
+- [Les types d'amour : ce que les Grecs avaient déjà démêlé](<../1 - Guides/L amour/02b - Les types d amour.md>)  `commun` · L'amour
+- [L'amour romantique, une invention récente](<../1 - Guides/L amour/05 - L amour romantique une invention recente.md>)  `commun` · L'amour
+- [Sources vérifiables](<../1 - Guides/L amour/09 - Sources verifiables.md>)  `commun` · L'amour
+- [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `commun` · Massage professionnel
+- [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `commun` · Massage professionnel
+- [Les six familles de questions](<../1 - Guides/Questions et communication/03 - Les six familles de questions.md>)  `commun` · Questions et communication
+- [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `commun` · Questions et communication
+
+Retour à [l'accueil de Comprendre pour tous](<../README.md>).

@@ -53,27 +53,27 @@ SECTIONS = [
 
 # Ordre d'affichage des guides (les dossiers de "1 - Guides").
 GUIDE_ORDER = [
-    "Cycle et sante feminine",
-    "Sante emotionnelle masculine",
+    "Pour Elle",
+    "Pour Lui",
     "IST, depistage et prevention",
     "Massage professionnel",
     "Questions et communication",
     "La rencontre",
     "L amour",
-    "Durer et construire",
+    "Pour Nous",
 ]
 
 # Ordre d'affichage des fichiers de "0 - Guides complets".
 FULL_GUIDE_ORDER = [
     "Le meilleur de chaque guide",
-    "Cycle et santé féminine",
-    "Santé émotionnelle masculine",
+    "Pour Elle",
+    "Pour Lui",
     "IST, dépistage et prévention",
     "Massage professionnel",
     "Questions et communication",
     "La rencontre",
     "L'amour",
-    "Durer et construire",
+    "Pour Nous",
 ]
 
 # Fichiers de la racine qui ne sont pas publies comme pages.
@@ -93,14 +93,14 @@ SECTION_HUE = {
     "transversal": 292,
 }
 GUIDE_HUE = {
-    "cycle-et-sante-feminine": 338,
-    "sante-emotionnelle-masculine": 212,
+    "pour-elle": 338,
+    "pour-lui": 212,
     "ist-depistage-et-prevention": 265,
     "massage-professionnel": 18,
     "questions-et-communication": 152,
     "la-rencontre": 8,
     "l-amour": 348,
-    "durer-et-construire": 196,
+    "pour-nous": 196,
 }
 
 # Illustrations : SVG en ligne, decoratifs, qui prennent la teinte de la
@@ -143,6 +143,28 @@ ANCHOR_SVG = (
     '<path d="M10.5 13.5a4.5 4.5 0 0 0 6.4 0l2.6-2.6a4.5 4.5 0 0 0-6.4-6.4l-1 1"/>'
     '<path d="M13.5 10.5a4.5 4.5 0 0 0-6.4 0l-2.6 2.6a4.5 4.5 0 0 0 6.4 6.4l1-1"/></svg>'
 )
+
+
+# Anciennes URL a rediriger apres le renommage des guides, pour ne pas
+# casser les liens deja partages. Prefixe -> nouveau prefixe.
+REDIRECTS = {
+    "/guides/cycle-et-sante-feminine/": "/guides/pour-elle/",
+    "/guides/sante-emotionnelle-masculine/": "/guides/pour-lui/",
+    "/guides/durer-et-construire/": "/guides/pour-nous/",
+    "/guides-complets/cycle-et-sante-feminine/": "/guides-complets/pour-elle/",
+    "/guides-complets/sante-emotionnelle-masculine/": "/guides-complets/pour-lui/",
+    "/guides-complets/durer-et-construire/": "/guides-complets/pour-nous/",
+}
+
+
+def redirect_page(target):
+    return ("""<!doctype html><html lang="fr"><head><meta charset="utf-8">
+<title>Page déplacée</title><link rel="canonical" href="https://%s%s">
+<meta http-equiv="refresh" content="0; url=%s">
+<meta name="robots" content="noindex"></head>
+<body><p>Cette page a été déplacée. <a href="%s">Continuer</a>.</p>
+<script>location.replace(%s);</script></body></html>
+""" % (DOMAIN, target, target, target, json.dumps(target)))
 
 
 def illo(name, cls="illo"):
@@ -1203,6 +1225,21 @@ def main():
     for f in ASSETS.iterdir():
         if f.is_file():
             shutil.copy2(f, dest / f.name)
+
+    # Redirections des anciennes URL vers les guides renommes.
+    n_redir = 0
+    for old_prefix, new_prefix in REDIRECTS.items():
+        for p in pages:
+            if not p.url.startswith(new_prefix):
+                continue
+            old_url = old_prefix + p.url[len(new_prefix):]
+            if old_url in by_url:
+                continue
+            write(old_url, redirect_page(p.url))
+            n_redir += 1
+        if new_prefix in by_url and old_prefix not in by_url:
+            write(old_prefix, redirect_page(new_prefix))
+            n_redir += 1
 
     (OUT / "CNAME").write_text(DOMAIN + "\n", encoding="utf-8")
     (OUT / ".nojekyll").write_text("", encoding="utf-8")

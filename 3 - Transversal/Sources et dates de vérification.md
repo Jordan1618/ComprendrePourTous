@@ -17,14 +17,14 @@ Quand une donnée est débattue ou incertaine, le texte donne une fourchette et 
 
 | Guide | Rédigé | Dernière vérification |
 |---|---|---|
-| [Cycle et santé féminine](<../1 - Guides/Cycle et sante feminine/README.md>) | 21 juillet 2026 | 27 juillet 2026 |
-| [Santé émotionnelle masculine](<../1 - Guides/Sante emotionnelle masculine/README.md>) | juillet 2026 | 31 juillet 2026 |
+| [Pour Elle](<../1 - Guides/Pour Elle/README.md>) | 21 juillet 2026 | 27 juillet 2026 |
+| [Pour Lui](<../1 - Guides/Pour Lui/README.md>) | juillet 2026 | 31 juillet 2026 |
 | [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | 21 juillet 2026 | 27 juillet 2026 |
 | [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | 21 juillet 2026 | 21 juillet 2026 |
 | [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | 4 août 2026 | 4 août 2026 |
 | [La rencontre](<../1 - Guides/La rencontre/README.md>) | 6 août 2026 | 6 août 2026 |
 | [L'amour](<../1 - Guides/L amour/README.md>) | 6 août 2026 | 6 août 2026 |
-| [Durer et construire](<../1 - Guides/Durer et construire/README.md>) | 6 août 2026 | 6 août 2026 |
+| [Pour Nous](<../1 - Guides/Pour Nous/README.md>) | 6 août 2026 | 6 août 2026 |
 
 ## Ce qui bouge vite et demande une surveillance
 

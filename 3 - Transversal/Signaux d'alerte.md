@@ -14,7 +14,7 @@ Cette page rassemble en un seul endroit les situations décrites dans les guides
 
 ## Appeler le 15 sans attendre
 
-Ces situations sont détaillées dans [Conseils pratiques généraux](<../1 - Guides/Cycle et sante feminine/09 - Conseils pratiques généraux.md>) du guide sur le cycle.
+Ces situations sont détaillées dans [Conseils pratiques généraux](<../1 - Guides/Pour Elle/09 - Conseils pratiques généraux.md>) du guide sur le cycle.
 
 - Douleur pelvienne brutale et intense, surtout d'un seul côté : torsion d'ovaire, grossesse extra-utérine, kyste compliqué.
 - Douleur abdominale sévère irradiant vers l'épaule, avec malaise : grossesse extra-utérine rompue, hémorragie interne.
@@ -27,7 +27,7 @@ Ces situations sont détaillées dans [Conseils pratiques généraux](<../1 - Gu
 
 ## Appeler le 3114, ou le 15 si le danger est immédiat
 
-Détaillé dans [La dépression masculine](<../1 - Guides/Sante emotionnelle masculine/03 - La dépression masculine.md>).
+Détaillé dans [La dépression masculine](<../1 - Guides/Pour Lui/03 - La dépression masculine.md>).
 
 - Idées suicidaires évoquées, même de façon détournée, y compris et surtout en période post-partum.
 - Menace de passage à l'acte utilisée pour empêcher quelqu'un de partir. C'est un mécanisme de contrainte, et la réponse est d'appeler, pas de céder.

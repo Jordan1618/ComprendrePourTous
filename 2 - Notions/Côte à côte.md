@@ -12,5 +12,5 @@ Une conversation difficile passe presque toujours mieux quand les deux personnes
 C'est repéré en particulier chez les hommes, où le face à face avec contact visuel continu déclenche souvent une sensation d'interrogatoire, mais le mécanisme n'est pas spécifique au masculin : il traverse toute conversation qui demande de la vulnérabilité, entre parents et enfants notamment.
 
 **Où c'est développé**
-- [L'architecture émotionnelle](<../1 - Guides/Sante emotionnelle masculine/02 - L'architecture émotionnelle.md>), section 2.7, version centrée sur le masculin.
+- [L'architecture émotionnelle](<../1 - Guides/Pour Lui/02 - L'architecture émotionnelle.md>), section 2.7, version centrée sur le masculin.
 - [Le cadre](<../1 - Guides/Questions et communication/06 - Le cadre.md>), section 6.2, version générale, avec le cas particulier des quatre configurations parent-enfant.

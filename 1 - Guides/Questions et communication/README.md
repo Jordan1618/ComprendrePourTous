@@ -42,7 +42,7 @@ Les chapitres 4, 5 et 8 portent le cœur du sujet. Le chapitre 5 sur les émotio
 
 Le chapitre 7 traite en particulier les quatre configurations parent-enfant (père-fils, père-fille, mère-fils, mère-fille), qui ne partent pas du même point ni des mêmes blocages.
 
-Le chapitre 6.2 ("Le côte à côte") généralise une observation déjà développée pour le masculin dans [Santé émotionnelle masculine](<../Sante emotionnelle masculine/README.md>) section 2.7 ; voir la notion [Côte à côte](<../../2 - Notions/Côte à côte.md>). Le chapitre 2.4 sur le piège du "pourquoi" prolonge, en le généralisant, ce que le même guide développe sur l'[alexithymie](<../../2 - Notions/Alexithymie.md>).
+Le chapitre 6.2 ("Le côte à côte") généralise une observation déjà développée pour le masculin dans [Pour Lui](<../Pour Lui/README.md>) section 2.7 ; voir la notion [Côte à côte](<../../2 - Notions/Côte à côte.md>). Le chapitre 2.4 sur le piège du "pourquoi" prolonge, en le généralisant, ce que le même guide développe sur l'[alexithymie](<../../2 - Notions/Alexithymie.md>).
 
 ## Sources et mise à jour
 

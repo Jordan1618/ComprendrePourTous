@@ -38,7 +38,7 @@ Analyse les délais de réponse. Relit les messages. A besoin d'être rassuré s
 Va bien tant que la relation reste légère, se raidit quand elle se définit. Trouve des défauts au moment où le lien s'approfondit — un mécanisme documenté sous le nom de *deactivating strategies*. Valorise fortement son indépendance. Sa peur centrale : être absorbé, perdre son autonomie. Sa stratégie : mettre de la distance, physique ou émotionnelle.
 
 **Désorganisé / craintif** (les deux axes élevés).
-Veut la proximité et la craint en même temps. Alterne rapprochement intense et retrait brutal, ce qui est très déroutant pour l'autre — et pour la personne elle-même. Cette configuration est plus fréquente chez les personnes ayant vécu un trauma relationnel précoce, sujet traité dans le guide [Durer et construire](<../Durer et construire/README.md>).
+Veut la proximité et la craint en même temps. Alterne rapprochement intense et retrait brutal, ce qui est très déroutant pour l'autre — et pour la personne elle-même. Cette configuration est plus fréquente chez les personnes ayant vécu un trauma relationnel précoce, sujet traité dans le guide [Pour Nous](<../Pour Nous/README.md>).
 
 ### 2.4 Le piège anxieux-évitant : pourquoi cette combinaison accroche autant
 

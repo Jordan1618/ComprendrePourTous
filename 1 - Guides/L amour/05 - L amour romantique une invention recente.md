@@ -36,7 +36,7 @@ Le constat est double, et les deux moitiés comptent. Les couples qui parviennen
 
 Une génération plus tôt, on demandait à un conjoint d'être un partenaire de vie fiable. Aujourd'hui, on lui demande souvent d'être simultanément un partenaire sexuel, un meilleur ami, un confident thérapeutique, un co-parent, un moteur de développement personnel et une source d'excitation durable. Cette demande était historiquement répartie sur une communauté entière.
 
-Ce n'est pas un plaidoyer pour revoir ses attentes à la baisse. C'est une invitation à remarquer que la solitude sociale, décrite dans le guide [Santé émotionnelle masculine](<../Sante emotionnelle masculine/README.md>), fait porter au couple une charge qui n'a jamais été conçue pour une seule relation.
+Ce n'est pas un plaidoyer pour revoir ses attentes à la baisse. C'est une invitation à remarquer que la solitude sociale, décrite dans le guide [Pour Lui](<../Pour Lui/README.md>), fait porter au couple une charge qui n'a jamais été conçue pour une seule relation.
 
 ### 5.4 Ce que la culture nous a appris de faux
 
