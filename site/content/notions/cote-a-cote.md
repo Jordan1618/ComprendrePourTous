@@ -1,5 +1,5 @@
 ---
-title: "notion"
+title: "Côte à côte"
 weight: 40
 sujet: "commun"
 type: "notion"

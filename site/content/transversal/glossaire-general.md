@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Glossaire général"
 weight: 10
 type: "index"
 mis_a_jour_le: "2026-08-05"

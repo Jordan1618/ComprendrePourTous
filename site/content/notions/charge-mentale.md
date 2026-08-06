@@ -1,5 +1,5 @@
 ---
-title: "notion"
+title: "Charge mentale"
 weight: 20
 sujet: "commun"
 type: "notion"

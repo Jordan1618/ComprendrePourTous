@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Sources et dates de vérification"
 weight: 50
 type: "index"
 mis_a_jour_le: "2026-08-05"

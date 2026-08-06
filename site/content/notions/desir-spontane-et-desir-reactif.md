@@ -1,5 +1,5 @@
 ---
-title: "notion"
+title: "Désir spontané et désir réactif"
 weight: 50
 sujet: "commun"
 type: "notion"

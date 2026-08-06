@@ -1,5 +1,5 @@
 ---
-title: "index"
+title: "Signaux d'alerte"
 weight: 40
 type: "index"
 mis_a_jour_le: "2026-08-02"

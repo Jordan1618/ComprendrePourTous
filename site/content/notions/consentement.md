@@ -1,5 +1,5 @@
 ---
-title: "notion"
+title: "Consentement"
 weight: 30
 sujet: "commun"
 type: "notion"

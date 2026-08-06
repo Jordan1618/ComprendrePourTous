@@ -1,4 +1,5 @@
 baseURL = 'https://jordan1618.github.io/ComprendrePourTous/'
+relativeURLs = true
 locale = 'fr-FR'
 title = 'Comprendre pour tous'
 theme = 'hugo-book'

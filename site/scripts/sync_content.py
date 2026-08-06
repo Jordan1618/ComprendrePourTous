@@ -45,6 +45,14 @@ FULL_GUIDE_ORDER = [
 
 EXCLUDE_FILES = {"MAINTENANCE.md"}
 
+# Cartes du menu d'entrée sur la page d'accueil.
+HOME_CARDS = [
+    ("guides", "Les guides", "Un guide par sujet, découpé chapitre par chapitre : cycle féminin, santé émotionnelle masculine, IST, massage, communication."),
+    ("guides-complets", "Guides complets", "Chaque guide en un seul fichier, pour une lecture d'une traite ou une impression."),
+    ("notions", "Notions", "Des notes courtes par concept — consentement, charge mentale, alexithymie — avec des liens vers les développements complets."),
+    ("transversal", "Transversal", "Index par sujet et par angle, glossaire général, sources vérifiées, et les signaux d'alerte à connaître."),
+]
+
 
 def slugify(text: str) -> str:
     text = unicodedata.normalize("NFKD", text).encode("ascii", "ignore").decode("ascii")
@@ -100,7 +108,10 @@ def discover():
     path_map = {}  # posix rel path from ROOT (as used in links) -> hugo ref path (posix, from content/)
 
     # Page d'accueil
-    entries.append({"src": ROOT / "README.md", "dest": SITE_CONTENT / "_index.md", "weight": 0})
+    entries.append({
+        "src": ROOT / "README.md", "dest": SITE_CONTENT / "_index.md", "weight": 0,
+        "is_home": True,
+    })
     path_map["README.md"] = ""
 
     for folder_name, section_slug, section_weight in SECTIONS:
@@ -217,6 +228,14 @@ def resolve_link(current_src: Path, target: str, path_map: dict) -> str:
     return f"]({REPO_BLOB}/{quote(rel)}{anchor})"
 
 
+H1_RE = re.compile(r"^#\s+(.+?)\s*(\{[^}]*\})?\s*$", re.MULTILINE)
+
+
+def extract_h1(body: str) -> str | None:
+    m = H1_RE.search(body)
+    return m.group(1).strip() if m else None
+
+
 def rewrite_links(text: str, current_src: Path, path_map: dict) -> str:
     def repl(m):
         target = m.group(1)
@@ -224,6 +243,18 @@ def rewrite_links(text: str, current_src: Path, path_map: dict) -> str:
         return new if new else m.group(0)
 
     return LINK_RE.sub(repl, text)
+
+
+def build_home_body(body: str) -> str:
+    # La table "## Les guides" est redondante avec les cartes du menu d'entrée.
+    body = re.sub(r"\n## Les guides\n.*?(?=\n## )", "", body, flags=re.DOTALL)
+
+    cards = ["{{% columns %}}"]
+    for slug, title, desc in HOME_CARDS:
+        cards.append(f"- ### [{title}](/{slug}/) {{anchor=false}}\n  {desc}\n")
+    cards.append("{{% /columns %}}\n")
+
+    return "\n".join(cards) + "\n" + body
 
 
 def main():
@@ -246,7 +277,7 @@ def main():
         raw = src.read_text(encoding="utf-8")
         fm, body = parse_front_matter(raw)
 
-        title = fm.get("titre") or fm.get("guide") or fm.get("type") or src.stem
+        title = fm.get("titre") or fm.get("guide") or extract_h1(body) or fm.get("type") or src.stem
         if dest.name == "_index.md" and "guide" in fm:
             title = fm["guide"]
         if src == ROOT / "README.md":
@@ -262,6 +293,9 @@ def main():
             new_fm["bookCollapseSection"] = True
 
         body = rewrite_links(body, src, path_map)
+        if e.get("is_home"):
+            new_fm["layout"] = "landing"
+            body = build_home_body(body)
         dest.write_text(dump_front_matter(new_fm) + body, encoding="utf-8")
 
     print(f"{len([e for e in entries if e.get('src')])} pages générées dans {SITE_CONTENT}")

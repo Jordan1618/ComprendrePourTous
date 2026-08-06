@@ -4,7 +4,23 @@ weight: 0
 type: "collection"
 mis_a_jour_le: "2026-08-05"
 licence: "CC BY 4.0"
+layout: "landing"
 ---
+{{% columns %}}
+- ### [Les guides](/guides/) {anchor=false}
+  Un guide par sujet, découpé chapitre par chapitre : cycle féminin, santé émotionnelle masculine, IST, massage, communication.
+
+- ### [Guides complets](/guides-complets/) {anchor=false}
+  Chaque guide en un seul fichier, pour une lecture d'une traite ou une impression.
+
+- ### [Notions](/notions/) {anchor=false}
+  Des notes courtes par concept — consentement, charge mentale, alexithymie — avec des liens vers les développements complets.
+
+- ### [Transversal](/transversal/) {anchor=false}
+  Index par sujet et par angle, glossaire général, sources vérifiées, et les signaux d'alerte à connaître.
+
+{{% /columns %}}
+
 
 # Comprendre pour tous
 
@@ -22,20 +38,6 @@ L'objectif de cette collection est éducatif : comprendre pour de vrai, avec des
 Chaque guide est écrit dans les deux sens. Celui sur le cycle féminin s'adresse autant aux femmes qui veulent comprendre leur propre corps qu'aux hommes qui veulent comprendre celui de leur partenaire. Celui sur la santé émotionnelle masculine fait exactement l'inverse. C'est la colonne vertébrale du projet : comprendre le corps et le fonctionnement de l'autre, ce n'est pas de la curiosité, c'est la condition pour s'y intéresser autrement qu'en surface.
 
 **Rien ici n'est un avis médical individualisé.** C'est dit une fois, et pas répété à chaque page. Pour toute situation concrète, un professionnel de santé reste irremplaçable.
-
-## Les guides
-
-| Guide | Sujet | Chapitres | Contenu | Intégrale |
-|---|---|---|---|---|
-| [Cycle et santé féminine]({{< ref "/guides/cycle-et-sante-feminine/_index.md" >}}) | corps féminin | 12 | Cycle, contraception, pathologies, sexualité, grossesse, post-partum | [lire]({{< ref "/guides-complets/cycle-et-sante-feminine.md" >}}) |
-| [Santé émotionnelle masculine]({{< ref "/guides/sante-emotionnelle-masculine/_index.md" >}}) | corps masculin | 17 | Architecture émotionnelle, dépression, corps, sexualité, conflits, couple | [lire]({{< ref "/guides-complets/sante-emotionnelle-masculine.md" >}}) |
-| [IST, dépistage et prévention]({{< ref "/guides/ist-depistage-et-prevention/_index.md" >}}) | commun | 6 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV | [lire]({{< ref "/guides-complets/ist-depistage-et-prevention.md" >}}) |
-| [Massage professionnel]({{< ref "/guides/massage-professionnel/_index.md" >}}) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [lire]({{< ref "/guides-complets/massage-professionnel.md" >}}) |
-| [Questions et communication]({{< ref "/guides/questions-et-communication/_index.md" >}}) | commun | 9 | Ce qu'une question fait, comment elles se classent, celles qui changent une vie | [lire]({{< ref "/guides-complets/questions-et-communication.md" >}}) |
-
-Environ 57 600 mots au total.
-
-Un document à part condense le meilleur de chaque guide, 15 items maximum par guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide]({{< ref "/guides-complets/le-meilleur-de-chaque-guide.md" >}}). C'est une synthèse tenue à la main, pas un artefact généré par `build-guides-complets.py`.
 
 ## Comment c'est classé
 

@@ -1,5 +1,5 @@
 ---
-title: "notion"
+title: "Alexithymie"
 weight: 10
 sujet: "corps masculin"
 type: "notion"
