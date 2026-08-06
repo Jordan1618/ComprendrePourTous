@@ -4,23 +4,7 @@ weight: 0
 type: "collection"
 mis_a_jour_le: "2026-08-05"
 licence: "CC BY 4.0"
-layout: "landing"
 ---
-{{% columns %}}
-- ### [Les guides](/guides/) {anchor=false}
-  Un guide par sujet, découpé chapitre par chapitre : cycle féminin, santé émotionnelle masculine, IST, massage, communication.
-
-- ### [Guides complets](/guides-complets/) {anchor=false}
-  Chaque guide en un seul fichier, pour une lecture d'une traite ou une impression.
-
-- ### [Notions](/notions/) {anchor=false}
-  Des notes courtes par concept — consentement, charge mentale, alexithymie — avec des liens vers les développements complets.
-
-- ### [Transversal](/transversal/) {anchor=false}
-  Index par sujet et par angle, glossaire général, sources vérifiées, et les signaux d'alerte à connaître.
-
-{{% /columns %}}
-
 
 # Comprendre pour tous
 

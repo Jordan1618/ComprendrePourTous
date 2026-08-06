@@ -1,5 +1,5 @@
 ---
 title: "Guides"
 weight: 10
-bookCollapseSection: true
+description: "Un guide par sujet, découpé chapitre par chapitre : cycle féminin, santé émotionnelle masculine, IST, massage, communication."
 ---

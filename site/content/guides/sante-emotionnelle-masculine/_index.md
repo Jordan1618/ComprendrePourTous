@@ -1,12 +1,11 @@
 ---
 title: "Santé émotionnelle masculine"
-weight: 10
+weight: 20
 sujet: "corps masculin"
 type: "guide"
 verifie_le: "2026-07-31"
 licence: "CC BY 4.0"
 guide: "Santé émotionnelle masculine"
-bookCollapseSection: true
 ---
 
 # Santé émotionnelle masculine

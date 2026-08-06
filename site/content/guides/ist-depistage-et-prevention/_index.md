@@ -1,12 +1,11 @@
 ---
 title: "IST, dépistage et prévention"
-weight: 10
+weight: 30
 sujet: "commun"
 type: "guide"
 verifie_le: "2026-07-27"
 licence: "CC BY 4.0"
 guide: "IST, dépistage et prévention"
-bookCollapseSection: true
 ---
 
 # IST, dépistage et prévention

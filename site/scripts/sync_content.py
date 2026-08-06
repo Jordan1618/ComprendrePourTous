@@ -45,13 +45,13 @@ FULL_GUIDE_ORDER = [
 
 EXCLUDE_FILES = {"MAINTENANCE.md"}
 
-# Cartes du menu d'entrée sur la page d'accueil.
-HOME_CARDS = [
-    ("guides", "Les guides", "Un guide par sujet, découpé chapitre par chapitre : cycle féminin, santé émotionnelle masculine, IST, massage, communication."),
-    ("guides-complets", "Guides complets", "Chaque guide en un seul fichier, pour une lecture d'une traite ou une impression."),
-    ("notions", "Notions", "Des notes courtes par concept — consentement, charge mentale, alexithymie — avec des liens vers les développements complets."),
-    ("transversal", "Transversal", "Index par sujet et par angle, glossaire général, sources vérifiées, et les signaux d'alerte à connaître."),
-]
+# Description de chaque section, affichée en carte sur la page d'accueil.
+SECTION_DESCRIPTIONS = {
+    "guides": "Un guide par sujet, découpé chapitre par chapitre : cycle féminin, santé émotionnelle masculine, IST, massage, communication.",
+    "guides-complets": "Chaque guide en un seul fichier, pour une lecture d'une traite ou une impression.",
+    "notions": "Des notes courtes par concept — consentement, charge mentale, alexithymie — avec des liens vers les développements complets.",
+    "transversal": "Index par sujet et par angle, glossaire général, sources vérifiées, et les signaux d'alerte à connaître.",
+}
 
 
 def slugify(text: str) -> str:
@@ -138,13 +138,13 @@ def discover():
             except ValueError:
                 return 999
 
-        for d in sorted(subdirs, key=dir_weight):
+        for gi, d in enumerate(sorted(subdirs, key=dir_weight)):
             guide_slug = slugify(d.name)
             dest_guide = dest_section / guide_slug
             readme = d / "README.md"
             if readme.exists():
                 dest = dest_guide / "_index.md"
-                entries.append({"src": readme, "dest": dest, "weight": section_weight})
+                entries.append({"src": readme, "dest": dest, "weight": (gi + 1) * 10})
                 path_map[str(readme.relative_to(ROOT)).replace("\\", "/")] = str(
                     dest.relative_to(SITE_CONTENT)
                 ).replace("\\", "/")
@@ -246,15 +246,9 @@ def rewrite_links(text: str, current_src: Path, path_map: dict) -> str:
 
 
 def build_home_body(body: str) -> str:
-    # La table "## Les guides" est redondante avec les cartes du menu d'entrée.
-    body = re.sub(r"\n## Les guides\n.*?(?=\n## )", "", body, flags=re.DOTALL)
-
-    cards = ["{{% columns %}}"]
-    for slug, title, desc in HOME_CARDS:
-        cards.append(f"- ### [{title}](/{slug}/) {{anchor=false}}\n  {desc}\n")
-    cards.append("{{% /columns %}}\n")
-
-    return "\n".join(cards) + "\n" + body
+    # La table "## Les guides" est redondante avec les cartes du menu d'entrée
+    # (rendues par le template depuis les sections, pas depuis ce texte).
+    return re.sub(r"\n## Les guides\n.*?(?=\n## )", "", body, flags=re.DOTALL)
 
 
 def main():
@@ -269,7 +263,9 @@ def main():
         dest.parent.mkdir(parents=True, exist_ok=True)
 
         if e.get("is_section_stub"):
-            data = {"title": e["title"], "weight": e["weight"], "bookCollapseSection": True}
+            data = {"title": e["title"], "weight": e["weight"]}
+            if dest.parent.name in SECTION_DESCRIPTIONS:
+                data["description"] = SECTION_DESCRIPTIONS[dest.parent.name]
             dest.write_text(dump_front_matter(data), encoding="utf-8")
             continue
 
@@ -287,14 +283,15 @@ def main():
         for k in ("sujet", "angle", "type", "verifie_le", "mis_a_jour_le", "licence", "guide"):
             if k in fm:
                 new_fm[k] = fm[k]
-        if dest.name == "_index.md" and any(
-            d.get("dest") and d["dest"].parent == dest.parent and d["dest"] != dest for d in entries
+        if (
+            dest.name == "_index.md"
+            and dest.parent.parent == SITE_CONTENT
+            and dest.parent.name in SECTION_DESCRIPTIONS
         ):
-            new_fm["bookCollapseSection"] = True
+            new_fm["description"] = SECTION_DESCRIPTIONS[dest.parent.name]
 
         body = rewrite_links(body, src, path_map)
         if e.get("is_home"):
-            new_fm["layout"] = "landing"
             body = build_home_body(body)
         dest.write_text(dump_front_matter(new_fm) + body, encoding="utf-8")
 

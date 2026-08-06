@@ -4,7 +4,7 @@ weight: 20
 type: "index"
 mis_a_jour_le: "2026-08-05"
 licence: "CC BY 4.0"
-bookCollapseSection: true
+description: "Des notes courtes par concept — consentement, charge mentale, alexithymie — avec des liens vers les développements complets."
 ---
 
 # Notions

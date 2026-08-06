@@ -1,0 +1,35 @@
+{{ define "main" }}
+<article class="prose">
+  <header class="page-header">
+    {{ if not .IsHome }}
+    <p class="breadcrumb">
+      {{ range .Ancestors.Reverse }}<a href="{{ .RelPermalink }}">{{ .Title }}</a><span class="sep">/</span>{{ end }}
+      <span class="current">{{ .Title }}</span>
+    </p>
+    {{ end }}
+    <h1>{{ .Title }}</h1>
+  </header>
+
+  {{ .Content }}
+
+  {{ if .Sections }}
+  <div class="card-grid">
+    {{ range .Sections.ByWeight }}
+    <a class="card" href="{{ .RelPermalink }}">
+      <h2>{{ .Title }}</h2>
+      <p>{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary | plainify | truncate 140 }}{{ end }}</p>
+    </a>
+    {{ end }}
+  </div>
+  {{ else if .Pages }}
+  <ul class="page-list">
+    {{ range .Pages.ByWeight }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ with .Params.angle }}<span class="tag">{{ . }}</span>{{ end }}
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</article>
+{{ end }}

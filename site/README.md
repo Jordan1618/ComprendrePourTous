@@ -1,7 +1,8 @@
 # Site (Apollon)
 
-Version web du projet, générée avec [Apollon](https://gohugo.io/) et le thème
-[hugo-book](https://github.com/alex-shpak/hugo-book).
+Version web du projet, générée avec [Apollon](https://gohugo.io/). Design
+et layouts maison dans `site/layouts/` et `site/static/css/style.css` —
+pas de thème tiers.
 
 ## Comment ça marche
 
@@ -19,22 +20,35 @@ réécrit les liens internes entre fichiers Markdown en shortcodes `{{< ref >}}`
 Apollon (résolus au build, ce qui fait échouer la build si un lien pointe dans
 le vide).
 
+## Design
+
+- `site/layouts/baseof.html` : squelette de page (en-tête, sidebar, pied de page).
+- `site/layouts/_partials/nav.html` : arbre de navigation, généré depuis les
+  sections du contenu (pas de fichier de menu à maintenir à la main).
+- `site/layouts/index.html` : accueil (hero + cartes des 4 sections).
+- `site/layouts/_default/single.html` : page d'article (fil d'ariane, tags,
+  sommaire, précédent/suivant).
+- `site/layouts/_default/list.html` : page de section (guides, notions...).
+- `site/static/css/style.css` : toute la mise en forme, en CSS pur (variables
+  pour le thème clair/sombre, pas de dépendance externe).
+
 ## Prévisualiser en local
 
 ```
 hugo server -s site
 ```
 
-Puis ouvrir http://localhost:1313/ComprendrePourTous/.
+Puis ouvrir http://localhost:1313/.
 
 ## Déploiement
 
 Le déploiement sur GitHub Pages est automatique via
 `.github/workflows/hugo.yml` à chaque push sur `main` : le workflow
-régénère `site/content/`, build le site avec Apollon, et publie sur Pages.
+régénère `0 - Guides complets/` puis `site/content/`, build le site avec
+Apollon, et publie sur Pages.
 
 À activer une seule fois côté dépôt : **Settings → Pages → Source : GitHub
 Actions**.
 
 Le site est ensuite disponible à :
-https://jordan1618.github.io/ComprendrePourTous/
+https://www.comprendrepourtous.fr

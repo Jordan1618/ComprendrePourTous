@@ -6,7 +6,6 @@ type: "guide"
 verifie_le: "2026-07-27"
 licence: "CC BY 4.0"
 guide: "Cycle et santé féminine"
-bookCollapseSection: true
 ---
 
 # Cycle et santé féminine

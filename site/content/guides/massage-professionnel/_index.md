@@ -1,12 +1,11 @@
 ---
 title: "Massage professionnel"
-weight: 10
+weight: 40
 sujet: "commun"
 type: "guide"
 verifie_le: "2026-07-21"
 licence: "CC BY 4.0"
 guide: "Massage professionnel"
-bookCollapseSection: true
 ---
 
 # Massage professionnel

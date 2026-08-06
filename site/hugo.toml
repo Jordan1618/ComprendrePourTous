@@ -1,7 +1,6 @@
 baseURL = 'https://www.comprendrepourtous.fr/'
 locale = 'fr-FR'
 title = 'Comprendre pour tous'
-theme = 'hugo-book'
 
 enableGitInfo = false
 enableRobotsTXT = true
@@ -16,10 +15,5 @@ disablePathToLower = true
   endLevel = 4
 
 [params]
-  BookTheme = 'auto'
-  BookToC = true
-  BookSection = '*'
-  BookSearch = true
-  BookComments = false
-  BookRepo = 'https://github.com/Jordan1618/ComprendrePourTous'
-  BookEditLink = 'https://github.com/Jordan1618/ComprendrePourTous/blob/main/{{ .Path }}'
+  repo = 'https://github.com/Jordan1618/ComprendrePourTous'
+  editLink = 'https://github.com/Jordan1618/ComprendrePourTous/blob/main'

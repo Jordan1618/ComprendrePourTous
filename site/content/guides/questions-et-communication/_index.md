@@ -1,12 +1,11 @@
 ---
 title: "Questions et communication"
-weight: 10
+weight: 50
 sujet: "commun"
 type: "guide"
 verifie_le: "2026-08-05"
 licence: "CC BY 4.0"
 guide: "Questions et communication"
-bookCollapseSection: true
 ---
 
 # Questions et communication
