@@ -1,5 +1,5 @@
 ---
-title: "Apollon"
+title: "Comprendre pour tous"
 weight: 0
 type: "collection"
 mis_a_jour_le: "2026-08-05"

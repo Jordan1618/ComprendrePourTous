@@ -250,7 +250,7 @@ def main():
         if dest.name == "_index.md" and "guide" in fm:
             title = fm["guide"]
         if src == ROOT / "README.md":
-            title = "Apollon"
+            title = "Comprendre pour tous"
 
         new_fm = {"title": title, "weight": e["weight"]}
         for k in ("sujet", "angle", "type", "verifie_le", "mis_a_jour_le", "licence", "guide"):
