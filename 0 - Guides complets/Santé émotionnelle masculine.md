@@ -7,7 +7,7 @@ mots: 22538
 verifie_le: 2026-07-31
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Sante emotionnelle masculine"
-genere_le: 2026-08-05
+genere_le: 2026-08-06
 ---
 
 # Santé émotionnelle masculine

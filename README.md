@@ -8,15 +8,15 @@ cree_le: 2026-07-21
 mis_a_jour_le: 2026-08-05
 licence: "CC BY 4.0"
 auteur: "Jordan1618"
-depot: "https://github.com/Jordan1618/comprendre-pour-tous"
+depot: "https://github.com/Jordan1618/ComprendrePourTous"
 ---
 
 # Comprendre pour tous
 
 **Le corps, les émotions et la relation, expliqués pour de vrai.**
 
-Dépôt : https://github.com/Jordan1618/comprendre-pour-tous
-Site : https://jordan1618.github.io/comprendre-pour-tous
+Dépôt : https://github.com/Jordan1618/ComprendrePourTous
+Site : https://www.comprendrepourtous.fr
 
 ## Pourquoi ce projet existe
 

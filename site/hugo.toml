@@ -1,4 +1,4 @@
-baseURL = 'https://jordan1618.github.io/ComprendrePourTous/'
+baseURL = 'https://www.comprendrepourtous.fr/'
 locale = 'fr-FR'
 title = 'Comprendre pour tous'
 theme = 'hugo-book'

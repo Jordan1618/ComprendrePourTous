@@ -26,8 +26,8 @@ layout: "landing"
 
 **Le corps, les émotions et la relation, expliqués pour de vrai.**
 
-Dépôt : https://github.com/Jordan1618/comprendre-pour-tous
-Site : https://jordan1618.github.io/comprendre-pour-tous
+Dépôt : https://github.com/Jordan1618/ComprendrePourTous
+Site : https://www.comprendrepourtous.fr
 
 ## Pourquoi ce projet existe
 

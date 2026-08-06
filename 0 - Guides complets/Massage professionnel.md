@@ -7,7 +7,7 @@ mots: 3785
 verifie_le: 2026-07-21
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Massage professionnel"
-genere_le: 2026-08-05
+genere_le: 2026-08-06
 ---
 
 # Massage professionnel
