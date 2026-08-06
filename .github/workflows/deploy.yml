@@ -45,3 +45,9 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Le delai par defaut (10 min) a deja expire une fois en attendant
+          # que Pages confirme la mise en ligne, alors que la construction
+          # etait bonne. On laisse plus de marge.
+          timeout: 1800000
+          error_count: 15
