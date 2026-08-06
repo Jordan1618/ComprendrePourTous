@@ -2,8 +2,8 @@
 type: "guide-complet"
 guide: "Pour Nous"
 sujet: "commun"
-chapitres: 7
-mots: 6037
+chapitres: 12
+mots: 10510
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Nous"
@@ -34,7 +34,12 @@ Le guide distingue nettement ce qui **explique** un comportement de ce qui l'**e
 - **4.** En parler à son partenaire : les formulations qui passent
 - **5.** Décider et construire ensemble
 - **6.** Traverser les crises et tenir dans la durée
-- **7.** Sources vérifiables
+- **7.** Le quotidien et sa charge
+- **8.** Les projets de vie : enfant, lieu, travail
+- **9.** Faire face aux épreuves qui viennent de l'extérieur
+- **10.** Le deuil, seul et à deux
+- **11.** Le couple à travers les âges et les civilisations
+- **12.** Sources vérifiables
 
 ---
 
@@ -427,7 +432,330 @@ L'intérêt n'est pas dans les réponses. Il est dans le fait que les choses se 
 
 ---
 
-## 7. Sources vérifiables
+## 7. Le quotidien et sa charge
+
+### 7.1 L'analogie du chef de projet
+
+Dans une équipe, il y a ceux qui exécutent des tâches et il y a celui qui tient le planning : qui sait ce qui doit être fait, quand, par qui, et ce qui va coincer. Ce rôle-là est invisible dans les comptes rendus, et c'est pourtant le plus fatigant, parce qu'il ne s'arrête jamais — même quand aucune tâche n'est en cours.
+
+Dans un foyer, ce rôle existe aussi. Il porte un nom : la [charge mentale](<../2 - Notions/Charge mentale.md>). Et il est presque toujours attribué sans avoir été discuté.
+
+### 7.2 Trois choses qu'on confond
+
+La confusion est la source principale des disputes sur ce sujet, parce que chacun parle d'une chose différente.
+
+**Les tâches.** Ce qui s'exécute : la vaisselle, les courses, la lessive. C'est visible, ça se compte, ça se répartit facilement.
+
+**La charge mentale.** Ce qui s'anticipe : savoir qu'il n'y a plus de lessive, que le rendez-vous est mardi, que la taille au-dessus sera nécessaire dans deux mois. Ça ne se voit pas, ça ne s'arrête pas, et ça consomme une ressource attentionnelle en continu.
+
+**La charge émotionnelle.** Prendre soin du climat : désamorcer, réconforter, se souvenir des anniversaires, entretenir les liens avec les deux familles.
+
+Un couple peut avoir une répartition parfaitement égale des **tâches** et une répartition très déséquilibrée des deux autres. C'est le cas le plus fréquent, et c'est pour cela que « je t'aide pourtant » ne règle rien : le mot « aider » dit précisément où est le problème — il suppose que la responsabilité appartient à l'autre.
+
+### 7.3 Ce qui la rend invisible
+
+Trois mécanismes qui n'ont rien à voir avec la mauvaise volonté.
+
+**L'incompétence acquise.** Si l'un fait moins bien, l'autre reprend. À force, le premier ne fait plus, et le second devient seul dépositaire du savoir-faire. La spirale s'installe sans que personne ne l'ait décidée.
+
+**Le standard implicite.** Chacun a un seuil différent — de propreté, d'organisation, d'anticipation. Celui qui a le seuil le plus haut agit toujours en premier, donc toujours. Le débat ne porte alors pas sur l'équité mais sur le standard, et il n'est jamais posé comme tel.
+
+**La délégation qui n'en est pas une.** « Dis-moi ce que je dois faire » laisse la charge intacte : la personne qui doit dire reste celle qui pense. Déléguer une tâche sans déléguer la responsabilité de savoir qu'elle existe ne déleste de rien.
+
+### 7.4 La méthode qui fonctionne : l'inventaire
+
+C'est concret, ça prend une heure, et c'est le seul exercice qui déplace vraiment quelque chose.
+
+**Étape 1.** Lister ensemble, par écrit, **tout** ce qui fait tourner le foyer. Pas seulement les tâches : aussi les « savoir que ». Rendez-vous médicaux, papiers, cadeaux, entretien du logement, suivi scolaire, contacts familiaux, budget, assurances.
+
+**Étape 2.** Pour chaque ligne, deux colonnes : **qui fait** et **qui y pense**. C'est la seconde qui révèle le déséquilibre, et c'est celle qu'on n'a jamais notée.
+
+**Étape 3.** Redistribuer par **domaines entiers**, pas par tâches. « Tu prends tout ce qui concerne la voiture » signifie : y penser, le prévoir, le faire, en assumer les conséquences. C'est la seule redistribution qui déleste réellement.
+
+**Étape 4.** Accepter le standard de celui qui prend le domaine. C'est la condition de réussite la plus difficile, et sans elle rien ne tient : reprendre derrière l'autre annule le transfert.
+
+### 7.5 Ce qui use sans conflit
+
+Beaucoup de couples ne se disputent pas et s'épuisent quand même. Trois usures silencieuses.
+
+**La disparition du récit.** On cesse de se raconter les petites choses de la journée. C'est le tout premier signal, et le plus facile à réinstaller.
+
+**La logistique qui remplace la relation.** Les seules conversations portent sur ce qu'il faut faire. Le couple devient une petite entreprise, efficace et vide.
+
+**L'asymétrie du temps libre.** Le temps résiduel n'est jamais également réparti, et personne ne le calcule. Un test simple et instructif : chacun note, pendant une semaine, ses heures réellement libres — libres, c'est-à-dire sans surveillance ni anticipation. L'écart surprend presque toujours.
+
+💑 **Dans le couple**
+
+La formulation qui bloque : « tu ne fais rien ». Elle est fausse — l'autre fait des choses — donc elle appelle une défense, et la conversation part sur la comptabilité des tâches, terrain où le problème n'est pas.
+
+La formulation qui ouvre déplace vers le « qui y pense » : **« je crois qu'on partage bien les tâches, mais que je porte seule le fait d'y penser. Est-ce qu'on peut regarder ça ligne par ligne ? »** Elle reconnaît ce qui est fait, elle nomme précisément le manque, et elle propose un support concret.
+
+**Bons réflexes**
+
+- Écrivez l'inventaire. De mémoire, chacun sous-estime ce que fait l'autre et surestime ce qu'il fait lui-même — c'est un biais général et documenté, pas de la mauvaise foi.
+- Transférez des domaines, pas des tâches. Une tâche déléguée revient ; un domaine transféré part.
+- Bannissez « aider ». Le mot désigne le problème.
+- Ne reprenez pas derrière l'autre. Un standard imparfait tenu par deux vaut mieux qu'un standard parfait tenu par un seul.
+- Comptez le temps libre réel une semaine. C'est la mesure la moins contestable.
+
+---
+
+## 8. Les projets de vie : enfant, lieu, travail
+
+### 8.1 Ce qui rend ces décisions différentes des autres
+
+Trois caractéristiques les distinguent, et elles expliquent pourquoi les méthodes de décision habituelles y échouent.
+
+Elles sont **peu réversibles** — un enfant ne se défait pas, un déménagement se refait mal. Elles sont **asymétriques** : elles ne coûtent pas la même chose aux deux, notamment en matière de carrière et de corps. Et elles sont **datées** : certaines fenêtres se referment, ce qui interdit de repousser indéfiniment.
+
+D'où une règle qui traverse ce chapitre : sur ces sujets, **l'absence de décision est une décision**, et elle est prise par défaut au détriment de celui pour qui la fenêtre se referme.
+
+### 8.2 L'enfant : la conversation la plus mal menée
+
+Elle est souvent réduite à une question binaire — tu en veux ou pas — posée trop tard et trop frontalement.
+
+**Ce qui la rend traitable.** La séparer en quatre questions distinctes, qui n'ont pas les mêmes réponses : est-ce que j'en veux ; est-ce que j'en veux **avec cette personne** ; est-ce que j'en veux **maintenant** ; qu'est-ce qu'il faudrait pour que ce soit possible. Beaucoup de « non » sont en réalité des « pas maintenant » ou des « pas dans ces conditions », et les confondre casse des couples pour rien.
+
+**Ce qui doit être dit et ne l'est presque jamais.** La fertilité décline avec l'âge chez les deux, plus tôt et plus vite chez la femme. Ce n'est pas une pression à exercer, c'est une information à partager : décider de reporter est légitime, décider de reporter **sans savoir** ne l'est pas.
+
+**L'asymétrie réelle.** Grossesse, accouchement, suites, allaitement, et — statistiquement — interruption de carrière, temps partiel, retentissement sur la retraite. Un projet d'enfant qui n'aborde pas explicitement cette asymétrie la fait porter en silence par un seul. Voir [Pour Elle](<../1 - Guides/Pour Elle/README.md>).
+
+**Le désaccord durable.** C'est l'un des rares sujets où le compromis n'existe pas : on ne fait pas un demi-enfant. Quand le désaccord est profond et stable, la question honnête n'est pas comment convaincre l'autre, mais si chacun peut vivre avec la décision de l'autre. Y répondre tôt évite dix ans de malentendu.
+
+### 8.3 Le lieu : ce qu'on sous-estime
+
+Où vivre paraît moins lourd qu'un enfant. C'est pourtant la décision qui détermine le plus le quotidien : temps de trajet, proximité des proches, possibilités d'emploi, réseau amical.
+
+Deux erreurs fréquentes. **Suivre l'un sans compensation explicite** : celui qui déménage perd son réseau, parfois son emploi, et se retrouve dépendant. Ce n'est pas un problème si c'est nommé et compensé ; c'en est un si c'est traité comme allant de soi. Et **sous-estimer le trajet** : les temps de transport quotidiens ont un effet documenté sur le bien-être, très supérieur à ce que les gens anticipent au moment de choisir.
+
+Le point d'attention pratique : qui est au bail ou au prêt, et selon quelles parts. Voir [Indivision](<../2 - Notions/Indivision.md>) et le chapitre 8 de [L'amour](<../1 - Guides/L amour/README.md>).
+
+### 8.4 Le travail : les arbitrages invisibles
+
+Peu de couples décident explicitement de leur configuration professionnelle. Elle s'installe par une suite de micro-arbitrages : c'est celui qui gagne le moins qui prend le congé, qui réduit, qui adapte. Chaque décision est raisonnable isolément ; leur accumulation produit un écart durable de revenus, d'autonomie et de retraite.
+
+Ce qui rend la chose traitable : le dire à l'avance. **« Si l'un de nous réduit, qu'est-ce qui compense, et comment ? »** La compensation peut prendre plusieurs formes — épargne au nom de celui qui réduit, rééquilibrage du temps domestique, engagement de réversibilité. Aucune n'est automatique.
+
+### 8.5 La méthode commune
+
+Applicable aux trois sujets.
+
+**Séparer le principe, le calendrier et les conditions.** « Je ne veux pas » et « je ne veux pas maintenant » et « je ne veux pas comme ça » appellent des réponses opposées.
+
+**Chercher l'intérêt derrière la position.** « Qu'est-ce que tu protèges en disant ça ? » — voir le chapitre 5.
+
+**Prévoir la réversibilité quand elle existe.** Elle réduit la peur bien plus efficacement que la réassurance.
+
+**Dater le point de contrôle.** « On en reparle en janvier » évite à la fois la décision dans l'urgence et le report indéfini.
+
+**Écrire cinq lignes.** Ce qu'on décide, à partir de quand, qui fait quoi, ce qui se passe si l'un veut revenir dessus, quand on refait le point.
+
+💑 **Dans le couple**
+
+Le signal d'alarme n'est pas le désaccord, c'est **l'accord trop rapide**. Quelqu'un qui accepte immédiatement une décision de cette ampleur n'a souvent pas accepté : il a évité un conflit. Cet accord-là se paie plus tard, en retrait ou en ressentiment.
+
+La phrase qui sécurise : **« je préfère que tu me dises non maintenant plutôt que oui maintenant et que tu le regrettes dans cinq ans. Prends le temps, on en reparle dimanche. »**
+
+**Bons réflexes**
+
+- Posez les quatre questions séparément sur l'enfant. Une seule question binaire produit une réponse fausse.
+- Partagez l'information sur la fertilité tôt, sans en faire une pression. Décider en connaissance de cause est le minimum.
+- Nommez l'asymétrie et compensez-la explicitement. Ce qui n'est pas dit est porté en silence.
+- Calculez le temps de trajet avant de choisir un logement. C'est le paramètre le plus sous-estimé du quotidien.
+- Datez toujours le prochain point. Une décision sans échéance n'est pas repoussée, elle est enterrée.
+
+---
+
+## 9. Faire face aux épreuves qui viennent de l'extérieur
+
+### 9.1 L'analogie du bateau et de la vague
+
+Un bateau ne coule pas parce qu'une vague est haute. Il coule si la vague le prend par le travers, ou si l'équipage se dispute la barre pendant qu'elle arrive.
+
+La plupart des épreuves d'un couple ne viennent pas de lui : elles viennent du dehors. Maladie, licenciement, famille, enfants, usure. Ce qui distingue les couples qui traversent n'est pas la taille de la vague, c'est l'orientation prise avant qu'elle n'arrive — et le fait de tenir la barre à deux plutôt que de se la disputer.
+
+### 9.2 Le principe qui vaut pour toutes
+
+Un couple soumis à une pression extérieure a tendance à transformer cette pression en conflit interne. C'est mécanique : la tension doit aller quelque part, et le partenaire est la cible la plus disponible.
+
+Le retournement qui protège tient en une phrase, à se dire explicitement : **« le problème, c'est la situation, pas toi. »** Cela paraît naïf écrit ainsi. Dit à voix haute au bon moment, cela change la géométrie d'une dispute — on passe de face à face à côte à côte, ce qui est exactement la [notion](<../2 - Notions/Côte à côte.md>) qui porte ce nom dans ce projet.
+
+### 9.3 La famille et la belle-famille
+
+Source de conflit la plus fréquente après l'argent, et celle où les erreurs sont les plus prévisibles.
+
+**La règle qui règle presque tout : chacun parle à sa propre famille.** Une remarque déplacée d'un parent se traite par son propre enfant, pas par le conjoint. Quand c'est le conjoint qui monte au front, deux choses arrivent : il devient le méchant pour la famille, et son partenaire se retrouve pris entre deux loyautés.
+
+**Le partenaire n'est pas un arbitre.** Demander de choisir entre sa mère et son conjoint est une impasse. La question utile n'est pas « qui a raison » mais « qu'est-ce qu'on décide, nous, sur ce point précis ».
+
+**Les limites se posent sur des faits, pas sur des personnes.** « On ne parlera pas de nos projets d'enfant à table » est tenable. « Ma mère est insupportable » ne l'est pas.
+
+### 9.4 Le travail et l'argent
+
+Deux configurations reviennent.
+
+**La perte d'emploi.** Elle touche l'identité autant que le revenu, particulièrement là où le travail structure la valeur sociale — voir [Pour Lui](<../1 - Guides/Pour Lui/README.md>). L'erreur fréquente du partenaire est de vouloir résoudre : proposer des offres, motiver. Ce qui aide davantage : maintenir une place et un rôle dans le foyer, et ne pas laisser la question devenir le seul sujet de conversation.
+
+**La surcharge professionnelle.** Elle dégrade le couple sans conflit apparent : moins de disponibilité, moins de récit, moins de désir. Le repère utile est le passage d'une période à un état. Une période intense se traverse ; un état permanent se négocie.
+
+### 9.5 Les enfants
+
+Ils ne créent pas les problèmes, ils **révèlent et amplifient** ce qui existait. Un déséquilibre de charge invisible avant devient intenable après.
+
+Deux points documentés qui méritent d'être connus à l'avance.
+
+**La satisfaction conjugale baisse en moyenne après l'arrivée d'un enfant**, avec un creux dans les premières années. C'est une moyenne, pas un destin, et le savoir évite de l'interpréter comme un échec personnel.
+
+**Le sommeil est le facteur médiateur principal.** Avant de chercher des explications relationnelles à une période difficile avec un nourrisson, regarder les nuits des deux parents.
+
+Le levier concret, banal et efficace : préserver des moments à deux, même très courts, et ne pas laisser la parentalité absorber la totalité de l'identité du couple.
+
+### 9.6 La maladie
+
+Elle produit le glissement le plus insidieux : le partenaire devient soignant. Il l'a été un peu, puis beaucoup, puis exclusivement — et personne ne l'a décidé.
+
+Deux conséquences, décrites au chapitre 6 : l'épuisement, qui arrive tard et brutalement, et la disparition du désir, difficile à maintenir envers quelqu'un dont on est devenu responsable.
+
+Ce qui protège : externaliser une partie du soin, garder un domaine entièrement à soi, et nommer la fatigue tôt. **« Je t'aime, et je suis fatigué. Ces deux choses sont vraies en même temps et la seconde ne remet pas la première en cause. »**
+
+💑 **Dans le couple**
+
+Le rituel le plus utile en période d'épreuve est aussi le plus contre-intuitif : **un moment sans le sujet**. Une heure par semaine où la maladie, le chômage ou la belle-famille sont hors jeu.
+
+Ce n'est pas de l'évitement. C'est le maintien d'un espace où la relation existe autrement qu'en tant que cellule de crise — et c'est précisément cet espace qui permet de tenir sur la durée.
+
+**Bons réflexes**
+
+- Rappelez à voix haute que l'adversaire est la situation. Cette phrase répositionne une dispute en quelques secondes.
+- Chacun gère sa propre famille. C'est la règle qui évite le plus de dégâts.
+- Face à un partenaire en difficulté, demandez ce dont il a besoin plutôt que de proposer des solutions : **« tu veux qu'on cherche des solutions, ou tu veux juste que je t'écoute ? »**
+- Regardez le sommeil avant les explications relationnelles, surtout avec de jeunes enfants.
+- Protégez un temps sans le sujet. Une crise qui occupe cent pour cent de la relation la remplace.
+
+---
+
+## 10. Le deuil, seul et à deux
+
+### 10.1 Ce que le modèle des cinq étapes a abîmé
+
+Il faut commencer par là, parce que ce modèle est partout et qu'il fait du mal.
+
+Les cinq étapes — déni, colère, marchandage, dépression, acceptation — viennent des travaux d'Elisabeth Kübler-Ross auprès de **personnes en fin de vie**, et non de personnes endeuillées. Elles n'ont jamais été validées comme une séquence obligatoire du deuil (source : Kübler-Ross, *On Death and Dying*, 1969, et critiques ultérieures du modèle par étapes ; vérification du 6 août 2026).
+
+Le dégât est concret : croire à un ordre produit de la culpabilité. On se croit en retard, bloqué à une étape, anormal de ressentir de la colère après avoir cru accepter. Le deuil ne suit ni ordre ni calendrier.
+
+### 10.2 Un modèle plus juste : l'oscillation
+
+Le modèle du double processus, proposé par Margaret Stroebe et Henk Schut, décrit mieux ce qui s'observe : le deuil alterne entre deux orientations. Une orientation vers la **perte** — pleurer, se souvenir, ressentir le manque — et une orientation vers la **restauration** — s'occuper du quotidien, des démarches, reconstruire une vie.
+
+Le point important est que **l'oscillation entre les deux est le mécanisme sain**, pas un signe d'incohérence. Rire une heure après avoir pleuré n'est pas de l'indifférence. Être efficace sur des démarches administratives n'est pas de la froideur. Les deux mouvements sont nécessaires, et une personne bloquée exclusivement dans l'un des deux est celle dont il faut s'inquiéter.
+
+### 10.3 Ce qui est normal et ce qui alerte
+
+**Normal, même si déroutant** : des vagues sans prévenir des mois plus tard ; le soulagement, notamment après une longue maladie, et la culpabilité qui l'accompagne ; la colère contre le défunt ; l'impression de « voir » ou d'entendre la personne dans les premiers temps ; une fatigue physique importante.
+
+**Ce qui justifie de consulter** : au-delà d'une durée prolongée — les repères cliniques évoquent plutôt un an — une douleur qui n'évolue pas du tout, une incapacité persistante à reprendre un fonctionnement, une identification qui empêche tout mouvement vers la vie. On parle alors de deuil prolongé, désormais reconnu comme un trouble à part entière, et qui bénéficie de prises en charge spécifiques.
+
+**Ce qui justifie d'appeler tout de suite** : des idées suicidaires. **3114**, gratuit, en permanence, ouvert aussi aux proches inquiets.
+
+### 10.4 Deux personnes ne font pas le même deuil
+
+C'est la principale difficulté du deuil à deux, et elle est rarement anticipée.
+
+Deux personnes qui perdent la même personne — un parent, un enfant, un ami commun — ne perdent pas la même chose et ne l'expriment pas au même rythme. L'un pleure, l'autre s'active. L'un veut parler, l'autre ne peut pas. Chacun interprète alors le mouvement de l'autre comme un jugement : « il s'en fiche » contre « elle ne remonte pas la pente ».
+
+Le décalage des oscillations est la règle, pas l'exception. Le nommer suffit souvent à désamorcer : **« on n'est pas au même endroit en même temps, et ce n'est pas un problème. »**
+
+La perte d'un enfant mérite d'être signalée à part : elle met les couples sous une pression considérable, et l'accompagnement spécialisé y est particulièrement indiqué — non parce que le couple serait fragile, mais parce que la charge est hors norme.
+
+### 10.5 Ce qui aide et ce qui n'aide pas
+
+**N'aide pas**, malgré les intentions : chercher un sens à tout prix (« c'était son heure », « il ne souffre plus ») ; comparer les deuils ; fixer un calendrier (« ça fait six mois, il faudrait ») ; éviter de prononcer le nom du défunt, de peur de raviver — c'est l'inverse, l'effacement du nom est vécu comme une seconde disparition.
+
+**Aide** : dire le nom, parler de la personne, raconter des souvenirs, y compris drôles. Proposer du concret plutôt que « dis-moi si tu as besoin » — apporter un repas, garder les enfants, faire une démarche. Marquer les dates : les anniversaires et les fêtes sont des reprises prévisibles, et les anticiper à deux les rend traversables.
+
+Et une chose simple qui fonctionne mieux que toutes les formules : **« je ne sais pas quoi te dire, et je suis là. »**
+
+💑 **Dans le couple**
+
+Le piège spécifique est de vouloir consoler dans le registre de l'autre, faute de savoir. Celui qui veut parler noie celui qui ne peut pas ; celui qui s'active accuse l'autre de s'enfermer.
+
+La question qui règle beaucoup, le levier du menu fermé : **« aujourd'hui, tu préfères qu'on en parle, qu'on fasse autre chose, ou que je te laisse tranquille ? »** Trois options, toutes acceptables, aucune ne demande de formuler un état intérieur.
+
+**Bons réflexes**
+
+- Oubliez les cinq étapes. Elles ne décrivent pas le deuil et elles ajoutent de la culpabilité à la peine.
+- Attendez-vous au décalage entre vous. Ce n'est pas un désaccord sur l'importance de la perte.
+- Dites le nom du défunt. L'éviter n'épargne personne.
+- Offrez du concret plutôt que de la disponibilité générale.
+- Anticipez les dates. Elles reviennent, elles font mal, et les préparer change leur poids.
+
+---
+
+## 11. Le couple à travers les âges et les civilisations
+
+### 11.1 Pourquoi ce chapitre est utile, et pas seulement curieux
+
+La plupart des tensions d'un couple portent sur des règles qu'aucun des deux n'a choisies et que les deux prennent pour naturelles : qui gagne l'argent, qui élève les enfants, ce que la fidélité exige, ce qu'un mariage engage.
+
+Voir que ces règles ont été très différentes ailleurs et avant ne dit pas quoi faire. Cela produit autre chose, de plus utile : **ça rend les règles discutables**. Ce qui paraît naturel ne se négocie pas ; ce qui apparaît comme un choix historique se négocie très bien.
+
+C'est le sens de ce chapitre : déconstruire proprement, c'est-à-dire avec des faits, et non remplacer une norme par une autre.
+
+### 11.2 Le mariage n'a presque jamais été affaire d'amour
+
+C'est le fait historique le plus contre-intuitif. Pendant l'essentiel de l'histoire humaine, le mariage a organisé des alliances entre familles, la transmission d'un patrimoine et la répartition du travail. L'amour pouvait exister, avant ou après, mais il n'était pas le critère de la décision — il était même parfois considéré comme une base dangereusement instable.
+
+L'historienne Stephanie Coontz a documenté ce basculement : l'idée que le mariage devrait reposer sur l'amour s'impose en Occident à partir de la fin du XVIIIe siècle et se généralise au XXe (source : Coontz, *Marriage, a History*, 2005 ; vérification du 6 août 2026).
+
+La conséquence est développée dans [L'amour](<../1 - Guides/L amour/README.md>), chapitre 5 : un couple fondé sur un sentiment est plus désirable et plus fragile qu'un couple fondé sur l'économie, puisque la disparition du sentiment dissout la raison d'être. Ce n'est pas que les gens sauraient moins s'engager qu'avant : c'est que le critère a changé.
+
+### 11.3 La diversité des formes
+
+Un rappel factuel, sans exotisme et sans idéalisation.
+
+Les enquêtes anthropologiques comparatives montrent que la majorité des sociétés répertoriées ont **autorisé** une forme de polygynie, tout en la pratiquant minoritairement — l'écart entre ce qui est permis et ce qui est courant est un point que la vulgarisation escamote souvent. La polyandrie existe, plus rare, documentée notamment dans certaines régions himalayennes. Des sociétés matrilinéaires, où la transmission passe par la lignée maternelle, existent également, comme chez les Minangkabau d'Indonésie ou les Mosuo en Chine.
+
+Deux précautions honnêtes. Ces exemples ne décrivent pas des paradis égalitaires : une société matrilinéaire n'est pas nécessairement une société où les femmes détiennent le pouvoir politique. Et le couple, sous une forme ou une autre, reste l'unité de coopération dominante presque partout — la diversité porte sur ses règles, pas sur son existence.
+
+### 11.4 Ce qui a changé récemment, et vite
+
+Trois transformations, très récentes à l'échelle historique, qui expliquent l'essentiel des désaccords contemporains.
+
+**L'autonomie économique des femmes.** Salaire propre, compte bancaire, capacité juridique. En France, ce n'est qu'en 1965 qu'une femme mariée peut exercer une profession et ouvrir un compte sans l'autorisation de son mari. La possibilité de partir est très jeune, et elle change tout ce qui se négocie dans un couple.
+
+**La maîtrise de la fécondité.** Contraception et légalisation de l'IVG dissocient sexualité et procréation, ce qui déplace la question de l'enfant du registre du destin à celui de la décision.
+
+**L'allongement de la durée.** Un mariage « à vie » n'engageait pas la même durée quand l'espérance de vie était bien plus courte. Rester ensemble cinquante ou soixante ans est une situation historiquement inédite, dont personne n'a hérité le mode d'emploi.
+
+### 11.5 Ce que ça change pour vous, concrètement
+
+Trois déplacements utiles.
+
+**Ce qui paraît naturel est presque toujours daté.** La répartition « il gagne, elle élève », souvent perçue comme traditionnelle, correspond surtout à une configuration occidentale du milieu du XXe siècle. Avant, dans les milieux paysans et artisans, les femmes travaillaient massivement.
+
+**Il n'existe pas de modèle par défaut.** L'absence de norme unique est une charge — tout est à négocier — mais aussi une liberté : votre couple n'a aucune obligation de ressembler à celui de vos parents ou de vos amis.
+
+**Les règles explicites protègent mieux que les règles supposées.** Les sociétés qui organisaient le couple par la coutume avaient au moins l'avantage de règles connues de tous. Un couple contemporain qui ne discute pas les siennes ne fonctionne pas sans règles : il fonctionne avec des règles implicites, différentes chez chacun, et découvertes au moment du conflit.
+
+💑 **Dans le couple**
+
+L'exercice le plus rentable de ce chapitre est simple et se fait en une soirée. Chacun écrit de son côté ce qu'il considère comme « normal » dans un couple : qui gère l'argent, qui prend en charge quoi, ce qu'exige la fidélité, ce qu'on doit à sa famille, ce qui est privé.
+
+Puis on compare. L'écart est toujours plus grand que prévu, et il est presque toujours hérité — de la famille, du milieu, de l'époque — plutôt que choisi.
+
+La question qui suit : **« lesquelles de ces règles est-ce qu'on garde parce qu'on les a choisies, et lesquelles est-ce qu'on subit parce qu'on ne les a jamais discutées ? »**
+
+**Bons réflexes**
+
+- Traitez « c'est naturel » comme un signal d'alarme dans une discussion. C'est presque toujours une règle historique déguisée.
+- Écrivez vos normes séparément avant de les comparer. À l'oral, on s'aligne sans s'en rendre compte.
+- Ne remplacez pas une norme par une autre. Le fait que d'autres sociétés fassent autrement n'indique pas ce que vous devez faire.
+- Rendez explicites les règles que vous gardez. Une règle choisie et dite protège ; une règle supposée se découvre en conflit.
+
+---
+
+## 12. Sources vérifiables
 
 Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérification. Les affirmations sans source précise sont listées à la fin plutôt qu'omises.
 

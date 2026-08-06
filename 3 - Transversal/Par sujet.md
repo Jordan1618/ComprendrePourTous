@@ -27,6 +27,9 @@ Ce qui concerne le corps et le fonctionnement féminins. À lire pour se compren
 - [Foire aux questions rapides](<../1 - Guides/Pour Elle/10 - Foire aux questions.md>)  `pratique`
 - [Ressources et associations utiles](<../1 - Guides/Pour Elle/11 - Ressources et associations.md>)  `repères`
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/12 - Glossaire des termes médicaux.md>)  `repères`
+- [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<../1 - Guides/Pour Elle/13 - La sante emotionnelle feminine.md>)  `psychologie`
+- [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<../1 - Guides/Pour Elle/14 - Les pieges de la modernite.md>)  `prévention`
+- [Les peurs : lesquelles sont fondées, et comment avancer](<../1 - Guides/Pour Elle/15 - Les peurs rationnelles ou non.md>)  `prévention`
 
 ## Corps masculin
 
@@ -51,6 +54,8 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Pour Lui/10 - Les limites.md>)  `relation`
 - [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/10b - Le désir dans la durée.md>)  `relation`
 - [Aide-mémoire](<../1 - Guides/Pour Lui/11 - Aide-mémoire.md>)  `repères`
+- [Le cycle masculin : ce qui existe vraiment](<../1 - Guides/Pour Lui/12 - Le cycle masculin.md>)  `physiologie`
+- [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/13 - La sante sur le long terme.md>)  `prévention`
 
 ## Commun
 
@@ -64,7 +69,12 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [En parler à son partenaire : les formulations qui passent](<../1 - Guides/Pour Nous/04 - En parler a son partenaire.md>)  `relation`
 - [Décider et construire ensemble](<../1 - Guides/Pour Nous/05 - Decider et construire ensemble.md>)  `pratique`
 - [Traverser les crises et tenir dans la durée](<../1 - Guides/Pour Nous/06 - Traverser les crises.md>)  `relation`
-- [Sources vérifiables](<../1 - Guides/Pour Nous/07 - Sources verifiables.md>)  `repères`
+- [Le quotidien et sa charge](<../1 - Guides/Pour Nous/07 - Le quotidien et sa charge.md>)  `relation`
+- [Les projets de vie : enfant, lieu, travail](<../1 - Guides/Pour Nous/08 - Les projets de vie.md>)  `pratique`
+- [Faire face aux épreuves qui viennent de l'extérieur](<../1 - Guides/Pour Nous/09 - Faire face aux epreuves.md>)  `relation`
+- [Le deuil, seul et à deux](<../1 - Guides/Pour Nous/10 - Le deuil.md>)  `relation`
+- [Le couple à travers les âges et les civilisations](<../1 - Guides/Pour Nous/11 - Le couple a travers les ages.md>)  `repères`
+- [Sources vérifiables](<../1 - Guides/Pour Nous/12 - Sources verifiables.md>)  `repères`
 **La rencontre**
 
 - [Ce que le cerveau décide avant vous](<../1 - Guides/La rencontre/01 - Ce que le cerveau decide avant vous.md>)  `physiologie`

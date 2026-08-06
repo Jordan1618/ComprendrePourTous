@@ -1,6 +1,6 @@
 ---
 guide: "Pour Nous"
-chapitre: "7"
+chapitre: "12"
 titre: "Sources vérifiables"
 sujet: "commun"
 angle: "repères"

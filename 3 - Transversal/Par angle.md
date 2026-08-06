@@ -19,6 +19,7 @@ Comment le corps fonctionne concrètement, mécanisme par mécanisme.
 - [La grossesse : physiologie et complications](<../1 - Guides/Pour Elle/06 - La grossesse.md>)  `corps féminin` · Pour Elle
 - [L'accouchement et le post-partum](<../1 - Guides/Pour Elle/07 - Accouchement et post-partum.md>)  `corps féminin` · Pour Elle
 - [Le corps masculin : ce qu'il est utile de savoir](<../1 - Guides/Pour Lui/05 - Le corps masculin.md>)  `corps masculin` · Pour Lui
+- [Le cycle masculin : ce qui existe vraiment](<../1 - Guides/Pour Lui/12 - Le cycle masculin.md>)  `corps masculin` · Pour Lui
 - [Ce qu'un trauma fait au corps](<../1 - Guides/Pour Nous/01 - Ce qu un trauma fait au corps.md>)  `commun` · Pour Nous
 - [Ce que le cerveau décide avant vous](<../1 - Guides/La rencontre/01 - Ce que le cerveau decide avant vous.md>)  `commun` · La rencontre
 - [Ce que le cerveau appelle amour](<../1 - Guides/L amour/01 - Ce que le cerveau appelle amour.md>)  `commun` · L'amour
@@ -30,6 +31,7 @@ Comment le corps fonctionne concrètement, mécanisme par mécanisme.
 
 Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 
+- [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<../1 - Guides/Pour Elle/13 - La sante emotionnelle feminine.md>)  `corps féminin` · Pour Elle
 - [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<../1 - Guides/Pour Lui/02 - L'architecture émotionnelle.md>)  `corps masculin` · Pour Lui
 - [Le substrat : analyse socio-neuro-psychologique](<../1 - Guides/Pour Lui/02b - Le substrat socio-neuro-psychologique.md>)  `corps masculin` · Pour Lui
 - [Les grands profils masculins](<../1 - Guides/Pour Lui/02c - Les grands profils masculins.md>)  `corps masculin` · Pour Lui
@@ -50,6 +52,9 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 Dépistage, protection, risque réel contre risque perçu.
 
 - [La pilule et la contraception hormonale : raisonnement étape par étape](<../1 - Guides/Pour Elle/03 - Contraception hormonale.md>)  `corps féminin` · Pour Elle
+- [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<../1 - Guides/Pour Elle/14 - Les pieges de la modernite.md>)  `corps féminin` · Pour Elle
+- [Les peurs : lesquelles sont fondées, et comment avancer](<../1 - Guides/Pour Elle/15 - Les peurs rationnelles ou non.md>)  `corps féminin` · Pour Elle
+- [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/13 - La sante sur le long terme.md>)  `corps masculin` · Pour Lui
 - [Ce qui se répare vraiment : les prises en charge qui ont des preuves](<../1 - Guides/Pour Nous/03 - Ce qui se repare vraiment.md>)  `commun` · Pour Nous
 - [Les signaux d'alerte documentés](<../1 - Guides/La rencontre/07 - Les signaux d alerte documentes.md>)  `commun` · La rencontre
 - [Sécurité pratique et cadre légal](<../1 - Guides/La rencontre/08 - Securite et cadre legal.md>)  `commun` · La rencontre
@@ -78,6 +83,9 @@ Ce que ça change concrètement quand on est deux.
 - [Hypervigilance et évitement : ce que ça donne à deux](<../1 - Guides/Pour Nous/02 - Hypervigilance et evitement en couple.md>)  `commun` · Pour Nous
 - [En parler à son partenaire : les formulations qui passent](<../1 - Guides/Pour Nous/04 - En parler a son partenaire.md>)  `commun` · Pour Nous
 - [Traverser les crises et tenir dans la durée](<../1 - Guides/Pour Nous/06 - Traverser les crises.md>)  `commun` · Pour Nous
+- [Le quotidien et sa charge](<../1 - Guides/Pour Nous/07 - Le quotidien et sa charge.md>)  `commun` · Pour Nous
+- [Faire face aux épreuves qui viennent de l'extérieur](<../1 - Guides/Pour Nous/09 - Faire face aux epreuves.md>)  `commun` · Pour Nous
+- [Le deuil, seul et à deux](<../1 - Guides/Pour Nous/10 - Le deuil.md>)  `commun` · Pour Nous
 - [Les premiers échanges : ce qui se joue vraiment](<../1 - Guides/La rencontre/06 - Les premiers echanges.md>)  `commun` · La rencontre
 - [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/06 - Les langages de l amour.md>)  `commun` · L'amour
 - [Le désir dans la durée](<../1 - Guides/L amour/07 - Le desir dans la duree.md>)  `commun` · L'amour
@@ -94,6 +102,7 @@ Quoi faire, concrètement, avec des formulations et des gestes précis.
 - [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Pour Elle/09 - Conseils pratiques généraux.md>)  `corps féminin` · Pour Elle
 - [Foire aux questions rapides](<../1 - Guides/Pour Elle/10 - Foire aux questions.md>)  `corps féminin` · Pour Elle
 - [Décider et construire ensemble](<../1 - Guides/Pour Nous/05 - Decider et construire ensemble.md>)  `commun` · Pour Nous
+- [Les projets de vie : enfant, lieu, travail](<../1 - Guides/Pour Nous/08 - Les projets de vie.md>)  `commun` · Pour Nous
 - [Mieux choisir : la synthèse actionnable](<../1 - Guides/La rencontre/09 - Mieux choisir la synthese.md>)  `commun` · La rencontre
 - [Ce que l'amour engage concrètement](<../1 - Guides/L amour/08 - Ce que l amour engage.md>)  `commun` · L'amour
 - [Décoder une émotion : à quoi sert chacune](<../1 - Guides/Les emotions/04 - Decoder une emotion.md>)  `commun` · Les émotions
@@ -120,7 +129,8 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/12 - Glossaire des termes médicaux.md>)  `corps féminin` · Pour Elle
 - [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Lui/01 - Ce que disent les chiffres.md>)  `corps masculin` · Pour Lui
 - [Aide-mémoire](<../1 - Guides/Pour Lui/11 - Aide-mémoire.md>)  `corps masculin` · Pour Lui
-- [Sources vérifiables](<../1 - Guides/Pour Nous/07 - Sources verifiables.md>)  `commun` · Pour Nous
+- [Le couple à travers les âges et les civilisations](<../1 - Guides/Pour Nous/11 - Le couple a travers les ages.md>)  `commun` · Pour Nous
+- [Sources vérifiables](<../1 - Guides/Pour Nous/12 - Sources verifiables.md>)  `commun` · Pour Nous
 - [Où les gens se rencontrent vraiment](<../1 - Guides/La rencontre/04 - Ou les gens se rencontrent vraiment.md>)  `commun` · La rencontre
 - [Les applications : la logique derrière l'écran](<../1 - Guides/La rencontre/05 - Les applications de rencontre.md>)  `commun` · La rencontre
 - [Sources vérifiables](<../1 - Guides/La rencontre/10 - Sources verifiables.md>)  `commun` · La rencontre

@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Pour Nous"
 sujet: "commun"
-chapitres: 7
-mots: 6030
+chapitres: 12
+mots: 10498
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
@@ -30,9 +30,14 @@ Le guide distingue nettement ce qui **explique** un comportement de ce qui l'**e
 | 4 | [En parler à son partenaire : les formulations qui passent](<04 - En parler a son partenaire.md>) | relation | 926 |
 | 5 | [Décider et construire ensemble](<05 - Decider et construire ensemble.md>) | pratique | 935 |
 | 6 | [Traverser les crises et tenir dans la durée](<06 - Traverser les crises.md>) | relation | 949 |
-| 7 | [Sources vérifiables](<07 - Sources verifiables.md>) | repères | 591 |
+| 7 | [Le quotidien et sa charge](<07 - Le quotidien et sa charge.md>) | relation | 879 |
+| 8 | [Les projets de vie : enfant, lieu, travail](<08 - Les projets de vie.md>) | pratique | 907 |
+| 9 | [Faire face aux épreuves qui viennent de l'extérieur](<09 - Faire face aux epreuves.md>) | relation | 884 |
+| 10 | [Le deuil, seul et à deux](<10 - Le deuil.md>) | relation | 865 |
+| 11 | [Le couple à travers les âges et les civilisations](<11 - Le couple a travers les ages.md>) | repères | 933 |
+| 12 | [Sources vérifiables](<12 - Sources verifiables.md>) | repères | 591 |
 
-Total : 6 030 mots, 7 chapitres.
+Total : 10 498 mots, 12 chapitres.
 
 ## Par où commencer
 
@@ -43,9 +48,9 @@ Total : 6 030 mots, 7 chapitres.
 - **Vous vous sentez devenu le soignant plutôt que le partenaire** : chapitre 6, partie 6.2.
 - **Vous voulez repérer les signaux avant qu'il ne soit tard** : chapitre 6, partie 6.4.
 
-## Ce qui reste à écrire
+## Ajouts du 6 août 2026
 
-Ce guide est en cours d'élargissement. Les chapitres prévus et non encore écrits : le quotidien et la répartition réelle de la charge, les projets de vie et la parentalité, faire face aux épreuves venues de l'extérieur (famille, travail, santé, amis), le deuil à deux et seul, et un chapitre historique sur la façon dont le couple s'est organisé à travers les âges et les civilisations — pour démystifier ce qui passe aujourd'hui pour naturel.
+Cinq chapitres élargissent le guide au-delà du trauma : le quotidien et sa charge (7), les projets de vie — enfant, lieu, travail (8), les épreuves venues de l'extérieur — famille, travail, enfants, maladie (9), le deuil seul et à deux (10), et le couple à travers les âges et les civilisations, pour rendre discutables des règles qu'on croit naturelles (11).
 
 ## Une note sur la sécurité
 
@@ -57,6 +62,6 @@ Si un comportement relève du contrôle coercitif ou de la violence, son origine
 
 ## Sources et mise à jour
 
-Sources vérifiées au 6 août 2026, regroupées dans le chapitre [Sources vérifiables](<07 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise.
+Sources vérifiées au 6 août 2026, regroupées dans le chapitre [Sources vérifiables](<12 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

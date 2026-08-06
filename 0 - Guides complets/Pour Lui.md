@@ -2,9 +2,9 @@
 type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
-chapitres: 17
-mots: 22538
-verifie_le: 2026-07-31
+chapitres: 19
+mots: 24413
+verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
 genere_le: 2026-08-06
@@ -41,6 +41,8 @@ C'est le miroir exact du guide sur le cycle féminin. Là où l'un explique un c
 - **10.** Les limites : ce qui n'est pas à soi de porter
 - **10 bis.** Le désir dans la durée : ce qui l'installe, ce qui l'éteint
 - **11.** Aide-mémoire
+- **12.** Le cycle masculin : ce qui existe vraiment
+- **13.** La santé sur vingt ans : ce qui compte et quand
 
 ---
 
@@ -1393,3 +1395,136 @@ Toutes les sources ci-dessus ont été vérifiées le 31 juillet 2026.
 Version 1 du 31 juillet 2026. Les chapitres 2, 3 et 8 sont les plus développés parce qu'ils portent le cœur du sujet. Les chapitres 5 (corps) et 7 (âges de la vie) sont volontairement plus synthétiques et peuvent être approfondis. Les ajouts futurs seront numérotés en X.Y bis pour ne pas casser les renvois internes.
 
 Version 2 du 31 juillet 2026. Ajout de six chapitres consacrés à la psychologie et au dilemme masculins, insérés en numérotation bis pour préserver l'ensemble des renvois de la version 1, dont aucun caractère n'a été modifié : 2 bis (substrat socio-neuro-psychologique), 2 ter (profils masculins), 8 bis (conflits entre hommes), 9 bis (reproches récurrents), 9 ter (dilemme contemporain et vérités à remettre en place), 10 bis (pourquoi un homme veut une femme ou n'en veut plus, et ce qui le fait tomber). Le volume de la partie psychologique passe d'environ 3 000 à environ 12 800 mots, soit un facteur supérieur à quatre. Les chapitres 5 et 7 restent les candidats prioritaires pour un prochain approfondissement.
+
+---
+
+## 12. Le cycle masculin : ce qui existe vraiment
+
+### 12.1 L'analogie de la marée et de la vague
+
+Une marée est un cycle : régulière, prévisible, on peut en publier le calendrier. Une vague est une variation : réelle, sensible, mais irrégulière et dépendante du vent.
+
+Le corps féminin connaît une marée — le cycle menstruel, avec ses phases identifiables. Le corps masculin connaît des vagues : des variations hormonales réelles, quotidiennes et saisonnières, mais qui ne forment pas un cycle au sens strict. Confondre les deux mène soit à nier les variations masculines, soit à inventer un cycle qui n'existe pas.
+
+### 12.2 Ce qui est établi
+
+**Le rythme circadien de la testostérone.** C'est la variation la mieux documentée. La testostérone suit un rythme sur vingt-quatre heures, avec un maximum en fin de nuit et au réveil, et un minimum en fin de journée. L'amplitude est significative, ce qui a deux conséquences concrètes : un dosage sanguin doit être fait le matin pour être interprétable, et l'énergie comme la libido varient réellement dans la journée pour des raisons physiologiques.
+
+**Les variations saisonnières.** Des travaux décrivent des variations sur l'année, avec des taux plutôt plus élevés en automne dans les populations étudiées. L'effet est modeste et les résultats varient selon les études.
+
+**La variabilité interindividuelle.** Elle est considérable. Les intervalles de référence pour la testostérone totale sont larges, et deux hommes en bonne santé peuvent avoir des taux très différents sans que l'un soit anormal. C'est pourquoi un chiffre isolé, sorti de son contexte clinique, ne veut pas dire grand-chose.
+
+### 12.3 Ce qui n'est pas établi
+
+Il faut le dire clairement, parce que ces affirmations circulent beaucoup.
+
+**Le « cycle masculin » de 24, 30 ou 33 jours.** On trouve en ligne des affirmations très précises sur un cycle hormonal masculin de plusieurs semaines, parfois présenté comme l'équivalent du cycle féminin. **Cette affirmation n'a pas de fondement solide.** Les variations documentées sont circadiennes et saisonnières, pas mensuelles. Je préfère l'écrire que de reprendre une donnée séduisante et fausse.
+
+**L'« andropause » comme équivalent de la ménopause.** Le terme est trompeur. La ménopause est un arrêt, relativement rapide et universel. Chez l'homme, il s'agit d'une baisse **lente et progressive** de la testostérone à partir de la trentaine ou de la quarantaine, de l'ordre de quelques dixièmes à environ un pour cent par an selon les travaux, très variable, et qui n'aboutit pas à un arrêt. Le terme médical employé est plutôt celui de déficit androgénique lié à l'âge, et il ne concerne qu'une partie des hommes. Voir le chapitre 13.
+
+### 12.4 Ce qui fait réellement varier la testostérone
+
+Beaucoup plus que le calendrier, et c'est la partie actionnable.
+
+**Le sommeil.** C'est le facteur le plus puissant. La privation de sommeil fait baisser la testostérone de façon nette et rapide, mesurable après quelques nuits écourtées. Dormir est, littéralement, une intervention hormonale.
+
+**Le poids et la composition corporelle.** L'excès de masse grasse est associé à des taux plus bas, par plusieurs mécanismes dont la conversion périphérique en œstrogènes. La perte de poids remonte les taux.
+
+**L'alcool.** Consommation régulière et élevée : effet négatif documenté.
+
+**Le stress chronique.** L'élévation prolongée du cortisol s'accompagne d'une baisse de la testostérone.
+
+**L'activité physique.** Effet globalement favorable, avec une nuance : le surentraînement sans récupération suffisante produit l'effet inverse.
+
+**Certains médicaments.** Opioïdes et corticoïdes au long cours, notamment.
+
+Autrement dit, la question n'est presque jamais « où en suis-je dans mon cycle » mais « comment j'ai dormi cette semaine ».
+
+### 12.5 Les variations d'humeur, sans les surinterpréter
+
+Les hommes connaissent des variations d'humeur et d'énergie. Elles sont réelles. Ce qui manque, c'est un cadre pour les nommer — là où le cycle féminin fournit au moins une grille, même imparfaite.
+
+Deux erreurs symétriques à éviter. **Nier** ces variations, en les rangeant sous « ça va », ce qui est le mécanisme décrit au chapitre 2 de ce guide. Et **les hormonaliser** en inventant un cycle, ce qui a l'avantage apparent de fournir une explication toute faite mais empêche de regarder les causes réelles : sommeil, charge, alcool, isolement.
+
+Le cadre honnête tient en une phrase : **vos variations sont réelles, elles ne suivent pas un calendrier, et leurs causes sont pour l'essentiel identifiables.**
+
+💑 **Dans le couple**
+
+L'usage le plus utile de ce chapitre est de désamorcer une accusation fréquente et symétrique : « tu es lunatique » d'un côté, « c'est tes hormones » de l'autre. Ni l'un ni l'autre ne décrit ce qui se passe.
+
+La formulation qui remplace, avec le levier du chiffre : **« sur dix, ton énergie là, elle est où ? »** Elle est répondable à tout moment, elle ne demande pas d'introspection, et elle donne une information exploitable.
+
+**Bons réflexes**
+
+- Faites doser la testostérone le matin, et toujours deux fois avant de conclure quoi que ce soit. Un dosage isolé de l'après-midi n'est pas interprétable.
+- Regardez le sommeil des deux dernières semaines avant de chercher une cause hormonale.
+- Méfiez-vous de tout contenu qui décrit un cycle masculin en jours. La précision affichée est un signal d'alerte, pas de sérieux.
+- Notez vos variations pendant un mois, avec le sommeil et l'alcool en regard. Le lien saute souvent aux yeux sans qu'aucun dosage soit nécessaire.
+
+---
+
+## 13. La santé sur vingt ans : ce qui compte et quand
+
+### 13.1 Le problème, en un chiffre honnête
+
+Les hommes vivent en moyenne moins longtemps que les femmes, dans tous les pays. Une part de cet écart est biologique ; une part importante ne l'est pas. Elle tient à des comportements et à un rapport au soin : tabac, alcool, conduites à risque, moindre recours au médecin, retard à consulter.
+
+C'est une bonne nouvelle mal formulée. **La partie modifiable est grande.** Ce chapitre liste ce qui compte réellement, par ordre d'impact, et à quel moment s'en occuper.
+
+### 13.2 Le classement par impact réel
+
+Dans l'ordre, du plus au moins déterminant.
+
+**1. Le tabac.** Aucun autre facteur ne rapporte autant à l'arrêt. Le bénéfice commence en quelques jours et se poursuit pendant des années.
+
+**2. Le risque cardiovasculaire.** Première cause de mortalité masculine. Il se surveille avec trois mesures simples : tension artérielle, bilan lipidique, glycémie. La tension est le paramètre le plus rentable — silencieuse, très fréquente, et traitable.
+
+**3. L'alcool.** Les repères de consommation à moindre risque ont été revus à la baisse dans la plupart des pays. En France, le repère communiqué est de ne pas dépasser dix verres par semaine, pas plus de deux par jour, avec des jours sans. C'est nettement moins que ce que beaucoup considèrent comme normal.
+
+**4. L'activité physique et le sommeil.** Effets larges : cardiovasculaire, métabolique, humeur, sommeil, libido.
+
+**5. La santé mentale.** Développée plus bas, et systématiquement absente des bilans de santé.
+
+**6. Les dépistages spécifiques.** Utiles, mais après les cinq précédents en termes d'impact.
+
+### 13.3 Ce qu'il faut surveiller, par décennie
+
+**Vingt à trente ans.** Dépistage des IST au changement de partenaire — voir [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>). Vaccination HPV, désormais recommandée aussi chez les garçons : elle protège des cancers ORL et anaux, et interrompt la transmission. Habitudes qui s'installent : tabac, alcool, sommeil. Autopalpation testiculaire — le cancer du testicule est rare mais touche surtout les 20-35 ans, et se guérit très bien pris tôt. Toute masse dure et indolore justifie une consultation rapide.
+
+**Trente à quarante ans.** Première mesure de tension et bilan lipidique si ce n'est pas déjà fait, plus tôt en cas d'antécédents familiaux. Prise de poids progressive à surveiller. Santé mentale : c'est la décennie où la pression professionnelle et parentale culmine.
+
+**Quarante à cinquante ans.** Suivi cardiovasculaire régulier. Discussion sur le dépistage du cancer de la prostate — voir plus bas. Troubles de l'érection : à ne pas traiter comme un sujet gênant mais comme un **signal vasculaire précoce**, parfois révélateur d'une atteinte cardiovasculaire avant tout autre symptôme. Voir le chapitre 5 de ce guide.
+
+**Cinquante ans et au-delà.** Dépistage organisé du cancer colorectal, par test immunologique, tous les deux ans dans la tranche d'âge concernée : simple, à faire chez soi, et très largement sous-utilisé. Poursuite du suivi cardiovasculaire. Audition et vision. Densité osseuse en cas de facteurs de risque — l'ostéoporose masculine existe et est très sous-diagnostiquée.
+
+### 13.4 La prostate, sans simplifier
+
+Sujet où l'information circulante est particulièrement confuse.
+
+Le dépistage par dosage du PSA **ne fait pas l'objet d'un consensus**. Il détecte des cancers qui n'auraient jamais évolué, conduisant à des biopsies et des traitements dont les effets indésirables — troubles de l'érection, incontinence — sont fréquents et durables. En France, les autorités de santé ne recommandent pas de dépistage systématique en population générale, tout en reconnaissant la place d'une décision individuelle informée.
+
+Ce que cela signifie en pratique : ce n'est pas « faites-le » ni « ne le faites pas », c'est **une discussion à avoir avec un médecin**, en tenant compte des antécédents familiaux et de l'origine, deux facteurs qui modifient le risque. Une consultation dédiée vaut mieux qu'une décision prise seul à partir d'un article.
+
+### 13.5 La santé mentale sur la durée
+
+Elle appartient à ce chapitre autant que la tension.
+
+Les hommes consultent moins pour des motifs psychiques et représentent la nette majorité des décès par suicide, avec un écart de l'ordre de trois pour un en France. Les deux faits sont liés : moins de recours, plus de létalité.
+
+Trois moments de bascule reviennent : une rupture ou un divorce, la perte d'un emploi, le départ à la retraite. Ils partagent une caractéristique — ils suppriment d'un coup un rôle et un réseau, deux choses qui tiennent souvent lieu de vie sociale entière chez les hommes. C'est le « désert relationnel » décrit au chapitre 8.
+
+**Signal d'alerte, pas clause de style** : des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit, en permanence, accessible aussi à un proche inquiet.
+
+💑 **Dans le couple**
+
+Les compagnes et compagnons sont, statistiquement, ceux qui poussent à consulter. C'est utile, et la formulation détermine largement le résultat.
+
+Ce qui bloque : « tu devrais voir un médecin », entendu comme un jugement. Ce qui passe, avec le levier du menu fermé : **« tu préfères que je prenne le rendez-vous ou que tu le prennes ? »** — la question porte sur la logistique, pas sur la nécessité, et elle suppose le rendez-vous acquis.
+
+**Bons réflexes**
+
+- Faites mesurer votre tension au moins une fois. C'est trente secondes, c'est gratuit en pharmacie, et c'est le paramètre le plus silencieux.
+- Traitez un trouble de l'érection comme un signal de santé, pas comme un sujet honteux. Il précède parfois de plusieurs années un événement cardiovasculaire.
+- Faites le test colorectal quand il arrive par courrier. Il est fait chez soi, il prend cinq minutes, et le cancer concerné se guérit très bien pris tôt.
+- Ayez un médecin traitant et voyez-le une fois par an, même quand tout va bien. Le rapport au soin masculin se joue là : consulter uniquement quand ça va mal, c'est consulter tard.
+- La santé mentale se surveille comme le reste. Le **3114** existe aussi pour ceux qui vont mal sans savoir le nommer.
