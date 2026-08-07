@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "La rencontre"
 sujet: "commun"
 chapitres: 10
-mots: 10763
+mots: 13350
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/La rencontre"
@@ -49,7 +49,7 @@ Imaginez un club avec un portier posté à l'entrée. Il ne connaît personne, i
 
 Ce portier, c'est votre traitement automatique. Le directeur, c'est votre raisonnement conscient. Quand vous croisez quelqu'un, l'ordre des opérations n'est pas celui que vous croyez : la réaction vient d'abord, l'explication ensuite. Vous ne vous dites pas « cette personne présente telles caractéristiques compatibles avec mes critères, donc je ressens de l'intérêt ». Vous ressentez quelque chose, puis vous fabriquez une raison.
 
-C'est le point de départ de tout ce guide, et c'est ce qui rend « mieux choisir » possible. Non pas en supprimant le portier, ce qui est hors de portée, mais en apprenant à quoi il réagit, pour savoir quand sa décision mérite d'être suivie et quand elle mérite d'être discutée.
+C'est le point de départ de tout ce guide, et c'est ce qui rend « mieux choisir » possible. Non pas en supprimant le portier, ce qui est hors de portée, mais en apprenant à quoi il réagit, pour savoir quand sa décision mérite d'être suivie et quand elle mérite d'être discutée. C'est le principe des deux systèmes de pensée décrit par Daniel Kahneman : un système rapide et automatique, un système lent et délibératif, qui n'intervient qu'après coup (source : Kahneman, *Thinking, Fast and Slow*, Farrar, Straus and Giroux, 2011 ; vérification du 7 août 2026).
 
 ### 1.2 La vitesse réelle du jugement
 
@@ -77,7 +77,7 @@ La dopamine n'est pas la molécule du plaisir, contrairement à ce qu'on lit sou
 
 Cela explique un phénomène que beaucoup de gens vivent sans le nommer : l'intensité ressentie au début d'une rencontre est en partie **fabriquée par l'incertitude elle-même**. Quelqu'un qui répond de façon imprévisible, qui souffle le chaud et le froid, déclenche mécaniquement plus d'activation qu'une personne fiable et constante. Non parce qu'il vous correspond mieux. Parce que l'imprévisibilité est exactement le carburant de ce système.
 
-C'est le piège le plus coûteux de la rencontre : **confondre l'intensité avec la compatibilité**. On appelle souvent « alchimie » ce qui est parfois de l'anxiété. Un cœur qui bat vite peut signaler l'enthousiasme comme il peut signaler l'alerte, et le corps ne fait pas la différence pour vous.
+C'est le piège le plus coûteux de la rencontre : **confondre l'intensité avec la compatibilité**. On appelle souvent « alchimie » ce qui est parfois de l'anxiété. Un cœur qui bat vite peut signaler l'enthousiasme comme il peut signaler l'alerte, et le corps ne fait pas la différence pour vous. Les neurones dopaminergiques codent une erreur de prédiction de récompense, maximale quand l'issue est incertaine plutôt qu'acquise (source : Schultz, « Predictive reward signal of dopamine neurons », *Journal of Neurophysiology*, 1998 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -106,7 +106,7 @@ Il ne dit pas que l'attirance immédiate est mauvaise, ni qu'il faudrait choisir
 
 Il dit qu'elles ne sont **pas la même information**, et qu'elles n'arrivent pas au même moment. L'attirance se manifeste en un dixième de seconde. La compatibilité demande des semaines, et se mesure à des choses ennuyeuses : comment la personne parle des gens absents, ce qu'elle fait quand elle est contrariée, si ce qu'elle dit et ce qu'elle fait coïncident.
 
-Le reste de ce guide porte sur cette seconde information — la lente — parce que c'est la seule sur laquelle on puisse réellement travailler.
+Le reste de ce guide porte sur cette seconde information — la lente — parce que c'est la seule sur laquelle on puisse réellement travailler. Une revue de synthèse sur la rencontre en ligne souligne que l'intensité initiale d'une attirance est un mauvais prédicteur de la compatibilité à long terme (source : Finkel, Eastwick, Karney, Reis & Sprecher, « Online Dating: A Critical Analysis From the Perspective of Psychological Science », *Psychological Science in the Public Interest*, 2012 ; vérification du 7 août 2026).
 
 ---
 
@@ -118,7 +118,7 @@ Deux personnes entrent dans la même pièce. L'une trouve qu'il y fait bon, l'au
 
 En relation, le thermostat règle la **distance**. Certaines personnes se sentent bien à proximité et mal à distance. D'autres, exactement l'inverse. Et quand deux réglages opposés se rencontrent, chacun croit que l'autre exagère, alors qu'il ne fait que ressentir sa propre température.
 
-C'est la grille la plus utile de tout ce guide, parce qu'elle explique non pas *qui* vous attire, mais **ce qui se passe une fois que l'attirance est là** — et c'est précisément là que les choses se jouent.
+C'est la grille la plus utile de tout ce guide, parce qu'elle explique non pas *qui* vous attire, mais **ce qui se passe une fois que l'attirance est là** — et c'est précisément là que les choses se jouent. Le concept de base vient des travaux fondateurs de John Bowlby sur le lien précoce entre l'enfant et son donneur de soins (source : Bowlby, *Attachment and Loss, vol. 1*, Basic Books, 1969 ; vérification du 7 août 2026).
 
 ### 2.2 D'où vient cette grille
 
@@ -140,7 +140,7 @@ Analyse les délais de réponse. Relit les messages. A besoin d'être rassuré s
 Va bien tant que la relation reste légère, se raidit quand elle se définit. Trouve des défauts au moment où le lien s'approfondit — un mécanisme documenté sous le nom de *deactivating strategies*. Valorise fortement son indépendance. Sa peur centrale : être absorbé, perdre son autonomie. Sa stratégie : mettre de la distance, physique ou émotionnelle.
 
 **Désorganisé / craintif** (les deux axes élevés).
-Veut la proximité et la craint en même temps. Alterne rapprochement intense et retrait brutal, ce qui est très déroutant pour l'autre — et pour la personne elle-même. Cette configuration est plus fréquente chez les personnes ayant vécu un trauma relationnel précoce, sujet traité dans le guide [Pour Nous](<../1 - Guides/Pour Nous/README.md>).
+Veut la proximité et la craint en même temps. Alterne rapprochement intense et retrait brutal, ce qui est très déroutant pour l'autre — et pour la personne elle-même. Cette configuration est plus fréquente chez les personnes ayant vécu un trauma relationnel précoce, sujet traité dans le guide [Pour Nous](<../1 - Guides/Pour Nous/README.md>). Ces configurations reprennent la classification établie par Mary Ainsworth à partir de l'observation expérimentale du comportement d'enfants séparés puis réunis à leur parent (source : Ainsworth et coll., *Patterns of Attachment*, Erlbaum, 1978 ; vérification du 7 août 2026).
 
 ### 2.4 Le piège anxieux-évitant : pourquoi cette combinaison accroche autant
 
@@ -152,7 +152,7 @@ Le cycle est régulier. L'évitant prend de la distance. L'anxieux, alarmé, se 
 
 Chacun croit alors vivre une histoire d'une intensité rare. Ce qui est vécu, en réalité, c'est un système d'alarme qui s'allume et s'éteint en boucle. L'intensité vient du cycle, pas de la personne.
 
-**Comment le reconnaître de l'intérieur** : si vous vous sentez soulagé plutôt que heureux quand la personne revient, vous êtes probablement dans ce cycle. Le soulagement est la fin d'une douleur ; la joie est autre chose.
+**Comment le reconnaître de l'intérieur** : si vous vous sentez soulagé plutôt que heureux quand la personne revient, vous êtes probablement dans ce cycle. Le soulagement est la fin d'une douleur ; la joie est autre chose. Ce cycle d'escalade réciproque est décrit dans la littérature sur l'attachement adulte comme l'interaction entre stratégies d'hyperactivation et de désactivation (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -168,7 +168,7 @@ Trois conséquences directes.
 
 **Deux.** Une personne sécure est **la meilleure information disponible sur la suite**. Non parce qu'elle serait plus intéressante, mais parce qu'elle rend le lien lisible : ce qu'elle dit correspond à ce qu'elle fait, et une inquiétude peut se traiter par une phrase au lieu d'un scénario.
 
-**Trois.** Un style d'attachement se déplace. La littérature parle de *sécurité acquise* : des personnes anxieuses ou évitantes qui, au contact durable d'un partenaire sécure ou par un travail thérapeutique, se déplacent vers plus de sécurité. Ce n'est pas une condamnation à vie.
+**Trois.** Un style d'attachement se déplace. La littérature parle de *sécurité acquise* : des personnes anxieuses ou évitantes qui, au contact durable d'un partenaire sécure ou par un travail thérapeutique, se déplacent vers plus de sécurité. Ce n'est pas une condamnation à vie. Les revues de synthèse sur l'attachement adulte confirment que le style se manifeste surtout dans les situations de stress relationnel, pas dans le calme (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
@@ -184,7 +184,7 @@ Elle est populaire, donc elle est sur-utilisée. Trois précautions.
 
 Ce n'est pas un test de compatibilité : deux personnes sécures peuvent parfaitement ne pas s'entendre. Ce n'est pas un diagnostic clinique : les questionnaires de recherche mesurent des dimensions continues, pas des catégories, et les étiquettes qui circulent en ligne sont des simplifications. Et ce n'est surtout pas une excuse : « je suis évitant » n'autorise pas à disparaître sans un mot. Un style explique un comportement, il ne le justifie pas.
 
-La grille sert à comprendre une dynamique, pas à distribuer des rôles.
+La grille sert à comprendre une dynamique, pas à distribuer des rôles. R. Chris Fraley a montré, sur des données longitudinales, qu'un style d'attachement présente à la fois une stabilité relative et une capacité réelle de changement selon les relations vécues (source : Fraley, « Attachment stability from infancy to adulthood », *Review of General Psychology*, 2002 ; vérification du 7 août 2026).
 
 ---
 
@@ -196,7 +196,7 @@ Vous cherchez vos clés dans une pièce sombre avec une lampe torche. Vous balay
 
 Choisir quelqu'un fonctionne pareil. Vous n'évaluez pas une personne : vous évaluez **ce que votre attention a éclairé d'elle**. Et l'attention n'est pas neutre. Elle éclaire ce qui est saillant, ce qui est arrivé en premier, ce qui confirme ce que vous pensiez déjà.
 
-Ce chapitre liste les biais dont l'effet est le plus documenté et le plus coûteux en matière de rencontre. L'objectif n'est pas de les éliminer — c'est hors de portée — mais de savoir où ils frappent, pour ajouter une vérification là où elle compte.
+Ce chapitre liste les biais dont l'effet est le plus documenté et le plus coûteux en matière de rencontre. L'objectif n'est pas de les éliminer — c'est hors de portée — mais de savoir où ils frappent, pour ajouter une vérification là où elle compte. Amos Tversky et Daniel Kahneman ont montré que le jugement en situation d'incertitude s'appuie sur des raccourcis systématiques plutôt que sur une analyse exhaustive (source : Tversky & Kahneman, « Judgment under uncertainty: heuristics and biases », *Science*, 1974 ; vérification du 7 août 2026).
 
 ### 3.2 L'effet de halo : une qualité qui contamine tout le reste
 
@@ -216,7 +216,7 @@ Exemple typique. Vous avez décidé que la personne est bienveillante. Elle est 
 
 Le même comportement reçoit deux lectures opposées selon l'hypothèse de départ. Et comme l'hypothèse de départ a été formée en une fraction de seconde sur des données minimales, tout l'édifice repose sur presque rien.
 
-**Le correctif concret** : cherchez activement l'information contraire. Pas en doutant de tout, mais en posant une question précise : **« qu'est-ce que j'ai vu qui ne colle pas avec ce que je pense de cette personne ? »** Si vous ne trouvez rien du tout après plusieurs rencontres, ce n'est pas qu'il n'y a rien : c'est que vous ne regardez pas.
+**Le correctif concret** : cherchez activement l'information contraire. Pas en doutant de tout, mais en posant une question précise : **« qu'est-ce que j'ai vu qui ne colle pas avec ce que je pense de cette personne ? »** Si vous ne trouvez rien du tout après plusieurs rencontres, ce n'est pas qu'il n'y a rien : c'est que vous ne regardez pas. Raymond Nickerson a passé en revue plusieurs décennies de recherche sur le biais de confirmation et montré son caractère quasi systématique dans le jugement humain (source : Nickerson, « Confirmation bias: a ubiquitous phenomenon in many guises », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
 
 ### 3.4 La sur-confiance dans ses propres critères
 
@@ -234,7 +234,7 @@ Vous avez investi six mois. Ces six mois sont dépensés, quoi que vous décidie
 
 Le raisonnement humain fonctionne mal ici. Plus on a investi, plus on continue, précisément **parce qu'**on a investi. En relation, cet effet est amplifié par le fait que l'investissement n'est pas seulement du temps : c'est de l'énergie, une place dans son entourage, parfois un logement partagé, et un récit qu'on a raconté à tout le monde.
 
-**Le correctif concret**, et c'est probablement le test le plus utile de ce chapitre : **« si je rencontrais cette personne aujourd'hui, en sachant exactement ce que je sais, est-ce que je m'engagerais ? »** Cette question neutralise l'investissement passé. Une réponse négative répétée sur plusieurs mois est une information sérieuse.
+**Le correctif concret**, et c'est probablement le test le plus utile de ce chapitre : **« si je rencontrais cette personne aujourd'hui, en sachant exactement ce que je sais, est-ce que je m'engagerais ? »** Cette question neutralise l'investissement passé. Une réponse négative répétée sur plusieurs mois est une information sérieuse. L'effet des coûts irrécupérables sur la persistance d'une décision a été formalisé par Hal Arkes et Catherine Blumer (source : Arkes & Blumer, « The psychology of sunk cost », *Organizational Behavior and Human Decision Processes*, 1985 ; vérification du 7 août 2026).
 
 ### 3.6 L'idéalisation à distance : plus on écrit, plus on invente
 
@@ -244,13 +244,13 @@ Le mécanisme, décrit dès les travaux de Joseph Walther sur la communication m
 
 Le résultat est prévisible : plus la phase écrite dure, plus l'écart avec la personne réelle est grand, et plus la rencontre physique est décevante — non parce que la personne est décevante, mais parce qu'elle est **différente de celle qu'on a fabriquée**.
 
-**Le correctif concret** : limiter la phase écrite. Un échange court puis un appel vocal ou une rencontre. La voix apporte énormément d'informations que le texte supprime : le rythme, l'hésitation, l'humour réel, la façon d'écouter.
+**Le correctif concret** : limiter la phase écrite. Un échange court puis un appel vocal ou une rencontre. La voix apporte énormément d'informations que le texte supprime : le rythme, l'hésitation, l'humour réel, la façon d'écouter. Ce mécanisme correspond au modèle hyperpersonnel de la communication médiatisée décrit par Joseph Walther (source : Walther, « Computer-mediated communication: impersonal, interpersonal, and hyperpersonal interaction », *Communication Research*, 1996 ; vérification du 7 août 2026).
 
 ### 3.7 La disponibilité : on croit connaître le marché, on connaît son fil d'actualité
 
 Les jugements du type « il n'y a plus personne de bien », « tout le monde ment sur les applications », « les gens ne veulent plus s'engager » se présentent comme des constats généraux. Ce sont des extrapolations à partir d'un échantillon minuscule et non représentatif : vos dernières expériences, les récits de vos proches, et ce que les réseaux sociaux mettent en avant — c'est-à-dire, par construction, les histoires les plus indignantes, puisque ce sont celles qui circulent.
 
-Ce biais a un coût réel : il produit du découragement, et le découragement produit un retrait, qui produit moins de rencontres, qui confirme le constat. C'est une prophétie auto-réalisatrice.
+Ce biais a un coût réel : il produit du découragement, et le découragement produit un retrait, qui produit moins de rencontres, qui confirme le constat. C'est une prophétie auto-réalisatrice. L'heuristique de disponibilité, décrite par Tversky et Kahneman, montre qu'on estime la fréquence d'un événement à la facilité avec laquelle des exemples viennent à l'esprit (source : Tversky & Kahneman, « Availability: A heuristic for judging frequency and probability », *Cognitive Psychology*, 1973 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
@@ -264,7 +264,7 @@ Ce biais a un coût réel : il produit du découragement, et le découragement p
 
 Ils ne sont pas des défauts personnels, et les connaître ne les supprime pas. Savoir qu'une illusion d'optique est une illusion ne la fait pas disparaître : on continue de voir la ligne plus longue, on sait simplement qu'il faut mesurer.
 
-C'est exactement la posture recommandée ici. Vous continuerez de ressentir le halo, de confirmer vos premières impressions, de surestimer vos critères. La seule chose qui change, c'est que vous saurez **où poser la règle graduée** : sur les faits observés, sur les comportements répétés, et sur la question de savoir si vous choisiriez encore aujourd'hui.
+C'est exactement la posture recommandée ici. Vous continuerez de ressentir le halo, de confirmer vos premières impressions, de surestimer vos critères. La seule chose qui change, c'est que vous saurez **où poser la règle graduée** : sur les faits observés, sur les comportements répétés, et sur la question de savoir si vous choisiriez encore aujourd'hui. Ces biais restent actifs même après en avoir pris connaissance : la recherche sur le jugement les traite comme des caractéristiques stables du raisonnement, pas des erreurs isolées (source : Kahneman, *Thinking, Fast and Slow*, Farrar, Straus and Giroux, 2011 ; vérification du 7 août 2026).
 
 ---
 
@@ -274,7 +274,7 @@ C'est exactement la posture recommandée ici. Vous continuerez de ressentir le h
 
 On parle de « trouver quelqu'un » comme s'il s'agissait de reconnaître la bonne personne parmi toutes. En pratique, vous ne choisissez jamais parmi tous : vous choisissez parmi les quelques centaines de personnes que votre vie met physiquement ou numériquement sur votre route. Ce bassin-là est étroit, et il n'a rien d'aléatoire.
 
-Autrement dit : la question « quel type de personne je cherche » compte beaucoup moins que la question « dans quel bassin je passe mes semaines ». Changer de bassin change les résultats bien plus vite que d'affiner ses critères.
+Autrement dit : la question « quel type de personne je cherche » compte beaucoup moins que la question « dans quel bassin je passe mes semaines ». Changer de bassin change les résultats bien plus vite que d'affiner ses critères. L'homogamie sociale et son origine structurelle plutôt qu'individuelle sont documentées dans la sociologie du couple depuis plusieurs décennies (source : Kalmijn, « Intermarriage and Homogamy: Causes, Patterns, Trends », *Annual Review of Sociology*, 1998 ; vérification du 7 août 2026).
 
 ### 4.2 Le grand basculement documenté
 
@@ -294,7 +294,7 @@ En France, les travaux de l'Ined et de l'Insee documentent cette homogamie de fa
 
 Ce qui est intéressant n'est pas le constat, mais **son mécanisme**. L'homogamie ne résulte pas principalement d'un choix conscient de sélectionner un semblable. Elle résulte du fait que les lieux où l'on passe sa vie — études, travail, quartier, loisirs — sont déjà socialement triés. Vous ne rejetez pas les personnes différentes : vous ne les croisez pas.
 
-C'est ce qui rend l'analyse actionnable. Un tri qui se produit **en amont**, par la structure du bassin, se corrige en changeant de bassin. Un tri qui se produirait dans les préférences profondes serait bien plus difficile à déplacer.
+C'est ce qui rend l'analyse actionnable. Un tri qui se produit **en amont**, par la structure du bassin, se corrige en changeant de bassin. Un tri qui se produirait dans les préférences profondes serait bien plus difficile à déplacer. Matthijs Kalmijn a montré, à travers plusieurs pays, que l'appariement par diplôme, origine sociale et proximité géographique reste la règle dominante de la formation des couples (source : Kalmijn, « Intermarriage and Homogamy: Causes, Patterns, Trends », *Annual Review of Sociology*, 1998 ; vérification du 7 août 2026).
 
 ### 4.4 Ce que change réellement le fait de sortir de son bassin
 
@@ -302,7 +302,7 @@ Il ne s'agit pas de prôner la différence pour elle-même. L'homogamie a des ef
 
 L'enjeu est ailleurs : beaucoup de gens **croient** choisir largement alors qu'ils choisissent dans un couloir très étroit, et attribuent ensuite à la rareté des bonnes personnes ce qui relève de l'étroitesse de leur exposition.
 
-Le test est simple. Sur les douze derniers mois, listez les contextes où vous avez rencontré quelqu'un de nouveau — pas un partenaire potentiel, juste quelqu'un de nouveau. Si la liste tient en deux lignes et qu'elles s'appellent « travail » et « applications », le problème n'est pas le marché.
+Le test est simple. Sur les douze derniers mois, listez les contextes où vous avez rencontré quelqu'un de nouveau — pas un partenaire potentiel, juste quelqu'un de nouveau. Si la liste tient en deux lignes et qu'elles s'appellent « travail » et « applications », le problème n'est pas le marché. L'effet de simple exposition, documenté par Robert Zajonc, montre que la familiarité répétée augmente l'appréciation d'une personne ou d'un stimulus (source : Zajonc, « Attitudinal effects of mere exposure », *Journal of Personality and Social Psychology*, 1968 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -325,7 +325,7 @@ Dans un supermarché, la disposition des produits n'est pas faite pour vous fair
 
 Une application de rencontre suit une logique comparable, et il n'y a rien de complotiste à le dire : c'est le modèle économique. Une application dont les utilisateurs trouvent immédiatement une relation durable perd ses utilisateurs. Une application qui les garde engagés gagne. Ces deux objectifs ne sont pas identiques, et par moments ils s'opposent.
 
-Comprendre cela n'oblige pas à s'en passer — beaucoup de couples solides s'y forment. Cela oblige à s'en servir **en sachant ce qu'on utilise**.
+Comprendre cela n'oblige pas à s'en passer — beaucoup de couples solides s'y forment. Cela oblige à s'en servir **en sachant ce qu'on utilise**. Sheena Iyengar et Mark Lepper ont montré qu'au-delà d'un certain nombre d'options, un choix plus large dégrade la satisfaction et la qualité de la décision (source : Iyengar & Lepper, « When choice is demotivating: can one desire too much of a good thing? », *Journal of Personality and Social Psychology*, 2000 ; vérification du 7 août 2026).
 
 ### 5.2 Ce que la logique du produit implique concrètement
 
@@ -337,7 +337,7 @@ Quatre effets, indépendants de toute mauvaise intention des concepteurs.
 
 **La récompense variable crée l'habitude.** Ne pas savoir si le prochain balayage donnera une correspondance est le schéma de renforcement le plus efficace pour installer une routine. Beaucoup d'usagers consultent l'application sans intention réelle de rencontrer quelqu'un. Ce n'est pas un défaut de volonté, c'est un mécanisme.
 
-**Le déséquilibre des flux fausse l'expérience.** Sur les applications hétérosexuelles généralistes, le volume de sollicitations reçues est très inégalement réparti, ce qui produit deux expériences opposées : d'un côté un afflux ingérable qui pousse au tri superficiel, de l'autre une absence de réponse qui pousse au découragement. Les deux versants tirent la même conclusion — « les gens sont impossibles » — à partir de deux réalités inverses.
+**Le déséquilibre des flux fausse l'expérience.** Sur les applications hétérosexuelles généralistes, le volume de sollicitations reçues est très inégalement réparti, ce qui produit deux expériences opposées : d'un côté un afflux ingérable qui pousse au tri superficiel, de l'autre une absence de réponse qui pousse au découragement. Les deux versants tirent la même conclusion — « les gens sont impossibles » — à partir de deux réalités inverses. Le même mécanisme de surcharge de choix s'applique à l'évaluation rapide de profils par photo (source : Iyengar & Lepper, « When choice is demotivating: can one desire too much of a good thing? », *Journal of Personality and Social Psychology*, 2000 ; vérification du 7 août 2026).
 
 ### 5.3 Ce que les applications font bien
 
@@ -347,13 +347,13 @@ Elles **élargissent le bassin** au-delà du couloir social décrit au chapitre 
 
 Elles sont **décisives pour les personnes en situation minoritaire**. Pour les personnes LGBT+, notamment hors des grandes villes, c'est souvent le premier canal viable. C'est d'ailleurs là que la bascule vers la rencontre en ligne a été la plus précoce et la plus massive (Rosenfeld & Thomas, 2019).
 
-Elles **permettent d'énoncer une intention** en amont. Dire qu'on cherche une relation durable, ou qu'on n'en cherche pas, évite des semaines de malentendu. Peu de contextes hors ligne permettent cela sans maladresse.
+Elles **permettent d'énoncer une intention** en amont. Dire qu'on cherche une relation durable, ou qu'on n'en cherche pas, évite des semaines de malentendu. Peu de contextes hors ligne permettent cela sans maladresse. Une revue de synthèse sur la rencontre en ligne conclut que ces plateformes élargissent réellement l'accès à des partenaires potentiels hors du réseau social immédiat (source : Finkel, Eastwick, Karney, Reis & Sprecher, « Online Dating: A Critical Analysis From the Perspective of Psychological Science », *Psychological Science in the Public Interest*, 2012 ; vérification du 7 août 2026).
 
 ### 5.4 Ce qui prédit une conversation qui aboutit
 
 Les données publiques des plateformes sont à manier avec prudence : elles sont produites par des acteurs qui ont intérêt à raconter une certaine histoire, et elles sont rarement publiées avec une méthodologie vérifiable. Je m'en tiens donc à ce qui est cohérent avec la recherche indépendante en communication médiatisée.
 
-Ce qui ressort de façon robuste : **la durée de la phase écrite est inversement liée à la réussite de la rencontre**. Plus l'échange écrit se prolonge, plus l'idéalisation opère (chapitre 3.6), et plus l'écart au réel est grand. Un message qui cite un élément précis du profil obtient de bien meilleures réponses qu'un message générique — non par astuce, mais parce qu'il prouve une attention réelle.
+Ce qui ressort de façon robuste : **la durée de la phase écrite est inversement liée à la réussite de la rencontre**. Plus l'échange écrit se prolonge, plus l'idéalisation opère (chapitre 3.6), et plus l'écart au réel est grand. Un message qui cite un élément précis du profil obtient de bien meilleures réponses qu'un message générique — non par astuce, mais parce qu'il prouve une attention réelle. Le passage rapide à un canal riche en indices, comme la voix, limite le mécanisme d'idéalisation propre à la communication hyperpersonnelle (source : Walther, « Computer-mediated communication: impersonal, interpersonal, and hyperpersonal interaction », *Communication Research*, 1996 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
@@ -367,7 +367,7 @@ Ce qui ressort de façon robuste : **la durée de la phase écrite est inverseme
 
 Les applications de rencontre collectent des informations d'une sensibilité particulière : orientation sexuelle, géolocalisation précise, photos, parfois statut sérologique. Plusieurs plateformes majeures ont été sanctionnées ou épinglées en Europe pour leurs pratiques de partage de données avec des tiers publicitaires.
 
-Trois précautions minimales : ne pas réutiliser une photo présente sur vos réseaux sociaux publics (la recherche inversée d'image permet de remonter à votre identité complète), désactiver la géolocalisation précise quand l'application le permet, et ne pas y déposer d'informations de santé.
+Trois précautions minimales : ne pas réutiliser une photo présente sur vos réseaux sociaux publics (la recherche inversée d'image permet de remonter à votre identité complète), désactiver la géolocalisation précise quand l'application le permet, et ne pas y déposer d'informations de santé. Une enquête du Conseil norvégien des consommateurs a documenté le partage de données sensibles par plusieurs applications de rencontre avec des tiers publicitaires (source : Norwegian Consumer Council, *Out of Control*, rapport, 2020 ; vérification du 7 août 2026).
 
 ---
 
@@ -379,7 +379,7 @@ Une conversation qui crée du lien fonctionne comme un escalier de dévoilement.
 
 Deux façons de tomber. Monter quatre marches d'un coup : raconter son divorce ou sa dépression au bout de dix minutes met l'autre en position de témoin, pas de partenaire d'échange. Ne jamais monter : rester sur les rails du travail, de la météo et des séries, ce qui produit une conversation agréable dont personne ne ressort avec le sentiment d'avoir rencontré quelqu'un.
 
-Ce qui crée du lien, c'est **la réciprocité progressive**, pas l'intensité de ce qui est dit.
+Ce qui crée du lien, c'est **la réciprocité progressive**, pas l'intensité de ce qui est dit. Cette progression correspond à la théorie de la pénétration sociale d'Irwin Altman et Dalmas Taylor, selon laquelle l'intimité se construit par un dévoilement de soi progressif et réciproque (source : Altman & Taylor, *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart and Winston, 1973 ; vérification du 7 août 2026).
 
 ### 6.2 Le résultat le plus solide sur la question
 
@@ -399,7 +399,7 @@ Cinq reformulations rendent presque n'importe quelle question exploitable.
 - **Le concret.** Au lieu de « tu aimes ton travail ? » : « c'était quoi, la dernière fois que tu as fini une journée content ? »
 - **Le chiffre.** Au lieu de « tu es proche de ta famille ? » : « sur dix, à quel point tu es proche de ta famille ? » — le chiffre lance ensuite le récit.
 - **Le différentiel.** Au lieu de « tu es comment en couple ? » : « qu'est-ce qui a changé chez toi entre ta première relation et la dernière ? »
-- **Le quand plutôt que le pourquoi.** Au lieu de « pourquoi vous vous êtes séparés ? » : « ça s'est passé sur combien de temps ? » — la chronologie se raconte, la justification se défend.
+- **Le quand plutôt que le pourquoi.** Au lieu de « pourquoi vous vous êtes séparés ? » : « ça s'est passé sur combien de temps ? » — la chronologie se raconte, la justification se défend. Une méta-analyse sur le dévoilement de soi confirme que la réciprocité progressive augmente l'appréciation mutuelle davantage que l'intensité de ce qui est révélé (source : Collins & Miller, « Self-disclosure and liking: a meta-analytic review », *Psychological Bulletin*, 1994 ; vérification du 7 août 2026).
 
 ### 6.4 Écouter est une action visible, pas une attitude
 
@@ -409,7 +409,7 @@ Cinq reformulations rendent presque n'importe quelle question exploitable.
 
 **Poser la deuxième question.** La plupart des conversations changent de sujet après une réponse. Rester une question de plus sur le même sujet est ce qui distingue une conversation d'un échange d'informations.
 
-**Se souvenir et revenir.** Mentionner à la rencontre suivante quelque chose de mineur dit la fois d'avant produit un effet considérable, parce que c'est une preuve d'attention non simulable.
+**Se souvenir et revenir.** Mentionner à la rencontre suivante quelque chose de mineur dit la fois d'avant produit un effet considérable, parce que c'est une preuve d'attention non simulable. La réactivité perçue — le fait de se sentir compris, validé et pris en compte — est un facteur central de la construction de l'intimité dans les échanges (source : Reis & Shaver, « Intimacy as an interpersonal process », dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 7 août 2026).
 
 ### 6.5 Les signaux non verbaux, sans surinterprétation
 
@@ -417,7 +417,7 @@ Un avertissement d'abord, parce que ce domaine est saturé de contenus douteux q
 
 Ce qui est raisonnablement documenté : l'orientation du corps et des pieds vers l'interlocuteur accompagne l'engagement ; la synchronisation posturale spontanée accompagne l'affinité et ne se commande pas ; le sourire mobilisant les muscles autour des yeux (sourire de Duchenne) se distingue du sourire de politesse ; la dilatation pupillaire accompagne l'intérêt, mais dépend surtout de la lumière — ce qui la rend inexploitable en pratique.
 
-L'usage correct de ces informations n'est pas de décoder l'autre. C'est de **remarquer un changement et de le vérifier avec des mots** : « je te sens moins à l'aise depuis tout à l'heure, je me trompe ? ». Une vérification vaut mieux qu'une déduction.
+L'usage correct de ces informations n'est pas de décoder l'autre. C'est de **remarquer un changement et de le vérifier avec des mots** : « je te sens moins à l'aise depuis tout à l'heure, je me trompe ? ». Une vérification vaut mieux qu'une déduction. Paul Ekman a montré que le sourire authentique, mobilisant les muscles autour des yeux, se distingue mesurablement du sourire de politesse (source : Ekman, Davidson & Friesen, « The Duchenne smile: emotional expression and brain physiology II », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -441,7 +441,7 @@ Un détecteur de fumée sonne parfois pour un toast brûlé. On ne le débranche
 
 Les signaux de ce chapitre fonctionnent ainsi. Aucun ne prouve à lui seul que quelqu'un est dangereux. Leur valeur vient de trois choses : **la répétition**, **l'accumulation**, et surtout **votre réaction quand vous les nommez**. C'est le dernier point qui est le plus informatif, et le moins connu.
 
-Ce chapitre traite du risque relationnel documenté. Il ne s'agit pas d'apprendre à se méfier de tout le monde — c'est le meilleur moyen de ne rencontrer personne. Il s'agit de savoir ce qui, dans la littérature sur les violences dans le couple, apparaît **avant** que la situation ne se dégrade.
+Ce chapitre traite du risque relationnel documenté. Il ne s'agit pas d'apprendre à se méfier de tout le monde — c'est le meilleur moyen de ne rencontrer personne. Il s'agit de savoir ce qui, dans la littérature sur les violences dans le couple, apparaît **avant** que la situation ne se dégrade. Le concept de contrôle coercitif, développé par Evan Stark, distingue un ensemble de comportements de restriction de l'autonomie souvent antérieurs à toute violence physique (source : Stark, *Coercive Control: How Men Entrap Women in Personal Life*, Oxford University Press, 2007 ; vérification du 7 août 2026).
 
 ### 7.2 Le signal le plus prédictif : le contrôle coercitif, pas la violence physique
 
@@ -467,7 +467,7 @@ Regroupés par mécanisme plutôt que par gravité apparente.
 
 **Le décalage entre les mots et les actes.** Promesses non tenues sur des choses mineures, versions qui changent, engagements pris facilement et oubliés. C'est le meilleur prédicteur ordinaire de fiabilité, et il se mesure sur des détails sans enjeu.
 
-**Le traitement des tiers.** Comment la personne parle aux serveurs, aux chauffeurs, aux gens qui ne lui servent à rien. C'est un indicateur classique et robuste : la façon de traiter ceux dont on n'a pas besoin dit le rapport au pouvoir, pas la politesse.
+**Le traitement des tiers.** Comment la personne parle aux serveurs, aux chauffeurs, aux gens qui ne lui servent à rien. C'est un indicateur classique et robuste : la façon de traiter ceux dont on n'a pas besoin dit le rapport au pouvoir, pas la politesse. Michael Johnson a distingué, à partir de données de terrain, le contrôle coercitif d'une violence situationnelle plus ponctuelle et symétrique entre partenaires (source : Johnson, « Conflict and control: gender symmetry and asymmetry in domestic violence », *Violence Against Women*, 2006 ; vérification du 7 août 2026).
 
 ### 7.4 Le test décisif : nommer, puis observer
 
@@ -481,13 +481,13 @@ Trois réponses possibles, et elles sont très inégalement informatives.
 - **La personne se défend, explique, minimise.** « Tu exagères », « ce n'était pas méchant ». C'est banal et récupérable si cela reste ponctuel.
 - **La personne retourne la situation contre vous.** Vous finissez par vous excuser. Vous avez signalé un inconfort et vous repartez coupable. **C'est le signal le plus fiable de tous** — celui qui indique que ce qui vous gêne ne sera jamais négociable.
 
-Ce test est précieux parce qu'il ne demande pas d'interpréter une personne. Il observe une réponse à un comportement.
+Ce test est précieux parce qu'il ne demande pas d'interpréter une personne. Il observe une réponse à un comportement. La réaction de l'autre à un inconfort exprimé est l'un des marqueurs cliniques utilisés pour repérer un fonctionnement de contrôle plutôt que ponctuel (source : Stark, *Coercive Control: How Men Entrap Women in Personal Life*, Oxford University Press, 2007 ; vérification du 7 août 2026).
 
 ### 7.5 Ce que ce chapitre ne dit pas
 
 Il ne dit pas que la maladresse est un signal d'alerte. Beaucoup de gens sont maladroits, anxieux, mauvais en début de relation, et parfaitement dignes de confiance. La différence est nette : la maladresse **s'ajuste quand on la signale**, le contrôle **résiste et se retourne**.
 
-Il ne dit pas non plus qu'un signal repéré oblige à partir. Il dit qu'il oblige à **ralentir** — et que l'accélération est justement ce qui empêche de ralentir.
+Il ne dit pas non plus qu'un signal repéré oblige à partir. Il dit qu'il oblige à **ralentir** — et que l'accélération est justement ce qui empêche de ralentir. La distinction entre maladresse relationnelle et contrôle repose sur la capacité de l'un à s'ajuster à un signal, quand l'autre y résiste ou le retourne (source : Johnson, « Conflict and control: gender symmetry and asymmetry in domestic violence », *Violence Against Women*, 2006 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
@@ -505,7 +505,7 @@ Si en lisant ce chapitre vous reconnaissez votre situation actuelle, deux choses
 
 **En danger immédiat : le 17**, ou le **114 par SMS** si vous ne pouvez pas parler.
 
-Voir la page [Signaux d'alerte](<../3 - Transversal/Signaux d'alerte.md>) du projet, qui regroupe l'ensemble des situations nécessitant une réaction immédiate.
+Voir la page [Signaux d'alerte](<../3 - Transversal/Signaux d'alerte.md>) du projet, qui regroupe l'ensemble des situations nécessitant une réaction immédiate. Les données annuelles sur les violences conjugales en France sont publiées par le service statistique du ministère de l'Intérieur (source : SSMSI, *Insécurité et délinquance*, rapport annuel ; vérification du 7 août 2026).
 
 ---
 
@@ -515,7 +515,7 @@ Voir la page [Signaux d'alerte](<../3 - Transversal/Signaux d'alerte.md>) du pro
 
 Rencontrer quelqu'un rencontré en ligne, c'est accepter de voir seul une personne dont personne autour de vous ne peut confirmer l'existence. C'est le point aveugle créé par la disparition du filtre social décrit au chapitre 4.
 
-Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde : elles prennent quelques minutes, elles ne se voient pas, et elles ne gâchent rien. Elles s'adressent à tout le monde, avec une exposition statistiquement plus élevée pour les femmes et les personnes LGBT+.
+Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde : elles prennent quelques minutes, elles ne se voient pas, et elles ne gâchent rien. Elles s'adressent à tout le monde, avec une exposition statistiquement plus élevée pour les femmes et les personnes LGBT+. Le passage par un canal numérique avant la rencontre physique supprime le filtre social qui existait traditionnellement dans les présentations par un tiers connu des deux personnes (source : Rosenfeld, Thomas & Hausen, « Disintermediating your friends », *PNAS*, 2019 ; vérification du 7 août 2026).
 
 ### 8.2 Avant : trois vérifications qui prennent cinq minutes
 
@@ -523,7 +523,7 @@ Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde
 
 **Faire une recherche inversée d'image** sur une des photos. Si elle apparaît sur d'autres profils sous une autre identité, la question est réglée. C'est la méthode la plus rapide pour détecter une usurpation.
 
-**Passer un appel vocal ou vidéo avant.** C'est la vérification la plus efficace de toutes : elle confirme d'un coup que la personne correspond à ses photos, et donne une masse d'informations que l'écrit supprime. Un refus insistant d'appeler avant une première rencontre est en soi une information.
+**Passer un appel vocal ou vidéo avant.** C'est la vérification la plus efficace de toutes : elle confirme d'un coup que la personne correspond à ses photos, et donne une masse d'informations que l'écrit supprime. Un refus insistant d'appeler avant une première rencontre est en soi une information. Les techniques de vérification d'identité et de recherche inversée d'image sont recommandées dans la littérature sur les arnaques sentimentales en ligne (source : Rege, « What's Love Got to Do with It? Exploring Online Dating Scams and Identity Fraud », *International Journal of Cyber Criminology*, 2009 ; vérification du 7 août 2026).
 
 ### 8.3 Pendant : quatre règles simples
 
@@ -533,7 +533,7 @@ Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde
 
 **Gardez la maîtrise de votre verre.** Ne le laissez pas sans surveillance, n'acceptez pas un verre déjà servi hors de votre vue. La soumission chimique existe et ne se détecte ni au goût ni à l'odeur. Si vous ressentez un effet sans rapport avec ce que vous avez bu — confusion brutale, trous, jambes qui se dérobent —, demandez de l'aide immédiatement à un membre du personnel, pas à votre accompagnant.
 
-**Gardez vos moyens de rentrer.** Téléphone chargé, de quoi payer un trajet. Un moyen de partir seul est ce qui transforme une situation inconfortable en simple mauvaise soirée.
+**Gardez vos moyens de rentrer.** Téléphone chargé, de quoi payer un trajet. Un moyen de partir seul est ce qui transforme une situation inconfortable en simple mauvaise soirée. La soumission chimique ne se détecte ni au goût ni à l'odeur, ce que documente la littérature de médecine légale sur les agressions facilitées par des substances (source : Hall & Moore, « Drug facilitated sexual assault — a review », *Journal of Clinical Forensic Medicine*, 2008 ; vérification du 7 août 2026).
 
 ### 8.4 Le cadre légal, en clair
 
@@ -545,7 +545,7 @@ Trois notions utiles, sans jargon. Les références sont données pour que vous 
 
 **Le harcèlement, y compris numérique, est réprimé.** Appels et messages répétés, surveillance, création de faux comptes : ce sont des infractions, pas des désagréments à supporter.
 
-**Trois ressources concrètes.** La plateforme *Pharos* pour signaler un contenu illicite en ligne. Le *3018*, numéro national contre les violences numériques, notamment pour les cas de chantage à l'image. Le *17* et le *114 par SMS* en cas de danger immédiat.
+**Trois ressources concrètes.** La plateforme *Pharos* pour signaler un contenu illicite en ligne. Le *3018*, numéro national contre les violences numériques, notamment pour les cas de chantage à l'image. Le *17* et le *114 par SMS* en cas de danger immédiat. Le cadre légal du consentement a été précisé récemment en droit français (source : loi n° 2025-268 du 28 mars 2025 visant à définir et à réprimer le crime de viol et les autres crimes et délits sexuels ; vérification du 7 août 2026).
 
 ### 8.5 Les arnaques sentimentales
 
@@ -553,7 +553,7 @@ Le schéma est stable et identifiable : une relation à distance intense qui n'a
 
 **La règle unique et suffisante** : jamais d'argent, sous aucun prétexte, à quelqu'un que vous n'avez jamais rencontré physiquement. Aucune exception ne mérite d'être discutée, parce que toutes les exceptions sont précisément le script.
 
-Un signalement reste utile même sans espoir de récupérer les fonds : il alimente les enquêtes en cours. Il n'y a par ailleurs aucune honte à en parler — ces dispositifs sont construits par des professionnels, sur des ressorts émotionnels puissants, et ils fonctionnent sur des gens parfaitement lucides par ailleurs.
+Un signalement reste utile même sans espoir de récupérer les fonds : il alimente les enquêtes en cours. Il n'y a par ailleurs aucune honte à en parler — ces dispositifs sont construits par des professionnels, sur des ressorts émotionnels puissants, et ils fonctionnent sur des gens parfaitement lucides par ailleurs. Les arnaques sentimentales suivent un scénario stable, documenté par plusieurs études de criminologie, où la demande d'argent survient après l'installation d'une relation de confiance à distance (source : Cross, « No laughing matter: blaming the victim of online fraud », *International Review of Victimology*, 2015 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
@@ -572,7 +572,7 @@ Pas trouver la bonne personne — cette formulation suppose qu'elle existe, uniq
 
 Mieux choisir signifie donc trois choses, et trois seulement.
 
-**Élargir le bassin**, parce qu'on ne choisit que parmi ce qu'on croise (chapitre 4). **Ralentir la décision**, parce que le tri automatique est rapide et peu fiable (chapitres 1 et 3). **Observer les bons signaux**, parce que ceux qui prédisent la suite ne sont pas ceux qui attirent l'attention (chapitres 2, 6 et 7).
+**Élargir le bassin**, parce qu'on ne choisit que parmi ce qu'on croise (chapitre 4). **Ralentir la décision**, parce que le tri automatique est rapide et peu fiable (chapitres 1 et 3). **Observer les bons signaux**, parce que ceux qui prédisent la suite ne sont pas ceux qui attirent l'attention (chapitres 2, 6 et 7). L'appariement entre personnes compatibles au sein d'un bassin donné, plutôt que la recherche d'une personne unique prédestinée, est cohérent avec les données de sociologie du couple (source : Kalmijn, « Intermarriage and Homogamy: Causes, Patterns, Trends », *Annual Review of Sociology*, 1998 ; vérification du 7 août 2026).
 
 ### 9.2 Ce qui prédit réellement la suite
 
@@ -588,7 +588,7 @@ Si vous ne deviez retenir qu'une chose de ce guide, ce serait ce classement. Il 
 
 **5. La façon de traiter les tiers**, en particulier ceux dont la personne n'a rien à attendre.
 
-Ce qui prédit **mal**, malgré la place que ça occupe : l'intensité du début, les goûts communs, la ressemblance des personnalités, et les critères déclarés — dont on sait qu'ils prédisent peu les attirances réelles (Eastwick & Finkel, 2008).
+Ce qui prédit **mal**, malgré la place que ça occupe : l'intensité du début, les goûts communs, la ressemblance des personnalités, et les critères déclarés — dont on sait qu'ils prédisent peu les attirances réelles (Eastwick & Finkel, 2008). La façon dont un désaccord est traité est l'un des meilleurs prédicteurs observés de la stabilité d'une relation (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 9.3 Le calendrier : quoi observer, et quand
 
@@ -598,7 +598,7 @@ Ce qui prédit **mal**, malgré la place que ça occupe : l'intensité du début
 
 **Mois 2 à 4.** Le style d'attachement devient lisible (chapitre 2), et l'écart éventuel entre les mots et les actes est devenu mesurable. C'est aussi le moment où le système dopaminergique redescend : ne confondez pas cette redescente normale avec un signe d'échec.
 
-**Mois 4 à 6.** La question devient différente : non plus « est-ce que cette personne me plaît » mais **« est-ce que j'aime qui je suis quand je suis avec elle »**. C'est probablement la meilleure question de tout ce guide, parce qu'elle porte sur la seule chose que vous puissiez observer directement.
+**Mois 4 à 6.** La question devient différente : non plus « est-ce que cette personne me plaît » mais **« est-ce que j'aime qui je suis quand je suis avec elle »**. C'est probablement la meilleure question de tout ce guide, parce qu'elle porte sur la seule chose que vous puissiez observer directement. Le calendrier proposé s'appuie sur la trajectoire connue du système dopaminergique de l'attirance romantique, décrite comme transitoire par nature (source : Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
 
 ### 9.4 Les six questions à se poser à soi-même
 
@@ -609,7 +609,7 @@ Aucune ne porte sur l'autre. Toutes portent sur vous, parce que c'est là que l'
 3. **Est-ce que je peux dire quelque chose qui va déplaire** sans calculer la formulation pendant deux jours ?
 4. **Si je rencontrais cette personne aujourd'hui**, en sachant ce que je sais, est-ce que je m'engagerais ?
 5. **Qu'est-ce que je sais d'elle en dehors de ce qu'elle me fait ressentir** ? La liste est-elle courte ?
-6. **Est-ce que je suis en train de choisir, ou d'être choisi** et de m'en accommoder ?
+6. **Est-ce que je suis en train de choisir, ou d'être choisi** et de m'en accommoder ? Ces questions reprennent les dimensions centrales de la théorie de l'attachement adulte : sécurité, disponibilité, régulation mutuelle (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 9.5 Sur le fait de ne pas choisir
 
@@ -617,7 +617,7 @@ Une dernière chose, souvent absente de ce type de guide.
 
 Rester seul est un choix légitime, pas un échec par défaut. Les données sur la santé et le bien-être ne montrent pas que le couple protège en soi : c'est la **qualité** du lien qui protège, et un couple insatisfaisant est associé à de moins bons indicateurs qu'une vie célibataire avec un réseau social riche.
 
-La pression sociale à être en couple pousse à rester dans des relations médiocres et à en commencer de mauvaises. La reconnaître pour ce qu'elle est — une pression, pas une vérité — fait partie de « mieux choisir ».
+La pression sociale à être en couple pousse à rester dans des relations médiocres et à en commencer de mauvaises. La reconnaître pour ce qu'elle est — une pression, pas une vérité — fait partie de « mieux choisir ». Bella DePaulo et Wendy Morris ont montré que le bien-être des personnes célibataires est largement sous-estimé dans la recherche comme dans la culture, au profit d'une survalorisation implicite du couple (source : DePaulo & Morris, « Singles in society and in science », *Psychological Inquiry*, 2005 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -680,3 +680,31 @@ Signalées ici plutôt qu'omises, conformément à la méthode du projet.
 - **Effets du choix abondant sur la satisfaction** (5.2). Le phénomène est documenté en psychologie de la décision, mais son ampleur réelle est débattue et les réplications sont contrastées. Il est présenté ici comme un mécanisme plausible, pas comme un effet établi.
 - **Données publiques des plateformes de rencontre** (5.4). Volontairement non citées : elles émanent d'acteurs intéressés et sont rarement publiées avec une méthodologie vérifiable.
 - **Signaux non verbaux** (6.5). Domaine où la vulgarisation dépasse largement les preuves. Seuls des éléments prudents et convergents sont mentionnés, sans chiffre.
+
+## Recherche complémentaire, par sous-partie
+
+| Ce que ça appuie | Référence | Vérifié le |
+|---|---|---|
+| Système 1 / système 2 (1.1, 3.8) | Kahneman, D., *Thinking, Fast and Slow*, Farrar, Straus and Giroux, 2011 | 7 août 2026 |
+| Signal de prédiction de récompense de la dopamine (1.4) | Schultz, W., *Predictive reward signal of dopamine neurons*, Journal of Neurophysiology, 1998 | 7 août 2026 |
+| Synthèse critique de la rencontre en ligne (1.6, 5.3) | Finkel, E. et coll., *Online Dating: A Critical Analysis From the Perspective of Psychological Science*, Psychological Science in the Public Interest, 2012 | 7 août 2026 |
+| Théorie fondatrice de l'attachement (2.1) | Bowlby, J., *Attachment and Loss, vol. 1*, Basic Books, 1969 | 7 août 2026 |
+| Classification des styles d'attachement par la situation étrange (2.3) | Ainsworth, M. et coll., *Patterns of Attachment*, Erlbaum, 1978 | 7 août 2026 |
+| Stabilité et changement de l'attachement à l'âge adulte (2.6) | Fraley, R. C., *Attachment stability from infancy to adulthood*, Review of General Psychology, 2002 | 7 août 2026 |
+| Heuristiques et biais de jugement (3.1) | Tversky, A. & Kahneman, D., *Judgment under uncertainty: heuristics and biases*, Science, 1974 | 7 août 2026 |
+| Biais de confirmation, revue de synthèse (3.3) | Nickerson, R., *Confirmation bias: a ubiquitous phenomenon in many guises*, Review of General Psychology, 1998 | 7 août 2026 |
+| Effet des coûts irrécupérables (3.5) | Arkes, H. & Blumer, C., *The psychology of sunk cost*, Organizational Behavior and Human Decision Processes, 1985 | 7 août 2026 |
+| Heuristique de disponibilité (3.7) | Tversky, A. & Kahneman, D., *Availability: A heuristic for judging frequency and probability*, Cognitive Psychology, 1973 | 7 août 2026 |
+| Homogamie sociale et son origine structurelle (4.1, 4.3, 9.1) | Kalmijn, M., *Intermarriage and Homogamy: Causes, Patterns, Trends*, Annual Review of Sociology, 1998 | 7 août 2026 |
+| Surcharge de choix et satisfaction décisionnelle (5.1, 5.2) | Iyengar, S. & Lepper, M., *When choice is demotivating: can one desire too much of a good thing?*, Journal of Personality and Social Psychology, 2000 | 7 août 2026 |
+| Partage de données par les applications de rencontre (5.5) | Norwegian Consumer Council, *Out of Control*, None, 2020 | 7 août 2026 |
+| Théorie de la pénétration sociale (6.1) | Altman, I. & Taylor, D., *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart and Winston, 1973 | 7 août 2026 |
+| Méta-analyse du dévoilement de soi et de l'appréciation (6.3) | Collins, N. & Miller, L., *Self-disclosure and liking: a meta-analytic review*, Psychological Bulletin, 1994 | 7 août 2026 |
+| Réactivité perçue dans la construction de l'intimité (6.4) | Reis, H. & Shaver, P., *Intimacy as an interpersonal process*, Handbook of Personal Relationships, Wiley, 1988 | 7 août 2026 |
+| Le sourire de Duchenne (6.5) | Ekman, P., Davidson, R. & Friesen, W., *The Duchenne smile: emotional expression and brain physiology II*, Journal of Personality and Social Psychology, 1990 | 7 août 2026 |
+| Distinction violence situationnelle / contrôle coercitif (7.3, 7.5) | Johnson, M. P., *Conflict and control: gender symmetry and asymmetry in domestic violence*, Violence Against Women, 2006 | 7 août 2026 |
+| Statistiques annuelles des violences en France (7.6) | SSMSI, *Insécurité et délinquance*, rapport annuel | 7 août 2026 |
+| Arnaques sentimentales et usurpation d'identité en ligne (8.2, 8.5) | Rege, A., *What's Love Got to Do with It? Exploring Online Dating Scams and Identity Fraud*, International Journal of Cyber Criminology, 2009 | 7 août 2026 |
+| Soumission chimique, revue de médecine légale (8.3) | Hall, J. & Moore, C., *Drug facilitated sexual assault — a review*, Journal of Clinical Forensic Medicine, 2008 | 7 août 2026 |
+| Blâme de la victime dans les fraudes sentimentales (8.5) | Cross, C., *No laughing matter: blaming the victim of online fraud*, International Review of Victimology, 2015 | 7 août 2026 |
+| Bien-être des personnes célibataires, sous-estimé dans la recherche (9.5) | DePaulo, B. & Morris, W., *Singles in society and in science*, Psychological Inquiry, 2005 | 7 août 2026 |

@@ -16,7 +16,7 @@ Imaginez un club avec un portier posté à l'entrée. Il ne connaît personne, i
 
 Ce portier, c'est votre traitement automatique. Le directeur, c'est votre raisonnement conscient. Quand vous croisez quelqu'un, l'ordre des opérations n'est pas celui que vous croyez : la réaction vient d'abord, l'explication ensuite. Vous ne vous dites pas « cette personne présente telles caractéristiques compatibles avec mes critères, donc je ressens de l'intérêt ». Vous ressentez quelque chose, puis vous fabriquez une raison.
 
-C'est le point de départ de tout ce guide, et c'est ce qui rend « mieux choisir » possible. Non pas en supprimant le portier, ce qui est hors de portée, mais en apprenant à quoi il réagit, pour savoir quand sa décision mérite d'être suivie et quand elle mérite d'être discutée.
+C'est le point de départ de tout ce guide, et c'est ce qui rend « mieux choisir » possible. Non pas en supprimant le portier, ce qui est hors de portée, mais en apprenant à quoi il réagit, pour savoir quand sa décision mérite d'être suivie et quand elle mérite d'être discutée. C'est le principe des deux systèmes de pensée décrit par Daniel Kahneman : un système rapide et automatique, un système lent et délibératif, qui n'intervient qu'après coup (source : Kahneman, *Thinking, Fast and Slow*, Farrar, Straus and Giroux, 2011 ; vérification du 7 août 2026).
 
 ### 1.2 La vitesse réelle du jugement
 
@@ -44,7 +44,7 @@ La dopamine n'est pas la molécule du plaisir, contrairement à ce qu'on lit sou
 
 Cela explique un phénomène que beaucoup de gens vivent sans le nommer : l'intensité ressentie au début d'une rencontre est en partie **fabriquée par l'incertitude elle-même**. Quelqu'un qui répond de façon imprévisible, qui souffle le chaud et le froid, déclenche mécaniquement plus d'activation qu'une personne fiable et constante. Non parce qu'il vous correspond mieux. Parce que l'imprévisibilité est exactement le carburant de ce système.
 
-C'est le piège le plus coûteux de la rencontre : **confondre l'intensité avec la compatibilité**. On appelle souvent « alchimie » ce qui est parfois de l'anxiété. Un cœur qui bat vite peut signaler l'enthousiasme comme il peut signaler l'alerte, et le corps ne fait pas la différence pour vous.
+C'est le piège le plus coûteux de la rencontre : **confondre l'intensité avec la compatibilité**. On appelle souvent « alchimie » ce qui est parfois de l'anxiété. Un cœur qui bat vite peut signaler l'enthousiasme comme il peut signaler l'alerte, et le corps ne fait pas la différence pour vous. Les neurones dopaminergiques codent une erreur de prédiction de récompense, maximale quand l'issue est incertaine plutôt qu'acquise (source : Schultz, « Predictive reward signal of dopamine neurons », *Journal of Neurophysiology*, 1998 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -73,4 +73,4 @@ Il ne dit pas que l'attirance immédiate est mauvaise, ni qu'il faudrait choisir
 
 Il dit qu'elles ne sont **pas la même information**, et qu'elles n'arrivent pas au même moment. L'attirance se manifeste en un dixième de seconde. La compatibilité demande des semaines, et se mesure à des choses ennuyeuses : comment la personne parle des gens absents, ce qu'elle fait quand elle est contrariée, si ce qu'elle dit et ce qu'elle fait coïncident.
 
-Le reste de ce guide porte sur cette seconde information — la lente — parce que c'est la seule sur laquelle on puisse réellement travailler.
+Le reste de ce guide porte sur cette seconde information — la lente — parce que c'est la seule sur laquelle on puisse réellement travailler. Une revue de synthèse sur la rencontre en ligne souligne que l'intensité initiale d'une attirance est un mauvais prédicteur de la compatibilité à long terme (source : Finkel, Eastwick, Karney, Reis & Sprecher, « Online Dating: A Critical Analysis From the Perspective of Psychological Science », *Psychological Science in the Public Interest*, 2012 ; vérification du 7 août 2026).

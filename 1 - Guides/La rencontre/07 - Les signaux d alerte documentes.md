@@ -16,7 +16,7 @@ Un détecteur de fumée sonne parfois pour un toast brûlé. On ne le débranche
 
 Les signaux de ce chapitre fonctionnent ainsi. Aucun ne prouve à lui seul que quelqu'un est dangereux. Leur valeur vient de trois choses : **la répétition**, **l'accumulation**, et surtout **votre réaction quand vous les nommez**. C'est le dernier point qui est le plus informatif, et le moins connu.
 
-Ce chapitre traite du risque relationnel documenté. Il ne s'agit pas d'apprendre à se méfier de tout le monde — c'est le meilleur moyen de ne rencontrer personne. Il s'agit de savoir ce qui, dans la littérature sur les violences dans le couple, apparaît **avant** que la situation ne se dégrade.
+Ce chapitre traite du risque relationnel documenté. Il ne s'agit pas d'apprendre à se méfier de tout le monde — c'est le meilleur moyen de ne rencontrer personne. Il s'agit de savoir ce qui, dans la littérature sur les violences dans le couple, apparaît **avant** que la situation ne se dégrade. Le concept de contrôle coercitif, développé par Evan Stark, distingue un ensemble de comportements de restriction de l'autonomie souvent antérieurs à toute violence physique (source : Stark, *Coercive Control: How Men Entrap Women in Personal Life*, Oxford University Press, 2007 ; vérification du 7 août 2026).
 
 ### 7.2 Le signal le plus prédictif : le contrôle coercitif, pas la violence physique
 
@@ -42,7 +42,7 @@ Regroupés par mécanisme plutôt que par gravité apparente.
 
 **Le décalage entre les mots et les actes.** Promesses non tenues sur des choses mineures, versions qui changent, engagements pris facilement et oubliés. C'est le meilleur prédicteur ordinaire de fiabilité, et il se mesure sur des détails sans enjeu.
 
-**Le traitement des tiers.** Comment la personne parle aux serveurs, aux chauffeurs, aux gens qui ne lui servent à rien. C'est un indicateur classique et robuste : la façon de traiter ceux dont on n'a pas besoin dit le rapport au pouvoir, pas la politesse.
+**Le traitement des tiers.** Comment la personne parle aux serveurs, aux chauffeurs, aux gens qui ne lui servent à rien. C'est un indicateur classique et robuste : la façon de traiter ceux dont on n'a pas besoin dit le rapport au pouvoir, pas la politesse. Michael Johnson a distingué, à partir de données de terrain, le contrôle coercitif d'une violence situationnelle plus ponctuelle et symétrique entre partenaires (source : Johnson, « Conflict and control: gender symmetry and asymmetry in domestic violence », *Violence Against Women*, 2006 ; vérification du 7 août 2026).
 
 ### 7.4 Le test décisif : nommer, puis observer
 
@@ -56,13 +56,13 @@ Trois réponses possibles, et elles sont très inégalement informatives.
 - **La personne se défend, explique, minimise.** « Tu exagères », « ce n'était pas méchant ». C'est banal et récupérable si cela reste ponctuel.
 - **La personne retourne la situation contre vous.** Vous finissez par vous excuser. Vous avez signalé un inconfort et vous repartez coupable. **C'est le signal le plus fiable de tous** — celui qui indique que ce qui vous gêne ne sera jamais négociable.
 
-Ce test est précieux parce qu'il ne demande pas d'interpréter une personne. Il observe une réponse à un comportement.
+Ce test est précieux parce qu'il ne demande pas d'interpréter une personne. Il observe une réponse à un comportement. La réaction de l'autre à un inconfort exprimé est l'un des marqueurs cliniques utilisés pour repérer un fonctionnement de contrôle plutôt que ponctuel (source : Stark, *Coercive Control: How Men Entrap Women in Personal Life*, Oxford University Press, 2007 ; vérification du 7 août 2026).
 
 ### 7.5 Ce que ce chapitre ne dit pas
 
 Il ne dit pas que la maladresse est un signal d'alerte. Beaucoup de gens sont maladroits, anxieux, mauvais en début de relation, et parfaitement dignes de confiance. La différence est nette : la maladresse **s'ajuste quand on la signale**, le contrôle **résiste et se retourne**.
 
-Il ne dit pas non plus qu'un signal repéré oblige à partir. Il dit qu'il oblige à **ralentir** — et que l'accélération est justement ce qui empêche de ralentir.
+Il ne dit pas non plus qu'un signal repéré oblige à partir. Il dit qu'il oblige à **ralentir** — et que l'accélération est justement ce qui empêche de ralentir. La distinction entre maladresse relationnelle et contrôle repose sur la capacité de l'un à s'ajuster à un signal, quand l'autre y résiste ou le retourne (source : Johnson, « Conflict and control: gender symmetry and asymmetry in domestic violence », *Violence Against Women*, 2006 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
@@ -80,4 +80,4 @@ Si en lisant ce chapitre vous reconnaissez votre situation actuelle, deux choses
 
 **En danger immédiat : le 17**, ou le **114 par SMS** si vous ne pouvez pas parler.
 
-Voir la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>) du projet, qui regroupe l'ensemble des situations nécessitant une réaction immédiate.
+Voir la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>) du projet, qui regroupe l'ensemble des situations nécessitant une réaction immédiate. Les données annuelles sur les violences conjugales en France sont publiées par le service statistique du ministère de l'Intérieur (source : SSMSI, *Insécurité et délinquance*, rapport annuel ; vérification du 7 août 2026).

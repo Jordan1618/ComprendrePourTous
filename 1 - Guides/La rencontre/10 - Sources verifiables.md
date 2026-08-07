@@ -54,3 +54,32 @@ Signalées ici plutôt qu'omises, conformément à la méthode du projet.
 - **Effets du choix abondant sur la satisfaction** (5.2). Le phénomène est documenté en psychologie de la décision, mais son ampleur réelle est débattue et les réplications sont contrastées. Il est présenté ici comme un mécanisme plausible, pas comme un effet établi.
 - **Données publiques des plateformes de rencontre** (5.4). Volontairement non citées : elles émanent d'acteurs intéressés et sont rarement publiées avec une méthodologie vérifiable.
 - **Signaux non verbaux** (6.5). Domaine où la vulgarisation dépasse largement les preuves. Seuls des éléments prudents et convergents sont mentionnés, sans chiffre.
+
+## Recherche complémentaire, par sous-partie
+
+| Ce que ça appuie | Référence | Vérifié le |
+|---|---|---|
+| Système 1 / système 2 (1.1, 3.8) | Kahneman, D., *Thinking, Fast and Slow*, Farrar, Straus and Giroux, 2011 | 7 août 2026 |
+| Signal de prédiction de récompense de la dopamine (1.4) | Schultz, W., *Predictive reward signal of dopamine neurons*, Journal of Neurophysiology, 1998 | 7 août 2026 |
+| Synthèse critique de la rencontre en ligne (1.6, 5.3) | Finkel, E. et coll., *Online Dating: A Critical Analysis From the Perspective of Psychological Science*, Psychological Science in the Public Interest, 2012 | 7 août 2026 |
+| Théorie fondatrice de l'attachement (2.1) | Bowlby, J., *Attachment and Loss, vol. 1*, Basic Books, 1969 | 7 août 2026 |
+| Classification des styles d'attachement par la situation étrange (2.3) | Ainsworth, M. et coll., *Patterns of Attachment*, Erlbaum, 1978 | 7 août 2026 |
+| Stabilité et changement de l'attachement à l'âge adulte (2.6) | Fraley, R. C., *Attachment stability from infancy to adulthood*, Review of General Psychology, 2002 | 7 août 2026 |
+| Heuristiques et biais de jugement (3.1) | Tversky, A. & Kahneman, D., *Judgment under uncertainty: heuristics and biases*, Science, 1974 | 7 août 2026 |
+| Biais de confirmation, revue de synthèse (3.3) | Nickerson, R., *Confirmation bias: a ubiquitous phenomenon in many guises*, Review of General Psychology, 1998 | 7 août 2026 |
+| Effet des coûts irrécupérables (3.5) | Arkes, H. & Blumer, C., *The psychology of sunk cost*, Organizational Behavior and Human Decision Processes, 1985 | 7 août 2026 |
+| Heuristique de disponibilité (3.7) | Tversky, A. & Kahneman, D., *Availability: A heuristic for judging frequency and probability*, Cognitive Psychology, 1973 | 7 août 2026 |
+| Homogamie sociale et son origine structurelle (4.1, 4.3, 9.1) | Kalmijn, M., *Intermarriage and Homogamy: Causes, Patterns, Trends*, Annual Review of Sociology, 1998 | 7 août 2026 |
+| Surcharge de choix et satisfaction décisionnelle (5.1, 5.2) | Iyengar, S. & Lepper, M., *When choice is demotivating: can one desire too much of a good thing?*, Journal of Personality and Social Psychology, 2000 | 7 août 2026 |
+| Partage de données par les applications de rencontre (5.5) | Norwegian Consumer Council, *Out of Control*, None, 2020 | 7 août 2026 |
+| Théorie de la pénétration sociale (6.1) | Altman, I. & Taylor, D., *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart and Winston, 1973 | 7 août 2026 |
+| Méta-analyse du dévoilement de soi et de l'appréciation (6.3) | Collins, N. & Miller, L., *Self-disclosure and liking: a meta-analytic review*, Psychological Bulletin, 1994 | 7 août 2026 |
+| Réactivité perçue dans la construction de l'intimité (6.4) | Reis, H. & Shaver, P., *Intimacy as an interpersonal process*, Handbook of Personal Relationships, Wiley, 1988 | 7 août 2026 |
+| Le sourire de Duchenne (6.5) | Ekman, P., Davidson, R. & Friesen, W., *The Duchenne smile: emotional expression and brain physiology II*, Journal of Personality and Social Psychology, 1990 | 7 août 2026 |
+| Distinction violence situationnelle / contrôle coercitif (7.3, 7.5) | Johnson, M. P., *Conflict and control: gender symmetry and asymmetry in domestic violence*, Violence Against Women, 2006 | 7 août 2026 |
+| Statistiques annuelles des violences en France (7.6) | SSMSI, *Insécurité et délinquance*, rapport annuel | 7 août 2026 |
+| Arnaques sentimentales et usurpation d'identité en ligne (8.2, 8.5) | Rege, A., *What's Love Got to Do with It? Exploring Online Dating Scams and Identity Fraud*, International Journal of Cyber Criminology, 2009 | 7 août 2026 |
+| Soumission chimique, revue de médecine légale (8.3) | Hall, J. & Moore, C., *Drug facilitated sexual assault — a review*, Journal of Clinical Forensic Medicine, 2008 | 7 août 2026 |
+| Blâme de la victime dans les fraudes sentimentales (8.5) | Cross, C., *No laughing matter: blaming the victim of online fraud*, International Review of Victimology, 2015 | 7 août 2026 |
+| Bien-être des personnes célibataires, sous-estimé dans la recherche (9.5) | DePaulo, B. & Morris, W., *Singles in society and in science*, Psychological Inquiry, 2005 | 7 août 2026 |
+

@@ -16,7 +16,7 @@ Deux personnes entrent dans la même pièce. L'une trouve qu'il y fait bon, l'au
 
 En relation, le thermostat règle la **distance**. Certaines personnes se sentent bien à proximité et mal à distance. D'autres, exactement l'inverse. Et quand deux réglages opposés se rencontrent, chacun croit que l'autre exagère, alors qu'il ne fait que ressentir sa propre température.
 
-C'est la grille la plus utile de tout ce guide, parce qu'elle explique non pas *qui* vous attire, mais **ce qui se passe une fois que l'attirance est là** — et c'est précisément là que les choses se jouent.
+C'est la grille la plus utile de tout ce guide, parce qu'elle explique non pas *qui* vous attire, mais **ce qui se passe une fois que l'attirance est là** — et c'est précisément là que les choses se jouent. Le concept de base vient des travaux fondateurs de John Bowlby sur le lien précoce entre l'enfant et son donneur de soins (source : Bowlby, *Attachment and Loss, vol. 1*, Basic Books, 1969 ; vérification du 7 août 2026).
 
 ### 2.2 D'où vient cette grille
 
@@ -38,7 +38,7 @@ Analyse les délais de réponse. Relit les messages. A besoin d'être rassuré s
 Va bien tant que la relation reste légère, se raidit quand elle se définit. Trouve des défauts au moment où le lien s'approfondit — un mécanisme documenté sous le nom de *deactivating strategies*. Valorise fortement son indépendance. Sa peur centrale : être absorbé, perdre son autonomie. Sa stratégie : mettre de la distance, physique ou émotionnelle.
 
 **Désorganisé / craintif** (les deux axes élevés).
-Veut la proximité et la craint en même temps. Alterne rapprochement intense et retrait brutal, ce qui est très déroutant pour l'autre — et pour la personne elle-même. Cette configuration est plus fréquente chez les personnes ayant vécu un trauma relationnel précoce, sujet traité dans le guide [Pour Nous](<../Pour Nous/README.md>).
+Veut la proximité et la craint en même temps. Alterne rapprochement intense et retrait brutal, ce qui est très déroutant pour l'autre — et pour la personne elle-même. Cette configuration est plus fréquente chez les personnes ayant vécu un trauma relationnel précoce, sujet traité dans le guide [Pour Nous](<../Pour Nous/README.md>). Ces configurations reprennent la classification établie par Mary Ainsworth à partir de l'observation expérimentale du comportement d'enfants séparés puis réunis à leur parent (source : Ainsworth et coll., *Patterns of Attachment*, Erlbaum, 1978 ; vérification du 7 août 2026).
 
 ### 2.4 Le piège anxieux-évitant : pourquoi cette combinaison accroche autant
 
@@ -50,7 +50,7 @@ Le cycle est régulier. L'évitant prend de la distance. L'anxieux, alarmé, se 
 
 Chacun croit alors vivre une histoire d'une intensité rare. Ce qui est vécu, en réalité, c'est un système d'alarme qui s'allume et s'éteint en boucle. L'intensité vient du cycle, pas de la personne.
 
-**Comment le reconnaître de l'intérieur** : si vous vous sentez soulagé plutôt que heureux quand la personne revient, vous êtes probablement dans ce cycle. Le soulagement est la fin d'une douleur ; la joie est autre chose.
+**Comment le reconnaître de l'intérieur** : si vous vous sentez soulagé plutôt que heureux quand la personne revient, vous êtes probablement dans ce cycle. Le soulagement est la fin d'une douleur ; la joie est autre chose. Ce cycle d'escalade réciproque est décrit dans la littérature sur l'attachement adulte comme l'interaction entre stratégies d'hyperactivation et de désactivation (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -66,7 +66,7 @@ Trois conséquences directes.
 
 **Deux.** Une personne sécure est **la meilleure information disponible sur la suite**. Non parce qu'elle serait plus intéressante, mais parce qu'elle rend le lien lisible : ce qu'elle dit correspond à ce qu'elle fait, et une inquiétude peut se traiter par une phrase au lieu d'un scénario.
 
-**Trois.** Un style d'attachement se déplace. La littérature parle de *sécurité acquise* : des personnes anxieuses ou évitantes qui, au contact durable d'un partenaire sécure ou par un travail thérapeutique, se déplacent vers plus de sécurité. Ce n'est pas une condamnation à vie.
+**Trois.** Un style d'attachement se déplace. La littérature parle de *sécurité acquise* : des personnes anxieuses ou évitantes qui, au contact durable d'un partenaire sécure ou par un travail thérapeutique, se déplacent vers plus de sécurité. Ce n'est pas une condamnation à vie. Les revues de synthèse sur l'attachement adulte confirment que le style se manifeste surtout dans les situations de stress relationnel, pas dans le calme (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
@@ -82,4 +82,4 @@ Elle est populaire, donc elle est sur-utilisée. Trois précautions.
 
 Ce n'est pas un test de compatibilité : deux personnes sécures peuvent parfaitement ne pas s'entendre. Ce n'est pas un diagnostic clinique : les questionnaires de recherche mesurent des dimensions continues, pas des catégories, et les étiquettes qui circulent en ligne sont des simplifications. Et ce n'est surtout pas une excuse : « je suis évitant » n'autorise pas à disparaître sans un mot. Un style explique un comportement, il ne le justifie pas.
 
-La grille sert à comprendre une dynamique, pas à distribuer des rôles.
+La grille sert à comprendre une dynamique, pas à distribuer des rôles. R. Chris Fraley a montré, sur des données longitudinales, qu'un style d'attachement présente à la fois une stabilité relative et une capacité réelle de changement selon les relations vécues (source : Fraley, « Attachment stability from infancy to adulthood », *Review of General Psychology*, 2002 ; vérification du 7 août 2026).

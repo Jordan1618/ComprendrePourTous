@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Rencontrer quelqu'un rencontré en ligne, c'est accepter de voir seul une personne dont personne autour de vous ne peut confirmer l'existence. C'est le point aveugle créé par la disparition du filtre social décrit au chapitre 4.
 
-Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde : elles prennent quelques minutes, elles ne se voient pas, et elles ne gâchent rien. Elles s'adressent à tout le monde, avec une exposition statistiquement plus élevée pour les femmes et les personnes LGBT+.
+Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde : elles prennent quelques minutes, elles ne se voient pas, et elles ne gâchent rien. Elles s'adressent à tout le monde, avec une exposition statistiquement plus élevée pour les femmes et les personnes LGBT+. Le passage par un canal numérique avant la rencontre physique supprime le filtre social qui existait traditionnellement dans les présentations par un tiers connu des deux personnes (source : Rosenfeld, Thomas & Hausen, « Disintermediating your friends », *PNAS*, 2019 ; vérification du 7 août 2026).
 
 ### 8.2 Avant : trois vérifications qui prennent cinq minutes
 
@@ -22,7 +22,7 @@ Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde
 
 **Faire une recherche inversée d'image** sur une des photos. Si elle apparaît sur d'autres profils sous une autre identité, la question est réglée. C'est la méthode la plus rapide pour détecter une usurpation.
 
-**Passer un appel vocal ou vidéo avant.** C'est la vérification la plus efficace de toutes : elle confirme d'un coup que la personne correspond à ses photos, et donne une masse d'informations que l'écrit supprime. Un refus insistant d'appeler avant une première rencontre est en soi une information.
+**Passer un appel vocal ou vidéo avant.** C'est la vérification la plus efficace de toutes : elle confirme d'un coup que la personne correspond à ses photos, et donne une masse d'informations que l'écrit supprime. Un refus insistant d'appeler avant une première rencontre est en soi une information. Les techniques de vérification d'identité et de recherche inversée d'image sont recommandées dans la littérature sur les arnaques sentimentales en ligne (source : Rege, « What's Love Got to Do with It? Exploring Online Dating Scams and Identity Fraud », *International Journal of Cyber Criminology*, 2009 ; vérification du 7 août 2026).
 
 ### 8.3 Pendant : quatre règles simples
 
@@ -32,7 +32,7 @@ Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde
 
 **Gardez la maîtrise de votre verre.** Ne le laissez pas sans surveillance, n'acceptez pas un verre déjà servi hors de votre vue. La soumission chimique existe et ne se détecte ni au goût ni à l'odeur. Si vous ressentez un effet sans rapport avec ce que vous avez bu — confusion brutale, trous, jambes qui se dérobent —, demandez de l'aide immédiatement à un membre du personnel, pas à votre accompagnant.
 
-**Gardez vos moyens de rentrer.** Téléphone chargé, de quoi payer un trajet. Un moyen de partir seul est ce qui transforme une situation inconfortable en simple mauvaise soirée.
+**Gardez vos moyens de rentrer.** Téléphone chargé, de quoi payer un trajet. Un moyen de partir seul est ce qui transforme une situation inconfortable en simple mauvaise soirée. La soumission chimique ne se détecte ni au goût ni à l'odeur, ce que documente la littérature de médecine légale sur les agressions facilitées par des substances (source : Hall & Moore, « Drug facilitated sexual assault — a review », *Journal of Clinical Forensic Medicine*, 2008 ; vérification du 7 août 2026).
 
 ### 8.4 Le cadre légal, en clair
 
@@ -44,7 +44,7 @@ Trois notions utiles, sans jargon. Les références sont données pour que vous 
 
 **Le harcèlement, y compris numérique, est réprimé.** Appels et messages répétés, surveillance, création de faux comptes : ce sont des infractions, pas des désagréments à supporter.
 
-**Trois ressources concrètes.** La plateforme *Pharos* pour signaler un contenu illicite en ligne. Le *3018*, numéro national contre les violences numériques, notamment pour les cas de chantage à l'image. Le *17* et le *114 par SMS* en cas de danger immédiat.
+**Trois ressources concrètes.** La plateforme *Pharos* pour signaler un contenu illicite en ligne. Le *3018*, numéro national contre les violences numériques, notamment pour les cas de chantage à l'image. Le *17* et le *114 par SMS* en cas de danger immédiat. Le cadre légal du consentement a été précisé récemment en droit français (source : loi n° 2025-268 du 28 mars 2025 visant à définir et à réprimer le crime de viol et les autres crimes et délits sexuels ; vérification du 7 août 2026).
 
 ### 8.5 Les arnaques sentimentales
 
@@ -52,7 +52,7 @@ Le schéma est stable et identifiable : une relation à distance intense qui n'a
 
 **La règle unique et suffisante** : jamais d'argent, sous aucun prétexte, à quelqu'un que vous n'avez jamais rencontré physiquement. Aucune exception ne mérite d'être discutée, parce que toutes les exceptions sont précisément le script.
 
-Un signalement reste utile même sans espoir de récupérer les fonds : il alimente les enquêtes en cours. Il n'y a par ailleurs aucune honte à en parler — ces dispositifs sont construits par des professionnels, sur des ressorts émotionnels puissants, et ils fonctionnent sur des gens parfaitement lucides par ailleurs.
+Un signalement reste utile même sans espoir de récupérer les fonds : il alimente les enquêtes en cours. Il n'y a par ailleurs aucune honte à en parler — ces dispositifs sont construits par des professionnels, sur des ressorts émotionnels puissants, et ils fonctionnent sur des gens parfaitement lucides par ailleurs. Les arnaques sentimentales suivent un scénario stable, documenté par plusieurs études de criminologie, où la demande d'argent survient après l'installation d'une relation de confiance à distance (source : Cross, « No laughing matter: blaming the victim of online fraud », *International Review of Victimology*, 2015 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
