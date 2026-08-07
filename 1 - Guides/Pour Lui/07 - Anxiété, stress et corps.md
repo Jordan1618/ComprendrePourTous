@@ -24,7 +24,7 @@ Un point important : ces symptômes sont réels. Il ne s'agit pas de douleurs im
 
 - Ne pousse pas au diagnostic psy. Fais faire le bilan organique d'abord, sérieusement. Une fois qu'il est rassuré sur le fait que ce n'est pas grave, il est beaucoup plus disponible pour entendre l'hypothèse du stress.
 - Repère la chronologie. "Ton dos a commencé quand, exactement ?" est souvent la question qui fait tilt.
-- Encourage les modalités corporelles de régulation, qui passent bien mieux que la parole chez beaucoup d'hommes : sport d'endurance, respiration, sauna, kinésithérapie, massage, cohérence cardiaque. Ce ne sont pas des gadgets, ce sont des voies d'accès.
+- Encourage les modalités corporelles de régulation, qui passent bien mieux que la parole chez beaucoup d'hommes : sport d'endurance, respiration, sauna, kinésithérapie, massage, cohérence cardiaque. Ce ne sont pas des gadgets, ce sont des voies d'accès. La somatisation d'une détresse psychique non exprimée verbalement est cohérente avec le concept d'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 4.2 Le cœur, le stress et la note à payer
 
@@ -35,7 +35,7 @@ C'est l'une des explications de l'écart d'espérance de vie du chapitre 1.4. Le
 **Bons réflexes.**
 
 - Un bilan cardiovasculaire (tension, bilan lipidique, glycémie) est justifié à partir de 40 ans, plus tôt en cas d'antécédents familiaux. C'est le geste de prévention masculin le plus rentable qui existe et le plus souvent négligé.
-- La dysfonction érectile est, sur le plan vasculaire, un symptôme sentinelle : les artères péniennes étant de petit calibre, elles se dégradent avant les coronaires. Le chapitre 5.3 y revient. Ce point vaut la peine d'être connu, il sauve des vies.
+- La dysfonction érectile est, sur le plan vasculaire, un symptôme sentinelle : les artères péniennes étant de petit calibre, elles se dégradent avant les coronaires. Le chapitre 5.3 y revient. Ce point vaut la peine d'être connu, il sauve des vies. L'étude internationale INTERHEART a établi un lien entre facteurs de stress psychosocial et risque d'infarctus du myocarde (source : Rosengren et coll., « Association of psychosocial risk factors with risk of acute myocardial infarction in 11119 cases », *The Lancet*, 2004 ; vérification du 7 août 2026).
 
 ### 4.3 L'hypervigilance et le sommeil
 
@@ -47,4 +47,4 @@ Beaucoup d'hommes en surcharge présentent une [hypervigilance](<../../2 - Notio
 
 - Le repos n'est pas intuitif pour quelqu'un qui a intégré la règle 2. Il faut souvent le lui autoriser explicitement, et parfois le lui organiser.
 - Attention à l'apnée du sommeil, très sous-diagnostiquée chez les hommes et qui mime exactement une dépression : fatigue au réveil, irritabilité, baisse de libido, troubles de concentration. Si le ronflement est important et qu'il y a des pauses respiratoires, une consultation du sommeil est prioritaire avant toute autre hypothèse.
-- L'alcool le soir dégrade massivement le sommeil profond. Un homme qui boit deux verres pour se détendre et qui dort mal est dans une boucle qui s'auto-entretient.
+- L'alcool le soir dégrade massivement le sommeil profond. Un homme qui boit deux verres pour se détendre et qui dort mal est dans une boucle qui s'auto-entretient. Le manque de sommeil augmente la réactivité de l'amygdale et dégrade la régulation émotionnelle exercée par le cortex préfrontal (source : Goldstein & Walker, « The role of sleep in emotional brain function », *Annual Review of Clinical Psychology*, 2014 ; vérification du 7 août 2026).

@@ -24,7 +24,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La reformulation.** "Je ne te demande pas d'être à l'aise, je te demande d'essayer même quand c'est maladroit." Cette phrase retire l'exigence de performance, qui est ce qui bloque le plus. Beaucoup d'hommes ne parlent pas parce qu'ils pensent devoir bien parler.
 
-**Ce qui reste de sa responsabilité.** Un adulte de trente ans qui refuse toute tentative pendant des années, qui refuse tout accompagnement, et qui laisse sa partenaire porter seule la vie émotionnelle du couple, n'est pas mal outillé. Il est passif. La différence est visible : celui qui manque d'outils essaie mal, celui qui refuse n'essaie pas.
+**Ce qui reste de sa responsabilité.** Un adulte de trente ans qui refuse toute tentative pendant des années, qui refuse tout accompagnement, et qui laisse sa partenaire porter seule la vie émotionnelle du couple, n'est pas mal outillé. Il est passif. La différence est visible : celui qui manque d'outils essaie mal, celui qui refuse n'essaie pas. Ce reproche recoupe le concept d'alexithymie masculine normative, produite par la socialisation plutôt que par un refus de communiquer (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 9 bis.2 "Il ne prend pas sa part de la charge mentale"
 
@@ -36,7 +36,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La reformulation.** Transférer des domaines entiers, jamais des tâches. "Tu prends les courses, entièrement : la liste, la fréquence, le budget, le stock" fonctionne. "Tu peux passer au supermarché" entretient le problème. Le mot clé est la propriété du domaine, pas l'aide.
 
-**Ce qui reste de sa responsabilité.** Tout, une fois le domaine transféré. Un homme qui accepte un domaine puis attend qu'on lui rappelle a repris le mode exécutant.
+**Ce qui reste de sa responsabilité.** Tout, une fois le domaine transféré. Un homme qui accepte un domaine puis attend qu'on lui rappelle a repris le mode exécutant. Le déséquilibre du travail cognitif domestique est documenté indépendamment de la répartition des tâches elles-mêmes (source : Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
 
 ### 9 bis.3 "Il ne pense qu'au sexe"
 
@@ -48,7 +48,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La reformulation.** "Est-ce que ce que tu veux, c'est du sexe ou c'est qu'on soit proches ?" Posée sincèrement et sans piège, cette question produit chez beaucoup d'hommes un moment de flottement révélateur, parce qu'ils ne se l'étaient jamais posée.
 
-**Ce qui reste de sa responsabilité.** L'insistance après un refus clair n'est pas un malentendu de canal, c'est un problème de respect du non. Aucun mécanisme de ce guide ne s'applique là.
+**Ce qui reste de sa responsabilité.** L'insistance après un refus clair n'est pas un malentendu de canal, c'est un problème de respect du non. Aucun mécanisme de ce guide ne s'applique là. La sexualité comme principal canal d'expression émotionnelle autorisé découle du même mécanisme de socialisation (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 9 bis.4 "Il est immature"
 
@@ -58,7 +58,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La mécanique.** Ce qu'on appelle immaturité recouvre en réalité trois choses différentes : l'évitement du conflit, l'incapacité à se projeter, et la difficulté à supporter la frustration. Elles ont trois causes différentes et trois traitements différents.
 
-**La reformulation.** Nommer le comportement précis. "Quand il y a un problème, tu changes de sujet" est traitable. "Tu es immature" ne l'est pas.
+**La reformulation.** Nommer le comportement précis. "Quand il y a un problème, tu changes de sujet" est traitable. "Tu es immature" ne l'est pas. La prise de risque et l'évitement des comportements jugés peu virils sont documentés comme des stratégies de démonstration de la masculinité (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 9 bis.5 "Il fuit l'engagement"
 
@@ -70,7 +70,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La reformulation.** Passer du "où on va" au concret et au borné. "Est-ce que tu te vois vivre avec moi dans un an, oui ou non" obtient une réponse. "Tu ne veux pas t'engager" obtient une justification.
 
-**Ce qui reste de sa responsabilité.** Le flou entretenu. Un homme qui ne sait pas peut le dire, et une non-réponse répétée sur des années est une réponse. Voir 2 ter.7.
+**Ce qui reste de sa responsabilité.** Le flou entretenu. Un homme qui ne sait pas peut le dire, et une non-réponse répétée sur des années est une réponse. Voir 2 ter.7. La fuite de l'engagement recoupe le style d'attachement évitant décrit dans la littérature sur l'attachement adulte (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 9 bis.6 "Il ne sait pas s'occuper de lui"
 
@@ -80,7 +80,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La mécanique.** L'utilité conditionnelle. On entretient un outil pour qu'il serve, on ne le soigne pas pour lui-même.
 
-**La reformulation.** Passer par l'utilité, faute de mieux. "J'ai besoin que tu sois là longtemps" fonctionne mieux que "occupe-toi de toi". Ce n'est pas idéal, c'est efficace.
+**La reformulation.** Passer par l'utilité, faute de mieux. "J'ai besoin que tu sois là longtemps" fonctionne mieux que "occupe-toi de toi". Ce n'est pas idéal, c'est efficace. Le moindre recours à l'aide pour soi-même est documenté comme un trait stable de la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 ### 9 bis.7 "Il ne consulte jamais"
 
@@ -88,7 +88,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** L'idée qu'il s'en fiche. Les freins identifiés sont le coût, la peur du regard, et le manque d'information. Ajoute la règle 3 du code viril, et le fait que la démarche entière est un obstacle quand l'énergie est basse.
 
-**La reformulation.** Voir 3.5. Le contournement par le généraliste et le corps fonctionne dans une majorité de cas. L'attaque frontale ne fonctionne presque jamais.
+**La reformulation.** Voir 3.5. Le contournement par le généraliste et le corps fonctionne dans une majorité de cas. L'attaque frontale ne fonctionne presque jamais. Le moindre recours à la consultation médicale et psychologique suit le même mécanisme documenté (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 ### 9 bis.8 "Il ne prend l'initiative que quand ça l'arrange"
 
@@ -96,7 +96,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** L'intention de profiter. Dans la plupart des cas, c'est un effet de la répartition installée : quelqu'un le fait déjà, et bien, donc le besoin ne se fait jamais sentir. Le mécanisme est le même qu'en 9 bis.2.
 
-**La reformulation.** Créer un vide plutôt que de demander. Cesser d'organiser un domaine pendant deux mois produit plus de changement que dix conversations, à condition d'accepter que le domaine soit d'abord mal tenu. C'est le prix du transfert.
+**La reformulation.** Créer un vide plutôt que de demander. Cesser d'organiser un domaine pendant deux mois produit plus de changement que dix conversations, à condition d'accepter que le domaine soit d'abord mal tenu. C'est le prix du transfert. Ce schéma d'initiative sélective est cohérent avec le patron demande-retrait observé dans le conflit conjugal (source : Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
 
 ### 9 bis.9 "Il ne s'excuse jamais vraiment"
 
@@ -106,7 +106,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La mécanique.** Honte contre culpabilité (2.4). Une excuse pour un acte est faisable, une excuse qui implique d'être quelqu'un de mauvais est refusée en bloc.
 
-**La reformulation.** Demander une excuse pour un fait précis et pas une reconnaissance globale. "J'aimerais que tu me dises que tu regrettes de m'avoir coupé la parole devant tout le monde" est obtenable. "J'aimerais que tu reconnaisses que tu me manques de respect" ne l'est pas, même si c'est plus vrai.
+**La reformulation.** Demander une excuse pour un fait précis et pas une reconnaissance globale. "J'aimerais que tu me dises que tu regrettes de m'avoir coupé la parole devant tout le monde" est obtenable. "J'aimerais que tu reconnaisses que tu me manques de respect" ne l'est pas, même si c'est plus vrai. La difficulté à reconnaître un tort sans le justifier est cohérente avec la précarité de la masculinité, qui rend un aveu d'erreur coûteux (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 9 bis.10 "Il ne voit rien"
 
@@ -114,7 +114,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** Qu'il fasse semblant. Une partie de l'écart est un effet d'entraînement : on apprend à voir ce qu'on a été chargé de gérer. L'autre partie est une différence de seuil réelle, ni supérieure ni inférieure, mais qui a des conséquences quand la charge n'est pas partagée.
 
-**La reformulation.** Le rendre responsable d'un périmètre de détection, et non de la détection en général. "La salle de bain, c'est ton domaine, à toi de juger quand elle a besoin d'être faite" produit un apprentissage. "Tu pourrais voir que c'est sale" n'en produit aucun.
+**La reformulation.** Le rendre responsable d'un périmètre de détection, et non de la détection en général. "La salle de bain, c'est ton domaine, à toi de juger quand elle a besoin d'être faite" produit un apprentissage. "Tu pourrais voir que c'est sale" n'en produit aucun. Cette difficulté à percevoir les signaux émotionnels d'autrui est documentée comme une composante de l'alexithymie (source : Taylor, Bagby & Parker, *Disorders of Affect Regulation*, Cambridge University Press, 1997 ; vérification du 7 août 2026).
 
 ### 9 bis.11 "Il a toujours besoin de validation"
 
@@ -122,7 +122,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** Qu'il s'agisse d'ego. C'est l'inverse : un homme dont la valeur intérieure est conditionnelle (2 bis.5) a besoin d'une confirmation extérieure permanente, précisément parce qu'il n'a pas de réserve interne.
 
-**La reformulation.** Donner de la reconnaissance spontanément, spécifiquement, et surtout hors des moments de réussite. Une reconnaissance qui n'arrive qu'après une performance renforce le système. Une reconnaissance donnée un jour où il n'a rien fait de particulier le déstabilise, puis le change.
+**La reformulation.** Donner de la reconnaissance spontanément, spécifiquement, et surtout hors des moments de réussite. Une reconnaissance qui n'arrive qu'après une performance renforce le système. Une reconnaissance donnée un jour où il n'a rien fait de particulier le déstabilise, puis le change. Le besoin de validation par le statut est documenté dans la littérature sur les hiérarchies masculines (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 9 bis.12 "Il ne sait pas être ami avec une femme"
 
@@ -130,7 +130,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** L'idée d'une incapacité de principe. Le vrai problème est le déficit du chapitre 8 : quand un homme dispose de très peu d'espaces où une conversation intime est possible, toute relation où elle devient possible prend une charge disproportionnée. Ce n'est pas de l'attirance qui déborde, c'est de l'intimité qui n'a nulle part d'autre où aller.
 
-**La reformulation.** Le remède est structurel, pas moral. Un homme qui a trois amis proches et un thérapeute ne surinvestit pas ses amitiés féminines.
+**La reformulation.** Le remède est structurel, pas moral. Un homme qui a trois amis proches et un thérapeute ne surinvestit pas ses amitiés féminines. Les amitiés entre hommes et femmes présentent des dynamiques spécifiques, documentées dans une étude dédiée à leur formation et à leur rupture (source : Bleske-Rechek & Buss, « Opposite-sex friendship: sex differences and similarities in initiation, selection, and dissolution », *Personality and Social Psychology Bulletin*, 2001 ; vérification du 7 août 2026).
 
 ### 9 bis.13 Les reproches que les hommes se font entre eux
 
@@ -142,4 +142,4 @@ Ceux-là ne circulent jamais dans les conversations de couple, et ils pèsent po
 - **"Tu n'as pas su tenir."** Adressé après une rupture, souvent implicitement.
 - **"Tu es trop gentil."** Voir 9 ter.2.
 
-Savoir que ces phrases existent aide à comprendre certaines réactions de repli. Un homme qui vient de passer une soirée avec ses amis peut rentrer avec une vision du couple nettement plus sombre qu'en partant, sans qu'aucun événement ne se soit produit.
+Savoir que ces phrases existent aide à comprendre certaines réactions de repli. Un homme qui vient de passer une soirée avec ses amis peut rentrer avec une vision du couple nettement plus sombre qu'en partant, sans qu'aucun événement ne se soit produit. Les reproches que les hommes se font entre eux recoupent les mêmes normes de masculinité mesurées par les instruments de recherche sur le sujet (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).

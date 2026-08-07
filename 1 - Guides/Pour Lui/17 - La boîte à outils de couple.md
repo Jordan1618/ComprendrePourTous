@@ -25,7 +25,7 @@ Ce qui se passe de son côté : il ne trouve plus ses mots, il sait qu'il va dir
 - Instaurer une pause codifiée, décidée à froid, et non improvisée en pleine dispute. La règle qui fonctionne : n'importe lequel des deux peut demander une pause, la pause dure au minimum vingt minutes (temps physiologique de redescente), et celui qui l'a demandée s'engage explicitement à revenir. Ce dernier point est essentiel : sans engagement de retour, la pause est vécue comme un abandon.
 - Pendant la pause, ne pas ruminer l'argumentaire. Sortir, marcher, faire autre chose. Ruminer maintient l'activation.
 - Ne jamais poursuivre quelqu'un en retrait. Plus tu poursuis, plus il se ferme, et vous entrez dans le schéma poursuite-retrait qui est le motif de consultation numéro un en thérapie de couple.
-- Reprendre la conversation en la nommant : "on reprend là où on s'était arrêtés, calmement". Sans ce redémarrage explicite, le sujet reste ouvert et ressort trois semaines plus tard.
+- Reprendre la conversation en la nommant : "on reprend là où on s'était arrêtés, calmement". Sans ce redémarrage explicite, le sujet reste ouvert et ressort trois semaines plus tard. Le retrait sous conflit correspond au versant masculin du patron demande-retrait, documenté dans les observations de couples (source : Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
 
 ### 9.2 Le reproche et la demande
 
@@ -39,7 +39,7 @@ Comparaison directe :
 
 La structure qui fonctionne le mieux, dans l'ordre : le fait observable, ce que ça te fait, la demande concrète. Trois phrases, pas plus. Ce n'est pas de la technique de communication creuse, c'est la seule forme qui ne déclenche pas la défense automatique.
 
-Une précision importante : ce n'est pas à toi de porter seule cet effort de formulation. Un couple où une seule personne fait le travail de traduction est un couple déséquilibré. Le chapitre 10 y revient.
+Une précision importante : ce n'est pas à toi de porter seule cet effort de formulation. Un couple où une seule personne fait le travail de traduction est un couple déséquilibré. Le chapitre 10 y revient. La façon dont un reproche est formulé prédit davantage la réaction de l'autre que son contenu, un résultat observé sur de nombreux couples (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 9.3 Les questions qui ouvrent, et celles qui ferment
 
@@ -58,7 +58,7 @@ Une précision importante : ce n'est pas à toi de porter seule cet effort de fo
 - "Tu veux que je t'écoute ou que je t'aide à trouver une solution ?"
 - "Qu'est-ce qui te ferait du bien, là, maintenant ?"
 - "Je me trompe peut-être, mais j'ai l'impression que quelque chose te pèse depuis un moment."
-- Et parfois, la meilleure : rien du tout. Se poser à côté, en silence, sans agenda. Beaucoup d'hommes parlent au bout de dix minutes de silence partagé, jamais au bout de dix questions.
+- Et parfois, la meilleure : rien du tout. Se poser à côté, en silence, sans agenda. Beaucoup d'hommes parlent au bout de dix minutes de silence partagé, jamais au bout de dix questions. Ces reformulations reprennent le principe de la communication non violente : décrire un fait et un besoin plutôt qu'exiger ou juger (source : Rosenberg, *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 ; vérification du 7 août 2026).
 
 ### 9.4 Le décodage : ce qu'il dit, ce que ça peut vouloir dire
 
@@ -71,7 +71,7 @@ Un tableau de traduction complémentaire de celui du 2.8, orienté couple. À ma
 - **Il travaille tard alors que rien ne l'y oblige.** Traduction probable : évitement (3.2), ou reconstruction d'un sentiment d'utilité mis à mal ailleurs.
 - **Il minimise un événement grave.** Traduction probable : décalage temporel (2.2). Repose la question dans trois jours.
 - **Il s'énerve quand tu l'aides.** Traduction probable : l'aide non demandée est reçue comme un constat d'incompétence.
-- **Il dit "fais comme tu veux" sur tout depuis un mois.** Traduction probable : épuisement décisionnel, souvent un signe précoce de 3.2.
+- **Il dit "fais comme tu veux" sur tout depuis un mois.** Traduction probable : épuisement décisionnel, souvent un signe précoce de 3.2. Ce décodage reprend la distinction entre émotion primaire et émotion secondaire de la thérapie centrée sur l'émotion (source : Greenberg & Paivio, *Working with Emotions in Psychotherapy*, Guilford Press, 1997 ; vérification du 7 août 2026).
 
 ### 9.5 Ce que tu peux dire quand tu ne sais pas quoi dire
 
@@ -82,4 +82,4 @@ Quatre phrases qui fonctionnent presque partout et qui ne coûtent rien :
 - "Ce que tu ressens a du sens."
 - "Ça ne change rien à ce que je pense de toi."
 
-La dernière est spécifiquement l'antidote de la honte, et c'est probablement la phrase la plus utile de tout ce guide. Elle vaut après une panne, après un licenciement, après un aveu difficile, après une erreur. Elle dit exactement ce que la honte prétend impossible.
+La dernière est spécifiquement l'antidote de la honte, et c'est probablement la phrase la plus utile de tout ce guide. Elle vaut après une panne, après un licenciement, après un aveu difficile, après une erreur. Elle dit exactement ce que la honte prétend impossible. Ces formulations reprennent le même principe de communication non violente appliqué à un moment de blocage (source : Rosenberg, *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 ; vérification du 7 août 2026).

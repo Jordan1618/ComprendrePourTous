@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Les hommes vivent en moyenne moins longtemps que les femmes, dans tous les pays. Une part de cet écart est biologique ; une part importante ne l'est pas. Elle tient à des comportements et à un rapport au soin : tabac, alcool, conduites à risque, moindre recours au médecin, retard à consulter.
 
-C'est une bonne nouvelle mal formulée. **La partie modifiable est grande.** Ce chapitre liste ce qui compte réellement, par ordre d'impact, et à quel moment s'en occuper.
+C'est une bonne nouvelle mal formulée. **La partie modifiable est grande.** Ce chapitre liste ce qui compte réellement, par ordre d'impact, et à quel moment s'en occuper. L'écart d'espérance de vie entre hommes et femmes est mesuré chaque année par l'institut national de la statistique (source : Insee, *Espérance de vie, mortalité et causes de décès* ; vérification du 7 août 2026).
 
 ### 13.2 Le classement par impact réel
 
@@ -30,7 +30,7 @@ Dans l'ordre, du plus au moins déterminant.
 
 **5. La santé mentale.** Développée plus bas, et systématiquement absente des bilans de santé.
 
-**6. Les dépistages spécifiques.** Utiles, mais après les cinq précédents en termes d'impact.
+**6. Les dépistages spécifiques.** Utiles, mais après les cinq précédents en termes d'impact. Le classement des facteurs de risque par impact sur la mortalité s'appuie sur l'étude mondiale de référence sur le fardeau des maladies (source : GBD 2019 Risk Factors Collaborators, « Global burden of 87 risk factors », *The Lancet*, 2020 ; vérification du 7 août 2026).
 
 ### 13.3 Ce qu'il faut surveiller, par décennie
 
@@ -40,7 +40,7 @@ Dans l'ordre, du plus au moins déterminant.
 
 **Quarante à cinquante ans.** Suivi cardiovasculaire régulier. Discussion sur le dépistage du cancer de la prostate — voir plus bas. Troubles de l'érection : à ne pas traiter comme un sujet gênant mais comme un **signal vasculaire précoce**, parfois révélateur d'une atteinte cardiovasculaire avant tout autre symptôme. Voir le chapitre 5 de ce guide.
 
-**Cinquante ans et au-delà.** Dépistage organisé du cancer colorectal, par test immunologique, tous les deux ans dans la tranche d'âge concernée : simple, à faire chez soi, et très largement sous-utilisé. Poursuite du suivi cardiovasculaire. Audition et vision. Densité osseuse en cas de facteurs de risque — l'ostéoporose masculine existe et est très sous-diagnostiquée.
+**Cinquante ans et au-delà.** Dépistage organisé du cancer colorectal, par test immunologique, tous les deux ans dans la tranche d'âge concernée : simple, à faire chez soi, et très largement sous-utilisé. Poursuite du suivi cardiovasculaire. Audition et vision. Densité osseuse en cas de facteurs de risque — l'ostéoporose masculine existe et est très sous-diagnostiquée. Les dépistages recommandés par décennie suivent les recommandations de la Haute Autorité de santé (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
 
 ### 13.4 La prostate, sans simplifier
 
@@ -48,7 +48,7 @@ Sujet où l'information circulante est particulièrement confuse.
 
 Le dépistage par dosage du PSA **ne fait pas l'objet d'un consensus**. Il détecte des cancers qui n'auraient jamais évolué, conduisant à des biopsies et des traitements dont les effets indésirables — troubles de l'érection, incontinence — sont fréquents et durables. En France, les autorités de santé ne recommandent pas de dépistage systématique en population générale, tout en reconnaissant la place d'une décision individuelle informée.
 
-Ce que cela signifie en pratique : ce n'est pas « faites-le » ni « ne le faites pas », c'est **une discussion à avoir avec un médecin**, en tenant compte des antécédents familiaux et de l'origine, deux facteurs qui modifient le risque. Une consultation dédiée vaut mieux qu'une décision prise seul à partir d'un article.
+Ce que cela signifie en pratique : ce n'est pas « faites-le » ni « ne le faites pas », c'est **une discussion à avoir avec un médecin**, en tenant compte des antécédents familiaux et de l'origine, deux facteurs qui modifient le risque. Une consultation dédiée vaut mieux qu'une décision prise seul à partir d'un article. L'absence de consensus sur le dépistage systématique du cancer de la prostate est explicitée par les autorités de santé françaises (source : Haute Autorité de santé, *Dépistage du cancer de la prostate* ; vérification du 7 août 2026).
 
 ### 13.5 La santé mentale sur la durée
 
@@ -58,7 +58,7 @@ Les hommes consultent moins pour des motifs psychiques et représentent la nette
 
 Trois moments de bascule reviennent : une rupture ou un divorce, la perte d'un emploi, le départ à la retraite. Ils partagent une caractéristique — ils suppriment d'un coup un rôle et un réseau, deux choses qui tiennent souvent lieu de vie sociale entière chez les hommes. C'est le « [désert relationnel](<../../2 - Notions/Désert relationnel.md>) » décrit au chapitre 8.
 
-**Signal d'alerte, pas clause de style** : des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit, en permanence, accessible aussi à un proche inquiet.
+**Signal d'alerte, pas clause de style** : des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit, en permanence, accessible aussi à un proche inquiet. Le moindre recours aux soins psychiques chez les hommes, et son lien avec la surmortalité par suicide, sont documentés dans la littérature sur la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

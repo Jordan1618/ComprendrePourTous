@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Dans un déménagement, si une seule personne porte tout, la question n'est pas de savoir si elle en est capable : elle l'est. La question est de savoir pourquoi personne n'a proposé de prendre l'autre côté du carton.
 
-La contraception est dans cette situation depuis soixante ans. Elle est presque entièrement portée par les femmes, avec des effets indésirables réels, un suivi médical, un coût mental et parfois financier. Ce chapitre est le pendant du chapitre 9 de [Pour Elle](<../Pour Elle/09 - Contraception hormonale.md>), et il part d'un constat simple : **la plupart des hommes ignorent ce qui existe de leur côté.**
+La contraception est dans cette situation depuis soixante ans. Elle est presque entièrement portée par les femmes, avec des effets indésirables réels, un suivi médical, un coût mental et parfois financier. Ce chapitre est le pendant du chapitre 9 de [Pour Elle](<../Pour Elle/09 - Contraception hormonale.md>), et il part d'un constat simple : **la plupart des hommes ignorent ce qui existe de leur côté.** Le déséquilibre de la charge contraceptive entre les sexes, et la perception qu'en ont les hommes, sont documentés dans une enquête dédiée (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
 
 ### 9.2 Ce qui existe aujourd'hui, sans exagérer
 
@@ -26,7 +26,7 @@ Quatre méthodes, avec ce qu'elles valent réellement.
 
 **La contraception thermique.** Elle repose sur un principe établi : la spermatogenèse est perturbée par une élévation de la température testiculaire. Des dispositifs remontant les testicules dans le canal inguinal existent, portés plusieurs heures par jour. Le recul et le niveau de preuve restent limités par rapport aux méthodes précédentes, et un contrôle par spermogramme est indispensable. Je préfère l'écrire ainsi que de la présenter comme une option équivalente aux deux premières.
 
-**La contraception hormonale masculine.** Elle fonctionne — des essais ont montré une suppression efficace de la spermatogenèse — mais aucune n'est aujourd'hui disponible en pharmacie de façon courante. Des protocoles injectables existent dans un cadre médical restreint, et plusieurs candidats, dont des gels, sont en essais cliniques. À ce jour, ce n'est pas une option de routine.
+**La contraception hormonale masculine.** Elle fonctionne — des essais ont montré une suppression efficace de la spermatogenèse — mais aucune n'est aujourd'hui disponible en pharmacie de façon courante. Des protocoles injectables existent dans un cadre médical restreint, et plusieurs candidats, dont des gels, sont en essais cliniques. À ce jour, ce n'est pas une option de routine. Les méthodes de contraception masculine disponibles et leur efficacité respective sont détaillées par l'Organisation mondiale de la santé (source : OMS, *Family planning/contraception methods* ; vérification du 7 août 2026).
 
 ### 9.3 Ce qui n'est pas une contraception
 
@@ -36,7 +36,7 @@ Il faut le dire sans ambiguïté, parce que ces croyances persistent.
 
 **Les calculs de dates ne protègent pas** l'homme davantage que la femme : la date d'ovulation varie d'un cycle à l'autre. Voir le chapitre 19 de [Pour Elle](<../Pour Elle/19 - Les pieges de la modernite.md>) sur les applications de suivi.
 
-**« Elle gère »** n'est pas une méthode, c'est une délégation. Elle peut être un choix commun assumé ; elle n'en est une que si elle a été discutée.
+**« Elle gère »** n'est pas une méthode, c'est une délégation. Elle peut être un choix commun assumé ; elle n'en est une que si elle a été discutée. L'inefficacité du retrait et des méthodes de calcul comme contraception fiable est documentée dans les recommandations de santé reproductive (source : OMS, *Family planning/contraception methods* ; vérification du 7 août 2026).
 
 ### 9.4 Pourquoi si peu d'hommes s'en saisissent
 
@@ -46,7 +46,7 @@ Trois raisons reviennent, et aucune n'est de la mauvaise volonté pure.
 
 **La confusion entre fertilité et virilité.** Une association ancienne, sans fondement physiologique : la vasectomie ne modifie ni la testostérone, ni l'érection, ni le plaisir. Ce qu'elle interrompt, c'est le passage des spermatozoïdes, rien d'autre.
 
-**L'absence de demande explicite.** La contraception n'est presque jamais posée comme une question de couple. Elle est traitée comme une affaire féminine, y compris par des hommes qui se considèrent comme égalitaires par ailleurs.
+**L'absence de demande explicite.** La contraception n'est presque jamais posée comme une question de couple. Elle est traitée comme une affaire féminine, y compris par des hommes qui se considèrent comme égalitaires par ailleurs. Le manque d'information des hommes sur leurs propres options contraceptives est un facteur documenté du déséquilibre de la charge contraceptive (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
 
 ### 9.5 La conversation à avoir
 
@@ -54,7 +54,7 @@ Elle se tient à froid, hors du lit, et elle porte sur une répartition et non s
 
 Trois questions, dans cet ordre. Qui porte la contraception aujourd'hui, et à quel coût — effets indésirables, suivi, [charge mentale](<../../2 - Notions/Charge mentale.md>), argent ? Est-ce que cela nous convient à tous les deux, explicitement ? Et si nous ne voulons pas d'enfant, ou plus d'enfant, qu'est-ce qui justifie que cela repose sur une seule personne ?
 
-Une précision qui compte : proposer de prendre la contraception en charge n'est pas un service rendu. C'est le partage d'une charge qui concernait les deux depuis le début.
+Une précision qui compte : proposer de prendre la contraception en charge n'est pas un service rendu. C'est le partage d'une charge qui concernait les deux depuis le début. Rendre explicite la répartition de la charge contraceptive est cohérent avec les recommandations issues de cette même enquête (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

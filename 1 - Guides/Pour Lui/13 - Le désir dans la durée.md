@@ -32,7 +32,7 @@ Ce calcul bascule vers le retrait quand trois conditions se réunissent :
 - L'effort demandé est perçu comme croissant et le retour comme décroissant.
 - Une explication est disponible qui rend l'échec extérieur et donc supportable.
 
-Les trois conditions ensemble produisent le désengagement. Une ou deux seulement produisent de la fatigue passagère.
+Les trois conditions ensemble produisent le désengagement. Une ou deux seulement produisent de la fatigue passagère. Le basculement de l'intensité passionnelle vers un attachement plus stable suit la trajectoire décrite pour le système dopaminergique de l'attirance romantique (source : Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
 
 ### 10 bis.3 Pourquoi il n'en veut plus
 
@@ -65,7 +65,7 @@ Il faut distinguer nettement l'attirance initiale, qui est rapide, superficielle
 7. **La compétence.** Voir quelqu'un être vraiment bon dans quelque chose, quoi que ce soit, produit de l'attachement. C'est symétrique et souvent négligé dans un sens.
 8. **L'accès à sa propre douceur.** Beaucoup d'hommes s'attachent à la personne avec laquelle ils découvrent une version d'eux-mêmes qu'ils ne connaissaient pas. Ce n'est pas seulement elle qu'il aime, c'est ce qu'il devient à côté d'elle, et il ne veut pas perdre cet accès.
 
-**Le facteur transversal : la vulnérabilité réciproque.** L'attachement se construit par des allers-retours d'exposition. L'un se découvre un peu, l'autre répond sans profiter de l'ouverture, puis s'expose à son tour. Chaque cycle réussi consolide. Un cycle raté, une confidence moquée ou utilisée plus tard dans une dispute, ferme le circuit pour longtemps.
+**Le facteur transversal : la vulnérabilité réciproque.** L'attachement se construit par des allers-retours d'exposition. L'un se découvre un peu, l'autre répond sans profiter de l'ouverture, puis s'expose à son tour. Chaque cycle réussi consolide. Un cycle raté, une confidence moquée ou utilisée plus tard dans une dispute, ferme le circuit pour longtemps. Le fait de se sentir vu et compris est documenté comme un facteur central de l'attachement amoureux naissant (source : Reis & Shaver, « Intimacy as an interpersonal process », dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 7 août 2026).
 
 ### 10 bis.5 Ce qui l'empêche de tomber
 
@@ -76,7 +76,7 @@ Six verrous, par fréquence.
 3. **Le deuil non fait d'une relation précédente.** Le plus fréquent chez les hommes de vingt-cinq à quarante ans.
 4. **L'absence de modèle.** N'avoir jamais vu un couple qui fonctionne rend l'engagement abstrait et effrayant.
 5. **Le sentiment d'être en dette.** Une relation où il reçoit plus qu'il ne donne, ou le croit, devient inconfortable et il en sort. Conséquence directe du 2 bis.5.
-6. **La comparaison avec l'idéal.** Le perfectionnisme relationnel, souvent alimenté par une exposition permanente à des versions montées de la vie des autres.
+6. **La comparaison avec l'idéal.** Le perfectionnisme relationnel, souvent alimenté par une exposition permanente à des versions montées de la vie des autres. L'évitement de l'engagement, décrit dans la littérature sur l'attachement adulte, freine ce basculement (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 10 bis.6 Ce qui le fait rester, ce qui le fait partir
 
@@ -100,4 +100,4 @@ L'idée que la relation se joue au début, dans une phase de séduction où il f
 
 Les données du 10 bis.6 disent l'inverse : ce qui compte n'est pas ce que tu montres, c'est ce qui s'installe. La séduction ne prédit à peu près rien. La façon dont vous vous parlez le mardi soir de la troisième année prédit à peu près tout.
 
-Et pour un homme en particulier, cette bascule est libératrice à entendre. Il ne s'agit pas de devenir quelqu'un d'autre pour être choisi. Il s'agit d'apprendre à faire fonctionner quelque chose à deux, ce qui est une compétence, ce qui s'apprend, et ce qui ne dépend qu'en partie de qui il est.
+Et pour un homme en particulier, cette bascule est libératrice à entendre. Il ne s'agit pas de devenir quelqu'un d'autre pour être choisi. Il s'agit d'apprendre à faire fonctionner quelque chose à deux, ce qui est une compétence, ce qui s'apprend, et ce qui ne dépend qu'en partie de qui il est. Croire à une conquête ponctuelle plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple (source : Knee, « Implicit theories of relationships: assessment and prediction of romantic relationship initiation, coping, and longevity », *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).

@@ -46,4 +46,4 @@ Ils ne disent pas que ton compagnon est en danger. La grande majorité des homme
 - Le délai entre le début du problème et la demande d'aide est long, souvent des années.
 - La personne qui repère en premier est presque toujours la partenaire. Pas le médecin, pas les amis, pas la famille. Toi.
 
-C'est pour cette raison que ce guide existe, et c'est aussi pour cette raison que le chapitre 10 sur les limites est aussi important que les autres.
+C'est pour cette raison que ce guide existe, et c'est aussi pour cette raison que le chapitre 10 sur les limites est aussi important que les autres. La sous-déclaration des symptômes dépressifs chez les hommes, et son lien avec le moindre recours à l'aide, sont documentés dans la littérature sur la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).

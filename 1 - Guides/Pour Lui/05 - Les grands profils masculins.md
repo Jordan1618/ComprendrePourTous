@@ -24,7 +24,7 @@ Pour chacun : le fonctionnement, ce qui le fait tenir, ce qui le fait tomber amo
 
 **Ce qui le casse.** La perte de capacité : chômage, maladie, déclassement, retraite. Et, plus insidieusement, une partenaire pleinement autonome dont il ne voit plus à quoi il sert. Ce point produit énormément de dépressions masculines silencieuses et il est presque jamais nommé.
 
-**Vigilance en couple.** Il ne demande jamais rien pour lui. Il faut apprendre à lui donner sans que ce soit une aumône, ce qui suppose de lui demander aussi des choses. Le pourvoyeur se laisse aider plus facilement quand on lui donne quelque chose à faire en échange.
+**Vigilance en couple.** Il ne demande jamais rien pour lui. Il faut apprendre à lui donner sans que ce soit une aumône, ce qui suppose de lui demander aussi des choses. Le pourvoyeur se laisse aider plus facilement quand on lui donne quelque chose à faire en échange. Ces profils s'appuient sur les dimensions mesurées par l'inventaire de conformité aux normes masculines (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ### 2 ter.2 Le stoïque
 
@@ -36,7 +36,7 @@ Pour chacun : le fonctionnement, ce qui le fait tenir, ce qui le fait tomber amo
 
 **Ce qui le casse.** Le réservoir du 2.6. Il ne donne aucun signe intermédiaire, puis rompt d'un coup : burn-out, effondrement, départ brutal. C'est le profil le plus surreprésenté dans les statistiques de suicide masculin.
 
-**Vigilance en couple.** L'absence de plainte n'est pas une donnée. Il faut surveiller les jauges objectives du 11.3, pas ses déclarations.
+**Vigilance en couple.** L'absence de plainte n'est pas une donnée. Il faut surveiller les jauges objectives du 11.3, pas ses déclarations. La norme de contrôle émotionnel, l'une des dimensions mesurées par cet inventaire, correspond à ce profil (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ### 2 ter.3 Le performeur anxieux
 
@@ -48,7 +48,7 @@ Pour chacun : le fonctionnement, ce qui le fait tenir, ce qui le fait tomber amo
 
 **Ce qui le casse.** L'échec public, la comparaison défavorable, et le repos forcé. Il ne sait pas ne rien faire, et l'arrêt le confronte directement à ce qu'il évite.
 
-**Vigilance en couple.** Les compliments génériques glissent, les compliments spécifiques atterrissent. Et la critique, même minime, arrive amplifiée. Il faut souvent doser deux crans en dessous de ce qui te semble neutre.
+**Vigilance en couple.** Les compliments génériques glissent, les compliments spécifiques atterrissent. Et la critique, même minime, arrive amplifiée. Il faut souvent doser deux crans en dessous de ce qui te semble neutre. La norme de recherche de statut par la réussite, mesurée dans cet inventaire, correspond à ce profil (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ### 2 ter.4 L'hypersensible masqué
 
@@ -60,7 +60,7 @@ Pour chacun : le fonctionnement, ce qui le fait tenir, ce qui le fait tomber amo
 
 **Ce qui le casse.** La sursollicitation, le conflit prolongé, les environnements bruyants et sociaux, et surtout le sentiment d'être fondamentalement décalé et donc pas aimable tel qu'il est.
 
-**Vigilance en couple.** Il a besoin de temps de récupération solitaire qui n'est pas un rejet. Et il faut lui dire explicitement que le retrait est autorisé, sinon il le prend en cachette et culpabilise.
+**Vigilance en couple.** Il a besoin de temps de récupération solitaire qui n'est pas un rejet. Et il faut lui dire explicitement que le retrait est autorisé, sinon il le prend en cachette et culpabilise. Ce profil recoupe le concept d'alexithymie masculine normative, qui n'exclut pas une vie affective riche mais peu exprimée (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 2 ter.5 Le fusionnel
 
@@ -72,7 +72,7 @@ Pour chacun : le fonctionnement, ce qui le fait tenir, ce qui le fait tomber amo
 
 **Ce qui le casse.** La rupture, avec une intensité disproportionnée, parce qu'il ne perd pas une relation, il perd le contenant de son identité. C'est ce profil qui produit les décompensations post-rupture décrites en 8.3.
 
-**Vigilance en couple.** Ce profil épuise à la longue, et l'épuisement est difficile à dire parce que la demande est présentée comme de l'amour. La contribution la plus utile que tu puisses lui apporter est de l'aider à reconstruire une vie hors du couple, ce qu'il vivra d'abord comme un rejet.
+**Vigilance en couple.** Ce profil épuise à la longue, et l'épuisement est difficile à dire parce que la demande est présentée comme de l'amour. La contribution la plus utile que tu puisses lui apporter est de l'aider à reconstruire une vie hors du couple, ce qu'il vivra d'abord comme un rejet. Ce profil rejoint le style d'attachement anxieux décrit dans la littérature sur l'attachement adulte (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 2 ter.6 Le désabusé
 
@@ -84,7 +84,7 @@ Pour chacun : le fonctionnement, ce qui le fait tenir, ce qui le fait tomber amo
 
 **Ce qui le casse.** Le fait de recommencer à espérer, puis d'être déçu à nouveau. La deuxième déception coûte beaucoup plus cher que la première.
 
-**Vigilance en couple.** Il teste, souvent sans le savoir. Le piège est de prendre le test pour la personne. Le second piège, symétrique, est de rester indéfiniment à essayer de prouver quelque chose à quelqu'un qui a besoin d'être déçu pour avoir raison. Voir 10.2.
+**Vigilance en couple.** Il teste, souvent sans le savoir. Le piège est de prendre le test pour la personne. Le second piège, symétrique, est de rester indéfiniment à essayer de prouver quelque chose à quelqu'un qui a besoin d'être déçu pour avoir raison. Voir 10.2. Ce profil rejoint le style d'attachement évitant décrit dans la même littérature (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 2 ter.7 Le non-engagé
 
@@ -96,7 +96,7 @@ Pour chacun : le fonctionnement, ce qui le fait tenir, ce qui le fait tomber amo
 
 **Ce qui le casse.** Le temps. À trente-cinq ou quarante ans, la stratégie qui fonctionnait socialement à vingt-cinq produit un isolement dont il ne comprend pas l'origine.
 
-**Vigilance en couple.** C'est le profil où la clarté sur tes propres limites est la plus nécessaire, et le plus tôt possible. Une attente indéfinie ne produit jamais d'engagement, elle produit du confort.
+**Vigilance en couple.** C'est le profil où la clarté sur tes propres limites est la plus nécessaire, et le plus tôt possible. Une attente indéfinie ne produit jamais d'engagement, elle produit du confort. Le concept de masculinité précaire, qui doit sans cesse être prouvée et peut être perdue, éclaire l'évitement de l'engagement de ce profil (source : Vandello & Bosson, « Hard won and easily lost: a review and synthesis of theory and research on precarious manhood », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 2 ter.8 Le sécure
 
@@ -108,8 +108,8 @@ Pour chacun : le fonctionnement, ce qui le fait tenir, ce qui le fait tomber amo
 
 **Ce qui le casse.** Comme tout le monde : les deuils, les échecs, les événements lourds. Mais il dispose des outils pour les traverser, ce qui change tout.
 
-**Vigilance en couple.** Aucune, sauf une : ce profil est parfois trouvé ennuyeux par des personnes habituées à l'intensité du chaos. Confondre l'intensité et l'amour est l'une des erreurs les plus coûteuses qui existent, dans les deux sens.
+**Vigilance en couple.** Aucune, sauf une : ce profil est parfois trouvé ennuyeux par des personnes habituées à l'intensité du chaos. Confondre l'intensité et l'amour est l'une des erreurs les plus coûteuses qui existent, dans les deux sens. Ce profil correspond au style d'attachement sécure, associé à une meilleure régulation et à une communication plus directe (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 2 ter.9 Ce que cette typologie ne dit pas
 
-Ce ne sont pas des cases, et surtout pas des diagnostics. Un homme change de profil dominant après une thérapie, après une paternité, après une rupture, après une réussite. La question utile n'est jamais "lequel est-il", c'est "lequel est-il en ce moment, et pourquoi maintenant".
+Ce ne sont pas des cases, et surtout pas des diagnostics. Un homme change de profil dominant après une thérapie, après une paternité, après une rupture, après une réussite. La question utile n'est jamais "lequel est-il", c'est "lequel est-il en ce moment, et pourquoi maintenant". Cette typologie descriptive n'a pas la validité psychométrique des instruments de mesure comme l'inventaire de conformité aux normes masculines (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).

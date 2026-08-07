@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
-chapitres: 21
-mots: 26413
+chapitres: 22
+mots: 32211
 verifie_le: 2026-08-07
 licence: "CC BY 4.0"
 ---
@@ -22,22 +22,30 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Le décor : ce que disent les chiffres](<01 - Ce que disent les chiffres.md>) | repères | 792 |
-| 9 | [La contraception masculine : ce qui existe vraiment](<09 - La contraception masculine.md>) | prévention | 960 |
-| 11 | [La sexualité masculine : anatomie, réponse, troubles](<11 - La sexualite masculine.md>) | physiologie | 1 065 |
-| 12 | [La sexualité comme langage émotionnel](<12 - La sexualité comme langage émotionnel.md>) | relation | 1 215 |
-| 13 | [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<13 - Le désir dans la durée.md>) | relation | 1 801 |
-| 15 | [Les âges de la vie masculine](<15 - Les âges de la vie masculine.md>) | psychologie | 908 |
-| 16 | [Le désert relationnel : être la seule personne à qui il parle](<16 - Le désert relationnel.md>) | relation | 711 |
-| 16b | [Les conflits entre hommes](<16b - Les conflits entre hommes.md>) | relation | 1 580 |
-| 17 | [La boîte à outils de couple](<17 - La boîte à outils de couple.md>) | relation | 1 048 |
-| 17b | [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<17b - Les reproches récurrents.md>) | relation | 1 915 |
-| 17c | [Le dilemme masculin contemporain](<17c - Le dilemme masculin contemporain.md>) | psychologie | 1 231 |
-| 18 | [Les limites : ce qui n'est pas à soi de porter](<18 - Les limites.md>) | relation | 812 |
-| 21 | [La santé sur vingt ans : ce qui compte et quand](<21 - La sante sur le long terme.md>) | prévention | 992 |
-| 23 | [Aide-mémoire](<23 - Aide-mémoire.md>) | repères | 961 |
+| 1 | [Le décor : ce que disent les chiffres](<01 - Ce que disent les chiffres.md>) | repères | 842 |
+| 02 | [Le cycle masculin : ce qui existe vraiment](<02 - Le cycle masculin.md>) | physiologie | 1 112 |
+| 03 | [Le substrat : analyse socio-neuro-psychologique](<03 - Le substrat socio-neuro-psychologique.md>) | psychologie | 2 297 |
+| 04 | [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<04 - L'architecture émotionnelle.md>) | psychologie | 3 261 |
+| 05 | [Les grands profils masculins](<05 - Les grands profils masculins.md>) | psychologie | 1 737 |
+| 06 | [La dépression masculine : le visage qu'elle ne prend pas](<06 - La dépression masculine.md>) | psychologie | 1 456 |
+| 07 | [Anxiété, stress et corps : le circuit court](<07 - Anxiété, stress et corps.md>) | psychologie | 797 |
+| 08 | [Le corps masculin : ce qu'il est utile de savoir](<08 - Le corps masculin.md>) | physiologie | 1 306 |
+| 9 | [La contraception masculine : ce qui existe vraiment](<09 - La contraception masculine.md>) | prévention | 1 188 |
+| 11 | [La sexualité masculine : anatomie, réponse, troubles](<11 - La sexualite masculine.md>) | physiologie | 1 317 |
+| 12 | [La sexualité comme langage émotionnel](<12 - La sexualité comme langage émotionnel.md>) | relation | 1 430 |
+| 13 | [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<13 - Le désir dans la durée.md>) | relation | 1 979 |
+| 15 | [Les âges de la vie masculine](<15 - Les âges de la vie masculine.md>) | psychologie | 1 075 |
+| 16 | [Le désert relationnel : être la seule personne à qui il parle](<16 - Le désert relationnel.md>) | relation | 852 |
+| 16b | [Les conflits entre hommes](<16b - Les conflits entre hommes.md>) | relation | 1 927 |
+| 17 | [La boîte à outils de couple](<17 - La boîte à outils de couple.md>) | relation | 1 254 |
+| 17b | [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<17b - Les reproches récurrents.md>) | relation | 2 458 |
+| 17c | [Le dilemme masculin contemporain](<17c - Le dilemme masculin contemporain.md>) | psychologie | 1 416 |
+| 18 | [Les limites : ce qui n'est pas à soi de porter](<18 - Les limites.md>) | relation | 1 013 |
+| 21 | [La santé sur vingt ans : ce qui compte et quand](<21 - La sante sur le long terme.md>) | prévention | 1 193 |
+| 23 | [Aide-mémoire](<23 - Aide-mémoire.md>) | repères | 949 |
+| 24 | [Sources vérifiables](<24 - Sources verifiables.md>) | repères | 1 352 |
 
-Total : 26 413 mots, 21 chapitres.
+Total : 32 211 mots, 22 chapitres.
 
 ## Le guide jumeau
 

@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 **L'analogie.** Une fuite d'eau dans une maison. Le modèle classique, celui qu'on nous a appris à repérer, c'est la flaque au sol : visible, identifiable, on appelle le plombier. Mais une fuite peut aussi se manifester par une facture d'eau anormale, une tache d'humidité au plafond de l'étage du dessous, une odeur, un carrelage qui se décolle. Si tu ne cherches que la flaque, tu peux vivre trois ans au-dessus d'une fuite.
 
-La dépression masculine est très souvent une fuite sans flaque. Les critères diagnostiques standards mettent en avant la tristesse, les pleurs, le retrait, le ralentissement, la dévalorisation verbalisée. Chez beaucoup d'hommes, la dépression se présente en négatif de tout ça.
+La dépression masculine est très souvent une fuite sans flaque. Les critères diagnostiques standards mettent en avant la tristesse, les pleurs, le retrait, le ralentissement, la dévalorisation verbalisée. Chez beaucoup d'hommes, la dépression se présente en négatif de tout ça. Le moindre recours au diagnostic et aux soins chez les hommes dépressifs est documenté par une synthèse de la littérature clinique (source : Cochran & Rabinowitz, *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 ; vérification du 7 août 2026).
 
 ### 3.2 Le tableau atypique, symptôme par symptôme
 
@@ -29,13 +29,13 @@ Voici ce qu'il faut apprendre à voir. Aucun de ces signes pris isolément ne si
 - **Troubles du sommeil.** Réveils entre 3 h et 5 h avec impossibilité de se rendormir. C'est un signe très classique, y compris chez les hommes qui n'expriment rien par ailleurs.
 - **Retrait social progressif.** Il annule, il décline, il ne rappelle pas. Souvent expliqué par la fatigue ou le manque de temps.
 - **Cynisme et désengagement.** Un homme qui trouve soudain que tout est vain, que rien n'a de sens, que les gens sont médiocres, ne fait pas nécessairement une crise philosophique.
-- **Perte d'accès au plaisir.** Le seul symptôme classique qui reste très fiable. S'il ne prend plus de plaisir aux choses qu'il aimait vraiment, c'est un signe majeur, quelle que soit la façade.
+- **Perte d'accès au plaisir.** Le seul symptôme classique qui reste très fiable. S'il ne prend plus de plaisir aux choses qu'il aimait vraiment, c'est un signe majeur, quelle que soit la façade. La présentation atypique de la dépression masculine — irritabilité, prise de risque, hausse de la consommation d'alcool — est décrite dans cette même synthèse (source : Cochran & Rabinowitz, *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 ; vérification du 7 août 2026).
 
 ### 3.3 Le facteur déclenchant typique
 
 Les déclencheurs les plus fréquents d'un épisode dépressif masculin sont ceux qui touchent aux règles du chapitre 2.5 : perte d'emploi ou déclassement professionnel, échec d'un projet, séparation, problème financier, maladie ou blessure qui limite le corps, départ à la retraite, naissance d'un enfant, décès d'un parent (surtout du père). Le point commun : tous attaquent l'utilité perçue ou le statut.
 
-Un homme qui perd son travail ne perd pas seulement un revenu. Dans son système intériorisé, il perd la justification de son existence. Il faut prendre cette phrase au sérieux, elle n'est pas exagérée.
+Un homme qui perd son travail ne perd pas seulement un revenu. Dans son système intériorisé, il perd la justification de son existence. Il faut prendre cette phrase au sérieux, elle n'est pas exagérée. Les facteurs déclenchants les plus fréquents de la dépression masculine sont documentés dans la même synthèse clinique (source : Cochran & Rabinowitz, *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 ; vérification du 7 août 2026).
 
 ### 3.4 Le risque suicidaire : ce qu'il faut savoir précisément
 

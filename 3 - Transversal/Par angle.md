@@ -134,6 +134,7 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Sources vérifiables](<../1 - Guides/Pour Elle/27 - Sources verifiables.md>)  `corps féminin` · Pour Elle
 - [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Lui/01 - Ce que disent les chiffres.md>)  `corps masculin` · Pour Lui
 - [Aide-mémoire](<../1 - Guides/Pour Lui/23 - Aide-mémoire.md>)  `corps masculin` · Pour Lui
+- [Sources vérifiables](<../1 - Guides/Pour Lui/24 - Sources verifiables.md>)  `corps masculin` · Pour Lui
 - [Le couple à travers les âges et les civilisations](<../1 - Guides/Pour Nous/11 - Le couple a travers les ages.md>)  `commun` · Pour Nous
 - [Sources vérifiables](<../1 - Guides/Pour Nous/12 - Sources verifiables.md>)  `commun` · Pour Nous
 - [Où les gens se rencontrent vraiment](<../1 - Guides/La rencontre/04 - Ou les gens se rencontrent vraiment.md>)  `commun` · La rencontre

@@ -16,7 +16,7 @@ C'est la période où la règle 4 du code viril (ne pas être classé défavorab
 
 Les fragilités typiques : [anxiété de performance](<../../2 - Notions/Anxiété de performance.md>), dysmorphophobie (rapport pathologique à son image corporelle, très sous-repérée chez les garçons), consommations, sentiment d'imposture, difficulté à formuler un désir propre distinct des attentes extérieures.
 
-**💑 Dans le couple.** À cet âge, la valorisation ne fonctionne que si elle est spécifique. "Tu es génial" glisse, "j'ai trouvé ta manière de gérer ce truc très solide" atterrit.
+**💑 Dans le couple.** À cet âge, la valorisation ne fonctionne que si elle est spécifique. "Tu es génial" glisse, "j'ai trouvé ta manière de gérer ce truc très solide" atterrit. La comparaison sociale permanente, amplifiée par les réseaux sociaux, affecte particulièrement les jeunes adultes (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
 
 ### 7.2 De 25 à 35 ans : le pic de charge et le début du désert relationnel
 
@@ -24,7 +24,7 @@ Période de construction professionnelle intense, souvent d'installation en coup
 
 Le chiffre à retenir, du chapitre 8 : à ce moment-là, un homme sur deux environ voit sa partenaire devenir sa seule vraie confidente.
 
-Les fragilités typiques : surinvestissement professionnel, épuisement silencieux, perte des espaces de décompression, difficulté à demander de l'aide (règle 3), sentiment de ne plus s'appartenir.
+Les fragilités typiques : surinvestissement professionnel, épuisement silencieux, perte des espaces de décompression, difficulté à demander de l'aide (règle 3), sentiment de ne plus s'appartenir. Le rétrécissement du réseau amical masculin après les études est documenté dans la littérature sur les amitiés masculines (source : Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
 
 ### 7.3 De 35 à 50 ans : le bilan, pas la crise
 
@@ -37,7 +37,7 @@ C'est aussi statistiquement une période à risque dépressif élevé, et le sen
 **Bons réflexes.**
 
 - Traiter la question du sens comme un sujet légitime, pas comme une lubie. "Tu ferais quoi si tu pouvais tout changer ?" posé sans menace ouvre parfois des conversations que dix ans de vie commune n'avaient pas ouvertes.
-- Distinguer le questionnement du passage à l'acte. Le premier est sain et doit pouvoir se dire. Le second arrive surtout quand le premier n'a pas eu de place.
+- Distinguer le questionnement du passage à l'acte. Le premier est sain et doit pouvoir se dire. Le second arrive surtout quand le premier n'a pas eu de place. Cette période de bilan correspond à une phase de transition décrite dans les travaux fondateurs sur le développement adulte masculin (source : Levinson, *The Seasons of a Man's Life*, Knopf, 1978 ; vérification du 7 août 2026).
 
 ### 7.4 Après 50 ans : le corps, le statut, et le vrai risque
 
@@ -62,4 +62,4 @@ La retraite retire d'un coup ce qui, dans le système décrit au 2.5, tenait lie
 
 - Lui confier des tâches où il est seul responsable, plutôt que des tâches où il assiste. La compétence se construit par l'exclusivité, pas par l'assistance.
 - Ne pas corriger systématiquement sa manière de faire. Un père corrigé dix fois devient un père qui n'essaie plus, et le couple se retrouve avec un déséquilibre qui durera quinze ans.
-- Nommer explicitement sa place. "Elle a besoin de toi autant que de moi, juste différemment" est une phrase qui vaut cher au troisième mois.
+- Nommer explicitement sa place. "Elle a besoin de toi autant que de moi, juste différemment" est une phrase qui vaut cher au troisième mois. La transition psychologique vers la paternité est décrite dans une revue de la littérature dédiée (source : Genesoni & Tallandini, « Men's Psychological Transition to Fatherhood: An Analysis of the Literature, 1989–2008 », *Birth*, 2009 ; vérification du 7 août 2026).

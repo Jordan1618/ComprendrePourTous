@@ -61,6 +61,7 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Pour Lui/18 - Les limites.md>)  `relation`
 - [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/21 - La sante sur le long terme.md>)  `prévention`
 - [Aide-mémoire](<../1 - Guides/Pour Lui/23 - Aide-mémoire.md>)  `repères`
+- [Sources vérifiables](<../1 - Guides/Pour Lui/24 - Sources verifiables.md>)  `repères`
 
 ## Commun
 
