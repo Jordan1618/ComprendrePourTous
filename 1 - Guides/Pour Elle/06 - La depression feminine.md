@@ -42,11 +42,11 @@ Ce qu'il faut en retenir pratiquement : la dépression est fréquente chez les f
 
 Trois, avec un lien établi — sans que cela justifie de tout renvoyer aux hormones, comme le rappelle le chapitre 4.
 
-**Le post-partum.** La dépression du post-partum touche une part significative des accouchées, bien au-delà du baby blues, qui est bref et régresse seul. Elle peut apparaître dans les semaines mais aussi plusieurs mois après la naissance. Elle n'est ni un manque d'amour pour l'enfant ni une faiblesse, et elle se traite d'autant mieux qu'elle est nommée tôt. En France, un entretien postnatal précoce est proposé pour la repérer : c'est un rendez-vous à prendre, pas une formalité. Voir le chapitre 14b.
+**Le post-partum.** La [dépression du post-partum](<../../2 - Notions/Dépression du post-partum.md>) touche une part significative des accouchées, bien au-delà du baby blues, qui est bref et régresse seul. Elle peut apparaître dans les semaines mais aussi plusieurs mois après la naissance. Elle n'est ni un manque d'amour pour l'enfant ni une faiblesse, et elle se traite d'autant mieux qu'elle est nommée tôt. En France, un entretien postnatal précoce est proposé pour la repérer : c'est un rendez-vous à prendre, pas une formalité. Voir le chapitre 14b.
 
-**La périménopause.** Les fluctuations hormonales de cette période s'accompagnent d'un risque accru d'épisode dépressif, particulièrement chez celles qui en ont déjà connu. Elle est régulièrement confondue avec une dépression simple, et inversement.
+**La [périménopause](<../../2 - Notions/Périménopause.md>).** Les fluctuations hormonales de cette période s'accompagnent d'un risque accru d'épisode dépressif, particulièrement chez celles qui en ont déjà connu. Elle est régulièrement confondue avec une dépression simple, et inversement.
 
-**Le trouble dysphorique prémenstruel.** Symptômes de l'humeur sévères en phase lutéale, disparaissant avec les règles. À distinguer du syndrome prémenstruel ordinaire. Voir le chapitre 4.
+**Le [trouble dysphorique prémenstruel](<../../2 - Notions/Trouble dysphorique prémenstruel.md>).** Symptômes de l'humeur sévères en phase lutéale, disparaissant avec les règles. À distinguer du syndrome prémenstruel ordinaire. Voir le chapitre 4.
 
 **Signal d'alerte, pas clause de style** : des idées suicidaires justifient d'appeler le **3114**, gratuit, en permanence, ouvert aussi aux proches inquiets. En post-partum, toute idée de faire du mal à soi ou à l'enfant est une urgence — elle est plus fréquente qu'on ne le dit, elle se traite, et la dire ne fait perdre la garde de personne.
 

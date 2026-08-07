@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Le **baby blues** touche la grande majorité des jeunes mères (jusqu'à 700-800 ‰) dans les 3-5 jours suivant l'accouchement : pleurs, hypersensibilité, anxiété passagère, liés à l'effondrement hormonal brutal après la naissance, imagine une chute de plusieurs étages en quelques heures pour des hormones (œstrogènes, progestérone) qui avaient atteint, en fin de grossesse, leurs niveaux les plus élevés de toute une vie. Il se résout spontanément en quelques jours et ne nécessite pas de traitement, seulement du soutien.
 
-La **dépression du post-partum (DPP)** est différente : plus tardive, plus durable (s'installant dans les 12 mois suivant la naissance), plus sévère. En France, sa prévalence est estimée entre **10 et 20 %** des accouchées selon les études, avec un chiffre de référence de **16,7 %** issu de l'enquête nationale périnatale de Santé publique France (2021), soit **environ 1 mère sur 6** deux mois après la naissance, et **5% de ces femmes rapportent des idées suicidaires** à ce moment-là (source : Vidal.fr, 2023 ; BEH Santé publique France, 2025). **Le suicide maternel est la deuxième cause de mortalité maternelle en France**, un chiffre qui mérite d'être connu tant il est peu diffusé (source : ClinicalTrials.gov, étude Troyes, 2025).
+La **[dépression du post-partum](<../../2 - Notions/Dépression du post-partum.md>) (DPP)** est différente : plus tardive, plus durable (s'installant dans les 12 mois suivant la naissance), plus sévère. En France, sa prévalence est estimée entre **10 et 20 %** des accouchées selon les études, avec un chiffre de référence de **16,7 %** issu de l'enquête nationale périnatale de Santé publique France (2021), soit **environ 1 mère sur 6** deux mois après la naissance, et **5% de ces femmes rapportent des idées suicidaires** à ce moment-là (source : Vidal.fr, 2023 ; BEH Santé publique France, 2025). **Le suicide maternel est la deuxième cause de mortalité maternelle en France**, un chiffre qui mérite d'être connu tant il est peu diffusé (source : ClinicalTrials.gov, étude Troyes, 2025).
 
 **Un entretien postnatal précoce est obligatoire en France depuis 2022**, réalisé par une sage-femme, précisément pour repérer ces situations (source : BEH, 2025). Le dépistage utilise l'échelle d'Édimbourg (EPDS), généralement à 6-8 semaines post-partum.
 
@@ -73,7 +73,7 @@ L'allaitement n'est ni une obligation morale ni une évidence physiologique simp
 **Bons réflexes**
 - Ne jamais faire peser, même implicitement, une pression sur le choix d'allaiter ou non, ou sur la durée de l'allaitement, c'est une décision qui appartient à la mère, dans le contexte de sa propre santé physique et mentale.
 - Si elle te décrit une vague de tristesse brève et récurrente au moment des tétées, sans lien avec un rejet du bébé, le D-MER est une explication possible et rassurante à évoquer avec une sage-femme ou une consultante en lactation.
-- Prendre en charge activement les tâches délégables (changes de nuit avec du lait tiré, gestion du foyer, repas) libère une charge mentale et physique considérable, sans se substituer à ce qui ne peut techniquement pas être délégué.
+- Prendre en charge activement les tâches délégables (changes de nuit avec du lait tiré, gestion du foyer, repas) libère une [charge mentale](<../../2 - Notions/Charge mentale.md>) et physique considérable, sans se substituer à ce qui ne peut techniquement pas être délégué.
 
 ### 7.8 Contraception post-partum
 

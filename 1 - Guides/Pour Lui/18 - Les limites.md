@@ -14,7 +14,7 @@ Ce chapitre est aussi important que tous les autres. Un guide qui t'apprendrait 
 
 ### 10.1 Comprendre n'est pas excuser
 
-Tout ce document explique des mécanismes. Aucun de ces mécanismes ne constitue une justification. Le décalage temporel explique une réaction disproportionnée, il ne la rend pas acceptable. L'alexithymie explique une difficulté à parler, elle ne dispense pas de faire l'effort. Le code viril explique la réticence à consulter, elle ne rend pas la consultation facultative quand la situation l'exige.
+Tout ce document explique des mécanismes. Aucun de ces mécanismes ne constitue une justification. Le décalage temporel explique une réaction disproportionnée, il ne la rend pas acceptable. L'[alexithymie](<../../2 - Notions/Alexithymie.md>) explique une difficulté à parler, elle ne dispense pas de faire l'effort. Le code viril explique la réticence à consulter, elle ne rend pas la consultation facultative quand la situation l'exige.
 
 La ligne est simple : comprendre sert à ne pas mal interpréter et à choisir la bonne approche. Ça ne sert pas à accepter indéfiniment.
 

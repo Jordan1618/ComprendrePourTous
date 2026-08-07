@@ -14,7 +14,7 @@ Tu as demandé les "superstars" du domaine, les voici, avec ce qu'elles ont conc
 
 ### Camille Berthelot : Institut Pasteur, Paris (génomique évolutive de la menstruation)
 
-Chargée de recherche Inserm à l'Institut Pasteur, elle dirige le projet **EVOMENS**, financé par le Conseil européen de la recherche, qui compare les génomes de primates menstruant et non-menstruant pour identifier les gènes à l'origine de la menstruation au cours de l'évolution. Son objectif déclaré : comprendre l'origine évolutive des règles pour mieux soigner l'endométriose, une maladie qui reste, selon ses propres mots rapportés par l'Inserm, mal comprise "d'un point de vue scientifique" malgré son importance pour la santé des femmes (source : Inserm, 2022 ; Institut Pasteur, 2025-2026).
+Chargée de recherche Inserm à l'Institut Pasteur, elle dirige le projet **EVOMENS**, financé par le Conseil européen de la recherche, qui compare les génomes de primates menstruant et non-menstruant pour identifier les gènes à l'origine de la menstruation au cours de l'évolution. Son objectif déclaré : comprendre l'origine évolutive des règles pour mieux soigner l'[endométriose](<../../2 - Notions/Endométriose.md>), une maladie qui reste, selon ses propres mots rapportés par l'Inserm, mal comprise "d'un point de vue scientifique" malgré son importance pour la santé des femmes (source : Inserm, 2022 ; Institut Pasteur, 2025-2026).
 
 ### Linda Griffith : MIT, Cambridge (bio-ingénierie et endométriose)
 
@@ -46,7 +46,7 @@ Chercheuse et présidente non rémunérée du comité consultatif clinique de l'
 
 ### Samantha Meltzer-Brody : Université de Caroline du Nord à Chapel Hill (dépression du post-partum)
 
-Titulaire de la chaire de psychiatrie de l'UNC et directrice du Centre des troubles de l'humeur féminins de cette université, elle est une pionnière de la psychiatrie périnatale et l'investigatrice principale des essais cliniques ayant conduit à l'approbation de la brexanolone (2019) puis de la zuranolone pour la dépression du post-partum. Elle rappelle régulièrement, dans ses interventions publiques, que la dépression post-partum touche environ 1 nouvelle mère sur 8 aux États-Unis et reste, comme une grande partie de la santé des femmes, un champ historiquement sous-étudié et négligé par la recherche médicale (source : UNC Health Foundation, 2024 ; Endpoints News, janvier 2025 ; American Journal of Psychiatry, 2026).
+Titulaire de la chaire de psychiatrie de l'UNC et directrice du Centre des troubles de l'humeur féminins de cette université, elle est une pionnière de la psychiatrie périnatale et l'investigatrice principale des essais cliniques ayant conduit à l'approbation de la brexanolone (2019) puis de la zuranolone pour la [dépression du post-partum](<../../2 - Notions/Dépression du post-partum.md>). Elle rappelle régulièrement, dans ses interventions publiques, que la dépression post-partum touche environ 1 nouvelle mère sur 8 aux États-Unis et reste, comme une grande partie de la santé des femmes, un champ historiquement sous-étudié et négligé par la recherche médicale (source : UNC Health Foundation, 2024 ; Endpoints News, janvier 2025 ; American Journal of Psychiatry, 2026).
 
 ### Le fil conducteur de tous ces parcours
 

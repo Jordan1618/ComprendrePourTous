@@ -30,7 +30,7 @@ Cela explique une chose qui déroute souvent les femmes : la demande sexuelle d'
 
 Un épisode de dysfonction érectile ponctuel est banal. Il arrive à tous les hommes, à tout âge, pour des raisons triviales : fatigue, alcool, stress, distraction, contexte. Sur le plan médical, il n'y a rien à en dire.
 
-Sur le plan émotionnel, c'est autre chose. Pour un homme, une panne n'est pas un incident technique, elle est immédiatement interprétée sur le registre de l'identité, exactement selon le mécanisme de honte du 2.4. Ce n'est pas "mon corps n'a pas répondu", c'est "je ne suis pas un homme". Et c'est précisément cette lecture qui crée le problème durable : l'anxiété de performance déclenche une activation sympathique, qui est physiologiquement incompatible avec l'érection. La peur de la panne provoque la panne. Après deux ou trois épisodes, l'évitement s'installe, et le couple entre dans un désert sexuel dont la cause d'origine a disparu depuis longtemps.
+Sur le plan émotionnel, c'est autre chose. Pour un homme, une panne n'est pas un incident technique, elle est immédiatement interprétée sur le registre de l'identité, exactement selon le mécanisme de honte du 2.4. Ce n'est pas "mon corps n'a pas répondu", c'est "je ne suis pas un homme". Et c'est précisément cette lecture qui crée le problème durable : l'[anxiété de performance](<../../2 - Notions/Anxiété de performance.md>) déclenche une activation sympathique, qui est physiologiquement incompatible avec l'érection. La peur de la panne provoque la panne. Après deux ou trois épisodes, l'évitement s'installe, et le couple entre dans un désert sexuel dont la cause d'origine a disparu depuis longtemps.
 
 **Bons réflexes.**
 
@@ -45,7 +45,7 @@ L'écart de désir dans un couple est la situation la plus fréquente en consult
 
 Les causes d'une baisse de désir masculine, dans l'ordre de fréquence réelle : fatigue et sommeil, stress professionnel, épisode dépressif, alcool, antidépresseurs, conflit non résolu dans le couple, usage compulsif de pornographie, et beaucoup plus rarement une cause hormonale.
 
-**💑 Dans le couple.** Le désir masculin est décrit comme plus spontané et le désir féminin comme plus réactif, mais cette opposition est largement caricaturale et devient franchement fausse avec l'âge et la durée de la relation. Après quelques années, la plupart des hommes ont aussi un désir réactif : il a besoin d'un contexte, d'un déclencheur, d'une disponibilité mentale. Considérer que "s'il ne prend pas l'initiative c'est qu'il n'a plus envie de moi" est une erreur d'interprétation très fréquente et très coûteuse.
+**💑 Dans le couple.** Le désir masculin est décrit comme plus spontané et le désir féminin comme plus réactif, mais cette opposition est largement caricaturale et devient franchement fausse avec l'âge et la durée de la relation. Après quelques années, la plupart des hommes ont aussi un [désir réactif](<../../2 - Notions/Désir spontané et désir réactif.md>) : il a besoin d'un contexte, d'un déclencheur, d'une disponibilité mentale. Considérer que "s'il ne prend pas l'initiative c'est qu'il n'a plus envie de moi" est une erreur d'interprétation très fréquente et très coûteuse.
 
 **Bons réflexes.**
 

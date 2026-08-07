@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 17
-mots: 27454
+mots: 27562
 verifie_le: 2026-08-07
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -114,7 +114,7 @@ Le cycle décrit plus haut (1.1 et 1.2) est celui d'un cycle "établi" et stable
 
 **L'aménorrhée liée au sport intensif ou à un déficit énergétique (parfois appelée RED-S, "Relative Energy Deficiency in Sport")** : reprends l'analogie du thermostat (1.1). Chez une sportive qui s'entraîne très intensément sans manger suffisamment pour compenser la dépense énergétique, le cerveau interprète ce déficit comme un signal qu'il n'est "pas prudent" de maintenir un système reproducteur actif, un peu comme une entreprise qui mettrait en pause ses projets d'expansion coûteux en période de restrictions budgétaires, le temps que la situation se stabilise. À la différence d'une irrégularité passagère, une aménorrhée prolongée dans ce contexte n'est pas anodine : elle s'accompagne souvent d'une chute des œstrogènes qui, maintenue dans la durée, fragilise la densité osseuse, un vrai motif de consultation, pas juste "un cycle qui s'est mis en pause".
 
-**Un mot sur la périménopause** (développée plus en détail en lien avec la sexualité en section 5.4) : les cycles commencent typiquement à s'irrégulariser plusieurs années avant l'arrêt définitif des règles, avec des ovulations de moins en moins systématiques, un dernier "ralentissement" progressif de l'orchestre plutôt qu'un arrêt brutal.
+**Un mot sur la [périménopause](<../2 - Notions/Périménopause.md>)** (développée plus en détail en lien avec la sexualité en section 5.4) : les cycles commencent typiquement à s'irrégulariser plusieurs années avant l'arrêt définitif des règles, avec des ovulations de moins en moins systématiques, un dernier "ralentissement" progressif de l'orchestre plutôt qu'un arrêt brutal.
 
 **💑 Dans le couple** : comprendre ce fonctionnement en boucle change une chose essentielle dans la façon dont tu vas interpréter les variations de ta partenaire au fil du mois. Une irritabilité en phase lutéale n'est pas "un caprice" ni "elle qui devient difficile", c'est un thermostat cérébral qui répond à une vraie fluctuation hormonale mesurable. À l'inverse, un désir sexuel plus marqué en période ovulatoire n'est pas non plus "elle qui a changé d'avis sur toi", c'est de la physiologie.
 
@@ -146,7 +146,7 @@ Une autre piste de recherche, complémentaire et moins étayée, propose que la 
 
 Le cycle œstral d'un chien ou d'un chat n'est pas "plus simple", il est juste différent, et il n'est pas non plus figé : chez les primates non humains eux-mêmes, la **durée des cycles varie de 11 à 55 jours** selon les espèces (médiane de 39 jours chez les prosimiens, 20 jours chez les platyrhiniens), une variabilité biologique déjà considérable, bien avant même de parler des humains (source : Encyclopédie Universalis, citée par Ville de Genève, 2021). Autrement dit : la complexité et la variabilité des cycles reproductifs sont la norme dans le règne animal, pas l'exception humaine. Ce que les humains ont de spécifique, ce n'est pas "plus de complexité" en général, mais un mécanisme **particulier** (la décidualisation profonde suivie de menstruation), lui-même la conséquence directe d'un autre trait très spécifiquement humain : un cerveau fœtal disproportionnellement gros par rapport à la taille du bassin maternel, contraint par la bipédie.
 
-**Un mot sur les "autres" espèces qui menstruent, souvent oubliées** : la souris épineuse ("Acomys cahirinus") est devenue depuis quelques années un vrai modèle de laboratoire précieux pour les chercheurs, précisément parce que les souris et rats "classiques" utilisés en recherche (qui ont un cycle œstral) ne permettent pas d'étudier la menstruation humaine directement, "Acomys", elle, menstrue réellement, ce qui en fait un modèle animal beaucoup plus pertinent pour tester des traitements de l'endométriose ou des troubles menstruels sans avoir à attendre des essais cliniques humains à chaque étape. Du côté des chauves-souris, les quelques espèces concernées (notamment certaines chauves-souris frugivores) partagent avec les humains et les autres primates menstruants ce même trait d'implantation embryonnaire profondément invasive, un bel exemple de ce que les biologistes appellent une **convergence évolutive** : des espèces très éloignées sur l'arbre du vivant qui développent indépendamment une solution biologique similaire au même problème.
+**Un mot sur les "autres" espèces qui menstruent, souvent oubliées** : la souris épineuse ("Acomys cahirinus") est devenue depuis quelques années un vrai modèle de laboratoire précieux pour les chercheurs, précisément parce que les souris et rats "classiques" utilisés en recherche (qui ont un cycle œstral) ne permettent pas d'étudier la menstruation humaine directement, "Acomys", elle, menstrue réellement, ce qui en fait un modèle animal beaucoup plus pertinent pour tester des traitements de l'[endométriose](<../2 - Notions/Endométriose.md>) ou des troubles menstruels sans avoir à attendre des essais cliniques humains à chaque étape. Du côté des chauves-souris, les quelques espèces concernées (notamment certaines chauves-souris frugivores) partagent avec les humains et les autres primates menstruants ce même trait d'implantation embryonnaire profondément invasive, un bel exemple de ce que les biologistes appellent une **convergence évolutive** : des espèces très éloignées sur l'arbre du vivant qui développent indépendamment une solution biologique similaire au même problème.
 
 ### 2.4 Pourquoi la recherche s'y intéresse tant en ce moment
 
@@ -197,11 +197,11 @@ Quand une installation disjoncte, on peut accuser le fusible. Il a effectivement
 
 Trois situations où le lien est solide, et il serait absurde de les minimiser.
 
-**Le trouble dysphorique prémenstruel (TDPM).** À distinguer nettement du syndrome prémenstruel ordinaire. Il touche une minorité de femmes et se caractérise par des symptômes de l'humeur sévères et invalidants en phase lutéale, disparaissant avec les règles. Ce n'est pas une exagération du SPM : c'est reconnu comme un trouble à part entière, et il existe des prises en charge. Le mécanisme retenu n'est pas un taux hormonal anormal — les dosages sont généralement normaux — mais une **sensibilité particulière aux variations**.
+**Le [trouble dysphorique prémenstruel](<../2 - Notions/Trouble dysphorique prémenstruel.md>) (TDPM).** À distinguer nettement du syndrome prémenstruel ordinaire. Il touche une minorité de femmes et se caractérise par des symptômes de l'humeur sévères et invalidants en phase lutéale, disparaissant avec les règles. Ce n'est pas une exagération du SPM : c'est reconnu comme un trouble à part entière, et il existe des prises en charge. Le mécanisme retenu n'est pas un taux hormonal anormal — les dosages sont généralement normaux — mais une **sensibilité particulière aux variations**.
 
-**La période post-partum.** La chute hormonale brutale après l'accouchement, combinée à la privation de sommeil et au bouleversement de vie, constitue une période de vulnérabilité réelle. La dépression du post-partum n'est ni un caractère fragile ni un manque d'amour pour l'enfant. Elle se traite, et elle est d'autant mieux prise en charge qu'elle est nommée tôt. Voir le chapitre 7 de ce guide.
+**La période post-partum.** La chute hormonale brutale après l'accouchement, combinée à la privation de sommeil et au bouleversement de vie, constitue une période de vulnérabilité réelle. La [dépression du post-partum](<../2 - Notions/Dépression du post-partum.md>) n'est ni un caractère fragile ni un manque d'amour pour l'enfant. Elle se traite, et elle est d'autant mieux prise en charge qu'elle est nommée tôt. Voir le chapitre 7 de ce guide.
 
-**La périménopause.** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement.
+**La [périménopause](<../2 - Notions/Périménopause.md>).** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement.
 
 ### 13.3 Ce qu'on leur attribue à tort
 
@@ -209,7 +209,7 @@ C'est l'autre versant, et il est au moins aussi important.
 
 **Le « c'est tes hormones » comme fin de conversation.** Utilisé pour disqualifier une colère, un désaccord ou une plainte, c'est un procédé qui a une longue histoire — le mot « hystérie » vient de *hustera*, l'utérus. L'effet pratique est constant : la personne cesse de discuter du fond, parce que le fond a été renvoyé à sa biologie.
 
-**Le retard diagnostique.** Des travaux documentent une tendance à attribuer plus rapidement des symptômes physiques féminins à l'anxiété, avec pour conséquence des délais de diagnostic plus longs sur plusieurs pathologies. L'endométriose en est l'exemple le plus connu : le délai entre les premiers symptômes et le diagnostic se compte encore en années. Voir le chapitre 4.
+**Le retard diagnostique.** Des travaux documentent une tendance à attribuer plus rapidement des symptômes physiques féminins à l'anxiété, avec pour conséquence des délais de diagnostic plus longs sur plusieurs pathologies. L'[endométriose](<../2 - Notions/Endométriose.md>) en est l'exemple le plus connu : le délai entre les premiers symptômes et le diagnostic se compte encore en années. Voir le chapitre 4.
 
 **La fatigue de fond.** Avant d'invoquer le cycle, deux causes très fréquentes méritent d'être écartées : la **carence en fer**, particulièrement fréquente en cas de règles abondantes, et la dette de sommeil. Un dosage de ferritine est simple, peu coûteux, et souvent révélateur. Voir [Les émotions](<../1 - Guides/Les emotions/README.md>), chapitre 7.
 
@@ -278,11 +278,11 @@ Ce qu'il faut en retenir pratiquement : la dépression est fréquente chez les f
 
 Trois, avec un lien établi — sans que cela justifie de tout renvoyer aux hormones, comme le rappelle le chapitre 4.
 
-**Le post-partum.** La dépression du post-partum touche une part significative des accouchées, bien au-delà du baby blues, qui est bref et régresse seul. Elle peut apparaître dans les semaines mais aussi plusieurs mois après la naissance. Elle n'est ni un manque d'amour pour l'enfant ni une faiblesse, et elle se traite d'autant mieux qu'elle est nommée tôt. En France, un entretien postnatal précoce est proposé pour la repérer : c'est un rendez-vous à prendre, pas une formalité. Voir le chapitre 14b.
+**Le post-partum.** La [dépression du post-partum](<../2 - Notions/Dépression du post-partum.md>) touche une part significative des accouchées, bien au-delà du baby blues, qui est bref et régresse seul. Elle peut apparaître dans les semaines mais aussi plusieurs mois après la naissance. Elle n'est ni un manque d'amour pour l'enfant ni une faiblesse, et elle se traite d'autant mieux qu'elle est nommée tôt. En France, un entretien postnatal précoce est proposé pour la repérer : c'est un rendez-vous à prendre, pas une formalité. Voir le chapitre 14b.
 
-**La périménopause.** Les fluctuations hormonales de cette période s'accompagnent d'un risque accru d'épisode dépressif, particulièrement chez celles qui en ont déjà connu. Elle est régulièrement confondue avec une dépression simple, et inversement.
+**La [périménopause](<../2 - Notions/Périménopause.md>).** Les fluctuations hormonales de cette période s'accompagnent d'un risque accru d'épisode dépressif, particulièrement chez celles qui en ont déjà connu. Elle est régulièrement confondue avec une dépression simple, et inversement.
 
-**Le trouble dysphorique prémenstruel.** Symptômes de l'humeur sévères en phase lutéale, disparaissant avec les règles. À distinguer du syndrome prémenstruel ordinaire. Voir le chapitre 4.
+**Le [trouble dysphorique prémenstruel](<../2 - Notions/Trouble dysphorique prémenstruel.md>).** Symptômes de l'humeur sévères en phase lutéale, disparaissant avec les règles. À distinguer du syndrome prémenstruel ordinaire. Voir le chapitre 4.
 
 **Signal d'alerte, pas clause de style** : des idées suicidaires justifient d'appeler le **3114**, gratuit, en permanence, ouvert aussi aux proches inquiets. En post-partum, toute idée de faire du mal à soi ou à l'enfant est une urgence — elle est plus fréquente qu'on ne le dit, elle se traite, et la dire ne fait perdre la garde de personne.
 
@@ -346,7 +346,7 @@ D'où deux erreurs symétriques, et il faut les tenir ensemble.
 
 **Attribuer au corps ce qui vient de l'anxiété.** Multiplier les examens sur un symptôme anxieux entretient la boucle : chaque examen rassure quelques jours, puis l'inquiétude revient et réclame le suivant.
 
-**Attribuer à l'anxiété ce qui vient du corps.** C'est l'erreur documentée dans le sens qui concerne particulièrement les femmes. Plusieurs travaux décrivent une tendance à renvoyer plus rapidement des symptômes physiques féminins au stress, avec pour conséquences des délais de diagnostic allongés et des douleurs moins traitées. L'endométriose en est l'exemple le plus documenté, avec un délai encore compté en années. Voir le chapitre 10.
+**Attribuer à l'anxiété ce qui vient du corps.** C'est l'erreur documentée dans le sens qui concerne particulièrement les femmes. Plusieurs travaux décrivent une tendance à renvoyer plus rapidement des symptômes physiques féminins au stress, avec pour conséquences des délais de diagnostic allongés et des douleurs moins traitées. L'[endométriose](<../2 - Notions/Endométriose.md>) en est l'exemple le plus documenté, avec un délai encore compté en années. Voir le chapitre 10.
 
 Le cas de l'infarctus mérite d'être isolé, parce qu'il peut coûter une vie : chez les femmes, il se présente plus souvent sous une forme atypique — fatigue intense, nausées, douleur dans la mâchoire, le dos ou l'estomac, essoufflement — plutôt que par la douleur thoracique irradiante classique. Ces tableaux sont plus souvent pris pour de l'anxiété. Voir le chapitre 20.
 
@@ -411,7 +411,7 @@ Plusieurs raisons structurelles, indépendantes du profil individuel de chaque f
 1. **Efficacité très élevée et réversible immédiatement** : c'est objectivement l'une des méthodes les plus efficaces contre les grossesses non désirées, avec un historique de plusieurs décennies de recul.
 2. **Simplicité de prescription** : une ordonnance, un renouvellement, pas de geste technique (contrairement au stérilet, qui nécessite une pose), donc plus rapide dans une consultation courte, ce qui, dans un système de santé sous tension, pèse plus lourd qu'on ne l'imagine dans les choix de prescription au quotidien.
 3. **Effets "bonus" recherchés** : régularisation des cycles, réduction des douleurs de règles, traitement de l'acné et de l'hirsutisme (utile en cas de SOPK/SMOP), c'est d'ailleurs pourquoi elle est aussi prescrite hors contraception pure, y compris pour le TDPM (pilule à la drospirénone).
-4. **Poids historique et formation médicale** : la gynécologie a longtemps été un champ où la parole des patientes sur leurs effets secondaires a été minimisée ("c'est dans la tête", "c'est psychologique"), un biais aujourd'hui documenté et de plus en plus reconnu par les sociétés savantes elles-mêmes, mais qui a mis des décennies à être pris au sérieux. Ce n'est pas une théorie militante : c'est un constat que l'on retrouve dans le témoignage même de chercheuses de premier plan comme Linda Griffith (section 8), qui a vu sa propre douleur d'endométriose traitée avec désinvolture pendant des années avant d'obtenir un diagnostic.
+4. **Poids historique et formation médicale** : la gynécologie a longtemps été un champ où la parole des patientes sur leurs effets secondaires a été minimisée ("c'est dans la tête", "c'est psychologique"), un biais aujourd'hui documenté et de plus en plus reconnu par les sociétés savantes elles-mêmes, mais qui a mis des décennies à être pris au sérieux. Ce n'est pas une théorie militante : c'est un constat que l'on retrouve dans le témoignage même de chercheuses de premier plan comme Linda Griffith (section 8), qui a vu sa propre douleur d'[endométriose](<../2 - Notions/Endométriose.md>) traitée avec désinvolture pendant des années avant d'obtenir un diagnostic.
 5. **Sous-investissement historique dans les alternatives non hormonales et dans la recherche sur la contraception masculine** : ce n'est pas un mythe militant, c'est un fait budgétaire et académique documenté, la charge contraceptive a longtemps reposé presque exclusivement sur le corps féminin, faute d'alternative masculine hormonale ou non hormonale aboutie et commercialisée à grande échelle.
 
 ### Étape 4 : Donc, "cataclysmique" ou pas ?
@@ -431,12 +431,12 @@ Le mot est trop fort pour caractériser l'usage général, pour la majorité des
 
 **💑 Dans le couple**
 
-La contraception est trop souvent vécue comme "son sujet à elle" alors qu'elle concerne un projet partagé (éviter ou permettre une grossesse). Le déséquilibre n'est pas seulement biologique (c'est elle qui porte les effets secondaires physiques), il est aussi souvent relationnel : c'est elle qui pense au renouvellement, qui gère les rendez-vous, qui subit les effets secondaires en silence pour "ne pas faire de vagues". Rééquilibrer cette charge mentale ne veut pas dire "prendre sa place dans la décision médicale", mais partager activement la logistique et l'attention portée aux effets ressentis.
+La contraception est trop souvent vécue comme "son sujet à elle" alors qu'elle concerne un projet partagé (éviter ou permettre une grossesse). Le déséquilibre n'est pas seulement biologique (c'est elle qui porte les effets secondaires physiques), il est aussi souvent relationnel : c'est elle qui pense au renouvellement, qui gère les rendez-vous, qui subit les effets secondaires en silence pour "ne pas faire de vagues". Rééquilibrer cette [charge mentale](<../2 - Notions/Charge mentale.md>) ne veut pas dire "prendre sa place dans la décision médicale", mais partager activement la logistique et l'attention portée aux effets ressentis.
 
 **Bons réflexes**
 - Ne présuppose jamais que "la pilule c'est réglé, on n'en parle plus", les effets secondaires évoluent, et un renouvellement d'ordonnance est un bon moment pour vérifier ensemble si le choix reste le bon.
 - Pose la question directement de temps en temps : "est-ce que tu sens des effets sur ton humeur, ta libido, tes migraines depuis que tu prends X ?", sans attendre qu'elle vienne le signaler spontanément.
-- Si un jour la charge contraceptive devient un sujet de tension, informe-toi sur les options masculines réellement disponibles (préservatif en usage systématique, vasectomie si le projet familial est arrêté) plutôt que de considérer que c'est "son problème à elle" par défaut.
+- Si un jour la charge contraceptive devient un sujet de tension, informe-toi sur les options masculines réellement disponibles (préservatif en usage systématique, [vasectomie](<../2 - Notions/Vasectomie.md>) si le projet familial est arrêté) plutôt que de considérer que c'est "son problème à elle" par défaut.
 - Accompagne-la au rendez-vous de renouvellement de temps en temps si c'est possible, la présence d'un partenaire change souvent la façon dont une consultation gynécologique se déroule, dans le bon sens.
 
 ---
@@ -453,7 +453,7 @@ Ensemble de symptômes physiques (ballonnements, tension mammaire, migraines, fa
 
 **Bons réflexes**
 - Si tu remarques un pattern (des tensions qui reviennent toujours à peu près au même moment du cycle), partage cette observation avec douceur, sans l'utiliser comme une arme ("de toute façon t'es dans ta période"). L'objectif est d'anticiper ensemble, pas de disqualifier ce qu'elle ressent.
-- Une bouillotte, un anti-inflammatoire adapté (à discuter avec son médecin), moins de charge mentale ces jours-là, sont des gestes concrets et sous-estimés.
+- Une bouillotte, un anti-inflammatoire adapté (à discuter avec son médecin), moins de [charge mentale](<../2 - Notions/Charge mentale.md>) ces jours-là, sont des gestes concrets et sous-estimés.
 
 ### 4.2 Trouble dysphorique prémenstruel (TDPM)
 
@@ -475,7 +475,7 @@ Le mécanisme le mieux documenté à ce jour n'est **pas** un déséquilibre hor
 ### 4.3 Dysménorrhée (règles douloureuses)
 
 - **Primaire** : douleur liée aux contractions utérines normales dues aux prostaglandines, imagine l'utérus qui se contracte comme un poing qui se ferme et se rouvre pour expulser la muqueuse, sans pathologie sous-jacente. Très fréquente, souvent sous-traitée par réflexe culturel ("c'est normal d'avoir mal").
-- **Secondaire** : douleur causée par une pathologie sous-jacente (endométriose, adénomyose, fibrome), un signal d'alarme trop souvent ignoré. Une douleur de règles qui empêche d'aller travailler ou en cours n'est **jamais** "normale" et mérite un avis médical.
+- **Secondaire** : douleur causée par une pathologie sous-jacente ([endométriose](<../2 - Notions/Endométriose.md>), adénomyose, fibrome), un signal d'alarme trop souvent ignoré. Une douleur de règles qui empêche d'aller travailler ou en cours n'est **jamais** "normale" et mérite un avis médical.
 
 **💑 Dans le couple** : une douleur de règles minimisée pendant des années peut cacher une pathologie secondaire (endométriose notamment) qui, non traitée, s'aggrave avec le temps et peut affecter la fertilité future du couple.
 
@@ -672,7 +672,7 @@ Pour t'y retrouver dans cette liste : les gynécologues utilisent une classifica
 
 ### 5.2 Le cycle de réponse sexuelle : de la ligne droite au cercle
 
-Le modèle historique de Masters & Johnson (excitation, plateau, orgasme, résolution), établi dans les années 1960, reste une base utile mais décrit une séquence linéaire calquée sur l'observation en laboratoire, un modèle qui correspond assez bien à la réponse sexuelle masculine typique mais moins bien à la diversité des expériences féminines. Il a été enrichi depuis par des modèles plus circulaires, notamment celui de la sexologue canadienne **Rosemary Basson**, qui intègrent mieux la réalité vécue par de nombreuses femmes : le désir n'est pas toujours spontané en amont de l'excitation, il peut être **réactif**, apparaissant après le début d'une stimulation, dans un contexte de connexion émotionnelle et de contexte relationnel favorable, sans que cela signale un problème. Imagine la différence entre un feu qui s'allume spontanément (désir spontané) et un feu qu'il faut d'abord attiser avant qu'il ne prenne (désir réactif), les deux mécanismes produisent au final la même chaleur, mais l'un a besoin d'une étincelle extérieure pour démarrer, sans que ce soit "moins authentique" pour autant.
+Le modèle historique de Masters & Johnson (excitation, plateau, orgasme, résolution), établi dans les années 1960, reste une base utile mais décrit une séquence linéaire calquée sur l'observation en laboratoire, un modèle qui correspond assez bien à la réponse sexuelle masculine typique mais moins bien à la diversité des expériences féminines. Il a été enrichi depuis par des modèles plus circulaires, notamment celui de la sexologue canadienne **Rosemary Basson**, qui intègrent mieux la réalité vécue par de nombreuses femmes : le désir n'est pas toujours spontané en amont de l'excitation, il peut être **réactif**, apparaissant après le début d'une stimulation, dans un contexte de connexion émotionnelle et de contexte relationnel favorable, sans que cela signale un problème. Imagine la différence entre un feu qui s'allume spontanément (désir spontané) et un feu qu'il faut d'abord attiser avant qu'il ne prenne ([désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>)), les deux mécanismes produisent au final la même chaleur, mais l'un a besoin d'une étincelle extérieure pour démarrer, sans que ce soit "moins authentique" pour autant.
 
 ### 5.3 Le modèle à double contrôle : l'accélérateur et le frein
 
@@ -680,7 +680,7 @@ Un troisième modèle, complémentaire aux deux précédents plutôt que concurr
 
 Le principe : le cerveau dispose de deux systèmes indépendants, un **accélérateur** (sensible à tout ce qui est perçu comme sexuellement pertinent : toucher, image, ambiance, émotion positive) et un **frein** (sensible à tout ce qui signale une raison de ne pas s'engager : stress, peur du jugement, douleur anticipée, distraction, insécurité relationnelle).
 
-Reprends l'image d'une voiture : ce n'est pas parce que l'accélérateur est enfoncé à fond que le véhicule avance, si le pied gauche appuie en même temps sur le frein. Beaucoup de baisses de désir ne viennent pas d'un accélérateur trop faible (pas assez de stimulation, pas assez "sexy") mais d'un frein maintenu enfoncé sans qu'on s'en rende compte soi-même, fatigue accumulée, charge mentale, image corporelle, contexte relationnel. Chercher à "pousser plus fort sur l'accélérateur" quand le vrai problème est le frein est l'erreur la plus fréquente, chez les deux partenaires d'ailleurs, pas seulement chez elle (source : institut Kinsey ; Nagoski, "Come As You Are" ; vérification du 27 juillet 2026).
+Reprends l'image d'une voiture : ce n'est pas parce que l'accélérateur est enfoncé à fond que le véhicule avance, si le pied gauche appuie en même temps sur le frein. Beaucoup de baisses de désir ne viennent pas d'un accélérateur trop faible (pas assez de stimulation, pas assez "sexy") mais d'un frein maintenu enfoncé sans qu'on s'en rende compte soi-même, fatigue accumulée, [charge mentale](<../2 - Notions/Charge mentale.md>), image corporelle, contexte relationnel. Chercher à "pousser plus fort sur l'accélérateur" quand le vrai problème est le frein est l'erreur la plus fréquente, chez les deux partenaires d'ailleurs, pas seulement chez elle (source : institut Kinsey ; Nagoski, "Come As You Are" ; vérification du 27 juillet 2026).
 
 **Pourquoi ces trois modèles (5.2 et 5.3) ne se contredisent pas** : Masters & Johnson décrit la mécanique physiologique une fois que "le moteur tourne", Basson explique pourquoi le contact avec l'accélérateur peut précéder plutôt que suivre l'envie consciente, et Nagoski explique pourquoi, à contexte égal, deux personnes, ou la même personne à deux moments différents, répondent différemment. Trois couches de la même carte, pas trois cartes rivales.
 
@@ -692,7 +692,7 @@ Le principe : la réponse physique du corps (lubrification vaginale, afflux sang
 
 **Analogie que Nagoski utilise elle-même** : la salive qui vient en bouche quand on croque par erreur dans une pomme véreuse ne signifie pas qu'on "voulait" manger le ver. C'est un réflexe corporel automatique, complètement déconnecté du souhait conscient.
 
-**Pourquoi c'est un point de sécurité, pas seulement de culture générale** : une réponse génitale ne signifie ni désir, ni plaisir, ni consentement, ce n'est qu'un corps qui fait ce pour quoi il est biologiquement conçu. C'est un point essentiel à comprendre pour ne **jamais** interpréter une réaction physique comme une validation implicite ("tu vois bien que ton corps est prêt/partant"), la seule information fiable reste toujours ce qu'elle exprime avec ses mots, pas ce que son corps fait de façon autonome.
+**Pourquoi c'est un point de sécurité, pas seulement de culture générale** : une réponse génitale ne signifie ni désir, ni plaisir, ni [consentement](<../2 - Notions/Consentement.md>), ce n'est qu'un corps qui fait ce pour quoi il est biologiquement conçu. C'est un point essentiel à comprendre pour ne **jamais** interpréter une réaction physique comme une validation implicite ("tu vois bien que ton corps est prêt/partant"), la seule information fiable reste toujours ce qu'elle exprime avec ses mots, pas ce que son corps fait de façon autonome.
 
 **💑 Dans le couple** : concrètement, si elle te dit "non" ou "j'ai pas envie" alors que son corps montre des signes physiques d'excitation, ce n'est ni une contradiction ni un jeu, c'est exactement le phénomène décrit ici. Écoute les mots, toujours, plutôt que d'interpréter un signal corporel qui ne parle pas la même langue que l'intention consciente (source : Emily Nagoski, conférence TED "The Truth About Unwanted Arousal" ; vérification du 27 juillet 2026).
 
@@ -702,7 +702,7 @@ Le désir sexuel fluctue naturellement avec le cycle chez de nombreuses femmes :
 
 Imagine une marée plutôt qu'une ligne plate : la libido n'est pas censée rester stable en permanence, elle monte et redescend selon un rythme propre à chaque personne. Vouloir une mer toujours étale, c'est se battre contre la physiologie elle-même.
 
-**Le stress chronique, le frein le plus sous-estimé** : dans le prolongement direct du modèle à double contrôle (5.3), le stress chronique, professionnel, familial, financier, est identifié par la recherche en sexologie comme l'un des inhibiteurs les plus puissants du désir, souvent bien plus déterminant que n'importe quel facteur hormonal isolé. Contrairement à une baisse hormonale ponctuelle, le stress agit en maintenant le "frein" durablement enfoncé, indépendamment de l'attirance réelle pour le partenaire, un point qui rejoint directement le "bon réflexe" de ne jamais prendre une baisse de désir comme un jugement personnel (voir plus bas, Bons réflexes généraux).
+**Le stress chronique, le frein le plus sous-estimé** : dans le prolongement direct du modèle à [double contrôle](<../2 - Notions/Modèle du double contrôle.md>) (5.3), le stress chronique, professionnel, familial, financier, est identifié par la recherche en sexologie comme l'un des inhibiteurs les plus puissants du désir, souvent bien plus déterminant que n'importe quel facteur hormonal isolé. Contrairement à une baisse hormonale ponctuelle, le stress agit en maintenant le "frein" durablement enfoncé, indépendamment de l'attirance réelle pour le partenaire, un point qui rejoint directement le "bon réflexe" de ne jamais prendre une baisse de désir comme un jugement personnel (voir plus bas, Bons réflexes généraux).
 
 **L'effet de la contraception hormonale (voir aussi section 3)**, un mécanisme concret explique pourquoi une baisse de libido sous pilule n'est "ni systématique ni imaginaire", comme déjà noté en section 3. Le foie produit une protéine appelée **SHBG** (Sex Hormone Binding Globulin) dont le rôle est de capter les hormones sexuelles circulantes, dont la testostérone, pour les rendre biologiquement inactives. Imagine la SHBG comme une éponge : sous contraception hormonale combinée, sa production hépatique augmente fortement, ce qui réduit d'autant la testostérone réellement disponible pour l'organisme, certaines méta-analyses portant sur plus d'un millier de femmes rapportent une réduction moyenne de la testostérone libre de l'ordre de 50 à 60 %. Le blocage de l'ovulation supprime en parallèle les pics naturels de testostérone ovarienne en milieu de cycle (source : littérature de médecine sexuelle sur la contraception hormonale ; vérification du 27 juillet 2026).
 
@@ -710,7 +710,7 @@ Imagine une marée plutôt qu'une ligne plate : la libido n'est pas censée rest
 
 **Post-partum et allaitement** : la prolactine (hormone de la lactation) et la chute des œstrogènes post-accouchement peuvent entraîner une sécheresse vaginale marquée et une baisse de libido pendant toute la durée de l'allaitement exclusif (voir aussi section 7), un phénomène physiologique normal, pas un signe de désamour, à accompagner avec patience et un lubrifiant si besoin.
 
-**Périménopause et ménopause** : la chute des œstrogènes entraîne un amincissement et une perte d'élasticité des tissus vaginaux (atrophie vulvo-vaginale), avec sécheresse et parfois des douleurs pendant les rapports. Malgré des traitements efficaces et bien documentés (œstrogènes locaux en ovule, crème ou anneau, hydratants et lubrifiants), seule une minorité des femmes concernées consulte pour ce motif, de l'ordre d'un quart dans les pays occidentaux selon les sociétés savantes de la ménopause, largement par tabou ou par crainte excessive héritée des controverses passées sur les traitements hormonaux substitutifs (source : International Menopause Society ; vérification du 27 juillet 2026).
+**[Périménopause](<../2 - Notions/Périménopause.md>) et ménopause** : la chute des œstrogènes entraîne un amincissement et une perte d'élasticité des tissus vaginaux (atrophie vulvo-vaginale), avec sécheresse et parfois des douleurs pendant les rapports. Malgré des traitements efficaces et bien documentés (œstrogènes locaux en ovule, crème ou anneau, hydratants et lubrifiants), seule une minorité des femmes concernées consulte pour ce motif, de l'ordre d'un quart dans les pays occidentaux selon les sociétés savantes de la ménopause, largement par tabou ou par crainte excessive héritée des controverses passées sur les traitements hormonaux substitutifs (source : International Menopause Society ; vérification du 27 juillet 2026).
 
 **💑 Dans le couple** : si un jour ta partenaire évoque un inconfort ou une douleur qui apparaît après des années sans problème (typiquement en post-partum ou en péri-ménopause), le réflexe utile est de l'encourager à consulter plutôt que de laisser le sujet devenir un non-dit qui s'aggrave avec le temps, ce n'est jamais une fatalité à laquelle il faut se résigner.
 
@@ -752,7 +752,7 @@ Contraction involontaire et douloureuse des muscles entourant l'entrée du vagin
 
 ### 5.7 Dyspareunie (douleur pendant les rapports)
 
-Peut être superficielle (à l'entrée) ou profonde (lors de la pénétration complète), primaire ou secondaire. Causes très variées : infection (mycose, IST), endométriose (dyspareunie profonde évocatrice), sécheresse vaginale, vulvodynie, cicatrice d'épisiotomie mal cicatrisée, atrophie vaginale (notamment en péri-ménopause ou en post-partum sous allaitement, l'œstrogène étant nécessaire au maintien de la lubrification et de l'élasticité des tissus). Selon l'enquête nationale française CSF-2023 (Inserm/ANRS-MIE), la dyspareunie toucherait **7 à 10 %** des femmes ; une autre étude évalue à **20 %** la part des femmes ayant connu des douleurs périnéales significatives (source : Qare, 2026 ; Santesexo.fr, 2026).
+Peut être superficielle (à l'entrée) ou profonde (lors de la pénétration complète), primaire ou secondaire. Causes très variées : infection (mycose, IST), [endométriose](<../2 - Notions/Endométriose.md>) (dyspareunie profonde évocatrice), sécheresse vaginale, vulvodynie, cicatrice d'épisiotomie mal cicatrisée, atrophie vaginale (notamment en péri-ménopause ou en post-partum sous allaitement, l'œstrogène étant nécessaire au maintien de la lubrification et de l'élasticité des tissus). Selon l'enquête nationale française CSF-2023 (Inserm/ANRS-MIE), la dyspareunie toucherait **7 à 10 %** des femmes ; une autre étude évalue à **20 %** la part des femmes ayant connu des douleurs périnéales significatives (source : Qare, 2026 ; Santesexo.fr, 2026).
 
 **Estimation** : 70-200 ‰ selon la définition retenue.
 
@@ -916,7 +916,7 @@ Quand une femme de groupe sanguin Rhésus négatif porte un fœtus Rhésus posit
 
 Le **baby blues** touche la grande majorité des jeunes mères (jusqu'à 700-800 ‰) dans les 3-5 jours suivant l'accouchement : pleurs, hypersensibilité, anxiété passagère, liés à l'effondrement hormonal brutal après la naissance, imagine une chute de plusieurs étages en quelques heures pour des hormones (œstrogènes, progestérone) qui avaient atteint, en fin de grossesse, leurs niveaux les plus élevés de toute une vie. Il se résout spontanément en quelques jours et ne nécessite pas de traitement, seulement du soutien.
 
-La **dépression du post-partum (DPP)** est différente : plus tardive, plus durable (s'installant dans les 12 mois suivant la naissance), plus sévère. En France, sa prévalence est estimée entre **10 et 20 %** des accouchées selon les études, avec un chiffre de référence de **16,7 %** issu de l'enquête nationale périnatale de Santé publique France (2021), soit **environ 1 mère sur 6** deux mois après la naissance, et **5% de ces femmes rapportent des idées suicidaires** à ce moment-là (source : Vidal.fr, 2023 ; BEH Santé publique France, 2025). **Le suicide maternel est la deuxième cause de mortalité maternelle en France**, un chiffre qui mérite d'être connu tant il est peu diffusé (source : ClinicalTrials.gov, étude Troyes, 2025).
+La **[dépression du post-partum](<../2 - Notions/Dépression du post-partum.md>) (DPP)** est différente : plus tardive, plus durable (s'installant dans les 12 mois suivant la naissance), plus sévère. En France, sa prévalence est estimée entre **10 et 20 %** des accouchées selon les études, avec un chiffre de référence de **16,7 %** issu de l'enquête nationale périnatale de Santé publique France (2021), soit **environ 1 mère sur 6** deux mois après la naissance, et **5% de ces femmes rapportent des idées suicidaires** à ce moment-là (source : Vidal.fr, 2023 ; BEH Santé publique France, 2025). **Le suicide maternel est la deuxième cause de mortalité maternelle en France**, un chiffre qui mérite d'être connu tant il est peu diffusé (source : ClinicalTrials.gov, étude Troyes, 2025).
 
 **Un entretien postnatal précoce est obligatoire en France depuis 2022**, réalisé par une sage-femme, précisément pour repérer ces situations (source : BEH, 2025). Le dépistage utilise l'échelle d'Édimbourg (EPDS), généralement à 6-8 semaines post-partum.
 
@@ -975,7 +975,7 @@ L'allaitement n'est ni une obligation morale ni une évidence physiologique simp
 **Bons réflexes**
 - Ne jamais faire peser, même implicitement, une pression sur le choix d'allaiter ou non, ou sur la durée de l'allaitement, c'est une décision qui appartient à la mère, dans le contexte de sa propre santé physique et mentale.
 - Si elle te décrit une vague de tristesse brève et récurrente au moment des tétées, sans lien avec un rejet du bébé, le D-MER est une explication possible et rassurante à évoquer avec une sage-femme ou une consultante en lactation.
-- Prendre en charge activement les tâches délégables (changes de nuit avec du lait tiré, gestion du foyer, repas) libère une charge mentale et physique considérable, sans se substituer à ce qui ne peut techniquement pas être délégué.
+- Prendre en charge activement les tâches délégables (changes de nuit avec du lait tiré, gestion du foyer, repas) libère une [charge mentale](<../2 - Notions/Charge mentale.md>) et physique considérable, sans se substituer à ce qui ne peut techniquement pas être délégué.
 
 ### 7.8 Contraception post-partum
 
@@ -1031,7 +1031,7 @@ Utiles, et à manier avec deux précautions.
 
 Le piège le plus discret. Le discours du *self-care* est parti d'une intention juste — s'occuper de soi est légitime — et s'est transformé en une exigence supplémentaire : il faut désormais aussi bien dormir, méditer, s'alimenter correctement, faire du sport, gérer ses émotions et être épanouie.
 
-Résultat : une charge de plus, et une culpabilité de plus quand elle n'est pas tenue. Pour quelqu'un qui porte déjà une charge mentale importante, ajouter la gestion optimisée de son propre bien-être revient à ajouter un poste à un emploi du temps saturé.
+Résultat : une charge de plus, et une culpabilité de plus quand elle n'est pas tenue. Pour quelqu'un qui porte déjà une [charge mentale](<../2 - Notions/Charge mentale.md>) importante, ajouter la gestion optimisée de son propre bien-être revient à ajouter un poste à un emploi du temps saturé.
 
 Le renversement utile : **le repos n'a pas à être productif.** Ne rien faire n'est pas un échec de gestion de soi.
 
@@ -1077,7 +1077,7 @@ Ceux-là méritent bien plus d'attention qu'ils n'en reçoivent.
 
 **Le tabac associé à la contraception œstroprogestative après 35 ans.** L'association multiplie le risque cardiovasculaire. C'est l'un des rares points où la contre-indication est nette.
 
-**Le retard diagnostique de l'endométriose.** Encore compté en années. Des règles qui empêchent de travailler ou d'aller en cours ne sont pas normales, et « c'est comme ça » n'est pas un diagnostic.
+**Le retard diagnostique de l'[endométriose](<../2 - Notions/Endométriose.md>).** Encore compté en années. Des règles qui empêchent de travailler ou d'aller en cours ne sont pas normales, et « c'est comme ça » n'est pas un diagnostic.
 
 **Les IST asymptomatiques.** Chlamydia en particulier, souvent silencieuse et pouvant retentir sur la fertilité. Le dépistage est simple et largement sous-utilisé. Voir [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>).
 
@@ -1125,7 +1125,7 @@ Tu as demandé les "superstars" du domaine, les voici, avec ce qu'elles ont conc
 
 ### Camille Berthelot : Institut Pasteur, Paris (génomique évolutive de la menstruation)
 
-Chargée de recherche Inserm à l'Institut Pasteur, elle dirige le projet **EVOMENS**, financé par le Conseil européen de la recherche, qui compare les génomes de primates menstruant et non-menstruant pour identifier les gènes à l'origine de la menstruation au cours de l'évolution. Son objectif déclaré : comprendre l'origine évolutive des règles pour mieux soigner l'endométriose, une maladie qui reste, selon ses propres mots rapportés par l'Inserm, mal comprise "d'un point de vue scientifique" malgré son importance pour la santé des femmes (source : Inserm, 2022 ; Institut Pasteur, 2025-2026).
+Chargée de recherche Inserm à l'Institut Pasteur, elle dirige le projet **EVOMENS**, financé par le Conseil européen de la recherche, qui compare les génomes de primates menstruant et non-menstruant pour identifier les gènes à l'origine de la menstruation au cours de l'évolution. Son objectif déclaré : comprendre l'origine évolutive des règles pour mieux soigner l'[endométriose](<../2 - Notions/Endométriose.md>), une maladie qui reste, selon ses propres mots rapportés par l'Inserm, mal comprise "d'un point de vue scientifique" malgré son importance pour la santé des femmes (source : Inserm, 2022 ; Institut Pasteur, 2025-2026).
 
 ### Linda Griffith : MIT, Cambridge (bio-ingénierie et endométriose)
 
@@ -1157,7 +1157,7 @@ Chercheuse et présidente non rémunérée du comité consultatif clinique de l'
 
 ### Samantha Meltzer-Brody : Université de Caroline du Nord à Chapel Hill (dépression du post-partum)
 
-Titulaire de la chaire de psychiatrie de l'UNC et directrice du Centre des troubles de l'humeur féminins de cette université, elle est une pionnière de la psychiatrie périnatale et l'investigatrice principale des essais cliniques ayant conduit à l'approbation de la brexanolone (2019) puis de la zuranolone pour la dépression du post-partum. Elle rappelle régulièrement, dans ses interventions publiques, que la dépression post-partum touche environ 1 nouvelle mère sur 8 aux États-Unis et reste, comme une grande partie de la santé des femmes, un champ historiquement sous-étudié et négligé par la recherche médicale (source : UNC Health Foundation, 2024 ; Endpoints News, janvier 2025 ; American Journal of Psychiatry, 2026).
+Titulaire de la chaire de psychiatrie de l'UNC et directrice du Centre des troubles de l'humeur féminins de cette université, elle est une pionnière de la psychiatrie périnatale et l'investigatrice principale des essais cliniques ayant conduit à l'approbation de la brexanolone (2019) puis de la zuranolone pour la [dépression du post-partum](<../2 - Notions/Dépression du post-partum.md>). Elle rappelle régulièrement, dans ses interventions publiques, que la dépression post-partum touche environ 1 nouvelle mère sur 8 aux États-Unis et reste, comme une grande partie de la santé des femmes, un champ historiquement sous-étudié et négligé par la recherche médicale (source : UNC Health Foundation, 2024 ; Endpoints News, janvier 2025 ; American Journal of Psychiatry, 2026).
 
 ### Le fil conducteur de tous ces parcours
 
@@ -1171,7 +1171,7 @@ Au-delà des conseils spécifiques donnés section par section, voici une synth�
 
 ### 9.1 Le principe de la croyance par défaut
 
-Le point commun le plus frappant, en écrivant ce document, entre l'endométriose, le TDPM, la vulvodynie, le PGAD, les douleurs pendant les rapports, ou même simplement des règles très douloureuses : **toutes ces pathologies partagent une histoire de non-croyance médicale et sociale**, souvent pendant des années. Le réflexe le plus précieux que tu puisses cultiver n'est donc pas d'apprendre chaque diagnostic par cœur (même si ce document t'y aide), mais d'adopter une posture par défaut : croire ce qu'elle te décrit de son propre corps, avant même d'avoir une confirmation médicale, plutôt que d'attendre une validation extérieure pour prendre sa parole au sérieux.
+Le point commun le plus frappant, en écrivant ce document, entre l'[endométriose](<../2 - Notions/Endométriose.md>), le TDPM, la vulvodynie, le PGAD, les douleurs pendant les rapports, ou même simplement des règles très douloureuses : **toutes ces pathologies partagent une histoire de non-croyance médicale et sociale**, souvent pendant des années. Le réflexe le plus précieux que tu puisses cultiver n'est donc pas d'apprendre chaque diagnostic par cœur (même si ce document t'y aide), mais d'adopter une posture par défaut : croire ce qu'elle te décrit de son propre corps, avant même d'avoir une confirmation médicale, plutôt que d'attendre une validation extérieure pour prendre sa parole au sérieux.
 
 ### 9.2 Le principe de la charge mentale médicale partagée
 
@@ -1222,10 +1222,10 @@ La compétence la plus utile que tu puisses développer n'est pas d'être un exp
 Non. La fourchette normale va de 21 à 35 jours, et une variabilité de quelques jours d'un cycle à l'autre est courante et sans signification pathologique. Ce qui mérite une attention, c'est un changement brutal par rapport à ce qui est "normal pour elle", ou une absence de règles de plus de 3 mois hors grossesse.
 
 **"Si elle a mal pendant ses règles au point de ne pas pouvoir travailler, c'est normal ?"**
-Non, jamais. Une douleur invalidante n'est pas la norme biologique, c'est un signal qui mérite une consultation, potentiellement pour écarter une endométriose ou une adénomyose (sections 4.3 à 4.5).
+Non, jamais. Une douleur invalidante n'est pas la norme biologique, c'est un signal qui mérite une consultation, potentiellement pour écarter une [endométriose](<../2 - Notions/Endométriose.md>) ou une adénomyose (sections 4.3 à 4.5).
 
 **"Pourquoi elle a besoin d'autant de temps avant d'être excitée alors que moi c'est plus rapide ?"**
-Ce n'est ni un problème ni un désintérêt. Le désir réactif (section 5.2), très fréquent chez les femmes, a simplement besoin d'un peu plus de temps et de contexte favorable pour s'enclencher que le désir spontané, les deux mécanismes sont parfaitement normaux et ne prédisent rien de négatif sur la relation.
+Ce n'est ni un problème ni un désintérêt. Le [désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>) (section 5.2), très fréquent chez les femmes, a simplement besoin d'un peu plus de temps et de contexte favorable pour s'enclencher que le désir spontané, les deux mécanismes sont parfaitement normaux et ne prédisent rien de négatif sur la relation.
 
 **"Elle m'a dit qu'elle n'avait plus vraiment envie depuis qu'elle a commencé/changé de pilule, c'est possible ?"**
 Oui, c'est un effet secondaire réel et documenté chez une partie des utilisatrices (section 3, étape 2), bien que non systématique. Ça vaut le coup d'en parler avec son médecin plutôt que de le laisser comme un non-dit qui pèse sur la relation.
@@ -1248,11 +1248,11 @@ Que ce choix lui appartient entièrement, qu'il n'y a aucune obligation morale �
 
 Quelques ressources concrètes, au-delà de ce document, si un jour vous en avez besoin à deux :
 
-- **Fondation pour la Recherche sur l'Endométriose** (fondation-endometriose.org) : association française de référence, finance la recherche et publie une bibliographie scientifique accessible, utile si vous voulez creuser un point précis avec des sources primaires.
-- **Association TDPM France** (assotdpmfrance.fr) : ressources francophones spécifiquement dédiées au trouble dysphorique prémenstruel, encore peu connu du grand public et parfois même des médecins généralistes.
+- **Fondation pour la Recherche sur l'[Endométriose](<../2 - Notions/Endométriose.md>)** (fondation-endometriose.org) : association française de référence, finance la recherche et publie une bibliographie scientifique accessible, utile si vous voulez creuser un point précis avec des sources primaires.
+- **Association TDPM France** (assotdpmfrance.fr) : ressources francophones spécifiquement dédiées au [trouble dysphorique prémenstruel](<../2 - Notions/Trouble dysphorique prémenstruel.md>), encore peu connu du grand public et parfois même des médecins généralistes.
 - **International Association for Premenstrual Disorders (IAPMD)** : organisation internationale de référence pour les patientes et cliniciens concernés par le TDPM, dont la chercheuse Jennifer Gordon (section 8) préside le comité consultatif clinique.
 - **ComPaRe** (Inserm/AP-HP) : cohorte française en ligne pour patients atteints de maladies chroniques, dont l'endométriose, permettant de contribuer à la recherche tout en bénéficiant d'un suivi structuré.
-- **Numéro national de prévention du suicide : le 3114**, gratuit, disponible 24h/24 et 7j/7, à connaître pour toute situation de détresse évoquée dans ce document (dépression du post-partum notamment, section 7.1).
+- **Numéro national de prévention du suicide : le 3114**, gratuit, disponible 24h/24 et 7j/7, à connaître pour toute situation de détresse évoquée dans ce document ([dépression du post-partum](<../2 - Notions/Dépression du post-partum.md>) notamment, section 7.1).
 - **Centres spécialisés en endométriose** : la stratégie nationale française de 2022 a permis la structuration de filières de soins régionales dédiées, un centre de référence ou de compétence existe probablement près de chez vous, à rechercher via le CHU le plus proche.
 
 **Bon réflexe** : si un jour l'un de ces sujets devient concret dans votre vie de couple, chercher ensemble la ressource adaptée (plutôt que de la laisser chercher seule) est, encore une fois, l'un des gestes les plus simples et les plus significatifs que tu puisses avoir.
@@ -1264,7 +1264,7 @@ Quelques ressources concrètes, au-delà de ce document, si un jour vous en avez
 Un glossaire pour t'y retrouver rapidement, dans l'ordre alphabétique, sans avoir à rouvrir chaque section :
 
 - **Adénomyose** : présence de tissu endométrial dans le muscle utérin lui-même (4.5).
-- **Allopregnanolone** : métabolite de la progestérone agissant sur le cerveau, au cœur du mécanisme du TDPM et de la dépression du post-partum (4.2, 7.1).
+- **Allopregnanolone** : métabolite de la progestérone agissant sur le cerveau, au cœur du mécanisme du TDPM et de la [dépression du post-partum](<../2 - Notions/Dépression du post-partum.md>) (4.2, 7.1).
 - **Aménorrhée** : absence de règles, primaire (jamais eu ses règles) ou secondaire (arrêt après en avoir eu) (4.9).
 - **Anovulation** : absence d'ovulation lors d'un cycle donné.
 - **Axe HPO** : axe hypothalamo-hypophyso-ovarien, le système hormonal en boucle qui pilote le cycle (1.1).
@@ -1273,7 +1273,7 @@ Un glossaire pour t'y retrouver rapidement, dans l'ordre alphabétique, sans avo
 - **Dysménorrhée** : douleur de règles, primaire (sans cause sous-jacente) ou secondaire (avec cause identifiée) (4.3).
 - **Dyspareunie** : douleur pendant les rapports sexuels, superficielle ou profonde (5.5).
 - **Endomètre** : muqueuse qui tapisse l'intérieur de l'utérus, évacuée lors des règles.
-- **Endométriose** : présence de tissu semblable à l'endomètre en dehors de l'utérus (4.4).
+- **[Endométriose](<../2 - Notions/Endométriose.md>)** : présence de tissu semblable à l'endomètre en dehors de l'utérus (4.4).
 - **FSH** : hormone folliculo-stimulante, sécrétée par l'hypophyse, stimule la croissance des follicules ovariens (1.1).
 - **GEU (grossesse extra-utérine)** : implantation de l'embryon en dehors de la cavité utérine, le plus souvent dans une trompe (6.3).
 - **GnRH** : gonadolibérine, hormone sécrétée par l'hypothalamus qui déclenche toute la cascade hormonale du cycle (1.1).
@@ -1285,7 +1285,7 @@ Un glossaire pour t'y retrouver rapidement, dans l'ordre alphabétique, sans avo
 - **Ménorragie** : règles anormalement abondantes (4.11).
 - **PALM-COEIN** : classification internationale des causes de saignements utérins anormaux (4.22).
 - **PGAD** : syndrome d'excitation génitale persistante, non désirée et non liée au désir sexuel (5.7).
-- **PMDD / TDPM** : trouble dysphorique prémenstruel, forme sévère du SPM reconnue comme trouble psychiatrique (4.2).
+- **PMDD / TDPM** : [trouble dysphorique prémenstruel](<../2 - Notions/Trouble dysphorique prémenstruel.md>), forme sévère du SPM reconnue comme trouble psychiatrique (4.2).
 - **Prééclampsie** : hypertension artérielle de la grossesse associée à une protéinurie (6.6).
 - **Progestérone** : hormone sécrétée par le corps jaune puis par le placenta, stabilise l'endomètre et la grossesse (1.1, 1.2).
 - **PPROM** : rupture prématurée des membranes avant terme (6.10).

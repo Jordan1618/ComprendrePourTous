@@ -830,11 +830,24 @@ def toc_html(headings):
     return "".join(parts)
 
 
-def source_link(page):
-    if not page.src:
+def source_link(page, by_url=None):
+    """Bas de page : les sources du guide, puis le fichier d'origine."""
+    liens = []
+    if by_url is not None:
+        guide = by_url.get(page.parent) if page.parent else None
+        if guide is None and page.kind == "guide":
+            guide = page
+        if guide is not None and guide.kind == "guide":
+            url = "/sources/%s/" % slugify(guide.title)
+            if url in by_url:
+                liens.append('<a class="src-main" href="%s">Sources du guide %s</a>'
+                             % (url, esc(guide.title)))
+    if page.src:
+        liens.append('<a href="%s" target="_blank" rel="noopener">'
+                     'Voir cette page sur GitHub</a>' % gh_blob(page.src))
+    if not liens:
         return ""
-    return ('<p class="source"><a href="%s" target="_blank" rel="noopener">'
-            'Voir la source de cette page sur GitHub</a></p>' % gh_blob(page.src))
+    return '<p class="source">%s</p>' % " · ".join(liens)
 
 
 def prev_next_html(page, by_url):
@@ -985,7 +998,7 @@ def render_page(page, by_url, nav):
     body.append(meta_bar(page))
     body.append(toc_html(page.headings))
     body.append(page.html)
-    body.append(source_link(page))
+    body.append(source_link(page, by_url))
     body.append("</article>")
     body.append(prev_next_html(page, by_url))
     body.append(feedback_block(page.title, page.url))

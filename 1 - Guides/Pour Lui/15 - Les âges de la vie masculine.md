@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 C'est la période où la règle 4 du code viril (ne pas être classé défavorablement) est la plus active. Le jeune homme se construit dans un environnement de comparaison quasi continue : corps, salaire, statut, expérience sexuelle, réussite. Les réseaux sociaux ont intensifié ce phénomène de manière considérable, en transformant une comparaison locale en comparaison mondiale et permanente.
 
-Les fragilités typiques : anxiété de performance, dysmorphophobie (rapport pathologique à son image corporelle, très sous-repérée chez les garçons), consommations, sentiment d'imposture, difficulté à formuler un désir propre distinct des attentes extérieures.
+Les fragilités typiques : [anxiété de performance](<../../2 - Notions/Anxiété de performance.md>), dysmorphophobie (rapport pathologique à son image corporelle, très sous-repérée chez les garçons), consommations, sentiment d'imposture, difficulté à formuler un désir propre distinct des attentes extérieures.
 
 **💑 Dans le couple.** À cet âge, la valorisation ne fonctionne que si elle est spécifique. "Tu es génial" glisse, "j'ai trouvé ta manière de gérer ce truc très solide" atterrit.
 
@@ -54,7 +54,7 @@ La retraite retire d'un coup ce qui, dans le système décrit au 2.5, tenait lie
 
 Événement massif et très mal accompagné. Quelques faits utiles :
 
-- La dépression du post-partum paternel existe et concerne une proportion non négligeable de pères, avec un pic souvent décalé de plusieurs mois après la naissance, contrairement à celle de la mère. Elle se présente typiquement sous le tableau atypique du chapitre 3 : irritabilité, retrait, surinvestissement au travail, consommations.
+- La [dépression du post-partum](<../../2 - Notions/Dépression du post-partum.md>) paternel existe et concerne une proportion non négligeable de pères, avec un pic souvent décalé de plusieurs mois après la naissance, contrairement à celle de la mère. Elle se présente typiquement sous le tableau atypique du chapitre 3 : irritabilité, retrait, surinvestissement au travail, consommations.
 - Le sentiment d'inutilité est très fréquent dans les premiers mois, surtout en cas d'allaitement, et il est rarement verbalisé parce qu'il paraît illégitime face à la charge maternelle.
 - Le passage à la parentalité modifie durablement la sexualité du couple, et l'homme est souvent celui qui n'ose pas dire qu'il se sent mis de côté, de peur de paraître égoïste.
 

@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 21
-mots: 26434
+mots: 26490
 verifie_le: 2026-08-07
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
@@ -201,7 +201,7 @@ C'est le niveau explicatif principal, et il opère en quatre temps.
 
 **Temps 4 : la sanction de l'échec.** À l'adolescence puis à l'âge adulte, l'échec masculin est peu accompagné. On ne console pas un garçon qui rate, on lui dit de recommencer. Résultat : l'échec devient un événement identitaire (voir 2.4) et non un événement d'apprentissage.
 
-Le psychologue américain William Pollack a proposé pour décrire le produit fini l'expression d'alexithymie masculine normative : non pas un trouble, mais un état par défaut, statistiquement banal, produit par une éducation qui coupe l'accès aux mots des émotions. C'est probablement le concept le plus utile de tout ce chapitre, parce qu'il déplace la question. Ce n'est pas "qu'est-ce qui ne va pas chez lui", c'est "qu'est-ce qu'on ne lui a jamais appris".
+Le psychologue américain William Pollack a proposé pour décrire le produit fini l'expression d'[alexithymie](<../2 - Notions/Alexithymie.md>) masculine normative : non pas un trouble, mais un état par défaut, statistiquement banal, produit par une éducation qui coupe l'accès aux mots des émotions. C'est probablement le concept le plus utile de tout ce chapitre, parce qu'il déplace la question. Ce n'est pas "qu'est-ce qui ne va pas chez lui", c'est "qu'est-ce qu'on ne lui a jamais appris".
 
 ### 2 bis.4 L'attachement, version masculine
 
@@ -209,7 +209,7 @@ Les styles d'attachement se forment dans la petite enfance et structurent ensuit
 
 - **Sécure (environ la moitié de la population).** Il exprime ses besoins sans dramatiser, tolère les désaccords, revient après un conflit. Ce n'est pas un homme sans problème, c'est un homme dont le système d'alarme fonctionne à une intensité normale.
 - **Évitant.** Surreprésenté chez les hommes, ce qui s'explique très bien par le temps 1 de la socialisation. Le fonctionnement : l'intimité déclenche une alerte, la stratégie est la distance. Signes typiques : besoin d'espace décrit comme un trait de caractère, difficulté avec les déclarations, retrait au moment précis où la relation s'approfondit, idéalisation des ex ou des relations passées, focalisation sur des défauts mineurs de la partenaire quand la proximité augmente. Point crucial : un évitant n'aime pas moins, il désactive. Sous la distance, il y a souvent une activation physiologique aussi forte que chez un anxieux, simplement invisible.
-- **Anxieux ou préoccupé.** Moins fréquent chez les hommes, mais loin d'être rare, et particulièrement mal vécu parce qu'il contredit le modèle attendu. Signes : besoin de réassurance permanent, hypervigilance aux signes de désamour, jalousie, difficulté à supporter le silence. Chez un homme, ça se déguise souvent en colère ou en contrôle, parce que la demande directe est trop honteuse.
+- **Anxieux ou préoccupé.** Moins fréquent chez les hommes, mais loin d'être rare, et particulièrement mal vécu parce qu'il contredit le modèle attendu. Signes : besoin de réassurance permanent, [hypervigilance](<../2 - Notions/Hypervigilance.md>) aux signes de désamour, jalousie, difficulté à supporter le silence. Chez un homme, ça se déguise souvent en colère ou en contrôle, parce que la demande directe est trop honteuse.
 - **Désorganisé.** Alternance des deux, généralement liée à un environnement précoce à la fois nécessaire et menaçant. C'est le profil qui bénéficie le plus d'un accompagnement professionnel, et le moins d'un effort de couple isolé.
 
 **💑 Dans le couple.** La combinaison la plus fréquente et la plus douloureuse est anxieuse avec évitant. Elle se rapproche, il s'éloigne, elle se rapproche davantage, il s'éloigne davantage. Chacun confirme la peur de l'autre. C'est le schéma poursuite-retrait du 9.1, avec ses racines.
@@ -217,7 +217,7 @@ Les styles d'attachement se forment dans la petite enfance et structurent ensuit
 **Bons réflexes.**
 
 - Avec un évitant, la pression accélère la fuite. Ce qui fonctionne : la constance sans exigence, l'absence de test, et le fait de laisser exister l'espace qu'il demande tout en maintenant clairement ta propre présence. Le message qui le fait bouger n'est pas "montre-moi que tu tiens à moi", c'est "je suis là et je ne disparais pas quand tu prends de la distance".
-- Ne prends pas les styles pour des sentences. L'attachement est modifiable, par la relation elle-même et par le travail thérapeutique. Le terme technique est sécurité acquise, et c'est très bien documenté.
+- Ne prends pas les styles pour des sentences. L'attachement est modifiable, par la relation elle-même et par le travail thérapeutique. Le terme technique est [sécurité acquise](<../2 - Notions/Sécurité acquise.md>), et c'est très bien documenté.
 
 ### 2 bis.5 Le statut comme organisateur central
 
@@ -267,7 +267,7 @@ C'est le chapitre le plus long et le plus dense. Il pose le vocabulaire utilisé
 
 **L'analogie.** Un daltonien ne voit pas moins de lumière qu'un autre. Il reçoit exactement la même quantité de photons. Ce qui lui manque, c'est le récepteur qui permet de distinguer le rouge du vert. Il voit "une couleur", il ne sait pas laquelle. Si tu lui demandes de trier des fils électriques par couleur, il va se tromper, s'énerver, ou refuser la tâche en disant que c'est débile.
 
-L'alexithymie, c'est ça, appliqué aux émotions. Le mot vient du grec et signifie littéralement l'absence de mots pour les émotions. La personne ressent parfaitement l'activation physiologique : le cœur qui accélère, la gorge serrée, la boule au ventre, la fatigue de plomb. Ce qu'elle n'arrive pas à faire, c'est mettre une étiquette dessus. Elle ne sait pas si c'est de la peur, de la tristesse, de la colère ou de la honte. Elle dit "je suis crevé", "j'ai un truc bizarre", "ça va".
+L'[alexithymie](<../2 - Notions/Alexithymie.md>), c'est ça, appliqué aux émotions. Le mot vient du grec et signifie littéralement l'absence de mots pour les émotions. La personne ressent parfaitement l'activation physiologique : le cœur qui accélère, la gorge serrée, la boule au ventre, la fatigue de plomb. Ce qu'elle n'arrive pas à faire, c'est mettre une étiquette dessus. Elle ne sait pas si c'est de la peur, de la tristesse, de la colère ou de la honte. Elle dit "je suis crevé", "j'ai un truc bizarre", "ça va".
 
 Trois composantes, que tu peux repérer séparément :
 
@@ -530,7 +530,7 @@ Voici ce qu'il faut apprendre à voir. Aucun de ces signes pris isolément ne si
 
 - **Irritabilité et colère.** Le symptôme le plus fréquent et le plus trompeur. Un homme qui devient sec, cassant, qui s'énerve dans les embouteillages, qui ne supporte plus le bruit des enfants, n'est pas devenu désagréable. Dans le doute, pense dépression avant de penser caractère.
 - **Fuite dans l'activité.** Le contraire du ralentissement attendu. Il travaille plus, il s'inscrit à un troisième sport, il lance un projet, il ne tient plus en place. C'est de l'évitement par saturation : tant que l'agenda est plein, la vie intérieure n'a pas de place pour remonter.
-- **Augmentation des consommations.** Alcool en premier, mais aussi cannabis, tabac, écrans, pornographie, jeux d'argent, achats. Toute consommation qui augmente nettement et sans raison contextuelle est un signal. Le lien alexithymie-addiction du chapitre 2.1 s'exprime ici : ce sont des régulateurs externes pour une émotion à laquelle il n'accède pas.
+- **Augmentation des consommations.** Alcool en premier, mais aussi cannabis, tabac, écrans, pornographie, jeux d'argent, achats. Toute consommation qui augmente nettement et sans raison contextuelle est un signal. Le lien [alexithymie](<../2 - Notions/Alexithymie.md>)-addiction du chapitre 2.1 s'exprime ici : ce sont des régulateurs externes pour une émotion à laquelle il n'accède pas.
 - **Prise de risque.** Vitesse au volant, sports à risque, comportements financiers ou sexuels inhabituels. Ce n'est pas toujours une intention suicidaire, mais c'est toujours un rapport dégradé à sa propre valeur.
 - **Plaintes physiques sans cause retrouvée.** Maux de dos, céphalées, troubles digestifs, douleurs thoraciques, acouphènes. C'est le corps qui parle à la place. Un homme fera dix fois plus facilement une consultation pour un mal de dos que pour un moral en berne.
 - **Effondrement de la libido, ou au contraire compulsivité sexuelle.** Les deux extrêmes sont des signaux.
@@ -613,7 +613,7 @@ C'est l'une des explications de l'écart d'espérance de vie du chapitre 1.4. Le
 
 ### 4.3 L'hypervigilance et le sommeil
 
-Beaucoup d'hommes en surcharge présentent une hypervigilance qui ne se voit pas de l'extérieur : ils scannent en permanence l'environnement pour détecter les problèmes à régler. C'est une posture de responsabilité intériorisée, et elle est épuisante.
+Beaucoup d'hommes en surcharge présentent une [hypervigilance](<../2 - Notions/Hypervigilance.md>) qui ne se voit pas de l'extérieur : ils scannent en permanence l'environnement pour détecter les problèmes à régler. C'est une posture de responsabilité intériorisée, et elle est épuisante.
 
 Ça se traduit typiquement par : difficulté à s'endormir alors que la fatigue est écrasante, réveils nocturnes avec une liste mentale de tâches, sensation de ne jamais être vraiment en repos même en vacances, incapacité à ne rien faire sans culpabilité.
 
@@ -694,7 +694,7 @@ Quatre méthodes, avec ce qu'elles valent réellement.
 
 **Le préservatif externe.** La seule méthode qui protège aussi des IST, ce qui en fait un cas à part. En utilisation parfaite, l'échec est faible ; en utilisation courante, il est nettement plus élevé — l'écart vient des erreurs de pose, du retrait tardif et de l'usage inconstant. Les deux points qui améliorent le plus l'efficacité réelle : la bonne taille, et la mise en place avant tout contact.
 
-**La vasectomie.** Ligature ou section des canaux déférents, sous anesthésie locale, en une intervention courte. C'est la méthode masculine la plus efficace, comparable aux méthodes les plus fiables côté féminin. Trois choses à savoir : elle **doit être considérée comme définitive**, même si une reperméabilisation est parfois possible et jamais garantie ; elle ne modifie ni l'érection, ni l'éjaculation, ni la libido, ni le volume perçu du sperme, contrairement à une crainte tenace ; et elle n'est pas immédiatement efficace — il faut un délai et un spermogramme de contrôle avant d'abandonner toute autre méthode. En France, elle est autorisée, remboursée, et soumise à un délai de réflexion légal.
+**La [vasectomie](<../2 - Notions/Vasectomie.md>).** Ligature ou section des canaux déférents, sous anesthésie locale, en une intervention courte. C'est la méthode masculine la plus efficace, comparable aux méthodes les plus fiables côté féminin. Trois choses à savoir : elle **doit être considérée comme définitive**, même si une reperméabilisation est parfois possible et jamais garantie ; elle ne modifie ni l'érection, ni l'éjaculation, ni la libido, ni le volume perçu du sperme, contrairement à une crainte tenace ; et elle n'est pas immédiatement efficace — il faut un délai et un spermogramme de contrôle avant d'abandonner toute autre méthode. En France, elle est autorisée, remboursée, et soumise à un délai de réflexion légal.
 
 **La contraception thermique.** Elle repose sur un principe établi : la spermatogenèse est perturbée par une élévation de la température testiculaire. Des dispositifs remontant les testicules dans le canal inguinal existent, portés plusieurs heures par jour. Le recul et le niveau de preuve restent limités par rapport aux méthodes précédentes, et un contrôle par spermogramme est indispensable. Je préfère l'écrire ainsi que de la présenter comme une option équivalente aux deux premières.
 
@@ -724,7 +724,7 @@ Trois raisons reviennent, et aucune n'est de la mauvaise volonté pure.
 
 Elle se tient à froid, hors du lit, et elle porte sur une répartition et non sur une méthode.
 
-Trois questions, dans cet ordre. Qui porte la contraception aujourd'hui, et à quel coût — effets indésirables, suivi, charge mentale, argent ? Est-ce que cela nous convient à tous les deux, explicitement ? Et si nous ne voulons pas d'enfant, ou plus d'enfant, qu'est-ce qui justifie que cela repose sur une seule personne ?
+Trois questions, dans cet ordre. Qui porte la contraception aujourd'hui, et à quel coût — effets indésirables, suivi, [charge mentale](<../2 - Notions/Charge mentale.md>), argent ? Est-ce que cela nous convient à tous les deux, explicitement ? Et si nous ne voulons pas d'enfant, ou plus d'enfant, qu'est-ce qui justifie que cela repose sur une seule personne ?
 
 Une précision qui compte : proposer de prendre la contraception en charge n'est pas un service rendu. C'est le partage d'une charge qui concernait les deux depuis le début.
 
@@ -774,11 +774,11 @@ Le modèle de l'accélérateur et du frein, souvent présenté comme féminin, s
 
 L'implication est la même : quand quelque chose ne fonctionne pas, le réflexe est d'ajouter de l'accélérateur — plus de stimulation, plus de nouveauté. Or dans la majorité des cas, il s'agit d'un frein enfoncé : fatigue, alcool, inquiétude de performance, conflit non réglé, charge professionnelle.
 
-Un point mal connu : le **désir réactif** existe aussi chez les hommes. La culture affirme que le désir masculin est toujours spontané et disponible, ce qui laisse beaucoup d'hommes sans mots quand ce n'est pas le cas — et leur partenaire sans grille pour l'interpréter autrement que par un rejet.
+Un point mal connu : le **[désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>)** existe aussi chez les hommes. La culture affirme que le désir masculin est toujours spontané et disponible, ce qui laisse beaucoup d'hommes sans mots quand ce n'est pas le cas — et leur partenaire sans grille pour l'interpréter autrement que par un rejet.
 
 ### 11.4 Les troubles, par ordre de fréquence
 
-**L'éjaculation précoce.** Le trouble sexuel masculin le plus fréquent. La définition clinique associe un délai court, une absence de contrôle et une souffrance. Il se traite : techniques comportementales, travail sur l'anxiété de performance, traitements locaux ou médicamenteux selon les cas. Beaucoup d'hommes n'en parlent jamais et s'en accommodent des années.
+**L'éjaculation précoce.** Le trouble sexuel masculin le plus fréquent. La définition clinique associe un délai court, une absence de contrôle et une souffrance. Il se traite : techniques comportementales, travail sur l'[anxiété de performance](<../2 - Notions/Anxiété de performance.md>), traitements locaux ou médicamenteux selon les cas. Beaucoup d'hommes n'en parlent jamais et s'en accommodent des années.
 
 **Les troubles de l'érection.** Leur fréquence augmente nettement avec l'âge, sans être une fatalité. Distinction clinique essentielle : la présence d'**érections nocturnes ou matinales** oriente vers une cause plutôt psychologique ou situationnelle ; leur disparition oriente vers une cause organique et justifie un bilan — tension, glycémie, lipides, parfois testostérone.
 
@@ -842,7 +842,7 @@ Cela explique une chose qui déroute souvent les femmes : la demande sexuelle d'
 
 Un épisode de dysfonction érectile ponctuel est banal. Il arrive à tous les hommes, à tout âge, pour des raisons triviales : fatigue, alcool, stress, distraction, contexte. Sur le plan médical, il n'y a rien à en dire.
 
-Sur le plan émotionnel, c'est autre chose. Pour un homme, une panne n'est pas un incident technique, elle est immédiatement interprétée sur le registre de l'identité, exactement selon le mécanisme de honte du 2.4. Ce n'est pas "mon corps n'a pas répondu", c'est "je ne suis pas un homme". Et c'est précisément cette lecture qui crée le problème durable : l'anxiété de performance déclenche une activation sympathique, qui est physiologiquement incompatible avec l'érection. La peur de la panne provoque la panne. Après deux ou trois épisodes, l'évitement s'installe, et le couple entre dans un désert sexuel dont la cause d'origine a disparu depuis longtemps.
+Sur le plan émotionnel, c'est autre chose. Pour un homme, une panne n'est pas un incident technique, elle est immédiatement interprétée sur le registre de l'identité, exactement selon le mécanisme de honte du 2.4. Ce n'est pas "mon corps n'a pas répondu", c'est "je ne suis pas un homme". Et c'est précisément cette lecture qui crée le problème durable : l'[anxiété de performance](<../2 - Notions/Anxiété de performance.md>) déclenche une activation sympathique, qui est physiologiquement incompatible avec l'érection. La peur de la panne provoque la panne. Après deux ou trois épisodes, l'évitement s'installe, et le couple entre dans un désert sexuel dont la cause d'origine a disparu depuis longtemps.
 
 **Bons réflexes.**
 
@@ -857,7 +857,7 @@ L'écart de désir dans un couple est la situation la plus fréquente en consult
 
 Les causes d'une baisse de désir masculine, dans l'ordre de fréquence réelle : fatigue et sommeil, stress professionnel, épisode dépressif, alcool, antidépresseurs, conflit non résolu dans le couple, usage compulsif de pornographie, et beaucoup plus rarement une cause hormonale.
 
-**💑 Dans le couple.** Le désir masculin est décrit comme plus spontané et le désir féminin comme plus réactif, mais cette opposition est largement caricaturale et devient franchement fausse avec l'âge et la durée de la relation. Après quelques années, la plupart des hommes ont aussi un désir réactif : il a besoin d'un contexte, d'un déclencheur, d'une disponibilité mentale. Considérer que "s'il ne prend pas l'initiative c'est qu'il n'a plus envie de moi" est une erreur d'interprétation très fréquente et très coûteuse.
+**💑 Dans le couple.** Le désir masculin est décrit comme plus spontané et le désir féminin comme plus réactif, mais cette opposition est largement caricaturale et devient franchement fausse avec l'âge et la durée de la relation. Après quelques années, la plupart des hommes ont aussi un [désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>) : il a besoin d'un contexte, d'un déclencheur, d'une disponibilité mentale. Considérer que "s'il ne prend pas l'initiative c'est qu'il n'a plus envie de moi" est une erreur d'interprétation très fréquente et très coûteuse.
 
 **Bons réflexes.**
 
@@ -989,7 +989,7 @@ Et pour un homme en particulier, cette bascule est libératrice à entendre. Il 
 
 C'est la période où la règle 4 du code viril (ne pas être classé défavorablement) est la plus active. Le jeune homme se construit dans un environnement de comparaison quasi continue : corps, salaire, statut, expérience sexuelle, réussite. Les réseaux sociaux ont intensifié ce phénomène de manière considérable, en transformant une comparaison locale en comparaison mondiale et permanente.
 
-Les fragilités typiques : anxiété de performance, dysmorphophobie (rapport pathologique à son image corporelle, très sous-repérée chez les garçons), consommations, sentiment d'imposture, difficulté à formuler un désir propre distinct des attentes extérieures.
+Les fragilités typiques : [anxiété de performance](<../2 - Notions/Anxiété de performance.md>), dysmorphophobie (rapport pathologique à son image corporelle, très sous-repérée chez les garçons), consommations, sentiment d'imposture, difficulté à formuler un désir propre distinct des attentes extérieures.
 
 **💑 Dans le couple.** À cet âge, la valorisation ne fonctionne que si elle est spécifique. "Tu es génial" glisse, "j'ai trouvé ta manière de gérer ce truc très solide" atterrit.
 
@@ -1029,7 +1029,7 @@ La retraite retire d'un coup ce qui, dans le système décrit au 2.5, tenait lie
 
 Événement massif et très mal accompagné. Quelques faits utiles :
 
-- La dépression du post-partum paternel existe et concerne une proportion non négligeable de pères, avec un pic souvent décalé de plusieurs mois après la naissance, contrairement à celle de la mère. Elle se présente typiquement sous le tableau atypique du chapitre 3 : irritabilité, retrait, surinvestissement au travail, consommations.
+- La [dépression du post-partum](<../2 - Notions/Dépression du post-partum.md>) paternel existe et concerne une proportion non négligeable de pères, avec un pic souvent décalé de plusieurs mois après la naissance, contrairement à celle de la mère. Elle se présente typiquement sous le tableau atypique du chapitre 3 : irritabilité, retrait, surinvestissement au travail, consommations.
 - Le sentiment d'inutilité est très fréquent dans les premiers mois, surtout en cas d'allaitement, et il est rarement verbalisé parce qu'il paraît illégitime face à la charge maternelle.
 - Le passage à la parentalité modifie durablement la sexualité du couple, et l'homme est souvent celui qui n'ose pas dire qu'il se sent mis de côté, de peur de paraître égoïste.
 
@@ -1474,7 +1474,7 @@ Ce chapitre est aussi important que tous les autres. Un guide qui t'apprendrait 
 
 ### 10.1 Comprendre n'est pas excuser
 
-Tout ce document explique des mécanismes. Aucun de ces mécanismes ne constitue une justification. Le décalage temporel explique une réaction disproportionnée, il ne la rend pas acceptable. L'alexithymie explique une difficulté à parler, elle ne dispense pas de faire l'effort. Le code viril explique la réticence à consulter, elle ne rend pas la consultation facultative quand la situation l'exige.
+Tout ce document explique des mécanismes. Aucun de ces mécanismes ne constitue une justification. Le décalage temporel explique une réaction disproportionnée, il ne la rend pas acceptable. L'[alexithymie](<../2 - Notions/Alexithymie.md>) explique une difficulté à parler, elle ne dispense pas de faire l'effort. Le code viril explique la réticence à consulter, elle ne rend pas la consultation facultative quand la situation l'exige.
 
 La ligne est simple : comprendre sert à ne pas mal interpréter et à choisir la bonne approche. Ça ne sert pas à accepter indéfiniment.
 
@@ -1578,7 +1578,7 @@ Elle appartient à ce chapitre autant que la tension.
 
 Les hommes consultent moins pour des motifs psychiques et représentent la nette majorité des décès par suicide, avec un écart de l'ordre de trois pour un en France. Les deux faits sont liés : moins de recours, plus de létalité.
 
-Trois moments de bascule reviennent : une rupture ou un divorce, la perte d'un emploi, le départ à la retraite. Ils partagent une caractéristique — ils suppriment d'un coup un rôle et un réseau, deux choses qui tiennent souvent lieu de vie sociale entière chez les hommes. C'est le « désert relationnel » décrit au chapitre 8.
+Trois moments de bascule reviennent : une rupture ou un divorce, la perte d'un emploi, le départ à la retraite. Ils partagent une caractéristique — ils suppriment d'un coup un rôle et un réseau, deux choses qui tiennent souvent lieu de vie sociale entière chez les hommes. C'est le « [désert relationnel](<../2 - Notions/Désert relationnel.md>) » décrit au chapitre 8.
 
 **Signal d'alerte, pas clause de style** : des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit, en permanence, accessible aussi à un proche inquiet.
 
@@ -1603,7 +1603,7 @@ Ce qui bloque : « tu devrais voir un médecin », entendu comme un jugement. Ce
 ### 11.1 Les dix idées à retenir
 
 1. La différence n'est pas dans le ressenti, elle est dans le circuit de sortie.
-2. "Je ne sais pas" est souvent une information exacte, pas une esquive (alexithymie, 2.1).
+2. "Je ne sais pas" est souvent une information exacte, pas une esquive ([alexithymie](<../2 - Notions/Alexithymie.md>), 2.1).
 3. L'émotion arrive avec un délai. Repose la question trois jours plus tard (2.2).
 4. Sous la colère, cherche la honte, la peur ou l'impuissance (2.3).
 5. La honte porte sur ce qu'il est, la culpabilité sur ce qu'il a fait. Vise toujours la seconde (2.4).
@@ -1660,7 +1660,7 @@ Sources ajoutées en version 2 :
 - Observatoire national du suicide, données sur situation conjugale et risque suicidaire, reprises en janvier 2026.
 - Travaux de John Gottman sur l'inondation physiologique en situation de conflit conjugal.
 - William Pollack, sur l'alexithymie masculine normative.
-- Littérature sur l'attachement adulte et la sécurité acquise.
+- Littérature sur l'attachement adulte et la [sécurité acquise](<../2 - Notions/Sécurité acquise.md>).
 - Travaux d'imagerie sur la mosaïque cérébrale et le recouvrement des distributions entre sexes.
 
 Toutes les sources ci-dessus ont été vérifiées le 31 juillet 2026.

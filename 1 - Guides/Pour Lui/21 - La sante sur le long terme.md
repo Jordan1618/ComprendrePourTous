@@ -56,7 +56,7 @@ Elle appartient à ce chapitre autant que la tension.
 
 Les hommes consultent moins pour des motifs psychiques et représentent la nette majorité des décès par suicide, avec un écart de l'ordre de trois pour un en France. Les deux faits sont liés : moins de recours, plus de létalité.
 
-Trois moments de bascule reviennent : une rupture ou un divorce, la perte d'un emploi, le départ à la retraite. Ils partagent une caractéristique — ils suppriment d'un coup un rôle et un réseau, deux choses qui tiennent souvent lieu de vie sociale entière chez les hommes. C'est le « désert relationnel » décrit au chapitre 8.
+Trois moments de bascule reviennent : une rupture ou un divorce, la perte d'un emploi, le départ à la retraite. Ils partagent une caractéristique — ils suppriment d'un coup un rôle et un réseau, deux choses qui tiennent souvent lieu de vie sociale entière chez les hommes. C'est le « [désert relationnel](<../../2 - Notions/Désert relationnel.md>) » décrit au chapitre 8.
 
 **Signal d'alerte, pas clause de style** : des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit, en permanence, accessible aussi à un proche inquiet.
 

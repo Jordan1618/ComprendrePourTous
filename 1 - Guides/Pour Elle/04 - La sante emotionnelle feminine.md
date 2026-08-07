@@ -20,11 +20,11 @@ Quand une installation disjoncte, on peut accuser le fusible. Il a effectivement
 
 Trois situations où le lien est solide, et il serait absurde de les minimiser.
 
-**Le trouble dysphorique prémenstruel (TDPM).** À distinguer nettement du syndrome prémenstruel ordinaire. Il touche une minorité de femmes et se caractérise par des symptômes de l'humeur sévères et invalidants en phase lutéale, disparaissant avec les règles. Ce n'est pas une exagération du SPM : c'est reconnu comme un trouble à part entière, et il existe des prises en charge. Le mécanisme retenu n'est pas un taux hormonal anormal — les dosages sont généralement normaux — mais une **sensibilité particulière aux variations**.
+**Le [trouble dysphorique prémenstruel](<../../2 - Notions/Trouble dysphorique prémenstruel.md>) (TDPM).** À distinguer nettement du syndrome prémenstruel ordinaire. Il touche une minorité de femmes et se caractérise par des symptômes de l'humeur sévères et invalidants en phase lutéale, disparaissant avec les règles. Ce n'est pas une exagération du SPM : c'est reconnu comme un trouble à part entière, et il existe des prises en charge. Le mécanisme retenu n'est pas un taux hormonal anormal — les dosages sont généralement normaux — mais une **sensibilité particulière aux variations**.
 
-**La période post-partum.** La chute hormonale brutale après l'accouchement, combinée à la privation de sommeil et au bouleversement de vie, constitue une période de vulnérabilité réelle. La dépression du post-partum n'est ni un caractère fragile ni un manque d'amour pour l'enfant. Elle se traite, et elle est d'autant mieux prise en charge qu'elle est nommée tôt. Voir le chapitre 7 de ce guide.
+**La période post-partum.** La chute hormonale brutale après l'accouchement, combinée à la privation de sommeil et au bouleversement de vie, constitue une période de vulnérabilité réelle. La [dépression du post-partum](<../../2 - Notions/Dépression du post-partum.md>) n'est ni un caractère fragile ni un manque d'amour pour l'enfant. Elle se traite, et elle est d'autant mieux prise en charge qu'elle est nommée tôt. Voir le chapitre 7 de ce guide.
 
-**La périménopause.** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement.
+**La [périménopause](<../../2 - Notions/Périménopause.md>).** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement.
 
 ### 13.3 Ce qu'on leur attribue à tort
 
@@ -32,7 +32,7 @@ C'est l'autre versant, et il est au moins aussi important.
 
 **Le « c'est tes hormones » comme fin de conversation.** Utilisé pour disqualifier une colère, un désaccord ou une plainte, c'est un procédé qui a une longue histoire — le mot « hystérie » vient de *hustera*, l'utérus. L'effet pratique est constant : la personne cesse de discuter du fond, parce que le fond a été renvoyé à sa biologie.
 
-**Le retard diagnostique.** Des travaux documentent une tendance à attribuer plus rapidement des symptômes physiques féminins à l'anxiété, avec pour conséquence des délais de diagnostic plus longs sur plusieurs pathologies. L'endométriose en est l'exemple le plus connu : le délai entre les premiers symptômes et le diagnostic se compte encore en années. Voir le chapitre 4.
+**Le retard diagnostique.** Des travaux documentent une tendance à attribuer plus rapidement des symptômes physiques féminins à l'anxiété, avec pour conséquence des délais de diagnostic plus longs sur plusieurs pathologies. L'[endométriose](<../../2 - Notions/Endométriose.md>) en est l'exemple le plus connu : le délai entre les premiers symptômes et le diagnostic se compte encore en années. Voir le chapitre 4.
 
 **La fatigue de fond.** Avant d'invoquer le cycle, deux causes très fréquentes méritent d'être écartées : la **carence en fer**, particulièrement fréquente en cas de règles abondantes, et la dette de sommeil. Un dosage de ferritine est simple, peu coûteux, et souvent révélateur. Voir [Les émotions](<../Les emotions/README.md>), chapitre 7.
 

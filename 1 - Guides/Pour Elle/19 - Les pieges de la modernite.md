@@ -54,7 +54,7 @@ Utiles, et à manier avec deux précautions.
 
 Le piège le plus discret. Le discours du *self-care* est parti d'une intention juste — s'occuper de soi est légitime — et s'est transformé en une exigence supplémentaire : il faut désormais aussi bien dormir, méditer, s'alimenter correctement, faire du sport, gérer ses émotions et être épanouie.
 
-Résultat : une charge de plus, et une culpabilité de plus quand elle n'est pas tenue. Pour quelqu'un qui porte déjà une charge mentale importante, ajouter la gestion optimisée de son propre bien-être revient à ajouter un poste à un emploi du temps saturé.
+Résultat : une charge de plus, et une culpabilité de plus quand elle n'est pas tenue. Pour quelqu'un qui porte déjà une [charge mentale](<../../2 - Notions/Charge mentale.md>) importante, ajouter la gestion optimisée de son propre bien-être revient à ajouter un poste à un emploi du temps saturé.
 
 Le renversement utile : **le repos n'a pas à être productif.** Ne rien faire n'est pas un échec de gestion de soi.
 

@@ -20,7 +20,7 @@ Ensemble de symptômes physiques (ballonnements, tension mammaire, migraines, fa
 
 **Bons réflexes**
 - Si tu remarques un pattern (des tensions qui reviennent toujours à peu près au même moment du cycle), partage cette observation avec douceur, sans l'utiliser comme une arme ("de toute façon t'es dans ta période"). L'objectif est d'anticiper ensemble, pas de disqualifier ce qu'elle ressent.
-- Une bouillotte, un anti-inflammatoire adapté (à discuter avec son médecin), moins de charge mentale ces jours-là, sont des gestes concrets et sous-estimés.
+- Une bouillotte, un anti-inflammatoire adapté (à discuter avec son médecin), moins de [charge mentale](<../../2 - Notions/Charge mentale.md>) ces jours-là, sont des gestes concrets et sous-estimés.
 
 ### 4.2 Trouble dysphorique prémenstruel (TDPM)
 
@@ -42,7 +42,7 @@ Le mécanisme le mieux documenté à ce jour n'est **pas** un déséquilibre hor
 ### 4.3 Dysménorrhée (règles douloureuses)
 
 - **Primaire** : douleur liée aux contractions utérines normales dues aux prostaglandines, imagine l'utérus qui se contracte comme un poing qui se ferme et se rouvre pour expulser la muqueuse, sans pathologie sous-jacente. Très fréquente, souvent sous-traitée par réflexe culturel ("c'est normal d'avoir mal").
-- **Secondaire** : douleur causée par une pathologie sous-jacente (endométriose, adénomyose, fibrome), un signal d'alarme trop souvent ignoré. Une douleur de règles qui empêche d'aller travailler ou en cours n'est **jamais** "normale" et mérite un avis médical.
+- **Secondaire** : douleur causée par une pathologie sous-jacente ([endométriose](<../../2 - Notions/Endométriose.md>), adénomyose, fibrome), un signal d'alarme trop souvent ignoré. Une douleur de règles qui empêche d'aller travailler ou en cours n'est **jamais** "normale" et mérite un avis médical.
 
 **💑 Dans le couple** : une douleur de règles minimisée pendant des années peut cacher une pathologie secondaire (endométriose notamment) qui, non traitée, s'aggrave avec le temps et peut affecter la fertilité future du couple.
 

@@ -14,10 +14,10 @@ licence: "CC BY 4.0"
 Non. La fourchette normale va de 21 à 35 jours, et une variabilité de quelques jours d'un cycle à l'autre est courante et sans signification pathologique. Ce qui mérite une attention, c'est un changement brutal par rapport à ce qui est "normal pour elle", ou une absence de règles de plus de 3 mois hors grossesse.
 
 **"Si elle a mal pendant ses règles au point de ne pas pouvoir travailler, c'est normal ?"**
-Non, jamais. Une douleur invalidante n'est pas la norme biologique, c'est un signal qui mérite une consultation, potentiellement pour écarter une endométriose ou une adénomyose (sections 4.3 à 4.5).
+Non, jamais. Une douleur invalidante n'est pas la norme biologique, c'est un signal qui mérite une consultation, potentiellement pour écarter une [endométriose](<../../2 - Notions/Endométriose.md>) ou une adénomyose (sections 4.3 à 4.5).
 
 **"Pourquoi elle a besoin d'autant de temps avant d'être excitée alors que moi c'est plus rapide ?"**
-Ce n'est ni un problème ni un désintérêt. Le désir réactif (section 5.2), très fréquent chez les femmes, a simplement besoin d'un peu plus de temps et de contexte favorable pour s'enclencher que le désir spontané, les deux mécanismes sont parfaitement normaux et ne prédisent rien de négatif sur la relation.
+Ce n'est ni un problème ni un désintérêt. Le [désir réactif](<../../2 - Notions/Désir spontané et désir réactif.md>) (section 5.2), très fréquent chez les femmes, a simplement besoin d'un peu plus de temps et de contexte favorable pour s'enclencher que le désir spontané, les deux mécanismes sont parfaitement normaux et ne prédisent rien de négatif sur la relation.
 
 **"Elle m'a dit qu'elle n'avait plus vraiment envie depuis qu'elle a commencé/changé de pilule, c'est possible ?"**
 Oui, c'est un effet secondaire réel et documenté chez une partie des utilisatrices (section 3, étape 2), bien que non systématique. Ça vaut le coup d'en parler avec son médecin plutôt que de le laisser comme un non-dit qui pèse sur la relation.

@@ -34,7 +34,7 @@ Ceux-là méritent bien plus d'attention qu'ils n'en reçoivent.
 
 **Le tabac associé à la contraception œstroprogestative après 35 ans.** L'association multiplie le risque cardiovasculaire. C'est l'un des rares points où la contre-indication est nette.
 
-**Le retard diagnostique de l'endométriose.** Encore compté en années. Des règles qui empêchent de travailler ou d'aller en cours ne sont pas normales, et « c'est comme ça » n'est pas un diagnostic.
+**Le retard diagnostique de l'[endométriose](<../../2 - Notions/Endométriose.md>).** Encore compté en années. Des règles qui empêchent de travailler ou d'aller en cours ne sont pas normales, et « c'est comme ça » n'est pas un diagnostic.
 
 **Les IST asymptomatiques.** Chlamydia en particulier, souvent silencieuse et pouvant retentir sur la fertilité. Le dépistage est simple et largement sous-utilisé. Voir [IST, dépistage et prévention](<../IST, depistage et prevention/README.md>).
 

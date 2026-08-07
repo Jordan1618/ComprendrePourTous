@@ -13,7 +13,7 @@ licence: "CC BY 4.0"
 ### 11.1 Les dix idées à retenir
 
 1. La différence n'est pas dans le ressenti, elle est dans le circuit de sortie.
-2. "Je ne sais pas" est souvent une information exacte, pas une esquive (alexithymie, 2.1).
+2. "Je ne sais pas" est souvent une information exacte, pas une esquive ([alexithymie](<../../2 - Notions/Alexithymie.md>), 2.1).
 3. L'émotion arrive avec un délai. Repose la question trois jours plus tard (2.2).
 4. Sous la colère, cherche la honte, la peur ou l'impuissance (2.3).
 5. La honte porte sur ce qu'il est, la culpabilité sur ce qu'il a fait. Vise toujours la seconde (2.4).
@@ -70,7 +70,7 @@ Sources ajoutées en version 2 :
 - Observatoire national du suicide, données sur situation conjugale et risque suicidaire, reprises en janvier 2026.
 - Travaux de John Gottman sur l'inondation physiologique en situation de conflit conjugal.
 - William Pollack, sur l'alexithymie masculine normative.
-- Littérature sur l'attachement adulte et la sécurité acquise.
+- Littérature sur l'attachement adulte et la [sécurité acquise](<../../2 - Notions/Sécurité acquise.md>).
 - Travaux d'imagerie sur la mosaïque cérébrale et le recouvrement des distributions entre sexes.
 
 Toutes les sources ci-dessus ont été vérifiées le 31 juillet 2026.

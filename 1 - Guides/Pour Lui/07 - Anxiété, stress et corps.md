@@ -39,7 +39,7 @@ C'est l'une des explications de l'écart d'espérance de vie du chapitre 1.4. Le
 
 ### 4.3 L'hypervigilance et le sommeil
 
-Beaucoup d'hommes en surcharge présentent une hypervigilance qui ne se voit pas de l'extérieur : ils scannent en permanence l'environnement pour détecter les problèmes à régler. C'est une posture de responsabilité intériorisée, et elle est épuisante.
+Beaucoup d'hommes en surcharge présentent une [hypervigilance](<../../2 - Notions/Hypervigilance.md>) qui ne se voit pas de l'extérieur : ils scannent en permanence l'environnement pour détecter les problèmes à régler. C'est une posture de responsabilité intériorisée, et elle est épuisante.
 
 Ça se traduit typiquement par : difficulté à s'endormir alors que la fatigue est écrasante, réveils nocturnes avec une liste mentale de tâches, sensation de ne jamais être vraiment en repos même en vacances, incapacité à ne rien faire sans culpabilité.
 

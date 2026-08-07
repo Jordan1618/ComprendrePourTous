@@ -16,7 +16,7 @@ C'est le chapitre le plus long et le plus dense. Il pose le vocabulaire utilisé
 
 **L'analogie.** Un daltonien ne voit pas moins de lumière qu'un autre. Il reçoit exactement la même quantité de photons. Ce qui lui manque, c'est le récepteur qui permet de distinguer le rouge du vert. Il voit "une couleur", il ne sait pas laquelle. Si tu lui demandes de trier des fils électriques par couleur, il va se tromper, s'énerver, ou refuser la tâche en disant que c'est débile.
 
-L'alexithymie, c'est ça, appliqué aux émotions. Le mot vient du grec et signifie littéralement l'absence de mots pour les émotions. La personne ressent parfaitement l'activation physiologique : le cœur qui accélère, la gorge serrée, la boule au ventre, la fatigue de plomb. Ce qu'elle n'arrive pas à faire, c'est mettre une étiquette dessus. Elle ne sait pas si c'est de la peur, de la tristesse, de la colère ou de la honte. Elle dit "je suis crevé", "j'ai un truc bizarre", "ça va".
+L'[alexithymie](<../../2 - Notions/Alexithymie.md>), c'est ça, appliqué aux émotions. Le mot vient du grec et signifie littéralement l'absence de mots pour les émotions. La personne ressent parfaitement l'activation physiologique : le cœur qui accélère, la gorge serrée, la boule au ventre, la fatigue de plomb. Ce qu'elle n'arrive pas à faire, c'est mettre une étiquette dessus. Elle ne sait pas si c'est de la peur, de la tristesse, de la colère ou de la honte. Elle dit "je suis crevé", "j'ai un truc bizarre", "ça va".
 
 Trois composantes, que tu peux repérer séparément :
 

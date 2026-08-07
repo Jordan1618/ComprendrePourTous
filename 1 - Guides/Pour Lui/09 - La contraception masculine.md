@@ -22,7 +22,7 @@ Quatre méthodes, avec ce qu'elles valent réellement.
 
 **Le préservatif externe.** La seule méthode qui protège aussi des IST, ce qui en fait un cas à part. En utilisation parfaite, l'échec est faible ; en utilisation courante, il est nettement plus élevé — l'écart vient des erreurs de pose, du retrait tardif et de l'usage inconstant. Les deux points qui améliorent le plus l'efficacité réelle : la bonne taille, et la mise en place avant tout contact.
 
-**La vasectomie.** Ligature ou section des canaux déférents, sous anesthésie locale, en une intervention courte. C'est la méthode masculine la plus efficace, comparable aux méthodes les plus fiables côté féminin. Trois choses à savoir : elle **doit être considérée comme définitive**, même si une reperméabilisation est parfois possible et jamais garantie ; elle ne modifie ni l'érection, ni l'éjaculation, ni la libido, ni le volume perçu du sperme, contrairement à une crainte tenace ; et elle n'est pas immédiatement efficace — il faut un délai et un spermogramme de contrôle avant d'abandonner toute autre méthode. En France, elle est autorisée, remboursée, et soumise à un délai de réflexion légal.
+**La [vasectomie](<../../2 - Notions/Vasectomie.md>).** Ligature ou section des canaux déférents, sous anesthésie locale, en une intervention courte. C'est la méthode masculine la plus efficace, comparable aux méthodes les plus fiables côté féminin. Trois choses à savoir : elle **doit être considérée comme définitive**, même si une reperméabilisation est parfois possible et jamais garantie ; elle ne modifie ni l'érection, ni l'éjaculation, ni la libido, ni le volume perçu du sperme, contrairement à une crainte tenace ; et elle n'est pas immédiatement efficace — il faut un délai et un spermogramme de contrôle avant d'abandonner toute autre méthode. En France, elle est autorisée, remboursée, et soumise à un délai de réflexion légal.
 
 **La contraception thermique.** Elle repose sur un principe établi : la spermatogenèse est perturbée par une élévation de la température testiculaire. Des dispositifs remontant les testicules dans le canal inguinal existent, portés plusieurs heures par jour. Le recul et le niveau de preuve restent limités par rapport aux méthodes précédentes, et un contrôle par spermogramme est indispensable. Je préfère l'écrire ainsi que de la présenter comme une option équivalente aux deux premières.
 
@@ -52,7 +52,7 @@ Trois raisons reviennent, et aucune n'est de la mauvaise volonté pure.
 
 Elle se tient à froid, hors du lit, et elle porte sur une répartition et non sur une méthode.
 
-Trois questions, dans cet ordre. Qui porte la contraception aujourd'hui, et à quel coût — effets indésirables, suivi, charge mentale, argent ? Est-ce que cela nous convient à tous les deux, explicitement ? Et si nous ne voulons pas d'enfant, ou plus d'enfant, qu'est-ce qui justifie que cela repose sur une seule personne ?
+Trois questions, dans cet ordre. Qui porte la contraception aujourd'hui, et à quel coût — effets indésirables, suivi, [charge mentale](<../../2 - Notions/Charge mentale.md>), argent ? Est-ce que cela nous convient à tous les deux, explicitement ? Et si nous ne voulons pas d'enfant, ou plus d'enfant, qu'est-ce qui justifie que cela repose sur une seule personne ?
 
 Une précision qui compte : proposer de prendre la contraception en charge n'est pas un service rendu. C'est le partage d'une charge qui concernait les deux depuis le début.
 

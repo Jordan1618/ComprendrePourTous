@@ -38,11 +38,11 @@ Le modèle de l'accélérateur et du frein, souvent présenté comme féminin, s
 
 L'implication est la même : quand quelque chose ne fonctionne pas, le réflexe est d'ajouter de l'accélérateur — plus de stimulation, plus de nouveauté. Or dans la majorité des cas, il s'agit d'un frein enfoncé : fatigue, alcool, inquiétude de performance, conflit non réglé, charge professionnelle.
 
-Un point mal connu : le **désir réactif** existe aussi chez les hommes. La culture affirme que le désir masculin est toujours spontané et disponible, ce qui laisse beaucoup d'hommes sans mots quand ce n'est pas le cas — et leur partenaire sans grille pour l'interpréter autrement que par un rejet.
+Un point mal connu : le **[désir réactif](<../../2 - Notions/Désir spontané et désir réactif.md>)** existe aussi chez les hommes. La culture affirme que le désir masculin est toujours spontané et disponible, ce qui laisse beaucoup d'hommes sans mots quand ce n'est pas le cas — et leur partenaire sans grille pour l'interpréter autrement que par un rejet.
 
 ### 11.4 Les troubles, par ordre de fréquence
 
-**L'éjaculation précoce.** Le trouble sexuel masculin le plus fréquent. La définition clinique associe un délai court, une absence de contrôle et une souffrance. Il se traite : techniques comportementales, travail sur l'anxiété de performance, traitements locaux ou médicamenteux selon les cas. Beaucoup d'hommes n'en parlent jamais et s'en accommodent des années.
+**L'éjaculation précoce.** Le trouble sexuel masculin le plus fréquent. La définition clinique associe un délai court, une absence de contrôle et une souffrance. Il se traite : techniques comportementales, travail sur l'[anxiété de performance](<../../2 - Notions/Anxiété de performance.md>), traitements locaux ou médicamenteux selon les cas. Beaucoup d'hommes n'en parlent jamais et s'en accommodent des années.
 
 **Les troubles de l'érection.** Leur fréquence augmente nettement avec l'âge, sans être une fatalité. Distinction clinique essentielle : la présence d'**érections nocturnes ou matinales** oriente vers une cause plutôt psychologique ou situationnelle ; leur disparition oriente vers une cause organique et justifie un bilan — tension, glycémie, lipides, parfois testostérone.
 

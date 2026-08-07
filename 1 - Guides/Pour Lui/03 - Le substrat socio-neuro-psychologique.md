@@ -54,7 +54,7 @@ C'est le niveau explicatif principal, et il opère en quatre temps.
 
 **Temps 4 : la sanction de l'échec.** À l'adolescence puis à l'âge adulte, l'échec masculin est peu accompagné. On ne console pas un garçon qui rate, on lui dit de recommencer. Résultat : l'échec devient un événement identitaire (voir 2.4) et non un événement d'apprentissage.
 
-Le psychologue américain William Pollack a proposé pour décrire le produit fini l'expression d'alexithymie masculine normative : non pas un trouble, mais un état par défaut, statistiquement banal, produit par une éducation qui coupe l'accès aux mots des émotions. C'est probablement le concept le plus utile de tout ce chapitre, parce qu'il déplace la question. Ce n'est pas "qu'est-ce qui ne va pas chez lui", c'est "qu'est-ce qu'on ne lui a jamais appris".
+Le psychologue américain William Pollack a proposé pour décrire le produit fini l'expression d'[alexithymie](<../../2 - Notions/Alexithymie.md>) masculine normative : non pas un trouble, mais un état par défaut, statistiquement banal, produit par une éducation qui coupe l'accès aux mots des émotions. C'est probablement le concept le plus utile de tout ce chapitre, parce qu'il déplace la question. Ce n'est pas "qu'est-ce qui ne va pas chez lui", c'est "qu'est-ce qu'on ne lui a jamais appris".
 
 ### 2 bis.4 L'attachement, version masculine
 
@@ -62,7 +62,7 @@ Les styles d'attachement se forment dans la petite enfance et structurent ensuit
 
 - **Sécure (environ la moitié de la population).** Il exprime ses besoins sans dramatiser, tolère les désaccords, revient après un conflit. Ce n'est pas un homme sans problème, c'est un homme dont le système d'alarme fonctionne à une intensité normale.
 - **Évitant.** Surreprésenté chez les hommes, ce qui s'explique très bien par le temps 1 de la socialisation. Le fonctionnement : l'intimité déclenche une alerte, la stratégie est la distance. Signes typiques : besoin d'espace décrit comme un trait de caractère, difficulté avec les déclarations, retrait au moment précis où la relation s'approfondit, idéalisation des ex ou des relations passées, focalisation sur des défauts mineurs de la partenaire quand la proximité augmente. Point crucial : un évitant n'aime pas moins, il désactive. Sous la distance, il y a souvent une activation physiologique aussi forte que chez un anxieux, simplement invisible.
-- **Anxieux ou préoccupé.** Moins fréquent chez les hommes, mais loin d'être rare, et particulièrement mal vécu parce qu'il contredit le modèle attendu. Signes : besoin de réassurance permanent, hypervigilance aux signes de désamour, jalousie, difficulté à supporter le silence. Chez un homme, ça se déguise souvent en colère ou en contrôle, parce que la demande directe est trop honteuse.
+- **Anxieux ou préoccupé.** Moins fréquent chez les hommes, mais loin d'être rare, et particulièrement mal vécu parce qu'il contredit le modèle attendu. Signes : besoin de réassurance permanent, [hypervigilance](<../../2 - Notions/Hypervigilance.md>) aux signes de désamour, jalousie, difficulté à supporter le silence. Chez un homme, ça se déguise souvent en colère ou en contrôle, parce que la demande directe est trop honteuse.
 - **Désorganisé.** Alternance des deux, généralement liée à un environnement précoce à la fois nécessaire et menaçant. C'est le profil qui bénéficie le plus d'un accompagnement professionnel, et le moins d'un effort de couple isolé.
 
 **💑 Dans le couple.** La combinaison la plus fréquente et la plus douloureuse est anxieuse avec évitant. Elle se rapproche, il s'éloigne, elle se rapproche davantage, il s'éloigne davantage. Chacun confirme la peur de l'autre. C'est le schéma poursuite-retrait du 9.1, avec ses racines.
@@ -70,7 +70,7 @@ Les styles d'attachement se forment dans la petite enfance et structurent ensuit
 **Bons réflexes.**
 
 - Avec un évitant, la pression accélère la fuite. Ce qui fonctionne : la constance sans exigence, l'absence de test, et le fait de laisser exister l'espace qu'il demande tout en maintenant clairement ta propre présence. Le message qui le fait bouger n'est pas "montre-moi que tu tiens à moi", c'est "je suis là et je ne disparais pas quand tu prends de la distance".
-- Ne prends pas les styles pour des sentences. L'attachement est modifiable, par la relation elle-même et par le travail thérapeutique. Le terme technique est sécurité acquise, et c'est très bien documenté.
+- Ne prends pas les styles pour des sentences. L'attachement est modifiable, par la relation elle-même et par le travail thérapeutique. Le terme technique est [sécurité acquise](<../../2 - Notions/Sécurité acquise.md>), et c'est très bien documenté.
 
 ### 2 bis.5 Le statut comme organisateur central
 
