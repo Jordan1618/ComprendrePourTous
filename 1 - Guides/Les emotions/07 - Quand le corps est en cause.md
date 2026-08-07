@@ -16,7 +16,7 @@ Parce que l'ordre compte. Un état durable de fatigue, d'irritabilité ou de tri
 
 L'inverse est vrai aussi : tout attribuer au corps quand la cause est ailleurs fait perdre autant de temps. L'objectif de ce chapitre est simplement de **ne pas sauter l'étape**.
 
-Ce chapitre ne permet pas de se diagnostiquer. Il permet de savoir quoi demander à un médecin, ce qui est très différent — et beaucoup plus utile.
+Ce chapitre ne permet pas de se diagnostiquer. Il permet de savoir quoi demander à un médecin, ce qui est très différent — et beaucoup plus utile. Les troubles thyroïdiens produisent un tableau clinique qui recoupe largement celui d'un trouble de l'humeur, ce qui justifie de les écarter en premier (source : Hage & Azar, « The Link between Thyroid Function and Depression », *Journal of Thyroid Research*, 2012 ; vérification du 7 août 2026).
 
 ### 7.2 Les causes organiques les plus fréquentes
 
@@ -30,7 +30,7 @@ Ce chapitre ne permet pas de se diagnostiquer. Il permet de savoir quoi demander
 
 **La douleur chronique.** Elle dégrade l'humeur de façon directe, et l'inverse est vrai également : les deux s'entretiennent.
 
-**Les hormones.** Périménopause, post-partum, troubles du cycle, andropause : ces transitions ont un effet documenté sur l'humeur. Traitées dans [Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>).
+**Les hormones.** Périménopause, post-partum, troubles du cycle, andropause : ces transitions ont un effet documenté sur l'humeur. Traitées dans [Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>). L'hypothyroïdie et l'hyperthyroïdie sont toutes deux associées à des symptômes thymiques significatifs, réversibles avec le traitement de la cause (source : Hage & Azar, « The Link between Thyroid Function and Depression », *Journal of Thyroid Research*, 2012 ; vérification du 7 août 2026).
 
 ### 7.3 Les médicaments et substances
 
@@ -40,7 +40,7 @@ Certains traitements ont des effets documentés sur l'humeur : corticoïdes, iso
 
 L'alcool et le cannabis méritent une mention particulière : tous deux apaisent à court terme et dégradent la régulation à moyen terme. Le sevrage de l'un comme de l'autre s'accompagne d'anxiété et d'irritabilité, ce qui donne l'impression que la substance « aidait » alors qu'elle entretenait le problème.
 
-**Point de sécurité : ne jamais arrêter brutalement un psychotrope.** L'arrêt se planifie avec le prescripteur.
+**Point de sécurité : ne jamais arrêter brutalement un psychotrope.** L'arrêt se planifie avec le prescripteur. Les antidépresseurs sérotoninergiques ont un effet documenté et fréquent sur la fonction sexuelle, souvent non anticipé par les patients (source : Serretti & Chiesa, « Treatment-emergent sexual dysfunction related to antidepressants », *Journal of Clinical Psychopharmacology*, 2009 ; vérification du 7 août 2026).
 
 ### 7.4 Ce qu'il est raisonnable de demander
 
@@ -52,13 +52,13 @@ Deux formulations qui fonctionnent en consultation, parce qu'elles sont précise
 
 **« Est-ce qu'un des médicaments que je prends peut expliquer ça ? »**
 
-Si vous avez le sentiment que votre plainte n'est pas prise au sérieux, sachez que le phénomène est documenté, particulièrement chez les femmes, pour qui des symptômes physiques sont plus souvent attribués d'emblée à l'anxiété. Demander qu'un examen précis soit fait ou explicitement écarté est une demande recevable, et il est légitime de solliciter un second avis.
+Si vous avez le sentiment que votre plainte n'est pas prise au sérieux, sachez que le phénomène est documenté, particulièrement chez les femmes, pour qui des symptômes physiques sont plus souvent attribués d'emblée à l'anxiété. Demander qu'un examen précis soit fait ou explicitement écarté est une demande recevable, et il est légitime de solliciter un second avis. Demander explicitement qu'une cause organique soit recherchée ou écartée est cohérent avec les recommandations de bonne pratique en médecine générale (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
 
 ### 7.5 Ce que ce chapitre ne dit pas
 
 Il ne dit pas que les émotions difficiles seraient « en réalité » physiques. La plupart ne le sont pas.
 
-Il dit qu'une cause organique se cherche **au début**, parce qu'elle est facile à écarter et coûteuse à manquer. Un bilan sanguin normal est en soi une information utile : il permet de travailler ailleurs sans arrière-pensée.
+Il dit qu'une cause organique se cherche **au début**, parce qu'elle est facile à écarter et coûteuse à manquer. Un bilan sanguin normal est en soi une information utile : il permet de travailler ailleurs sans arrière-pensée. Le fait qu'une plainte physique soit attribuée trop vite à l'anxiété, en particulier chez les femmes, est documenté dans un article devenu une référence sur le biais de genre en médecine de la douleur (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

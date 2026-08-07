@@ -16,7 +16,7 @@ Un peintre en bâtiment distingue trente blancs. Pour tout le monde, c'est du bl
 
 La **granularité émotionnelle** est exactement cela : la finesse avec laquelle une personne distingue ses états internes. À un extrême, deux catégories, « ça va » et « ça va pas ». À l'autre, la capacité à séparer l'agacement de l'humiliation, la déception de la tristesse, l'appréhension de la peur.
 
-Ce n'est pas un raffinement de langage. C'est un facteur associé à une meilleure régulation.
+Ce n'est pas un raffinement de langage. C'est un facteur associé à une meilleure régulation. La granularité émotionnelle désigne la finesse avec laquelle une personne distingue ses états internes, un concept développé par Lisa Feldman Barrett et ses collègues (source : Barrett, Gross, Christensen & Benvenuto, « Knowing what you're feeling and knowing what to do about it », *Cognition and Emotion*, 2001 ; vérification du 7 août 2026).
 
 ### 3.2 Ce que la finesse change réellement
 
@@ -42,7 +42,7 @@ Certaines personnes ne manquent pas de vocabulaire par négligence : elles ont u
 
 Ce n'est ni une maladie ni une absence d'émotions — les réponses physiologiques sont bien présentes, parfois même plus fortes. C'est un défaut d'accès à l'information. Les personnes concernées décrivent souvent des sensations corporelles (« j'ai le ventre noué ») là où d'autres nommeraient un état.
 
-C'est fréquent, plus souvent rapporté chez les hommes, et corrélé aux règles d'affichage décrites au chapitre 2. C'est aussi travaillable, et l'entrée par le corps est ici la plus efficace.
+C'est fréquent, plus souvent rapporté chez les hommes, et corrélé aux règles d'affichage décrites au chapitre 2. C'est aussi travaillable, et l'entrée par le corps est ici la plus efficace. L'alexithymie est définie et mesurée dans la littérature clinique comme une difficulté à identifier et décrire ses émotions, distincte d'une absence de vie affective (source : Taylor, Bagby & Parker, *Disorders of Affect Regulation*, Cambridge University Press, 1997 ; vérification du 7 août 2026).
 
 ### 3.5 La méthode, en trois étapes
 
@@ -54,7 +54,7 @@ Concrète, testable, et qui ne demande aucun matériel.
 
 **Étape 3 — la nuance.** À l'intérieur de la famille, chercher le mot le plus juste. Pour la colère : agacement, irritation, exaspération, indignation, rage, ressentiment, amertume. Pour la peur : appréhension, inquiétude, angoisse, panique, terreur, insécurité. Pour la tristesse : mélancolie, déception, chagrin, découragement, nostalgie, abattement. Pour la honte : gêne, embarras, humiliation, culpabilité, remords.
 
-Une remarque sur les « roues des émotions » qui circulent partout. Elles sont utiles comme aide-mémoire pour cette troisième étape. Elles n'ont pas la valeur scientifique qu'on leur prête souvent : ce sont des propositions de classement, pas des cartographies validées. Utilisez-les comme un dictionnaire, pas comme un diagnostic.
+Une remarque sur les « roues des émotions » qui circulent partout. Elles sont utiles comme aide-mémoire pour cette troisième étape. Elles n'ont pas la valeur scientifique qu'on leur prête souvent : ce sont des propositions de classement, pas des cartographies validées. Utilisez-les comme un dictionnaire, pas comme un diagnostic. Le fait de nommer une émotion réduit l'activité de l'amygdale et augmente celle du cortex préfrontal, un effet mesuré en imagerie cérébrale (source : Lieberman et coll., « Putting feelings into words », *Psychological Science*, 2007 ; vérification du 7 août 2026).
 
 ### 3.6 Distinguer l'émotion primaire de l'émotion secondaire
 
@@ -62,7 +62,7 @@ Distinction très utile en pratique clinique. L'émotion **primaire** est la pre
 
 Exemple typique : quelqu'un se sent blessé (primaire), puis se sent en colère d'avoir été blessé (secondaire). C'est la colère qui se voit et qui s'exprime ; c'est la blessure qui devrait être traitée. Tant que la conversation porte sur la colère, elle tourne en rond.
 
-Le repère qui aide : **l'émotion secondaire est souvent celle qui est autorisée**, la primaire celle qui ne l'est pas. Chez beaucoup d'hommes, la colère recouvre la tristesse ou la honte. Chez beaucoup de femmes, la tristesse ou la culpabilité recouvrent la colère.
+Le repère qui aide : **l'émotion secondaire est souvent celle qui est autorisée**, la primaire celle qui ne l'est pas. Chez beaucoup d'hommes, la colère recouvre la tristesse ou la honte. Chez beaucoup de femmes, la tristesse ou la culpabilité recouvrent la colère. Cette distinction entre émotion primaire et émotion secondaire est centrale dans les thérapies centrées sur l'émotion (source : Greenberg & Paivio, *Working with Emotions in Psychotherapy*, Guilford Press, 1997 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

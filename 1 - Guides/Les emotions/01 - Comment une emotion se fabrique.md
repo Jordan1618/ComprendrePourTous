@@ -16,7 +16,7 @@ Un thermostat ne chauffe pas. Il détecte, compare à une consigne, et déclench
 
 Une émotion fonctionne dans cet ordre-là, et c'est contre-intuitif. Ce n'est pas d'abord un sentiment qui se traduirait ensuite dans le corps. C'est une **évaluation rapide d'une situation**, qui déclenche des changements corporels, et le sentiment conscient arrive en dernier — parfois avec plusieurs secondes de retard.
 
-Cela explique une expérience que tout le monde a vécue sans la comprendre : se rendre compte qu'on est en colère **après** avoir haussé le ton. Le corps était parti avant que la conscience ait été informée.
+Cela explique une expérience que tout le monde a vécue sans la comprendre : se rendre compte qu'on est en colère **après** avoir haussé le ton. Le corps était parti avant que la conscience ait été informée. Ce décalage entre réaction et prise de conscience est cohérent avec les deux voies de traitement de la menace décrites par Joseph LeDoux (source : LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
 
 ### 1.2 Les deux voies de l'alerte
 
@@ -24,7 +24,7 @@ Joseph LeDoux a décrit deux trajets pour une information menaçante. Un trajet 
 
 L'alerte part donc avant l'analyse. C'est adapté — face à une forme allongée au sol, mieux vaut sursauter pour une corde que réfléchir posément devant un serpent. Mais cela signifie que **la réaction précède toujours le raisonnement**, et qu'aucune volonté ne peut inverser cet ordre.
 
-Conséquence pratique : reprocher à quelqu'un de « réagir avant de réfléchir » revient à lui reprocher son câblage. Ce qui se travaille, ce n'est pas la vitesse de la réaction, c'est ce qu'on en fait dans les secondes suivantes.
+Conséquence pratique : reprocher à quelqu'un de « réagir avant de réfléchir » revient à lui reprocher son câblage. Ce qui se travaille, ce n'est pas la vitesse de la réaction, c'est ce qu'on en fait dans les secondes suivantes. LeDoux a montré que l'information menaçante emprunte un trajet court vers l'amygdale avant tout passage par le cortex (source : LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
 
 ### 1.3 Le corps n'est pas un décor
 
@@ -54,7 +54,7 @@ Pour fixer les idées, voici la séquence, avec des ordres de grandeur.
 4. **Sentiment conscient.** L'expérience subjective, qui arrive après les trois premières étapes.
 5. **Interprétation.** On met un mot, on cherche une cause, on décide quoi faire.
 
-Deux erreurs classiques se logent dans ce déroulé. À l'étape 4, croire que le sentiment est la cause de ce qui s'est passé avant. À l'étape 5, croire que l'explication trouvée est la vraie : le cerveau produit des justifications plausibles avec une facilité déconcertante, et il les produit **après** coup.
+Deux erreurs classiques se logent dans ce déroulé. À l'étape 4, croire que le sentiment est la cause de ce qui s'est passé avant. À l'étape 5, croire que l'explication trouvée est la vraie : le cerveau produit des justifications plausibles avec une facilité déconcertante, et il les produit **après** coup. Ce déroulé en plusieurs temps reprend la structure du modèle de régulation émotionnelle de James Gross, qui distingue les étapes de génération d'une émotion (source : Gross, « The emerging field of emotion regulation: an integrative review », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

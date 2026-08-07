@@ -52,6 +52,31 @@ Sources du guide [Les émotions](<../1 - Guides/Les emotions/README.md>), class�
 | [Santé publique France — Suicide](https://www.santepubliquefrance.fr/maladies-et-traumatismes/suicide-et-tentative-de-suicide) | Surmortalité masculine par suicide | 10 |
 | [Décret du 20 mai 2010](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000022234475) | Réglementation du titre de psychothérapeute | 9 |
 
+## Corps, société et prise en charge
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Addis, M. & Mahalik, J. (2003), [Men, masculinity, and the contexts of help seeking](https://scholar.google.com/scholar?q=%22Men%2C+masculinity%2C+and+the+contexts+of+help+seeking%22), *American Psychologist* | Masculinité et recours à l'aide psychologique | 10.1, 10.2 |
+| Barrett, L. F. et coll. (2001), [Knowing what you're feeling and knowing what to do about it](https://scholar.google.com/scholar?q=%22Knowing+what+you%27re+feeling+and+knowing+what+to+do+about+it%22), *Cognition and Emotion* | Granularité émotionnelle | 3.1 |
+| Corrigan, P. (2004), [How stigma interferes with mental health care](https://scholar.google.com/scholar?q=%22How+stigma+interferes+with+mental+health+care%22), *American Psychologist* | Stigmatisation et recours aux soins psychiques | 8.5 |
+| Ekman, P. & Friesen, W. (1971), [Constants across cultures in the face and emotion](https://scholar.google.com/scholar?q=%22Constants+across+cultures+in+the+face+and+emotion%22), *Journal of Personality and Social Psychology* | Règles d'affichage émotionnel selon la culture | 2.1, 2.3 |
+| Frijda, N. (1986), [The Emotions](https://scholar.google.com/scholar?q=%22The+Emotions%22), *Cambridge University Press* | Émotions comme tendances à l'action | 4.1 |
+| Gottman, J., Katz, L. & Hooven, C. (1996), [Parental meta-emotion philosophy and the emotional life of families](https://scholar.google.com/scholar?q=%22Parental+meta-emotion+philosophy+and+the+emotional+life+of+families%22), *Journal of Family Psychology* | Philosophie méta-émotionnelle des parents | 2.2 |
+| Greenberg, L. & Paivio, S. (1997), [Working with Emotions in Psychotherapy](https://scholar.google.com/scholar?q=%22Working+with+Emotions+in+Psychotherapy%22), *Guilford Press* | Émotions primaires et secondaires en thérapie centrée sur l'émotion | 3.6 |
+| Gross, J. (1998), [The emerging field of emotion regulation: an integrative review](https://scholar.google.com/scholar?q=%22The+emerging+field+of+emotion+regulation%3A+an+integrative+review%22), *Review of General Psychology* | Modèle de régulation émotionnelle en cinq points | 1.5, 5.2 |
+| Hage, M. & Azar, S. (2012), [The Link between Thyroid Function and Depression](https://scholar.google.com/scholar?q=%22The+Link+between+Thyroid+Function+and+Depression%22), *Journal of Thyroid Research* | Thyroïde et troubles de l'humeur | 7.1, 7.2 |
+| Hirschfeld, R. (2003), [Perceptions and impact of bipolar disorder](https://scholar.google.com/scholar?q=%22Perceptions+and+impact+of+bipolar+disorder%22), *Journal of Clinical Psychiatry* | Retard diagnostique du trouble bipolaire | 8.4 |
+| Hoffmann, D. & Tarzian, A. (2001), [The girl who cried pain: a bias against women in the treatment of pain](https://scholar.google.com/scholar?q=%22The+girl+who+cried+pain%3A+a+bias+against+women+in+the+treatment+of+pain%22), *Journal of Law, Medicine & Ethics* | Biais de genre dans le traitement de la douleur | 7.5, 10.3 |
+| Hofmann, S. et coll. (2010), [The Effect of Mindfulness-Based Therapy on Anxiety and Depression](https://scholar.google.com/scholar?q=%22The+Effect+of+Mindfulness-Based+Therapy+on+Anxiety+and+Depression%22), *Journal of Consulting and Clinical Psychology* | Méditation de pleine conscience, bénéfices modérés | 6.3 |
+| Horvath, A. & Symonds, B. (1991), [Relation between working alliance and outcome in psychotherapy: a meta-analysis](https://scholar.google.com/scholar?q=%22Relation+between+working+alliance+and+outcome+in+psychotherapy%3A+a+meta-analysis%22), *Journal of Counseling Psychology* | Alliance thérapeutique, meilleur prédicteur de résultat | 9.4 |
+| Kessler, R. et coll. (2003), [The epidemiology of major depressive disorder](https://scholar.google.com/scholar?q=%22The+epidemiology+of+major+depressive+disorder%22), *JAMA* | Épidémiologie de la dépression | 8.1, 8.2 |
+| Kessler, R. et coll. (2005), [Lifetime prevalence and age-of-onset distributions of DSM-IV disorders](https://scholar.google.com/scholar?q=%22Lifetime+prevalence+and+age-of-onset+distributions+of+DSM-IV+disorders%22), *Archives of General Psychiatry* | Prévalence des troubles anxieux | 8.3 |
+| Lebow, J. et coll. (2012), [Research on the treatment of couple distress](https://scholar.google.com/scholar?q=%22Research+on+the+treatment+of+couple+distress%22), *Journal of Marital and Family Therapy* | Traitements du couple en détresse | 9.5 |
+| Schuch, F. et coll. (2016), [Exercise as a treatment for depression: A meta-analysis](https://scholar.google.com/scholar?q=%22Exercise+as+a+treatment+for+depression%3A+A+meta-analysis%22), *Journal of Psychiatric Research* | Effet antidépresseur de l'activité physique | 6.2 |
+| Serretti, A. & Chiesa, A. (2009), [Treatment-emergent sexual dysfunction related to antidepressants](https://scholar.google.com/scholar?q=%22Treatment-emergent+sexual+dysfunction+related+to+antidepressants%22), *Journal of Clinical Psychopharmacology* | Effets sexuels des antidépresseurs | 7.3 |
+| Taylor, G., Bagby, R. & Parker, J. (1997), [Disorders of Affect Regulation](https://scholar.google.com/scholar?q=%22Disorders+of+Affect+Regulation%22), *Cambridge University Press* | Alexithymie, définition clinique | 2.5, 3.4 |
+| Verduyn, P. et coll. (2015), [Passive Facebook usage undermines affective well-being](https://scholar.google.com/scholar?q=%22Passive+Facebook+usage+undermines+affective+well-being%22), *Journal of Experimental Psychology: General* | Usage passif des réseaux sociaux et bien-être | 6.4 |
+
 ---
 
 Retour à l'[index des sources](<README.md>) · [Les émotions](<../1 - Guides/Les emotions/README.md>) · [Accueil](<../README.md>)

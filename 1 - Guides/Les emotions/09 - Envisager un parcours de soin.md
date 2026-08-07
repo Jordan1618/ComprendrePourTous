@@ -18,7 +18,7 @@ Quatre repères pratiques.
 
 Ça dure au-delà de deux à quatre semaines sans amélioration. Ça retentit sur le sommeil, le travail ou les relations. Vous répétez le même schéma d'une relation à l'autre. Vous avez déjà essayé seul, sérieusement, sans résultat.
 
-Un cinquième, moins avouable et pourtant très fréquent : votre entourage est épuisé de porter ça. Ce n'est pas une raison honteuse, c'est un signal fiable.
+Un cinquième, moins avouable et pourtant très fréquent : votre entourage est épuisé de porter ça. Ce n'est pas une raison honteuse, c'est un signal fiable. Une durée de deux à quatre semaines sans amélioration est un repère couramment retenu dans les recommandations de repérage en soins primaires (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
 
 ### 9.2 Qui fait quoi
 
@@ -32,7 +32,7 @@ Le point le plus utile de ce chapitre, parce que la confusion des titres fait pe
 
 **Psychanalyste, psychopraticien, coach, thérapeute.** Aucun de ces termes n'est protégé. N'importe qui peut les employer. Ce n'est pas dire que toutes ces personnes seraient incompétentes ; c'est dire que le titre seul ne garantit rien, et qu'il faut donc regarder la formation.
 
-**Le médecin généraliste** reste souvent la meilleure porte d'entrée : il écarte les causes organiques (chapitre 7), peut prescrire un premier traitement et orienter.
+**Le médecin généraliste** reste souvent la meilleure porte d'entrée : il écarte les causes organiques (chapitre 7), peut prescrire un premier traitement et orienter. Les titres de psychologue et de psychiatre sont protégés par la loi, à la différence de nombreuses appellations voisines (source : décret n° 2010-534 du 20 mai 2010 relatif au titre de psychothérapeute ; vérification du 7 août 2026).
 
 ### 9.3 Les dispositifs en France
 
@@ -42,7 +42,7 @@ Le point le plus utile de ce chapitre, parce que la confusion des titres fait pe
 
 **Les centres régionaux du psychotraumatisme** pour les suites d'événements traumatiques.
 
-**Les lignes d'écoute** : **3114** pour la prévention du suicide, **3919** pour les violences faites aux femmes, **0 800 235 236** (Fil Santé Jeunes).
+**Les lignes d'écoute** : **3114** pour la prévention du suicide, **3919** pour les violences faites aux femmes, **0 800 235 236** (Fil Santé Jeunes). Les conditions du dispositif Mon soutien psy sont fixées et régulièrement révisées par l'Assurance maladie (source : Assurance maladie, *Mon soutien psy* ; vérification du 7 août 2026).
 
 ### 9.4 Choisir, et savoir que ça ne va pas
 
@@ -50,7 +50,7 @@ Le meilleur prédicteur de résultat en psychothérapie, tous courants confondus
 
 Deux questions à poser au premier rendez-vous, et un praticien sérieux y répond sans se vexer : **quelle approche pratiquez-vous pour ce type de difficulté ?** et **sur quelle durée estimée travaille-t-on ?**
 
-Signes qui doivent faire partir : un praticien qui vous décourage d'en parler à vos proches, qui vous isole, qui exige un engagement financier long d'emblée, qui vous dit quoi faire de votre vie personnelle, ou qui refuse d'expliquer sa méthode.
+Signes qui doivent faire partir : un praticien qui vous décourage d'en parler à vos proches, qui vous isole, qui exige un engagement financier long d'emblée, qui vous dit quoi faire de votre vie personnelle, ou qui refuse d'expliquer sa méthode. L'alliance thérapeutique est le meilleur prédicteur de résultat identifié dans une méta-analyse portant sur de nombreuses études, tous courants confondus (source : Horvath & Symonds, « Relation between working alliance and outcome in psychotherapy: a meta-analysis », *Journal of Counseling Psychology*, 1991 ; vérification du 7 août 2026).
 
 ### 9.5 Seul ou à deux
 
@@ -62,7 +62,7 @@ Les deux ne traitent pas la même chose, et il est fréquent d'avoir besoin des 
 
 Le repère qui aide à choisir : si le même problème vous suivrait dans une autre relation, c'est de l'individuel. S'il n'existe que dans celle-ci, c'est du couple.
 
-Deux erreurs fréquentes. Attendre le dernier moment — la thérapie de couple engagée quand la décision de partir est prise sert surtout à se séparer moins mal, ce qui est utile mais différent. Et y aller pour faire réparer l'autre : un thérapeute de couple ne désigne pas un coupable, il travaille sur la dynamique, ce qui déçoit toujours celui qui venait chercher un arbitrage.
+Deux erreurs fréquentes. Attendre le dernier moment — la thérapie de couple engagée quand la décision de partir est prise sert surtout à se séparer moins mal, ce qui est utile mais différent. Et y aller pour faire réparer l'autre : un thérapeute de couple ne désigne pas un coupable, il travaille sur la dynamique, ce qui déçoit toujours celui qui venait chercher un arbitrage. La distinction entre indication individuelle et indication de couple est développée dans une revue de synthèse sur les traitements du couple en détresse (source : Lebow et coll., « Research on the treatment of couple distress », *Journal of Marital and Family Therapy*, 2012 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

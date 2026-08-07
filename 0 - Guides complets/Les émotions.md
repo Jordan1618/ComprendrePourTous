@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Les émotions"
 sujet: "commun"
 chapitres: 11
-mots: 9598
+mots: 12179
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Les emotions"
@@ -52,7 +52,7 @@ Un thermostat ne chauffe pas. Il détecte, compare à une consigne, et déclench
 
 Une émotion fonctionne dans cet ordre-là, et c'est contre-intuitif. Ce n'est pas d'abord un sentiment qui se traduirait ensuite dans le corps. C'est une **évaluation rapide d'une situation**, qui déclenche des changements corporels, et le sentiment conscient arrive en dernier — parfois avec plusieurs secondes de retard.
 
-Cela explique une expérience que tout le monde a vécue sans la comprendre : se rendre compte qu'on est en colère **après** avoir haussé le ton. Le corps était parti avant que la conscience ait été informée.
+Cela explique une expérience que tout le monde a vécue sans la comprendre : se rendre compte qu'on est en colère **après** avoir haussé le ton. Le corps était parti avant que la conscience ait été informée. Ce décalage entre réaction et prise de conscience est cohérent avec les deux voies de traitement de la menace décrites par Joseph LeDoux (source : LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
 
 ### 1.2 Les deux voies de l'alerte
 
@@ -60,7 +60,7 @@ Joseph LeDoux a décrit deux trajets pour une information menaçante. Un trajet 
 
 L'alerte part donc avant l'analyse. C'est adapté — face à une forme allongée au sol, mieux vaut sursauter pour une corde que réfléchir posément devant un serpent. Mais cela signifie que **la réaction précède toujours le raisonnement**, et qu'aucune volonté ne peut inverser cet ordre.
 
-Conséquence pratique : reprocher à quelqu'un de « réagir avant de réfléchir » revient à lui reprocher son câblage. Ce qui se travaille, ce n'est pas la vitesse de la réaction, c'est ce qu'on en fait dans les secondes suivantes.
+Conséquence pratique : reprocher à quelqu'un de « réagir avant de réfléchir » revient à lui reprocher son câblage. Ce qui se travaille, ce n'est pas la vitesse de la réaction, c'est ce qu'on en fait dans les secondes suivantes. LeDoux a montré que l'information menaçante emprunte un trajet court vers l'amygdale avant tout passage par le cortex (source : LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
 
 ### 1.3 Le corps n'est pas un décor
 
@@ -90,7 +90,7 @@ Pour fixer les idées, voici la séquence, avec des ordres de grandeur.
 4. **Sentiment conscient.** L'expérience subjective, qui arrive après les trois premières étapes.
 5. **Interprétation.** On met un mot, on cherche une cause, on décide quoi faire.
 
-Deux erreurs classiques se logent dans ce déroulé. À l'étape 4, croire que le sentiment est la cause de ce qui s'est passé avant. À l'étape 5, croire que l'explication trouvée est la vraie : le cerveau produit des justifications plausibles avec une facilité déconcertante, et il les produit **après** coup.
+Deux erreurs classiques se logent dans ce déroulé. À l'étape 4, croire que le sentiment est la cause de ce qui s'est passé avant. À l'étape 5, croire que l'explication trouvée est la vraie : le cerveau produit des justifications plausibles avec une facilité déconcertante, et il les produit **après** coup. Ce déroulé en plusieurs temps reprend la structure du modèle de régulation émotionnelle de James Gross, qui distingue les étapes de génération d'une émotion (source : Gross, « The emerging field of emotion regulation: an integrative review », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -115,7 +115,7 @@ Personne ne choisit son accent. On l'acquiert par exposition, très tôt, et on 
 
 La vie émotionnelle s'apprend de la même façon. Avant de savoir parler, vous avez appris quelles émotions ont le droit d'exister, lesquelles se manifestent, lesquelles se paient. Cet apprentissage est devenu votre accent émotionnel. Vous ne l'entendez pas : vous croyez simplement que c'est ainsi que les gens fonctionnent.
 
-Ce chapitre remonte les trois sources de cet apprentissage, de la plus intime à la plus abstraite.
+Ce chapitre remonte les trois sources de cet apprentissage, de la plus intime à la plus abstraite. Les règles d'affichage émotionnel, propres à chaque culture, ont été formalisées par Paul Ekman et Wallace Friesen (source : Ekman & Friesen, « Constants across cultures in the face and emotion », *Journal of Personality and Social Psychology*, 1971 ; vérification du 7 août 2026).
 
 ### 2.2 La famille : ce qui s'apprend sans être enseigné
 
@@ -125,7 +125,7 @@ Trois mécanismes, tous documentés en psychologie du développement.
 
 **La validation ou l'invalidation.** C'est le mécanisme le plus lourd de conséquences. Un enfant qui dit avoir peur et qui s'entend répondre « mais non, il n'y a pas de raison » apprend quelque chose de précis : **ce que je ressens n'est pas fiable**. Répété, cela produit une difficulté durable à identifier ses propres états — ce qui rejoint l'[alexithymie](<../2 - Notions/Alexithymie.md>). Le contraire de l'invalidation n'est pas l'approbation : c'est l'accueil. « Tu as peur » n'engage pas à trouver la peur justifiée.
 
-**La parentification.** Un enfant qui doit gérer l'état émotionnel d'un adulte — consoler un parent, désamorcer les conflits, surveiller les humeurs — développe une hypervigilance aux émotions d'autrui et une méconnaissance des siennes. C'est fréquent, rarement identifié, et cela produit à l'âge adulte des personnes très compétentes pour les autres et démunies pour elles-mêmes.
+**La parentification.** Un enfant qui doit gérer l'état émotionnel d'un adulte — consoler un parent, désamorcer les conflits, surveiller les humeurs — développe une hypervigilance aux émotions d'autrui et une méconnaissance des siennes. C'est fréquent, rarement identifié, et cela produit à l'âge adulte des personnes très compétentes pour les autres et démunies pour elles-mêmes. John Gottman a montré que la façon dont les parents accueillent les émotions de leurs enfants — leur « philosophie méta-émotionnelle » — prédit la régulation émotionnelle ultérieure de l'enfant (source : Gottman, Katz & Hooven, « Parental meta-emotion philosophy and the emotional life of families », *Journal of Family Psychology*, 1996 ; vérification du 7 août 2026).
 
 ### 2.3 La société : les règles d'affichage
 
@@ -135,7 +135,7 @@ Ces règles sont fortement **genrées**, et c'est l'un des points les mieux docu
 
 Le résultat est un **rétrécissement du répertoire**. Beaucoup d'hommes disposent d'une seule sortie socialement praticable pour un grand nombre d'états — la colère —, si bien que la tristesse, la honte, l'inquiétude et l'épuisement s'expriment toutes sous cette forme. Ce mécanisme est développé dans [Pour Lui](<../1 - Guides/Pour Lui/README.md>).
 
-Symétriquement, beaucoup de femmes rapportent une difficulté à laisser exister leur colère, alors qu'elle est souvent l'émotion la plus juste et la plus informative de la situation.
+Symétriquement, beaucoup de femmes rapportent une difficulté à laisser exister leur colère, alors qu'elle est souvent l'émotion la plus juste et la plus informative de la situation. Le concept de règles d'affichage, spécifiques à chaque culture et à chaque groupe social, vient des travaux fondateurs d'Ekman et Friesen (source : Ekman & Friesen, « Constants across cultures in the face and emotion », *Journal of Personality and Social Psychology*, 1971 ; vérification du 7 août 2026).
 
 ### 2.4 Les institutions : école, travail, médecine
 
@@ -157,7 +157,7 @@ Trois profils reviennent, décrits par leur mécanisme plutôt que par une étiq
 
 **L'inversion.** L'émotion sort sous une forme socialement autorisée plutôt que sous la sienne : la tristesse en colère, la peur en contrôle, la honte en agressivité.
 
-Aucun de ces profils n'est un défaut de caractère. Ce sont des **stratégies apprises**, qui ont eu leur utilité, et qui se déplacent — plus lentement qu'on ne le voudrait, mais réellement.
+Aucun de ces profils n'est un défaut de caractère. Ce sont des **stratégies apprises**, qui ont eu leur utilité, et qui se déplacent — plus lentement qu'on ne le voudrait, mais réellement. Ces profils rejoignent la définition clinique de l'alexithymie comme difficulté acquise à identifier et décrire ses états internes (source : Taylor, Bagby & Parker, *Disorders of Affect Regulation*, Cambridge University Press, 1997 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -182,7 +182,7 @@ Un peintre en bâtiment distingue trente blancs. Pour tout le monde, c'est du bl
 
 La **granularité émotionnelle** est exactement cela : la finesse avec laquelle une personne distingue ses états internes. À un extrême, deux catégories, « ça va » et « ça va pas ». À l'autre, la capacité à séparer l'agacement de l'humiliation, la déception de la tristesse, l'appréhension de la peur.
 
-Ce n'est pas un raffinement de langage. C'est un facteur associé à une meilleure régulation.
+Ce n'est pas un raffinement de langage. C'est un facteur associé à une meilleure régulation. La granularité émotionnelle désigne la finesse avec laquelle une personne distingue ses états internes, un concept développé par Lisa Feldman Barrett et ses collègues (source : Barrett, Gross, Christensen & Benvenuto, « Knowing what you're feeling and knowing what to do about it », *Cognition and Emotion*, 2001 ; vérification du 7 août 2026).
 
 ### 3.2 Ce que la finesse change réellement
 
@@ -208,7 +208,7 @@ Certaines personnes ne manquent pas de vocabulaire par négligence : elles ont u
 
 Ce n'est ni une maladie ni une absence d'émotions — les réponses physiologiques sont bien présentes, parfois même plus fortes. C'est un défaut d'accès à l'information. Les personnes concernées décrivent souvent des sensations corporelles (« j'ai le ventre noué ») là où d'autres nommeraient un état.
 
-C'est fréquent, plus souvent rapporté chez les hommes, et corrélé aux règles d'affichage décrites au chapitre 2. C'est aussi travaillable, et l'entrée par le corps est ici la plus efficace.
+C'est fréquent, plus souvent rapporté chez les hommes, et corrélé aux règles d'affichage décrites au chapitre 2. C'est aussi travaillable, et l'entrée par le corps est ici la plus efficace. L'alexithymie est définie et mesurée dans la littérature clinique comme une difficulté à identifier et décrire ses émotions, distincte d'une absence de vie affective (source : Taylor, Bagby & Parker, *Disorders of Affect Regulation*, Cambridge University Press, 1997 ; vérification du 7 août 2026).
 
 ### 3.5 La méthode, en trois étapes
 
@@ -220,7 +220,7 @@ Concrète, testable, et qui ne demande aucun matériel.
 
 **Étape 3 — la nuance.** À l'intérieur de la famille, chercher le mot le plus juste. Pour la colère : agacement, irritation, exaspération, indignation, rage, ressentiment, amertume. Pour la peur : appréhension, inquiétude, angoisse, panique, terreur, insécurité. Pour la tristesse : mélancolie, déception, chagrin, découragement, nostalgie, abattement. Pour la honte : gêne, embarras, humiliation, culpabilité, remords.
 
-Une remarque sur les « roues des émotions » qui circulent partout. Elles sont utiles comme aide-mémoire pour cette troisième étape. Elles n'ont pas la valeur scientifique qu'on leur prête souvent : ce sont des propositions de classement, pas des cartographies validées. Utilisez-les comme un dictionnaire, pas comme un diagnostic.
+Une remarque sur les « roues des émotions » qui circulent partout. Elles sont utiles comme aide-mémoire pour cette troisième étape. Elles n'ont pas la valeur scientifique qu'on leur prête souvent : ce sont des propositions de classement, pas des cartographies validées. Utilisez-les comme un dictionnaire, pas comme un diagnostic. Le fait de nommer une émotion réduit l'activité de l'amygdale et augmente celle du cortex préfrontal, un effet mesuré en imagerie cérébrale (source : Lieberman et coll., « Putting feelings into words », *Psychological Science*, 2007 ; vérification du 7 août 2026).
 
 ### 3.6 Distinguer l'émotion primaire de l'émotion secondaire
 
@@ -228,7 +228,7 @@ Distinction très utile en pratique clinique. L'émotion **primaire** est la pre
 
 Exemple typique : quelqu'un se sent blessé (primaire), puis se sent en colère d'avoir été blessé (secondaire). C'est la colère qui se voit et qui s'exprime ; c'est la blessure qui devrait être traitée. Tant que la conversation porte sur la colère, elle tourne en rond.
 
-Le repère qui aide : **l'émotion secondaire est souvent celle qui est autorisée**, la primaire celle qui ne l'est pas. Chez beaucoup d'hommes, la colère recouvre la tristesse ou la honte. Chez beaucoup de femmes, la tristesse ou la culpabilité recouvrent la colère.
+Le repère qui aide : **l'émotion secondaire est souvent celle qui est autorisée**, la primaire celle qui ne l'est pas. Chez beaucoup d'hommes, la colère recouvre la tristesse ou la honte. Chez beaucoup de femmes, la tristesse ou la culpabilité recouvrent la colère. Cette distinction entre émotion primaire et émotion secondaire est centrale dans les thérapies centrées sur l'émotion (source : Greenberg & Paivio, *Working with Emotions in Psychotherapy*, Guilford Press, 1997 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -249,7 +249,7 @@ La question la plus utile n'est pas « qu'est-ce que tu ressens » — trop ouve
 
 Un voyant qui s'allume n'est pas une panne : c'est une information sur une panne. On ne répare pas une voiture en dévissant l'ampoule, et pourtant c'est exactement ce que produit la plupart des stratégies de gestion des émotions — faire taire le voyant.
 
-Chaque émotion signale un **besoin** ou une **violation**. Décoder consiste à passer du voyant à l'information, puis de l'information à l'action.
+Chaque émotion signale un **besoin** ou une **violation**. Décoder consiste à passer du voyant à l'information, puis de l'information à l'action. Nico Frijda a décrit les émotions comme des tendances à l'action, c'est-à-dire des signaux orientés vers un comportement plutôt que de simples états ressentis (source : Frijda, *The Emotions*, Cambridge University Press, 1986 ; vérification du 7 août 2026).
 
 ### 4.2 Le tableau des six familles
 
@@ -269,7 +269,7 @@ Deux distinctions valent le détour, parce qu'elles évitent des années d'erreu
 
 **Honte et culpabilité.** La culpabilité dit « j'ai fait quelque chose de mal », la honte dit « je suis mauvais ». La première appelle une réparation et se résout. La seconde n'appelle rien de faisable, et pousse à se cacher, ce qui l'aggrave. Les travaux de Brené Brown insistent sur ce point : la honte se dissout dans le fait d'être vu et accueilli, elle se nourrit du secret.
 
-**Peur et anxiété.** La peur a un objet identifiable et présent. L'anxiété est diffuse et tournée vers un futur possible. La première se traite en agissant sur l'objet ; la seconde résiste précisément parce qu'il n'y a rien sur quoi agir.
+**Peur et anxiété.** La peur a un objet identifiable et présent. L'anxiété est diffuse et tournée vers un futur possible. La première se traite en agissant sur l'objet ; la seconde résiste précisément parce qu'il n'y a rien sur quoi agir. Ce découpage en familles reprend la classification des émotions dites de base proposée par Paul Ekman (source : Ekman, « An argument for basic emotions », *Cognition and Emotion*, 1992 ; vérification du 7 août 2026).
 
 ### 4.3 La méthode en quatre questions
 
@@ -280,7 +280,7 @@ Applicable à n'importe quelle émotion, dans l'ordre.
 3. **Qu'est-ce qui s'est passé juste avant ?** — la chronologie, pas la justification. Le déclencheur est souvent minuscule et sans rapport apparent.
 4. **Qu'est-ce que ça demande ?** — le besoin, puis une action concrète et petite.
 
-La quatrième question est celle qu'on saute presque toujours, et c'est celle qui transforme l'exercice en autre chose que de l'introspection.
+La quatrième question est celle qu'on saute presque toujours, et c'est celle qui transforme l'exercice en autre chose que de l'introspection. Cette méthode reprend le principe de la granularité émotionnelle : nommer précisément un état pour en déduire une action plutôt qu'une impression diffuse (source : Barrett, *How Emotions Are Made*, Houghton Mifflin Harcourt, 2017 ; vérification du 7 août 2026).
 
 ### 4.4 Les fausses pistes fréquentes
 
@@ -290,7 +290,7 @@ La quatrième question est celle qu'on saute presque toujours, et c'est celle qu
 
 **Chercher une cause unique.** Beaucoup d'états sont des empilements : mal dormi, contrarié au travail, plus une phrase de trop. Chercher LA cause conduit à surinterpréter la dernière.
 
-**Attribuer à l'autre ce qui vient de soi.** « Tu m'as mis en colère » décrit rarement le mécanisme. « J'ai réagi fort quand tu as dit ça » décrit ce qui s'est passé, et permet la suite.
+**Attribuer à l'autre ce qui vient de soi.** « Tu m'as mis en colère » décrit rarement le mécanisme. « J'ai réagi fort quand tu as dit ça » décrit ce qui s'est passé, et permet la suite. Chercher activement l'information qui contredit une première impression est le correctif documenté du biais de confirmation (source : Nickerson, « Confirmation bias: a ubiquitous phenomenon in many guises », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -327,7 +327,7 @@ Du plus précoce au plus tardif — et l'ordre correspond assez bien à l'effica
 
 **4. Changer l'évaluation.** C'est la **réévaluation cognitive** : modifier le sens donné à la situation. « Il ne répond pas parce qu'il me méprise » devient « il ne répond pas, je ne sais pas pourquoi ». C'est la stratégie la mieux documentée en efficacité, associée à moins de symptômes dépressifs et à une meilleure satisfaction relationnelle.
 
-**5. Moduler la réponse.** Agir une fois l'émotion là : respiration, activité physique, et — cas particulier — la **suppression expressive**, c'est-à-dire ne rien montrer.
+**5. Moduler la réponse.** Agir une fois l'émotion là : respiration, activité physique, et — cas particulier — la **suppression expressive**, c'est-à-dire ne rien montrer. Ces cinq points d'intervention constituent le modèle de régulation émotionnelle de James Gross, organisé selon le moment où chaque stratégie agit dans la séquence émotionnelle (source : Gross, « The emerging field of emotion regulation: an integrative review », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
 
 ### 5.3 Le point le plus important : la suppression ne marche pas
 
@@ -335,7 +335,7 @@ C'est le résultat le plus solide et le plus contre-intuitif du champ, et il con
 
 Ne rien montrer ne réduit pas l'émotion. Cela réduit son **expression** — tout en maintenant, voire en augmentant, l'activation physiologique. Les travaux de Gross et de son équipe documentent en outre trois coûts : une charge cognitive accrue (on se souvient moins bien de ce qui s'est dit), une moindre satisfaction relationnelle, et une distance ressentie par l'interlocuteur, qui perçoit quelque chose sans savoir quoi.
 
-Autrement dit : **serrer les dents fonctionne pour l'apparence et échoue pour tout le reste**. Cela ne signifie pas qu'il faille tout exprimer partout — le point 1 existe pour ça. Cela signifie que la suppression ne doit pas être la stratégie par défaut.
+Autrement dit : **serrer les dents fonctionne pour l'apparence et échoue pour tout le reste**. Cela ne signifie pas qu'il faille tout exprimer partout — le point 1 existe pour ça. Cela signifie que la suppression ne doit pas être la stratégie par défaut. La suppression expressive maintient l'activation physiologique tout en dégradant la mémoire et la qualité perçue de l'échange, un résultat répliqué expérimentalement (source : Gross & Levenson, « Emotional suppression: physiology, self-report, and expressive behavior », *Journal of Personality and Social Psychology*, 1993 ; vérification du 7 août 2026).
 
 ### 5.4 Les autres fausses bonnes idées
 
@@ -343,7 +343,7 @@ Autrement dit : **serrer les dents fonctionne pour l'apparence et échoue pour t
 
 **La rumination.** Repasser mentalement une scène en boucle donne l'impression de traiter le problème. Susan Nolen-Hoeksema a documenté son rôle dans l'installation et la prolongation des épisodes dépressifs. La distinction utile est celle entre **réflexion** — qui avance, qui cherche une action — et **rumination** — qui tourne, qui cherche une cause. La première a une fin, la seconde non.
 
-**« Penser positif ».** Se forcer à voir le bon côté relève de la suppression déguisée. La réévaluation cognitive ne consiste pas à se raconter que tout va bien : elle consiste à envisager une interprétation **plus juste**, pas plus agréable.
+**« Penser positif ».** Se forcer à voir le bon côté relève de la suppression déguisée. La réévaluation cognitive ne consiste pas à se raconter que tout va bien : elle consiste à envisager une interprétation **plus juste**, pas plus agréable. Ni la catharsis par décharge physique ni la rumination ne réduisent l'intensité d'une émotion négative dans la durée (source : Bushman, « Does venting anger feed or extinguish the flame? », *Personality and Social Psychology Bulletin*, 2002 ; Nolen-Hoeksema, « Responses to depression and their effects on the duration of depressive episodes », *Journal of Abnormal Psychology*, 1991 ; vérification du 7 août 2026).
 
 ### 5.5 Ce qui fonctionne, en pratique
 
@@ -359,7 +359,7 @@ Par ordre d'appui empirique.
 
 **Écrire.** Le protocole de James Pennebaker — écrire vingt minutes par jour pendant trois à quatre jours sur un événement difficile, sans souci de forme — est associé à des bénéfices sur la santé et le bien-être dans de nombreuses études, avec des effets réels quoique modestes.
 
-**Dormir.** La privation de sommeil augmente la réactivité émotionnelle de façon mesurable. Beaucoup de « problèmes émotionnels » sont d'abord des dettes de sommeil.
+**Dormir.** La privation de sommeil augmente la réactivité émotionnelle de façon mesurable. Beaucoup de « problèmes émotionnels » sont d'abord des dettes de sommeil. L'écriture expressive sur un événement difficile, répétée sur plusieurs jours, est associée à des bénéfices mesurables sur la santé (source : Pennebaker, « Writing about emotional experiences as a therapeutic process », *Psychological Science*, 1997 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -382,7 +382,7 @@ D'où l'utilité d'un signal convenu par avance : **« j'ai besoin de vingt minu
 
 Une technique de régulation appliquée sur un organisme en dette de sommeil, sédentaire et isolé fonctionne mal. Ce n'est pas une question de volonté : la réactivité émotionnelle dépend d'un état physiologique, et cet état se construit sur des semaines.
 
-Ce chapitre liste ce qui a le meilleur rapport effet/effort. Rien n'y est spectaculaire — c'est précisément pour cela qu'on le néglige.
+Ce chapitre liste ce qui a le meilleur rapport effet/effort. Rien n'y est spectaculaire — c'est précisément pour cela qu'on le néglige. Le manque de sommeil augmente la réactivité de l'amygdale et dégrade la régulation exercée par le cortex préfrontal (source : Goldstein & Walker, « The role of sleep in emotional brain function », *Annual Review of Clinical Psychology*, 2014 ; vérification du 7 août 2026).
 
 ### 6.2 Les quatre fondations
 
@@ -392,7 +392,7 @@ Ce chapitre liste ce qui a le meilleur rapport effet/effort. Rien n'y est specta
 
 **L'alcool.** Il apaise sur le moment et dégrade la régulation ensuite, en perturbant le sommeil et en augmentant l'anxiété du lendemain. Un usage régulier pour gérer une tension installe une boucle : la tension augmente, la consommation aussi.
 
-**Le lien social.** Les données sur l'isolement sont parmi les plus solides de la santé publique : il est associé à une surmortalité et à une dégradation de la santé mentale, avec des effets comparables à ceux de facteurs de risque classiques. Ce n'est pas un supplément d'âme, c'est un facteur de santé. Voir [Pour Lui](<../1 - Guides/Pour Lui/README.md>) sur le désert relationnel masculin.
+**Le lien social.** Les données sur l'isolement sont parmi les plus solides de la santé publique : il est associé à une surmortalité et à une dégradation de la santé mentale, avec des effets comparables à ceux de facteurs de risque classiques. Ce n'est pas un supplément d'âme, c'est un facteur de santé. Voir [Pour Lui](<../1 - Guides/Pour Lui/README.md>) sur le désert relationnel masculin. L'activité physique a un effet antidépresseur et anxiolytique documenté par une méta-analyse portant sur de nombreux essais contrôlés (source : Schuch et coll., « Exercise as a treatment for depression: A meta-analysis », *Journal of Psychiatric Research*, 2016 ; vérification du 7 août 2026).
 
 ### 6.3 Trois pratiques qui tiennent
 
@@ -402,7 +402,7 @@ Ce chapitre liste ce qui a le meilleur rapport effet/effort. Rien n'y est specta
 
 **L'attention à ce qui va bien.** Noter ce qui a été correct dans la journée contrebalance un biais réel : le cerveau retient mieux le négatif. Ce n'est pas de la pensée positive, c'est un rééquilibrage de l'échantillonnage.
 
-Une remarque honnête sur la **méditation de pleine conscience** : elle est associée à des bénéfices modérés sur l'anxiété, la dépression et la douleur dans les méta-analyses, avec une qualité d'études très inégale et un effet nettement moindre que ce que la promotion commerciale suggère. Ce n'est ni une panacée ni du vent. À noter aussi, rarement dit : elle peut aggraver l'état de certaines personnes, notamment en présence d'un trauma non traité, ce qui justifie un encadrement plutôt qu'une application en solitaire.
+Une remarque honnête sur la **méditation de pleine conscience** : elle est associée à des bénéfices modérés sur l'anxiété, la dépression et la douleur dans les méta-analyses, avec une qualité d'études très inégale et un effet nettement moindre que ce que la promotion commerciale suggère. Ce n'est ni une panacée ni du vent. À noter aussi, rarement dit : elle peut aggraver l'état de certaines personnes, notamment en présence d'un trauma non traité, ce qui justifie un encadrement plutôt qu'une application en solitaire. Une méta-analyse sur la méditation de pleine conscience montre des bénéfices modérés sur l'anxiété et la dépression (source : Hofmann et coll., « The Effect of Mindfulness-Based Therapy on Anxiety and Depression: A Meta-Analytic Review », *Journal of Consulting and Clinical Psychology*, 2010 ; vérification du 7 août 2026).
 
 ### 6.4 Ce qu'il vaut mieux ne pas faire
 
@@ -412,7 +412,7 @@ Une remarque honnête sur la **méditation de pleine conscience** : elle est ass
 
 **Chercher une explication profonde à un état qui a une cause simple.** Fatigue, faim, douleur, effet indésirable d'un médicament : à écarter avant d'aller chercher l'enfance.
 
-**Tout attendre d'une seule personne.** Un conjoint ne peut pas être simultanément partenaire, meilleur ami, confident thérapeutique et unique source de soutien. Voir [L'amour](<../1 - Guides/L amour/README.md>), chapitre 5.
+**Tout attendre d'une seule personne.** Un conjoint ne peut pas être simultanément partenaire, meilleur ami, confident thérapeutique et unique source de soutien. Voir [L'amour](<../1 - Guides/L amour/README.md>), chapitre 5. L'usage passif des réseaux sociaux dégrade le bien-être affectif, alors que l'usage actif — interagir, échanger — ne produit pas cet effet (source : Verduyn et coll., « Passive Facebook usage undermines affective well-being », *Journal of Experimental Psychology: General*, 2015 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -437,7 +437,7 @@ Parce que l'ordre compte. Un état durable de fatigue, d'irritabilité ou de tri
 
 L'inverse est vrai aussi : tout attribuer au corps quand la cause est ailleurs fait perdre autant de temps. L'objectif de ce chapitre est simplement de **ne pas sauter l'étape**.
 
-Ce chapitre ne permet pas de se diagnostiquer. Il permet de savoir quoi demander à un médecin, ce qui est très différent — et beaucoup plus utile.
+Ce chapitre ne permet pas de se diagnostiquer. Il permet de savoir quoi demander à un médecin, ce qui est très différent — et beaucoup plus utile. Les troubles thyroïdiens produisent un tableau clinique qui recoupe largement celui d'un trouble de l'humeur, ce qui justifie de les écarter en premier (source : Hage & Azar, « The Link between Thyroid Function and Depression », *Journal of Thyroid Research*, 2012 ; vérification du 7 août 2026).
 
 ### 7.2 Les causes organiques les plus fréquentes
 
@@ -451,7 +451,7 @@ Ce chapitre ne permet pas de se diagnostiquer. Il permet de savoir quoi demander
 
 **La douleur chronique.** Elle dégrade l'humeur de façon directe, et l'inverse est vrai également : les deux s'entretiennent.
 
-**Les hormones.** Périménopause, post-partum, troubles du cycle, andropause : ces transitions ont un effet documenté sur l'humeur. Traitées dans [Pour Elle](<../1 - Guides/Pour Elle/README.md>) et [Pour Lui](<../1 - Guides/Pour Lui/README.md>).
+**Les hormones.** Périménopause, post-partum, troubles du cycle, andropause : ces transitions ont un effet documenté sur l'humeur. Traitées dans [Pour Elle](<../1 - Guides/Pour Elle/README.md>) et [Pour Lui](<../1 - Guides/Pour Lui/README.md>). L'hypothyroïdie et l'hyperthyroïdie sont toutes deux associées à des symptômes thymiques significatifs, réversibles avec le traitement de la cause (source : Hage & Azar, « The Link between Thyroid Function and Depression », *Journal of Thyroid Research*, 2012 ; vérification du 7 août 2026).
 
 ### 7.3 Les médicaments et substances
 
@@ -461,7 +461,7 @@ Certains traitements ont des effets documentés sur l'humeur : corticoïdes, iso
 
 L'alcool et le cannabis méritent une mention particulière : tous deux apaisent à court terme et dégradent la régulation à moyen terme. Le sevrage de l'un comme de l'autre s'accompagne d'anxiété et d'irritabilité, ce qui donne l'impression que la substance « aidait » alors qu'elle entretenait le problème.
 
-**Point de sécurité : ne jamais arrêter brutalement un psychotrope.** L'arrêt se planifie avec le prescripteur.
+**Point de sécurité : ne jamais arrêter brutalement un psychotrope.** L'arrêt se planifie avec le prescripteur. Les antidépresseurs sérotoninergiques ont un effet documenté et fréquent sur la fonction sexuelle, souvent non anticipé par les patients (source : Serretti & Chiesa, « Treatment-emergent sexual dysfunction related to antidepressants », *Journal of Clinical Psychopharmacology*, 2009 ; vérification du 7 août 2026).
 
 ### 7.4 Ce qu'il est raisonnable de demander
 
@@ -473,13 +473,13 @@ Deux formulations qui fonctionnent en consultation, parce qu'elles sont précise
 
 **« Est-ce qu'un des médicaments que je prends peut expliquer ça ? »**
 
-Si vous avez le sentiment que votre plainte n'est pas prise au sérieux, sachez que le phénomène est documenté, particulièrement chez les femmes, pour qui des symptômes physiques sont plus souvent attribués d'emblée à l'anxiété. Demander qu'un examen précis soit fait ou explicitement écarté est une demande recevable, et il est légitime de solliciter un second avis.
+Si vous avez le sentiment que votre plainte n'est pas prise au sérieux, sachez que le phénomène est documenté, particulièrement chez les femmes, pour qui des symptômes physiques sont plus souvent attribués d'emblée à l'anxiété. Demander qu'un examen précis soit fait ou explicitement écarté est une demande recevable, et il est légitime de solliciter un second avis. Demander explicitement qu'une cause organique soit recherchée ou écartée est cohérent avec les recommandations de bonne pratique en médecine générale (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
 
 ### 7.5 Ce que ce chapitre ne dit pas
 
 Il ne dit pas que les émotions difficiles seraient « en réalité » physiques. La plupart ne le sont pas.
 
-Il dit qu'une cause organique se cherche **au début**, parce qu'elle est facile à écarter et coûteuse à manquer. Un bilan sanguin normal est en soi une information utile : il permet de travailler ailleurs sans arrière-pensée.
+Il dit qu'une cause organique se cherche **au début**, parce qu'elle est facile à écarter et coûteuse à manquer. Un bilan sanguin normal est en soi une information utile : il permet de travailler ailleurs sans arrière-pensée. Le fait qu'une plainte physique soit attribuée trop vite à l'anxiété, en particulier chez les femmes, est documenté dans un article devenu une référence sur le biais de genre en médecine de la douleur (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -506,7 +506,7 @@ Il sert à autre chose, de plus modeste et de plus utile : **savoir où passe la
 
 **Le retentissement.** Est-ce que ça empêche de travailler, de dormir, de voir les gens, de s'occuper de soi ?
 
-**L'écart avec l'état habituel.** Ce n'est pas une norme extérieure qui compte, c'est le changement par rapport à votre fonctionnement ordinaire.
+**L'écart avec l'état habituel.** Ce n'est pas une norme extérieure qui compte, c'est le changement par rapport à votre fonctionnement ordinaire. Ces trois critères — durée, retentissement, écart avec l'état habituel — recoupent les critères diagnostiques employés dans les classifications cliniques (source : Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
 
 ### 8.2 La dépression
 
@@ -516,7 +516,7 @@ Signes fréquents : fatigue permanente non améliorée par le repos, troubles du
 
 Chez les hommes, la présentation est souvent différente et retarde le repérage : irritabilité, colère, prise de risque, augmentation de la consommation d'alcool, surinvestissement dans le travail. Ce point est développé dans [Pour Lui](<../1 - Guides/Pour Lui/README.md>). Le retentissement est majeur : les hommes consultent moins et meurent plus par suicide.
 
-**Signal d'alerte, pas disclaimer** : des idées suicidaires, même vagues, justifient d'appeler le **3114** — prévention du suicide, gratuit, 24 h/24, accessible aussi bien à la personne concernée qu'à un proche inquiet.
+**Signal d'alerte, pas disclaimer** : des idées suicidaires, même vagues, justifient d'appeler le **3114** — prévention du suicide, gratuit, 24 h/24, accessible aussi bien à la personne concernée qu'à un proche inquiet. L'anhédonie, plus que la tristesse, est le marqueur central retenu dans les grandes enquêtes épidémiologiques sur la dépression (source : Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
 
 ### 8.3 Les troubles anxieux
 
@@ -526,7 +526,7 @@ Chez les hommes, la présentation est souvent différente et retarde le repérag
 
 **L'anxiété sociale** : peur du jugement dans les situations d'interaction, avec évitement. Fréquemment confondue avec de la timidité, alors que le retentissement est bien plus lourd.
 
-Point rassurant et utile : les troubles anxieux figurent parmi les troubles qui répondent le mieux aux prises en charge, en particulier aux thérapies cognitivo-comportementales.
+Point rassurant et utile : les troubles anxieux figurent parmi les troubles qui répondent le mieux aux prises en charge, en particulier aux thérapies cognitivo-comportementales. La prévalence et l'âge d'apparition des troubles anxieux ont été mesurés à grande échelle par l'enquête nationale de comorbidité américaine (source : Kessler et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026).
 
 ### 8.4 Les autres repères utiles
 
@@ -534,7 +534,7 @@ Point rassurant et utile : les troubles anxieux figurent parmi les troubles qui 
 
 **Le trouble de stress post-traumatique.** Reviviscences, évitement, hypervigilance, altération de l'humeur, après un événement traumatique. Développé dans [Pour Nous](<../1 - Guides/Pour Nous/README.md>).
 
-**Le TDAH de l'adulte.** Souvent méconnu, il s'accompagne d'une **dysrégulation émotionnelle** marquée : réactions intenses et brèves, faible tolérance à la frustration. Il est fréquemment pris pour un trait de caractère.
+**Le TDAH de l'adulte.** Souvent méconnu, il s'accompagne d'une **dysrégulation émotionnelle** marquée : réactions intenses et brèves, faible tolérance à la frustration. Il est fréquemment pris pour un trait de caractère. Le retard diagnostique du trouble bipolaire, souvent repéré seulement lors des phases dépressives, est documenté dans la littérature clinique (source : Hirschfeld, « Perceptions and impact of bipolar disorder », *Journal of Clinical Psychiatry*, 2003 ; vérification du 7 août 2026).
 
 ### 8.5 Le piège des étiquettes
 
@@ -544,7 +544,7 @@ Trois précautions, à l'heure où ce vocabulaire circule massivement en ligne.
 
 **Un diagnostic n'est pas une identité.** C'est un outil qui ouvre une prise en charge. Il décrit un état, pas une personne, et il peut évoluer.
 
-**L'auto-diagnostic en ligne est peu fiable.** Non par mépris pour ceux qui s'informent, mais parce que la même liste de symptômes correspond à plusieurs tableaux, et que faire la différence est précisément le métier du clinicien.
+**L'auto-diagnostic en ligne est peu fiable.** Non par mépris pour ceux qui s'informent, mais parce que la même liste de symptômes correspond à plusieurs tableaux, et que faire la différence est précisément le métier du clinicien. La stigmatisation liée aux étiquettes diagnostiques est un frein documenté au recours aux soins psychiques (source : Corrigan, « How stigma interferes with mental health care », *American Psychologist*, 2004 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -571,7 +571,7 @@ Quatre repères pratiques.
 
 Ça dure au-delà de deux à quatre semaines sans amélioration. Ça retentit sur le sommeil, le travail ou les relations. Vous répétez le même schéma d'une relation à l'autre. Vous avez déjà essayé seul, sérieusement, sans résultat.
 
-Un cinquième, moins avouable et pourtant très fréquent : votre entourage est épuisé de porter ça. Ce n'est pas une raison honteuse, c'est un signal fiable.
+Un cinquième, moins avouable et pourtant très fréquent : votre entourage est épuisé de porter ça. Ce n'est pas une raison honteuse, c'est un signal fiable. Une durée de deux à quatre semaines sans amélioration est un repère couramment retenu dans les recommandations de repérage en soins primaires (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
 
 ### 9.2 Qui fait quoi
 
@@ -585,7 +585,7 @@ Le point le plus utile de ce chapitre, parce que la confusion des titres fait pe
 
 **Psychanalyste, psychopraticien, coach, thérapeute.** Aucun de ces termes n'est protégé. N'importe qui peut les employer. Ce n'est pas dire que toutes ces personnes seraient incompétentes ; c'est dire que le titre seul ne garantit rien, et qu'il faut donc regarder la formation.
 
-**Le médecin généraliste** reste souvent la meilleure porte d'entrée : il écarte les causes organiques (chapitre 7), peut prescrire un premier traitement et orienter.
+**Le médecin généraliste** reste souvent la meilleure porte d'entrée : il écarte les causes organiques (chapitre 7), peut prescrire un premier traitement et orienter. Les titres de psychologue et de psychiatre sont protégés par la loi, à la différence de nombreuses appellations voisines (source : décret n° 2010-534 du 20 mai 2010 relatif au titre de psychothérapeute ; vérification du 7 août 2026).
 
 ### 9.3 Les dispositifs en France
 
@@ -595,7 +595,7 @@ Le point le plus utile de ce chapitre, parce que la confusion des titres fait pe
 
 **Les centres régionaux du psychotraumatisme** pour les suites d'événements traumatiques.
 
-**Les lignes d'écoute** : **3114** pour la prévention du suicide, **3919** pour les violences faites aux femmes, **0 800 235 236** (Fil Santé Jeunes).
+**Les lignes d'écoute** : **3114** pour la prévention du suicide, **3919** pour les violences faites aux femmes, **0 800 235 236** (Fil Santé Jeunes). Les conditions du dispositif Mon soutien psy sont fixées et régulièrement révisées par l'Assurance maladie (source : Assurance maladie, *Mon soutien psy* ; vérification du 7 août 2026).
 
 ### 9.4 Choisir, et savoir que ça ne va pas
 
@@ -603,7 +603,7 @@ Le meilleur prédicteur de résultat en psychothérapie, tous courants confondus
 
 Deux questions à poser au premier rendez-vous, et un praticien sérieux y répond sans se vexer : **quelle approche pratiquez-vous pour ce type de difficulté ?** et **sur quelle durée estimée travaille-t-on ?**
 
-Signes qui doivent faire partir : un praticien qui vous décourage d'en parler à vos proches, qui vous isole, qui exige un engagement financier long d'emblée, qui vous dit quoi faire de votre vie personnelle, ou qui refuse d'expliquer sa méthode.
+Signes qui doivent faire partir : un praticien qui vous décourage d'en parler à vos proches, qui vous isole, qui exige un engagement financier long d'emblée, qui vous dit quoi faire de votre vie personnelle, ou qui refuse d'expliquer sa méthode. L'alliance thérapeutique est le meilleur prédicteur de résultat identifié dans une méta-analyse portant sur de nombreuses études, tous courants confondus (source : Horvath & Symonds, « Relation between working alliance and outcome in psychotherapy: a meta-analysis », *Journal of Counseling Psychology*, 1991 ; vérification du 7 août 2026).
 
 ### 9.5 Seul ou à deux
 
@@ -615,7 +615,7 @@ Les deux ne traitent pas la même chose, et il est fréquent d'avoir besoin des 
 
 Le repère qui aide à choisir : si le même problème vous suivrait dans une autre relation, c'est de l'individuel. S'il n'existe que dans celle-ci, c'est du couple.
 
-Deux erreurs fréquentes. Attendre le dernier moment — la thérapie de couple engagée quand la décision de partir est prise sert surtout à se séparer moins mal, ce qui est utile mais différent. Et y aller pour faire réparer l'autre : un thérapeute de couple ne désigne pas un coupable, il travaille sur la dynamique, ce qui déçoit toujours celui qui venait chercher un arbitrage.
+Deux erreurs fréquentes. Attendre le dernier moment — la thérapie de couple engagée quand la décision de partir est prise sert surtout à se séparer moins mal, ce qui est utile mais différent. Et y aller pour faire réparer l'autre : un thérapeute de couple ne désigne pas un coupable, il travaille sur la dynamique, ce qui déçoit toujours celui qui venait chercher un arbitrage. La distinction entre indication individuelle et indication de couple est développée dans une revue de synthèse sur les traitements du couple en détresse (source : Lebow et coll., « Research on the treatment of couple distress », *Journal of Marital and Family Therapy*, 2012 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -638,7 +638,7 @@ La proposition d'aide à la **recherche** compte souvent plus que la suggestion 
 
 Un tabou ne se contente pas d'interdire une expression : il empêche de nommer, donc de traiter. La plupart des blocages émotionnels décrits dans ce guide ne viennent pas d'une incapacité individuelle, mais d'une règle sociale intériorisée si tôt qu'elle passe pour une évidence.
 
-Voici les plus coûteuses, avec ce que les données en disent.
+Voici les plus coûteuses, avec ce que les données en disent. Ces tabous limitent l'expression émotionnelle et, avec elle, le recours à l'aide, un mécanisme documenté dans la littérature sur la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 ### 10.2 « Un homme ne pleure pas »
 
@@ -646,13 +646,13 @@ Le tabou le plus documenté en conséquences. Il ne supprime pas l'émotion, il 
 
 Le retentissement est mesurable. Les hommes consultent moins pour des motifs psychiques et représentent la nette majorité des décès par suicide, avec un écart de l'ordre de trois hommes pour une femme en France. Ce sont exactement les deux faces du même mécanisme : moins de recours, plus de létalité.
 
-À démonter, donc, sans détour : demander de l'aide n'est pas une défaillance, c'est une compétence. Sujet développé dans [Pour Lui](<../1 - Guides/Pour Lui/README.md>).
+À démonter, donc, sans détour : demander de l'aide n'est pas une défaillance, c'est une compétence. Sujet développé dans [Pour Lui](<../1 - Guides/Pour Lui/README.md>). Le lien entre normes de masculinité et moindre recours à l'aide psychologique est établi par une synthèse de la littérature sur le sujet (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 ### 10.3 « Une femme qui s'énerve est hystérique »
 
 Le tabou symétrique. La colère féminine est systématiquement requalifiée — en excès, en instabilité, en hormones. Le mot « hystérie » vient d'ailleurs du grec *hustera*, l'utérus : la langue elle-même porte l'histoire de cette disqualification.
 
-Deux conséquences. Beaucoup de femmes apprennent à convertir leur colère en tristesse ou en culpabilité, ce qui la rend inopérante — car la colère, elle, indique une limite franchie et appelle une action. Et dans le champ médical, ce préjugé produit un retard diagnostique documenté, des symptômes physiques étant attribués d'emblée à l'anxiété. Sujet développé dans [Pour Elle](<../1 - Guides/Pour Elle/README.md>).
+Deux conséquences. Beaucoup de femmes apprennent à convertir leur colère en tristesse ou en culpabilité, ce qui la rend inopérante — car la colère, elle, indique une limite franchie et appelle une action. Et dans le champ médical, ce préjugé produit un retard diagnostique documenté, des symptômes physiques étant attribués d'emblée à l'anxiété. Sujet développé dans [Pour Elle](<../1 - Guides/Pour Elle/README.md>). La requalification de la douleur ou de la colère féminine en excès émotionnel est documentée dans la littérature sur le biais de genre en médecine (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 10.4 « Il faut positiver »
 
@@ -660,13 +660,13 @@ Injonction bienveillante et contre-productive. Elle relève de la suppression ex
 
 Sa version relationnelle est encore plus efficace pour faire taire : « d'autres sont bien plus à plaindre », « au moins tu as un travail ». Comparer une difficulté à une difficulté plus grande n'a jamais résolu la première ; cela ajoute simplement de la culpabilité à ce qui existait déjà.
 
-La distinction à tenir : la réévaluation cognitive cherche une interprétation **plus juste**, pas plus agréable. Ce n'est pas la même opération.
+La distinction à tenir : la réévaluation cognitive cherche une interprétation **plus juste**, pas plus agréable. Ce n'est pas la même opération. Se forcer à afficher un état positif relève de la suppression expressive, dont les coûts physiologiques et relationnels sont documentés expérimentalement (source : Gross & Levenson, « Emotional suppression: physiology, self-report, and expressive behavior », *Journal of Personality and Social Psychology*, 1993 ; vérification du 7 août 2026).
 
 ### 10.5 « Ça ne se dit pas au travail »
 
 La règle est en train de bouger, mais l'écart reste grand entre les discours et les pratiques. Le coût principal est celui du **travail émotionnel** décrit au chapitre 2 : produire durablement l'émotion attendue par le poste use, et cette usure a un nom, l'épuisement professionnel.
 
-Ce qui est vrai : le lieu de travail n'est pas un espace thérapeutique, et tout n'a pas à s'y dire. Ce qui est faux : que taire durablement un état serait sans conséquence. Entre les deux, il existe une place pour dire les faits sans se livrer — « je suis en difficulté sur cette période » n'est pas une confession.
+Ce qui est vrai : le lieu de travail n'est pas un espace thérapeutique, et tout n'a pas à s'y dire. Ce qui est faux : que taire durablement un état serait sans conséquence. Entre les deux, il existe une place pour dire les faits sans se livrer — « je suis en difficulté sur cette période » n'est pas une confession. Le travail émotionnel exigé par certains postes, et son coût, ont été décrits par la sociologue Arlie Hochschild (source : Hochschild, *The Managed Heart: Commercialization of Human Feeling*, University of California Press, 1983 ; vérification du 7 août 2026).
 
 ### 10.6 Trois autres, plus rarement nommés
 
@@ -674,7 +674,7 @@ Ce qui est vrai : le lieu de travail n'est pas un espace thérapeutique, et tout
 
 **« Les enfants ne comprennent pas. »** Ils ne comprennent pas le contenu, ils perçoivent parfaitement l'état. Un climat nié sans être expliqué produit plus d'insécurité qu'une explication simple et adaptée.
 
-**« Le deuil, ça se fait en un an. »** Le modèle des cinq étapes du deuil, largement diffusé, décrivait à l'origine le vécu de personnes en fin de vie, et il n'a jamais été validé comme une séquence obligatoire du deuil. Le deuil ne suit ni ordre ni calendrier, et l'attendre linéaire ajoute de la culpabilité à la peine.
+**« Le deuil, ça se fait en un an. »** Le modèle des cinq étapes du deuil, largement diffusé, décrivait à l'origine le vécu de personnes en fin de vie, et il n'a jamais été validé comme une séquence obligatoire du deuil. Le deuil ne suit ni ordre ni calendrier, et l'attendre linéaire ajoute de la culpabilité à la peine. Le modèle des cinq étapes du deuil décrit à l'origine le vécu de personnes en fin de vie, et n'a jamais été validé comme une séquence obligatoire du deuil (source : Kübler-Ross, *On Death and Dying*, Macmillan, 1969 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -743,3 +743,28 @@ Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérifi
 - **Cohérence cardiaque** (5.5). L'effet apaisant d'une respiration lente est réel à court terme ; les promesses chiffrées des méthodes commerciales dépassent les données. Dit explicitement.
 - **Modèle des cinq étapes du deuil** (10.6). Issu des travaux de Kübler-Ross sur les personnes en fin de vie, jamais validé comme séquence obligatoire du deuil. Cité pour être écarté.
 - **Roues des émotions** (3.5). Aides-mémoire utiles, sans valeur de cartographie validée. Dit explicitement.
+
+## Recherche complémentaire, par sous-partie
+
+| Ce que ça appuie | Référence | Vérifié le |
+|---|---|---|
+| Modèle de régulation émotionnelle en cinq points (1.5, 5.2) | Gross, J., *The emerging field of emotion regulation: an integrative review*, Review of General Psychology, 1998 | 7 août 2026 |
+| Règles d'affichage émotionnel selon la culture (2.1, 2.3) | Ekman, P. & Friesen, W., *Constants across cultures in the face and emotion*, Journal of Personality and Social Psychology, 1971 | 7 août 2026 |
+| Philosophie méta-émotionnelle des parents (2.2) | Gottman, J., Katz, L. & Hooven, C., *Parental meta-emotion philosophy and the emotional life of families*, Journal of Family Psychology, 1996 | 7 août 2026 |
+| Alexithymie, définition clinique (2.5, 3.4) | Taylor, G., Bagby, R. & Parker, J., *Disorders of Affect Regulation*, Cambridge University Press, 1997 | 7 août 2026 |
+| Granularité émotionnelle (3.1) | Barrett, L. F. et coll., *Knowing what you're feeling and knowing what to do about it*, Cognition and Emotion, 2001 | 7 août 2026 |
+| Émotions primaires et secondaires en thérapie centrée sur l'émotion (3.6) | Greenberg, L. & Paivio, S., *Working with Emotions in Psychotherapy*, Guilford Press, 1997 | 7 août 2026 |
+| Émotions comme tendances à l'action (4.1) | Frijda, N., *The Emotions*, Cambridge University Press, 1986 | 7 août 2026 |
+| Effet antidépresseur de l'activité physique (6.2) | Schuch, F. et coll., *Exercise as a treatment for depression: A meta-analysis*, Journal of Psychiatric Research, 2016 | 7 août 2026 |
+| Méditation de pleine conscience, bénéfices modérés (6.3) | Hofmann, S. et coll., *The Effect of Mindfulness-Based Therapy on Anxiety and Depression*, Journal of Consulting and Clinical Psychology, 2010 | 7 août 2026 |
+| Usage passif des réseaux sociaux et bien-être (6.4) | Verduyn, P. et coll., *Passive Facebook usage undermines affective well-being*, Journal of Experimental Psychology: General, 2015 | 7 août 2026 |
+| Thyroïde et troubles de l'humeur (7.1, 7.2) | Hage, M. & Azar, S., *The Link between Thyroid Function and Depression*, Journal of Thyroid Research, 2012 | 7 août 2026 |
+| Effets sexuels des antidépresseurs (7.3) | Serretti, A. & Chiesa, A., *Treatment-emergent sexual dysfunction related to antidepressants*, Journal of Clinical Psychopharmacology, 2009 | 7 août 2026 |
+| Biais de genre dans le traitement de la douleur (7.5, 10.3) | Hoffmann, D. & Tarzian, A., *The girl who cried pain: a bias against women in the treatment of pain*, Journal of Law, Medicine & Ethics, 2001 | 7 août 2026 |
+| Épidémiologie de la dépression (8.1, 8.2) | Kessler, R. et coll., *The epidemiology of major depressive disorder*, JAMA, 2003 | 7 août 2026 |
+| Prévalence des troubles anxieux (8.3) | Kessler, R. et coll., *Lifetime prevalence and age-of-onset distributions of DSM-IV disorders*, Archives of General Psychiatry, 2005 | 7 août 2026 |
+| Retard diagnostique du trouble bipolaire (8.4) | Hirschfeld, R., *Perceptions and impact of bipolar disorder*, Journal of Clinical Psychiatry, 2003 | 7 août 2026 |
+| Stigmatisation et recours aux soins psychiques (8.5) | Corrigan, P., *How stigma interferes with mental health care*, American Psychologist, 2004 | 7 août 2026 |
+| Alliance thérapeutique, meilleur prédicteur de résultat (9.4) | Horvath, A. & Symonds, B., *Relation between working alliance and outcome in psychotherapy: a meta-analysis*, Journal of Counseling Psychology, 1991 | 7 août 2026 |
+| Traitements du couple en détresse (9.5) | Lebow, J. et coll., *Research on the treatment of couple distress*, Journal of Marital and Family Therapy, 2012 | 7 août 2026 |
+| Masculinité et recours à l'aide psychologique (10.1, 10.2) | Addis, M. & Mahalik, J., *Men, masculinity, and the contexts of help seeking*, American Psychologist, 2003 | 7 août 2026 |

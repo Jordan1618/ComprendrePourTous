@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Un voyant qui s'allume n'est pas une panne : c'est une information sur une panne. On ne répare pas une voiture en dévissant l'ampoule, et pourtant c'est exactement ce que produit la plupart des stratégies de gestion des émotions — faire taire le voyant.
 
-Chaque émotion signale un **besoin** ou une **violation**. Décoder consiste à passer du voyant à l'information, puis de l'information à l'action.
+Chaque émotion signale un **besoin** ou une **violation**. Décoder consiste à passer du voyant à l'information, puis de l'information à l'action. Nico Frijda a décrit les émotions comme des tendances à l'action, c'est-à-dire des signaux orientés vers un comportement plutôt que de simples états ressentis (source : Frijda, *The Emotions*, Cambridge University Press, 1986 ; vérification du 7 août 2026).
 
 ### 4.2 Le tableau des six familles
 
@@ -34,7 +34,7 @@ Deux distinctions valent le détour, parce qu'elles évitent des années d'erreu
 
 **Honte et culpabilité.** La culpabilité dit « j'ai fait quelque chose de mal », la honte dit « je suis mauvais ». La première appelle une réparation et se résout. La seconde n'appelle rien de faisable, et pousse à se cacher, ce qui l'aggrave. Les travaux de Brené Brown insistent sur ce point : la honte se dissout dans le fait d'être vu et accueilli, elle se nourrit du secret.
 
-**Peur et anxiété.** La peur a un objet identifiable et présent. L'anxiété est diffuse et tournée vers un futur possible. La première se traite en agissant sur l'objet ; la seconde résiste précisément parce qu'il n'y a rien sur quoi agir.
+**Peur et anxiété.** La peur a un objet identifiable et présent. L'anxiété est diffuse et tournée vers un futur possible. La première se traite en agissant sur l'objet ; la seconde résiste précisément parce qu'il n'y a rien sur quoi agir. Ce découpage en familles reprend la classification des émotions dites de base proposée par Paul Ekman (source : Ekman, « An argument for basic emotions », *Cognition and Emotion*, 1992 ; vérification du 7 août 2026).
 
 ### 4.3 La méthode en quatre questions
 
@@ -45,7 +45,7 @@ Applicable à n'importe quelle émotion, dans l'ordre.
 3. **Qu'est-ce qui s'est passé juste avant ?** — la chronologie, pas la justification. Le déclencheur est souvent minuscule et sans rapport apparent.
 4. **Qu'est-ce que ça demande ?** — le besoin, puis une action concrète et petite.
 
-La quatrième question est celle qu'on saute presque toujours, et c'est celle qui transforme l'exercice en autre chose que de l'introspection.
+La quatrième question est celle qu'on saute presque toujours, et c'est celle qui transforme l'exercice en autre chose que de l'introspection. Cette méthode reprend le principe de la granularité émotionnelle : nommer précisément un état pour en déduire une action plutôt qu'une impression diffuse (source : Barrett, *How Emotions Are Made*, Houghton Mifflin Harcourt, 2017 ; vérification du 7 août 2026).
 
 ### 4.4 Les fausses pistes fréquentes
 
@@ -55,7 +55,7 @@ La quatrième question est celle qu'on saute presque toujours, et c'est celle qu
 
 **Chercher une cause unique.** Beaucoup d'états sont des empilements : mal dormi, contrarié au travail, plus une phrase de trop. Chercher LA cause conduit à surinterpréter la dernière.
 
-**Attribuer à l'autre ce qui vient de soi.** « Tu m'as mis en colère » décrit rarement le mécanisme. « J'ai réagi fort quand tu as dit ça » décrit ce qui s'est passé, et permet la suite.
+**Attribuer à l'autre ce qui vient de soi.** « Tu m'as mis en colère » décrit rarement le mécanisme. « J'ai réagi fort quand tu as dit ça » décrit ce qui s'est passé, et permet la suite. Chercher activement l'information qui contredit une première impression est le correctif documenté du biais de confirmation (source : Nickerson, « Confirmation bias: a ubiquitous phenomenon in many guises », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
