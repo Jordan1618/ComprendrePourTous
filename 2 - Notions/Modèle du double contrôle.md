@@ -15,6 +15,6 @@ La conversation qui en découle change de nature : au lieu de « est-ce que tu a
 
 **Où c'est développé**
 - [Le désir dans la durée](<../1 - Guides/L amour/07 - Le desir dans la duree.md>).
-- [Sexualité féminine](<../1 - Guides/Pour Elle/05 - Sexualité féminine.md>).
+- [Sexualité féminine](<../1 - Guides/Pour Elle/11 - Sexualité féminine.md>).
 
 **Voir aussi** [Désir spontané et désir réactif](<Désir spontané et désir réactif.md>), [Charge mentale](<Charge mentale.md>).

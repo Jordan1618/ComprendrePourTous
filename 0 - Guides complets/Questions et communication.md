@@ -7,7 +7,7 @@ mots: 5902
 verifie_le: 2026-08-05
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Questions et communication"
-genere_le: 2026-08-06
+genere_le: 2026-08-07
 ---
 
 # Questions et communication

@@ -2,8 +2,8 @@
 projet: "Comprendre pour tous"
 type: "collection"
 guides: 9
-chapitres: 104
-mots: 103099
+chapitres: 108
+mots: 107243
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-08-06
 licence: "CC BY 4.0"
@@ -32,8 +32,8 @@ J'écris chaque guide dans les deux sens. Celui sur le cycle féminin s'adresse 
 
 | Guide | Sujet | Chapitres | Contenu | Intégrale |
 |---|---|---|---|---|
-| [Pour Elle](<1 - Guides/Pour Elle/README.md>) | corps féminin | 15 | Cycle, contraception, pathologies, sexualité, grossesse, santé émotionnelle, peurs| [lire](<0 - Guides complets/Pour Elle.md>) |
-| [Pour Lui](<1 - Guides/Pour Lui/README.md>) | corps masculin | 19 | Architecture émotionnelle, dépression, corps, sexualité, couple, cycle, santé long terme| [lire](<0 - Guides complets/Pour Lui.md>) |
+| [Pour Elle](<1 - Guides/Pour Elle/README.md>) | corps féminin | 17 | Cycle, contraception, pathologies, sexualité, grossesse, santé mentale, peurs| [lire](<0 - Guides complets/Pour Elle.md>) |
+| [Pour Lui](<1 - Guides/Pour Lui/README.md>) | corps masculin | 21 | Émotions, dépression, corps, cycle, contraception, sexualité, couple, santé long terme| [lire](<0 - Guides complets/Pour Lui.md>) |
 | [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 6 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV | [lire](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [lire](<0 - Guides complets/Massage professionnel.md>) |
 | [Questions et communication](<1 - Guides/Questions et communication/README.md>) | commun | 9 | Ce qu'une question fait, comment elles se classent, celles qui changent une vie | [lire](<0 - Guides complets/Questions et communication.md>) |
@@ -42,7 +42,7 @@ J'écris chaque guide dans les deux sens. Celui sur le cycle féminin s'adresse 
 | [L'amour](<1 - Guides/L amour/README.md>) | commun | 9 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir, engagement | [lire](<0 - Guides complets/L'amour.md>) |
 | [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 12 | Trauma, quotidien et charge, projets de vie, épreuves, deuil, histoire du couple| [lire](<0 - Guides complets/Pour Nous.md>) |
 
-Environ 103 100 mots au total.
+Environ 107 200 mots au total.
 
 Un document à part condense le meilleur de chaque guide, 15 items maximum par guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>). C'est une synthèse tenue à la main, pas un artefact généré par `build-guides-complets.py`.
 
@@ -67,7 +67,8 @@ ComprendrePourTous/
 ├── 0 - Guides complets/            chaque guide en un seul fichier, pour lire d'une traite
 ├── 1 - Guides/                     les mêmes guides découpés, un fichier par chapitre
 ├── 2 - Notions/                    notes courtes par concept, avec liens vers les développements
-└── 3 - Transversal/                index, glossaire, signaux d'alerte, sources
+├── 3 - Transversal/                index, glossaire, signaux d'alerte
+└── 4 - Sources/                    toutes les sources, avec un lien vers l'original
 ```
 
 **Les deux formats contiennent exactement le même texte.** Le dossier `1 - Guides` est la source de vérité : c'est là qu'on corrige, chapitre par chapitre. Le dossier `0 - Guides complets` est généré à partir de lui par `build-guides-complets.py`, et ne doit jamais être édité à la main. Une correction faite au mauvais endroit serait écrasée à la génération suivante.

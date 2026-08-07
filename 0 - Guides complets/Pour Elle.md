@@ -2,12 +2,12 @@
 type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
-chapitres: 15
-mots: 25331
-verifie_le: 2026-08-06
+chapitres: 17
+mots: 27454
+verifie_le: 2026-08-07
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
-genere_le: 2026-08-06
+genere_le: 2026-08-07
 ---
 
 # Pour Elle
@@ -24,25 +24,27 @@ Sa particularité est de ne jamais s'arrêter au mécanisme biologique. Chaque p
 
 ## Sommaire
 
-- **1.** Le cycle menstruel : anatomie et physiologie de base
-- **2.** Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive
-- **3.** La pilule et la contraception hormonale : raisonnement étape par étape
-- **4.** Panorama complet des troubles et pathologies du cycle
-- **5.** La sexualité féminine : anatomie, réponse sexuelle, troubles
-- **6.** La grossesse : physiologie et complications
-- **7.** L'accouchement et le post-partum
-- **8.** Les figures de la recherche en 2026 : qui fait avancer quoi
-- **9.** Conseils pratiques généraux, au-delà du cas par cas
-- **10.** Foire aux questions rapides
-- **11.** Ressources et associations utiles
-- **12.** Glossaire complet des termes médicaux employés dans ce document
-- **13.** La santé émotionnelle : ce qu'on attribue trop vite aux hormones
-- **14.** Les pièges de la modernité : injonctions, écrans et industrie du bien-être
-- **15.** Les peurs : lesquelles sont fondées, et comment avancer
+- **02.** Le cycle menstruel : anatomie et physiologie de base
+- **03.** Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive
+- **04.** La santé émotionnelle : ce qu'on attribue trop vite aux hormones
+- **6.** La dépression féminine : le visage qu'elle prend
+- **7.** Anxiété, stress et corps : quand la plainte n'est pas entendue
+- **09.** La pilule et la contraception hormonale : raisonnement étape par étape
+- **10.** Panorama complet des troubles et pathologies du cycle
+- **11.** La sexualité féminine : anatomie, réponse sexuelle, troubles
+- **14.** La grossesse : physiologie et complications
+- **14b.** L'accouchement et le post-partum
+- **19.** Les pièges de la modernité : injonctions, écrans et industrie du bien-être
+- **20.** Les peurs : lesquelles sont fondées, et comment avancer
+- **22.** Les figures de la recherche en 2026 : qui fait avancer quoi
+- **23.** Conseils pratiques généraux, au-delà du cas par cas
+- **24.** Foire aux questions rapides
+- **25.** Ressources et associations utiles
+- **26.** Glossaire complet des termes médicaux employés dans ce document
 
 ---
 
-## 1. Le cycle menstruel : anatomie et physiologie de base
+## 02. Le cycle menstruel : anatomie et physiologie de base
 
 ### 1.1 L'axe hormonal qui pilote tout : l'analogie de l'orchestre
 
@@ -124,7 +126,7 @@ Le cycle décrit plus haut (1.1 et 1.2) est celui d'un cycle "établi" et stable
 
 ---
 
-## 2. Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive
+## 03. Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive
 
 Ta remarque, "dans le règne animal on doit être la seule espèce où c'est aussi compliqué", mérite une vraie réponse scientifique plutôt qu'une validation rapide, parce que la réalité est plus intéressante et plus nuancée que l'idée reçue, et parce que c'est un domaine de recherche actif et passionnant en ce moment même.
 
@@ -183,7 +185,210 @@ Un exemple concret de cette évolution récente : en France, l'accès gratuit au
 
 ---
 
-## 3. La pilule et la contraception hormonale : raisonnement étape par étape
+## 04. La santé émotionnelle : ce qu'on attribue trop vite aux hormones
+
+### 13.1 L'analogie du fusible
+
+Quand une installation disjoncte, on peut accuser le fusible. Il a effectivement sauté. Mais le fusible n'est pas la cause : il a sauté parce que la ligne était surchargée, et le remplacer sans toucher à la charge garantit qu'il sautera encore.
+
+« C'est hormonal » fonctionne exactement comme cette accusation du fusible. C'est parfois vrai, souvent partiel, et régulièrement utilisé pour ne pas regarder la charge. Ce chapitre trie : ce que les hormones expliquent réellement, ce qu'elles n'expliquent pas, et ce qui se joue ailleurs.
+
+### 13.2 Ce que les hormones expliquent réellement
+
+Trois situations où le lien est solide, et il serait absurde de les minimiser.
+
+**Le trouble dysphorique prémenstruel (TDPM).** À distinguer nettement du syndrome prémenstruel ordinaire. Il touche une minorité de femmes et se caractérise par des symptômes de l'humeur sévères et invalidants en phase lutéale, disparaissant avec les règles. Ce n'est pas une exagération du SPM : c'est reconnu comme un trouble à part entière, et il existe des prises en charge. Le mécanisme retenu n'est pas un taux hormonal anormal — les dosages sont généralement normaux — mais une **sensibilité particulière aux variations**.
+
+**La période post-partum.** La chute hormonale brutale après l'accouchement, combinée à la privation de sommeil et au bouleversement de vie, constitue une période de vulnérabilité réelle. La dépression du post-partum n'est ni un caractère fragile ni un manque d'amour pour l'enfant. Elle se traite, et elle est d'autant mieux prise en charge qu'elle est nommée tôt. Voir le chapitre 7 de ce guide.
+
+**La périménopause.** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement.
+
+### 13.3 Ce qu'on leur attribue à tort
+
+C'est l'autre versant, et il est au moins aussi important.
+
+**Le « c'est tes hormones » comme fin de conversation.** Utilisé pour disqualifier une colère, un désaccord ou une plainte, c'est un procédé qui a une longue histoire — le mot « hystérie » vient de *hustera*, l'utérus. L'effet pratique est constant : la personne cesse de discuter du fond, parce que le fond a été renvoyé à sa biologie.
+
+**Le retard diagnostique.** Des travaux documentent une tendance à attribuer plus rapidement des symptômes physiques féminins à l'anxiété, avec pour conséquence des délais de diagnostic plus longs sur plusieurs pathologies. L'endométriose en est l'exemple le plus connu : le délai entre les premiers symptômes et le diagnostic se compte encore en années. Voir le chapitre 4.
+
+**La fatigue de fond.** Avant d'invoquer le cycle, deux causes très fréquentes méritent d'être écartées : la **carence en fer**, particulièrement fréquente en cas de règles abondantes, et la dette de sommeil. Un dosage de ferritine est simple, peu coûteux, et souvent révélateur. Voir [Les émotions](<../1 - Guides/Les emotions/README.md>), chapitre 7.
+
+### 13.4 La colère empêchée
+
+C'est probablement le point le plus utile de ce chapitre.
+
+Les règles d'affichage décrites dans [Les émotions](<../1 - Guides/Les emotions/README.md>) sont fortement genrées : la colère est tolérée chez les hommes et requalifiée chez les femmes — en excès, en instabilité, en hormones. Beaucoup de femmes apprennent donc, très tôt, à convertir leur colère en une émotion socialement acceptable : la tristesse ou la culpabilité.
+
+Le coût est concret. La colère est l'émotion qui signale **une limite franchie**, et elle appelle une action : poser la limite. Convertie en tristesse, elle ne signale plus rien d'actionnable — elle appelle du réconfort, ce qui ne change pas la situation. La limite reste franchie.
+
+Le repère pratique : quand vous vous sentez triste ou coupable après une interaction, posez la question de l'émotion primaire — **« qu'est-ce que j'ai ressenti juste avant d'être triste ? »**. Si la réponse est « en colère », l'information utile est là.
+
+### 13.5 La charge mentale comme facteur émotionnel
+
+La [charge mentale](<../2 - Notions/Charge mentale.md>) n'est pas seulement une injustice d'organisation. C'est un facteur de santé émotionnelle : maintenir en permanence une liste de tâches à anticiper consomme une ressource attentionnelle qui n'est plus disponible pour autre chose — y compris pour le désir, comme le montre le [modèle du double contrôle](<../2 - Notions/Modèle du double contrôle.md>).
+
+Ce point est souvent mal posé dans le couple, parce qu'il est présenté comme une plainte alors qu'il décrit une répartition. Le déplacer vers du concret change la conversation : non pas « tu ne m'aides pas », mais **« qui pense à quoi ? »** — la liste des choses qu'il faut *anticiper*, distincte de celles qu'il faut *exécuter*.
+
+💑 **Dans le couple**
+
+La phrase à ne jamais employer est « c'est tes hormones », même quand c'est vrai. Elle transforme une personne en organe et clôt la discussion.
+
+Ce qui fonctionne est le levier du différentiel : **« est-ce que c'est quelque chose qui revient à un moment du mois, ou est-ce que c'est là tout le temps en ce moment ? »** La question est répondable, elle distingue une cyclicité d'un état durable — et cette distinction est exactement celle qui compte pour savoir quoi faire.
+
+**Bons réflexes**
+
+- Notez la chronologie sur deux ou trois mois avant de conclure à une cause cyclique. Une impression n'est pas une donnée ; un relevé daté en est une.
+- Écartez le fer et le sommeil avant l'hormonal. Une ferritine basse produit exactement le tableau qu'on met sur le compte du cycle.
+- Cherchez l'émotion primaire sous la tristesse. La colère mal adressée devient du ressentiment, qui est bien plus corrosif.
+- Si une plainte n'est pas prise au sérieux en consultation, demandez explicitement qu'un examen précis soit fait ou écarté. C'est une demande recevable, et un second avis est légitime.
+
+---
+
+## 6. La dépression féminine : le visage qu'elle prend
+
+### 6.1 L'analogie de la maison qui s'éteint pièce par pièce
+
+Une maison ne s'éteint pas d'un coup. On cesse d'ouvrir une pièce, puis une autre. On finit par vivre dans la cuisine et le couloir, et de l'extérieur les volets sont encore ouverts.
+
+C'est la forme la plus courante de la dépression féminine, et c'est ce qui la rend difficile à repérer : la façade tient. Les obligations sont remplies, les enfants sont conduits, le travail est fait. Ce qui s'est éteint, ce sont les pièces qui ne servent qu'à soi.
+
+Ce chapitre est le pendant du chapitre 6 de [Pour Lui](<../1 - Guides/Pour Lui/06 - La dépression masculine.md>). Les deux décrivent la même maladie, avec des présentations qui diffèrent en moyenne — sans jamais qu'aucune ne soit réservée à un sexe.
+
+### 6.2 Ce qui est établi, et ce que ça veut dire
+
+Le fait le mieux documenté du champ : la dépression est diagnostiquée environ **deux fois plus souvent chez les femmes** que chez les hommes, dans la plupart des pays où elle est mesurée. L'écart apparaît à l'adolescence.
+
+Ce chiffre demande d'être lu correctement, parce qu'il est régulièrement instrumentalisé dans les deux sens.
+
+Il ne signifie pas que les femmes seraient plus fragiles. Plusieurs facteurs se cumulent : une exposition plus forte à des facteurs de risque documentés — violences sexuelles, charge domestique, précarité, discrimination —, des périodes de vulnérabilité hormonale réelles, et un biais de repérage. Ce dernier joue dans les deux sens : les femmes consultent davantage et sont donc plus diagnostiquées, tandis que la dépression masculine, qui prend plus souvent la forme de l'irritabilité et de l'alcool, est **sous**-diagnostiquée. Une partie de l'écart mesuré est donc un écart de détection, pas de survenue.
+
+Ce qu'il faut en retenir pratiquement : la dépression est fréquente chez les femmes, et son diagnostic plus fréquent ne garantit pas qu'elle soit mieux prise en charge.
+
+### 6.3 Les formes les plus fréquemment manquées
+
+**La dépression souriante.** Fonctionnement extérieur intact, effondrement intérieur. Elle est particulièrement fréquente chez des personnes très sollicitées, dont l'entourage dépend. Le repère n'est pas l'absence de sourire, c'est le **coût** : tenir demande une énergie disproportionnée, et il ne reste rien après.
+
+**La fatigue qui ne se répare pas.** Motif de consultation le plus fréquent, et le plus souvent renvoyé à autre chose. Ici, l'ordre compte : une fatigue durable justifie d'abord d'écarter une carence en fer, une hypothyroïdie, une apnée du sommeil — voir le chapitre 7 de [Les émotions](<../1 - Guides/Les emotions/README.md>). Un bilan normal n'invalide pas la plainte, il oriente ailleurs.
+
+**L'irritabilité.** Elle est associée à la dépression chez les femmes comme chez les hommes, mais elle est plus souvent requalifiée quand elle vient d'une femme — en caractère, en hormones, en surmenage. Résultat : le symptôme est jugé au lieu d'être entendu.
+
+**L'anhédonie masquée par l'activité.** Continuer à tout faire sans plus rien en retirer. Le test utile n'est pas « est-ce que tu fais des choses » mais **« est-ce que quelque chose t'a fait plaisir cette semaine ? »**.
+
+### 6.4 Les périodes de vulnérabilité réelle
+
+Trois, avec un lien établi — sans que cela justifie de tout renvoyer aux hormones, comme le rappelle le chapitre 4.
+
+**Le post-partum.** La dépression du post-partum touche une part significative des accouchées, bien au-delà du baby blues, qui est bref et régresse seul. Elle peut apparaître dans les semaines mais aussi plusieurs mois après la naissance. Elle n'est ni un manque d'amour pour l'enfant ni une faiblesse, et elle se traite d'autant mieux qu'elle est nommée tôt. En France, un entretien postnatal précoce est proposé pour la repérer : c'est un rendez-vous à prendre, pas une formalité. Voir le chapitre 14b.
+
+**La périménopause.** Les fluctuations hormonales de cette période s'accompagnent d'un risque accru d'épisode dépressif, particulièrement chez celles qui en ont déjà connu. Elle est régulièrement confondue avec une dépression simple, et inversement.
+
+**Le trouble dysphorique prémenstruel.** Symptômes de l'humeur sévères en phase lutéale, disparaissant avec les règles. À distinguer du syndrome prémenstruel ordinaire. Voir le chapitre 4.
+
+**Signal d'alerte, pas clause de style** : des idées suicidaires justifient d'appeler le **3114**, gratuit, en permanence, ouvert aussi aux proches inquiets. En post-partum, toute idée de faire du mal à soi ou à l'enfant est une urgence — elle est plus fréquente qu'on ne le dit, elle se traite, et la dire ne fait perdre la garde de personne.
+
+### 6.5 Ce qui bloque la demande d'aide
+
+Différent de ce qui bloque chez les hommes, et rarement décrit.
+
+**L'indispensabilité.** S'arrêter paraît impossible parce que le système repose sur soi. C'est souvent factuellement vrai, et c'est exactement ce qui rend l'arrêt nécessaire.
+
+**La culpabilité.** Aller mal alors qu'objectivement « tout va bien » ajoute une couche de honte. Or la dépression n'exige aucune justification biographique.
+
+**La banalisation.** Fatigue, irritabilité, pleurs sont tellement attendus dans un rôle féminin qu'ils cessent d'être des symptômes. « C'est normal, avec tout ce que tu portes » est une phrase compatissante qui referme la porte.
+
+**Le fait d'avoir déjà été renvoyée à l'anxiété.** Beaucoup de femmes ont fait l'expérience de voir un symptôme physique attribué d'emblée au stress. Cela apprend à ne plus consulter.
+
+### 6.6 Ce qui fonctionne
+
+Les prises en charge de première intention sont les mêmes que pour les hommes, et elles fonctionnent : psychothérapies structurées, notamment cognitivo-comportementales et interpersonnelles, et antidépresseurs selon la sévérité. Voir le chapitre 9 de [Les émotions](<../1 - Guides/Les emotions/README.md>) pour s'orienter entre les professionnels.
+
+Trois points spécifiques. L'effet des ISRS sur la libido est fréquent et rarement anticipé : il se discute avec le prescripteur, et il ne justifie jamais un arrêt brutal. En période d'allaitement, des traitements compatibles existent — l'idée qu'il faudrait choisir entre se soigner et allaiter est fausse et coûte cher. Et alléger la charge réelle fait partie du traitement : ce n'est pas du confort, c'est un levier.
+
+💑 **Dans le couple**
+
+L'erreur la plus fréquente du partenaire est de vouloir remonter le moral, ce qui revient à demander à quelqu'un d'aller mieux. La seconde est d'attendre une demande explicite, qui ne viendra pas — demander est précisément ce que la maladie empêche.
+
+Ce qui aide : reprendre des tâches sans les annoncer comme un service, et proposer la logistique du soin plutôt que son principe. **« Je peux appeler pour prendre le rendez-vous, tu préfères jeudi ou vendredi ? »** — un menu fermé, sur l'organisation et non sur la nécessité.
+
+**Bons réflexes**
+
+- Utilisez le levier du plaisir plutôt que celui de l'humeur : « qu'est-ce qui t'a fait plaisir cette semaine ? » est plus révélateur que « ça va ? ».
+- Écartez le fer, la thyroïde et le sommeil avant de conclure. Une fatigue durable mérite un bilan, une fois.
+- Deux semaines sont le repère. Au-delà d'un état bas quasi permanent, consulter est raisonnable.
+- Ne laissez pas « c'est normal avec ta vie » clore la discussion. Une explication n'est pas un traitement.
+- **3114** en cas d'idées suicidaires, y compris pour un proche inquiet.
+
+---
+
+## 7. Anxiété, stress et corps : quand la plainte n'est pas entendue
+
+### 7.1 L'analogie du détecteur trop sensible
+
+Un détecteur de fumée réglé trop bas sonne pour un toast. Il n'est pas cassé : il fait son travail avec un seuil mal calibré. Le problème n'est pas qu'il détecte, c'est qu'il détecte trop tôt et trop souvent, jusqu'à ce que plus personne n'y prête attention — y compris le jour où il y a vraiment le feu.
+
+L'anxiété fonctionne ainsi, et ce chapitre traite les deux versants du problème : le seuil trop bas, et l'habitude prise par l'entourage comme par le corps médical de ne plus écouter l'alarme.
+
+Il est le pendant du chapitre 7 de [Pour Lui](<../1 - Guides/Pour Lui/07 - Anxiété, stress et corps.md>).
+
+### 7.2 Ce que dit la mesure
+
+Les troubles anxieux sont diagnostiqués nettement plus souvent chez les femmes, avec un rapport de l'ordre de deux pour un, ordre de grandeur stable selon les pays et les instruments. L'écart apparaît à l'adolescence.
+
+Les explications avancées se cumulent plutôt qu'elles ne s'excluent : exposition plus forte à des facteurs de risque documentés, sensibilité hormonale aux transitions, différences de socialisation dans l'expression de la peur, et une composante de repérage — l'anxiété masculine s'exprimant plus souvent par l'irritabilité, l'alcool ou le repli, elle est moins souvent nommée comme telle.
+
+Ce qui compte pour vous : la fréquence n'est pas la normalité. Un trouble anxieux fréquent reste un trouble, et il fait partie de ceux qui répondent le mieux aux prises en charge.
+
+### 7.3 Le corps parle, et il dit vrai
+
+L'anxiété a des manifestations physiques réelles : palpitations, oppression thoracique, souffle court, boule dans la gorge, troubles digestifs, tensions musculaires, vertiges, fourmillements. Ce ne sont pas des symptômes « imaginaires ».
+
+D'où deux erreurs symétriques, et il faut les tenir ensemble.
+
+**Attribuer au corps ce qui vient de l'anxiété.** Multiplier les examens sur un symptôme anxieux entretient la boucle : chaque examen rassure quelques jours, puis l'inquiétude revient et réclame le suivant.
+
+**Attribuer à l'anxiété ce qui vient du corps.** C'est l'erreur documentée dans le sens qui concerne particulièrement les femmes. Plusieurs travaux décrivent une tendance à renvoyer plus rapidement des symptômes physiques féminins au stress, avec pour conséquences des délais de diagnostic allongés et des douleurs moins traitées. L'endométriose en est l'exemple le plus documenté, avec un délai encore compté en années. Voir le chapitre 10.
+
+Le cas de l'infarctus mérite d'être isolé, parce qu'il peut coûter une vie : chez les femmes, il se présente plus souvent sous une forme atypique — fatigue intense, nausées, douleur dans la mâchoire, le dos ou l'estomac, essoufflement — plutôt que par la douleur thoracique irradiante classique. Ces tableaux sont plus souvent pris pour de l'anxiété. Voir le chapitre 20.
+
+### 7.4 Se faire entendre en consultation
+
+Ce n'est pas une question de caractère mais de méthode. Quatre leviers concrets.
+
+**Chiffrer.** « J'ai mal » se discute ; « la douleur est à 8 sur 10, elle m'a fait rater trois jours de travail ce mois-ci » ne se discute pas. Le retentissement fonctionnel est le langage le plus efficace.
+
+**Dater.** Une chronologie écrite — depuis quand, ce qui a changé à ce moment-là, ce qui aggrave et ce qui soulage — vaut mieux qu'un récit reconstitué dans le stress du rendez-vous.
+
+**Demander l'écart explicite.** La formulation qui fonctionne : **« je voudrais qu'on écarte une cause organique avant de conclure au stress. »** Elle est précise, recevable, et engage le raisonnement.
+
+**Faire tracer.** « Pouvez-vous noter dans le dossier que j'ai signalé ce symptôme et qu'il n'a pas été exploré ? » Cette phrase est légitime et change souvent la suite de la consultation.
+
+Un second avis est un droit, pas une défiance. Et une consultation où vous repartez sans avoir dit l'essentiel est une consultation à refaire.
+
+### 7.5 Ce qui fonctionne sur l'anxiété elle-même
+
+Les prises en charge de première intention sont bien établies, et l'anxiété fait partie des troubles où elles marchent le mieux : les thérapies cognitivo-comportementales, avec exposition graduée pour les formes phobiques, sont recommandées avant les traitements médicamenteux.
+
+Deux points de vigilance. Les **benzodiazépines** soulagent vite, exposent à une dépendance rapide, et ne sont pas un traitement de fond : leur usage doit rester court et encadré. Et la **vérification** — refaire des recherches, reconsulter, réexaminer — apaise quelques minutes et renforce la boucle : poser une limite explicite est une intervention en soi.
+
+Sur les leviers quotidiens — sommeil, activité physique, alcool, respiration lente, écriture — voir les chapitres 5 et 6 de [Les émotions](<../1 - Guides/Les emotions/README.md>). Ils valent ici exactement comme ailleurs, et ils sont sous-utilisés parce qu'ils sont ennuyeux.
+
+💑 **Dans le couple**
+
+Réassurer immédiatement est le réflexe le plus naturel et l'un des moins efficaces : la réassurance est précisément ce que la boucle anxieuse réclame, et elle la nourrit.
+
+Ce qui aide davantage tient dans une question à deux options : **« tu veux que je te rassure, ou que je t'aide à décider quoi faire ? »** L'autre choisit, ce qui évite de répondre à une demande qui n'a pas été formulée.
+
+**Bons réflexes**
+
+- Tenez les deux erreurs à la fois : ne pas tout médicaliser, ne pas tout psychologiser.
+- Arrivez en consultation avec une chronologie écrite et un chiffre de retentissement.
+- Employez la phrase de l'écart : « je voudrais qu'on écarte une cause organique avant de conclure au stress ».
+- Connaissez les signes atypiques de l'infarctus chez la femme. C'est l'information la plus utile de ce chapitre.
+- Fixez une limite à la vérification. Au-delà, chercher n'informe plus, ça entretient.
+
+---
+
+## 09. La pilule et la contraception hormonale : raisonnement étape par étape
 
 Tu poses une question légitime et que beaucoup de femmes se posent elles-mêmes : pourquoi la pilule est-elle devenue le réflexe quasi automatique, alors qu'elle a des effets réels et parfois lourds sur le corps ? Je vais dérouler le raisonnement complet, avec les faits des deux côtés, sans trancher à ta place sur un sujet qui reste débattu, y compris entre gynécologues.
 
@@ -236,7 +441,7 @@ La contraception est trop souvent vécue comme "son sujet à elle" alors qu'elle
 
 ---
 
-## 4. Panorama complet des troubles et pathologies du cycle
+## 10. Panorama complet des troubles et pathologies du cycle
 
 ### 4.1 Syndrome prémenstruel (SPM)
 
@@ -455,7 +660,7 @@ Pour t'y retrouver dans cette liste : les gynécologues utilisent une classifica
 
 ---
 
-## 5. La sexualité féminine : anatomie, réponse sexuelle, troubles
+## 11. La sexualité féminine : anatomie, réponse sexuelle, troubles
 
 ### 5.1 Anatomie qu'on enseigne trop peu : l'analogie de l'iceberg
 
@@ -614,7 +819,7 @@ Le rôle le plus utile que tu puisses jouer n'est pas celui du "critique" qui é
 
 ---
 
-## 6. La grossesse : physiologie et complications
+## 14. La grossesse : physiologie et complications
 
 ### 6.1 Les grandes lignes trimestre par trimestre : l'analogie du chantier de construction
 
@@ -705,7 +910,7 @@ Quand une femme de groupe sanguin Rhésus négatif porte un fœtus Rhésus posit
 
 ---
 
-## 7. L'accouchement et le post-partum
+## 14b. L'accouchement et le post-partum
 
 ### 7.1 Baby blues vs dépression du post-partum
 
@@ -780,246 +985,7 @@ L'allaitement n'est ni une obligation morale ni une évidence physiologique simp
 
 ---
 
-## 8. Les figures de la recherche en 2026 : qui fait avancer quoi
-
-Tu as demandé les "superstars" du domaine, les voici, avec ce qu'elles ont concrètement changé. Un point commun frappant à la lecture de leurs parcours : plusieurs d'entre elles ont commencé à s'intéresser à leur sujet soit parce qu'elles vivaient elles-mêmes la maladie qu'elles étudient, soit parce qu'elles ont été frappées par le contraste entre la fréquence d'un problème et le peu de recherche qui lui était consacré.
-
-### Camille Berthelot : Institut Pasteur, Paris (génomique évolutive de la menstruation)
-
-Chargée de recherche Inserm à l'Institut Pasteur, elle dirige le projet **EVOMENS**, financé par le Conseil européen de la recherche, qui compare les génomes de primates menstruant et non-menstruant pour identifier les gènes à l'origine de la menstruation au cours de l'évolution. Son objectif déclaré : comprendre l'origine évolutive des règles pour mieux soigner l'endométriose, une maladie qui reste, selon ses propres mots rapportés par l'Inserm, mal comprise "d'un point de vue scientifique" malgré son importance pour la santé des femmes (source : Inserm, 2022 ; Institut Pasteur, 2025-2026).
-
-### Linda Griffith : MIT, Cambridge (bio-ingénierie et endométriose)
-
-Professeure de bio-ingénierie au MIT, devenue mondialement connue dans son domaine pour avoir fait pousser une oreille humaine sur le dos d'une souris au début de sa carrière. Atteinte elle-même d'endométriose depuis l'adolescence, sa douleur a longtemps été traitée avec désinvolture par le corps médical, retardant son propre diagnostic de plusieurs années. Elle a réorienté sa carrière scientifique vers cette maladie, cofondant en 2009 le **MIT Center for Gynepathology Research**, le premier centre de ce type au monde. Un profil du New York Times la décrit comme ayant "reformulé l'endométriose comme une clé pour percer certains des plus grands secrets de la biologie" (régénération tissulaire, cicatrisation sans cicatrice, fonction immunitaire). Fin 2025, elle a lancé un "moonshot" de dix millions de dollars pour la science de la menstruation, un pari qu'elle est, selon ses collègues, l'une des seules à pouvoir se permettre par son autorité scientifique (source : NPR, 2021 ; Maven/The Preprint, octobre 2025).
-
-### Stacey Missmer : Michigan State University (anciennement Harvard) (épidémiologie de l'endométriose)
-
-Considérée comme l'une des pionnières mondiales de l'épidémiologie de l'endométriose, ses travaux ont établi une bonne partie des connaissances de référence sur les facteurs de risque et les conséquences à long terme de la maladie (impact sur la fertilité, qualité de vie des adolescentes atteintes). Elle a formé et collaboré avec de nombreuses chercheuses de la génération suivante, dont la Française Marina Kvaskoff (voir plus bas). Elle est également une voix reconnue au sein de la **World Endometriosis Society**, qui réunit la communauté scientifique internationale du domaine (source : Fondation pour la Recherche sur l'Endométriose ; Human Reproduction, consensus WES).
-
-### Hilary Critchley : Université d'Édimbourg (physiologie menstruelle et saignements anormaux)
-
-Professeure de référence sur la physiologie de l'endomètre et les saignements utérins anormaux, elle a occupé de nombreux rôles de coordination scientifique internationale (ESHRE, Society for Gynecologic Investigation) et collabore avec un réseau mondial de chercheurs de premier plan sur l'endomètre (dont Linda Griffith elle-même). Ses travaux ont largement contribué à la compréhension moderne du fonctionnement normal et pathologique de l'endomètre, la même muqueuse au cœur des sections 1, 2 et 4 de ce document (source : University of Edinburgh Research Explorer, 2026).
-
-### Marina Kvaskoff : Inserm / Université Paris-Saclay (épidémiologie de l'endométriose en France)
-
-Épidémiologiste française, elle a placé l'endométriose au centre de ses recherches depuis près de vingt ans après l'avoir découverte presque par hasard pendant sa thèse, en constatant avec surprise le décalage entre l'ampleur de l'impact de cette maladie sur la vie des femmes et le peu de données épidémiologiques alors disponibles. Formée en partie aux côtés de Stacey Missmer à Harvard, elle a mené en France un travail constant de financement et de visibilité de la recherche sur l'endométriose, contribuant à en faire une priorité de santé publique nationale (stratégie nationale lancée en 2022) (source : Université Paris-Saclay, avril 2024).
-
-### Elisabet Stener-Victorin : Institut Karolinska, Stockholm (SOPK/SMOP)
-
-Professeure de physiologie de la reproduction, elle dirige depuis plus de vingt ans un groupe de recherche translationnelle sur le syndrome des ovaires polykystiques, l'une des toutes premières à avoir documenté scientifiquement le lien entre SOPK et santé mentale. Elle a personnellement porté et expliqué publiquement, en mai-juin 2026, le changement de nom du SOPK en SMOP, insistant sur le fait que l'ancienne dénomination centrée sur les ovaires masquait la nature réellement métabolique et systémique de la maladie. Son équipe a notamment contribué, fin 2025, à une étude parue dans "Nature Medicine" identifiant des sous-types cliniques distincts de la maladie (source : Karolinska Institutet ; L'Actualité, juin 2026 ; Nature Medicine, décembre 2025).
-
-### Peter Schmidt : National Institute of Mental Health (NIMH), États-Unis (TDPM)
-
-Chef de la section d'endocrinologie comportementale au NIMH depuis les années 1980, il est l'un des chercheurs qui a le plus contribué à établir le TDPM comme trouble reconnu (il a d'ailleurs conseillé le groupe de travail du DSM-5 sur cette question), et ses travaux ont notamment mis en évidence des différences cellulaires intrinsèques chez les femmes atteintes de TDPM dans leur réponse aux hormones ovariennes, ainsi qu'un complexe de gènes sensibles aux hormones sexuelles impliqué dans la vulnérabilité au trouble (source : NIMH ; National Geographic, mai 2026).
-
-### Jennifer Gordon : Université de Regina, Canada (TDPM)
-
-Chercheuse et présidente non rémunérée du comité consultatif clinique de l'**International Association for Premenstrual Disorders (IAPMD)**, l'organisation internationale de référence pour les patientes et cliniciens concernés par le TDPM. Ses travaux récents (2024) ont notamment suivi les trajectoires hormonales neuro-actives au cours du cycle chez des femmes atteintes de TDPM, affinant la compréhension du lien entre allopregnanolone et symptômes (source : Molecular Psychiatry, 2024).
-
-### Samantha Meltzer-Brody : Université de Caroline du Nord à Chapel Hill (dépression du post-partum)
-
-Titulaire de la chaire de psychiatrie de l'UNC et directrice du Centre des troubles de l'humeur féminins de cette université, elle est une pionnière de la psychiatrie périnatale et l'investigatrice principale des essais cliniques ayant conduit à l'approbation de la brexanolone (2019) puis de la zuranolone pour la dépression du post-partum. Elle rappelle régulièrement, dans ses interventions publiques, que la dépression post-partum touche environ 1 nouvelle mère sur 8 aux États-Unis et reste, comme une grande partie de la santé des femmes, un champ historiquement sous-étudié et négligé par la recherche médicale (source : UNC Health Foundation, 2024 ; Endpoints News, janvier 2025 ; American Journal of Psychiatry, 2026).
-
-### Le fil conducteur de tous ces parcours
-
-En relisant ces neuf trajectoires, un motif commun se dégage nettement : plusieurs de ces chercheuses ont d'abord été confrontées, personnellement ou professionnellement, à un immense décalage entre la fréquence réelle d'un problème de santé féminine et l'attention scientifique et financière qui lui était historiquement accordée. Ce n'est pas un hasard si Linda Griffith parle explicitement d'un "moonshot" nécessaire, ou si Samantha Meltzer-Brody insiste sur le fait que son champ a été "négligé", c'est un constat partagé, documenté, et de plus en plus reconnu par les institutions elles-mêmes, qui explique en grande partie pourquoi tant de pathologies de ce document ont mis aussi longtemps à être prises au sérieux.
-
----
-
-## 9. Conseils pratiques généraux, au-delà du cas par cas
-
-Au-delà des conseils spécifiques donnés section par section, voici une synthèse plus générale, les principes de fond qui, si tu les intègres durablement, te serviront quelle que soit la situation précise que ta partenaire traversera un jour.
-
-### 9.1 Le principe de la croyance par défaut
-
-Le point commun le plus frappant, en écrivant ce document, entre l'endométriose, le TDPM, la vulvodynie, le PGAD, les douleurs pendant les rapports, ou même simplement des règles très douloureuses : **toutes ces pathologies partagent une histoire de non-croyance médicale et sociale**, souvent pendant des années. Le réflexe le plus précieux que tu puisses cultiver n'est donc pas d'apprendre chaque diagnostic par cœur (même si ce document t'y aide), mais d'adopter une posture par défaut : croire ce qu'elle te décrit de son propre corps, avant même d'avoir une confirmation médicale, plutôt que d'attendre une validation extérieure pour prendre sa parole au sérieux.
-
-### 9.2 Le principe de la charge mentale médicale partagée
-
-Presque toutes les pathologies de ce document impliquent, en pratique, une charge de recherche d'information, de prise de rendez-vous, de relance de spécialistes, de gestion administrative (remboursements, arrêts de travail, ordonnances) qui repose très souvent sur la seule patiente, y compris en couple. Partager activement cette charge, proposer de chercher un spécialiste, de prendre un rendez-vous, de relire ensemble un compte-rendu médical incompréhensible, n'est pas un service rendu "en plus" : c'est une charge réelle et mesurable que tu peux concrètement alléger.
-
-### 9.3 Le principe de la présence aux rendez-vous
-
-Plusieurs sources citées dans ce document (notamment autour de l'endométriose et de son délai diagnostique de 7 ans) suggèrent, directement ou indirectement, que la présence d'un partenaire à une consultation gynécologique ou obstétricale change la qualité de l'écoute reçue par la patiente. Ce n'est pas anecdotique : historiquement, la parole des femmes sur leur propre douleur a été plus facilement écartée quand elle n'était portée que par elles seules. Ta présence physique, sans jamais parler à sa place, peut avoir un effet réel.
-
-### 9.4 Le principe de l'anticipation plutôt que de la réaction
-
-Beaucoup de situations décrites dans ce document (SPM, TDPM, diabète gestationnel, contraception) gagnent à être anticipées plutôt que simplement "gérées" au moment où elles deviennent difficiles. Connaître à l'avance les signaux d'alerte des complications graves (prééclampsie, torsion d'ovaire, choc toxique, psychose du post-partum) permet une réaction rapide précisément au moment où chaque minute peut compter, plutôt qu'une improvisation dans la panique.
-
-### 9.5 Le principe de ne jamais réduire un symptôme à une explication psychologique par défaut
-
-Un fil rouge traverse ce document : de très nombreuses pathologies féminines ont été, historiquement et parfois encore aujourd'hui, réduites à "c'est dans sa tête", "c'est le stress", "c'est psychologique" avant qu'une cause physique réelle ne soit finalement identifiée (endométriose, vulvodynie, PGAD, migraine cataméniale...). Cela ne veut pas dire que la dimension psychologique n'existe jamais ou n'a pas d'importance, elle en a, réellement, dans de nombreuses situations, mais elle ne doit jamais être la conclusion par défaut avant d'avoir cherché une explication physique.
-
-### 9.6 Le principe du couple comme unité de deuil et de soin, pas seulement elle comme "patiente"
-
-Fausse couche, GEU, infertilité, insuffisance ovarienne prématurée, dépression post-partum : ce document contient beaucoup de situations de deuil, de peur ou de vulnérabilité intense. Dans chacune de ces situations, tu n'es pas seulement "celui qui soutient" de l'extérieur, tu es aussi, légitimement, une personne concernée et parfois affectée toi-même. Prendre soin de toi-même dans ces moments (en parler à un ami, un thérapeute si besoin) n'est pas égoïste : c'est ce qui te permet de rester une présence stable et durable pour elle sur le long terme.
-
-### 9.7 Récapitulatif des "signaux rouges" à connaître par cœur
-
-Pour clore ce document sur un point pratique et concret, voici la liste consolidée des situations qui, dans tout ce panorama, nécessitent une réaction immédiate (urgences, SAMU 15) plutôt qu'une simple prise de rendez-vous :
-
-- Douleur pelvienne brutale et intense, surtout unilatérale (torsion d'ovaire, GEU, kyste compliqué)
-- Douleur abdominale sévère irradiant vers l'épaule, avec malaise (GEU rompue, hémorragie interne)
-- Fièvre brutale avec éruption cutanée pendant les règles, en particulier sous tampon (choc toxique)
-- Maux de tête violents et inhabituels, troubles visuels, douleur sous les côtes à droite pendant la grossesse (prééclampsie)
-- Douleur abdominale brutale avec saignements en cours de grossesse (décollement placentaire)
-- Douleur thoracique brutale ou essoufflement cyclique lié aux règles (endométriose thoracique, rare)
-- Confusion sévère, propos délirants, perte de contact avec la réalité chez une jeune accouchée (psychose du post-partum)
-- Idées suicidaires évoquées, même de façon détournée, en période post-partum (contacter le 3114 ou le 15 sans délai)
-- Saignement vaginal après la ménopause, à tout moment (toujours à explorer, jamais à attendre)
-
-### 9.8 Un dernier mot
-
-La compétence la plus utile que tu puisses développer n'est pas d'être un expert médical du corps de ta partenaire, mais un partenaire qui ne minimise jamais ce qu'elle rapporte, qui l'accompagne activement chez les professionnels concernés, qui reste curieux sans jamais se substituer à son médecin, et qui, le jour où l'une de ces situations se présentera réellement dans votre vie à deux, saura reconnaître ce qui se joue et réagir avec justesse plutôt que dans l'improvisation.
-
-
-"Document rédigé le 21 juillet 2026, sources vérifiées et datées à cette même période. À mettre à jour si de nouvelles recommandations officielles (HAS, CNGOF, OMS, Inserm) venaient à être publiées, la recherche en santé féminine évolue actuellement rapidement, comme en témoigne le renommage du SOPK en SMOP en mai 2026, survenu pendant la préparation même de ce document."
-
----
-
-## 10. Foire aux questions rapides
-
-**"Un cycle irrégulier, c'est forcément un problème ?"**
-Non. La fourchette normale va de 21 à 35 jours, et une variabilité de quelques jours d'un cycle à l'autre est courante et sans signification pathologique. Ce qui mérite une attention, c'est un changement brutal par rapport à ce qui est "normal pour elle", ou une absence de règles de plus de 3 mois hors grossesse.
-
-**"Si elle a mal pendant ses règles au point de ne pas pouvoir travailler, c'est normal ?"**
-Non, jamais. Une douleur invalidante n'est pas la norme biologique, c'est un signal qui mérite une consultation, potentiellement pour écarter une endométriose ou une adénomyose (sections 4.3 à 4.5).
-
-**"Pourquoi elle a besoin d'autant de temps avant d'être excitée alors que moi c'est plus rapide ?"**
-Ce n'est ni un problème ni un désintérêt. Le désir réactif (section 5.2), très fréquent chez les femmes, a simplement besoin d'un peu plus de temps et de contexte favorable pour s'enclencher que le désir spontané, les deux mécanismes sont parfaitement normaux et ne prédisent rien de négatif sur la relation.
-
-**"Elle m'a dit qu'elle n'avait plus vraiment envie depuis qu'elle a commencé/changé de pilule, c'est possible ?"**
-Oui, c'est un effet secondaire réel et documenté chez une partie des utilisatrices (section 3, étape 2), bien que non systématique. Ça vaut le coup d'en parler avec son médecin plutôt que de le laisser comme un non-dit qui pèse sur la relation.
-
-**"On essaie d'avoir un enfant depuis plusieurs mois sans résultat, faut-il s'inquiéter ?"**
-Le délai généralement retenu avant d'explorer une éventuelle infertilité est de 12 mois de rapports réguliers sans contraception (6 mois si la femme a plus de 35 ans). En dessous de ce délai, c'est encore statistiquement dans la norme, même si l'attente est difficile à vivre pour un couple.
-
-**"Elle vient de faire une fausse couche, qu'est-ce que je peux faire concrètement ?"**
-Voir en détail la section 6.2, en résumé : être présent, ne jamais suggérer que c'est de sa faute, l'accompagner au suivi médical, et ne pas minimiser ta propre peine si tu en ressens.
-
-**"Comment savoir si c'est un baby blues ou une vraie dépression post-partum ?"**
-Le baby blues dure quelques jours (3 à 5 jours en général) et se résout spontanément. Si la tristesse, l'anxiété ou le sentiment d'être dépassée persistent au-delà de deux semaines, s'aggravent, ou s'accompagnent de pensées noires, ce n'est plus un simple baby blues, voir section 7.1.
-
-**"Elle veut arrêter d'allaiter et se sent coupable, que dire ?"**
-Que ce choix lui appartient entièrement, qu'il n'y a aucune obligation morale à allaiter, et qu'un bébé nourri au lait infantile et une mère apaisée valent largement mieux qu'un allaitement maintenu au prix d'un épuisement ou d'une souffrance (section 7.7).
-
----
-
-## 11. Ressources et associations utiles
-
-Quelques ressources concrètes, au-delà de ce document, si un jour vous en avez besoin à deux :
-
-- **Fondation pour la Recherche sur l'Endométriose** (fondation-endometriose.org) : association française de référence, finance la recherche et publie une bibliographie scientifique accessible, utile si vous voulez creuser un point précis avec des sources primaires.
-- **Association TDPM France** (assotdpmfrance.fr) : ressources francophones spécifiquement dédiées au trouble dysphorique prémenstruel, encore peu connu du grand public et parfois même des médecins généralistes.
-- **International Association for Premenstrual Disorders (IAPMD)** : organisation internationale de référence pour les patientes et cliniciens concernés par le TDPM, dont la chercheuse Jennifer Gordon (section 8) préside le comité consultatif clinique.
-- **ComPaRe** (Inserm/AP-HP) : cohorte française en ligne pour patients atteints de maladies chroniques, dont l'endométriose, permettant de contribuer à la recherche tout en bénéficiant d'un suivi structuré.
-- **Numéro national de prévention du suicide : le 3114**, gratuit, disponible 24h/24 et 7j/7, à connaître pour toute situation de détresse évoquée dans ce document (dépression du post-partum notamment, section 7.1).
-- **Centres spécialisés en endométriose** : la stratégie nationale française de 2022 a permis la structuration de filières de soins régionales dédiées, un centre de référence ou de compétence existe probablement près de chez vous, à rechercher via le CHU le plus proche.
-
-**Bon réflexe** : si un jour l'un de ces sujets devient concret dans votre vie de couple, chercher ensemble la ressource adaptée (plutôt que de la laisser chercher seule) est, encore une fois, l'un des gestes les plus simples et les plus significatifs que tu puisses avoir.
-
----
-
-## 12. Glossaire complet des termes médicaux employés dans ce document
-
-Un glossaire pour t'y retrouver rapidement, dans l'ordre alphabétique, sans avoir à rouvrir chaque section :
-
-- **Adénomyose** : présence de tissu endométrial dans le muscle utérin lui-même (4.5).
-- **Allopregnanolone** : métabolite de la progestérone agissant sur le cerveau, au cœur du mécanisme du TDPM et de la dépression du post-partum (4.2, 7.1).
-- **Aménorrhée** : absence de règles, primaire (jamais eu ses règles) ou secondaire (arrêt après en avoir eu) (4.9).
-- **Anovulation** : absence d'ovulation lors d'un cycle donné.
-- **Axe HPO** : axe hypothalamo-hypophyso-ovarien, le système hormonal en boucle qui pilote le cycle (1.1).
-- **Cataménial(e)** : qui est lié au cycle menstruel (ex. migraine cataméniale, épilepsie cataméniale) (4.19).
-- **Corps jaune** : structure temporaire formée après l'ovulation, qui sécrète la progestérone (1.2).
-- **Dysménorrhée** : douleur de règles, primaire (sans cause sous-jacente) ou secondaire (avec cause identifiée) (4.3).
-- **Dyspareunie** : douleur pendant les rapports sexuels, superficielle ou profonde (5.5).
-- **Endomètre** : muqueuse qui tapisse l'intérieur de l'utérus, évacuée lors des règles.
-- **Endométriose** : présence de tissu semblable à l'endomètre en dehors de l'utérus (4.4).
-- **FSH** : hormone folliculo-stimulante, sécrétée par l'hypophyse, stimule la croissance des follicules ovariens (1.1).
-- **GEU (grossesse extra-utérine)** : implantation de l'embryon en dehors de la cavité utérine, le plus souvent dans une trompe (6.3).
-- **GnRH** : gonadolibérine, hormone sécrétée par l'hypothalamus qui déclenche toute la cascade hormonale du cycle (1.1).
-- **HELLP (syndrome)** : complication sévère de la prééclampsie associant hémolyse, atteinte hépatique et chute des plaquettes (6.7).
-- **Hyperandrogénie** : excès d'hormones masculinisantes (acné, pilosité, alopécie), présente notamment dans le SOPK/SMOP (4.6, 4.13bis).
-- **Hyperémèse gravidique** : forme sévère de nausées de grossesse (6.4).
-- **Insuffisance ovarienne prématurée (POI)** : arrêt du fonctionnement ovarien avant 40 ans (4.10).
-- **LH** : hormone lutéinisante, dont le pic déclenche l'ovulation (1.1, 1.2).
-- **Ménorragie** : règles anormalement abondantes (4.11).
-- **PALM-COEIN** : classification internationale des causes de saignements utérins anormaux (4.22).
-- **PGAD** : syndrome d'excitation génitale persistante, non désirée et non liée au désir sexuel (5.7).
-- **PMDD / TDPM** : trouble dysphorique prémenstruel, forme sévère du SPM reconnue comme trouble psychiatrique (4.2).
-- **Prééclampsie** : hypertension artérielle de la grossesse associée à une protéinurie (6.6).
-- **Progestérone** : hormone sécrétée par le corps jaune puis par le placenta, stabilise l'endomètre et la grossesse (1.1, 1.2).
-- **PPROM** : rupture prématurée des membranes avant terme (6.10).
-- **RCIU** : retard de croissance intra-utérin (6.10).
-- **SMOP (anciennement SOPK)** : syndrome métabolique ovarien polyendocrinien, renommé en mai 2026 (4.6).
-- **Vaginisme** : contraction involontaire et douloureuse des muscles à l'entrée du vagin (5.4).
-- **Vulvodynie** : douleur chronique de la vulve sans cause identifiable à l'examen (5.6).
-
-
-"Fin du document. Rédigé le 21 juillet 2026, édition augmentée. Sources vérifiées et datées à cette même période."
-
----
-
-## 13. La santé émotionnelle : ce qu'on attribue trop vite aux hormones
-
-### 13.1 L'analogie du fusible
-
-Quand une installation disjoncte, on peut accuser le fusible. Il a effectivement sauté. Mais le fusible n'est pas la cause : il a sauté parce que la ligne était surchargée, et le remplacer sans toucher à la charge garantit qu'il sautera encore.
-
-« C'est hormonal » fonctionne exactement comme cette accusation du fusible. C'est parfois vrai, souvent partiel, et régulièrement utilisé pour ne pas regarder la charge. Ce chapitre trie : ce que les hormones expliquent réellement, ce qu'elles n'expliquent pas, et ce qui se joue ailleurs.
-
-### 13.2 Ce que les hormones expliquent réellement
-
-Trois situations où le lien est solide, et il serait absurde de les minimiser.
-
-**Le trouble dysphorique prémenstruel (TDPM).** À distinguer nettement du syndrome prémenstruel ordinaire. Il touche une minorité de femmes et se caractérise par des symptômes de l'humeur sévères et invalidants en phase lutéale, disparaissant avec les règles. Ce n'est pas une exagération du SPM : c'est reconnu comme un trouble à part entière, et il existe des prises en charge. Le mécanisme retenu n'est pas un taux hormonal anormal — les dosages sont généralement normaux — mais une **sensibilité particulière aux variations**.
-
-**La période post-partum.** La chute hormonale brutale après l'accouchement, combinée à la privation de sommeil et au bouleversement de vie, constitue une période de vulnérabilité réelle. La dépression du post-partum n'est ni un caractère fragile ni un manque d'amour pour l'enfant. Elle se traite, et elle est d'autant mieux prise en charge qu'elle est nommée tôt. Voir le chapitre 7 de ce guide.
-
-**La périménopause.** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement.
-
-### 13.3 Ce qu'on leur attribue à tort
-
-C'est l'autre versant, et il est au moins aussi important.
-
-**Le « c'est tes hormones » comme fin de conversation.** Utilisé pour disqualifier une colère, un désaccord ou une plainte, c'est un procédé qui a une longue histoire — le mot « hystérie » vient de *hustera*, l'utérus. L'effet pratique est constant : la personne cesse de discuter du fond, parce que le fond a été renvoyé à sa biologie.
-
-**Le retard diagnostique.** Des travaux documentent une tendance à attribuer plus rapidement des symptômes physiques féminins à l'anxiété, avec pour conséquence des délais de diagnostic plus longs sur plusieurs pathologies. L'endométriose en est l'exemple le plus connu : le délai entre les premiers symptômes et le diagnostic se compte encore en années. Voir le chapitre 4.
-
-**La fatigue de fond.** Avant d'invoquer le cycle, deux causes très fréquentes méritent d'être écartées : la **carence en fer**, particulièrement fréquente en cas de règles abondantes, et la dette de sommeil. Un dosage de ferritine est simple, peu coûteux, et souvent révélateur. Voir [Les émotions](<../1 - Guides/Les emotions/README.md>), chapitre 7.
-
-### 13.4 La colère empêchée
-
-C'est probablement le point le plus utile de ce chapitre.
-
-Les règles d'affichage décrites dans [Les émotions](<../1 - Guides/Les emotions/README.md>) sont fortement genrées : la colère est tolérée chez les hommes et requalifiée chez les femmes — en excès, en instabilité, en hormones. Beaucoup de femmes apprennent donc, très tôt, à convertir leur colère en une émotion socialement acceptable : la tristesse ou la culpabilité.
-
-Le coût est concret. La colère est l'émotion qui signale **une limite franchie**, et elle appelle une action : poser la limite. Convertie en tristesse, elle ne signale plus rien d'actionnable — elle appelle du réconfort, ce qui ne change pas la situation. La limite reste franchie.
-
-Le repère pratique : quand vous vous sentez triste ou coupable après une interaction, posez la question de l'émotion primaire — **« qu'est-ce que j'ai ressenti juste avant d'être triste ? »**. Si la réponse est « en colère », l'information utile est là.
-
-### 13.5 La charge mentale comme facteur émotionnel
-
-La [charge mentale](<../2 - Notions/Charge mentale.md>) n'est pas seulement une injustice d'organisation. C'est un facteur de santé émotionnelle : maintenir en permanence une liste de tâches à anticiper consomme une ressource attentionnelle qui n'est plus disponible pour autre chose — y compris pour le désir, comme le montre le [modèle du double contrôle](<../2 - Notions/Modèle du double contrôle.md>).
-
-Ce point est souvent mal posé dans le couple, parce qu'il est présenté comme une plainte alors qu'il décrit une répartition. Le déplacer vers du concret change la conversation : non pas « tu ne m'aides pas », mais **« qui pense à quoi ? »** — la liste des choses qu'il faut *anticiper*, distincte de celles qu'il faut *exécuter*.
-
-💑 **Dans le couple**
-
-La phrase à ne jamais employer est « c'est tes hormones », même quand c'est vrai. Elle transforme une personne en organe et clôt la discussion.
-
-Ce qui fonctionne est le levier du différentiel : **« est-ce que c'est quelque chose qui revient à un moment du mois, ou est-ce que c'est là tout le temps en ce moment ? »** La question est répondable, elle distingue une cyclicité d'un état durable — et cette distinction est exactement celle qui compte pour savoir quoi faire.
-
-**Bons réflexes**
-
-- Notez la chronologie sur deux ou trois mois avant de conclure à une cause cyclique. Une impression n'est pas une donnée ; un relevé daté en est une.
-- Écartez le fer et le sommeil avant l'hormonal. Une ferritine basse produit exactement le tableau qu'on met sur le compte du cycle.
-- Cherchez l'émotion primaire sous la tristesse. La colère mal adressée devient du ressentiment, qui est bien plus corrosif.
-- Si une plainte n'est pas prise au sérieux en consultation, demandez explicitement qu'un examen précis soit fait ou écarté. C'est une demande recevable, et un second avis est légitime.
-
----
-
-## 14. Les pièges de la modernité : injonctions, écrans et industrie du bien-être
+## 19. Les pièges de la modernité : injonctions, écrans et industrie du bien-être
 
 ### 14.1 L'analogie du miroir déformant
 
@@ -1085,7 +1051,7 @@ Une entrée qui fonctionne, sans jugement : **« est-ce que tu te sens mieux ou 
 
 ---
 
-## 15. Les peurs : lesquelles sont fondées, et comment avancer
+## 20. Les peurs : lesquelles sont fondées, et comment avancer
 
 ### 15.1 L'analogie de l'alarme mal calibrée
 
@@ -1150,3 +1116,183 @@ Ce qui fonctionne mieux : **« tu veux que je te rassure, ou que je t'aide à tr
 - Apprenez les signes atypiques de l'infarctus chez la femme. C'est l'information la plus utile de ce chapitre.
 - Fixez une limite à la vérification. Au-delà, chercher n'informe plus, ça entretient.
 - Consultez sur un écart par rapport à votre normale, pas sur une norme générale.
+
+---
+
+## 22. Les figures de la recherche en 2026 : qui fait avancer quoi
+
+Tu as demandé les "superstars" du domaine, les voici, avec ce qu'elles ont concrètement changé. Un point commun frappant à la lecture de leurs parcours : plusieurs d'entre elles ont commencé à s'intéresser à leur sujet soit parce qu'elles vivaient elles-mêmes la maladie qu'elles étudient, soit parce qu'elles ont été frappées par le contraste entre la fréquence d'un problème et le peu de recherche qui lui était consacré.
+
+### Camille Berthelot : Institut Pasteur, Paris (génomique évolutive de la menstruation)
+
+Chargée de recherche Inserm à l'Institut Pasteur, elle dirige le projet **EVOMENS**, financé par le Conseil européen de la recherche, qui compare les génomes de primates menstruant et non-menstruant pour identifier les gènes à l'origine de la menstruation au cours de l'évolution. Son objectif déclaré : comprendre l'origine évolutive des règles pour mieux soigner l'endométriose, une maladie qui reste, selon ses propres mots rapportés par l'Inserm, mal comprise "d'un point de vue scientifique" malgré son importance pour la santé des femmes (source : Inserm, 2022 ; Institut Pasteur, 2025-2026).
+
+### Linda Griffith : MIT, Cambridge (bio-ingénierie et endométriose)
+
+Professeure de bio-ingénierie au MIT, devenue mondialement connue dans son domaine pour avoir fait pousser une oreille humaine sur le dos d'une souris au début de sa carrière. Atteinte elle-même d'endométriose depuis l'adolescence, sa douleur a longtemps été traitée avec désinvolture par le corps médical, retardant son propre diagnostic de plusieurs années. Elle a réorienté sa carrière scientifique vers cette maladie, cofondant en 2009 le **MIT Center for Gynepathology Research**, le premier centre de ce type au monde. Un profil du New York Times la décrit comme ayant "reformulé l'endométriose comme une clé pour percer certains des plus grands secrets de la biologie" (régénération tissulaire, cicatrisation sans cicatrice, fonction immunitaire). Fin 2025, elle a lancé un "moonshot" de dix millions de dollars pour la science de la menstruation, un pari qu'elle est, selon ses collègues, l'une des seules à pouvoir se permettre par son autorité scientifique (source : NPR, 2021 ; Maven/The Preprint, octobre 2025).
+
+### Stacey Missmer : Michigan State University (anciennement Harvard) (épidémiologie de l'endométriose)
+
+Considérée comme l'une des pionnières mondiales de l'épidémiologie de l'endométriose, ses travaux ont établi une bonne partie des connaissances de référence sur les facteurs de risque et les conséquences à long terme de la maladie (impact sur la fertilité, qualité de vie des adolescentes atteintes). Elle a formé et collaboré avec de nombreuses chercheuses de la génération suivante, dont la Française Marina Kvaskoff (voir plus bas). Elle est également une voix reconnue au sein de la **World Endometriosis Society**, qui réunit la communauté scientifique internationale du domaine (source : Fondation pour la Recherche sur l'Endométriose ; Human Reproduction, consensus WES).
+
+### Hilary Critchley : Université d'Édimbourg (physiologie menstruelle et saignements anormaux)
+
+Professeure de référence sur la physiologie de l'endomètre et les saignements utérins anormaux, elle a occupé de nombreux rôles de coordination scientifique internationale (ESHRE, Society for Gynecologic Investigation) et collabore avec un réseau mondial de chercheurs de premier plan sur l'endomètre (dont Linda Griffith elle-même). Ses travaux ont largement contribué à la compréhension moderne du fonctionnement normal et pathologique de l'endomètre, la même muqueuse au cœur des sections 1, 2 et 4 de ce document (source : University of Edinburgh Research Explorer, 2026).
+
+### Marina Kvaskoff : Inserm / Université Paris-Saclay (épidémiologie de l'endométriose en France)
+
+Épidémiologiste française, elle a placé l'endométriose au centre de ses recherches depuis près de vingt ans après l'avoir découverte presque par hasard pendant sa thèse, en constatant avec surprise le décalage entre l'ampleur de l'impact de cette maladie sur la vie des femmes et le peu de données épidémiologiques alors disponibles. Formée en partie aux côtés de Stacey Missmer à Harvard, elle a mené en France un travail constant de financement et de visibilité de la recherche sur l'endométriose, contribuant à en faire une priorité de santé publique nationale (stratégie nationale lancée en 2022) (source : Université Paris-Saclay, avril 2024).
+
+### Elisabet Stener-Victorin : Institut Karolinska, Stockholm (SOPK/SMOP)
+
+Professeure de physiologie de la reproduction, elle dirige depuis plus de vingt ans un groupe de recherche translationnelle sur le syndrome des ovaires polykystiques, l'une des toutes premières à avoir documenté scientifiquement le lien entre SOPK et santé mentale. Elle a personnellement porté et expliqué publiquement, en mai-juin 2026, le changement de nom du SOPK en SMOP, insistant sur le fait que l'ancienne dénomination centrée sur les ovaires masquait la nature réellement métabolique et systémique de la maladie. Son équipe a notamment contribué, fin 2025, à une étude parue dans "Nature Medicine" identifiant des sous-types cliniques distincts de la maladie (source : Karolinska Institutet ; L'Actualité, juin 2026 ; Nature Medicine, décembre 2025).
+
+### Peter Schmidt : National Institute of Mental Health (NIMH), États-Unis (TDPM)
+
+Chef de la section d'endocrinologie comportementale au NIMH depuis les années 1980, il est l'un des chercheurs qui a le plus contribué à établir le TDPM comme trouble reconnu (il a d'ailleurs conseillé le groupe de travail du DSM-5 sur cette question), et ses travaux ont notamment mis en évidence des différences cellulaires intrinsèques chez les femmes atteintes de TDPM dans leur réponse aux hormones ovariennes, ainsi qu'un complexe de gènes sensibles aux hormones sexuelles impliqué dans la vulnérabilité au trouble (source : NIMH ; National Geographic, mai 2026).
+
+### Jennifer Gordon : Université de Regina, Canada (TDPM)
+
+Chercheuse et présidente non rémunérée du comité consultatif clinique de l'**International Association for Premenstrual Disorders (IAPMD)**, l'organisation internationale de référence pour les patientes et cliniciens concernés par le TDPM. Ses travaux récents (2024) ont notamment suivi les trajectoires hormonales neuro-actives au cours du cycle chez des femmes atteintes de TDPM, affinant la compréhension du lien entre allopregnanolone et symptômes (source : Molecular Psychiatry, 2024).
+
+### Samantha Meltzer-Brody : Université de Caroline du Nord à Chapel Hill (dépression du post-partum)
+
+Titulaire de la chaire de psychiatrie de l'UNC et directrice du Centre des troubles de l'humeur féminins de cette université, elle est une pionnière de la psychiatrie périnatale et l'investigatrice principale des essais cliniques ayant conduit à l'approbation de la brexanolone (2019) puis de la zuranolone pour la dépression du post-partum. Elle rappelle régulièrement, dans ses interventions publiques, que la dépression post-partum touche environ 1 nouvelle mère sur 8 aux États-Unis et reste, comme une grande partie de la santé des femmes, un champ historiquement sous-étudié et négligé par la recherche médicale (source : UNC Health Foundation, 2024 ; Endpoints News, janvier 2025 ; American Journal of Psychiatry, 2026).
+
+### Le fil conducteur de tous ces parcours
+
+En relisant ces neuf trajectoires, un motif commun se dégage nettement : plusieurs de ces chercheuses ont d'abord été confrontées, personnellement ou professionnellement, à un immense décalage entre la fréquence réelle d'un problème de santé féminine et l'attention scientifique et financière qui lui était historiquement accordée. Ce n'est pas un hasard si Linda Griffith parle explicitement d'un "moonshot" nécessaire, ou si Samantha Meltzer-Brody insiste sur le fait que son champ a été "négligé", c'est un constat partagé, documenté, et de plus en plus reconnu par les institutions elles-mêmes, qui explique en grande partie pourquoi tant de pathologies de ce document ont mis aussi longtemps à être prises au sérieux.
+
+---
+
+## 23. Conseils pratiques généraux, au-delà du cas par cas
+
+Au-delà des conseils spécifiques donnés section par section, voici une synthèse plus générale, les principes de fond qui, si tu les intègres durablement, te serviront quelle que soit la situation précise que ta partenaire traversera un jour.
+
+### 9.1 Le principe de la croyance par défaut
+
+Le point commun le plus frappant, en écrivant ce document, entre l'endométriose, le TDPM, la vulvodynie, le PGAD, les douleurs pendant les rapports, ou même simplement des règles très douloureuses : **toutes ces pathologies partagent une histoire de non-croyance médicale et sociale**, souvent pendant des années. Le réflexe le plus précieux que tu puisses cultiver n'est donc pas d'apprendre chaque diagnostic par cœur (même si ce document t'y aide), mais d'adopter une posture par défaut : croire ce qu'elle te décrit de son propre corps, avant même d'avoir une confirmation médicale, plutôt que d'attendre une validation extérieure pour prendre sa parole au sérieux.
+
+### 9.2 Le principe de la charge mentale médicale partagée
+
+Presque toutes les pathologies de ce document impliquent, en pratique, une charge de recherche d'information, de prise de rendez-vous, de relance de spécialistes, de gestion administrative (remboursements, arrêts de travail, ordonnances) qui repose très souvent sur la seule patiente, y compris en couple. Partager activement cette charge, proposer de chercher un spécialiste, de prendre un rendez-vous, de relire ensemble un compte-rendu médical incompréhensible, n'est pas un service rendu "en plus" : c'est une charge réelle et mesurable que tu peux concrètement alléger.
+
+### 9.3 Le principe de la présence aux rendez-vous
+
+Plusieurs sources citées dans ce document (notamment autour de l'endométriose et de son délai diagnostique de 7 ans) suggèrent, directement ou indirectement, que la présence d'un partenaire à une consultation gynécologique ou obstétricale change la qualité de l'écoute reçue par la patiente. Ce n'est pas anecdotique : historiquement, la parole des femmes sur leur propre douleur a été plus facilement écartée quand elle n'était portée que par elles seules. Ta présence physique, sans jamais parler à sa place, peut avoir un effet réel.
+
+### 9.4 Le principe de l'anticipation plutôt que de la réaction
+
+Beaucoup de situations décrites dans ce document (SPM, TDPM, diabète gestationnel, contraception) gagnent à être anticipées plutôt que simplement "gérées" au moment où elles deviennent difficiles. Connaître à l'avance les signaux d'alerte des complications graves (prééclampsie, torsion d'ovaire, choc toxique, psychose du post-partum) permet une réaction rapide précisément au moment où chaque minute peut compter, plutôt qu'une improvisation dans la panique.
+
+### 9.5 Le principe de ne jamais réduire un symptôme à une explication psychologique par défaut
+
+Un fil rouge traverse ce document : de très nombreuses pathologies féminines ont été, historiquement et parfois encore aujourd'hui, réduites à "c'est dans sa tête", "c'est le stress", "c'est psychologique" avant qu'une cause physique réelle ne soit finalement identifiée (endométriose, vulvodynie, PGAD, migraine cataméniale...). Cela ne veut pas dire que la dimension psychologique n'existe jamais ou n'a pas d'importance, elle en a, réellement, dans de nombreuses situations, mais elle ne doit jamais être la conclusion par défaut avant d'avoir cherché une explication physique.
+
+### 9.6 Le principe du couple comme unité de deuil et de soin, pas seulement elle comme "patiente"
+
+Fausse couche, GEU, infertilité, insuffisance ovarienne prématurée, dépression post-partum : ce document contient beaucoup de situations de deuil, de peur ou de vulnérabilité intense. Dans chacune de ces situations, tu n'es pas seulement "celui qui soutient" de l'extérieur, tu es aussi, légitimement, une personne concernée et parfois affectée toi-même. Prendre soin de toi-même dans ces moments (en parler à un ami, un thérapeute si besoin) n'est pas égoïste : c'est ce qui te permet de rester une présence stable et durable pour elle sur le long terme.
+
+### 9.7 Récapitulatif des "signaux rouges" à connaître par cœur
+
+Pour clore ce document sur un point pratique et concret, voici la liste consolidée des situations qui, dans tout ce panorama, nécessitent une réaction immédiate (urgences, SAMU 15) plutôt qu'une simple prise de rendez-vous :
+
+- Douleur pelvienne brutale et intense, surtout unilatérale (torsion d'ovaire, GEU, kyste compliqué)
+- Douleur abdominale sévère irradiant vers l'épaule, avec malaise (GEU rompue, hémorragie interne)
+- Fièvre brutale avec éruption cutanée pendant les règles, en particulier sous tampon (choc toxique)
+- Maux de tête violents et inhabituels, troubles visuels, douleur sous les côtes à droite pendant la grossesse (prééclampsie)
+- Douleur abdominale brutale avec saignements en cours de grossesse (décollement placentaire)
+- Douleur thoracique brutale ou essoufflement cyclique lié aux règles (endométriose thoracique, rare)
+- Confusion sévère, propos délirants, perte de contact avec la réalité chez une jeune accouchée (psychose du post-partum)
+- Idées suicidaires évoquées, même de façon détournée, en période post-partum (contacter le 3114 ou le 15 sans délai)
+- Saignement vaginal après la ménopause, à tout moment (toujours à explorer, jamais à attendre)
+
+### 9.8 Un dernier mot
+
+La compétence la plus utile que tu puisses développer n'est pas d'être un expert médical du corps de ta partenaire, mais un partenaire qui ne minimise jamais ce qu'elle rapporte, qui l'accompagne activement chez les professionnels concernés, qui reste curieux sans jamais se substituer à son médecin, et qui, le jour où l'une de ces situations se présentera réellement dans votre vie à deux, saura reconnaître ce qui se joue et réagir avec justesse plutôt que dans l'improvisation.
+
+
+"Document rédigé le 21 juillet 2026, sources vérifiées et datées à cette même période. À mettre à jour si de nouvelles recommandations officielles (HAS, CNGOF, OMS, Inserm) venaient à être publiées, la recherche en santé féminine évolue actuellement rapidement, comme en témoigne le renommage du SOPK en SMOP en mai 2026, survenu pendant la préparation même de ce document."
+
+---
+
+## 24. Foire aux questions rapides
+
+**"Un cycle irrégulier, c'est forcément un problème ?"**
+Non. La fourchette normale va de 21 à 35 jours, et une variabilité de quelques jours d'un cycle à l'autre est courante et sans signification pathologique. Ce qui mérite une attention, c'est un changement brutal par rapport à ce qui est "normal pour elle", ou une absence de règles de plus de 3 mois hors grossesse.
+
+**"Si elle a mal pendant ses règles au point de ne pas pouvoir travailler, c'est normal ?"**
+Non, jamais. Une douleur invalidante n'est pas la norme biologique, c'est un signal qui mérite une consultation, potentiellement pour écarter une endométriose ou une adénomyose (sections 4.3 à 4.5).
+
+**"Pourquoi elle a besoin d'autant de temps avant d'être excitée alors que moi c'est plus rapide ?"**
+Ce n'est ni un problème ni un désintérêt. Le désir réactif (section 5.2), très fréquent chez les femmes, a simplement besoin d'un peu plus de temps et de contexte favorable pour s'enclencher que le désir spontané, les deux mécanismes sont parfaitement normaux et ne prédisent rien de négatif sur la relation.
+
+**"Elle m'a dit qu'elle n'avait plus vraiment envie depuis qu'elle a commencé/changé de pilule, c'est possible ?"**
+Oui, c'est un effet secondaire réel et documenté chez une partie des utilisatrices (section 3, étape 2), bien que non systématique. Ça vaut le coup d'en parler avec son médecin plutôt que de le laisser comme un non-dit qui pèse sur la relation.
+
+**"On essaie d'avoir un enfant depuis plusieurs mois sans résultat, faut-il s'inquiéter ?"**
+Le délai généralement retenu avant d'explorer une éventuelle infertilité est de 12 mois de rapports réguliers sans contraception (6 mois si la femme a plus de 35 ans). En dessous de ce délai, c'est encore statistiquement dans la norme, même si l'attente est difficile à vivre pour un couple.
+
+**"Elle vient de faire une fausse couche, qu'est-ce que je peux faire concrètement ?"**
+Voir en détail la section 6.2, en résumé : être présent, ne jamais suggérer que c'est de sa faute, l'accompagner au suivi médical, et ne pas minimiser ta propre peine si tu en ressens.
+
+**"Comment savoir si c'est un baby blues ou une vraie dépression post-partum ?"**
+Le baby blues dure quelques jours (3 à 5 jours en général) et se résout spontanément. Si la tristesse, l'anxiété ou le sentiment d'être dépassée persistent au-delà de deux semaines, s'aggravent, ou s'accompagnent de pensées noires, ce n'est plus un simple baby blues, voir section 7.1.
+
+**"Elle veut arrêter d'allaiter et se sent coupable, que dire ?"**
+Que ce choix lui appartient entièrement, qu'il n'y a aucune obligation morale à allaiter, et qu'un bébé nourri au lait infantile et une mère apaisée valent largement mieux qu'un allaitement maintenu au prix d'un épuisement ou d'une souffrance (section 7.7).
+
+---
+
+## 25. Ressources et associations utiles
+
+Quelques ressources concrètes, au-delà de ce document, si un jour vous en avez besoin à deux :
+
+- **Fondation pour la Recherche sur l'Endométriose** (fondation-endometriose.org) : association française de référence, finance la recherche et publie une bibliographie scientifique accessible, utile si vous voulez creuser un point précis avec des sources primaires.
+- **Association TDPM France** (assotdpmfrance.fr) : ressources francophones spécifiquement dédiées au trouble dysphorique prémenstruel, encore peu connu du grand public et parfois même des médecins généralistes.
+- **International Association for Premenstrual Disorders (IAPMD)** : organisation internationale de référence pour les patientes et cliniciens concernés par le TDPM, dont la chercheuse Jennifer Gordon (section 8) préside le comité consultatif clinique.
+- **ComPaRe** (Inserm/AP-HP) : cohorte française en ligne pour patients atteints de maladies chroniques, dont l'endométriose, permettant de contribuer à la recherche tout en bénéficiant d'un suivi structuré.
+- **Numéro national de prévention du suicide : le 3114**, gratuit, disponible 24h/24 et 7j/7, à connaître pour toute situation de détresse évoquée dans ce document (dépression du post-partum notamment, section 7.1).
+- **Centres spécialisés en endométriose** : la stratégie nationale française de 2022 a permis la structuration de filières de soins régionales dédiées, un centre de référence ou de compétence existe probablement près de chez vous, à rechercher via le CHU le plus proche.
+
+**Bon réflexe** : si un jour l'un de ces sujets devient concret dans votre vie de couple, chercher ensemble la ressource adaptée (plutôt que de la laisser chercher seule) est, encore une fois, l'un des gestes les plus simples et les plus significatifs que tu puisses avoir.
+
+---
+
+## 26. Glossaire complet des termes médicaux employés dans ce document
+
+Un glossaire pour t'y retrouver rapidement, dans l'ordre alphabétique, sans avoir à rouvrir chaque section :
+
+- **Adénomyose** : présence de tissu endométrial dans le muscle utérin lui-même (4.5).
+- **Allopregnanolone** : métabolite de la progestérone agissant sur le cerveau, au cœur du mécanisme du TDPM et de la dépression du post-partum (4.2, 7.1).
+- **Aménorrhée** : absence de règles, primaire (jamais eu ses règles) ou secondaire (arrêt après en avoir eu) (4.9).
+- **Anovulation** : absence d'ovulation lors d'un cycle donné.
+- **Axe HPO** : axe hypothalamo-hypophyso-ovarien, le système hormonal en boucle qui pilote le cycle (1.1).
+- **Cataménial(e)** : qui est lié au cycle menstruel (ex. migraine cataméniale, épilepsie cataméniale) (4.19).
+- **Corps jaune** : structure temporaire formée après l'ovulation, qui sécrète la progestérone (1.2).
+- **Dysménorrhée** : douleur de règles, primaire (sans cause sous-jacente) ou secondaire (avec cause identifiée) (4.3).
+- **Dyspareunie** : douleur pendant les rapports sexuels, superficielle ou profonde (5.5).
+- **Endomètre** : muqueuse qui tapisse l'intérieur de l'utérus, évacuée lors des règles.
+- **Endométriose** : présence de tissu semblable à l'endomètre en dehors de l'utérus (4.4).
+- **FSH** : hormone folliculo-stimulante, sécrétée par l'hypophyse, stimule la croissance des follicules ovariens (1.1).
+- **GEU (grossesse extra-utérine)** : implantation de l'embryon en dehors de la cavité utérine, le plus souvent dans une trompe (6.3).
+- **GnRH** : gonadolibérine, hormone sécrétée par l'hypothalamus qui déclenche toute la cascade hormonale du cycle (1.1).
+- **HELLP (syndrome)** : complication sévère de la prééclampsie associant hémolyse, atteinte hépatique et chute des plaquettes (6.7).
+- **Hyperandrogénie** : excès d'hormones masculinisantes (acné, pilosité, alopécie), présente notamment dans le SOPK/SMOP (4.6, 4.13bis).
+- **Hyperémèse gravidique** : forme sévère de nausées de grossesse (6.4).
+- **Insuffisance ovarienne prématurée (POI)** : arrêt du fonctionnement ovarien avant 40 ans (4.10).
+- **LH** : hormone lutéinisante, dont le pic déclenche l'ovulation (1.1, 1.2).
+- **Ménorragie** : règles anormalement abondantes (4.11).
+- **PALM-COEIN** : classification internationale des causes de saignements utérins anormaux (4.22).
+- **PGAD** : syndrome d'excitation génitale persistante, non désirée et non liée au désir sexuel (5.7).
+- **PMDD / TDPM** : trouble dysphorique prémenstruel, forme sévère du SPM reconnue comme trouble psychiatrique (4.2).
+- **Prééclampsie** : hypertension artérielle de la grossesse associée à une protéinurie (6.6).
+- **Progestérone** : hormone sécrétée par le corps jaune puis par le placenta, stabilise l'endomètre et la grossesse (1.1, 1.2).
+- **PPROM** : rupture prématurée des membranes avant terme (6.10).
+- **RCIU** : retard de croissance intra-utérin (6.10).
+- **SMOP (anciennement SOPK)** : syndrome métabolique ovarien polyendocrinien, renommé en mai 2026 (4.6).
+- **Vaginisme** : contraction involontaire et douloureuse des muscles à l'entrée du vagin (5.4).
+- **Vulvodynie** : douleur chronique de la vulve sans cause identifiable à l'examen (5.6).
+
+
+"Fin du document. Rédigé le 21 juillet 2026, édition augmentée. Sources vérifiées et datées à cette même période."

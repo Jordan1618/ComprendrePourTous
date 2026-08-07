@@ -12,6 +12,6 @@ Difficulté à identifier et à nommer ses propres émotions. Ce n'est pas une a
 La distinction change tout dans une relation. Quelqu'un qui ne répond pas à "qu'est-ce que tu ressens" ne se ferme pas forcément, il peut ne pas avoir la réponse à disposition. Poser la question autrement, en partant du corps ou des faits, ouvre souvent ce qu'une question émotionnelle directe verrouille.
 
 **Où c'est développé**
-- [L'architecture émotionnelle](<../1 - Guides/Pour Lui/02 - L'architecture émotionnelle.md>).
-- [Le substrat socio-neuro-psychologique](<../1 - Guides/Pour Lui/02b - Le substrat socio-neuro-psychologique.md>).
+- [L'architecture émotionnelle](<../1 - Guides/Pour Lui/04 - L'architecture émotionnelle.md>).
+- [Le substrat socio-neuro-psychologique](<../1 - Guides/Pour Lui/03 - Le substrat socio-neuro-psychologique.md>).
 - Les reformulations qui contournent l'alexithymie (menu fermé, corps, échelle, différentiel) sont généralisées à toute question difficile dans [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>), section 2.4.

@@ -43,6 +43,9 @@ SECTIONS = [
     ("2 - Notions", "notions", "Les notions",
      "Des notes courtes par concept — consentement, charge mentale, "
      "alexithymie — avec des liens vers les développements complets."),
+    ("4 - Sources", "sources", "Les sources",
+     "Toutes les sources de la collection, avec un lien vers l'original : "
+     "travaux de recherche, textes officiels, numéros d'urgence."),
     ("3 - Transversal", "transversal", "Transversal",
      "Index par sujet et par angle, glossaire général, sources vérifiées, "
      "et les signaux d'alerte à connaître."),
@@ -95,6 +98,7 @@ SECTION_HUE = {
     "guides-complets": 250,
     "notions": 32,
     "transversal": 292,
+    "sources": 96,
 }
 GUIDE_HUE = {
     "pour-elle": 338,

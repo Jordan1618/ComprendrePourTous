@@ -31,6 +31,21 @@ Chapitres numérotés (## 1., ## 2....) puis sous-parties (### 1.1, ### 1.2...).
 
 Numéroter les ajouts après coup en X.Y bis plutôt que tout renuméroter, pour ne pas casser les renvois internes ("voir 4.4").
 
+Consignation des sources — le processus, à chaque génération
+
+La section finale décrite ci-dessous n'est que la moitié du travail. Toute source citée dans un guide doit aussi être **consignée dans l'index central des sources du projet** (`4 - Sources/`), sans quoi elle reste enterrée dans un chapitre et n'est jamais revérifiée.
+
+Le processus, à dérouler à chaque génération ou enrichissement de guide :
+
+1. **Relever** toutes les sources introduites : travaux de recherche, textes officiels, recommandations d'institutions, numéros d'urgence.
+2. **Les classer** dans la bonne table de l'index central — travaux de recherche, institutions et textes officiels, numéros d'urgence — et les y insérer **triées** (par auteur pour la recherche, par organisme pour les institutions).
+3. **Donner un lien qui résout.** Pour une institution ou un texte de loi, l'URL officielle de la page. Pour un travail de recherche, le DOI **uniquement s'il est connu et vérifié** ; sinon un lien de recherche sur le titre exact. Un DOI deviné renvoie vers un autre article : c'est pire qu'une recherche, parce que l'erreur est invisible.
+4. **Renseigner, pour chaque entrée** : ce qu'elle appuie, et dans quel guide elle est mobilisée. Une source sans usage identifié est une source décorative.
+5. **Vérifier la réciprocité** : ce que cite le chapitre de sources du guide doit figurer dans l'index central, et inversement.
+6. **Signaler les guides sans chapitre de sources** dans l'index central plutôt que de laisser croire à une couverture complète.
+
+Ne jamais fabriquer une URL, un DOI ou un numéro de page pour faire propre. Une référence bibliographique complète sans lien vaut infiniment mieux qu'un lien qui pointe ailleurs.
+
 Section finale obligatoire : sources vérifiables
 
 Tout guide produit avec ce skill se termine par une section dédiée, listant toutes les sources citées dans le document (recherche, statistique, concept attribué à un auteur ou une étude), avec pour chacune : ce qu'elle appuie, l'auteur ou l'organisme, et la date de vérification. Reprendre le format déjà utilisé dans le corps du texte ("source : X ; vérification du [date]") mais regroupé en une seule liste consultable, plutôt que dispersé chapitre par chapitre. Si une affirmation du guide n'a pas de source vérifiable identifiée (concept bien établi mais non retrouvé lors d'une recherche précise), le signaler dans cette section plutôt que de l'omettre silencieusement.
@@ -144,5 +159,6 @@ Note de mise à jour
 * 3 août 2026 (v2) — remplacement de l'élicitation par domaines de vie par la grille des 100 angles d'analyse (10 familles de 10 : sciences du vivant, psychologie et esprit, économie et société, droit, pouvoir, stratégie, corps et intimité, philosophie et sens, communication et relation, contexte et environnement, risque, données, prévention, culture et expression). Ces angles sont transposables à n'importe quel sujet de guide, indépendamment du domaine de vie traité.
 * 3 août 2026 (v3) — élicitation systématique même si des angles ont déjà été nommés ; suppression de la limite de 4-8 angles par guide ; suppression de toute priorisation entre familles (seule la pertinence au sujet compte) ; recoupements entre angles proches traités en cumul plutôt qu'en arbitrage.
 * 3 août 2026 (v4) — ajout d'une section finale obligatoire "sources vérifiables" à tout guide produit par ce skill, regroupant l'ensemble des sources citées dans le document avec date de vérification.
+* 7 août 2026 (v7) — ajout de la section "Consignation des sources" : toute source citée doit aussi etre inscrite, triee et avec un lien qui resout, dans l'index central `4 - Sources/`. Interdiction explicite de fabriquer une URL ou un DOI : un DOI devine renvoie vers un autre article, l'erreur est invisible, et une reference complete sans lien vaut mieux. Ajout aussi de la symetrie entre guides jumeaux : quand deux guides traitent le meme sujet sous deux angles (Pour Elle / Pour Lui), leurs chapitres doivent suivre le meme squelette numerote, et tout theme traite d'un cote doit avoir son pendant de l'autre ou etre explicitement signale comme manquant.
 * 6 août 2026 (v6) — ajout de la section "Inventaire du dépôt", obligatoire avant toute élicitation. Origine : trois guides livrés dans `1 - Guides/` sans que `2 - Notions/` ni les index de `3 - Transversal/` soient alimentés, et un quatrième guide proposé alors qu'il doublonnait un guide existant. Trois règles nouvelles : parcourir tous les dossiers avant de proposer ; demander explicitement, par oui ou non, s'il faut vérifier les recoupements avec les guides déjà présents ; présenter à l'élicitation la liste des angles et thématiques réellement présents dans le dépôt, en plus des suggestions issues de la grille, pour que le choix se fasse dans les deux.
 * 3 août 2026 (v5) — seuil de longueur minimale par chapitre triplé : 2 500-3 000 mots devient 7 500-9 000 mots. Ce changement porte uniquement sur le gabarit par défaut que ce skill impose aux futurs guides générés — il ne s'applique pas rétroactivement au guide "Les questions qui font mouche" déjà produit, qui reste tel quel sauf demande explicite.
