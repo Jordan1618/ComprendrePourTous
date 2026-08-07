@@ -41,7 +41,7 @@ def lire_frontmatter(texte):
             fm[cle.strip()] = val.strip().strip('"')
     return fm, corps
 
-def reecrire_liens(texte):
+def reecrire_liens(texte, dossier):
     """Recale les liens relatifs vers le dossier des versions integrales.
 
     Un chapitre vit dans "1 - Guides/<Guide>/", le fichier complet dans
@@ -54,7 +54,14 @@ def reecrire_liens(texte):
     texte = texte.replace("](<../../", "](<" + JETON)
     # ../X depuis un chapitre = un autre guide -> ../1 - Guides/X
     texte = texte.replace("](<../", "](<../1 - Guides/")
-    return texte.replace("](<" + JETON, "](<../")
+    texte = texte.replace("](<" + JETON, "](<../")
+    # X.md sans prefixe = meme dossier que le chapitre -> 1 - Guides/<dossier>/X.md
+    def meme_dossier(m):
+        cible = m.group(1)
+        if cible.startswith("../") or cible.startswith(("http://", "https://", "#")):
+            return m.group(0)
+        return "](<../1 - Guides/%s/%s>)" % (dossier, cible)
+    return re.sub(r"\]\(<([^>]+)>\)", meme_dossier, texte)
 
 
 def tri_chapitre(nom):
@@ -128,7 +135,7 @@ for dossier in DOSSIERS:
     entete += ["", "---", "", ""]
 
     contenu = "\n".join(entete) + "\n\n---\n\n".join(parties) + "\n"
-    contenu = reecrire_liens(contenu)
+    contenu = reecrire_liens(contenu, dossier)
 
     nom = "%s.md" % guide.replace("/", "-")
     open(os.path.join(COMPLETS, nom), "w", encoding="utf-8").write(contenu)

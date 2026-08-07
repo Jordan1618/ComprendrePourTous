@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Quand une installation disjoncte, on peut accuser le fusible. Il a effectivement sauté. Mais le fusible n'est pas la cause : il a sauté parce que la ligne était surchargée, et le remplacer sans toucher à la charge garantit qu'il sautera encore.
 
-« C'est hormonal » fonctionne exactement comme cette accusation du fusible. C'est parfois vrai, souvent partiel, et régulièrement utilisé pour ne pas regarder la charge. Ce chapitre trie : ce que les hormones expliquent réellement, ce qu'elles n'expliquent pas, et ce qui se joue ailleurs.
+« C'est hormonal » fonctionne exactement comme cette accusation du fusible. C'est parfois vrai, souvent partiel, et régulièrement utilisé pour ne pas regarder la charge. Ce chapitre trie : ce que les hormones expliquent réellement, ce qu'elles n'expliquent pas, et ce qui se joue ailleurs. Le trouble dysphorique prémenstruel, à distinguer du syndrome prémenstruel ordinaire, est défini par des critères cliniques précis (source : American College of Obstetricians and Gynecologists, *Premenstrual Syndrome*, Practice Bulletin ; vérification du 7 août 2026).
 
 ### 13.2 Ce que les hormones expliquent réellement
 
@@ -24,7 +24,7 @@ Trois situations où le lien est solide, et il serait absurde de les minimiser.
 
 **La période post-partum.** La chute hormonale brutale après l'accouchement, combinée à la privation de sommeil et au bouleversement de vie, constitue une période de vulnérabilité réelle. La [dépression du post-partum](<../../2 - Notions/Dépression du post-partum.md>) n'est ni un caractère fragile ni un manque d'amour pour l'enfant. Elle se traite, et elle est d'autant mieux prise en charge qu'elle est nommée tôt. Voir le chapitre 7 de ce guide.
 
-**La [périménopause](<../../2 - Notions/Périménopause.md>).** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement.
+**La [périménopause](<../../2 - Notions/Périménopause.md>).** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement. Les recommandations cliniques situent le trouble dysphorique prémenstruel et la dépression du post-partum parmi les périodes de vulnérabilité hormonale réelle et documentée (source : American College of Obstetricians and Gynecologists, *Premenstrual Syndrome*, Practice Bulletin ; vérification du 7 août 2026).
 
 ### 13.3 Ce qu'on leur attribue à tort
 
@@ -34,7 +34,7 @@ C'est l'autre versant, et il est au moins aussi important.
 
 **Le retard diagnostique.** Des travaux documentent une tendance à attribuer plus rapidement des symptômes physiques féminins à l'anxiété, avec pour conséquence des délais de diagnostic plus longs sur plusieurs pathologies. L'[endométriose](<../../2 - Notions/Endométriose.md>) en est l'exemple le plus connu : le délai entre les premiers symptômes et le diagnostic se compte encore en années. Voir le chapitre 4.
 
-**La fatigue de fond.** Avant d'invoquer le cycle, deux causes très fréquentes méritent d'être écartées : la **carence en fer**, particulièrement fréquente en cas de règles abondantes, et la dette de sommeil. Un dosage de ferritine est simple, peu coûteux, et souvent révélateur. Voir [Les émotions](<../Les emotions/README.md>), chapitre 7.
+**La fatigue de fond.** Avant d'invoquer le cycle, deux causes très fréquentes méritent d'être écartées : la **carence en fer**, particulièrement fréquente en cas de règles abondantes, et la dette de sommeil. Un dosage de ferritine est simple, peu coûteux, et souvent révélateur. Voir [Les émotions](<../Les emotions/README.md>), chapitre 7. Le fait qu'une plainte physique féminine soit attribuée plus vite à l'anxiété est documenté dans un article de référence sur le biais de genre en médecine (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 13.4 La colère empêchée
 
@@ -44,13 +44,13 @@ Les règles d'affichage décrites dans [Les émotions](<../Les emotions/README.m
 
 Le coût est concret. La colère est l'émotion qui signale **une limite franchie**, et elle appelle une action : poser la limite. Convertie en tristesse, elle ne signale plus rien d'actionnable — elle appelle du réconfort, ce qui ne change pas la situation. La limite reste franchie.
 
-Le repère pratique : quand vous vous sentez triste ou coupable après une interaction, posez la question de l'émotion primaire — **« qu'est-ce que j'ai ressenti juste avant d'être triste ? »**. Si la réponse est « en colère », l'information utile est là.
+Le repère pratique : quand vous vous sentez triste ou coupable après une interaction, posez la question de l'émotion primaire — **« qu'est-ce que j'ai ressenti juste avant d'être triste ? »**. Si la réponse est « en colère », l'information utile est là. La colère féminine est plus souvent requalifiée que la colère masculine, un effet documenté dans la littérature sur les règles d'affichage émotionnel selon le genre (source : Ekman & Friesen, « Constants across cultures in the face and emotion », *Journal of Personality and Social Psychology*, 1971 ; vérification du 7 août 2026).
 
 ### 13.5 La charge mentale comme facteur émotionnel
 
 La [charge mentale](<../../2 - Notions/Charge mentale.md>) n'est pas seulement une injustice d'organisation. C'est un facteur de santé émotionnelle : maintenir en permanence une liste de tâches à anticiper consomme une ressource attentionnelle qui n'est plus disponible pour autre chose — y compris pour le désir, comme le montre le [modèle du double contrôle](<../../2 - Notions/Modèle du double contrôle.md>).
 
-Ce point est souvent mal posé dans le couple, parce qu'il est présenté comme une plainte alors qu'il décrit une répartition. Le déplacer vers du concret change la conversation : non pas « tu ne m'aides pas », mais **« qui pense à quoi ? »** — la liste des choses qu'il faut *anticiper*, distincte de celles qu'il faut *exécuter*.
+Ce point est souvent mal posé dans le couple, parce qu'il est présenté comme une plainte alors qu'il décrit une répartition. Le déplacer vers du concret change la conversation : non pas « tu ne m'aides pas », mais **« qui pense à quoi ? »** — la liste des choses qu'il faut *anticiper*, distincte de celles qu'il faut *exécuter*. Le travail cognitif domestique, inégalement réparti, est un facteur de charge mentale documenté indépendamment de la répartition des tâches elles-mêmes (source : Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

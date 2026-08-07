@@ -131,6 +131,7 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Elle/22 - La recherche en 2026.md>)  `corps féminin` · Pour Elle
 - [Ressources et associations utiles](<../1 - Guides/Pour Elle/25 - Ressources et associations.md>)  `corps féminin` · Pour Elle
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/26 - Glossaire des termes médicaux.md>)  `corps féminin` · Pour Elle
+- [Sources vérifiables](<../1 - Guides/Pour Elle/27 - Sources verifiables.md>)  `corps féminin` · Pour Elle
 - [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Lui/01 - Ce que disent les chiffres.md>)  `corps masculin` · Pour Lui
 - [Aide-mémoire](<../1 - Guides/Pour Lui/23 - Aide-mémoire.md>)  `corps masculin` · Pour Lui
 - [Le couple à travers les âges et les civilisations](<../1 - Guides/Pour Nous/11 - Le couple a travers les ages.md>)  `commun` · Pour Nous

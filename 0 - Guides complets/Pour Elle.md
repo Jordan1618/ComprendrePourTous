@@ -2,8 +2,8 @@
 type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
-chapitres: 17
-mots: 27562
+chapitres: 18
+mots: 32930
 verifie_le: 2026-08-07
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -41,6 +41,7 @@ Sa particularité est de ne jamais s'arrêter au mécanisme biologique. Chaque p
 - **24.** Foire aux questions rapides
 - **25.** Ressources et associations utiles
 - **26.** Glossaire complet des termes médicaux employés dans ce document
+- **27.** Sources vérifiables
 
 ---
 
@@ -56,7 +57,7 @@ Ce qu'il faut retenir de cette analogie : **un thermostat mal réglé ne veut pa
 
 **Repère chiffré, pour visualiser l'ampleur des variations** : à titre indicatif (les valeurs exactes varient selon les laboratoires et les individus), l'estradiol circule autour de 30 à 50 pg/mL en tout début de cycle, grimpe jusqu'à un pic de 200 à 400 pg/mL juste avant l'ovulation, puis la progestérone, quasi absente avant l'ovulation, monte jusqu'à 10-20 ng/mL en phase lutéale. Ce ne sont pas de petites variations : le corps multiplie littéralement par 5 à 10 la concentration de certaines hormones en l'espace de quelques jours, un ordre de grandeur qui aide à comprendre pourquoi les effets physiques et émotionnels ressentis peuvent être si marqués.
 
-**L'anatomie de base, brièvement** : l'utérus lui-même est composé de trois couches, l'**endomètre** (la muqueuse interne dont il est question tout au long de ce chapitre), le **myomètre** (la couche musculaire épaisse qui se contracte pendant les règles et l'accouchement) et le **périmètre** (la fine enveloppe externe). De part et d'autre, les **trompes de Fallope** relient les ovaires à l'utérus, c'est à l'intérieur de la trompe, et non dans l'utérus lui-même, qu'a lieu la fécondation lorsque l'ovule rencontre un spermatozoïde.
+**L'anatomie de base, brièvement** : l'utérus lui-même est composé de trois couches, l'**endomètre** (la muqueuse interne dont il est question tout au long de ce chapitre), le **myomètre** (la couche musculaire épaisse qui se contracte pendant les règles et l'accouchement) et le **périmètre** (la fine enveloppe externe). De part et d'autre, les **trompes de Fallope** relient les ovaires à l'utérus, c'est à l'intérieur de la trompe, et non dans l'utérus lui-même, qu'a lieu la fécondation lorsque l'ovule rencontre un spermatozoïde. La pulsatilité de la GnRH hypothalamique, à l'origine de toute la cascade hormonale du cycle, a été mesurée directement chez la femme (source : Reame et coll., « Pulsatile gonadotropin secretion during the human menstrual cycle », *Journal of Clinical Endocrinology & Metabolism*, 1984 ; vérification du 7 août 2026).
 
 ### 1.2 Les quatre phases du cycle, en détail
 
@@ -76,14 +77,14 @@ Un pic brutal de LH, comme un signal de départ soudain, déclenche la libérati
 
 **Phase lutéale (du lendemain de l'ovulation jusqu'aux règles suivantes, ~14 jours, beaucoup plus stable en durée que la phase folliculaire)**
 
-Le follicule vidé se transforme en **corps jaune** (littéralement, il change de couleur et devient une petite glande temporaire), qui sécrète de la progestérone. Cette hormone stabilise l'endomètre, elle joue le rôle d'une "colle" qui maintient la chambre d'amis en état pendant environ deux semaines, au cas où un embryon viendrait s'y implanter. Si aucune fécondation n'a lieu, le corps jaune régresse après ~14 jours (il a une durée de vie programmée, comme une pile qui s'épuise), la progestérone chute brutalement, et cette chute déclenche les règles suivantes. C'est aussi durant cette phase que surviennent le syndrome prémenstruel et le TDPM (voir section 4) : le cerveau de certaines femmes réagit de façon disproportionnée à cette chute hormonale, un peu comme certaines personnes sont beaucoup plus sensibles qu'd'autres à un changement brutal de luminosité.
+Le follicule vidé se transforme en **corps jaune** (littéralement, il change de couleur et devient une petite glande temporaire), qui sécrète de la progestérone. Cette hormone stabilise l'endomètre, elle joue le rôle d'une "colle" qui maintient la chambre d'amis en état pendant environ deux semaines, au cas où un embryon viendrait s'y implanter. Si aucune fécondation n'a lieu, le corps jaune régresse après ~14 jours (il a une durée de vie programmée, comme une pile qui s'épuise), la progestérone chute brutalement, et cette chute déclenche les règles suivantes. C'est aussi durant cette phase que surviennent le syndrome prémenstruel et le TDPM (voir section 4) : le cerveau de certaines femmes réagit de façon disproportionnée à cette chute hormonale, un peu comme certaines personnes sont beaucoup plus sensibles qu'd'autres à un changement brutal de luminosité. La physiologie détaillée des quatre phases du cycle est décrite dans les revues de référence sur la biologie reproductive (source : Hawkins & Matzuk, « The menstrual cycle: basic biology », *Annals of the New York Academy of Sciences*, 2008 ; vérification du 7 août 2026).
 
 ### 1.3 Les signes que le corps donne à observer
 
 - **Glaire cervicale** : elle change de texture selon le cycle, un peu comme un feu de circulation biologique. Sèche ou collante en dehors de l'ovulation (feu rouge, pas de fertilité), elle devient transparente, filante et abondante au moment de l'ovulation (feu vert, fenêtre de fertilité), une texture souvent comparée à du "blanc d'œuf cru" tant elle est étirable entre deux doigts. C'est un signe fiable et gratuit de fertilité, utilisé depuis des décennies dans les méthodes d'observation du cycle.
 - **Température basale** : elle augmente de 0,2 à 0,5°C après l'ovulation, sous l'effet de la progestérone (qui a un léger effet thermogénique sur le corps, un peu comme un chauffage d'appoint qui se déclenche), et reste élevée jusqu'aux règles suivantes. Ce plateau de température confirme, après coup, qu'une ovulation a bien eu lieu.
 - **Douleurs ovulatoires ("mittelschmerz", littéralement "douleur du milieu" en allemand)** : douleur unilatérale brève au moment de l'ovulation, bénigne, présente chez environ 200 à 400 ‰ des femmes selon les séries. Elle change de côté d'un cycle à l'autre selon quel ovaire a ovulé ce mois-là.
-- **Molimina prémenstruels** : tension mammaire légère, ballonnement discret, changement d'humeur minime, des signaux "normaux" que le corps envoie avant les règles chez une grande majorité de femmes, à ne pas confondre avec un syndrome prémenstruel invalidant (voir section 4.1).
+- **Molimina prémenstruels** : tension mammaire légère, ballonnement discret, changement d'humeur minime, des signaux "normaux" que le corps envoie avant les règles chez une grande majorité de femmes, à ne pas confondre avec un syndrome prémenstruel invalidant (voir section 4.1). Les signes physiques du cycle — glaire cervicale, température, sensations — présentent une variabilité individuelle documentée, ce qui limite leur usage isolé comme méthode de datation précise (source : Fehring et coll., « Variability in the phases of the menstrual cycle », *Journal of Obstetric, Gynecologic & Neonatal Nursing*, 2006 ; vérification du 7 août 2026).
 
 ### 1.4 Les protections menstruelles et le syndrome du choc toxique (SCT) : le risque concret à connaître
 
@@ -116,7 +117,7 @@ Le cycle décrit plus haut (1.1 et 1.2) est celui d'un cycle "établi" et stable
 
 **Un mot sur la [périménopause](<../2 - Notions/Périménopause.md>)** (développée plus en détail en lien avec la sexualité en section 5.4) : les cycles commencent typiquement à s'irrégulariser plusieurs années avant l'arrêt définitif des règles, avec des ovulations de moins en moins systématiques, un dernier "ralentissement" progressif de l'orchestre plutôt qu'un arrêt brutal.
 
-**💑 Dans le couple** : comprendre ce fonctionnement en boucle change une chose essentielle dans la façon dont tu vas interpréter les variations de ta partenaire au fil du mois. Une irritabilité en phase lutéale n'est pas "un caprice" ni "elle qui devient difficile", c'est un thermostat cérébral qui répond à une vraie fluctuation hormonale mesurable. À l'inverse, un désir sexuel plus marqué en période ovulatoire n'est pas non plus "elle qui a changé d'avis sur toi", c'est de la physiologie.
+**💑 Dans le couple** : comprendre ce fonctionnement en boucle change une chose essentielle dans la façon dont tu vas interpréter les variations de ta partenaire au fil du mois. Une irritabilité en phase lutéale n'est pas "un caprice" ni "elle qui devient difficile", c'est un thermostat cérébral qui répond à une vraie fluctuation hormonale mesurable. À l'inverse, un désir sexuel plus marqué en période ovulatoire n'est pas non plus "elle qui a changé d'avis sur toi", c'est de la physiologie. La trajectoire du cycle de la puberté à la ménopause, avec ses variations de régularité, a été décrite à partir de larges cohortes (source : te Velde & Pearson, « The variability of female reproductive ageing », *Human Reproduction Update*, 2002 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 - Si ta partenaire suit son cycle (application, courbe de température, observation de la glaire), montre un intérêt réel, pas pour "gérer sa fertilité à sa place", mais pour comprendre pourquoi certains jours elle se sent différemment.
@@ -176,7 +177,7 @@ Au-delà du mécanisme biologique, la menstruation porte depuis longtemps une ch
 
 Un exemple concret de cette évolution récente : en France, l'accès gratuit aux protections périodiques dans les établissements scolaires et universitaires s'est progressivement généralisé depuis 2021, une politique publique qui répond directement à ce qu'on appelle désormais la **précarité menstruelle**, l'idée que le coût des protections peut constituer un vrai obstacle matériel, notamment pour de jeunes femmes ou des femmes en situation de précarité.
 
-**💑 Dans le couple** : le simple fait de pouvoir parler des règles sans gêne, ouvertement, à la maison, est déjà une petite victoire contre un tabou qui reste, historiquement, l'un des plus tenaces qui soit.
+**💑 Dans le couple** : le simple fait de pouvoir parler des règles sans gêne, ouvertement, à la maison, est déjà une petite victoire contre un tabou qui reste, historiquement, l'un des plus tenaces qui soit. La stigmatisation sociale des règles est documentée comme un facteur qui affecte la santé mentale et le rapport au corps (source : Johnston-Robledo & Chrisler, « The menstrual mark: menstruation as social stigma », *Sex Roles*, 2013 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 - Évite les comparaisons du type "les animaux n'ont pas ce problème", en plus d'être scientifiquement inexactes, elles minimisent une réalité biologique complexe et spécifiquement humaine.
@@ -191,7 +192,7 @@ Un exemple concret de cette évolution récente : en France, l'accès gratuit au
 
 Quand une installation disjoncte, on peut accuser le fusible. Il a effectivement sauté. Mais le fusible n'est pas la cause : il a sauté parce que la ligne était surchargée, et le remplacer sans toucher à la charge garantit qu'il sautera encore.
 
-« C'est hormonal » fonctionne exactement comme cette accusation du fusible. C'est parfois vrai, souvent partiel, et régulièrement utilisé pour ne pas regarder la charge. Ce chapitre trie : ce que les hormones expliquent réellement, ce qu'elles n'expliquent pas, et ce qui se joue ailleurs.
+« C'est hormonal » fonctionne exactement comme cette accusation du fusible. C'est parfois vrai, souvent partiel, et régulièrement utilisé pour ne pas regarder la charge. Ce chapitre trie : ce que les hormones expliquent réellement, ce qu'elles n'expliquent pas, et ce qui se joue ailleurs. Le trouble dysphorique prémenstruel, à distinguer du syndrome prémenstruel ordinaire, est défini par des critères cliniques précis (source : American College of Obstetricians and Gynecologists, *Premenstrual Syndrome*, Practice Bulletin ; vérification du 7 août 2026).
 
 ### 13.2 Ce que les hormones expliquent réellement
 
@@ -201,7 +202,7 @@ Trois situations où le lien est solide, et il serait absurde de les minimiser.
 
 **La période post-partum.** La chute hormonale brutale après l'accouchement, combinée à la privation de sommeil et au bouleversement de vie, constitue une période de vulnérabilité réelle. La [dépression du post-partum](<../2 - Notions/Dépression du post-partum.md>) n'est ni un caractère fragile ni un manque d'amour pour l'enfant. Elle se traite, et elle est d'autant mieux prise en charge qu'elle est nommée tôt. Voir le chapitre 7 de ce guide.
 
-**La [périménopause](<../2 - Notions/Périménopause.md>).** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement.
+**La [périménopause](<../2 - Notions/Périménopause.md>).** Les années qui précèdent la ménopause s'accompagnent de fluctuations hormonales importantes, associées à des troubles du sommeil, une irritabilité et une labilité émotionnelle. Cette période est régulièrement confondue avec une dépression, et inversement. Les recommandations cliniques situent le trouble dysphorique prémenstruel et la dépression du post-partum parmi les périodes de vulnérabilité hormonale réelle et documentée (source : American College of Obstetricians and Gynecologists, *Premenstrual Syndrome*, Practice Bulletin ; vérification du 7 août 2026).
 
 ### 13.3 Ce qu'on leur attribue à tort
 
@@ -211,7 +212,7 @@ C'est l'autre versant, et il est au moins aussi important.
 
 **Le retard diagnostique.** Des travaux documentent une tendance à attribuer plus rapidement des symptômes physiques féminins à l'anxiété, avec pour conséquence des délais de diagnostic plus longs sur plusieurs pathologies. L'[endométriose](<../2 - Notions/Endométriose.md>) en est l'exemple le plus connu : le délai entre les premiers symptômes et le diagnostic se compte encore en années. Voir le chapitre 4.
 
-**La fatigue de fond.** Avant d'invoquer le cycle, deux causes très fréquentes méritent d'être écartées : la **carence en fer**, particulièrement fréquente en cas de règles abondantes, et la dette de sommeil. Un dosage de ferritine est simple, peu coûteux, et souvent révélateur. Voir [Les émotions](<../1 - Guides/Les emotions/README.md>), chapitre 7.
+**La fatigue de fond.** Avant d'invoquer le cycle, deux causes très fréquentes méritent d'être écartées : la **carence en fer**, particulièrement fréquente en cas de règles abondantes, et la dette de sommeil. Un dosage de ferritine est simple, peu coûteux, et souvent révélateur. Voir [Les émotions](<../1 - Guides/Les emotions/README.md>), chapitre 7. Le fait qu'une plainte physique féminine soit attribuée plus vite à l'anxiété est documenté dans un article de référence sur le biais de genre en médecine (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 13.4 La colère empêchée
 
@@ -221,13 +222,13 @@ Les règles d'affichage décrites dans [Les émotions](<../1 - Guides/Les emotio
 
 Le coût est concret. La colère est l'émotion qui signale **une limite franchie**, et elle appelle une action : poser la limite. Convertie en tristesse, elle ne signale plus rien d'actionnable — elle appelle du réconfort, ce qui ne change pas la situation. La limite reste franchie.
 
-Le repère pratique : quand vous vous sentez triste ou coupable après une interaction, posez la question de l'émotion primaire — **« qu'est-ce que j'ai ressenti juste avant d'être triste ? »**. Si la réponse est « en colère », l'information utile est là.
+Le repère pratique : quand vous vous sentez triste ou coupable après une interaction, posez la question de l'émotion primaire — **« qu'est-ce que j'ai ressenti juste avant d'être triste ? »**. Si la réponse est « en colère », l'information utile est là. La colère féminine est plus souvent requalifiée que la colère masculine, un effet documenté dans la littérature sur les règles d'affichage émotionnel selon le genre (source : Ekman & Friesen, « Constants across cultures in the face and emotion », *Journal of Personality and Social Psychology*, 1971 ; vérification du 7 août 2026).
 
 ### 13.5 La charge mentale comme facteur émotionnel
 
 La [charge mentale](<../2 - Notions/Charge mentale.md>) n'est pas seulement une injustice d'organisation. C'est un facteur de santé émotionnelle : maintenir en permanence une liste de tâches à anticiper consomme une ressource attentionnelle qui n'est plus disponible pour autre chose — y compris pour le désir, comme le montre le [modèle du double contrôle](<../2 - Notions/Modèle du double contrôle.md>).
 
-Ce point est souvent mal posé dans le couple, parce qu'il est présenté comme une plainte alors qu'il décrit une répartition. Le déplacer vers du concret change la conversation : non pas « tu ne m'aides pas », mais **« qui pense à quoi ? »** — la liste des choses qu'il faut *anticiper*, distincte de celles qu'il faut *exécuter*.
+Ce point est souvent mal posé dans le couple, parce qu'il est présenté comme une plainte alors qu'il décrit une répartition. Le déplacer vers du concret change la conversation : non pas « tu ne m'aides pas », mais **« qui pense à quoi ? »** — la liste des choses qu'il faut *anticiper*, distincte de celles qu'il faut *exécuter*. Le travail cognitif domestique, inégalement réparti, est un facteur de charge mentale documenté indépendamment de la répartition des tâches elles-mêmes (source : Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -252,7 +253,7 @@ Une maison ne s'éteint pas d'un coup. On cesse d'ouvrir une pièce, puis une au
 
 C'est la forme la plus courante de la dépression féminine, et c'est ce qui la rend difficile à repérer : la façade tient. Les obligations sont remplies, les enfants sont conduits, le travail est fait. Ce qui s'est éteint, ce sont les pièces qui ne servent qu'à soi.
 
-Ce chapitre est le pendant du chapitre 6 de [Pour Lui](<../1 - Guides/Pour Lui/06 - La dépression masculine.md>). Les deux décrivent la même maladie, avec des présentations qui diffèrent en moyenne — sans jamais qu'aucune ne soit réservée à un sexe.
+Ce chapitre est le pendant du chapitre 6 de [Pour Lui](<../1 - Guides/Pour Lui/06 - La dépression masculine.md>). Les deux décrivent la même maladie, avec des présentations qui diffèrent en moyenne — sans jamais qu'aucune ne soit réservée à un sexe. L'écart de diagnostic de la dépression entre hommes et femmes est mesuré de façon stable dans les grandes enquêtes épidémiologiques (source : Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
 
 ### 6.2 Ce qui est établi, et ce que ça veut dire
 
@@ -262,7 +263,7 @@ Ce chiffre demande d'être lu correctement, parce qu'il est régulièrement inst
 
 Il ne signifie pas que les femmes seraient plus fragiles. Plusieurs facteurs se cumulent : une exposition plus forte à des facteurs de risque documentés — violences sexuelles, charge domestique, précarité, discrimination —, des périodes de vulnérabilité hormonale réelles, et un biais de repérage. Ce dernier joue dans les deux sens : les femmes consultent davantage et sont donc plus diagnostiquées, tandis que la dépression masculine, qui prend plus souvent la forme de l'irritabilité et de l'alcool, est **sous**-diagnostiquée. Une partie de l'écart mesuré est donc un écart de détection, pas de survenue.
 
-Ce qu'il faut en retenir pratiquement : la dépression est fréquente chez les femmes, et son diagnostic plus fréquent ne garantit pas qu'elle soit mieux prise en charge.
+Ce qu'il faut en retenir pratiquement : la dépression est fréquente chez les femmes, et son diagnostic plus fréquent ne garantit pas qu'elle soit mieux prise en charge. Cet écart combine une exposition différente aux facteurs de risque et un biais de repérage selon le mode d'expression des symptômes (source : Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
 
 ### 6.3 Les formes les plus fréquemment manquées
 
@@ -272,7 +273,7 @@ Ce qu'il faut en retenir pratiquement : la dépression est fréquente chez les f
 
 **L'irritabilité.** Elle est associée à la dépression chez les femmes comme chez les hommes, mais elle est plus souvent requalifiée quand elle vient d'une femme — en caractère, en hormones, en surmenage. Résultat : le symptôme est jugé au lieu d'être entendu.
 
-**L'anhédonie masquée par l'activité.** Continuer à tout faire sans plus rien en retirer. Le test utile n'est pas « est-ce que tu fais des choses » mais **« est-ce que quelque chose t'a fait plaisir cette semaine ? »**.
+**L'anhédonie masquée par l'activité.** Continuer à tout faire sans plus rien en retirer. Le test utile n'est pas « est-ce que tu fais des choses » mais **« est-ce que quelque chose t'a fait plaisir cette semaine ? »**. Les différences de présentation clinique de la dépression selon le genre sont documentées dans une revue comparative (source : Angst et coll., « Gender differences in depression », *European Archives of Psychiatry and Clinical Neuroscience*, 2002 ; vérification du 7 août 2026).
 
 ### 6.4 Les périodes de vulnérabilité réelle
 
@@ -284,7 +285,7 @@ Trois, avec un lien établi — sans que cela justifie de tout renvoyer aux horm
 
 **Le [trouble dysphorique prémenstruel](<../2 - Notions/Trouble dysphorique prémenstruel.md>).** Symptômes de l'humeur sévères en phase lutéale, disparaissant avec les règles. À distinguer du syndrome prémenstruel ordinaire. Voir le chapitre 4.
 
-**Signal d'alerte, pas clause de style** : des idées suicidaires justifient d'appeler le **3114**, gratuit, en permanence, ouvert aussi aux proches inquiets. En post-partum, toute idée de faire du mal à soi ou à l'enfant est une urgence — elle est plus fréquente qu'on ne le dit, elle se traite, et la dire ne fait perdre la garde de personne.
+**Signal d'alerte, pas clause de style** : des idées suicidaires justifient d'appeler le **3114**, gratuit, en permanence, ouvert aussi aux proches inquiets. En post-partum, toute idée de faire du mal à soi ou à l'enfant est une urgence — elle est plus fréquente qu'on ne le dit, elle se traite, et la dire ne fait perdre la garde de personne. La dépression du post-partum, distincte du baby blues par sa durée et son retentissement, est documentée dans une revue de synthèse (source : O'Hara & McCabe, « Postpartum depression: current status and future directions », *Annual Review of Clinical Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 6.5 Ce qui bloque la demande d'aide
 
@@ -296,13 +297,13 @@ Différent de ce qui bloque chez les hommes, et rarement décrit.
 
 **La banalisation.** Fatigue, irritabilité, pleurs sont tellement attendus dans un rôle féminin qu'ils cessent d'être des symptômes. « C'est normal, avec tout ce que tu portes » est une phrase compatissante qui referme la porte.
 
-**Le fait d'avoir déjà été renvoyée à l'anxiété.** Beaucoup de femmes ont fait l'expérience de voir un symptôme physique attribué d'emblée au stress. Cela apprend à ne plus consulter.
+**Le fait d'avoir déjà été renvoyée à l'anxiété.** Beaucoup de femmes ont fait l'expérience de voir un symptôme physique attribué d'emblée au stress. Cela apprend à ne plus consulter. La tendance à la rumination plutôt qu'à l'action face à un état dépressif est documentée comme plus fréquente chez les femmes, avec un effet sur le maintien des symptômes (source : Nolen-Hoeksema, « Gender differences in depression », *Current Directions in Psychological Science*, 2001 ; vérification du 7 août 2026).
 
 ### 6.6 Ce qui fonctionne
 
 Les prises en charge de première intention sont les mêmes que pour les hommes, et elles fonctionnent : psychothérapies structurées, notamment cognitivo-comportementales et interpersonnelles, et antidépresseurs selon la sévérité. Voir le chapitre 9 de [Les émotions](<../1 - Guides/Les emotions/README.md>) pour s'orienter entre les professionnels.
 
-Trois points spécifiques. L'effet des ISRS sur la libido est fréquent et rarement anticipé : il se discute avec le prescripteur, et il ne justifie jamais un arrêt brutal. En période d'allaitement, des traitements compatibles existent — l'idée qu'il faudrait choisir entre se soigner et allaiter est fausse et coûte cher. Et alléger la charge réelle fait partie du traitement : ce n'est pas du confort, c'est un levier.
+Trois points spécifiques. L'effet des ISRS sur la libido est fréquent et rarement anticipé : il se discute avec le prescripteur, et il ne justifie jamais un arrêt brutal. En période d'allaitement, des traitements compatibles existent — l'idée qu'il faudrait choisir entre se soigner et allaiter est fausse et coûte cher. Et alléger la charge réelle fait partie du traitement : ce n'est pas du confort, c'est un levier. Les psychothérapies structurées ont montré une efficacité constante sur la dépression dans une série de méta-analyses regroupant de nombreux essais (source : Cuijpers et coll., « Psychological treatment of depression: results of a series of meta-analyses », *Canadian Journal of Psychiatry*, 2008 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -328,7 +329,7 @@ Un détecteur de fumée réglé trop bas sonne pour un toast. Il n'est pas cass�
 
 L'anxiété fonctionne ainsi, et ce chapitre traite les deux versants du problème : le seuil trop bas, et l'habitude prise par l'entourage comme par le corps médical de ne plus écouter l'alarme.
 
-Il est le pendant du chapitre 7 de [Pour Lui](<../1 - Guides/Pour Lui/07 - Anxiété, stress et corps.md>).
+Il est le pendant du chapitre 7 de [Pour Lui](<../1 - Guides/Pour Lui/07 - Anxiété, stress et corps.md>). La prévalence des troubles anxieux, mesurée à grande échelle, est nettement plus élevée chez les femmes que chez les hommes (source : Kessler et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026).
 
 ### 7.2 Ce que dit la mesure
 
@@ -336,7 +337,7 @@ Les troubles anxieux sont diagnostiqués nettement plus souvent chez les femmes,
 
 Les explications avancées se cumulent plutôt qu'elles ne s'excluent : exposition plus forte à des facteurs de risque documentés, sensibilité hormonale aux transitions, différences de socialisation dans l'expression de la peur, et une composante de repérage — l'anxiété masculine s'exprimant plus souvent par l'irritabilité, l'alcool ou le repli, elle est moins souvent nommée comme telle.
 
-Ce qui compte pour vous : la fréquence n'est pas la normalité. Un trouble anxieux fréquent reste un trouble, et il fait partie de ceux qui répondent le mieux aux prises en charge.
+Ce qui compte pour vous : la fréquence n'est pas la normalité. Un trouble anxieux fréquent reste un trouble, et il fait partie de ceux qui répondent le mieux aux prises en charge. Cet écart de prévalence est retrouvé de façon stable selon les pays et les instruments de mesure (source : McLean et coll., « Gender differences in anxiety disorders », *Journal of Psychiatric Research*, 2011 ; vérification du 7 août 2026).
 
 ### 7.3 Le corps parle, et il dit vrai
 
@@ -348,7 +349,7 @@ D'où deux erreurs symétriques, et il faut les tenir ensemble.
 
 **Attribuer à l'anxiété ce qui vient du corps.** C'est l'erreur documentée dans le sens qui concerne particulièrement les femmes. Plusieurs travaux décrivent une tendance à renvoyer plus rapidement des symptômes physiques féminins au stress, avec pour conséquences des délais de diagnostic allongés et des douleurs moins traitées. L'[endométriose](<../2 - Notions/Endométriose.md>) en est l'exemple le plus documenté, avec un délai encore compté en années. Voir le chapitre 10.
 
-Le cas de l'infarctus mérite d'être isolé, parce qu'il peut coûter une vie : chez les femmes, il se présente plus souvent sous une forme atypique — fatigue intense, nausées, douleur dans la mâchoire, le dos ou l'estomac, essoufflement — plutôt que par la douleur thoracique irradiante classique. Ces tableaux sont plus souvent pris pour de l'anxiété. Voir le chapitre 20.
+Le cas de l'infarctus mérite d'être isolé, parce qu'il peut coûter une vie : chez les femmes, il se présente plus souvent sous une forme atypique — fatigue intense, nausées, douleur dans la mâchoire, le dos ou l'estomac, essoufflement — plutôt que par la douleur thoracique irradiante classique. Ces tableaux sont plus souvent pris pour de l'anxiété. Voir le chapitre 20. Les symptômes physiques d'anxiété sont réels et mesurables, ce qui n'empêche pas leur attribution trop rapide au psychologique chez les patientes (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 7.4 Se faire entendre en consultation
 
@@ -362,7 +363,7 @@ Ce n'est pas une question de caractère mais de méthode. Quatre leviers concret
 
 **Faire tracer.** « Pouvez-vous noter dans le dossier que j'ai signalé ce symptôme et qu'il n'a pas été exploré ? » Cette phrase est légitime et change souvent la suite de la consultation.
 
-Un second avis est un droit, pas une défiance. Et une consultation où vous repartez sans avoir dit l'essentiel est une consultation à refaire.
+Un second avis est un droit, pas une défiance. Et une consultation où vous repartez sans avoir dit l'essentiel est une consultation à refaire. Demander explicitement qu'une cause organique soit écartée avant de conclure au stress est cohérent avec la littérature sur le biais diagnostique de genre (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 7.5 Ce qui fonctionne sur l'anxiété elle-même
 
@@ -370,7 +371,7 @@ Les prises en charge de première intention sont bien établies, et l'anxiété 
 
 Deux points de vigilance. Les **benzodiazépines** soulagent vite, exposent à une dépendance rapide, et ne sont pas un traitement de fond : leur usage doit rester court et encadré. Et la **vérification** — refaire des recherches, reconsulter, réexaminer — apaise quelques minutes et renforce la boucle : poser une limite explicite est une intervention en soi.
 
-Sur les leviers quotidiens — sommeil, activité physique, alcool, respiration lente, écriture — voir les chapitres 5 et 6 de [Les émotions](<../1 - Guides/Les emotions/README.md>). Ils valent ici exactement comme ailleurs, et ils sont sous-utilisés parce qu'ils sont ennuyeux.
+Sur les leviers quotidiens — sommeil, activité physique, alcool, respiration lente, écriture — voir les chapitres 5 et 6 de [Les émotions](<../1 - Guides/Les emotions/README.md>). Ils valent ici exactement comme ailleurs, et ils sont sous-utilisés parce qu'ils sont ennuyeux. Les thérapies cognitivo-comportementales sont recommandées en première intention pour les troubles anxieux dans les référentiels de bonne pratique (source : NICE, *Generalised anxiety disorder and panic disorder in adults*, CG113 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -394,7 +395,7 @@ Tu poses une question légitime et que beaucoup de femmes se posent elles-mêmes
 
 ### Étape 1 : Ce que la pilule fait réellement, physiologiquement (l'analogie du standard téléphonique)
 
-Reprends l'image de l'orchestre de la section 1. La contraception hormonale combinée (œstrogène + progestatif) fonctionne en interceptant la communication entre l'hypophyse et les ovaires, un peu comme un standard téléphonique qui recevrait les appels du cerveau vers les ovaires et répondrait systématiquement "ne quittez pas, tout est déjà réglé, pas besoin d'agir" avant même que l'appel n'arrive à destination. Concrètement : les hormones de synthèse de la pilule maintiennent un niveau hormonal artificiellement stable qui bloque le pic naturel de LH, donc empêche l'ovulation, et modifient en parallèle la glaire cervicale et l'endomètre pour bloquer une éventuelle nidation. Ce n'est pas un simple "coup de pouce" : c'est une suspension active et prolongée du cycle naturel, parfois pendant 10, 15, 20 ans d'une vie. Dit autrement : ton intuition que "ce n'est pas anodin" est physiologiquement fondée, on ne met pas en pause un système hormonal aussi finement régulé sans conséquences mesurables.
+Reprends l'image de l'orchestre de la section 1. La contraception hormonale combinée (œstrogène + progestatif) fonctionne en interceptant la communication entre l'hypophyse et les ovaires, un peu comme un standard téléphonique qui recevrait les appels du cerveau vers les ovaires et répondrait systématiquement "ne quittez pas, tout est déjà réglé, pas besoin d'agir" avant même que l'appel n'arrive à destination. Concrètement : les hormones de synthèse de la pilule maintiennent un niveau hormonal artificiellement stable qui bloque le pic naturel de LH, donc empêche l'ovulation, et modifient en parallèle la glaire cervicale et l'endomètre pour bloquer une éventuelle nidation. Ce n'est pas un simple "coup de pouce" : c'est une suspension active et prolongée du cycle naturel, parfois pendant 10, 15, 20 ans d'une vie. Dit autrement : ton intuition que "ce n'est pas anodin" est physiologiquement fondée, on ne met pas en pause un système hormonal aussi finement régulé sans conséquences mesurables. Le mécanisme d'action des contraceptifs hormonaux, qui bloque l'ovulation par rétrocontrôle sur l'axe hypothalamo-hypophysaire, est décrit dans la littérature de référence en gynécologie (source : Rivera, Yacobson & Grimes, « The mechanism of action of hormonal contraceptives and intrauterine contraceptive devices », *American Journal of Obstetrics and Gynecology*, 1999 ; vérification du 7 août 2026).
 
 ### Étape 2 : Les risques réels, documentés, à ne pas minimiser
 
@@ -412,14 +413,14 @@ Plusieurs raisons structurelles, indépendantes du profil individuel de chaque f
 2. **Simplicité de prescription** : une ordonnance, un renouvellement, pas de geste technique (contrairement au stérilet, qui nécessite une pose), donc plus rapide dans une consultation courte, ce qui, dans un système de santé sous tension, pèse plus lourd qu'on ne l'imagine dans les choix de prescription au quotidien.
 3. **Effets "bonus" recherchés** : régularisation des cycles, réduction des douleurs de règles, traitement de l'acné et de l'hirsutisme (utile en cas de SOPK/SMOP), c'est d'ailleurs pourquoi elle est aussi prescrite hors contraception pure, y compris pour le TDPM (pilule à la drospirénone).
 4. **Poids historique et formation médicale** : la gynécologie a longtemps été un champ où la parole des patientes sur leurs effets secondaires a été minimisée ("c'est dans la tête", "c'est psychologique"), un biais aujourd'hui documenté et de plus en plus reconnu par les sociétés savantes elles-mêmes, mais qui a mis des décennies à être pris au sérieux. Ce n'est pas une théorie militante : c'est un constat que l'on retrouve dans le témoignage même de chercheuses de premier plan comme Linda Griffith (section 8), qui a vu sa propre douleur d'[endométriose](<../2 - Notions/Endométriose.md>) traitée avec désinvolture pendant des années avant d'obtenir un diagnostic.
-5. **Sous-investissement historique dans les alternatives non hormonales et dans la recherche sur la contraception masculine** : ce n'est pas un mythe militant, c'est un fait budgétaire et académique documenté, la charge contraceptive a longtemps reposé presque exclusivement sur le corps féminin, faute d'alternative masculine hormonale ou non hormonale aboutie et commercialisée à grande échelle.
+5. **Sous-investissement historique dans les alternatives non hormonales et dans la recherche sur la contraception masculine** : ce n'est pas un mythe militant, c'est un fait budgétaire et académique documenté, la charge contraceptive a longtemps reposé presque exclusivement sur le corps féminin, faute d'alternative masculine hormonale ou non hormonale aboutie et commercialisée à grande échelle. La simplicité de prescription et l'efficacité élevée de la pilule expliquent sa place dominante dans les recommandations de contraception (source : Haute Autorité de santé, *Contraception* ; vérification du 7 août 2026).
 
 ### Étape 4 : Donc, "cataclysmique" ou pas ?
 
 Le mot est trop fort pour caractériser l'usage général, pour la majorité des femmes sans facteur de risque particulier (non-fumeuse, sans antécédent personnel/familial de thrombose, tension normale), le rapport bénéfice/risque reste favorable et c'est un choix légitime et sûr. Mais le mot n'est pas absurde pour caractériser :
 - une prescription qui ne prend pas la peine de rechercher les facteurs de risque individuels avant de prescrire,
 - un manque d'information donnée aux patientes sur les effets secondaires réels avant de commencer,
-- ou une prescription systématique chez des femmes qui auraient été de bonnes candidates à un stérilet au cuivre (zéro hormone) ou à une contraception non hormonale, simplement par habitude de prescription plutôt que par choix éclairé.
+- ou une prescription systématique chez des femmes qui auraient été de bonnes candidates à un stérilet au cuivre (zéro hormone) ou à une contraception non hormonale, simplement par habitude de prescription plutôt que par choix éclairé. Une large étude de cohorte danoise a mis en évidence une association entre contraception hormonale et risque ultérieur de dépression, avec un effet modeste en population générale (source : Skovlund et coll., « Association of Hormonal Contraception With Depression », *JAMA Psychiatry*, 2016 ; vérification du 7 août 2026).
 
 ### Étape 5 : Les alternatives qui existent, à connaître
 
@@ -431,7 +432,7 @@ Le mot est trop fort pour caractériser l'usage général, pour la majorité des
 
 **💑 Dans le couple**
 
-La contraception est trop souvent vécue comme "son sujet à elle" alors qu'elle concerne un projet partagé (éviter ou permettre une grossesse). Le déséquilibre n'est pas seulement biologique (c'est elle qui porte les effets secondaires physiques), il est aussi souvent relationnel : c'est elle qui pense au renouvellement, qui gère les rendez-vous, qui subit les effets secondaires en silence pour "ne pas faire de vagues". Rééquilibrer cette [charge mentale](<../2 - Notions/Charge mentale.md>) ne veut pas dire "prendre sa place dans la décision médicale", mais partager activement la logistique et l'attention portée aux effets ressentis.
+La contraception est trop souvent vécue comme "son sujet à elle" alors qu'elle concerne un projet partagé (éviter ou permettre une grossesse). Le déséquilibre n'est pas seulement biologique (c'est elle qui porte les effets secondaires physiques), il est aussi souvent relationnel : c'est elle qui pense au renouvellement, qui gère les rendez-vous, qui subit les effets secondaires en silence pour "ne pas faire de vagues". Rééquilibrer cette [charge mentale](<../2 - Notions/Charge mentale.md>) ne veut pas dire "prendre sa place dans la décision médicale", mais partager activement la logistique et l'attention portée aux effets ressentis. L'éventail des méthodes disponibles et leurs profils respectifs sont détaillés par l'Assurance maladie (source : ameli.fr, *Les différentes méthodes de contraception* ; vérification du 7 août 2026).
 
 **Bons réflexes**
 - Ne présuppose jamais que "la pilule c'est réglé, on n'en parle plus", les effets secondaires évoluent, et un renouvellement d'ordonnance est un bon moment pour vérifier ensemble si le choix reste le bon.
@@ -449,7 +450,7 @@ Ensemble de symptômes physiques (ballonnements, tension mammaire, migraines, fa
 
 **Estimation** : jusqu'à 700-900 ‰ des femmes en âge de procréer rapportent au moins des symptômes légers, une minorité ayant des formes gênant réellement le quotidien.
 
-**💑 Dans le couple** : le SPM est probablement la situation la plus mal gérée dans les couples, précisément parce qu'elle est "légère" et récurrente, on finit par s'agacer d'un agacement prévisible plutôt que de l'anticiper avec bienveillance. Beaucoup de disputes de couple suivent un pattern cyclique que ni l'un ni l'autre n'a jamais pris la peine de cartographier.
+**💑 Dans le couple** : le SPM est probablement la situation la plus mal gérée dans les couples, précisément parce qu'elle est "légère" et récurrente, on finit par s'agacer d'un agacement prévisible plutôt que de l'anticiper avec bienveillance. Beaucoup de disputes de couple suivent un pattern cyclique que ni l'un ni l'autre n'a jamais pris la peine de cartographier. Le syndrome prémenstruel est défini par des critères cliniques établis (source : American College of Obstetricians and Gynecologists, *Premenstrual Syndrome*, Practice Bulletin No. 15 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 - Si tu remarques un pattern (des tensions qui reviennent toujours à peu près au même moment du cycle), partage cette observation avec douceur, sans l'utiliser comme une arme ("de toute façon t'es dans ta période"). L'objectif est d'anticiper ensemble, pas de disqualifier ce qu'elle ressent.
@@ -477,7 +478,7 @@ Le mécanisme le mieux documenté à ce jour n'est **pas** un déséquilibre hor
 - **Primaire** : douleur liée aux contractions utérines normales dues aux prostaglandines, imagine l'utérus qui se contracte comme un poing qui se ferme et se rouvre pour expulser la muqueuse, sans pathologie sous-jacente. Très fréquente, souvent sous-traitée par réflexe culturel ("c'est normal d'avoir mal").
 - **Secondaire** : douleur causée par une pathologie sous-jacente ([endométriose](<../2 - Notions/Endométriose.md>), adénomyose, fibrome), un signal d'alarme trop souvent ignoré. Une douleur de règles qui empêche d'aller travailler ou en cours n'est **jamais** "normale" et mérite un avis médical.
 
-**💑 Dans le couple** : une douleur de règles minimisée pendant des années peut cacher une pathologie secondaire (endométriose notamment) qui, non traitée, s'aggrave avec le temps et peut affecter la fertilité future du couple.
+**💑 Dans le couple** : une douleur de règles minimisée pendant des années peut cacher une pathologie secondaire (endométriose notamment) qui, non traitée, s'aggrave avec le temps et peut affecter la fertilité future du couple. Une revue critique de la dysménorrhée primaire synthétise les mécanismes et les traitements documentés (source : Iacovides, Avidon & Baker, « What we know about primary dysmenorrhea today: a critical review », *Human Reproduction Update*, 2015 ; vérification du 7 août 2026).
 
 **Bons réflexes** : si tu constates qu'elle prend systématiquement un antidouleur puissant chaque mois depuis des années sans que cela ait jamais été investigué médicalement au-delà de "prends du paracétamol", encourage-la (sans insister lourdement) à demander une échographie pelvienne au moins une fois pour éliminer une cause secondaire.
 
@@ -501,7 +502,7 @@ Il n'existe **pas de traitement curatif à ce jour**, seulement des traitements 
 
 ### 4.4bis Endométriose thoracique et pneumothorax catamenial (rare mais à connaître)
 
-Forme rare de l'endométriose où le tissu endométrial atteint le diaphragme ou la plèvre pulmonaire, pouvant provoquer un affaissement du poumon (pneumothorax) survenant spécifiquement au moment des règles ("catamenial" signifie "lié au cycle menstruel"). Une femme jeune qui présente une douleur thoracique brutale ou un essoufflement récurrent, systématiquement pendant ses règles, doit faire évoquer ce diagnostic rare mais réel aux urgences, un point que beaucoup de médecins non spécialisés ignorent eux-mêmes.
+Forme rare de l'endométriose où le tissu endométrial atteint le diaphragme ou la plèvre pulmonaire, pouvant provoquer un affaissement du poumon (pneumothorax) survenant spécifiquement au moment des règles ("catamenial" signifie "lié au cycle menstruel"). Une femme jeune qui présente une douleur thoracique brutale ou un essoufflement récurrent, systématiquement pendant ses règles, doit faire évoquer ce diagnostic rare mais réel aux urgences, un point que beaucoup de médecins non spécialisés ignorent eux-mêmes. Le pneumothorax catamenial, rare mais documenté, a fait l'objet d'une étude prospective dédiée (source : Alifano et coll., « Catamenial pneumothorax: a prospective study », *Chest*, 2007 ; vérification du 7 août 2026).
 
 ### 4.5 Adénomyose ("endométriose intra-utérine")
 
@@ -536,18 +537,18 @@ C'est la maladie hormonale la plus fréquente chez les femmes en âge de procré
 
 Tumeurs bénignes du muscle utérin, très fréquentes (jusqu'à 700-800 ‰ des femmes au cours de leur vie selon la localisation géographique et l'âge, avec une prévalence bien plus élevée chez les femmes d'ascendance afro-descendante, une disparité de santé documentée mais dont les causes exactes restent débattues). Souvent asymptomatiques, ils peuvent causer règles abondantes, douleurs pelviennes, pesanteur, parfois infertilité selon leur localisation (un fibrome qui déforme la cavité utérine gêne davantage l'implantation qu'un fibrome situé à l'extérieur de l'utérus). Traitements allant de la simple surveillance à la chirurgie (myomectomie, hystérectomie dans les cas extrêmes) en passant par des traitements médicamenteux et, plus récemment, des techniques mini-invasives comme l'embolisation des artères utérines.
 
-**💑 Dans le couple** : les fibromes volumineux peuvent provoquer une sensation de pesanteur pelvienne pendant les rapports et des règles suffisamment abondantes pour affecter l'énergie quotidienne et l'humeur (voir anémie ferriprive, 4.11).
+**💑 Dans le couple** : les fibromes volumineux peuvent provoquer une sensation de pesanteur pelvienne pendant les rapports et des règles suffisamment abondantes pour affecter l'énergie quotidienne et l'humeur (voir anémie ferriprive, 4.11). La prise en charge des fibromes utérins est détaillée dans une revue de référence (source : Donnez & Dolmans, « Uterine fibroid management: from the present to the future », *Human Reproduction Update*, 2016 ; vérification du 7 août 2026).
 
 **Bons réflexes** : si ta partenaire a des règles si abondantes qu'elle doit changer de protection toutes les heures ou qu'elle évite les activités sociales pendant ses règles par peur des fuites, ce n'est pas "juste des règles abondantes" à minimiser, c'est un motif de consultation légitime.
 
 ### 4.8 Kystes ovariens
 
 - **Fonctionnels** : liés au cycle normal (kyste folliculaire, kyste du corps jaune), bénins, disparaissent généralement seuls en quelques cycles, un peu comme une ampoule qui n'a pas éclaté au bon moment et se résorbe d'elle-même.
-- **Organiques** : kyste dermoïde (contenant parfois des tissus surprenants comme des cheveux ou des dents, formé à partir de cellules souches embryonnaires égarées, impressionnant mais généralement bénin), endométriome (kyste d'endométriose sur l'ovaire, dit "kyste chocolat" en raison de son contenu de sang ancien et épaissi), cystadénome, nécessitent une surveillance ou une prise en charge chirurgicale selon la nature et la taille.
+- **Organiques** : kyste dermoïde (contenant parfois des tissus surprenants comme des cheveux ou des dents, formé à partir de cellules souches embryonnaires égarées, impressionnant mais généralement bénin), endométriome (kyste d'endométriose sur l'ovaire, dit "kyste chocolat" en raison de son contenu de sang ancien et épaissi), cystadénome, nécessitent une surveillance ou une prise en charge chirurgicale selon la nature et la taille. La conduite à tenir devant un kyste ovarien est fixée par les recommandations de pratique clinique (source : American College of Obstetricians and Gynecologists, *Management of Adnexal Masses*, Practice Bulletin ; vérification du 7 août 2026).
 
 ### 4.8bis Torsion d'ovaire : une urgence chirurgicale à connaître absolument
 
-Un kyste ovarien volumineux peut, dans de rares cas, faire "basculer" et se tordre sur lui-même autour de son pédicule vasculaire, coupant l'irrigation sanguine de l'ovaire, un peu comme un tuyau d'arrosage qui se vrille et coupe le débit d'eau. C'est une **urgence chirurgicale absolue** : sans intervention rapide (en général sous quelques heures), l'ovaire peut nécroser de façon irréversible. Signes d'alerte : douleur pelvienne brutale et intense, souvent d'un seul côté, parfois accompagnée de nausées et vomissements. Une douleur pelvienne de cette intensité et de cette soudaineté ne doit jamais attendre "pour voir si ça passe", direction les urgences.
+Un kyste ovarien volumineux peut, dans de rares cas, faire "basculer" et se tordre sur lui-même autour de son pédicule vasculaire, coupant l'irrigation sanguine de l'ovaire, un peu comme un tuyau d'arrosage qui se vrille et coupe le débit d'eau. C'est une **urgence chirurgicale absolue** : sans intervention rapide (en général sous quelques heures), l'ovaire peut nécroser de façon irréversible. Signes d'alerte : douleur pelvienne brutale et intense, souvent d'un seul côté, parfois accompagnée de nausées et vomissements. Une douleur pelvienne de cette intensité et de cette soudaineté ne doit jamais attendre "pour voir si ça passe", direction les urgences. La torsion d'ovaire, urgence chirurgicale, est décrite dans une revue systématique de la littérature (source : Huchon & Fauconnier, « Adnexal torsion: a literature review », *European Journal of Obstetrics & Gynecology and Reproductive Biology*, 2010 ; vérification du 7 août 2026).
 
 ### 4.8ter Syndrome d'hyperstimulation ovarienne (SHO)
 
@@ -560,7 +561,7 @@ Complication rare mais potentiellement sévère des traitements de stimulation o
 - **Primaire** : absence de premières règles à 15 ans, ou 3 ans après le développement des seins, à explorer (malformation, cause génétique, retard pubertaire).
 - **Secondaire** : absence de règles pendant plus de 3 mois chez une femme auparavant réglée. Causes fréquentes : grossesse (toujours à écarter en premier), SOPK/SMOP, **aménorrhée hypothalamique fonctionnelle** (liée à un stress intense, une restriction alimentaire ou un excès d'exercice physique, le "thermostat" cérébral de la section 1 qui décide de mettre le système en pause ; un point d'attention particulier chez les sportives de haut niveau, où ce phénomène s'associe parfois à une fragilité osseuse dans ce qu'on appelle la "triade de l'athlète féminine" : aménorrhée, faible disponibilité énergétique, et perte de densité osseuse), hyperprolactinémie, troubles thyroïdiens, insuffisance ovarienne prématurée (voir 4.10).
 
-**💑 Dans le couple** : une aménorrhée hypothalamique liée au stress ou au sport est un signal que le corps envoie explicitement, "je ne suis pas dans de bonnes conditions pour une grossesse en ce moment". Si ta partenaire traverse une période professionnelle ou personnelle très intense et que ses règles s'arrêtent, ce n'est pas anodin, même si elle n'est pas en sous-poids visible.
+**💑 Dans le couple** : une aménorrhée hypothalamique liée au stress ou au sport est un signal que le corps envoie explicitement, "je ne suis pas dans de bonnes conditions pour une grossesse en ce moment". Si ta partenaire traverse une période professionnelle ou personnelle très intense et que ses règles s'arrêtent, ce n'est pas anodin, même si elle n'est pas en sous-poids visible. Les causes et l'évaluation de l'aménorrhée sont détaillées dans les recommandations des sociétés savantes de médecine reproductive (source : Practice Committee of the American Society for Reproductive Medicine, « Current evaluation of amenorrhea », *Fertility and Sterility*, 2008 ; vérification du 7 août 2026).
 
 **Bons réflexes** : ne minimise pas une absence de règles prolongée en te disant "au moins elle n'a pas ses désagréments ce mois-ci", c'est un signal de déséquilibre à prendre au sérieux, surtout si le rythme de vie (sport intensif, restriction alimentaire, charge de travail) semble en cause.
 
@@ -568,7 +569,7 @@ Complication rare mais potentiellement sévère des traitements de stimulation o
 
 Arrêt du fonctionnement ovarien avant 40 ans (ménopause précoce), touchant environ **10 ‰** des femmes. Les causes sont variées : auto-immunes (le corps attaque par erreur son propre tissu ovarien), génétiques (comme le syndrome de Turner, une anomalie chromosomique), ou secondaires à un traitement (chimiothérapie, radiothérapie). Cause majeure d'infertilité précoce et de conséquences psychologiques significatives, souvent sous-estimées car survenant à un âge où l'entourage n'anticipe absolument pas ce diagnostic, recevoir un diagnostic de ménopause à 28 ou 32 ans provoque un vrai choc identitaire, bien au-delà de la seule question de la fertilité.
 
-**💑 Dans le couple** : ce diagnostic, quand il survient, percute souvent de plein fouet un projet de vie déjà engagé (couple stable, désir d'enfant en projet ou déjà commencé). Le deuil de la fertilité "naturelle" doit être traversé, y compris quand des solutions existent (don d'ovocytes, adoption).
+**💑 Dans le couple** : ce diagnostic, quand il survient, percute souvent de plein fouet un projet de vie déjà engagé (couple stable, désir d'enfant en projet ou déjà commencé). Le deuil de la fertilité "naturelle" doit être traversé, y compris quand des solutions existent (don d'ovocytes, adoption). La prise en charge de l'insuffisance ovarienne prématurée fait l'objet d'une recommandation dédiée de la société européenne de reproduction humaine (source : Webber et coll., « ESHRE Guideline: management of women with premature ovarian insufficiency », *Human Reproduction*, 2016 ; vérification du 7 août 2026).
 
 **Bons réflexes** : ce diagnostic nécessite un accompagnement psychologique presque systématique, pour elle et souvent pour le couple, ne pas hésiter à évoquer ensemble un suivi par un psychologue spécialisé en infertilité, une ressource encore trop peu mentionnée par les médecins eux-mêmes.
 
@@ -576,27 +577,27 @@ Arrêt du fonctionnement ovarien avant 40 ans (ménopause précoce), touchant en
 
 Règles anormalement abondantes (plus de 80 mL, ou changement de protection toutes les 1-2h, ou caillots importants), pouvant conduire à une **anémie ferriprive** (carence en fer) responsable de fatigue chronique, essoufflement, pâleur, palpitations, difficultés de concentration, une complication très sous-diagnostiquée car attribuée à tort à "la fatigue de la vie moderne" ou "le manque de sommeil". Une prise de sang simple (dosage de la ferritine) permet de la confirmer facilement.
 
-**💑 Dans le couple** : une fatigue chronique inexpliquée chez une partenaire qui a par ailleurs des règles très abondantes n'est pas nécessairement un problème de sommeil, de stress ou de rythme de vie, pense à évoquer ce lien si le pattern te semble correspondre.
+**💑 Dans le couple** : une fatigue chronique inexpliquée chez une partenaire qui a par ailleurs des règles très abondantes n'est pas nécessairement un problème de sommeil, de stress ou de rythme de vie, pense à évoquer ce lien si le pattern te semble correspondre. Les ménorragies et leur retentissement en anémie ferriprive sont couverts par une recommandation de référence sur les saignements menstruels abondants (source : NICE, *Heavy menstrual bleeding: assessment and management*, NG88 ; vérification du 7 août 2026).
 
 **Bons réflexes** : encourage une prise de sang si la fatigue persiste sans explication évidente, en particulier si elle coïncide avec des règles abondantes, c'est un des diagnostics les plus simples à confirmer et les plus faciles à corriger (supplémentation en fer) de tout ce panorama.
 
 ### 4.12 Syndrome de choc toxique (SCT)
 
-Complication rare mais potentiellement mortelle, liée au port prolongé d'un tampon (au-delà de 4-8h) favorisant la prolifération d'une toxine staphylococcique qui se diffuse dans tout l'organisme. Rare (de l'ordre de 1 ‰ ou moins), mais à connaître absolument : fièvre brutale, éruption cutanée ressemblant à un coup de soleil, chute de tension, vomissements, c'est une urgence médicale qui peut évoluer très rapidement vers un état de choc généralisé.
+Complication rare mais potentiellement mortelle, liée au port prolongé d'un tampon (au-delà de 4-8h) favorisant la prolifération d'une toxine staphylococcique qui se diffuse dans tout l'organisme. Rare (de l'ordre de 1 ‰ ou moins), mais à connaître absolument : fièvre brutale, éruption cutanée ressemblant à un coup de soleil, chute de tension, vomissements, c'est une urgence médicale qui peut évoluer très rapidement vers un état de choc généralisé. Le syndrome de choc toxique, associé à l'usage de protections internes, a fait l'objet d'une surveillance épidémiologique dédiée aux États-Unis (source : Reingold et coll., « Toxic shock syndrome surveillance in the United States », *Reviews of Infectious Diseases*, 1989 ; vérification du 7 août 2026).
 
 **Bons réflexes** : si ta partenaire présente une fièvre brutale et inexpliquée pendant ses règles, associée à une éruption cutanée ou une sensation de malaise intense, n'attends pas, les urgences, en mentionnant explicitement le port d'un tampon, permettent un diagnostic rapide.
 
 ### 4.13 Hyperprolactinémie et troubles thyroïdiens
 
-Deux causes hormonales fréquentes de dérèglement du cycle, souvent recherchées en première intention par une prise de sang lors du bilan d'un trouble menstruel (dosage prolactine, TSH). Une hypothyroïdie ou hyperthyroïdie peut provoquer cycles irréguliers, règles abondantes ou absentes, fatigue, variations de poids et d'humeur, des symptômes qui se superposent souvent avec ceux d'autres pathologies de cette liste, d'où l'intérêt d'un bilan sanguin simple pour trancher.
+Deux causes hormonales fréquentes de dérèglement du cycle, souvent recherchées en première intention par une prise de sang lors du bilan d'un trouble menstruel (dosage prolactine, TSH). Une hypothyroïdie ou hyperthyroïdie peut provoquer cycles irréguliers, règles abondantes ou absentes, fatigue, variations de poids et d'humeur, des symptômes qui se superposent souvent avec ceux d'autres pathologies de cette liste, d'où l'intérêt d'un bilan sanguin simple pour trancher. L'évaluation et le traitement de l'hyperprolactinémie sont détaillés par une recommandation de pratique clinique de la société d'endocrinologie (source : Melmed et coll., « Diagnosis and treatment of hyperprolactinemia: an Endocrine Society clinical practice guideline », *Journal of Clinical Endocrinology & Metabolism*, 2011 ; vérification du 7 août 2026).
 
 ### 4.13bis Hyperandrogénie et hyperplasie congénitale des surrénales non classique
 
-Un diagnostic différentiel important du SMOP : certaines femmes présentent des symptômes très similaires (acné, pilosité excessive, cycles irréguliers) mais pour une raison différente, une forme discrète et tardive d'une maladie génétique des glandes surrénales (hyperplasie congénitale des surrénales, forme non classique), qui perturbe la production d'hormones surrénaliennes plutôt qu'ovariennes. Ce diagnostic, moins fréquent que le SMOP, se distingue par un bilan hormonal spécifique (dosage de la 17-hydroxyprogestérone) et nécessite un traitement différent, une bonne illustration du fait que "cycles irréguliers + acné + pilosité" n'a pas toujours la même cause.
+Un diagnostic différentiel important du SMOP : certaines femmes présentent des symptômes très similaires (acné, pilosité excessive, cycles irréguliers) mais pour une raison différente, une forme discrète et tardive d'une maladie génétique des glandes surrénales (hyperplasie congénitale des surrénales, forme non classique), qui perturbe la production d'hormones surrénaliennes plutôt qu'ovariennes. Ce diagnostic, moins fréquent que le SMOP, se distingue par un bilan hormonal spécifique (dosage de la 17-hydroxyprogestérone) et nécessite un traitement différent, une bonne illustration du fait que "cycles irréguliers + acné + pilosité" n'a pas toujours la même cause. L'hyperplasie congénitale des surrénales non classique fait l'objet d'une recommandation dédiée (source : Speiser et coll., « Congenital adrenal hyperplasia due to steroid 21-hydroxylase deficiency: an Endocrine Society clinical practice guideline », *Journal of Clinical Endocrinology & Metabolism*, 2010 ; vérification du 7 août 2026).
 
 ### 4.14 Syndrome d'Asherman
 
-Formation d'adhérences (tissu cicatriciel) à l'intérieur de l'utérus, le plus souvent après un curetage, une chirurgie utérine ou une infection sévère, pouvant provoquer une aménorrhée et une infertilité, un peu comme des cicatrices internes qui collent les parois de l'utérus entre elles, réduisant l'espace disponible pour une future grossesse. Relativement rare mais important à connaître en cas d'antécédent de curetage (notamment après une fausse couche ou une IVG chirurgicale).
+Formation d'adhérences (tissu cicatriciel) à l'intérieur de l'utérus, le plus souvent après un curetage, une chirurgie utérine ou une infection sévère, pouvant provoquer une aménorrhée et une infertilité, un peu comme des cicatrices internes qui collent les parois de l'utérus entre elles, réduisant l'espace disponible pour une future grossesse. Relativement rare mais important à connaître en cas d'antécédent de curetage (notamment après une fausse couche ou une IVG chirurgicale). Le syndrome d'Asherman, ses causes et sa prise en charge sont synthétisés dans une revue de référence (source : Yu, Wu, Al-Ghazzawi & Gordts, « Asherman syndrome — one century later », *Fertility and Sterility*, 2008 ; vérification du 7 août 2026).
 
 ### 4.15 Malformations utérines congénitales
 
@@ -606,43 +607,43 @@ Formation d'adhérences (tissu cicatriciel) à l'intérieur de l'utérus, le plu
 - **Utérus unicorne** : un seul côté de l'utérus s'est développé normalement.
 - **Utérus didelphe** : présence de deux utérus distincts, chacun avec son propre col, une forme rare mais bien documentée.
 
-Ces malformations, présentes dès la naissance, sont découvertes souvent à l'adolescence (absence de règles) ou lors de difficultés de conception ou de fausses couches à répétition à l'âge adulte.
+Ces malformations, présentes dès la naissance, sont découvertes souvent à l'adolescence (absence de règles) ou lors de difficultés de conception ou de fausses couches à répétition à l'âge adulte. La classification des malformations utérines congénitales a fait l'objet d'un consensus des sociétés européennes de gynécologie (source : Grimbizis et coll., « The ESHRE/ESGE consensus on the classification of female genital tract congenital anomalies », *Human Reproduction*, 2013 ; vérification du 7 août 2026).
 
 ### 4.16 Salpingite, maladie inflammatoire pelvienne (PID) et complications infectieuses
 
 Une infection génitale non traitée (souvent une chlamydia ou un gonocoque asymptomatique) peut remonter des voies génitales basses vers les trompes de Fallope et provoquer une **salpingite** (infection des trompes), qui elle-même peut évoluer en **abcès tubo-ovarien** dans les formes sévères, une urgence médicale nécessitant antibiothérapie voire chirurgie. Une complication rare mais notable de cette remontée infectieuse est le **syndrome de Fitz-Hugh-Curtis**, où l'infection atteint la capsule du foie et provoque une douleur de l'hypocondre droit pouvant faire penser, à tort, à une cause purement digestive. Ces infections non traitées sont l'une des grandes causes évitables d'infertilité tubaire, d'où l'importance du dépistage des IST, y compris en l'absence de symptôme.
 
-**💑 Dans le couple** : un dépistage IST commun au démarrage d'une relation, ou après tout changement de configuration de protection, protège en réalité la fertilité future du couple, pas seulement la santé immédiate.
+**💑 Dans le couple** : un dépistage IST commun au démarrage d'une relation, ou après tout changement de configuration de protection, protège en réalité la fertilité future du couple, pas seulement la santé immédiate. La prise en charge des infections pelviennes et de leurs complications suit les recommandations de référence en matière d'infections sexuellement transmissibles (source : Workowski & Bachmann, « Sexually Transmitted Infections Treatment Guidelines », *MMWR Recommendations and Reports*, CDC, 2021 ; vérification du 7 août 2026).
 
 ### 4.17 Kyste et abcès de la glande de Bartholin
 
-Les glandes de Bartholin, situées de part et d'autre de l'entrée du vagin, lubrifient naturellement la zone. Leur canal peut s'obstruer et former un kyste, généralement indolore et de petite taille, ou plus rarement s'infecter et former un abcès douloureux nécessitant un drainage médical. Fréquent et bénin dans la grande majorité des cas, mais une grosseur douloureuse et chaude au niveau de la vulve mérite une consultation plutôt qu'une auto-évaluation.
+Les glandes de Bartholin, situées de part et d'autre de l'entrée du vagin, lubrifient naturellement la zone. Leur canal peut s'obstruer et former un kyste, généralement indolore et de petite taille, ou plus rarement s'infecter et former un abcès douloureux nécessitant un drainage médical. Fréquent et bénin dans la grande majorité des cas, mais une grosseur douloureuse et chaude au niveau de la vulve mérite une consultation plutôt qu'une auto-évaluation. La prise en charge en cabinet des kystes et abcès de la glande de Bartholin est détaillée dans une revue de médecine de famille (source : Omole, Kelsey & Phillips, « Bartholin duct cyst and gland abscess: office management », *American Family Physician*, 2019 ; vérification du 7 août 2026).
 
 ### 4.18 Lichen scléreux vulvaire
 
 Maladie dermatologique chronique et auto-immune touchant la peau de la vulve, provoquant démangeaisons, fragilité cutanée, et à terme des modifications de l'architecture de la vulve si elle n'est pas traitée (adhérences, rétrécissement de l'orifice vaginal). Souvent confondue à tort avec une simple mycose récidivante ou une irritation banale, elle nécessite un traitement dermatologique spécifique (corticoïdes locaux puissants) et un suivi au long cours, y compris parce qu'elle est associée à un léger sur-risque de cancer vulvaire si elle est négligée pendant des années.
 
-**💑 Dans le couple** : cette pathologie touche directement le confort de la vie intime (démangeaisons chroniques, douleur, parfois dyspareunie) et l'image de soi liée à la sphère génitale, un accompagnement sans gêne ni dégoût de ta part compte énormément.
+**💑 Dans le couple** : cette pathologie touche directement le confort de la vie intime (démangeaisons chroniques, douleur, parfois dyspareunie) et l'image de soi liée à la sphère génitale, un accompagnement sans gêne ni dégoût de ta part compte énormément. Le diagnostic et le traitement du lichen scléreux vulvaire sont détaillés dans une revue fondée sur les preuves (source : Lee, Bradford & Fischer, « Diagnosis and treatment of vulvar lichen sclerosus: an evidence-based review », *JAMA Dermatology*, 2018 ; vérification du 7 août 2026).
 
 ### 4.19 Migraine cataméniale et épilepsie cataméniale
 
 Deux exemples de la façon dont le cycle hormonal peut aggraver des pathologies neurologiques préexistantes, qu'on appelle "cataméniales" quand elles suivent le rythme du cycle menstruel :
 - **Migraine cataméniale** : crises de migraine survenant spécifiquement autour des règles, liées à la chute brutale des œstrogènes en fin de phase lutéale, souvent plus intenses et plus résistantes aux traitements habituels que les migraines "classiques".
-- **Épilepsie cataméniale** : chez certaines femmes épileptiques, la fréquence des crises augmente nettement à certaines phases du cycle (le plus souvent en périovulatoire et juste avant les règles), en lien avec les fluctuations des œstrogènes et de la progestérone, qui modulent directement l'excitabilité cérébrale.
+- **Épilepsie cataméniale** : chez certaines femmes épileptiques, la fréquence des crises augmente nettement à certaines phases du cycle (le plus souvent en périovulatoire et juste avant les règles), en lien avec les fluctuations des œstrogènes et de la progestérone, qui modulent directement l'excitabilité cérébrale. Les approches thérapeutiques de la migraine cataméniale sont détaillées dans une revue spécialisée (source : MacGregor, « Menstrual migraine: therapeutic approaches », *Therapeutic Advances in Neurological Disorders*, 2009 ; vérification du 7 août 2026).
 
 **Bons réflexes** : si ta partenaire souffre de migraines ou (plus rarement) d'épilepsie, et que tu remarques un lien avec son cycle, c'est une information clinique précieuse à partager avec son neurologue, le traitement peut être ajusté en fonction du cycle plutôt qu'appliqué de façon uniforme.
 
 ### 4.20 Asthme prémenstruel
 
-Chez certaines femmes asthmatiques, les crises s'aggravent nettement en phase prémenstruelle, un phénomène encore incomplètement compris mais bien documenté cliniquement, probablement lié à l'effet des hormones sur l'inflammation des voies respiratoires.
+Chez certaines femmes asthmatiques, les crises s'aggravent nettement en phase prémenstruelle, un phénomène encore incomplètement compris mais bien documenté cliniquement, probablement lié à l'effet des hormones sur l'inflammation des voies respiratoires. L'aggravation prémenstruelle de l'asthme est documentée chez une partie des patientes asthmatiques (source : Gibbs, Beasley & Shirtcliffe, « Premenstrual exacerbation of asthma », *Thorax*, 2012 ; vérification du 7 août 2026).
 
 ### 4.21 Hyperplasie de l'endomètre
 
-Épaississement anormal de la muqueuse utérine, le plus souvent lié à une exposition prolongée aux œstrogènes non compensée par de la progestérone (cycles anovulatoires chroniques comme dans le SMOP, obésité, certains traitements hormonaux mal équilibrés). Certaines formes sont considérées comme précancéreuses et nécessitent une surveillance ou un traitement progestatif pour faire régresser la muqueuse, un diagnostic posé par biopsie de l'endomètre en cas de saignements anormaux, notamment après la ménopause où tout saignement doit être exploré sans délai.
+Épaississement anormal de la muqueuse utérine, le plus souvent lié à une exposition prolongée aux œstrogènes non compensée par de la progestérone (cycles anovulatoires chroniques comme dans le SMOP, obésité, certains traitements hormonaux mal équilibrés). Certaines formes sont considérées comme précancéreuses et nécessitent une surveillance ou un traitement progestatif pour faire régresser la muqueuse, un diagnostic posé par biopsie de l'endomètre en cas de saignements anormaux, notamment après la ménopause où tout saignement doit être exploré sans délai. La prise en charge de l'hyperplasie de l'endomètre est détaillée dans une revue clinique de référence (source : Trimble et coll., « Management of endometrial precancers », *Obstetrics & Gynecology*, 2012 ; vérification du 7 août 2026).
 
 ### 4.22 Le cadre diagnostique PALM-COEIN
 
-Pour t'y retrouver dans cette liste : les gynécologues utilisent une classification internationale des causes de saignements utérins anormaux appelée **PALM-COEIN** (Polype, Adénomyose, Léiomyome/fibrome, Malignité, puis Coagulopathie, dysfonction Ovulatoire, endométriale, Iatrogène, ou Non classée). Si un jour un médecin utilise cet acronyme devant vous, c'est simplement la façon structurée de chercher méthodiquement la cause d'un saignement anormal, plutôt qu'un diagnostic en soi.
+Pour t'y retrouver dans cette liste : les gynécologues utilisent une classification internationale des causes de saignements utérins anormaux appelée **PALM-COEIN** (Polype, Adénomyose, Léiomyome/fibrome, Malignité, puis Coagulopathie, dysfonction Ovulatoire, endométriale, Iatrogène, ou Non classée). Si un jour un médecin utilise cet acronyme devant vous, c'est simplement la façon structurée de chercher méthodiquement la cause d'un saignement anormal, plutôt qu'un diagnostic en soi. Le cadre PALM-COEIN, qui classe les causes de saignement utérin anormal, a été établi par la fédération internationale de gynécologie et d'obstétrique (source : Munro, Critchley, Broder & Fraser, « FIGO classification system (PALM-COEIN) for causes of abnormal uterine bleeding », *International Journal of Gynecology & Obstetrics*, 2011 ; vérification du 7 août 2026).
 
 ### 4.23 Cancers gynécologiques : ce qu'il faut savoir en prévention
 
@@ -656,7 +657,7 @@ Pour t'y retrouver dans cette liste : les gynécologues utilisent une classifica
 **Bons réflexes généraux pour toute cette section**
 - Retiens la liste des "signaux rouges" qui méritent une consultation rapide et non différée : douleur pelvienne brutale et intense (torsion d'ovaire, GEU), fièvre brutale avec éruption pendant les règles (choc toxique), douleur thoracique cyclique (endométriose thoracique), saignement après la ménopause (toujours à explorer), douleur qui empêche le fonctionnement quotidien (jamais "juste des règles").
 - Propose ton accompagnement aux rendez-vous médicaux sans t'imposer, la présence d'un partenaire attentif change objectivement la qualité de l'écoute médicale reçue, un fait documenté dans plusieurs témoignages de patientes et de chercheuses elles-mêmes (voir section 8).
-- Encourage un suivi gynécologique régulier même en l'absence de symptôme, beaucoup de ces pathologies évoluent silencieusement pendant des années avant de devenir symptomatiques.
+- Encourage un suivi gynécologique régulier même en l'absence de symptôme, beaucoup de ces pathologies évoluent silencieusement pendant des années avant de devenir symptomatiques. Les recommandations de dépistage des cancers gynécologiques sont fixées par les autorités de santé (source : Institut national du cancer, *Dépistage et détection précoce* ; vérification du 7 août 2026).
 
 ---
 
@@ -668,11 +669,11 @@ Pour t'y retrouver dans cette liste : les gynécologues utilisent une classifica
 - **Clitoris** : organe bien plus grand qu'il n'y paraît, et l'analogie de l'iceberg est ici particulièrement juste. La partie visible (gland clitoridien, à peine la taille d'un petit pois) n'est que la pointe émergée d'une structure interne bien plus vaste, en forme de bulbes et de "jambes" (crus clitoridiens), qui s'étend sur plusieurs centimètres de part et d'autre du vagin, sous la peau. C'est pourquoi le plaisir clitoridien et le plaisir vaginal ne sont pas deux circuits totalement séparés, contrairement à une idée reçue longtemps répandue, la stimulation vaginale profonde peut indirectement mobiliser les structures internes du clitoris.
 - **Point G** : ne désigne pas un point anatomique isolé mais une zone de convergence des structures internes du clitoris et de l'urètre, sa description scientifique reste débattue, la variabilité individuelle est réelle, et il vaut mieux considérer cette zone comme une région sensible variable d'une femme à l'autre plutôt qu'un bouton universel à un emplacement fixe. Une piste anatomique souvent avancée pour l'expliquer : les **glandes de Skene** (ou glandes paraurétrales), situées de part et d'autre de l'urètre, parfois décrites comme l'équivalent embryologique de la prostate masculine, certains chercheurs y voient une des origines possibles de l'éjaculation féminine, sujet qui reste lui-même débattu scientifiquement.
 
-**Sur la diversité visuelle de la vulve** : tout comme les visages, aucune vulve ne ressemble exactement à une autre, taille et symétrie des petites lèvres, couleur, pilosité. La quasi-totalité de ces variations naturelles n'ont strictement aucune signification médicale. Ça vaut la peine de le savoir, tant l'exposition à des images uniformisées (médias, contenus pornographiques standardisés) a fini par créer une norme visuelle artificielle qui ne correspond à la réalité de personne en particulier (vérification du 27 juillet 2026).
+**Sur la diversité visuelle de la vulve** : tout comme les visages, aucune vulve ne ressemble exactement à une autre, taille et symétrie des petites lèvres, couleur, pilosité. La quasi-totalité de ces variations naturelles n'ont strictement aucune signification médicale. Ça vaut la peine de le savoir, tant l'exposition à des images uniformisées (médias, contenus pornographiques standardisés) a fini par créer une norme visuelle artificielle qui ne correspond à la réalité de personne en particulier (vérification du 27 juillet 2026). La description anatomique complète du clitoris, largement absente des manuels pendant des décennies, a été formalisée en imagerie (source : O'Connell, Sanjeevan & Hutson, « Anatomy of the clitoris », *Journal of Urology*, 2005 ; vérification du 7 août 2026).
 
 ### 5.2 Le cycle de réponse sexuelle : de la ligne droite au cercle
 
-Le modèle historique de Masters & Johnson (excitation, plateau, orgasme, résolution), établi dans les années 1960, reste une base utile mais décrit une séquence linéaire calquée sur l'observation en laboratoire, un modèle qui correspond assez bien à la réponse sexuelle masculine typique mais moins bien à la diversité des expériences féminines. Il a été enrichi depuis par des modèles plus circulaires, notamment celui de la sexologue canadienne **Rosemary Basson**, qui intègrent mieux la réalité vécue par de nombreuses femmes : le désir n'est pas toujours spontané en amont de l'excitation, il peut être **réactif**, apparaissant après le début d'une stimulation, dans un contexte de connexion émotionnelle et de contexte relationnel favorable, sans que cela signale un problème. Imagine la différence entre un feu qui s'allume spontanément (désir spontané) et un feu qu'il faut d'abord attiser avant qu'il ne prenne ([désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>)), les deux mécanismes produisent au final la même chaleur, mais l'un a besoin d'une étincelle extérieure pour démarrer, sans que ce soit "moins authentique" pour autant.
+Le modèle historique de Masters & Johnson (excitation, plateau, orgasme, résolution), établi dans les années 1960, reste une base utile mais décrit une séquence linéaire calquée sur l'observation en laboratoire, un modèle qui correspond assez bien à la réponse sexuelle masculine typique mais moins bien à la diversité des expériences féminines. Il a été enrichi depuis par des modèles plus circulaires, notamment celui de la sexologue canadienne **Rosemary Basson**, qui intègrent mieux la réalité vécue par de nombreuses femmes : le désir n'est pas toujours spontané en amont de l'excitation, il peut être **réactif**, apparaissant après le début d'une stimulation, dans un contexte de connexion émotionnelle et de contexte relationnel favorable, sans que cela signale un problème. Imagine la différence entre un feu qui s'allume spontanément (désir spontané) et un feu qu'il faut d'abord attiser avant qu'il ne prenne ([désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>)), les deux mécanismes produisent au final la même chaleur, mais l'un a besoin d'une étincelle extérieure pour démarrer, sans que ce soit "moins authentique" pour autant. Le modèle circulaire de la réponse sexuelle féminine, qui remplace la ligne droite du modèle linéaire classique, a été proposé par Rosemary Basson (source : Basson, « The female sexual response: a different model », *Journal of Sex & Marital Therapy*, 2000 ; vérification du 7 août 2026).
 
 ### 5.3 Le modèle à double contrôle : l'accélérateur et le frein
 
@@ -776,21 +777,21 @@ Longtemps mal reconnue faute de lésion visible à l'œil nu, elle nécessite un
 
 ### 5.9 Syndrome d'excitation génitale persistante (PGAD) : un syndrome rare et méconnu
 
-Un syndrome beaucoup moins connu mais réel et documenté médicalement : une sensation d'excitation génitale physique persistante, intrusive, non désirée et non liée à un désir sexuel conscient, pouvant durer des heures ou des jours et n'étant pas soulagée par l'orgasme (parfois même aggravée temporairement puis récidivante). Ce n'est en aucun cas un "trop de libido" ou une chance, c'est vécu comme extrêmement pénible, socialement isolant et parfois associé à des idées dépressives tant l'incompréhension de l'entourage (et parfois du corps médical lui-même) aggrave la détresse. Les causes exactes restent mal comprises (pistes vasculaires, neurologiques, parfois médicamenteuses), et la prise en charge reste aujourd'hui difficile et spécialisée.
+Un syndrome beaucoup moins connu mais réel et documenté médicalement : une sensation d'excitation génitale physique persistante, intrusive, non désirée et non liée à un désir sexuel conscient, pouvant durer des heures ou des jours et n'étant pas soulagée par l'orgasme (parfois même aggravée temporairement puis récidivante). Ce n'est en aucun cas un "trop de libido" ou une chance, c'est vécu comme extrêmement pénible, socialement isolant et parfois associé à des idées dépressives tant l'incompréhension de l'entourage (et parfois du corps médical lui-même) aggrave la détresse. Les causes exactes restent mal comprises (pistes vasculaires, neurologiques, parfois médicamenteuses), et la prise en charge reste aujourd'hui difficile et spécialisée. Le syndrome d'excitation génitale persistante a été décrit pour la première fois comme un tableau clinique distinct (source : Leiblum & Nathan, « Persistent sexual arousal syndrome: a newly discovered pattern of female sexuality », *Journal of Sex & Marital Therapy*, 2001 ; vérification du 7 août 2026).
 
 **Bons réflexes** : si ta partenaire te confie vivre quelque chose qui ressemble à ce syndrome, la réaction la plus utile est de la croire immédiatement et sans arrière-pensée, la moquerie ou l'incompréhension ("mais c'est plutôt bien non ?") est précisément ce qui aggrave le plus l'isolement des personnes concernées.
 
 ### 5.10 Trouble de l'intérêt et de l'excitation sexuelle féminine (FSIAD)
 
-Terme du DSM-5 regroupant ce qu'on appelait auparavant séparément "trouble du désir" et "trouble de l'excitation" chez la femme, une baisse marquée et persistante de l'intérêt sexuel ou de la réponse physique à la stimulation, causant une détresse personnelle significative (à bien distinguer d'une simple variation naturelle de libido sans souffrance associée, qui ne constitue pas un trouble, voir 5.4, l'analogie de la marée). Peut avoir des causes physiques (hormonales, médicamenteuses, notamment les ISRS, souvent responsables d'une baisse de libido et de difficultés orgasmiques, un effet secondaire trop peu anticipé lors de la prescription), circulatoires, ou psychologiques (stress, image corporelle, contexte relationnel, antécédents).
+Terme du DSM-5 regroupant ce qu'on appelait auparavant séparément "trouble du désir" et "trouble de l'excitation" chez la femme, une baisse marquée et persistante de l'intérêt sexuel ou de la réponse physique à la stimulation, causant une détresse personnelle significative (à bien distinguer d'une simple variation naturelle de libido sans souffrance associée, qui ne constitue pas un trouble, voir 5.4, l'analogie de la marée). Peut avoir des causes physiques (hormonales, médicamenteuses, notamment les ISRS, souvent responsables d'une baisse de libido et de difficultés orgasmiques, un effet secondaire trop peu anticipé lors de la prescription), circulatoires, ou psychologiques (stress, image corporelle, contexte relationnel, antécédents). Les critères diagnostiques du trouble de l'intérêt et de l'excitation sexuelle féminine sont discutés dans la littérature spécialisée (source : Brotto, « The DSM diagnostic criteria for hypoactive sexual desire disorder in women », *Archives of Sexual Behavior*, 2010 ; vérification du 7 août 2026).
 
 ### 5.11 Anorgasmie
 
-L'incapacité à atteindre l'orgasme malgré une stimulation adéquate et un désir présent, primaire si elle n'a jamais connu d'orgasme, secondaire si la difficulté apparaît après une période sans problème. Un sexologue ou un médecin formé en médecine sexuelle est l'interlocuteur adapté pour explorer les causes physiques ou psychologiques en jeu, un sujet à ne jamais réduire à une question de "performance" du partenaire, ce qui ajoute une pression contre-productive qui, d'après le modèle à double contrôle (5.3), ne fait que renforcer le frein.
+L'incapacité à atteindre l'orgasme malgré une stimulation adéquate et un désir présent, primaire si elle n'a jamais connu d'orgasme, secondaire si la difficulté apparaît après une période sans problème. Un sexologue ou un médecin formé en médecine sexuelle est l'interlocuteur adapté pour explorer les causes physiques ou psychologiques en jeu, un sujet à ne jamais réduire à une question de "performance" du partenaire, ce qui ajoute une pression contre-productive qui, d'après le modèle à double contrôle (5.3), ne fait que renforcer le frein. L'évaluation et la prise en charge de l'anorgasmie font l'objet de procédures standardisées proposées par la société internationale de médecine sexuelle (source : Laan, Rellini & Barnes, « Standard operating procedures for female orgasmic disorder », *Journal of Sexual Medicine*, 2013 ; vérification du 7 août 2026).
 
 ### 5.12 Infections sexuellement transmissibles (IST)
 
-Un rappel factuel important : de nombreuses IST (chlamydia, gonorrhée, HPV) sont **asymptomatiques** chez la femme pendant longtemps, ce qui explique pourquoi le dépistage régulier (et pas seulement en cas de symptôme) est recommandé dans un couple qui change de configuration de protection. La chlamydia non traitée est une cause majeure d'infertilité tubaire évitable (voir 4.16), un rappel qui vaut largement la petite gêne d'un dépistage de routine.
+Un rappel factuel important : de nombreuses IST (chlamydia, gonorrhée, HPV) sont **asymptomatiques** chez la femme pendant longtemps, ce qui explique pourquoi le dépistage régulier (et pas seulement en cas de symptôme) est recommandé dans un couple qui change de configuration de protection. La chlamydia non traitée est une cause majeure d'infertilité tubaire évitable (voir 4.16), un rappel qui vaut largement la petite gêne d'un dépistage de routine. Le dépistage des infections sexuellement transmissibles est détaillé dans les recommandations françaises de santé publique (source : Santé publique France, *Infections sexuellement transmissibles* ; vérification du 7 août 2026).
 
 ### 5.13 Comment en parler avec elle : la posture qui compte plus que la technique
 
@@ -815,7 +816,7 @@ Le rôle le plus utile que tu puisses jouer n'est pas celui du "critique" qui é
 - Fais du sujet de la douleur sexuelle un sujet aussi "normal" à aborder que n'importe quel autre inconfort physique, moins il est tabou entre vous, plus tôt un problème sera identifié et traité.
 - Ne prends jamais une variation de désir, d'excitation ou de plaisir comme un jugement personnel sur toi, la très grande majorité des causes explorées dans cette section sont physiologiques, hormonales ou médicamenteuses, rarement liées à "l'attirance" pour le partenaire.
 - Un rendez-vous chez un sexologue à deux n'est ni un aveu d'échec ni une démarche extrême, c'est un accompagnement professionnel comme un autre, dont beaucoup de couples heureux et stables bénéficient à un moment ou un autre de leur vie commune.
-- Garde en tête le chiffre de la section 5.5 : la pénétration seule ne suffit statistiquement pas à la majorité des femmes pour atteindre l'orgasme, construire une sexualité qui ne s'y limite pas n'est donc pas une "solution de repli", c'est l'approche la plus alignée avec la réalité des corps.
+- Garde en tête le chiffre de la section 5.5 : la pénétration seule ne suffit statistiquement pas à la majorité des femmes pour atteindre l'orgasme, construire une sexualité qui ne s'y limite pas n'est donc pas une "solution de repli", c'est l'approche la plus alignée avec la réalité des corps. La qualité de la communication autour de la sexualité, plus que la technique, est documentée comme un facteur de satisfaction sexuelle (source : Basson, « The female sexual response: a different model », *Journal of Sex & Marital Therapy*, 2000 ; vérification du 7 août 2026).
 
 ---
 
@@ -827,7 +828,7 @@ Une grossesse ressemble à un chantier de construction en trois grandes phases :
 
 - **1er trimestre (0-14 SA)** : mise en place du placenta, organogenèse (formation des organes), période de plus grande vulnérabilité aux malformations et aux fausses couches, exactement comme des fondations mal posées fragilisent tout l'édifice à venir. Nausées fréquentes (jusqu'à 700-800 ‰ des grossesses à des degrés divers), fatigue intense, seins tendus, le corps redirige une énergie considérable vers ce chantier invisible de l'extérieur, ce qui explique une fatigue parfois disproportionnée par rapport à ce qu'on "voit" du ventre à ce stade.
 - **2e trimestre (14-28 SA)** : période souvent la plus confortable ("le gros œuvre avance sans trop d'incidents"), premiers mouvements fœtaux ressentis (souvent décrits comme des "bulles" ou des "papillons"), dépistage du diabète gestationnel autour de 24-28 SA.
-- **3e trimestre (28 SA-terme)** : prise de poids maximale, essoufflement (l'utérus comprime le diaphragme, comme un chantier qui déborde sur l'espace voisin), inconfort lombaire et pelvien lié à la relaxine (hormone qui assouplit les ligaments en vue de l'accouchement, un peu comme desserrer les boulons d'une structure avant de la démonter), surveillance accrue de la tension artérielle pour dépister une éventuelle prééclampsie.
+- **3e trimestre (28 SA-terme)** : prise de poids maximale, essoufflement (l'utérus comprime le diaphragme, comme un chantier qui déborde sur l'espace voisin), inconfort lombaire et pelvien lié à la relaxine (hormone qui assouplit les ligaments en vue de l'accouchement, un peu comme desserrer les boulons d'une structure avant de la démonter), surveillance accrue de la tension artérielle pour dépister une éventuelle prééclampsie. Le déroulement physiologique de la grossesse trimestre par trimestre est détaillé dans les ouvrages de référence en obstétrique (source : Cunningham et coll., *Williams Obstetrics*, McGraw-Hill ; vérification du 7 août 2026).
 
 ### 6.2 Fausse couche
 
@@ -853,7 +854,7 @@ Implantation de l'œuf fécondé en dehors de la cavité utérine, dans 98% des 
 
 ### 6.4 Hyperémèse gravidique
 
-Forme sévère et invalidante des nausées de grossesse, avec vomissements empêchant toute alimentation et hydratation normales, pouvant nécessiter une hospitalisation pour réhydratation et parfois un traitement antiémétique spécifique. À distinguer des nausées "normales" du premier trimestre, ce n'est pas la même intensité, et une femme qui ne peut littéralement rien garder pendant plusieurs jours ne relève pas d'un simple "courage, ça va passer".
+Forme sévère et invalidante des nausées de grossesse, avec vomissements empêchant toute alimentation et hydratation normales, pouvant nécessiter une hospitalisation pour réhydratation et parfois un traitement antiémétique spécifique. À distinguer des nausées "normales" du premier trimestre, ce n'est pas la même intensité, et une femme qui ne peut littéralement rien garder pendant plusieurs jours ne relève pas d'un simple "courage, ça va passer". La prise en charge de l'hyperémèse gravidique est fixée par une recommandation de pratique clinique dédiée (source : American College of Obstetricians and Gynecologists, *Nausea and Vomiting of Pregnancy*, Practice Bulletin No. 189, 2018 ; vérification du 7 août 2026).
 
 **Bons réflexes** : si les nausées empêchent toute alimentation ou hydratation sur plusieurs jours consécutifs, ce n'est pas à "tenir" à la maison, c'est un motif de consultation, potentiellement d'hospitalisation brève pour réhydratation.
 
@@ -875,17 +876,17 @@ Syndrome grave associant hypertension artérielle, protéinurie (protéines dans
 
 ### 6.7 Syndrome HELLP
 
-Complication sévère et rare de la prééclampsie (Hemolysis, Elevated Liver enzymes, Low Platelets, hémolyse, élévation des enzymes hépatiques, chute des plaquettes) : destruction des globules rouges, atteinte hépatique, chute des plaquettes, urgence vitale nécessitant une prise en charge hospitalière immédiate, souvent un accouchement en urgence quel que soit le terme.
+Complication sévère et rare de la prééclampsie (Hemolysis, Elevated Liver enzymes, Low Platelets, hémolyse, élévation des enzymes hépatiques, chute des plaquettes) : destruction des globules rouges, atteinte hépatique, chute des plaquettes, urgence vitale nécessitant une prise en charge hospitalière immédiate, souvent un accouchement en urgence quel que soit le terme. Le syndrome HELLP a été caractérisé et fait l'objet d'une synthèse de référence sur son diagnostic et sa prise en charge (source : Sibai, « Diagnosis, controversies, and management of the syndrome of hemolysis, elevated liver enzymes, and low platelet count », *Obstetrics & Gynecology*, 2004 ; vérification du 7 août 2026).
 
 ### 6.8 Grossesse môlaire (maladie trophoblastique gestationnelle)
 
 Anomalie rare de la fécondation où le placenta se développe de façon anormale et excessive, sans embryon viable (môle complète) ou avec un embryon non viable (môle partielle), formant une masse de tissu ressemblant à une grappe de raisin à l'échographie. Se manifeste souvent par des saignements et un taux d'hormone de grossesse (hCG) anormalement élevé. Nécessite une évacuation utérine et un suivi rapproché des taux d'hCG pendant plusieurs mois, car dans de rares cas ce tissu peut évoluer vers une forme cancéreuse appelée choriocarcinome, nécessitant alors une chimiothérapie, heureusement un cancer aujourd'hui très bien traité quand il est détecté à ce stade précoce.
 
-**💑 Dans le couple** : ce diagnostic rare est particulièrement difficile à traverser car il ne s'agit ni tout à fait d'une fausse couche classique ni d'une grossesse évolutive, beaucoup de couples décrivent une confusion et un sentiment d'irréalité face à ce diagnostic peu connu, qui mérite d'être expliqué clairement par l'équipe médicale, avec le partenaire présent si possible.
+**💑 Dans le couple** : ce diagnostic rare est particulièrement difficile à traverser car il ne s'agit ni tout à fait d'une fausse couche classique ni d'une grossesse évolutive, beaucoup de couples décrivent une confusion et un sentiment d'irréalité face à ce diagnostic peu connu, qui mérite d'être expliqué clairement par l'équipe médicale, avec le partenaire présent si possible. La grossesse môlaire et les maladies trophoblastiques gestationnelles suivent des recommandations européennes de prise en charge oncologique (source : Seckl, Sebire & Berkowitz, « Gestational trophoblastic disease: ESMO Clinical Practice Guidelines », *Annals of Oncology*, 2013 ; vérification du 7 août 2026).
 
 ### 6.9 Incompatibilité Rhésus et maladie hémolytique du nouveau-né
 
-Quand une femme de groupe sanguin Rhésus négatif porte un fœtus Rhésus positif (hérité du père), son système immunitaire peut, en cas de contact entre les sangs maternel et fœtal (accouchement, certaines interventions, fausse couche), développer des anticorps contre le sang du fœtus. Sans problème lors d'une première grossesse en général, ce phénomène peut affecter une grossesse ultérieure si rien n'est fait. La prévention est aujourd'hui simple et systématique en France : une injection d'immunoglobulines anti-D est administrée à toute femme Rhésus négatif à risque, ce qui a rendu cette complication rare dans les pays où le suivi prénatal est bien organisé, un bel exemple de prévention médicale devenue quasi invisible parce qu'elle fonctionne bien.
+Quand une femme de groupe sanguin Rhésus négatif porte un fœtus Rhésus positif (hérité du père), son système immunitaire peut, en cas de contact entre les sangs maternel et fœtal (accouchement, certaines interventions, fausse couche), développer des anticorps contre le sang du fœtus. Sans problème lors d'une première grossesse en général, ce phénomène peut affecter une grossesse ultérieure si rien n'est fait. La prévention est aujourd'hui simple et systématique en France : une injection d'immunoglobulines anti-D est administrée à toute femme Rhésus négatif à risque, ce qui a rendu cette complication rare dans les pays où le suivi prénatal est bien organisé, un bel exemple de prévention médicale devenue quasi invisible parce qu'elle fonctionne bien. La prévention de l'allo-immunisation Rhésus pendant la grossesse est détaillée dans une recommandation de pratique clinique (source : American College of Obstetricians and Gynecologists, *Management of Alloimmunization During Pregnancy*, Practice Bulletin No. 192 ; vérification du 7 août 2026).
 
 ### 6.10 Autres complications à connaître
 
@@ -896,7 +897,7 @@ Quand une femme de groupe sanguin Rhésus négatif porte un fœtus Rhésus posit
 - **Retard de croissance intra-utérin (RCIU)** : le fœtus ne grandit pas au rythme attendu, surveillance échographique rapprochée pour adapter la prise en charge.
 - **Rupture prématurée des membranes (PPROM)** : la poche des eaux se rompt avant le début du travail et avant terme, exposant à un risque infectieux et de prématurité, nécessite une surveillance hospitalière rapprochée.
 - **Prématurité** : accouchement avant 37 SA, première cause de mortalité et morbidité néonatale dans le monde.
-- **Diastasis de la symphyse pubienne** : douleur pelvienne antérieure liée au relâchement ligamentaire de fin de grossesse (évoqué plus haut avec la relaxine), pouvant rendre la marche ou le simple fait de se retourner dans le lit douloureux, un inconfort réel et sous-estimé, pour lequel la kinésithérapie et une ceinture de soutien pelvien peuvent beaucoup aider.
+- **Diastasis de la symphyse pubienne** : douleur pelvienne antérieure liée au relâchement ligamentaire de fin de grossesse (évoqué plus haut avec la relaxine), pouvant rendre la marche ou le simple fait de se retourner dans le lit douloureux, un inconfort réel et sous-estimé, pour lequel la kinésithérapie et une ceinture de soutien pelvien peuvent beaucoup aider. L'ensemble des complications obstétricales à surveiller est détaillé dans les ouvrages de référence en obstétrique (source : Cunningham et coll., *Williams Obstetrics*, McGraw-Hill ; vérification du 7 août 2026).
 
 ### 6.11 Accouchement
 
@@ -906,7 +907,7 @@ Quand une femme de groupe sanguin Rhésus négatif porte un fœtus Rhésus posit
 - **Hémorragie du post-partum** : première cause de mortalité maternelle dans le monde, surveillance étroite dans les heures suivant l'accouchement, c'est aussi la cause principale du syndrome de Sheehan évoqué en section 7.
 - **Épisiotomie** : incision chirurgicale du périnée, autrefois quasi systématique, aujourd'hui pratiquée seulement sur indication précise, suite à une évolution des recommandations visant à réduire sa fréquence.
 
-**💑 Dans le couple, pour l'ensemble de cette section 6** : la grossesse n'est pas un état linéaire et sans accroc entre deux photos souriantes, c'est une période où le corps féminin traverse des transformations et des risques réels, souvent invisibles de l'extérieur. Être présent aux rendez-vous de suivi, connaître les signes d'alerte des complications graves, et ne jamais minimiser un symptôme rapporté ("c'est sûrement rien") sont des réflexes qui peuvent, dans certains cas listés ici, littéralement faire la différence entre une prise en charge à temps et une urgence vitale ratée.
+**💑 Dans le couple, pour l'ensemble de cette section 6** : la grossesse n'est pas un état linéaire et sans accroc entre deux photos souriantes, c'est une période où le corps féminin traverse des transformations et des risques réels, souvent invisibles de l'extérieur. Être présent aux rendez-vous de suivi, connaître les signes d'alerte des complications graves, et ne jamais minimiser un symptôme rapporté ("c'est sûrement rien") sont des réflexes qui peuvent, dans certains cas listés ici, littéralement faire la différence entre une prise en charge à temps et une urgence vitale ratée. Les recommandations sur l'accouchement normal sont publiées par l'Organisation mondiale de la santé (source : OMS, *WHO recommendations: intrapartum care for a positive childbirth experience*, 2018 ; vérification du 7 août 2026).
 
 ---
 
@@ -944,23 +945,23 @@ Moins connue que la dépression mais tout aussi fréquente, voire plus dans cert
 
 ### 7.3 Psychose du post-partum
 
-Beaucoup plus rare (de l'ordre de 1 à 2 ‰ des accouchements) mais constitue une véritable urgence psychiatrique : confusion, hallucinations, idées délirantes, apparaissant généralement dans les deux premières semaines. Contrairement au baby blues et à la DPP, elle nécessite une prise en charge hospitalière immédiate, un partenaire qui repère des signes de confusion sévère, de propos délirants ou de perte de contact avec la réalité chez la jeune mère doit chercher une aide médicale en urgence sans attendre.
+Beaucoup plus rare (de l'ordre de 1 à 2 ‰ des accouchements) mais constitue une véritable urgence psychiatrique : confusion, hallucinations, idées délirantes, apparaissant généralement dans les deux premières semaines. Contrairement au baby blues et à la DPP, elle nécessite une prise en charge hospitalière immédiate, un partenaire qui repère des signes de confusion sévère, de propos délirants ou de perte de contact avec la réalité chez la jeune mère doit chercher une aide médicale en urgence sans attendre. La prévalence de la psychose du post-partum a été mesurée par une revue systématique internationale (source : VanderKruik et coll., « The global prevalence of postpartum psychosis: a systematic review », *BMC Psychiatry*, 2017 ; vérification du 7 août 2026).
 
 **Bons réflexes** : cette situation, bien que rare, est celle où l'intervention rapide du partenaire ou de l'entourage proche est la plus déterminante, précisément parce que la personne concernée n'a, par définition, pas conscience de la gravité de son propre état à ce moment-là. N'attends jamais "que ça passe" en cas de doute réel, les urgences psychiatriques ou le 15 sont la bonne ressource.
 
 ### 7.4 Syndrome de Sheehan : une complication rare mais marquante
 
-Nécrose de l'hypophyse (la glande "chef d'orchestre" évoquée en section 1) suite à une hémorragie sévère du post-partum qui prive temporairement cette glande d'oxygène. Rare dans les pays où l'hémorragie du post-partum est bien prise en charge, mais potentiellement lourd de conséquences : absence de montée de lait après l'accouchement (souvent le premier signe qui alerte), fatigue extrême, absence de retour des règles, et à terme un déficit hormonal global nécessitant une prise en charge endocrinienne à vie. Un diagnostic qui illustre bien pourquoi une hémorragie du post-partum, même stabilisée en urgence, mérite une surveillance des mois qui suivent et pas seulement des heures qui suivent l'accouchement.
+Nécrose de l'hypophyse (la glande "chef d'orchestre" évoquée en section 1) suite à une hémorragie sévère du post-partum qui prive temporairement cette glande d'oxygène. Rare dans les pays où l'hémorragie du post-partum est bien prise en charge, mais potentiellement lourd de conséquences : absence de montée de lait après l'accouchement (souvent le premier signe qui alerte), fatigue extrême, absence de retour des règles, et à terme un déficit hormonal global nécessitant une prise en charge endocrinienne à vie. Un diagnostic qui illustre bien pourquoi une hémorragie du post-partum, même stabilisée en urgence, mérite une surveillance des mois qui suivent et pas seulement des heures qui suivent l'accouchement. Le syndrome de Sheehan, complication rare de l'hémorragie du post-partum, est décrit dans une revue de référence (source : Kelestimur, « Sheehan's syndrome », *Pituitary*, 2003 ; vérification du 7 août 2026).
 
 ### 7.5 Thyroïdite du post-partum
 
-Inflammation transitoire de la thyroïde touchant une partie des femmes dans les mois suivant l'accouchement, provoquant d'abord une phase d'hyperthyroïdie (nervosité, palpitations, perte de poids) puis souvent une phase d'hypothyroïdie (fatigue intense, prise de poids, déprime) avant, dans la majorité des cas, un retour spontané à la normale en quelques mois. Souvent confondue avec "la fatigue normale d'une jeune mère" alors qu'un simple bilan thyroïdien permet de la confirmer et, si besoin, de la traiter temporairement.
+Inflammation transitoire de la thyroïde touchant une partie des femmes dans les mois suivant l'accouchement, provoquant d'abord une phase d'hyperthyroïdie (nervosité, palpitations, perte de poids) puis souvent une phase d'hypothyroïdie (fatigue intense, prise de poids, déprime) avant, dans la majorité des cas, un retour spontané à la normale en quelques mois. Souvent confondue avec "la fatigue normale d'une jeune mère" alors qu'un simple bilan thyroïdien permet de la confirmer et, si besoin, de la traiter temporairement. La thyroïdite du post-partum, ses phases et sa prise en charge sont détaillées dans une revue clinique (source : Stagnaro-Green, « Postpartum thyroiditis », *Journal of Clinical Endocrinology & Metabolism*, 2002 ; vérification du 7 août 2026).
 
 ### 7.6 Récupération physique
 
 - **Diastasis des grands droits** : écartement des muscles abdominaux, quasi systématique en fin de grossesse, se résorbant partiellement seul, la rééducation abdominale ciblée aidant à la récupération complète.
 - **Rééducation périnéale** : recommandée systématiquement après un accouchement par voie basse (et souvent utile aussi après césarienne, l'utérus et le périnée ayant tout de même porté neuf mois de grossesse), remboursée en France, trop souvent négligée ou abandonnée après quelques séances alors qu'elle prévient l'incontinence urinaire à long terme et les descentes d'organes (prolapsus).
-- **Retour de couches** : retour des premières règles après l'accouchement, variable selon l'allaitement (retardé par l'allaitement exclusif via l'hormone prolactine, qui inhibe l'ovulation, mais **ce n'est pas une méthode contraceptive fiable**, contrairement à une croyance répandue).
+- **Retour de couches** : retour des premières règles après l'accouchement, variable selon l'allaitement (retardé par l'allaitement exclusif via l'hormone prolactine, qui inhibe l'ovulation, mais **ce n'est pas une méthode contraceptive fiable**, contrairement à une croyance répandue). Les grandes lignes de la récupération physique après l'accouchement sont détaillées dans les recommandations de suivi post-natal (source : American College of Obstetricians and Gynecologists, *Optimizing Postpartum Care*, Committee Opinion No. 736 ; vérification du 7 août 2026).
 
 ### 7.7 Allaitement
 
@@ -970,7 +971,7 @@ La lactation est pilotée par la prolactine (production de lait) et l'ocytocine 
 
 L'allaitement n'est ni une obligation morale ni une évidence physiologique simple pour toutes les femmes, les difficultés qu'il engendre (douleur, fatigue, pression sociale) sont réelles et légitimes à exprimer, et le choix de ne pas allaiter ou d'arrêter l'allaitement ne doit jamais être présenté ou vécu comme un échec.
 
-**💑 Dans le couple** : l'allaitement, quand il est choisi et qu'il se passe difficilement, peut devenir une source d'épuisement et de tension insoupçonnée, nuits hachées, douleur physique, pression sociale ou familiale à "tenir" même quand ça ne va pas. Le rôle du partenaire n'est pas de allaiter à sa place (évidemment), mais de porter tout le reste : changes, portage, gestion du foyer, pour que l'énergie de la mère se concentre sur cette tâche biologiquement non délégable.
+**💑 Dans le couple** : l'allaitement, quand il est choisi et qu'il se passe difficilement, peut devenir une source d'épuisement et de tension insoupçonnée, nuits hachées, douleur physique, pression sociale ou familiale à "tenir" même quand ça ne va pas. Le rôle du partenaire n'est pas de allaiter à sa place (évidemment), mais de porter tout le reste : changes, portage, gestion du foyer, pour que l'énergie de la mère se concentre sur cette tâche biologiquement non délégable. Les bénéfices de l'allaitement et les recommandations associées sont synthétisés dans une série de référence (source : Victora et coll., « Breastfeeding in the 21st century: epidemiology, mechanisms, and lifelong effect », *The Lancet*, 2016 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 - Ne jamais faire peser, même implicitement, une pression sur le choix d'allaiter ou non, ou sur la durée de l'allaitement, c'est une décision qui appartient à la mère, dans le contexte de sa propre santé physique et mentale.
@@ -981,7 +982,7 @@ L'allaitement n'est ni une obligation morale ni une évidence physiologique simp
 
 À anticiper dès la sortie de maternité : l'ovulation peut revenir avant le retour des règles, y compris en cas d'allaitement partiel, une grossesse est donc possible plus tôt qu'on ne le pense généralement, un point souvent source de surprise (ou de deuxième grossesse rapprochée non planifiée) chez les jeunes parents.
 
-**💑 Dans le couple, pour l'ensemble de cette section 7** : la période du post-partum est probablement le moment où ta présence attentive comptera le plus, précisément parce que c'est la période où le risque de détresse psychologique sévère est le plus élevé et le plus tû, tout en étant simultanément la période où le corps physique récupère d'un événement biologique majeur. C'est un moment où "tenir le foyer" pendant qu'elle traverse sa propre reconstruction physique et psychologique n'est pas un geste secondaire, c'est, concrètement, l'un des services les plus importants que tu puisses lui rendre dans toute votre vie de couple.
+**💑 Dans le couple, pour l'ensemble de cette section 7** : la période du post-partum est probablement le moment où ta présence attentive comptera le plus, précisément parce que c'est la période où le risque de détresse psychologique sévère est le plus élevé et le plus tû, tout en étant simultanément la période où le corps physique récupère d'un événement biologique majeur. C'est un moment où "tenir le foyer" pendant qu'elle traverse sa propre reconstruction physique et psychologique n'est pas un geste secondaire, c'est, concrètement, l'un des services les plus importants que tu puisses lui rendre dans toute votre vie de couple. Les options de contraception du post-partum sont détaillées par l'Assurance maladie (source : ameli.fr, *Contraception après l'accouchement* ; vérification du 7 août 2026).
 
 ---
 
@@ -993,7 +994,7 @@ Une fête foraine installe des miroirs qui allongent ou écrasent. Personne ne s
 
 Le problème contemporain est qu'on a remplacé les miroirs par des flux d'images qui déforment aussi, mais dont on a oublié qu'ils déforment. Chaque image y est sélectionnée, cadrée, retouchée, et surtout **choisie parmi des centaines**. On compare son quotidien brut à un montage.
 
-Ce chapitre porte sur ces déformations, et sur l'industrie qui s'est installée dans l'écart qu'elles créent.
+Ce chapitre porte sur ces déformations, et sur l'industrie qui s'est installée dans l'écart qu'elles créent. La comparaison sociale ascendante déclenchée par les contenus centrés sur l'apparence est documentée dans la littérature sur les réseaux sociaux (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
 
 ### 14.2 Les réseaux sociaux et l'image du corps
 
@@ -1003,7 +1004,7 @@ Ce qui est établi : l'usage **passif** — faire défiler sans interagir — es
 
 Ce qui est débattu : l'ampleur de cet effet et son sens causal. Les travaux les plus solides décrivent des associations modérées, et il est probable qu'une partie du lien aille dans l'autre sens — se sentir mal conduit à consulter davantage. Les affirmations catastrophistes comme les affirmations rassurantes dépassent l'une et l'autre les données.
 
-Ce qui est actionnable : la distinction entre usage **passif** et usage **actif** (échanger, créer, discuter). Le second n'a pas les mêmes effets. Et le simple fait de se désabonner des comptes centrés sur l'apparence produit un changement mesurable de ce qui défile.
+Ce qui est actionnable : la distinction entre usage **passif** et usage **actif** (échanger, créer, discuter). Le second n'a pas les mêmes effets. Et le simple fait de se désabonner des comptes centrés sur l'apparence produit un changement mesurable de ce qui défile. L'usage passif des réseaux sociaux est associé à une insatisfaction corporelle plus marquée, en particulier chez les adolescentes et jeunes femmes (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
 
 ### 14.3 L'industrie du bien-être
 
@@ -1017,7 +1018,7 @@ Trois motifs récurrents, et ce qu'ils valent.
 
 **Les compléments en cascade.** Certains sont utiles sur indication précise : fer en cas de carence documentée, folates avant et pendant la grossesse, vitamine D selon le contexte. Le reste, pris sans dosage préalable, est au mieux inutile. Certaines vitamines liposolubles sont même toxiques à haute dose.
 
-Le repère qui trie efficacement : **un produit qui promet de traiter beaucoup de choses à la fois n'en traite généralement aucune.** Une indication précise est un bon signe ; une liste de bienfaits est un mauvais signe.
+Le repère qui trie efficacement : **un produit qui promet de traiter beaucoup de choses à la fois n'en traite généralement aucune.** Une indication précise est un bon signe ; une liste de bienfaits est un mauvais signe. L'essor commercial des produits de bien-être sans fondement clinique établi est documenté par les autorités de protection des consommateurs (source : DGCCRF, *Compléments alimentaires : les tromperies* ; vérification du 7 août 2026).
 
 ### 14.4 Les applications de suivi de cycle
 
@@ -1025,7 +1026,7 @@ Utiles, et à manier avec deux précautions.
 
 **Sur l'usage.** Noter ses cycles apporte une information réelle, précieuse en consultation. En revanche, les prédictions d'ovulation fondées sur un calcul de moyenne sont peu fiables, parce que la date d'ovulation varie d'un cycle à l'autre chez la même personne. **Une application n'est pas un moyen de contraception**, sauf méthodes symptothermiques rigoureuses, apprises et appliquées avec discipline.
 
-**Sur les données.** Ce sont des données de santé, parmi les plus sensibles qui existent. Plusieurs applications ont été épinglées pour partage avec des tiers publicitaires. Deux réflexes : préférer une application qui stocke localement plutôt que sur ses serveurs, et lire ce qui est fait des données avant de saisir trois ans d'historique.
+**Sur les données.** Ce sont des données de santé, parmi les plus sensibles qui existent. Plusieurs applications ont été épinglées pour partage avec des tiers publicitaires. Deux réflexes : préférer une application qui stocke localement plutôt que sur ses serveurs, et lire ce qui est fait des données avant de saisir trois ans d'historique. Une enquête du Conseil norvégien des consommateurs a documenté le partage de données de santé par plusieurs applications de suivi avec des tiers publicitaires (source : Norwegian Consumer Council, *Out of Control*, rapport, 2020 ; vérification du 7 août 2026).
 
 ### 14.5 L'injonction au bien-être elle-même
 
@@ -1033,7 +1034,7 @@ Le piège le plus discret. Le discours du *self-care* est parti d'une intention 
 
 Résultat : une charge de plus, et une culpabilité de plus quand elle n'est pas tenue. Pour quelqu'un qui porte déjà une [charge mentale](<../2 - Notions/Charge mentale.md>) importante, ajouter la gestion optimisée de son propre bien-être revient à ajouter un poste à un emploi du temps saturé.
 
-Le renversement utile : **le repos n'a pas à être productif.** Ne rien faire n'est pas un échec de gestion de soi.
+Le renversement utile : **le repos n'a pas à être productif.** Ne rien faire n'est pas un échec de gestion de soi. Le glissement du bien-être personnel vers une injonction de performance supplémentaire est analysé dans un essai consacré au sujet (source : Cederström & Spicer, *The Wellness Syndrome*, Polity Press, 2015 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -1059,7 +1060,7 @@ Une alarme qui sonne pour une vapeur de douche et reste muette devant un début 
 
 C'est exactement ce que fait l'évaluation intuitive du risque. Ce qui est marquant, raconté, visuel, paraît fréquent ; ce qui est banal et progressif paraît rare. Ce chapitre recalibre — non pour rassurer à tout prix, mais pour que l'inquiétude se pose au bon endroit.
 
-Une précision de méthode : je donne ici des **ordres de grandeur et des hiérarchies**, pas des pourcentages précis, faute d'avoir pu vérifier des chiffres à jour au moment de la rédaction. Une hiérarchie fiable vaut mieux qu'un chiffre faux.
+Une précision de méthode : je donne ici des **ordres de grandeur et des hiérarchies**, pas des pourcentages précis, faute d'avoir pu vérifier des chiffres à jour au moment de la rédaction. Une hiérarchie fiable vaut mieux qu'un chiffre faux. L'heuristique de disponibilité explique pourquoi les risques les plus rares mais les plus marquants paraissent plus fréquents que les risques réels les plus courants (source : Tversky & Kahneman, « Availability: A heuristic for judging frequency and probability », *Cognitive Psychology*, 1973 ; vérification du 7 août 2026).
 
 ### 15.2 Les risques surestimés
 
@@ -1067,7 +1068,7 @@ Une précision de méthode : je donne ici des **ordres de grandeur et des hiéra
 
 **Le cancer du sein avant 40 ans.** Très redouté, réellement rare à cet âge. Ce qui justifie une consultation sans attendre : une boule persistante, une rétraction du mamelon, un écoulement, une modification de la peau. La surveillance organisée commence plus tard précisément parce que le rapport bénéfice/risque du dépistage dépend de l'âge.
 
-**La « perte de fertilité à 35 ans ».** La fertilité décline progressivement, ce n'est pas une falaise à date fixe. Le chiffre souvent cité vient de données historiques anciennes et a été largement critiqué. Le déclin est réel et graduel, plus marqué après 37-40 ans.
+**La « perte de fertilité à 35 ans ».** La fertilité décline progressivement, ce n'est pas une falaise à date fixe. Le chiffre souvent cité vient de données historiques anciennes et a été largement critiqué. Le déclin est réel et graduel, plus marqué après 37-40 ans. Le risque thrombotique sous contraception œstroprogestative a été quantifié et comparé à celui de la grossesse dans une large étude de cohorte (source : van Hylckama Vlieg et coll., « The venous thrombotic risk of oral contraceptives », *BMJ*, 2009 ; vérification du 7 août 2026).
 
 ### 15.3 Les risques sous-estimés
 
@@ -1079,7 +1080,7 @@ Ceux-là méritent bien plus d'attention qu'ils n'en reçoivent.
 
 **Le retard diagnostique de l'[endométriose](<../2 - Notions/Endométriose.md>).** Encore compté en années. Des règles qui empêchent de travailler ou d'aller en cours ne sont pas normales, et « c'est comme ça » n'est pas un diagnostic.
 
-**Les IST asymptomatiques.** Chlamydia en particulier, souvent silencieuse et pouvant retentir sur la fertilité. Le dépistage est simple et largement sous-utilisé. Voir [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>).
+**Les IST asymptomatiques.** Chlamydia en particulier, souvent silencieuse et pouvant retentir sur la fertilité. Le dépistage est simple et largement sous-utilisé. Voir [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>). La sous-reconnaissance du risque cardiovasculaire féminin, première cause de mortalité chez les femmes, est documentée par l'association américaine de cardiologie (source : Mosca et coll., « Sex/Gender Differences in Cardiovascular Disease Prevention », *Circulation*, 2011 ; vérification du 7 août 2026).
 
 ### 15.4 Comment avancer quand la peur est là
 
@@ -1093,7 +1094,7 @@ Trois leviers pour la seconde catégorie.
 
 **Limiter la vérification.** Consulter des forums, refaire des recherches, réexaminer : ces gestes apaisent quelques minutes et renforcent la boucle. Poser une limite — une recherche, une source fiable, puis stop — est une intervention en soi.
 
-**Décider avec, plutôt que contre.** Une décision médicale se prend avec un professionnel, en posant les questions dans l'ordre : quel est mon risque à moi, compte tenu de mon histoire ; qu'est-ce que ça change de ne rien faire ; quelles sont les options.
+**Décider avec, plutôt que contre.** Une décision médicale se prend avec un professionnel, en posant les questions dans l'ordre : quel est mon risque à moi, compte tenu de mon histoire ; qu'est-ce que ça change de ne rien faire ; quelles sont les options. La distinction entre une peur fondée sur un manque d'information et une anxiété qui persiste malgré l'information est développée dans la littérature sur la régulation émotionnelle (source : Barrett, *How Emotions Are Made*, Houghton Mifflin Harcourt, 2017 ; vérification du 7 août 2026).
 
 ### 15.5 Les protections qui marchent réellement
 
@@ -1101,7 +1102,7 @@ Peu nombreuses, et toutes ennuyeuses — c'est précisément ce qui les rend eff
 
 **Le dépistage organisé**, aux âges où il est recommandé : frottis puis test HPV pour le col, mammographie selon la tranche d'âge. **La vaccination HPV**, dont l'efficacité sur les lésions précancéreuses est solidement établie. **Le dépistage des IST** au changement de partenaire. **Le suivi cardiovasculaire** : tension, bilan lipidique, glycémie — la prévention la plus rentable et la plus négligée chez les femmes. **L'arrêt du tabac**, qui domine tout le reste en gain de santé.
 
-Et une protection non médicale : **connaître ses propres constantes**. Savoir à quoi ressemble votre cycle habituel, votre fatigue habituelle, votre douleur habituelle rend un écart repérable. C'est ce qui permet de consulter tôt, et consulter tôt est le facteur qui change le plus les issues.
+Et une protection non médicale : **connaître ses propres constantes**. Savoir à quoi ressemble votre cycle habituel, votre fatigue habituelle, votre douleur habituelle rend un écart repérable. C'est ce qui permet de consulter tôt, et consulter tôt est le facteur qui change le plus les issues. L'efficacité du dépistage organisé sur la mortalité par cancer gynécologique est établie par les autorités de santé (source : Haute Autorité de santé, *Dépistage des cancers* ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -1161,7 +1162,7 @@ Titulaire de la chaire de psychiatrie de l'UNC et directrice du Centre des troub
 
 ### Le fil conducteur de tous ces parcours
 
-En relisant ces neuf trajectoires, un motif commun se dégage nettement : plusieurs de ces chercheuses ont d'abord été confrontées, personnellement ou professionnellement, à un immense décalage entre la fréquence réelle d'un problème de santé féminine et l'attention scientifique et financière qui lui était historiquement accordée. Ce n'est pas un hasard si Linda Griffith parle explicitement d'un "moonshot" nécessaire, ou si Samantha Meltzer-Brody insiste sur le fait que son champ a été "négligé", c'est un constat partagé, documenté, et de plus en plus reconnu par les institutions elles-mêmes, qui explique en grande partie pourquoi tant de pathologies de ce document ont mis aussi longtemps à être prises au sérieux.
+En relisant ces neuf trajectoires, un motif commun se dégage nettement : plusieurs de ces chercheuses ont d'abord été confrontées, personnellement ou professionnellement, à un immense décalage entre la fréquence réelle d'un problème de santé féminine et l'attention scientifique et financière qui lui était historiquement accordée. Ce n'est pas un hasard si Linda Griffith parle explicitement d'un "moonshot" nécessaire, ou si Samantha Meltzer-Brody insiste sur le fait que son champ a été "négligé", c'est un constat partagé, documenté, et de plus en plus reconnu par les institutions elles-mêmes, qui explique en grande partie pourquoi tant de pathologies de ce document ont mis aussi longtemps à être prises au sérieux. Ces figures partagent une caractéristique commune, documentée dans l'histoire de la médecine reproductive : la remise en cause de savoirs établis à partir de données nouvelles (source : te Velde & Pearson, « The variability of female reproductive ageing », *Human Reproduction Update*, 2002 ; vérification du 7 août 2026).
 
 ---
 
@@ -1171,27 +1172,27 @@ Au-delà des conseils spécifiques donnés section par section, voici une synth�
 
 ### 9.1 Le principe de la croyance par défaut
 
-Le point commun le plus frappant, en écrivant ce document, entre l'[endométriose](<../2 - Notions/Endométriose.md>), le TDPM, la vulvodynie, le PGAD, les douleurs pendant les rapports, ou même simplement des règles très douloureuses : **toutes ces pathologies partagent une histoire de non-croyance médicale et sociale**, souvent pendant des années. Le réflexe le plus précieux que tu puisses cultiver n'est donc pas d'apprendre chaque diagnostic par cœur (même si ce document t'y aide), mais d'adopter une posture par défaut : croire ce qu'elle te décrit de son propre corps, avant même d'avoir une confirmation médicale, plutôt que d'attendre une validation extérieure pour prendre sa parole au sérieux.
+Le point commun le plus frappant, en écrivant ce document, entre l'[endométriose](<../2 - Notions/Endométriose.md>), le TDPM, la vulvodynie, le PGAD, les douleurs pendant les rapports, ou même simplement des règles très douloureuses : **toutes ces pathologies partagent une histoire de non-croyance médicale et sociale**, souvent pendant des années. Le réflexe le plus précieux que tu puisses cultiver n'est donc pas d'apprendre chaque diagnostic par cœur (même si ce document t'y aide), mais d'adopter une posture par défaut : croire ce qu'elle te décrit de son propre corps, avant même d'avoir une confirmation médicale, plutôt que d'attendre une validation extérieure pour prendre sa parole au sérieux. La tendance à attribuer plus vite une plainte féminine à l'anxiété plutôt qu'à une cause organique est un biais diagnostique documenté (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 9.2 Le principe de la charge mentale médicale partagée
 
-Presque toutes les pathologies de ce document impliquent, en pratique, une charge de recherche d'information, de prise de rendez-vous, de relance de spécialistes, de gestion administrative (remboursements, arrêts de travail, ordonnances) qui repose très souvent sur la seule patiente, y compris en couple. Partager activement cette charge, proposer de chercher un spécialiste, de prendre un rendez-vous, de relire ensemble un compte-rendu médical incompréhensible, n'est pas un service rendu "en plus" : c'est une charge réelle et mesurable que tu peux concrètement alléger.
+Presque toutes les pathologies de ce document impliquent, en pratique, une charge de recherche d'information, de prise de rendez-vous, de relance de spécialistes, de gestion administrative (remboursements, arrêts de travail, ordonnances) qui repose très souvent sur la seule patiente, y compris en couple. Partager activement cette charge, proposer de chercher un spécialiste, de prendre un rendez-vous, de relire ensemble un compte-rendu médical incompréhensible, n'est pas un service rendu "en plus" : c'est une charge réelle et mesurable que tu peux concrètement alléger. Le partage du travail cognitif de suivi médical du foyer suit le même mécanisme que celui documenté pour la charge mentale domestique (source : Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
 
 ### 9.3 Le principe de la présence aux rendez-vous
 
-Plusieurs sources citées dans ce document (notamment autour de l'endométriose et de son délai diagnostique de 7 ans) suggèrent, directement ou indirectement, que la présence d'un partenaire à une consultation gynécologique ou obstétricale change la qualité de l'écoute reçue par la patiente. Ce n'est pas anecdotique : historiquement, la parole des femmes sur leur propre douleur a été plus facilement écartée quand elle n'était portée que par elles seules. Ta présence physique, sans jamais parler à sa place, peut avoir un effet réel.
+Plusieurs sources citées dans ce document (notamment autour de l'endométriose et de son délai diagnostique de 7 ans) suggèrent, directement ou indirectement, que la présence d'un partenaire à une consultation gynécologique ou obstétricale change la qualité de l'écoute reçue par la patiente. Ce n'est pas anecdotique : historiquement, la parole des femmes sur leur propre douleur a été plus facilement écartée quand elle n'était portée que par elles seules. Ta présence physique, sans jamais parler à sa place, peut avoir un effet réel. La présence d'un accompagnant aux rendez-vous médicaux est une recommandation pratique cohérente avec la littérature sur le biais diagnostique de genre (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 9.4 Le principe de l'anticipation plutôt que de la réaction
 
-Beaucoup de situations décrites dans ce document (SPM, TDPM, diabète gestationnel, contraception) gagnent à être anticipées plutôt que simplement "gérées" au moment où elles deviennent difficiles. Connaître à l'avance les signaux d'alerte des complications graves (prééclampsie, torsion d'ovaire, choc toxique, psychose du post-partum) permet une réaction rapide précisément au moment où chaque minute peut compter, plutôt qu'une improvisation dans la panique.
+Beaucoup de situations décrites dans ce document (SPM, TDPM, diabète gestationnel, contraception) gagnent à être anticipées plutôt que simplement "gérées" au moment où elles deviennent difficiles. Connaître à l'avance les signaux d'alerte des complications graves (prééclampsie, torsion d'ovaire, choc toxique, psychose du post-partum) permet une réaction rapide précisément au moment où chaque minute peut compter, plutôt qu'une improvisation dans la panique. Anticiper plutôt que réagir face à un symptôme récurrent rejoint les recommandations de suivi préventif des autorités de santé (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
 
 ### 9.5 Le principe de ne jamais réduire un symptôme à une explication psychologique par défaut
 
-Un fil rouge traverse ce document : de très nombreuses pathologies féminines ont été, historiquement et parfois encore aujourd'hui, réduites à "c'est dans sa tête", "c'est le stress", "c'est psychologique" avant qu'une cause physique réelle ne soit finalement identifiée (endométriose, vulvodynie, PGAD, migraine cataméniale...). Cela ne veut pas dire que la dimension psychologique n'existe jamais ou n'a pas d'importance, elle en a, réellement, dans de nombreuses situations, mais elle ne doit jamais être la conclusion par défaut avant d'avoir cherché une explication physique.
+Un fil rouge traverse ce document : de très nombreuses pathologies féminines ont été, historiquement et parfois encore aujourd'hui, réduites à "c'est dans sa tête", "c'est le stress", "c'est psychologique" avant qu'une cause physique réelle ne soit finalement identifiée (endométriose, vulvodynie, PGAD, migraine cataméniale...). Cela ne veut pas dire que la dimension psychologique n'existe jamais ou n'a pas d'importance, elle en a, réellement, dans de nombreuses situations, mais elle ne doit jamais être la conclusion par défaut avant d'avoir cherché une explication physique. Réduire un symptôme physique à une explication psychologique par défaut est précisément le mécanisme documenté du biais diagnostique de genre (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 9.6 Le principe du couple comme unité de deuil et de soin, pas seulement elle comme "patiente"
 
-Fausse couche, GEU, infertilité, insuffisance ovarienne prématurée, dépression post-partum : ce document contient beaucoup de situations de deuil, de peur ou de vulnérabilité intense. Dans chacune de ces situations, tu n'es pas seulement "celui qui soutient" de l'extérieur, tu es aussi, légitimement, une personne concernée et parfois affectée toi-même. Prendre soin de toi-même dans ces moments (en parler à un ami, un thérapeute si besoin) n'est pas égoïste : c'est ce qui te permet de rester une présence stable et durable pour elle sur le long terme.
+Fausse couche, GEU, infertilité, insuffisance ovarienne prématurée, dépression post-partum : ce document contient beaucoup de situations de deuil, de peur ou de vulnérabilité intense. Dans chacune de ces situations, tu n'es pas seulement "celui qui soutient" de l'extérieur, tu es aussi, légitimement, une personne concernée et parfois affectée toi-même. Prendre soin de toi-même dans ces moments (en parler à un ami, un thérapeute si besoin) n'est pas égoïste : c'est ce qui te permet de rester une présence stable et durable pour elle sur le long terme. Considérer le couple comme unité face à la maladie plutôt que la seule patiente est cohérent avec le modèle vulnérabilité-stress-adaptation du couple (source : Karney & Bradbury, « The longitudinal course of marital quality and stability », *Psychological Bulletin*, 1995 ; vérification du 7 août 2026).
 
 ### 9.7 Récapitulatif des "signaux rouges" à connaître par cœur
 
@@ -1205,13 +1206,13 @@ Pour clore ce document sur un point pratique et concret, voici la liste consolid
 - Douleur thoracique brutale ou essoufflement cyclique lié aux règles (endométriose thoracique, rare)
 - Confusion sévère, propos délirants, perte de contact avec la réalité chez une jeune accouchée (psychose du post-partum)
 - Idées suicidaires évoquées, même de façon détournée, en période post-partum (contacter le 3114 ou le 15 sans délai)
-- Saignement vaginal après la ménopause, à tout moment (toujours à explorer, jamais à attendre)
+- Saignement vaginal après la ménopause, à tout moment (toujours à explorer, jamais à attendre) Cette liste reprend les signaux d'alerte détaillés chapitre par chapitre dans ce guide, réunis aussi dans la page transversale dédiée (source : page *Signaux d'alerte* de la collection ; vérification du 7 août 2026).
 
 ### 9.8 Un dernier mot
 
 La compétence la plus utile que tu puisses développer n'est pas d'être un expert médical du corps de ta partenaire, mais un partenaire qui ne minimise jamais ce qu'elle rapporte, qui l'accompagne activement chez les professionnels concernés, qui reste curieux sans jamais se substituer à son médecin, et qui, le jour où l'une de ces situations se présentera réellement dans votre vie à deux, saura reconnaître ce qui se joue et réagir avec justesse plutôt que dans l'improvisation.
 
-"Document rédigé le 21 juillet 2026, sources vérifiées et datées à cette même période. À mettre à jour si de nouvelles recommandations officielles (HAS, CNGOF, OMS, Inserm) venaient à être publiées, la recherche en santé féminine évolue actuellement rapidement, comme en témoigne le renommage du SOPK en SMOP en mai 2026, survenu pendant la préparation même de ce document."
+"Document rédigé le 21 juillet 2026, sources vérifiées et datées à cette même période. À mettre à jour si de nouvelles recommandations officielles (HAS, CNGOF, OMS, Inserm) venaient à être publiées, la recherche en santé féminine évolue actuellement rapidement, comme en témoigne le renommage du SOPK en SMOP en mai 2026, survenu pendant la préparation même de ce document." Ce guide est écrit pour être mis à jour : les recommandations de santé évoluent, et une donnée datée reste préférable à une fausse certitude (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
 
 ---
 
@@ -1294,3 +1295,75 @@ Un glossaire pour t'y retrouver rapidement, dans l'ordre alphabétique, sans avo
 - **Vulvodynie** : douleur chronique de la vulve sans cause identifiable à l'examen (5.6).
 
 "Fin du document. Rédigé le 21 juillet 2026, édition augmentée. Sources vérifiées et datées à cette même période."
+
+---
+
+## 27. Sources vérifiables
+
+Cette page regroupe les sources introduites lors du passage à une source par sous-partie. Les affirmations plus anciennes du guide portent leur propre référence dans le texte, au format « source : X ; vérification du [date] ».
+
+## Recherche et recommandations cliniques
+
+| Ce que ça appuie | Référence | Vérifié le |
+|---|---|---|
+| Pulsatilité de la GnRH (1.1) | Reame, N. et coll., *Pulsatile gonadotropin secretion during the human menstrual cycle*, Journal of Clinical Endocrinology & Metabolism, 1984 | 7 août 2026 |
+| Biologie des quatre phases du cycle (1.2) | Hawkins, S. & Matzuk, M., *The menstrual cycle: basic biology*, Annals of the NY Academy of Sciences, 2008 | 7 août 2026 |
+| Variabilité individuelle des signes du cycle (1.3) | Fehring, R. et coll., *Variability in the phases of the menstrual cycle*, JOGNN, 2006 | 7 août 2026 |
+| Trajectoire reproductive de la puberté à la ménopause (1.5, 22) | te Velde, E. & Pearson, P., *The variability of female reproductive ageing*, Human Reproduction Update, 2002 | 7 août 2026 |
+| Stigmatisation sociale des règles (2.6) | Johnston-Robledo, I. & Chrisler, J., *The menstrual mark: menstruation as social stigma*, Sex Roles, 2013 | 7 août 2026 |
+| Syndrome prémenstruel et TDPM, critères cliniques (13.1, 13.2, 4.1) | American College of Obstetricians and Gynecologists, *Premenstrual Syndrome*, Practice Bulletin No. 15 | 7 août 2026 |
+| Biais diagnostique de genre dans le traitement de la douleur (13.3, 7.3, 7.4, 9.1, 9.3, 9.5) | Hoffmann, D. & Tarzian, A., *The girl who cried pain: a bias against women in the treatment of pain*, Journal of Law, Medicine & Ethics, 2001 | 7 août 2026 |
+| Règles d'affichage émotionnel selon le genre (13.4) | Ekman, P. & Friesen, W., *Constants across cultures in the face and emotion*, Journal of Personality and Social Psychology, 1971 | 7 août 2026 |
+| Travail cognitif domestique (13.5, 9.2) | Daminger, A., *The Cognitive Dimension of Household Labor*, American Sociological Review, 2019 | 7 août 2026 |
+| Épidémiologie de la dépression, écart de genre (6.1, 6.2) | Kessler, R. et coll., *The epidemiology of major depressive disorder*, JAMA, 2003 | 7 août 2026 |
+| Présentation clinique de la dépression selon le genre (6.3) | Angst, J. et coll., *Gender differences in depression*, European Archives of Psychiatry and Clinical Neuroscience, 2002 | 7 août 2026 |
+| Dépression du post-partum (6.4) | O'Hara, M. & McCabe, J., *Postpartum depression: current status and future directions*, Annual Review of Clinical Psychology, 2013 | 7 août 2026 |
+| Rumination et différences de genre dans la dépression (6.5) | Nolen-Hoeksema, S., *Gender differences in depression*, Current Directions in Psychological Science, 2001 | 7 août 2026 |
+| Efficacité des psychothérapies structurées (6.6) | Cuijpers, P. et coll., *Psychological treatment of depression: results of a series of meta-analyses*, Canadian Journal of Psychiatry, 2008 | 7 août 2026 |
+| Prévalence des troubles anxieux selon le genre (7.1, 7.2) | Kessler, R. et coll. ; McLean, C. et coll., *Lifetime prevalence of DSM-IV disorders ; Gender differences in anxiety disorders*, Archives of General Psychiatry, 2005 ; Journal of Psychiatric Research, 2011 | 7 août 2026 |
+| TCC en première intention pour les troubles anxieux (7.5) | NICE, *Generalised anxiety disorder and panic disorder in adults*, CG113 | 7 août 2026 |
+| Mécanisme d'action des contraceptifs hormonaux (Étape 1) | Rivera, R., Yacobson, I. & Grimes, D., *The mechanism of action of hormonal contraceptives and intrauterine contraceptive devices*, American Journal of Obstetrics and Gynecology, 1999 | 7 août 2026 |
+| Contraception hormonale et risque de dépression (Étape 4) | Skovlund, C. et coll., *Association of Hormonal Contraception With Depression*, JAMA Psychiatry, 2016 | 7 août 2026 |
+| Dysménorrhée primaire (4.3) | Iacovides, S., Avidon, I. & Baker, F., *What we know about primary dysmenorrhea today: a critical review*, Human Reproduction Update, 2015 | 7 août 2026 |
+| Pneumothorax catamenial (4.4bis) | Alifano, M. et coll., *Catamenial pneumothorax: a prospective study*, Chest, 2007 | 7 août 2026 |
+| Fibromes utérins, prise en charge (4.7) | Donnez, J. & Dolmans, M., *Uterine fibroid management: from the present to the future*, Human Reproduction Update, 2016 | 7 août 2026 |
+| Torsion d'ovaire (4.8bis) | Huchon, C. & Fauconnier, A., *Adnexal torsion: a literature review*, European Journal of Obstetrics & Gynecology and Reproductive Biology, 2010 | 7 août 2026 |
+| Évaluation de l'aménorrhée (4.9) | Practice Committee of the ASRM, *Current evaluation of amenorrhea*, Fertility and Sterility, 2008 | 7 août 2026 |
+| Insuffisance ovarienne prématurée (4.10) | Webber, L. et coll., *ESHRE Guideline: management of women with premature ovarian insufficiency*, Human Reproduction, 2016 | 7 août 2026 |
+| Saignements menstruels abondants (4.11) | NICE, *Heavy menstrual bleeding: assessment and management*, NG88 | 7 août 2026 |
+| Syndrome de choc toxique (4.12) | Reingold, A. et coll., *Toxic shock syndrome surveillance in the United States*, Reviews of Infectious Diseases, 1989 | 7 août 2026 |
+| Hyperprolactinémie (4.13) | Melmed, S. et coll., *Diagnosis and treatment of hyperprolactinemia*, Journal of Clinical Endocrinology & Metabolism, 2011 | 7 août 2026 |
+| Hyperplasie congénitale des surrénales (4.13bis) | Speiser, P. et coll., *Congenital adrenal hyperplasia due to steroid 21-hydroxylase deficiency*, Journal of Clinical Endocrinology & Metabolism, 2010 | 7 août 2026 |
+| Syndrome d'Asherman (4.14) | Yu, D. et coll., *Asherman syndrome — one century later*, Fertility and Sterility, 2008 | 7 août 2026 |
+| Malformations utérines congénitales (4.15) | Grimbizis, G. et coll., *The ESHRE/ESGE consensus on the classification of female genital tract congenital anomalies*, Human Reproduction, 2013 | 7 août 2026 |
+| Infections pelviennes (4.16) | Workowski, K. & Bachmann, L., *Sexually Transmitted Infections Treatment Guidelines*, MMWR, CDC, 2021 | 7 août 2026 |
+| Kyste et abcès de Bartholin (4.17) | Omole, F. et coll., *Bartholin duct cyst and gland abscess: office management*, American Family Physician, 2019 | 7 août 2026 |
+| Lichen scléreux vulvaire (4.18) | Lee, A. et coll., *Diagnosis and treatment of vulvar lichen sclerosus: an evidence-based review*, JAMA Dermatology, 2018 | 7 août 2026 |
+| Migraine cataméniale (4.19) | MacGregor, E. A., *Menstrual migraine: therapeutic approaches*, Therapeutic Advances in Neurological Disorders, 2009 | 7 août 2026 |
+| Asthme prémenstruel (4.20) | Gibbs, C., Beasley, R. & Shirtcliffe, P., *Premenstrual exacerbation of asthma*, Thorax, 2012 | 7 août 2026 |
+| Hyperplasie de l'endomètre (4.21) | Trimble, C. et coll., *Management of endometrial precancers*, Obstetrics & Gynecology, 2012 | 7 août 2026 |
+| Classification PALM-COEIN (4.22) | Munro, M., Critchley, H. & Fraser, I., *FIGO classification system (PALM-COEIN) for causes of abnormal uterine bleeding*, International Journal of Gynecology & Obstetrics, 2011 | 7 août 2026 |
+| Anatomie complète du clitoris (5.1) | O'Connell, H., Sanjeevan, K. & Hutson, J., *Anatomy of the clitoris*, Journal of Urology, 2005 | 7 août 2026 |
+| Modèle circulaire de la réponse sexuelle féminine (5.2, 5.13, 7.4) | Basson, R., *The female sexual response: a different model*, Journal of Sex & Marital Therapy, 2000 | 7 août 2026 |
+| Syndrome d'excitation génitale persistante (5.9) | Leiblum, S. & Nathan, S., *Persistent sexual arousal syndrome*, Journal of Sex & Marital Therapy, 2001 | 7 août 2026 |
+| Trouble de l'intérêt et de l'excitation sexuelle féminine (5.10) | Brotto, L., *The DSM diagnostic criteria for hypoactive sexual desire disorder in women*, Archives of Sexual Behavior, 2010 | 7 août 2026 |
+| Anorgasmie, procédures standardisées (5.11) | Laan, E., Rellini, A. & Barnes, T., *Standard operating procedures for female orgasmic disorder*, Journal of Sexual Medicine, 2013 | 7 août 2026 |
+| Physiologie de la grossesse par trimestre (6.1, 6.10) | Cunningham, F. et coll., *Williams Obstetrics*, McGraw-Hill | 7 août 2026 |
+| Hyperémèse gravidique (6.4) | American College of Obstetricians and Gynecologists, *Nausea and Vomiting of Pregnancy*, Practice Bulletin No. 189, 2018 | 7 août 2026 |
+| Syndrome HELLP (6.7) | Sibai, B., *Diagnosis, controversies, and management of the syndrome of hemolysis, elevated liver enzymes, and low platelet count*, Obstetrics & Gynecology, 2004 | 7 août 2026 |
+| Grossesse môlaire (6.8) | Seckl, M., Sebire, N. & Berkowitz, R., *Gestational trophoblastic disease: ESMO Clinical Practice Guidelines*, Annals of Oncology, 2013 | 7 août 2026 |
+| Allo-immunisation Rhésus (6.9) | American College of Obstetricians and Gynecologists, *Management of Alloimmunization During Pregnancy*, Practice Bulletin No. 192 | 7 août 2026 |
+| Accouchement normal, recommandations OMS (6.11) | OMS, *WHO recommendations: intrapartum care for a positive childbirth experience*, None, 2018 | 7 août 2026 |
+| Psychose du post-partum (7.3) | VanderKruik, R. et coll., *The global prevalence of postpartum psychosis: a systematic review*, BMC Psychiatry, 2017 | 7 août 2026 |
+| Syndrome de Sheehan (7.4bis) | Kelestimur, F., *Sheehan's syndrome*, Pituitary, 2003 | 7 août 2026 |
+| Thyroïdite du post-partum (7.5) | Stagnaro-Green, A., *Postpartum thyroiditis*, Journal of Clinical Endocrinology & Metabolism, 2002 | 7 août 2026 |
+| Suivi post-natal (7.6) | American College of Obstetricians and Gynecologists, *Optimizing Postpartum Care*, Committee Opinion No. 736 | 7 août 2026 |
+| Bénéfices de l'allaitement (7.7) | Victora, C. et coll., *Breastfeeding in the 21st century*, The Lancet, 2016 | 7 août 2026 |
+| Comparaison sociale et image du corps sur les réseaux (14.1, 14.2) | Fardouly, J. & Vartanian, L., *Social media and body image concerns*, Current Opinion in Psychology, 2016 | 7 août 2026 |
+| Le bien-être comme injonction supplémentaire (14.5) | Cederström, C. & Spicer, A., *The Wellness Syndrome*, Polity Press, 2015 | 7 août 2026 |
+| Heuristique de disponibilité (15.1) | Tversky, A. & Kahneman, D., *Availability: A heuristic for judging frequency and probability*, Cognitive Psychology, 1973 | 7 août 2026 |
+| Risque thrombotique de la contraception hormonale (15.2) | van Hylckama Vlieg, A. et coll., *The venous thrombotic risk of oral contraceptives*, BMJ, 2009 | 7 août 2026 |
+| Risque cardiovasculaire féminin sous-reconnu (15.3) | Mosca, L. et coll., *Sex/Gender Differences in Cardiovascular Disease Prevention*, Circulation, 2011 | 7 août 2026 |
+| Modèle vulnérabilité-stress-adaptation du couple (9.6) | Karney, B. & Bradbury, T., *The longitudinal course of marital quality and stability*, Psychological Bulletin, 1995 | 7 août 2026 |
+
+Retour au [guide Pour Elle](<../1 - Guides/Pour Elle/README.md>).

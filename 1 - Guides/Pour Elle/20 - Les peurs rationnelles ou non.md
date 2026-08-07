@@ -16,7 +16,7 @@ Une alarme qui sonne pour une vapeur de douche et reste muette devant un début 
 
 C'est exactement ce que fait l'évaluation intuitive du risque. Ce qui est marquant, raconté, visuel, paraît fréquent ; ce qui est banal et progressif paraît rare. Ce chapitre recalibre — non pour rassurer à tout prix, mais pour que l'inquiétude se pose au bon endroit.
 
-Une précision de méthode : je donne ici des **ordres de grandeur et des hiérarchies**, pas des pourcentages précis, faute d'avoir pu vérifier des chiffres à jour au moment de la rédaction. Une hiérarchie fiable vaut mieux qu'un chiffre faux.
+Une précision de méthode : je donne ici des **ordres de grandeur et des hiérarchies**, pas des pourcentages précis, faute d'avoir pu vérifier des chiffres à jour au moment de la rédaction. Une hiérarchie fiable vaut mieux qu'un chiffre faux. L'heuristique de disponibilité explique pourquoi les risques les plus rares mais les plus marquants paraissent plus fréquents que les risques réels les plus courants (source : Tversky & Kahneman, « Availability: A heuristic for judging frequency and probability », *Cognitive Psychology*, 1973 ; vérification du 7 août 2026).
 
 ### 15.2 Les risques surestimés
 
@@ -24,7 +24,7 @@ Une précision de méthode : je donne ici des **ordres de grandeur et des hiéra
 
 **Le cancer du sein avant 40 ans.** Très redouté, réellement rare à cet âge. Ce qui justifie une consultation sans attendre : une boule persistante, une rétraction du mamelon, un écoulement, une modification de la peau. La surveillance organisée commence plus tard précisément parce que le rapport bénéfice/risque du dépistage dépend de l'âge.
 
-**La « perte de fertilité à 35 ans ».** La fertilité décline progressivement, ce n'est pas une falaise à date fixe. Le chiffre souvent cité vient de données historiques anciennes et a été largement critiqué. Le déclin est réel et graduel, plus marqué après 37-40 ans.
+**La « perte de fertilité à 35 ans ».** La fertilité décline progressivement, ce n'est pas une falaise à date fixe. Le chiffre souvent cité vient de données historiques anciennes et a été largement critiqué. Le déclin est réel et graduel, plus marqué après 37-40 ans. Le risque thrombotique sous contraception œstroprogestative a été quantifié et comparé à celui de la grossesse dans une large étude de cohorte (source : van Hylckama Vlieg et coll., « The venous thrombotic risk of oral contraceptives », *BMJ*, 2009 ; vérification du 7 août 2026).
 
 ### 15.3 Les risques sous-estimés
 
@@ -36,7 +36,7 @@ Ceux-là méritent bien plus d'attention qu'ils n'en reçoivent.
 
 **Le retard diagnostique de l'[endométriose](<../../2 - Notions/Endométriose.md>).** Encore compté en années. Des règles qui empêchent de travailler ou d'aller en cours ne sont pas normales, et « c'est comme ça » n'est pas un diagnostic.
 
-**Les IST asymptomatiques.** Chlamydia en particulier, souvent silencieuse et pouvant retentir sur la fertilité. Le dépistage est simple et largement sous-utilisé. Voir [IST, dépistage et prévention](<../IST, depistage et prevention/README.md>).
+**Les IST asymptomatiques.** Chlamydia en particulier, souvent silencieuse et pouvant retentir sur la fertilité. Le dépistage est simple et largement sous-utilisé. Voir [IST, dépistage et prévention](<../IST, depistage et prevention/README.md>). La sous-reconnaissance du risque cardiovasculaire féminin, première cause de mortalité chez les femmes, est documentée par l'association américaine de cardiologie (source : Mosca et coll., « Sex/Gender Differences in Cardiovascular Disease Prevention », *Circulation*, 2011 ; vérification du 7 août 2026).
 
 ### 15.4 Comment avancer quand la peur est là
 
@@ -50,7 +50,7 @@ Trois leviers pour la seconde catégorie.
 
 **Limiter la vérification.** Consulter des forums, refaire des recherches, réexaminer : ces gestes apaisent quelques minutes et renforcent la boucle. Poser une limite — une recherche, une source fiable, puis stop — est une intervention en soi.
 
-**Décider avec, plutôt que contre.** Une décision médicale se prend avec un professionnel, en posant les questions dans l'ordre : quel est mon risque à moi, compte tenu de mon histoire ; qu'est-ce que ça change de ne rien faire ; quelles sont les options.
+**Décider avec, plutôt que contre.** Une décision médicale se prend avec un professionnel, en posant les questions dans l'ordre : quel est mon risque à moi, compte tenu de mon histoire ; qu'est-ce que ça change de ne rien faire ; quelles sont les options. La distinction entre une peur fondée sur un manque d'information et une anxiété qui persiste malgré l'information est développée dans la littérature sur la régulation émotionnelle (source : Barrett, *How Emotions Are Made*, Houghton Mifflin Harcourt, 2017 ; vérification du 7 août 2026).
 
 ### 15.5 Les protections qui marchent réellement
 
@@ -58,7 +58,7 @@ Peu nombreuses, et toutes ennuyeuses — c'est précisément ce qui les rend eff
 
 **Le dépistage organisé**, aux âges où il est recommandé : frottis puis test HPV pour le col, mammographie selon la tranche d'âge. **La vaccination HPV**, dont l'efficacité sur les lésions précancéreuses est solidement établie. **Le dépistage des IST** au changement de partenaire. **Le suivi cardiovasculaire** : tension, bilan lipidique, glycémie — la prévention la plus rentable et la plus négligée chez les femmes. **L'arrêt du tabac**, qui domine tout le reste en gain de santé.
 
-Et une protection non médicale : **connaître ses propres constantes**. Savoir à quoi ressemble votre cycle habituel, votre fatigue habituelle, votre douleur habituelle rend un écart repérable. C'est ce qui permet de consulter tôt, et consulter tôt est le facteur qui change le plus les issues.
+Et une protection non médicale : **connaître ses propres constantes**. Savoir à quoi ressemble votre cycle habituel, votre fatigue habituelle, votre douleur habituelle rend un écart repérable. C'est ce qui permet de consulter tôt, et consulter tôt est le facteur qui change le plus les issues. L'efficacité du dépistage organisé sur la mortalité par cancer gynécologique est établie par les autorités de santé (source : Haute Autorité de santé, *Dépistage des cancers* ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

@@ -58,7 +58,7 @@ Au-delà du mécanisme biologique, la menstruation porte depuis longtemps une ch
 
 Un exemple concret de cette évolution récente : en France, l'accès gratuit aux protections périodiques dans les établissements scolaires et universitaires s'est progressivement généralisé depuis 2021, une politique publique qui répond directement à ce qu'on appelle désormais la **précarité menstruelle**, l'idée que le coût des protections peut constituer un vrai obstacle matériel, notamment pour de jeunes femmes ou des femmes en situation de précarité.
 
-**💑 Dans le couple** : le simple fait de pouvoir parler des règles sans gêne, ouvertement, à la maison, est déjà une petite victoire contre un tabou qui reste, historiquement, l'un des plus tenaces qui soit.
+**💑 Dans le couple** : le simple fait de pouvoir parler des règles sans gêne, ouvertement, à la maison, est déjà une petite victoire contre un tabou qui reste, historiquement, l'un des plus tenaces qui soit. La stigmatisation sociale des règles est documentée comme un facteur qui affecte la santé mentale et le rapport au corps (source : Johnston-Robledo & Chrisler, « The menstrual mark: menstruation as social stigma », *Sex Roles*, 2013 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 - Évite les comparaisons du type "les animaux n'ont pas ce problème", en plus d'être scientifiquement inexactes, elles minimisent une réalité biologique complexe et spécifiquement humaine.
