@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "L'amour"
 sujet: "commun"
 chapitres: 10
-mots: 9780
+mots: 9737
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/L amour"
@@ -619,9 +619,3 @@ Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérifi
 - **Interprétation des données d'imagerie cérébrale** (1.3). Le champ est sujet à sur-interprétation ; seule la parenté fonctionnelle entre amour naissant et systèmes de motivation est affirmée.
 - **Effets de l'ocytocine** (1.5). Domaine en réévaluation ; plusieurs résultats anciens n'ont pas été répliqués. Les affirmations sont volontairement prudentes.
 - **Croyance en l'âme sœur et résilience du couple** (5.4). L'association est documentée dans plusieurs travaux sur les théories implicites de la relation, mais je n'avance ni chiffre ni effet de taille.
-
-## Cadence de révision
-
-Les travaux cités sont majoritairement fondateurs et stables. Les éléments à surveiller sont les **références juridiques et fiscales** du chapitre 8, qui évoluent régulièrement, et l'état de la recherche sur l'ocytocine, en réévaluation.
-
-Prochaine revue prévue : février 2027.

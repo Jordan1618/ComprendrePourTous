@@ -36,8 +36,6 @@ Quand une donnée est débattue ou incertaine, le texte donne une fourchette et 
 
 Une revue complète tous les six mois, guide par guide, en ne touchant qu'aux chiffres et aux recommandations officielles. La structure et les explications de mécanismes ne se périment pas au même rythme.
 
-Prochaine revue prévue : janvier 2027.
-
 ## Signaler une erreur
 
 Toute erreur signalée est corrigée. C'est le meilleur service à rendre au projet, et la contribution la plus utile qu'un lecteur puisse apporter.

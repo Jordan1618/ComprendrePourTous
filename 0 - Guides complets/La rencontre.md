@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "La rencontre"
 sujet: "commun"
 chapitres: 10
-mots: 10818
+mots: 10763
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/La rencontre"
@@ -680,9 +680,3 @@ Signalées ici plutôt qu'omises, conformément à la méthode du projet.
 - **Effets du choix abondant sur la satisfaction** (5.2). Le phénomène est documenté en psychologie de la décision, mais son ampleur réelle est débattue et les réplications sont contrastées. Il est présenté ici comme un mécanisme plausible, pas comme un effet établi.
 - **Données publiques des plateformes de rencontre** (5.4). Volontairement non citées : elles émanent d'acteurs intéressés et sont rarement publiées avec une méthodologie vérifiable.
 - **Signaux non verbaux** (6.5). Domaine où la vulgarisation dépasse largement les preuves. Seuls des éléments prudents et convergents sont mentionnés, sans chiffre.
-
-## Cadence de révision
-
-Les références de recherche de ce guide sont des travaux fondateurs, peu susceptibles d'être invalidés à court terme. Les éléments à surveiller en priorité sont les **références juridiques** (le droit pénal en matière de violences et de consentement évolue régulièrement) et les **dispositifs de signalement**.
-
-Prochaine revue prévue : février 2027.

@@ -60,9 +60,3 @@ Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérifi
 - **Cohérence cardiaque** (5.5). L'effet apaisant d'une respiration lente est réel à court terme ; les promesses chiffrées des méthodes commerciales dépassent les données. Dit explicitement.
 - **Modèle des cinq étapes du deuil** (10.6). Issu des travaux de Kübler-Ross sur les personnes en fin de vie, jamais validé comme séquence obligatoire du deuil. Cité pour être écarté.
 - **Roues des émotions** (3.5). Aides-mémoire utiles, sans valeur de cartographie validée. Dit explicitement.
-
-## Cadence de révision
-
-À surveiller en priorité : les **dispositifs français de prise en charge**, dont les conditions changent régulièrement, et l'état du **débat sur la nature des émotions**, qui est un champ actif.
-
-Prochaine revue prévue : février 2027.

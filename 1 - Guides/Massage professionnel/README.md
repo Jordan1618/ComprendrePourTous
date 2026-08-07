@@ -37,10 +37,6 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 Total : 3 683 mots, 12 chapitres.
 
-## À savoir sur ce guide
-
-Le chapitre 9 sur les risques et contre-indications n'est pas une formalité. Certaines situations, notamment la grossesse et les troubles circulatoires, interdisent réellement certains gestes.
-
 ## Sources et mise à jour
 
 Sources vérifiées au 21 juillet 2026. Les chiffres et recommandations cités portent leur propre date de vérification dans le texte. Un chiffre sans date est un chiffre à revérifier.

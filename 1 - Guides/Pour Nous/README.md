@@ -48,10 +48,6 @@ Total : 10 498 mots, 12 chapitres.
 - **Vous vous sentez devenu le soignant plutôt que le partenaire** : chapitre 6, partie 6.2.
 - **Vous voulez repérer les signaux avant qu'il ne soit tard** : chapitre 6, partie 6.4.
 
-## Ajouts du 6 août 2026
-
-Cinq chapitres élargissent le guide au-delà du trauma : le quotidien et sa charge (7), les projets de vie — enfant, lieu, travail (8), les épreuves venues de l'extérieur — famille, travail, enfants, maladie (9), le deuil seul et à deux (10), et le couple à travers les âges et les civilisations, pour rendre discutables des règles qu'on croit naturelles (11).
-
 ## Une note sur la sécurité
 
 Si un comportement relève du contrôle coercitif ou de la violence, son origine ne change rien à la priorité, qui devient la sécurité. Voir le chapitre 7 de [La rencontre](<../La rencontre/README.md>) et la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>). **3919** pour les violences ; **17** ou **114 par SMS** en danger immédiat ; **3114** pour la prévention du suicide.

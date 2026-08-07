@@ -112,4 +112,3 @@ C'est un choix assumé : ce projet existe pour être utile, et une licence restr
 
 Cette collection est faite pour grandir. Un guide de moins de 8 000 mots reste un fichier unique. Au-delà, il prend son propre dossier et se découpe par chapitre, comme les quatre premiers.
 
-Dernière mise à jour de cette page : 6 août 2026.

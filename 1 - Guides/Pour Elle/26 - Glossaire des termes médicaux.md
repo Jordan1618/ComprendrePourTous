@@ -43,5 +43,4 @@ Un glossaire pour t'y retrouver rapidement, dans l'ordre alphabétique, sans avo
 - **Vaginisme** : contraction involontaire et douloureuse des muscles à l'entrée du vagin (5.4).
 - **Vulvodynie** : douleur chronique de la vulve sans cause identifiable à l'examen (5.6).
 
-
 "Fin du document. Rédigé le 21 juillet 2026, édition augmentée. Sources vérifiées et datées à cette même période."

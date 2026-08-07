@@ -36,14 +36,6 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 Total : 5 893 mots, 9 chapitres.
 
-## À savoir sur ce guide
-
-Les chapitres 4, 5 et 8 portent le cœur du sujet. Le chapitre 5 sur les émotions est celui à relire avant une conversation importante, et 5.3 sur le silence après la question est le point technique le plus rentable de tout le document.
-
-Le chapitre 7 traite en particulier les quatre configurations parent-enfant (père-fils, père-fille, mère-fils, mère-fille), qui ne partent pas du même point ni des mêmes blocages.
-
-Le chapitre 6.2 ("Le côte à côte") généralise une observation déjà développée pour le masculin dans [Pour Lui](<../Pour Lui/README.md>) section 2.7 ; voir la notion [Côte à côte](<../../2 - Notions/Côte à côte.md>). Le chapitre 2.4 sur le piège du "pourquoi" prolonge, en le généralisant, ce que le même guide développe sur l'[alexithymie](<../../2 - Notions/Alexithymie.md>).
-
 ## Sources et mise à jour
 
 Sources vérifiées au 4 août 2026, listées en fin de chapitre 9. Les chapitres 5 à 9 relèvent pour partie de la pratique clinique et de l'entretien plus que de résultats expérimentaux chiffrés ; c'est signalé comme tel dans le texte plutôt que présenté avec une fausse précision.

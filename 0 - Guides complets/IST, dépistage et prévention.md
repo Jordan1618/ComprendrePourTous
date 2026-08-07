@@ -188,5 +188,4 @@ La vaccination (Gardasil 9) est recommandée en France pour **les filles et les 
 - Le dépistage du cancer du col de l'utérus (frottis puis test HPV selon l'âge) reste nécessaire même chez une femme vaccinée, la vaccination réduit le risque, elle ne le supprime pas à 100 % (le vaccin ne couvre pas toutes les souches existantes).
 - Le HPV n'a, dans l'immense majorité des cas, aucun symptôme visible, son absence de symptômes ne dit rien sur le nombre de partenaires ou le "sérieux" d'une personne, contrairement à une association encore fréquente dans les esprits.
 
-
 "Suite du guide (hépatite B et autres IST, dépistage pratique, comment en parler à un·e partenaire, grossesse et urgences) à venir dans la continuité de cette conversation."

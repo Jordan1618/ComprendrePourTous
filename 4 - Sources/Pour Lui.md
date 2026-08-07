@@ -32,11 +32,3 @@ Sources du guide [Pour Lui](<../1 - Guides/Pour Lui/README.md>). Comme Pour Elle
 |---|---|---|
 | Bancroft, J. & Janssen, E. (2000), [The dual control model of male sexual response](https://scholar.google.com/scholar?q=%22The+dual+control+model+of+male+sexual+response%22), *Neuroscience & Biobehavioral Reviews* | Modèle du double contrôle, développé sur des hommes | 11 |
 | Taylor, G. J., Bagby, R. M. & Parker, J. (1997), [Disorders of Affect Regulation](https://scholar.google.com/scholar?q=%22Disorders+of+Affect+Regulation%22), *Cambridge University Press* | Alexithymie et difficulté à identifier ses émotions | 3, 4 |
-
-## Ce qui reste à faire
-
-Un chapitre de sources dédié, sur le modèle de ceux de [La rencontre](<La rencontre.md>), [L'amour](<L amour.md>), [Les émotions](<Les emotions.md>) et [Pour Nous](<Pour Nous.md>).
-
----
-
-Retour à l'[index des sources](<README.md>) · [Pour Lui](<../1 - Guides/Pour Lui/README.md>) · [Accueil](<../README.md>)

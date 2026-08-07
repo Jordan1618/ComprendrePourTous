@@ -54,5 +54,4 @@ Pour clore ce document sur un point pratique et concret, voici la liste consolid
 
 La compétence la plus utile que tu puisses développer n'est pas d'être un expert médical du corps de ta partenaire, mais un partenaire qui ne minimise jamais ce qu'elle rapporte, qui l'accompagne activement chez les professionnels concernés, qui reste curieux sans jamais se substituer à son médecin, et qui, le jour où l'une de ces situations se présentera réellement dans votre vie à deux, saura reconnaître ce qui se joue et réagir avec justesse plutôt que dans l'improvisation.
 
-
 "Document rédigé le 21 juillet 2026, sources vérifiées et datées à cette même période. À mettre à jour si de nouvelles recommandations officielles (HAS, CNGOF, OMS, Inserm) venaient à être publiées, la recherche en santé féminine évolue actuellement rapidement, comme en témoigne le renommage du SOPK en SMOP en mai 2026, survenu pendant la préparation même de ce document."

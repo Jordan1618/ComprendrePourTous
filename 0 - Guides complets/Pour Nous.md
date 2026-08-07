@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Nous"
 sujet: "commun"
 chapitres: 12
-mots: 10510
+mots: 10462
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Nous"
@@ -796,9 +796,3 @@ Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérifi
 - **Épuisement du partenaire aidant** (6.2). Phénomène largement décrit en clinique et dans la littérature sur les aidants, mais je n'avance ni prévalence ni chiffre concernant spécifiquement les couples.
 - **Ordre d'apparition des signaux de délitement** (6.4). La progression décrite est cohérente avec la littérature clinique sur le couple, mais elle constitue une synthèse et non un modèle validé en tant que séquence.
 - **Efficacité du rendez-vous hebdomadaire de couple** (6.5). Pratique recommandée en thérapie de couple ; je n'ai pas identifié d'essai contrôlé isolant spécifiquement cet effet.
-
-## Cadence de révision
-
-Les éléments à surveiller en priorité sont les **dispositifs français de prise en charge** (Mon soutien psy a changé plusieurs fois de conditions depuis sa création) et les **recommandations sur le psychotrauma**, qui sont mises à jour régulièrement.
-
-Prochaine revue prévue : février 2027.

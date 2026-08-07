@@ -269,7 +269,6 @@ Tu as été clair sur ton intention : comprendre le corps de ta future partenair
 - Garde toujours en tête la hiérarchie : **sécurité > consentement > technique**. Un praticien qui maîtrise dix techniques mais qui ne sait pas lire le corps de la personne en face de lui reste moins bon qu'un praticien qui maîtrise trois gestes mais qui écoute parfaitement.
 - Ce document peut servir de base si tu veux, plus tard, construire ta propre fiche de suivi (zones travaillées, retours de la personne, préférences), un peu comme tu structures déjà tes autres projets.
 
-
 ## Sources consultées (vérification du 21 juillet 2026)
 
 - Le Guide Santé, massothérapie, bienfaits et indications

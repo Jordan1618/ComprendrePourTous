@@ -12,7 +12,6 @@ Index alphabétique de renvois. Aucune définition n'est recopiée ici : chaque 
 
 Pour les termes du champ gynécologique, le glossaire détaillé du guide sur le cycle reste la référence : [Glossaire des termes médicaux](<../1 - Guides/Pour Elle/26 - Glossaire des termes médicaux.md>).
 
-
 ## A
 
 - **Adénomyose** : [Troubles et pathologies du cycle](<../1 - Guides/Pour Elle/10 - Troubles et pathologies du cycle.md>) section 4.5
