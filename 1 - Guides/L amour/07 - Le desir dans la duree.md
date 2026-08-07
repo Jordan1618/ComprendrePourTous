@@ -16,7 +16,7 @@ Le modèle le plus utile sur cette question est le **modèle du double contrôle
 
 L'implication est décisive et va à l'encontre de tout ce que la culture raconte. Quand le désir baisse, le réflexe est d'ajouter de l'accélérateur : plus de séduction, plus de nouveauté, plus de propositions. Or dans la grande majorité des situations, le problème n'est pas un défaut d'accélérateur — **c'est un frein enfoncé**. Et appuyer sur l'accélérateur avec le frein serré n'avance à rien, tout en usant le moteur.
 
-Ce modèle est développé dans le guide [Pour Elle](<../Pour Elle/README.md>), chapitre 5.
+Ce modèle est développé dans le guide [Pour Elle](<../Pour Elle/README.md>), chapitre 5. Ce modèle a été développé à l'Institut Kinsey à partir de recherches sur la réponse sexuelle (source : Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
 
 ### 7.2 Désir spontané et désir réactif
 
@@ -24,7 +24,7 @@ Deuxième idée qui règle beaucoup de malentendus. Le **désir spontané** appa
 
 Les deux sont normaux. Le désir réactif est simplement moins représenté dans les récits culturels, où l'envie précède toujours l'acte. Résultat : beaucoup de personnes en désir réactif — statistiquement plus souvent des femmes, mais pas exclusivement — concluent qu'elles ont un problème, ou qu'elles n'aiment plus leur partenaire.
 
-L'erreur pratique qui en découle est fréquente : attendre d'avoir envie pour initier. Si votre désir est réactif, cette attente peut durer indéfiniment, parce que le déclencheur n'est pas censé venir en premier. Cette notion a sa propre page dans le projet : [Désir spontané et désir réactif](<../../2 - Notions/Désir spontané et désir réactif.md>).
+L'erreur pratique qui en découle est fréquente : attendre d'avoir envie pour initier. Si votre désir est réactif, cette attente peut durer indéfiniment, parce que le déclencheur n'est pas censé venir en premier. Cette notion a sa propre page dans le projet : [Désir spontané et désir réactif](<../../2 - Notions/Désir spontané et désir réactif.md>). La distinction entre désir spontané et désir réactif a été proposée par Rosemary Basson à partir de l'observation clinique de la réponse sexuelle féminine (source : Basson, « The female sexual response: a different model », *Journal of Sex & Marital Therapy*, 2000 ; vérification du 7 août 2026).
 
 ### 7.3 Ce qui enfonce le frein, concrètement
 
@@ -38,7 +38,7 @@ La liste est banale, et c'est précisément ce qui la rend importante — on che
 
 **La peur de la déception.** Après plusieurs tentatives qui n'ont pas fonctionné, chaque nouvelle tentative porte un enjeu. L'enjeu est lui-même un frein — mécanisme central des troubles de l'érection dits situationnels, décrit dans [Pour Lui](<../Pour Lui/README.md>).
 
-**La disparition du contact non sexuel.** Quand tout contact physique est interprété comme une initiative sexuelle, le couple cesse de se toucher pour éviter le malentendu — et supprime du même coup ce qui entretenait le lien.
+**La disparition du contact non sexuel.** Quand tout contact physique est interprété comme une initiative sexuelle, le couple cesse de se toucher pour éviter le malentendu — et supprime du même coup ce qui entretenait le lien. La charge mentale et la fatigue figurent parmi les freins les plus documentés du désir dans la littérature sur la sexothérapie (source : Basson, « The female sexual response: a different model », *Journal of Sex & Marital Therapy*, 2000 ; vérification du 7 août 2026).
 
 ### 7.4 Ce qui fonctionne, d'après les données
 
@@ -48,7 +48,7 @@ Trois leviers, par ordre d'efficacité documentée.
 
 **Programmer plutôt qu'attendre.** Contre-intuitif et pourtant recommandé en thérapie sexuelle : décider d'un moment protégé, sans obligation de résultat. Cela paraît anti-romantique — mais l'attente du surgissement spontané ne fonctionne pas pour un désir réactif, et le temps non planifié est systématiquement colonisé par le reste.
 
-**La nouveauté partagée, hors du lit.** Les travaux d'Aron et collègues sur les activités nouvelles et stimulantes faites ensemble montrent un effet sur la qualité relationnelle et sur l'attirance. La nouveauté cherchée dans l'acte sexuel lui-même a un effet plus limité que la nouveauté cherchée dans la relation.
+**La nouveauté partagée, hors du lit.** Les travaux d'Aron et collègues sur les activités nouvelles et stimulantes faites ensemble montrent un effet sur la qualité relationnelle et sur l'attirance. La nouveauté cherchée dans l'acte sexuel lui-même a un effet plus limité que la nouveauté cherchée dans la relation. La pratique d'activités nouvelles et stimulantes partagées à deux est associée à une meilleure qualité relationnelle dans plusieurs études expérimentales (source : Aron, Norman, Aron, McKenna & Heyman, « Couples' shared participation in novel and arousing activities », *Journal of Personality and Social Psychology*, 2000 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

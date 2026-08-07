@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Gary Chapman, pasteur et conseiller conjugal, a proposé en 1992 l'idée que chacun exprime et reçoit l'affection selon un « langage » dominant : paroles valorisantes, moments de qualité, cadeaux, services rendus, contact physique. Le malentendu classique consisterait à donner dans son propre langage plutôt que dans celui de l'autre.
 
-Le succès a été considérable, et il mérite d'être expliqué : le modèle est simple, il donne des actions concrètes, et il transforme un reproche (« tu ne m'aimes pas ») en problème de traduction (« on ne parle pas la même langue »). Ce déplacement est réellement utile en couple.
+Le succès a été considérable, et il mérite d'être expliqué : le modèle est simple, il donne des actions concrètes, et il transforme un reproche (« tu ne m'aimes pas ») en problème de traduction (« on ne parle pas la même langue »). Ce déplacement est réellement utile en couple. L'idée des cinq langages de l'amour a été proposée par le conseiller conjugal Gary Chapman (source : Chapman, *The Five Love Languages*, Northfield Publishing, 1992 ; vérification du 7 août 2026).
 
 ### 6.2 Ce que la recherche en dit, honnêtement
 
@@ -34,7 +34,7 @@ La recherche empirique sur ce qui prédit la satisfaction et la durée d'un coup
 
 **La capitalisation.** La façon dont on réagit aux **bonnes** nouvelles de l'autre prédit la satisfaction du couple au moins autant que la gestion des conflits. Une réaction active et enthousiaste à une réussite construit davantage qu'une réaction polie. C'est un résultat contre-intuitif et bien documenté (travaux de Shelly Gable et collègues).
 
-**Les quatre comportements destructeurs** identifiés par Gottman : la critique globale de la personne, le mépris (le plus toxique), la position défensive systématique, et le retrait. Le mépris est celui dont l'effet est le plus constamment retrouvé.
+**Les quatre comportements destructeurs** identifiés par Gottman : la critique globale de la personne, le mépris (le plus toxique), la position défensive systématique, et le retrait. Le mépris est celui dont l'effet est le plus constamment retrouvé. Les comportements destructeurs les mieux documentés du couple ont été identifiés par observation directe d'échanges entre partenaires (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 6.4 Comment utiliser l'idée sans se tromper
 
@@ -42,7 +42,7 @@ Le modèle des langages garde une utilité pratique si on le prend pour ce qu'il
 
 Ce qui fonctionne : demander à l'autre ce qui lui fait concrètement du bien, et le lui dire pour soi. Ce qui ne fonctionne pas : se déclarer d'un « type » et exiger que l'autre s'y conforme, ou s'en servir pour disqualifier ce qu'il fait (« tes cadeaux ne comptent pas, mon langage c'est le temps »).
 
-La question utile n'est pas « quel est ton langage ». C'est : **« cite-moi trois choses que j'ai faites cette année qui t'ont vraiment fait du bien. »** Elle donne des faits concrets, exploitables immédiatement, sans passer par une théorie.
+La question utile n'est pas « quel est ton langage ». C'est : **« cite-moi trois choses que j'ai faites cette année qui t'ont vraiment fait du bien. »** Elle donne des faits concrets, exploitables immédiatement, sans passer par une théorie. Une synthèse récente conclut que le modèle des cinq langages reste utile comme grille de conversation, sans validation empirique de son hypothèse centrale (source : Impett, Park & Muise, « Popular Psychology Through a Scientific Lens: Evaluating Love Languages », *Current Directions in Psychological Science*, 2024 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

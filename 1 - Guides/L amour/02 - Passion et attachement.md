@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Un feu qu'on allume commence par une flambée : haute, spectaculaire, chaude, et brève. Si on ne fait rien, elle s'éteint. Si on y met des bûches, elle devient un lit de braises — moins spectaculaire, beaucoup plus chaud sur la durée, et bien plus difficile à éteindre.
 
-Personne ne se plaint qu'un feu passe de la flambée à la braise. En amour, beaucoup de gens vivent ce passage comme une perte, parce qu'ils ont appris que la flambée **était** l'amour.
+Personne ne se plaint qu'un feu passe de la flambée à la braise. En amour, beaucoup de gens vivent ce passage comme une perte, parce qu'ils ont appris que la flambée **était** l'amour. Cette distinction reprend la séparation classique entre amour passionnel et amour compagnonnage établie par Elaine Hatfield (source : Hatfield & Rapson, *Love and Sex: Cross-Cultural Perspectives*, Allyn & Bacon, 1996 ; vérification du 7 août 2026).
 
 ### 2.2 Ce que dit la recherche sur la durée de chaque phase
 
@@ -24,7 +24,7 @@ Ce qui est établi : la phase d'intensité obsédante n'est pas durable. Les ord
 
 Ce qui est établi aussi, et souvent ignoré : **l'amour passionnel ne disparaît pas nécessairement**. Des travaux sur des couples ensemble depuis plus de dix ans ont identifié une minorité de couples déclarant un amour intense et durable — avec un profil différent de celui du début, associant l'intensité à la sécurité plutôt qu'à l'anxiété et à l'obsession.
 
-C'est une nuance qui compte. Ce qui disparaît systématiquement, c'est la composante **obsessionnelle et anxieuse** du début. L'intensité, elle, peut se maintenir.
+C'est une nuance qui compte. Ce qui disparaît systématiquement, c'est la composante **obsessionnelle et anxieuse** du début. L'intensité, elle, peut se maintenir. Une étude d'imagerie cérébrale a identifié une minorité de couples de longue durée déclarant une intensité amoureuse comparable à celle du début, associée à des marqueurs cérébraux distincts de ceux de l'obsession (source : Acevedo & Aron, « Does a Long-Term Relationship Kill Romantic Love? », *Review of General Psychology*, 2009 ; vérification du 7 août 2026).
 
 ### 2.3 Le modèle triangulaire, comme outil de diagnostic
 
@@ -49,7 +49,7 @@ Trois choses s'installent quand le système d'attachement prend le relais, et el
 
 **La prévisibilité comme ressource.** Ce que le système dopaminergique perçoit comme ennuyeux, le système d'attachement le perçoit comme sécurisant. La même caractéristique — savoir ce que l'autre va faire — est un défaut pour un moteur et une qualité pour l'autre.
 
-**L'histoire commune.** Des références partagées, des épreuves traversées, une mémoire à deux. C'est ce qui rend une relation ancienne irremplaçable, et c'est précisément ce qu'aucune nouvelle relation ne peut fournir, même très intense.
+**L'histoire commune.** Des références partagées, des épreuves traversées, une mémoire à deux. C'est ce qui rend une relation ancienne irremplaçable, et c'est précisément ce qu'aucune nouvelle relation ne peut fournir, même très intense. La régulation mutuelle du stress par la présence d'un partenaire sécurisant est documentée dans la littérature sur l'attachement adulte (source : Hazan & Shaver, « Romantic love conceptualized as an attachment process », *Journal of Personality and Social Psychology*, 1987 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

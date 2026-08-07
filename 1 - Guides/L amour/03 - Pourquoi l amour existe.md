@@ -16,7 +16,7 @@ Les petits de la plupart des mammifères sont autonomes en quelques semaines ou 
 
 Cela crée un problème d'ingénierie : il faut que les adultes restent ensemble assez longtemps. Les liens rationnels ne tiennent pas des années sous la fatigue et le stress. Il fallait une colle plus solide qu'un accord. L'attachement amoureux est un bon candidat pour cette colle.
 
-Cette explication est plausible et cohérente avec plusieurs faits, mais elle demande d'être maniée avec précaution — c'est l'objet de la fin de ce chapitre.
+Cette explication est plausible et cohérente avec plusieurs faits, mais elle demande d'être maniée avec précaution — c'est l'objet de la fin de ce chapitre. L'hypothèse d'un attachement de couple comme solution à la dépendance prolongée du petit humain s'appuie sur le même cadre que celui utilisé pour expliquer les trois systèmes cérébraux de l'amour (source : Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
 
 ### 3.2 Ce qui rend l'hypothèse crédible
 
@@ -38,7 +38,7 @@ Trois précautions, sans lesquelles ce type de raisonnement devient de la mauvai
 
 **Ce qui est n'est pas ce qui doit être.** C'est le point le plus important. Le fait qu'un mécanisme ait été sélectionné ne le rend ni bon, ni souhaitable, ni obligatoire. L'infidélité, la jalousie et la violence ont aussi des explications évolutionnistes plausibles : cela ne les justifie en rien. Confondre l'explication et la justification est une erreur logique, et elle est massivement exploitée dans les discours en ligne sur les rapports entre hommes et femmes.
 
-**Les différences entre groupes sont plus faibles que les différences entre individus.** Les écarts moyens documentés entre hommes et femmes en matière de préférences sont réels mais modestes, et complètement écrasés par la variation d'un individu à l'autre. Toute affirmation du type « les hommes sont ainsi, les femmes sont ainsi » déforme les données dont elle se réclame.
+**Les différences entre groupes sont plus faibles que les différences entre individus.** Les écarts moyens documentés entre hommes et femmes en matière de préférences sont réels mais modestes, et complètement écrasés par la variation d'un individu à l'autre. Toute affirmation du type « les hommes sont ainsi, les femmes sont ainsi » déforme les données dont elle se réclame. Confondre une explication d'origine et une justification morale correspond à ce que la philosophie appelle le sophisme naturaliste (source : Moore, *Principia Ethica*, Cambridge University Press, 1903 ; vérification du 7 août 2026).
 
 ### 3.4 Ce que ça change concrètement
 
@@ -46,7 +46,7 @@ Peu de choses sur le plan pratique, et c'est honnête de le dire. Cet angle n'in
 
 **Il dédramatise le fonctionnement du début.** L'obsession, la perte d'appétit, l'insomnie, la focalisation sur une personne : ce ne sont pas des signes de la qualité de la relation, ce sont des mécanismes anciens qui font leur travail. Cela évite de tirer des conclusions définitives d'un état chimique transitoire.
 
-**Il replace la monogamie exclusive à vie comme une option culturelle**, pas comme un fait de nature. Les données comparatives montrent une majorité de sociétés humaines historiquement organisées autour de formes variables, avec cependant le couple comme unité de coopération dominante presque partout. Cela n'invalide pas le choix de la fidélité — cela indique simplement que c'est un **choix**, qui se décide et se discute à deux, plutôt qu'une évidence biologique.
+**Il replace la monogamie exclusive à vie comme une option culturelle**, pas comme un fait de nature. Les données comparatives montrent une majorité de sociétés humaines historiquement organisées autour de formes variables, avec cependant le couple comme unité de coopération dominante presque partout. Cela n'invalide pas le choix de la fidélité — cela indique simplement que c'est un **choix**, qui se décide et se discute à deux, plutôt qu'une évidence biologique. La présence de l'amour romantique dans la quasi-totalité des sociétés étudiées invite à distinguer le sentiment, ancien et partagé, de ses formes institutionnelles, récentes et variables (source : Jankowiak & Fischer, « A cross-cultural perspective on romantic love », *Ethnology*, 1992 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 

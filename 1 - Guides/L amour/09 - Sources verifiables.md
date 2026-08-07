@@ -53,3 +53,24 @@ Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérifi
 - **Interprétation des données d'imagerie cérébrale** (1.3). Le champ est sujet à sur-interprétation ; seule la parenté fonctionnelle entre amour naissant et systèmes de motivation est affirmée.
 - **Effets de l'ocytocine** (1.5). Domaine en réévaluation ; plusieurs résultats anciens n'ont pas été répliqués. Les affirmations sont volontairement prudentes.
 - **Croyance en l'âme sœur et résilience du couple** (5.4). L'association est documentée dans plusieurs travaux sur les théories implicites de la relation, mais je n'avance ni chiffre ni effet de taille.
+
+## Recherche complémentaire, par sous-partie
+
+| Ce que ça appuie | Référence | Vérifié le |
+|---|---|---|
+| Imagerie cérébrale de l'amour romantique naissant (1.3) | Bartels, A. & Zeki, S., *The neural basis of romantic love*, NeuroReport, 2000 | 7 août 2026 |
+| Signal de prédiction de récompense de la dopamine (1.4) | Schultz, W., *Predictive reward signal of dopamine neurons*, Journal of Neurophysiology, 1998 | 7 août 2026 |
+| Effets contextuels de l'ocytocine (1.5) | Bartz, J. et coll., *Social effects of oxytocin in humans: context and person matter*, Trends in Cognitive Sciences, 2011 | 7 août 2026 |
+| Distinction amour passionnel / amour compagnonnage (2.1) | Hatfield, E. & Rapson, R., *Love and Sex: Cross-Cultural Perspectives*, Allyn & Bacon, 1996 | 7 août 2026 |
+| Intensité amoureuse maintenue dans certaines relations longues (2.2) | Acevedo, B. & Aron, A., *Does a Long-Term Relationship Kill Romantic Love?*, Review of General Psychology, 2009 | 7 août 2026 |
+| Analyse lexicale comparative des mots liés à l'amour (2b.1, 2b.3, 2b.6) | Lomas, T., *The flavours of love: A cross-cultural lexical analysis*, Journal for the Theory of Social Behaviour, 2018 | 7 août 2026 |
+| Historique et validation de la théorie de l'attachement (4.2) | Bretherton, I., *The Origins of Attachment Theory: John Bowlby and Mary Ainsworth*, Developmental Psychology, 1992 | 7 août 2026 |
+| Transmission intergénérationnelle des représentations d'attachement (4.3) | van IJzendoorn, M., *Adult attachment representations, parental responsiveness, and infant attachment*, Psychological Bulletin, 1995 | 7 août 2026 |
+| Sécurité acquise à l'âge adulte (4.5) | Pearson, J. et coll., *Earned- and continuous-security in adult attachment*, Development and Psychopathology, 1994 | 7 août 2026 |
+| Théories implicites de la relation : destin contre croissance (5.4) | Knee, C. R., *Implicit theories of relationships: assessment and prediction of romantic relationship initiation, coping, and longevity*, Journal of Personality and Social Psychology, 1998 | 7 août 2026 |
+| Origine des cinq langages de l'amour (6.1) | Chapman, G., *The Five Love Languages*, Northfield Publishing, 1992 | 7 août 2026 |
+| Modèle du double contrôle de la réponse sexuelle (7.1) | Bancroft, J. & Janssen, E., *The dual control model of male sexual response*, Neuroscience & Biobehavioral Reviews, 2000 | 7 août 2026 |
+| Désir spontané et désir réactif (7.2, 7.3) | Basson, R., *The female sexual response: a different model*, Journal of Sex & Marital Therapy, 2000 | 7 août 2026 |
+| Activités nouvelles partagées et qualité relationnelle (7.4) | Aron, A. et coll., *Couples' shared participation in novel and arousing activities*, Journal of Personality and Social Psychology, 2000 | 7 août 2026 |
+| Désaccords sur l'argent et risque de séparation (8.4) | Britt, S. & Huston, S., *The role of money arguments in marriage*, Journal of Family and Economic Issues, 2012 | 7 août 2026 |
+

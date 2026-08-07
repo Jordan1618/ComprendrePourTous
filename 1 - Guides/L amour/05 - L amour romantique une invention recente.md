@@ -26,7 +26,7 @@ Tant que le mariage repose sur l'économie et l'alliance, il est **solide** : le
 
 Dès lors qu'il repose sur l'amour, il devient **beaucoup plus désirable et beaucoup plus fragile**. Si la raison d'être ensemble est un sentiment, la disparition du sentiment dissout la raison. Coontz formule le paradoxe ainsi : les conditions qui ont rendu le mariage plus satisfaisant que jamais l'ont, dans le même mouvement, rendu plus optionnel et plus instable.
 
-Ce n'est donc pas que « les gens ne savent plus s'engager ». C'est que le critère de l'engagement a changé, et que ce critère est par nature variable.
+Ce n'est donc pas que « les gens ne savent plus s'engager ». C'est que le critère de l'engagement a changé, et que ce critère est par nature variable. Stephanie Coontz a montré que le passage à un mariage fondé sur l'amour l'a rendu à la fois plus désirable et plus instable, la disparition du sentiment dissolvant désormais sa raison d'être (source : Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
 
 ### 5.3 L'attente devenue démesurée
 
@@ -48,7 +48,7 @@ Quatre scripts, tellement répétés qu'ils passent pour des évidences.
 
 **L'insistance qui finit par payer.** Un script narratif extrêmement répandu, où le refus initial n'est qu'une étape avant la conquête. C'est un apprentissage du non-respect du refus, exactement le signal décrit au chapitre 7 du guide [La rencontre](<../La rencontre/README.md>).
 
-**La fin sur le baiser.** Les récits s'arrêtent au moment où la relation commence, ce qui laisse sans aucun modèle culturel pour la partie qui dure. On apprend à tomber amoureux, jamais à rester.
+**La fin sur le baiser.** Les récits s'arrêtent au moment où la relation commence, ce qui laisse sans aucun modèle culturel pour la partie qui dure. On apprend à tomber amoureux, jamais à rester. Croire à une âme sœur prédestinée plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple face aux difficultés (source : Knee, « Implicit theories of relationships: assessment and prediction of romantic relationship initiation, coping, and longevity », *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
