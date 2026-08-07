@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 C'est le conseil le plus répandu et le moins utile, parce qu'il ne décrit aucun geste. Sur un sujet aussi coûteux qu'un trauma ou une appréhension profonde, la difficulté n'est pas de savoir qu'il faut en parler. C'est de savoir **quoi dire exactement**, à quel moment, et sous quelle forme pour que ce soit recevable.
 
-Ce chapitre donne des formulations précises. Elles reposent toutes sur la même mécanique, développée dans le guide [Questions et communication](<../Questions et communication/README.md>) : transformer une demande abstraite et émotionnelle en quelque chose de concret et de répondable.
+Ce chapitre donne des formulations précises. Elles reposent toutes sur la même mécanique, développée dans le guide [Questions et communication](<../Questions et communication/README.md>) : transformer une demande abstraite et émotionnelle en quelque chose de concret et de répondable. John Gottman a montré, en observant des milliers d'échanges de couples, que la manière dont un sujet difficile est amené prédit davantage l'issue de la conversation que le sujet lui-même (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 4.2 Ce qu'il faut décider avant de parler
 
@@ -24,7 +24,7 @@ Trois choses, et les décider évite l'essentiel des dérapages.
 
 **Le périmètre.** Vous n'êtes pas obligé de tout raconter. Il est parfaitement légitime de dire ce qui se passe **maintenant** sans détailler l'événement d'origine. Beaucoup de gens repoussent la conversation parce qu'ils croient devoir tout livrer d'un coup.
 
-**L'objectif.** Cherchez-vous à être compris, ou à obtenir un changement concret ? Les deux sont valables, mais ce ne sont pas les mêmes conversations, et l'ambiguïté sur ce point crée de la frustration des deux côtés.
+**L'objectif.** Cherchez-vous à être compris, ou à obtenir un changement concret ? Les deux sont valables, mais ce ne sont pas les mêmes conversations, et l'ambiguïté sur ce point crée de la frustration des deux côtés. Le choix du moment et du cadre d'une conversation difficile influence directement le niveau d'activation physiologique des deux interlocuteurs (source : Gottman, *The Science of Trust*, Norton, 2011 ; vérification du 7 août 2026).
 
 ### 4.3 Les formulations, par situation
 
@@ -44,7 +44,7 @@ Une phrase courte, décidée à froid : « J'ai besoin de vingt minutes. Je revi
 « Quand tu me rassures, ça marche sur le moment et ça ne dure pas. Ce n'est pas que je ne te crois pas. C'est que ça ne passe pas par les mots. Ce qui marche mieux, c'est quand les choses sont prévisibles. »
 
 **Pour l'intimité, quand elle est concernée.**
-« Il y a des moments où je pars ailleurs pendant qu'on est ensemble. Ce n'est ni toi ni le désir. Si tu le remarques, tu peux me demander si je suis là — sans que ça devienne un sujet. »
+« Il y a des moments où je pars ailleurs pendant qu'on est ensemble. Ce n'est ni toi ni le désir. Si tu le remarques, tu peux me demander si je suis là — sans que ça devienne un sujet. » Ces formulations reprennent le principe de la communication non violente : décrire un fait et un besoin plutôt que d'évaluer ou d'exiger (source : Rosenberg, *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 ; vérification du 7 août 2026).
 
 ### 4.4 Ce que le partenaire peut dire, et ne pas dire
 
@@ -54,7 +54,7 @@ Une phrase courte, décidée à froid : « J'ai besoin de vingt minutes. Je revi
 
 **Ce qui fonctionne.**
 
-Reprendre le mot exact de l'autre plutôt que le reformuler. Décrire ce qu'on observe sans l'interpréter : « je te sens loin depuis hier soir ». Proposer un menu fermé plutôt qu'une question ouverte : **« tu préfères qu'on en parle, qu'on fasse autre chose, ou que je te laisse un peu ? »** — trois options courtes, toutes acceptables, aucune ne demande de formuler un état intérieur.
+Reprendre le mot exact de l'autre plutôt que le reformuler. Décrire ce qu'on observe sans l'interpréter : « je te sens loin depuis hier soir ». Proposer un menu fermé plutôt qu'une question ouverte : **« tu préfères qu'on en parle, qu'on fasse autre chose, ou que je te laisse un peu ? »** — trois options courtes, toutes acceptables, aucune ne demande de formuler un état intérieur. Le mépris est le comportement dont l'effet destructeur sur la relation est le plus constamment retrouvé dans les observations de couples (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 4.5 La ligne entre expliquer et excuser
 
@@ -64,7 +64,7 @@ Un trauma explique une réaction. Il n'autorise pas un comportement. Crier, surv
 
 La différence entre une explication et une excuse tient à ce qui suit. Une explication est suivie d'une **réparation** et d'un **travail** : reconnaître les faits, dire ce qui va être mis en place. Une excuse demande à l'autre de s'adapter indéfiniment.
 
-Et une phrase doit être écrite noir sur blanc : **si le comportement relève du contrôle coercitif ou de la violence, l'origine traumatique n'y change rien, et la priorité devient la sécurité.** Voir le chapitre 7 du guide [La rencontre](<../La rencontre/README.md>) et la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>). Le **3919** et, en danger immédiat, le **17** ou le **114 par SMS**.
+Et une phrase doit être écrite noir sur blanc : **si le comportement relève du contrôle coercitif ou de la violence, l'origine traumatique n'y change rien, et la priorité devient la sécurité.** Voir le chapitre 7 du guide [La rencontre](<../La rencontre/README.md>) et la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>). Le **3919** et, en danger immédiat, le **17** ou le **114 par SMS**. La distinction entre expliquer un comportement par son histoire et l'excuser est centrale dans les protocoles de psychoéducation sur le trauma en contexte de couple (source : Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 

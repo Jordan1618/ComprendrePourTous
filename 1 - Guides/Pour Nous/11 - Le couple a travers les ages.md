@@ -16,7 +16,7 @@ La plupart des tensions d'un couple portent sur des règles qu'aucun des deux n'
 
 Voir que ces règles ont été très différentes ailleurs et avant ne dit pas quoi faire. Cela produit autre chose, de plus utile : **ça rend les règles discutables**. Ce qui paraît naturel ne se négocie pas ; ce qui apparaît comme un choix historique se négocie très bien.
 
-C'est le sens de ce chapitre : déconstruire proprement, c'est-à-dire avec des faits, et non remplacer une norme par une autre.
+C'est le sens de ce chapitre : déconstruire proprement, c'est-à-dire avec des faits, et non remplacer une norme par une autre. Rendre visibles l'origine et la datation des normes conjugales est l'objet même de l'histoire sociale du mariage (source : Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
 
 ### 11.2 Le mariage n'a presque jamais été affaire d'amour
 
@@ -24,7 +24,7 @@ C'est le fait historique le plus contre-intuitif. Pendant l'essentiel de l'histo
 
 L'historienne Stephanie Coontz a documenté ce basculement : l'idée que le mariage devrait reposer sur l'amour s'impose en Occident à partir de la fin du XVIIIe siècle et se généralise au XXe (source : Coontz, *Marriage, a History*, 2005 ; vérification du 6 août 2026).
 
-La conséquence est développée dans [L'amour](<../L amour/README.md>), chapitre 5 : un couple fondé sur un sentiment est plus désirable et plus fragile qu'un couple fondé sur l'économie, puisque la disparition du sentiment dissout la raison d'être. Ce n'est pas que les gens sauraient moins s'engager qu'avant : c'est que le critère a changé.
+La conséquence est développée dans [L'amour](<../L amour/README.md>), chapitre 5 : un couple fondé sur un sentiment est plus désirable et plus fragile qu'un couple fondé sur l'économie, puisque la disparition du sentiment dissout la raison d'être. Ce n'est pas que les gens sauraient moins s'engager qu'avant : c'est que le critère a changé. Stephanie Coontz a montré que l'idée d'un mariage fondé sur l'amour s'impose en Occident à partir de la fin du XVIIIe siècle (source : Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
 
 ### 11.3 La diversité des formes
 
@@ -32,7 +32,7 @@ Un rappel factuel, sans exotisme et sans idéalisation.
 
 Les enquêtes anthropologiques comparatives montrent que la majorité des sociétés répertoriées ont **autorisé** une forme de polygynie, tout en la pratiquant minoritairement — l'écart entre ce qui est permis et ce qui est courant est un point que la vulgarisation escamote souvent. La polyandrie existe, plus rare, documentée notamment dans certaines régions himalayennes. Des sociétés matrilinéaires, où la transmission passe par la lignée maternelle, existent également, comme chez les Minangkabau d'Indonésie ou les Mosuo en Chine.
 
-Deux précautions honnêtes. Ces exemples ne décrivent pas des paradis égalitaires : une société matrilinéaire n'est pas nécessairement une société où les femmes détiennent le pouvoir politique. Et le couple, sous une forme ou une autre, reste l'unité de coopération dominante presque partout — la diversité porte sur ses règles, pas sur son existence.
+Deux précautions honnêtes. Ces exemples ne décrivent pas des paradis égalitaires : une société matrilinéaire n'est pas nécessairement une société où les femmes détiennent le pouvoir politique. Et le couple, sous une forme ou une autre, reste l'unité de coopération dominante presque partout — la diversité porte sur ses règles, pas sur son existence. L'Atlas ethnographique de George Murdock, qui recense les régimes matrimoniaux de plusieurs centaines de sociétés, documente cette diversité (source : Murdock, *Ethnographic Atlas*, University of Pittsburgh Press, 1967 ; vérification du 7 août 2026).
 
 ### 11.4 Ce qui a changé récemment, et vite
 
@@ -42,7 +42,7 @@ Trois transformations, très récentes à l'échelle historique, qui expliquent 
 
 **La maîtrise de la fécondité.** Contraception et légalisation de l'IVG dissocient sexualité et procréation, ce qui déplace la question de l'enfant du registre du destin à celui de la décision.
 
-**L'allongement de la durée.** Un mariage « à vie » n'engageait pas la même durée quand l'espérance de vie était bien plus courte. Rester ensemble cinquante ou soixante ans est une situation historiquement inédite, dont personne n'a hérité le mode d'emploi.
+**L'allongement de la durée.** Un mariage « à vie » n'engageait pas la même durée quand l'espérance de vie était bien plus courte. Rester ensemble cinquante ou soixante ans est une situation historiquement inédite, dont personne n'a hérité le mode d'emploi. En France, la loi du 13 juillet 1965 a permis pour la première fois à une femme mariée d'exercer une profession et d'ouvrir un compte bancaire sans l'autorisation de son mari (source : loi n° 65-570 du 13 juillet 1965 ; vérification du 7 août 2026).
 
 ### 11.5 Ce que ça change pour vous, concrètement
 
@@ -52,7 +52,7 @@ Trois déplacements utiles.
 
 **Il n'existe pas de modèle par défaut.** L'absence de norme unique est une charge — tout est à négocier — mais aussi une liberté : votre couple n'a aucune obligation de ressembler à celui de vos parents ou de vos amis.
 
-**Les règles explicites protègent mieux que les règles supposées.** Les sociétés qui organisaient le couple par la coutume avaient au moins l'avantage de règles connues de tous. Un couple contemporain qui ne discute pas les siennes ne fonctionne pas sans règles : il fonctionne avec des règles implicites, différentes chez chacun, et découvertes au moment du conflit.
+**Les règles explicites protègent mieux que les règles supposées.** Les sociétés qui organisaient le couple par la coutume avaient au moins l'avantage de règles connues de tous. Un couple contemporain qui ne discute pas les siennes ne fonctionne pas sans règles : il fonctionne avec des règles implicites, différentes chez chacun, et découvertes au moment du conflit. Que les couples se donnent des règles explicites plutôt que des règles supposées est cohérent avec les travaux sur la communication et la satisfaction conjugale (source : Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

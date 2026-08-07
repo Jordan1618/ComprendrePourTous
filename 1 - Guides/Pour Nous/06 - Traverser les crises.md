@@ -20,7 +20,7 @@ Trois éléments reviennent dans la littérature sur les couples résilients.
 
 **La souplesse des rôles.** La capacité à échanger temporairement les fonctions — qui gagne l'argent, qui s'occupe du quotidien, qui décide — plutôt que de maintenir une répartition rigide.
 
-**Le maintien de ressources extérieures.** Amis, famille, professionnels. Les couples qui se replient entièrement l'un sur l'autre pendant une crise sont plus fragiles, parce que la totalité de la charge repose sur deux personnes déjà épuisées.
+**Le maintien de ressources extérieures.** Amis, famille, professionnels. Les couples qui se replient entièrement l'un sur l'autre pendant une crise sont plus fragiles, parce que la totalité de la charge repose sur deux personnes déjà épuisées. Le sens partagé donné à une épreuve est l'un des trois facteurs de résilience familiale identifiés par Froma Walsh à partir de l'observation clinique de familles traversant des crises variées (source : Walsh, *Strengthening Family Resilience*, Guilford Press, 2006 ; vérification du 7 août 2026).
 
 ### 6.2 Le piège de l'aidant
 
@@ -34,7 +34,7 @@ Deux conséquences, toutes deux documentées en clinique.
 
 **La disparition du désir.** Difficile de désirer quelqu'un dont on est devenu responsable. Le glissement vers une relation asymétrique éteint le désir bien plus sûrement que la routine.
 
-Le point important : **ce n'est pas un manque d'amour, c'est une erreur de répartition des rôles**, et elle se corrige. Reconnaître qu'on est passé du côté aidant n'est pas une trahison ; c'est la condition pour rester un partenaire.
+Le point important : **ce n'est pas un manque d'amour, c'est une erreur de répartition des rôles**, et elle se corrige. Reconnaître qu'on est passé du côté aidant n'est pas une trahison ; c'est la condition pour rester un partenaire. Le glissement progressif vers un rôle d'aidant, et son coût, sont décrits par le modèle du stress de l'aidant de Leonard Pearlin (source : Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 ### 6.3 Ce qui protège l'aidant
 
@@ -46,7 +46,7 @@ Garder au moins **un domaine entièrement à soi**, non partagé et non négocia
 
 **Nommer la fatigue tôt**, avant l'épuisement. Une formulation qui ne blesse pas : « je t'aime, et je suis fatigué. Ces deux choses sont vraies en même temps et la deuxième ne remet pas la première en cause. »
 
-**Se faire aider soi-même.** Les proches de personnes traumatisées ou dépressives développent fréquemment leur propre détresse. Consulter en tant que conjoint est légitime.
+**Se faire aider soi-même.** Les proches de personnes traumatisées ou dépressives développent fréquemment leur propre détresse. Consulter en tant que conjoint est légitime. Le maintien de ressources personnelles distinctes est l'un des facteurs protecteurs identifiés dans la littérature sur le fardeau de l'aidant (source : Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 ### 6.4 Les signaux d'épuisement d'un couple
 
@@ -58,13 +58,13 @@ Le délitement est rarement soudain. Il donne des signaux dans un ordre assez r�
 
 **Tardifs.** Le mépris — le comportement dont l'effet destructeur est le mieux établi par les travaux de Gottman. L'indifférence à ce que l'autre ressent. La vie parallèle organisée.
 
-Ce n'est pas une fatalité mécanique : chacun de ces signaux est réversible, et d'autant plus facilement qu'il est repéré tôt. Le plus rentable est le premier de la liste — se raconter les petites choses — parce qu'il est à la fois le premier à disparaître et le plus simple à réinstaller.
+Ce n'est pas une fatalité mécanique : chacun de ces signaux est réversible, et d'autant plus facilement qu'il est repéré tôt. Le plus rentable est le premier de la liste — se raconter les petites choses — parce qu'il est à la fois le premier à disparaître et le plus simple à réinstaller. Ces signaux reprennent les quatre comportements dont l'effet destructeur sur le couple est le mieux établi par l'observation (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 6.5 Une question à se poser régulièrement
 
 Une seule, et elle vaut mieux que beaucoup de bilans : **« est-ce que je deviens quelqu'un que j'aime bien, dans cette relation ? »**
 
-Elle est préférable à « est-ce que je suis heureux » — trop global, trop dépendant de l'humeur du jour — et à « est-ce que je l'aime » — qui, on l'a vu, mélange trois systèmes différents. Elle porte sur la seule chose directement observable : ce que la relation fait de vous.
+Elle est préférable à « est-ce que je suis heureux » — trop global, trop dépendant de l'humeur du jour — et à « est-ce que je l'aime » — qui, on l'a vu, mélange trois systèmes différents. Elle porte sur la seule chose directement observable : ce que la relation fait de vous. Ce type de question auto-évaluative rejoint les échelles de satisfaction conjugale utilisées en recherche, qui portent sur le vécu subjectif plus que sur des critères extérieurs (source : Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

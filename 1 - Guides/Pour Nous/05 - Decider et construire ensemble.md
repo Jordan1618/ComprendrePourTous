@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Un projet commun — emménager, s'installer durablement, avoir un enfant, changer de ville — est un chantier. Ce qui fait s'effondrer un chantier, ce n'est presque jamais un désaccord franc : c'est un **accord supposé** qui n'a jamais été vérifié. Chacun a cru que l'autre pensait la même chose, et personne n'a écrit le plan.
 
-Quand des appréhensions ou des séquelles s'ajoutent, le risque augmente : l'un accepte pour éviter le conflit, l'autre croit à un accord sincère.
+Quand des appréhensions ou des séquelles s'ajoutent, le risque augmente : l'un accepte pour éviter le conflit, l'autre croit à un accord sincère. L'absence d'accord explicite avant une décision importante est l'un des facteurs de conflit de couple les mieux documentés (source : Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
 
 ### 5.2 Séparer trois questions qu'on mélange toujours
 
@@ -26,7 +26,7 @@ La plupart des blocages viennent d'une confusion entre trois choses qui demanden
 
 **Le à quelles conditions.** C'est la question la plus utile et la plus négligée. Un refus se transforme souvent en accord conditionnel dès qu'on la pose : « qu'est-ce qu'il faudrait pour que ce soit envisageable ? »
 
-Cette dernière question est l'outil de négociation le plus efficace de ce chapitre. Elle transforme une position figée en liste de conditions, c'est-à-dire en quelque chose de traitable.
+Cette dernière question est l'outil de négociation le plus efficace de ce chapitre. Elle transforme une position figée en liste de conditions, c'est-à-dire en quelque chose de traitable. Séparer le principe, le calendrier et les conditions d'une décision reprend la distinction entre position et intérêt de la négociation raisonnée (source : Fisher & Ury, *Getting to Yes*, Houghton Mifflin, 1981 ; vérification du 7 août 2026).
 
 ### 5.3 Le principe des intérêts plutôt que des positions
 
@@ -38,7 +38,7 @@ Exemple concret. Position : « je veux qu'on garde chacun notre appartement ». 
 
 Ces deux intérêts sont parfaitement conciliables : un logement commun avec une pièce individuelle garantie, ou un calendrier avec une clause de réversibilité explicite. Aucune des deux positions initiales ne permettait de le voir.
 
-**La question qui fait passer des positions aux intérêts** : « qu'est-ce que tu protèges, exactement, en demandant ça ? »
+**La question qui fait passer des positions aux intérêts** : « qu'est-ce que tu protèges, exactement, en demandant ça ? » C'est l'apport central de la méthode de négociation développée au Harvard Negotiation Project (source : Fisher & Ury, *Getting to Yes*, Houghton Mifflin, 1981 ; vérification du 7 août 2026).
 
 ### 5.4 Décider quand l'un des deux a peur
 
@@ -48,7 +48,7 @@ Une appréhension n'est pas un veto, et elle n'est pas non plus un détail à su
 
 **Le fractionnement.** Une grande décision se découpe presque toujours. Emménager peut commencer par deux mois d'essai, ou par un logement qui reste au nom d'un seul avec un accord écrit.
 
-**Le point de contrôle daté.** Décider maintenant qu'on refera le point à une date précise évite les deux écueils symétriques : décider dans l'urgence, ou repousser indéfiniment.
+**Le point de contrôle daté.** Décider maintenant qu'on refera le point à une date précise évite les deux écueils symétriques : décider dans l'urgence, ou repousser indéfiniment. Prévoir explicitement les conditions de sortie d'une décision est documenté comme un facteur qui réduit l'anxiété décisionnelle (source : Gollwitzer, « Implementation intentions: strong effects of simple plans », *American Psychologist*, 1999 ; vérification du 7 août 2026).
 
 ### 5.5 Écrire, même entre personnes qui s'aiment
 
@@ -58,7 +58,7 @@ C'est contre-intuitif et c'est probablement le conseil le plus rentable de ce ch
 
 Le format minimal, en cinq lignes : ce qu'on décide, à partir de quand, qui fait quoi concrètement, ce qui se passe si l'un des deux veut revenir dessus, et quand on refait le point.
 
-Les aspects strictement juridiques et financiers — statuts, indivision, testament, organisation des comptes — sont traités dans le guide [L'amour](<../L amour/README.md>), chapitre 8. Ce chapitre-ci porte sur la **décision**, celui-là sur le **cadre légal**.
+Les aspects strictement juridiques et financiers — statuts, indivision, testament, organisation des comptes — sont traités dans le guide [L'amour](<../L amour/README.md>), chapitre 8. Ce chapitre-ci porte sur la **décision**, celui-là sur le **cadre légal**. Formaliser une décision par écrit réduit l'écart de compréhension entre deux personnes, un effet documenté dans la littérature sur la formation d'intentions (source : Gollwitzer, « Implementation intentions: strong effects of simple plans », *American Psychologist*, 1999 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
