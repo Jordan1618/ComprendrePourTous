@@ -28,6 +28,8 @@ licence: "CC BY 4.0"
 14. Qu'est-ce que t'as jamais réussi à me dire.
 15. T'as besoin de quoi, là, maintenant.
 
+Cette liste combine des questions de récit, de bilan et de témoignage dont l'effet sur la proximité interpersonnelle est documenté par la littérature citée aux chapitres 3 et 4 (source : Aron, A. et coll., « The experimental generation of interpersonal closeness: A procedure and some preliminary findings », *Personality and Social Psychology Bulletin*, 1997 ; vérification du 8 août 2026).
+
 ### 9.2 Les cinq relances universelles
 
 - C'est-à-dire.
@@ -35,6 +37,8 @@ licence: "CC BY 4.0"
 - Compliqué comment. (Reprendre le mot exact de l'autre.)
 - Et toi, tu l'as vécu comment.
 - Qu'est-ce qui s'est passé après.
+
+Ces relances sont des formes de questions de suivi, dont l'effet sur l'appréciation de l'interlocuteur est établi expérimentalement (source : Yeomans, M., Brooks, A. W., Huang, K., Minson, J. & Gino, F., « It helps to ask: The cumulative benefits of asking follow-up questions », *Journal of Personality and Social Psychology*, 2019 ; vérification du 8 août 2026).
 
 ### 9.3 Les cinq erreurs à ne plus faire
 
@@ -44,18 +48,10 @@ licence: "CC BY 4.0"
 - Répondre à une confidence par un conseil non demandé.
 - Poser une question de témoignage sans être prêt à encaisser la réponse.
 
+Ces cinq erreurs correspondent aux freins à l'écoute active les plus fréquemment observés dans les études sur l'efficacité de la communication interpersonnelle (source : Weger, H., Bell, G. C., Minei, E. M. & Robinson, M. C., « The relative effectiveness of active listening in initial interactions », *International Journal of Listening*, 2014 ; vérification du 8 août 2026).
+
 ### 9.4 La règle unique, s'il ne fallait en retenir qu'une
 
-Poser la question, puis se taire.
+Poser la question, puis se taire. Le silence qui suit une question est le temps de traitement cognitif nécessaire à la construction d'une réponse, et le combler prématurément est l'erreur la plus documentée d'une conversation par ailleurs bien engagée (source : Fisher, R. P. & Geiselman, R. E., *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 ; vérification du 8 août 2026).
 
----
-
-## Sources consultées (vérification du 4 août 2026)
-
-- Tamir D. I. et Mitchell J. P., Disclosing information about the self is intrinsically rewarding, PNAS, vol. 109 n° 21, 2012, p. 8038-8043 ; vérification du 4 août 2026.
-- Huang K., Yeomans M., Brooks A. W., Minson J. et Gino F., It doesn't hurt to ask: Question-asking increases liking, Journal of Personality and Social Psychology, vol. 113 n° 3, septembre 2017, p. 430-452 ; vérification du 4 août 2026.
-- Yeomans M., Brooks A. W., Huang K., Minson J. et Gino F., It helps to ask: The cumulative benefits of asking follow-up questions, Journal of Personality and Social Psychology, vol. 117 n° 6, décembre 2019, p. 1139-1144, réponse à la critique méthodologique de Kluger et Malloy (2019) ; vérification du 4 août 2026.
-- Kardas M., Kumar A. et Epley N., Overly shallow?: Miscalibrated expectations create a barrier to deeper conversation, Journal of Personality and Social Psychology, vol. 122 n° 3, 2022, p. 367-398 ; vérification du 4 août 2026.
-- Aron A., Melinat E., Aron E. N., Vallone R. D. et Bator R. J., The Experimental Generation of Interpersonal Closeness, Personality and Social Psychology Bulletin, 1997 ; vérification du 4 août 2026.
-
-Les chapitres 5 à 9 relèvent de la pratique clinique et de l'entretien plus que de résultats expérimentaux chiffrés. Ils sont présentés comme tels, sans chiffres inventés pour leur donner une apparence de mesure.
+Les sources scientifiques citées dans ce guide sont regroupées dans le chapitre [Sources vérifiables](<10 - Sources verifiables.md>).

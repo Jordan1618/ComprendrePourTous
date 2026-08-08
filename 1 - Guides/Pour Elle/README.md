@@ -22,30 +22,30 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 02 | [Le cycle menstruel : anatomie et physiologie de base](<02 - Le cycle menstruel.md>) | physiologie | 2 493 |
-| 03 | [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<03 - Pourquoi les humains menstruent.md>) | physiologie | 1 821 |
-| 04 | [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<04 - La sante emotionnelle feminine.md>) | psychologie | 1 206 |
-| 6 | [La dépression féminine : le visage qu'elle prend](<06 - La depression feminine.md>) | psychologie | 1 461 |
-| 7 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<07 - Anxiete stress et corps.md>) | psychologie | 1 176 |
-| 09 | [La pilule et la contraception hormonale : raisonnement étape par étape](<09 - Contraception hormonale.md>) | prévention | 1 515 |
-| 10 | [Panorama complet des troubles et pathologies du cycle](<10 - Troubles et pathologies du cycle.md>) | physiologie | 5 951 |
-| 11 | [La sexualité féminine : anatomie, réponse sexuelle, troubles](<11 - Sexualité féminine.md>) | relation | 4 819 |
-| 14 | [La grossesse : physiologie et complications](<14 - La grossesse.md>) | physiologie | 2 499 |
-| 14b | [L'accouchement et le post-partum](<14b - Accouchement et post-partum.md>) | physiologie | 2 132 |
-| 19 | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<19 - Les pieges de la modernite.md>) | prévention | 1 087 |
-| 20 | [Les peurs : lesquelles sont fondées, et comment avancer](<20 - Les peurs rationnelles ou non.md>) | prévention | 1 226 |
-| 22 | [Les figures de la recherche en 2026 : qui fait avancer quoi](<22 - La recherche en 2026.md>) | repères | 1 257 |
-| 23 | [Conseils pratiques généraux, au-delà du cas par cas](<23 - Conseils pratiques généraux.md>) | pratique | 1 305 |
-| 24 | [Foire aux questions rapides](<24 - Foire aux questions.md>) | pratique | 471 |
-| 25 | [Ressources et associations utiles](<25 - Ressources et associations.md>) | repères | 275 |
-| 26 | [Glossaire complet des termes médicaux employés dans ce document](<26 - Glossaire des termes médicaux.md>) | repères | 489 |
-| 27 | [Sources vérifiables](<27 - Sources verifiables.md>) | repères | 1 729 |
+| 1 | [Le cycle menstruel : anatomie et physiologie de base](<01 - Le cycle menstruel.md>) | physiologie | 2 493 |
+| 2 | [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<02 - Pourquoi les humains menstruent.md>) | physiologie | 1 821 |
+| 3 | [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<03 - La sante emotionnelle feminine.md>) | psychologie | 1 206 |
+| 4 | [La dépression féminine : le visage qu'elle prend](<04 - La depression feminine.md>) | psychologie | 1 461 |
+| 5 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<05 - Anxiete stress et corps.md>) | psychologie | 1 176 |
+| 6 | [La pilule et la contraception hormonale : raisonnement étape par étape](<06 - Contraception hormonale.md>) | prévention | 1 515 |
+| 7 | [Panorama complet des troubles et pathologies du cycle](<07 - Troubles et pathologies du cycle.md>) | physiologie | 5 951 |
+| 8 | [La sexualité féminine : anatomie, réponse sexuelle, troubles](<08 - Sexualité féminine.md>) | relation | 4 819 |
+| 9 | [La grossesse : physiologie et complications](<09 - La grossesse.md>) | physiologie | 2 499 |
+| 10 | [L'accouchement et le post-partum](<10 - Accouchement et post-partum.md>) | physiologie | 2 132 |
+| 11 | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<11 - Les pieges de la modernite.md>) | prévention | 1 087 |
+| 12 | [Les peurs : lesquelles sont fondées, et comment avancer](<12 - Les peurs rationnelles ou non.md>) | prévention | 1 226 |
+| 13 | [Les figures de la recherche en 2026 : qui fait avancer quoi](<13 - La recherche en 2026.md>) | repères | 1 257 |
+| 14 | [Conseils pratiques généraux, au-delà du cas par cas](<14 - Conseils pratiques généraux.md>) | pratique | 1 305 |
+| 15 | [Foire aux questions rapides](<15 - Foire aux questions.md>) | pratique | 471 |
+| 16 | [Ressources et associations utiles](<16 - Ressources et associations.md>) | repères | 275 |
+| 17 | [Glossaire complet des termes médicaux employés dans ce document](<17 - Glossaire des termes médicaux.md>) | repères | 489 |
+| 18 | [Sources vérifiables](<18 - Sources verifiables.md>) | repères | 1 729 |
 
 Total : 32 912 mots, 18 chapitres.
 
 ## Le guide jumeau
 
-Ce guide a un pendant : [Pour Lui](<../Pour Lui/README.md>). Les deux suivent le même plan, chapitre par chapitre, pour qu'on puisse lire un thème d'un côté puis de l'autre.
+Ce guide a un pendant : [Pour Lui](<../Pour Lui/README.md>). Les deux couvrent les mêmes grandes thématiques (cycle, santé mentale, sexualité, contraception, etc.), pour qu'on puisse lire un thème d'un côté puis de l'autre — mais chaque guide est numéroté dans son propre ordre de lecture, sans correspondance chapitre à chapitre.
 
 ## Sources et mise à jour
 

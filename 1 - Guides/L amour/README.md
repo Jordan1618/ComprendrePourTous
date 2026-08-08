@@ -26,26 +26,26 @@ Le guide dit aussi ce qui n'est **pas** validé. Les langages de l'amour, par ex
 |---|---|---|---|
 | 1 | [Ce que le cerveau appelle amour](<01 - Ce que le cerveau appelle amour.md>) | physiologie | 970 |
 | 2 | [Passion et attachement : deux temps, deux logiques](<02 - Passion et attachement.md>) | physiologie | 808 |
-| 2b | [Les types d'amour : ce que les Grecs avaient déjà démêlé](<02b - Les types d amour.md>) | repères | 1 940 |
-| 3 | [Pourquoi l'amour existe : l'angle évolutionniste](<03 - Pourquoi l amour existe.md>) | physiologie | 795 |
-| 4 | [Ce qu'on rejoue de son histoire](<04 - Ce qu on rejoue de son histoire.md>) | psychologie | 947 |
-| 5 | [L'amour romantique, une invention récente](<05 - L amour romantique une invention recente.md>) | repères | 844 |
-| 6 | [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<06 - Les langages de l amour.md>) | relation | 844 |
-| 7 | [Le désir dans la durée](<07 - Le desir dans la duree.md>) | relation | 890 |
-| 8 | [Ce que l'amour engage concrètement](<08 - Ce que l amour engage.md>) | pratique | 862 |
-| 9 | [Sources vérifiables](<09 - Sources verifiables.md>) | repères | 870 |
+| 3 | [Les types d'amour : ce que les Grecs avaient déjà démêlé](<03 - Les types d amour.md>) | repères | 1 940 |
+| 4 | [Pourquoi l'amour existe : l'angle évolutionniste](<04 - Pourquoi l amour existe.md>) | physiologie | 795 |
+| 5 | [Ce qu'on rejoue de son histoire](<05 - Ce qu on rejoue de son histoire.md>) | psychologie | 947 |
+| 6 | [L'amour romantique, une invention récente](<06 - L amour romantique une invention recente.md>) | repères | 844 |
+| 7 | [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<07 - Les langages de l amour.md>) | relation | 844 |
+| 8 | [Le désir dans la durée](<08 - Le desir dans la duree.md>) | relation | 890 |
+| 9 | [Ce que l'amour engage concrètement](<09 - Ce que l amour engage.md>) | pratique | 862 |
+| 10 | [Sources vérifiables](<10 - Sources verifiables.md>) | repères | 870 |
 
 Total : 9 770 mots, 10 chapitres.
 
 ## Par où commencer
 
-- **Vous ne savez pas nommer ce que vous vivez** : chapitre 2b, sur les types d'amour.
+- **Vous ne savez pas nommer ce que vous vivez** : chapitre 3, sur les types d'amour.
 - **L'intensité du début est retombée et ça vous inquiète** : chapitres 1 et 2.
-- **Vous répétez les mêmes schémas d'une relation à l'autre** : chapitre 4.
-- **Vous avez l'impression que votre couple ne ressemble pas à ce qu'il devrait être** : chapitre 5.
-- **Vous cherchez ce qui fait réellement tenir un couple** : chapitre 6.
-- **Le désir a baissé** : chapitre 7.
-- **Vous vivez à deux sans avoir réglé les questions de statut, d'argent ou de logement** : chapitre 8.
+- **Vous répétez les mêmes schémas d'une relation à l'autre** : chapitre 5.
+- **Vous avez l'impression que votre couple ne ressemble pas à ce qu'il devrait être** : chapitre 6.
+- **Vous cherchez ce qui fait réellement tenir un couple** : chapitre 7.
+- **Le désir a baissé** : chapitre 8.
+- **Vous vivez à deux sans avoir réglé les questions de statut, d'argent ou de logement** : chapitre 9.
 
 ## Autour de ce guide
 
@@ -53,6 +53,6 @@ Total : 9 770 mots, 10 chapitres.
 
 ## Sources et mise à jour
 
-Sources vérifiées au 6 août 2026, regroupées dans le chapitre [Sources vérifiables](<09 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise.
+Sources vérifiées au 6 août 2026, regroupées dans le chapitre [Sources vérifiables](<10 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

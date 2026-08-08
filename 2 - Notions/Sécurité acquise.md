@@ -15,6 +15,6 @@ Ce qui compte pratiquement : c'est la **répétition** qui déplace, pas l'inten
 
 **Où c'est développé**
 - [Les styles d'attachement](<../1 - Guides/La rencontre/02 - Les styles d attachement.md>).
-- [Ce qu'on rejoue de son histoire](<../1 - Guides/L amour/04 - Ce qu on rejoue de son histoire.md>).
+- [Ce qu'on rejoue de son histoire](<../1 - Guides/L amour/05 - Ce qu on rejoue de son histoire.md>).
 
 **Voir aussi** [Style d'attachement](<Style d'attachement.md>).

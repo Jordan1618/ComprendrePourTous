@@ -16,7 +16,7 @@ Tu peux récupérer les données d'un système de deux façons. Tu peux attendre
 
 Le premier mode, c'est la conversation ordinaire. Les gens racontent ce qu'ils ont l'habitude de raconter, dans l'ordre où ils ont l'habitude de le raconter, avec le niveau de détail auquel ils sont habitués. Personne ne livre spontanément ce dont on ne lui a jamais demandé de parler.
 
-Le second mode, c'est la question. Et la différence n'est pas dans la quantité d'information, elle est dans la nature. Une bonne question va chercher quelque chose qui n'est pas dans les logs, parce que ça n'a jamais été écrit nulle part.
+Le second mode, c'est la question. Et la différence n'est pas dans la quantité d'information, elle est dans la nature. Une bonne question va chercher quelque chose qui n'est pas dans les logs, parce que ça n'a jamais été écrit nulle part. L'auto-divulgation en conversation ordinaire suit des normes de réciprocité et de profondeur progressive bien documentées, que la question vient déplacer (source : Altman, I. & Taylor, D. A., *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart & Winston, 1973 ; vérification du 8 août 2026).
 
 Il y a un troisième niveau, et c'est celui qui compte. Certaines requêtes ne se contentent pas de lire. Elles obligent le système à calculer quelque chose qu'il n'avait jamais calculé. La réponse n'existait pas avant la question, elle est produite par elle. C'est le chapitre 4, et c'est là que sont les questions qui changent une vie.
 
@@ -48,6 +48,6 @@ Note bien la nuance de l'étude : la prédiction est plus juste avec les proches
 
 Une question n'est jamais neutre. Elle révèle trois choses en même temps : ce qui t'intéresse chez l'autre, le niveau auquel tu penses pouvoir lui parler, et ce que tu as remarqué.
 
-C'est pour ça qu'une question précise vaut dix compliments. Dire à quelqu'un qu'il est intéressant est une évaluation. Lui demander comment il a fini par bosser dans ce domaine après avoir commencé ailleurs prouve que tu as écouté, retenu, et relié. Le compliment se reçoit poliment. La question précise, elle, se ressent.
+C'est pour ça qu'une question précise vaut dix compliments. Dire à quelqu'un qu'il est intéressant est une évaluation. Lui demander comment il a fini par bosser dans ce domaine après avoir commencé ailleurs prouve que tu as écouté, retenu, et relié. Le compliment se reçoit poliment. La question précise, elle, se ressent. Ce mécanisme correspond à ce que la recherche appelle la réactivité perçue du partenaire, un facteur central de la qualité perçue d'une relation (source : Reis, H. T., Clark, M. S. & Holmes, J. G., « Perceived partner responsiveness as an organizing construct in the study of intimacy and closeness », dans *Handbook of Closeness and Intimacy*, 2004 ; vérification du 8 août 2026).
 
 **💑 Dans le couple.** La quantité de questions posées à son partenaire chute avec la durée de la relation, parce qu'on croit avoir fini de le découvrir. C'est faux et c'est une des façons les plus banales de s'éloigner. Une personne change en permanence, et celle qui vit avec toi depuis cinq ans n'a pas les mêmes réponses qu'il y a cinq ans. Arrêter de demander, c'est décider de vivre avec une version périmée de quelqu'un.

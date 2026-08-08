@@ -14,7 +14,7 @@ Le mécanisme est physiologique, pas psychologique au sens vague. L'érection, p
 D'où le principe de sortie, contre-intuitif : on ne traite pas cette boucle en ajoutant de la stimulation ou de la volonté, mais en **retirant l'enjeu**. Toute mesure qui réduit la portée d'un éventuel échec réduit l'échec lui-même.
 
 **Où c'est développé**
-- [La sexualité masculine](<../1 - Guides/Pour Lui/11 - La sexualite masculine.md>), sur les troubles de l'érection.
-- [Sexualité féminine](<../1 - Guides/Pour Elle/11 - Sexualité féminine.md>).
+- [La sexualité masculine](<../1 - Guides/Pour Lui/10 - La sexualite masculine.md>), sur les troubles de l'érection.
+- [Sexualité féminine](<../1 - Guides/Pour Elle/08 - Sexualité féminine.md>).
 
 **Voir aussi** [Modèle du double contrôle](<Modèle du double contrôle.md>).

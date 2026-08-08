@@ -14,4 +14,4 @@ Une réussite annoncée peut recevoir quatre types de réponse : active et entho
 C'est probablement le levier le plus rentable et le moins utilisé de la vie à deux : il ne demande ni temps ni conversation difficile, seulement de s'intéresser franchement quand quelque chose va bien.
 
 **Où c'est développé**
-- [Les langages de l'amour](<../1 - Guides/L amour/06 - Les langages de l amour.md>), qui distingue ce qui est validé de ce qui ne l'est pas.
+- [Les langages de l'amour](<../1 - Guides/L amour/07 - Les langages de l amour.md>), qui distingue ce qui est validé de ce qui ne l'est pas.

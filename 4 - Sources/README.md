@@ -14,11 +14,14 @@ Toutes les références de la collection, **une page par guide**, chacune class�
 | Guide | Sources | Chapitre de sources dans le guide |
 |---|---|---|
 | [La rencontre](<../1 - Guides/La rencontre/README.md>) | [Sources — La rencontre](<La rencontre.md>) | [oui](<../1 - Guides/La rencontre/10 - Sources verifiables.md>) |
-| [L'amour](<../1 - Guides/L amour/README.md>) | [Sources — L'amour](<L amour.md>) | [oui](<../1 - Guides/L amour/09 - Sources verifiables.md>) |
+| [L'amour](<../1 - Guides/L amour/README.md>) | [Sources — L'amour](<L amour.md>) | [oui](<../1 - Guides/L amour/10 - Sources verifiables.md>) |
 | [Les émotions](<../1 - Guides/Les emotions/README.md>) | [Sources — Les émotions](<Les emotions.md>) | [oui](<../1 - Guides/Les emotions/11 - Sources verifiables.md>) |
 | [Pour Nous](<../1 - Guides/Pour Nous/README.md>) | [Sources — Pour Nous](<Pour Nous.md>) | [oui](<../1 - Guides/Pour Nous/12 - Sources verifiables.md>) |
-| [Pour Elle](<../1 - Guides/Pour Elle/README.md>) | [Sources — Pour Elle](<Pour Elle.md>) | pas encore |
-| [Pour Lui](<../1 - Guides/Pour Lui/README.md>) | [Sources — Pour Lui](<Pour Lui.md>) | pas encore |
+| [Pour Elle](<../1 - Guides/Pour Elle/README.md>) | [Sources — Pour Elle](<Pour Elle.md>) | [oui](<../1 - Guides/Pour Elle/18 - Sources verifiables.md>) |
+| [Pour Lui](<../1 - Guides/Pour Lui/README.md>) | [Sources — Pour Lui](<Pour Lui.md>) | [oui](<../1 - Guides/Pour Lui/22 - Sources verifiables.md>) |
+| [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | [Sources — IST, dépistage et prévention](<IST, depistage et prevention.md>) | [oui](<../1 - Guides/IST, depistage et prevention/07 - Sources verifiables.md>) |
+| [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | [Sources — Massage professionnel](<Massage professionnel.md>) | [oui](<../1 - Guides/Massage professionnel/13 - Sources verifiables.md>) |
+| [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | [Sources — Questions et communication](<Questions et communication.md>) | [oui](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>) |
 
 ## Transversal
 
@@ -30,7 +33,5 @@ Toutes les références de la collection, **une page par guide**, chacune class�
 **Les liens.** Les références institutionnelles pointent vers la page officielle. Pour les travaux de recherche, le DOI n'est donné que lorsqu'il est connu et vérifié ; sinon le lien mène à une recherche sur le titre exact. Un DOI deviné renvoie vers un autre article, et l'erreur serait invisible : une recherche qui aboutit vaut mieux qu'un lien faussement précis.
 
 **Les dates.** Chaque affirmation chiffrée porte sa date de vérification dans le texte du guide. Une donnée sans date est une donnée à revérifier, pas une donnée validée.
-
-**Ce qui manque.** Deux guides — Pour Elle et Pour Lui — n'ont pas encore de chapitre de sources dédié : leurs références sont dans le corps du texte. C'est écrit ici plutôt que dissimulé.
 
 Retour à [l'accueil de Comprendre pour tous](<../README.md>).

@@ -14,7 +14,7 @@ Le mécanisme est cumulatif : les règles d'affichage apprises tôt découragent
 Deux conséquences documentées. Une charge considérable posée sur le couple, qui doit remplir seul des fonctions autrefois réparties sur une communauté. Et une vulnérabilité majeure aux moments de bascule — rupture, perte d'emploi, retraite — qui suppriment d'un coup un rôle et un réseau.
 
 **Où c'est développé**
-- [Le désert relationnel](<../1 - Guides/Pour Lui/16 - Le désert relationnel.md>), en détail.
-- [La santé sur le long terme](<../1 - Guides/Pour Lui/21 - La sante sur le long terme.md>), sur les moments de bascule.
+- [Le désert relationnel](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>), en détail.
+- [La santé sur le long terme](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>), sur les moments de bascule.
 
 **Voir aussi** [Côte à côte](<Côte à côte.md>), [Alexithymie](<Alexithymie.md>).

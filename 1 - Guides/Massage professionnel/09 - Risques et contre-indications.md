@@ -25,6 +25,6 @@ Un tableau qu'un vrai praticien garde en tête en permanence :
 | Varices marquées | Modéré | Massage très léger, jamais de pression profonde directe sur la varice |
 | Grossesse à risque | Variable | Avis médical impératif avant toute séance |
 
-**Effets secondaires bénins possibles** (à connaître pour ne pas s'inquiéter à tort) : courbatures le lendemain, fatigue passagère, petits bleus après un travail profond ou du cupping, parfois maux de tête légers liés à la libération des tensions.
+**Effets secondaires bénins possibles** (à connaître pour ne pas s'inquiéter à tort) : courbatures le lendemain, fatigue passagère, petits bleus après un travail profond ou du cupping, parfois maux de tête légers liés à la libération des tensions. Les effets indésirables du massage sont majoritairement bénins et transitoires, les événements graves restant rares et généralement liés à des contre-indications non respectées (source : Cambron, J. A. et coll., « Adverse events associated with massage therapy: a survey of practitioners », *Journal of Bodywork and Movement Therapies*, 2007 ; vérification du 8 août 2026).
 
 **Le réflexe numéro un à retenir** : dans le doute, on masse plus léger, jamais plus fort. Un massage trop doux ne fait jamais de mal. Un massage trop fort sur la mauvaise zone peut créer un vrai problème (aggravation d'une inflammation, déclenchement d'une douleur nerveuse, etc.).

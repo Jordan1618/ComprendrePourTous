@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Astuces de pro : ce qui fait la différence
 
-1. **Calibrer la pression sur le retour du corps, pas sur une échelle fixe.** Une contraction réflexe, une respiration qui se bloque, une main qui se crispe = signal d'arrêt ou de baisse d'intensité immédiate.
+1. **Calibrer la pression sur le retour du corps, pas sur une échelle fixe.** Une contraction réflexe, une respiration qui se bloque, une main qui se crispe = signal d'arrêt ou de baisse d'intensité immédiate. Les préférences de pression varient fortement d'une personne à l'autre et ne suivent pas une échelle universelle, ce qui justifie un ajustement continu plutôt qu'un protocole fixe (source : Cambron, J. A. et coll., « Amount of massage therapy and pressure preferences: a survey study », *Journal of Bodywork and Movement Therapies*, 2014 ; vérification du 8 août 2026).
 2. **Synchroniser son geste avec la respiration de la personne** : appuyer davantage sur l'expiration (le corps est plus relâché), alléger sur l'inspiration.
 3. **Ne jamais interrompre brutalement le contact.** Une main qui se lève d'un coup casse l'état de relâchement. On retire toujours progressivement, en ralentissant.
 4. **Protéger son propre corps (ergonomie du masseur)** : plier les genoux plutôt que le dos, utiliser le poids du corps plutôt que la seule force des bras, varier les appuis (paume, avant-bras, coude) pour ne pas fatiguer les mêmes articulations.

@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sujet"
-mis_a_jour_le: 2026-08-07
+mis_a_jour_le: 2026-08-08
 licence: "CC BY 4.0"
 ---
 
@@ -15,24 +15,24 @@ Ce qui concerne le corps et le fonctionnement féminins. À lire pour se compren
 
 **Pour Elle**
 
-- [Le cycle menstruel : anatomie et physiologie de base](<../1 - Guides/Pour Elle/02 - Le cycle menstruel.md>)  `physiologie`
-- [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<../1 - Guides/Pour Elle/03 - Pourquoi les humains menstruent.md>)  `physiologie`
-- [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<../1 - Guides/Pour Elle/04 - La sante emotionnelle feminine.md>)  `psychologie`
-- [La dépression féminine : le visage qu'elle prend](<../1 - Guides/Pour Elle/06 - La depression feminine.md>)  `psychologie`
-- [Anxiété, stress et corps : quand la plainte n'est pas entendue](<../1 - Guides/Pour Elle/07 - Anxiete stress et corps.md>)  `psychologie`
-- [La pilule et la contraception hormonale : raisonnement étape par étape](<../1 - Guides/Pour Elle/09 - Contraception hormonale.md>)  `prévention`
-- [Panorama complet des troubles et pathologies du cycle](<../1 - Guides/Pour Elle/10 - Troubles et pathologies du cycle.md>)  `physiologie`
-- [La sexualité féminine : anatomie, réponse sexuelle, troubles](<../1 - Guides/Pour Elle/11 - Sexualité féminine.md>)  `relation`
-- [La grossesse : physiologie et complications](<../1 - Guides/Pour Elle/14 - La grossesse.md>)  `physiologie`
-- [L'accouchement et le post-partum](<../1 - Guides/Pour Elle/14b - Accouchement et post-partum.md>)  `physiologie`
-- [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<../1 - Guides/Pour Elle/19 - Les pieges de la modernite.md>)  `prévention`
-- [Les peurs : lesquelles sont fondées, et comment avancer](<../1 - Guides/Pour Elle/20 - Les peurs rationnelles ou non.md>)  `prévention`
-- [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Elle/22 - La recherche en 2026.md>)  `repères`
-- [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Pour Elle/23 - Conseils pratiques généraux.md>)  `pratique`
-- [Foire aux questions rapides](<../1 - Guides/Pour Elle/24 - Foire aux questions.md>)  `pratique`
-- [Ressources et associations utiles](<../1 - Guides/Pour Elle/25 - Ressources et associations.md>)  `repères`
-- [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/26 - Glossaire des termes médicaux.md>)  `repères`
-- [Sources vérifiables](<../1 - Guides/Pour Elle/27 - Sources verifiables.md>)  `repères`
+- [Le cycle menstruel : anatomie et physiologie de base](<../1 - Guides/Pour Elle/01 - Le cycle menstruel.md>)  `physiologie`
+- [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<../1 - Guides/Pour Elle/02 - Pourquoi les humains menstruent.md>)  `physiologie`
+- [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<../1 - Guides/Pour Elle/03 - La sante emotionnelle feminine.md>)  `psychologie`
+- [La dépression féminine : le visage qu'elle prend](<../1 - Guides/Pour Elle/04 - La depression feminine.md>)  `psychologie`
+- [Anxiété, stress et corps : quand la plainte n'est pas entendue](<../1 - Guides/Pour Elle/05 - Anxiete stress et corps.md>)  `psychologie`
+- [La pilule et la contraception hormonale : raisonnement étape par étape](<../1 - Guides/Pour Elle/06 - Contraception hormonale.md>)  `prévention`
+- [Panorama complet des troubles et pathologies du cycle](<../1 - Guides/Pour Elle/07 - Troubles et pathologies du cycle.md>)  `physiologie`
+- [La sexualité féminine : anatomie, réponse sexuelle, troubles](<../1 - Guides/Pour Elle/08 - Sexualité féminine.md>)  `relation`
+- [La grossesse : physiologie et complications](<../1 - Guides/Pour Elle/09 - La grossesse.md>)  `physiologie`
+- [L'accouchement et le post-partum](<../1 - Guides/Pour Elle/10 - Accouchement et post-partum.md>)  `physiologie`
+- [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<../1 - Guides/Pour Elle/11 - Les pieges de la modernite.md>)  `prévention`
+- [Les peurs : lesquelles sont fondées, et comment avancer](<../1 - Guides/Pour Elle/12 - Les peurs rationnelles ou non.md>)  `prévention`
+- [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Elle/13 - La recherche en 2026.md>)  `repères`
+- [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Pour Elle/14 - Conseils pratiques généraux.md>)  `pratique`
+- [Foire aux questions rapides](<../1 - Guides/Pour Elle/15 - Foire aux questions.md>)  `pratique`
+- [Ressources et associations utiles](<../1 - Guides/Pour Elle/16 - Ressources et associations.md>)  `repères`
+- [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/17 - Glossaire des termes médicaux.md>)  `repères`
+- [Sources vérifiables](<../1 - Guides/Pour Elle/18 - Sources verifiables.md>)  `repères`
 
 ## Corps masculin
 
@@ -49,19 +49,19 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [Anxiété, stress et corps : le circuit court](<../1 - Guides/Pour Lui/07 - Anxiété, stress et corps.md>)  `psychologie`
 - [Le corps masculin : ce qu'il est utile de savoir](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>)  `physiologie`
 - [La contraception masculine : ce qui existe vraiment](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>)  `prévention`
-- [La sexualité masculine : anatomie, réponse, troubles](<../1 - Guides/Pour Lui/11 - La sexualite masculine.md>)  `physiologie`
-- [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/12 - La sexualité comme langage émotionnel.md>)  `relation`
-- [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/13 - Le désir dans la durée.md>)  `relation`
-- [Les âges de la vie masculine](<../1 - Guides/Pour Lui/15 - Les âges de la vie masculine.md>)  `psychologie`
-- [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Pour Lui/16 - Le désert relationnel.md>)  `relation`
-- [Les conflits entre hommes](<../1 - Guides/Pour Lui/16b - Les conflits entre hommes.md>)  `relation`
-- [La boîte à outils de couple](<../1 - Guides/Pour Lui/17 - La boîte à outils de couple.md>)  `relation`
-- [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<../1 - Guides/Pour Lui/17b - Les reproches récurrents.md>)  `relation`
-- [Le dilemme masculin contemporain](<../1 - Guides/Pour Lui/17c - Le dilemme masculin contemporain.md>)  `psychologie`
-- [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Pour Lui/18 - Les limites.md>)  `relation`
-- [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/21 - La sante sur le long terme.md>)  `prévention`
-- [Aide-mémoire](<../1 - Guides/Pour Lui/23 - Aide-mémoire.md>)  `repères`
-- [Sources vérifiables](<../1 - Guides/Pour Lui/24 - Sources verifiables.md>)  `repères`
+- [La sexualité masculine : anatomie, réponse, troubles](<../1 - Guides/Pour Lui/10 - La sexualite masculine.md>)  `physiologie`
+- [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/11 - La sexualité comme langage émotionnel.md>)  `relation`
+- [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/12 - Le désir dans la durée.md>)  `relation`
+- [Les âges de la vie masculine](<../1 - Guides/Pour Lui/13 - Les âges de la vie masculine.md>)  `psychologie`
+- [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>)  `relation`
+- [Les conflits entre hommes](<../1 - Guides/Pour Lui/15 - Les conflits entre hommes.md>)  `relation`
+- [La boîte à outils de couple](<../1 - Guides/Pour Lui/16 - La boîte à outils de couple.md>)  `relation`
+- [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<../1 - Guides/Pour Lui/17 - Les reproches récurrents.md>)  `relation`
+- [Le dilemme masculin contemporain](<../1 - Guides/Pour Lui/18 - Le dilemme masculin contemporain.md>)  `psychologie`
+- [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Pour Lui/19 - Les limites.md>)  `relation`
+- [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>)  `prévention`
+- [Aide-mémoire](<../1 - Guides/Pour Lui/21 - Aide-mémoire.md>)  `repères`
+- [Sources vérifiables](<../1 - Guides/Pour Lui/22 - Sources verifiables.md>)  `repères`
 
 ## Commun
 
@@ -97,14 +97,14 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 
 - [Ce que le cerveau appelle amour](<../1 - Guides/L amour/01 - Ce que le cerveau appelle amour.md>)  `physiologie`
 - [Passion et attachement : deux temps, deux logiques](<../1 - Guides/L amour/02 - Passion et attachement.md>)  `physiologie`
-- [Les types d'amour : ce que les Grecs avaient déjà démêlé](<../1 - Guides/L amour/02b - Les types d amour.md>)  `repères`
-- [Pourquoi l'amour existe : l'angle évolutionniste](<../1 - Guides/L amour/03 - Pourquoi l amour existe.md>)  `physiologie`
-- [Ce qu'on rejoue de son histoire](<../1 - Guides/L amour/04 - Ce qu on rejoue de son histoire.md>)  `psychologie`
-- [L'amour romantique, une invention récente](<../1 - Guides/L amour/05 - L amour romantique une invention recente.md>)  `repères`
-- [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/06 - Les langages de l amour.md>)  `relation`
-- [Le désir dans la durée](<../1 - Guides/L amour/07 - Le desir dans la duree.md>)  `relation`
-- [Ce que l'amour engage concrètement](<../1 - Guides/L amour/08 - Ce que l amour engage.md>)  `pratique`
-- [Sources vérifiables](<../1 - Guides/L amour/09 - Sources verifiables.md>)  `repères`
+- [Les types d'amour : ce que les Grecs avaient déjà démêlé](<../1 - Guides/L amour/03 - Les types d amour.md>)  `repères`
+- [Pourquoi l'amour existe : l'angle évolutionniste](<../1 - Guides/L amour/04 - Pourquoi l amour existe.md>)  `physiologie`
+- [Ce qu'on rejoue de son histoire](<../1 - Guides/L amour/05 - Ce qu on rejoue de son histoire.md>)  `psychologie`
+- [L'amour romantique, une invention récente](<../1 - Guides/L amour/06 - L amour romantique une invention recente.md>)  `repères`
+- [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/07 - Les langages de l amour.md>)  `relation`
+- [Le désir dans la durée](<../1 - Guides/L amour/08 - Le desir dans la duree.md>)  `relation`
+- [Ce que l'amour engage concrètement](<../1 - Guides/L amour/09 - Ce que l amour engage.md>)  `pratique`
+- [Sources vérifiables](<../1 - Guides/L amour/10 - Sources verifiables.md>)  `repères`
 **Les émotions**
 
 - [Comment une émotion se fabrique](<../1 - Guides/Les emotions/01 - Comment une emotion se fabrique.md>)  `physiologie`
@@ -126,6 +126,7 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Herpès génital : la gestion à vie plutôt que la guérison](<../1 - Guides/IST, depistage et prevention/04 - Herpès génital.md>)  `prévention`
 - [Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans](<../1 - Guides/IST, depistage et prevention/05 - Le VIH aujourd'hui.md>)  `prévention`
 - [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<../1 - Guides/IST, depistage et prevention/06 - HPV et vaccination.md>)  `prévention`
+- [Sources vérifiables](<../1 - Guides/IST, depistage et prevention/07 - Sources verifiables.md>)  `repères`
 **Massage professionnel**
 
 - [Le cadre général : ce qui précède la technique](<../1 - Guides/Massage professionnel/01 - Le cadre général.md>)  `pratique`
@@ -140,6 +141,7 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `repères`
 - [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `relation`
 - [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `repères`
+- [Sources vérifiables](<../1 - Guides/Massage professionnel/13 - Sources verifiables.md>)  `repères`
 **Questions et communication**
 
 - [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `psychologie`
@@ -151,6 +153,7 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `relation`
 - [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `relation`
 - [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `repères`
+- [Sources vérifiables](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>)  `repères`
 
 ## Comment cet index est tenu
 

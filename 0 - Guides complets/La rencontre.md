@@ -7,7 +7,7 @@ mots: 13350
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/La rencontre"
-genere_le: 2026-08-07
+genere_le: 2026-08-08
 ---
 
 # La rencontre

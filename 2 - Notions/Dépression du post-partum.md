@@ -16,5 +16,5 @@ Elle concerne aussi les pères et les conjoints, dans des proportions moindres m
 **Point de sécurité** : toute idée de faire du mal à soi-même ou à l'enfant est une urgence. Elle est plus fréquente qu'on ne le dit, elle se traite, et la dire ne fait perdre la garde de personne. **3114**, gratuit, en permanence.
 
 **Où c'est développé**
-- [Accouchement et post-partum](<../1 - Guides/Pour Elle/14b - Accouchement et post-partum.md>).
-- [La dépression féminine](<../1 - Guides/Pour Elle/06 - La depression feminine.md>).
+- [Accouchement et post-partum](<../1 - Guides/Pour Elle/10 - Accouchement et post-partum.md>).
+- [La dépression féminine](<../1 - Guides/Pour Elle/04 - La depression feminine.md>).

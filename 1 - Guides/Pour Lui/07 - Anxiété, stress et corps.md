@@ -1,6 +1,6 @@
 ---
 guide: "Pour Lui"
-chapitre: "07"
+chapitre: "7"
 titre: "Anxiété, stress et corps : le circuit court"
 sujet: "corps masculin"
 angle: "psychologie"
@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Anxiété, stress et corps : le circuit court
 
-### 4.1 La somatisation, ou l'émotion qui prend la porte de service
+### 7.1 La somatisation, ou l'émotion qui prend la porte de service
 
 **L'analogie.** Une maison avec une seule sortie condamnée. L'eau doit bien passer quelque part, alors elle passe par les fissures. Quand le canal verbal d'une émotion est fermé, l'énergie ne disparaît pas, elle emprunte le canal corporel.
 
@@ -26,7 +26,7 @@ Un point important : ces symptômes sont réels. Il ne s'agit pas de douleurs im
 - Repère la chronologie. "Ton dos a commencé quand, exactement ?" est souvent la question qui fait tilt.
 - Encourage les modalités corporelles de régulation, qui passent bien mieux que la parole chez beaucoup d'hommes : sport d'endurance, respiration, sauna, kinésithérapie, massage, cohérence cardiaque. Ce ne sont pas des gadgets, ce sont des voies d'accès. La somatisation d'une détresse psychique non exprimée verbalement est cohérente avec le concept d'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
-### 4.2 Le cœur, le stress et la note à payer
+### 7.2 Le cœur, le stress et la note à payer
 
 Le lien entre stress chronique et pathologie cardiovasculaire est solide. L'hypertension, les troubles du rythme, l'athérosclérose accélérée sont favorisés par une activation prolongée du système de stress. Les hommes cumulent : exposition professionnelle plus élevée, tabac et alcool plus fréquents, dépistage plus tardif, et le facteur émotionnel décrit ici.
 
@@ -35,9 +35,9 @@ C'est l'une des explications de l'écart d'espérance de vie du chapitre 1.4. Le
 **Bons réflexes.**
 
 - Un bilan cardiovasculaire (tension, bilan lipidique, glycémie) est justifié à partir de 40 ans, plus tôt en cas d'antécédents familiaux. C'est le geste de prévention masculin le plus rentable qui existe et le plus souvent négligé.
-- La dysfonction érectile est, sur le plan vasculaire, un symptôme sentinelle : les artères péniennes étant de petit calibre, elles se dégradent avant les coronaires. Le chapitre 5.3 y revient. Ce point vaut la peine d'être connu, il sauve des vies. L'étude internationale INTERHEART a établi un lien entre facteurs de stress psychosocial et risque d'infarctus du myocarde (source : Rosengren et coll., « Association of psychosocial risk factors with risk of acute myocardial infarction in 11119 cases », *The Lancet*, 2004 ; vérification du 7 août 2026).
+- La dysfonction érectile est, sur le plan vasculaire, un symptôme sentinelle : les artères péniennes étant de petit calibre, elles se dégradent avant les coronaires. Le chapitre 8.3 y revient. Ce point vaut la peine d'être connu, il sauve des vies. L'étude internationale INTERHEART a établi un lien entre facteurs de stress psychosocial et risque d'infarctus du myocarde (source : Rosengren et coll., « Association of psychosocial risk factors with risk of acute myocardial infarction in 11119 cases », *The Lancet*, 2004 ; vérification du 7 août 2026).
 
-### 4.3 L'hypervigilance et le sommeil
+### 7.3 L'hypervigilance et le sommeil
 
 Beaucoup d'hommes en surcharge présentent une [hypervigilance](<../../2 - Notions/Hypervigilance.md>) qui ne se voit pas de l'extérieur : ils scannent en permanence l'environnement pour détecter les problèmes à régler. C'est une posture de responsabilité intériorisée, et elle est épuisante.
 

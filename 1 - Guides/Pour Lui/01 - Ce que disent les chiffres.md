@@ -22,7 +22,7 @@ Autrement dit : les femmes appellent plus souvent à l'aide par le geste, et sur
 
 En 2024, environ 16 % des adultes français ont vécu un épisode dépressif caractérisé dans les douze derniers mois : 18 % des femmes, 13 % des hommes (source : Baromètre santé mentale 2024, Santé publique France, publié en novembre 2025 ; vérification du 31 juillet 2026).
 
-Ce chiffre de 13 % est très probablement sous-estimé, et pour une raison structurelle : les outils de dépistage de la dépression ont été construits autour de symptômes qui ne sont pas les plus fréquents chez les hommes. Un questionnaire qui demande "vous sentez-vous triste ?" rate un homme qui, lui, est devenu irritable, insomniaque, hyperactif au travail et qui boit deux verres de plus par soir. Le chapitre 3 détaille ce point, c'est probablement le plus utile du guide.
+Ce chiffre de 13 % est très probablement sous-estimé, et pour une raison structurelle : les outils de dépistage de la dépression ont été construits autour de symptômes qui ne sont pas les plus fréquents chez les hommes. Un questionnaire qui demande "vous sentez-vous triste ?" rate un homme qui, lui, est devenu irritable, insomniaque, hyperactif au travail et qui boit deux verres de plus par soir. Le chapitre 6 détaille ce point, c'est probablement le plus utile du guide.
 
 ### 1.3 Le recours aux soins : le vrai fossé
 
@@ -36,7 +36,7 @@ Retiens l'ordre de grandeur : un homme en souffrance psychique a environ deux fo
 
 En 2025, l'espérance de vie à la naissance atteint 80,3 ans pour les hommes et 85,9 ans pour les femmes, soit un écart de 5,6 ans, contre 8,1 ans en 1995 (source : Insee, bilan démographique 2025 ; vérification du 31 juillet 2026). L'écart se réduit, essentiellement parce que la mortalité masculine liée au tabac et à l'alcool baisse.
 
-Cet écart n'est pas seulement biologique. Il est très largement comportemental : consommation d'alcool et de tabac plus élevée, recours aux soins plus tardif, surexposition aux métiers physiquement dangereux, dépistages moins suivis. Ce sont exactement les mêmes mécanismes que ceux décrits au chapitre 2. Un homme qui n'a pas de circuit de sortie pour sa détresse a un corps qui encaisse à la place, et qui finit par présenter la note.
+Cet écart n'est pas seulement biologique. Il est très largement comportemental : consommation d'alcool et de tabac plus élevée, recours aux soins plus tardif, surexposition aux métiers physiquement dangereux, dépistages moins suivis. Ce sont exactement les mêmes mécanismes que ceux décrits au chapitre 4. Un homme qui n'a pas de circuit de sortie pour sa détresse a un corps qui encaisse à la place, et qui finit par présenter la note.
 
 ### 1.5 Ce que ces chiffres ne disent pas
 
@@ -46,4 +46,4 @@ Ils ne disent pas que ton compagnon est en danger. La grande majorité des homme
 - Le délai entre le début du problème et la demande d'aide est long, souvent des années.
 - La personne qui repère en premier est presque toujours la partenaire. Pas le médecin, pas les amis, pas la famille. Toi.
 
-C'est pour cette raison que ce guide existe, et c'est aussi pour cette raison que le chapitre 10 sur les limites est aussi important que les autres. La sous-déclaration des symptômes dépressifs chez les hommes, et son lien avec le moindre recours à l'aide, sont documentés dans la littérature sur la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
+C'est pour cette raison que ce guide existe, et c'est aussi pour cette raison que le chapitre 19 sur les limites est aussi important que les autres. La sous-déclaration des symptômes dépressifs chez les hommes, et son lien avec le moindre recours à l'aide, sont documentés dans la littérature sur la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).

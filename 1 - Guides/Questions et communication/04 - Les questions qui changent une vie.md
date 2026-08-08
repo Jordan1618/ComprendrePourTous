@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Une question ordinaire va chercher une réponse qui existe. Une question qui change quelque chose oblige à en produire une qui n'existait pas.
 
-Le signe est physique et il est facile à repérer : l'autre s'arrête. Il regarde ailleurs. Il dit attends, ou putain, ou personne m'a jamais demandé ça. Ce silence de deux à cinq secondes est le marqueur le plus fiable qu'il y ait. Il signifie que le calcul est en train de se faire pendant que tu attends.
+Le signe est physique et il est facile à repérer : l'autre s'arrête. Il regarde ailleurs. Il dit attends, ou putain, ou personne m'a jamais demandé ça. Ce silence de deux à cinq secondes est le marqueur le plus fiable qu'il y ait. Il signifie que le calcul est en train de se faire pendant que tu attends, le temps nécessaire à la construction active d'un souvenir autobiographique qui n'existait pas encore sous cette forme (source : Conway, M. A. & Pleydell-Pearce, C. W., « The construction of autobiographical memories in the self-memory system », *Psychological Review*, 2000 ; vérification du 8 août 2026).
 
 Toutes les questions de ce chapitre partagent la même propriété : elles demandent une synthèse que personne n'a jamais commandée.
 
@@ -31,7 +31,7 @@ Les formes qui marchent :
 - Il s'est passé quoi juste avant.
 - Comment tu es passé de là à là.
 
-La dernière est la plus puissante des quatre. Elle prend deux points connus et demande le trajet entre les deux, ce que personne ne demande jamais.
+La dernière est la plus puissante des quatre. Elle prend deux points connus et demande le trajet entre les deux, ce que personne ne demande jamais. Reconstruire une chronologie cohérente est l'un des mécanismes centraux par lesquels la mémoire autobiographique est réorganisée et donne du sens à une trajectoire de vie (source : Conway, M. A. & Pleydell-Pearce, C. W., « The construction of autobiographical memories in the self-memory system », *Psychological Review*, 2000 ; vérification du 8 août 2026).
 
 ### 4.3 Les questions contrefactuelles
 
@@ -42,7 +42,7 @@ Elles demandent d'évaluer un chemin non pris, et elles produisent des réponses
 - Qu'est-ce qui se serait passé si tu étais resté.
 - Tu regrettes ou ça t'a servi.
 
-Attention à la charge. Ces questions manipulent du regret, et le regret est une émotion qui monte vite. Elles se posent quand la relation les porte, pas à un dîner de famille avec dix personnes.
+Attention à la charge. Ces questions manipulent du regret, et le regret est une émotion qui monte vite. Elles se posent quand la relation les porte, pas à un dîner de famille avec dix personnes. La pensée contrefactuelle est un mécanisme cognitif distinct de l'évaluation factuelle, et elle intensifie spécifiquement les émotions de regret (source : Roese, N. J., « Counterfactual thinking », *Psychological Bulletin*, 1997 ; vérification du 8 août 2026).
 
 ### 4.4 Les questions de témoignage, les plus lourdes de toutes
 
@@ -54,7 +54,7 @@ Elles consistent à demander à quelqu'un ce qu'il a vu de toi. C'est la catégo
 - Qu'est-ce que tu aurais fait différemment, avec moi.
 - Y a un truc que t'as jamais réussi à me dire.
 
-Ces questions sont dangereuses au sens propre : elles peuvent ramener quelque chose que tu ne voulais pas savoir. Elles ont donc trois conditions non négociables.
+Ces questions sont dangereuses au sens propre : elles peuvent ramener quelque chose que tu ne voulais pas savoir. Elles ont donc trois conditions non négociables. Demander un témoignage sur soi expose à une évaluation sociale directe, l'une des situations les plus fiablement associées à une activation du stress en laboratoire (source : Dickerson, S. S. & Kemeny, M. E., « Acute stressors and cortisol responses: a theoretical integration and synthesis of laboratory research », *Psychological Bulletin*, 2004 ; vérification du 8 août 2026).
 
 **Première condition.** Tu dois vouloir la réponse, pas une confirmation. Si tu poses la question en espérant du positif, tu vas obtenir du positif, parce que l'autre le sentira, et tu n'auras rien appris.
 
@@ -72,7 +72,7 @@ Elles portent sur l'ensemble d'une vie ou d'une période, et elles ont une propr
 - Qu'est-ce que tu aimerais qu'on dise de toi.
 - Qu'est-ce que tu n'as jamais osé faire.
 
-Elles fonctionnent très bien avec les personnes âgées, qui ont fait le calcul et que personne n'interroge jamais, et elles fonctionnent mal avec les gens pressés, qui n'ont pas le temps de le faire.
+Elles fonctionnent très bien avec les personnes âgées, qui ont fait le calcul et que personne n'interroge jamais, et elles fonctionnent mal avec les gens pressés, qui n'ont pas le temps de le faire. C'est le principe de la revue de vie utilisée en gérontologie, dont les effets bénéfiques sur le bien-être psychologique des personnes âgées sont documentés (source : Butler, R. N., « The life review: An interpretation of reminiscence in the aged », *Psychiatry*, 1963 ; vérification du 8 août 2026).
 
 ### 4.6 La question la plus efficace du lot, et elle est courte
 
@@ -80,7 +80,7 @@ Qu'est-ce que tu aurais aimé qu'on te dise.
 
 Elle marche sur presque tout le monde et dans presque tous les contextes. Elle demande simultanément un souvenir, un manque, et une synthèse. Et elle a une propriété rare : elle est impossible à répondre par un lieu commun.
 
-Elle a une variante encore plus directe pour un parent, un mentor, un ancien : qu'est-ce que tu sais aujourd'hui que tu aurais aimé savoir à mon âge.
+Elle a une variante encore plus directe pour un parent, un mentor, un ancien : qu'est-ce que tu sais aujourd'hui que tu aurais aimé savoir à mon âge. Cette question combine rappel autobiographique et projection contrefactuelle, les deux mécanismes qui rendent une question difficile à répondre par un lieu commun (source : Roese, N. J., « Counterfactual thinking », *Psychological Bulletin*, 1997 ; vérification du 8 août 2026).
 
 ### 4.7 Sur les 36 questions d'Aron
 

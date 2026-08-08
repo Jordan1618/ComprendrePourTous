@@ -23,33 +23,33 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
 | 1 | [Le décor : ce que disent les chiffres](<01 - Ce que disent les chiffres.md>) | repères | 842 |
-| 02 | [Le cycle masculin : ce qui existe vraiment](<02 - Le cycle masculin.md>) | physiologie | 1 112 |
-| 03 | [Le substrat : analyse socio-neuro-psychologique](<03 - Le substrat socio-neuro-psychologique.md>) | psychologie | 2 297 |
-| 04 | [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<04 - L'architecture émotionnelle.md>) | psychologie | 3 261 |
-| 05 | [Les grands profils masculins](<05 - Les grands profils masculins.md>) | psychologie | 1 737 |
-| 06 | [La dépression masculine : le visage qu'elle ne prend pas](<06 - La dépression masculine.md>) | psychologie | 1 456 |
-| 07 | [Anxiété, stress et corps : le circuit court](<07 - Anxiété, stress et corps.md>) | psychologie | 797 |
-| 08 | [Le corps masculin : ce qu'il est utile de savoir](<08 - Le corps masculin.md>) | physiologie | 1 306 |
+| 2 | [Le cycle masculin : ce qui existe vraiment](<02 - Le cycle masculin.md>) | physiologie | 1 112 |
+| 3 | [Le substrat : analyse socio-neuro-psychologique](<03 - Le substrat socio-neuro-psychologique.md>) | psychologie | 2 297 |
+| 4 | [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<04 - L'architecture émotionnelle.md>) | psychologie | 3 261 |
+| 5 | [Les grands profils masculins](<05 - Les grands profils masculins.md>) | psychologie | 1 737 |
+| 6 | [La dépression masculine : le visage qu'elle ne prend pas](<06 - La dépression masculine.md>) | psychologie | 1 456 |
+| 7 | [Anxiété, stress et corps : le circuit court](<07 - Anxiété, stress et corps.md>) | psychologie | 797 |
+| 8 | [Le corps masculin : ce qu'il est utile de savoir](<08 - Le corps masculin.md>) | physiologie | 1 306 |
 | 9 | [La contraception masculine : ce qui existe vraiment](<09 - La contraception masculine.md>) | prévention | 1 188 |
-| 11 | [La sexualité masculine : anatomie, réponse, troubles](<11 - La sexualite masculine.md>) | physiologie | 1 317 |
-| 12 | [La sexualité comme langage émotionnel](<12 - La sexualité comme langage émotionnel.md>) | relation | 1 430 |
-| 13 | [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<13 - Le désir dans la durée.md>) | relation | 1 979 |
-| 15 | [Les âges de la vie masculine](<15 - Les âges de la vie masculine.md>) | psychologie | 1 075 |
-| 16 | [Le désert relationnel : être la seule personne à qui il parle](<16 - Le désert relationnel.md>) | relation | 852 |
-| 16b | [Les conflits entre hommes](<16b - Les conflits entre hommes.md>) | relation | 1 927 |
-| 17 | [La boîte à outils de couple](<17 - La boîte à outils de couple.md>) | relation | 1 254 |
-| 17b | [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<17b - Les reproches récurrents.md>) | relation | 2 458 |
-| 17c | [Le dilemme masculin contemporain](<17c - Le dilemme masculin contemporain.md>) | psychologie | 1 416 |
-| 18 | [Les limites : ce qui n'est pas à soi de porter](<18 - Les limites.md>) | relation | 1 013 |
-| 21 | [La santé sur vingt ans : ce qui compte et quand](<21 - La sante sur le long terme.md>) | prévention | 1 193 |
-| 23 | [Aide-mémoire](<23 - Aide-mémoire.md>) | repères | 949 |
-| 24 | [Sources vérifiables](<24 - Sources verifiables.md>) | repères | 1 352 |
+| 10 | [La sexualité masculine : anatomie, réponse, troubles](<10 - La sexualite masculine.md>) | physiologie | 1 317 |
+| 11 | [La sexualité comme langage émotionnel](<11 - La sexualité comme langage émotionnel.md>) | relation | 1 430 |
+| 12 | [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<12 - Le désir dans la durée.md>) | relation | 1 979 |
+| 13 | [Les âges de la vie masculine](<13 - Les âges de la vie masculine.md>) | psychologie | 1 075 |
+| 14 | [Le désert relationnel : être la seule personne à qui il parle](<14 - Le désert relationnel.md>) | relation | 852 |
+| 15 | [Les conflits entre hommes](<15 - Les conflits entre hommes.md>) | relation | 1 927 |
+| 16 | [La boîte à outils de couple](<16 - La boîte à outils de couple.md>) | relation | 1 254 |
+| 17 | [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<17 - Les reproches récurrents.md>) | relation | 2 458 |
+| 18 | [Le dilemme masculin contemporain](<18 - Le dilemme masculin contemporain.md>) | psychologie | 1 416 |
+| 19 | [Les limites : ce qui n'est pas à soi de porter](<19 - Les limites.md>) | relation | 1 013 |
+| 20 | [La santé sur vingt ans : ce qui compte et quand](<20 - La sante sur le long terme.md>) | prévention | 1 193 |
+| 21 | [Aide-mémoire](<21 - Aide-mémoire.md>) | repères | 949 |
+| 22 | [Sources vérifiables](<22 - Sources verifiables.md>) | repères | 1 352 |
 
 Total : 32 211 mots, 22 chapitres.
 
 ## Le guide jumeau
 
-Ce guide a un pendant : [Pour Elle](<../Pour Elle/README.md>). Les deux suivent le même plan, chapitre par chapitre, pour qu'on puisse lire un thème d'un côté puis de l'autre.
+Ce guide a un pendant : [Pour Elle](<../Pour Elle/README.md>). Les deux couvrent les mêmes grandes thématiques (corps, santé mentale, sexualité, contraception, couple, etc.), pour qu'on puisse lire un thème d'un côté puis de l'autre — mais chaque guide est numéroté dans son propre ordre de lecture, sans correspondance chapitre à chapitre.
 
 ## Sources et mise à jour
 

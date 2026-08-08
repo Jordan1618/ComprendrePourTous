@@ -14,7 +14,7 @@ Cette page rassemble en un seul endroit les situations décrites dans les guides
 
 ## Appeler le 15 sans attendre
 
-Ces situations sont détaillées dans [Conseils pratiques généraux](<../1 - Guides/Pour Elle/23 - Conseils pratiques généraux.md>) du guide sur le cycle.
+Ces situations sont détaillées dans [Conseils pratiques généraux](<../1 - Guides/Pour Elle/14 - Conseils pratiques généraux.md>) du guide sur le cycle.
 
 - Douleur pelvienne brutale et intense, surtout d'un seul côté : torsion d'ovaire, grossesse extra-utérine, kyste compliqué.
 - Douleur abdominale sévère irradiant vers l'épaule, avec malaise : grossesse extra-utérine rompue, hémorragie interne.

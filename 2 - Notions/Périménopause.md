@@ -14,5 +14,5 @@ Manifestations fréquentes : bouffées de chaleur, troubles du sommeil, irritabi
 Le point mal connu : cette période s'accompagne d'un **risque accru d'épisode dépressif**, particulièrement chez celles qui en ont déjà connu. Elle est régulièrement confondue avec une dépression simple, et inversement — d'où l'intérêt de dater les symptômes par rapport aux cycles.
 
 **Où c'est développé**
-- [La santé émotionnelle](<../1 - Guides/Pour Elle/04 - La sante emotionnelle feminine.md>).
-- [La dépression féminine](<../1 - Guides/Pour Elle/06 - La depression feminine.md>).
+- [La santé émotionnelle](<../1 - Guides/Pour Elle/03 - La sante emotionnelle feminine.md>).
+- [La dépression féminine](<../1 - Guides/Pour Elle/04 - La depression feminine.md>).

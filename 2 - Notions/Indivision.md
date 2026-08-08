@@ -16,5 +16,5 @@ La parade est la **convention d'indivision** rédigée chez le notaire, qui fixe
 Rappel utile : le PACS ne rend pas héritier. Sans testament, le partenaire survivant n'hérite de rien, malgré l'exonération de droits de succession dont il bénéficierait.
 
 **Où c'est développé**
-- [Ce que l'amour engage concrètement](<../1 - Guides/L amour/08 - Ce que l amour engage.md>).
+- [Ce que l'amour engage concrètement](<../1 - Guides/L amour/09 - Ce que l amour engage.md>).
 - [Décider et construire ensemble](<../1 - Guides/Pour Nous/05 - Decider et construire ensemble.md>).

@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Massage professionnel"
 sujet: "commun"
-chapitres: 12
-mots: 3683
+chapitres: 13
+mots: 5233
 verifie_le: 2026-07-21
 licence: "CC BY 4.0"
 ---
@@ -22,23 +22,24 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Le cadre général : ce qui précède la technique](<01 - Le cadre général.md>) | pratique | 349 |
-| 2 | [Les grandes familles de massage](<02 - Les grandes familles de massage.md>) | pratique | 482 |
-| 3 | [Les gestes techniques fondamentaux](<03 - Les gestes techniques fondamentaux.md>) | pratique | 265 |
-| 4 | [Outils et produits](<04 - Outils et produits.md>) | pratique | 302 |
-| 5 | [Astuces de pro : ce qui fait la différence](<05 - Astuces de pro.md>) | pratique | 219 |
-| 6 | [Découpage complet par zone du corps](<06 - Découpage par zone du corps.md>) | pratique | 585 |
-| 7 | [Différences hommes / femmes : ce qu'il faut vraiment retenir](<07 - Différences hommes et femmes.md>) | pratique | 150 |
-| 8 | [Femme enceinte : ce qui change vraiment](<08 - Femme enceinte.md>) | pratique | 216 |
-| 9 | [Risques, contre-indications et signaux d'alerte](<09 - Risques et contre-indications.md>) | prévention | 302 |
-| 10 | [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<10 - Orient et Occident.md>) | repères | 183 |
-| 11 | [Le volet intimité de couple](<11 - Intimité de couple.md>) | relation | 395 |
-| 12 | [Pour aller plus loin](<12 - Pour aller plus loin.md>) | repères | 235 |
+| 1 | [Le cadre général : ce qui précède la technique](<01 - Le cadre général.md>) | pratique | 474 |
+| 2 | [Les grandes familles de massage](<02 - Les grandes familles de massage.md>) | pratique | 600 |
+| 3 | [Les gestes techniques fondamentaux](<03 - Les gestes techniques fondamentaux.md>) | pratique | 313 |
+| 4 | [Outils et produits](<04 - Outils et produits.md>) | pratique | 358 |
+| 5 | [Astuces de pro : ce qui fait la différence](<05 - Astuces de pro.md>) | pratique | 288 |
+| 6 | [Découpage complet par zone du corps](<06 - Découpage par zone du corps.md>) | pratique | 841 |
+| 7 | [Différences hommes / femmes : ce qu'il faut vraiment retenir](<07 - Différences hommes et femmes.md>) | pratique | 193 |
+| 8 | [Femme enceinte : ce qui change vraiment](<08 - Femme enceinte.md>) | pratique | 252 |
+| 9 | [Risques, contre-indications et signaux d'alerte](<09 - Risques et contre-indications.md>) | prévention | 363 |
+| 10 | [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<10 - Orient et Occident.md>) | repères | 213 |
+| 11 | [Le volet intimité de couple](<11 - Intimité de couple.md>) | relation | 460 |
+| 12 | [Pour aller plus loin](<12 - Pour aller plus loin.md>) | repères | 173 |
+| 13 | [Sources vérifiables](<13 - Sources verifiables.md>) | repères | 705 |
 
-Total : 3 683 mots, 12 chapitres.
+Total : 5 233 mots, 13 chapitres.
 
 ## Sources et mise à jour
 
-Sources vérifiées au 21 juillet 2026. Les chiffres et recommandations cités portent leur propre date de vérification dans le texte. Un chiffre sans date est un chiffre à revérifier.
+Sources vérifiées au 8 août 2026, regroupées dans le chapitre [Sources vérifiables](<13 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise. Les chiffres et recommandations cités portent leur propre date de vérification dans le texte. Un chiffre sans date est un chiffre à revérifier.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

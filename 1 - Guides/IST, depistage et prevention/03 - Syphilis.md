@@ -17,6 +17,8 @@ La syphilis ("Treponema pallidum") évolue en stades bien définis si elle n'est
 - **Syphilis secondaire** : quelques semaines à mois plus tard, une éruption cutanée diffuse (souvent sur la paume des mains et la plante des pieds, signe assez caractéristique), parfois fièvre, fatigue, ganglions.
 - **Syphilis tertiaire** (des années plus tard, en l'absence de traitement) : atteinte cardiovasculaire, neurologique, les formes les plus graves, aujourd'hui rares grâce au dépistage mais pas éradiquées.
 
+Cette évolution en trois stades, avec des phases de latence entre chacun, est la description clinique de référence de la maladie (source : Peeling, R. W. et coll., « Syphilis », *Nature Reviews Disease Primers*, 2017 ; vérification du 8 août 2026).
+
 Imagine la syphilis comme un signal d'alarme qui sonne une fois puis s'éteint tout seul, alors que le feu couve toujours derrière, le chancre qui disparaît n'est pas une guérison, c'est juste que le corps est passé à la phase suivante.
 
 ### 3.2 Pourquoi elle revient

@@ -14,7 +14,7 @@ Son implication pratique va à l'encontre de tout ce que la culture raconte. Qua
 La conversation qui en découle change de nature : au lieu de « est-ce que tu as encore envie de moi », on liste ce qui, dans les semaines, appuie sur le frein. Cela transforme un procès en inventaire, et met les deux personnes du même côté.
 
 **Où c'est développé**
-- [Le désir dans la durée](<../1 - Guides/L amour/07 - Le desir dans la duree.md>).
-- [Sexualité féminine](<../1 - Guides/Pour Elle/11 - Sexualité féminine.md>).
+- [Le désir dans la durée](<../1 - Guides/L amour/08 - Le desir dans la duree.md>).
+- [Sexualité féminine](<../1 - Guides/Pour Elle/08 - Sexualité féminine.md>).
 
 **Voir aussi** [Désir spontané et désir réactif](<Désir spontané et désir réactif.md>), [Charge mentale](<Charge mentale.md>).

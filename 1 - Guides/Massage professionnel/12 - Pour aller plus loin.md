@@ -14,16 +14,6 @@ licence: "CC BY 4.0"
 - Garde toujours en tête la hiérarchie : **sécurité > consentement > technique**. Un praticien qui maîtrise dix techniques mais qui ne sait pas lire le corps de la personne en face de lui reste moins bon qu'un praticien qui maîtrise trois gestes mais qui écoute parfaitement.
 - Ce document peut servir de base si tu veux, plus tard, construire ta propre fiche de suivi (zones travaillées, retours de la personne, préférences), un peu comme tu structures déjà tes autres projets.
 
-## Sources consultées (vérification du 21 juillet 2026)
-
-- Le Guide Santé, massothérapie, bienfaits et indications
-- COPMED, approche holistique du massage bien-être
-- Aroma-Zone, massage thérapeutique, bienfaits et bonnes pratiques
-- Naturalto Formation, cadre légal du massage thérapeutique en France, contre-indications
-- Clinique PSB, erreurs fréquentes en massothérapie
-- Darius Health, sécurité et signaux d'alerte du massage
-- UNESCO (Patrimoine culturel immatériel), fiche officielle du Nuad Thaï
-- Wikipédia FR, Massage thaï (historique et réglementation)
-- ZenGrowth, Origine.bio, Temana, comparatifs professionnels des huiles de massage
+Les sources scientifiques et institutionnelles citées dans ce guide sont regroupées dans le chapitre [Sources vérifiables](<13 - Sources verifiables.md>).
 
 "Note : ce document est informatif et ne remplace ni une formation certifiante en massothérapie, ni un avis médical."

@@ -1,6 +1,6 @@
 ---
 guide: "Pour Lui"
-chapitre: "04"
+chapitre: "4"
 titre: "L'architecture émotionnelle : comment c'est câblé à l'intérieur"
 sujet: "corps masculin"
 angle: "psychologie"
@@ -12,7 +12,7 @@ licence: "CC BY 4.0"
 
 C'est le chapitre le plus long et le plus dense. Il pose le vocabulaire utilisé partout ailleurs dans le document.
 
-### 2.1 L'alexithymie, ou le daltonisme émotionnel
+### 4.1 L'alexithymie, ou le daltonisme émotionnel
 
 **L'analogie.** Un daltonien ne voit pas moins de lumière qu'un autre. Il reçoit exactement la même quantité de photons. Ce qui lui manque, c'est le récepteur qui permet de distinguer le rouge du vert. Il voit "une couleur", il ne sait pas laquelle. Si tu lui demandes de trier des fils électriques par couleur, il va se tromper, s'énerver, ou refuser la tâche en disant que c'est débile.
 
@@ -38,7 +38,7 @@ Ce qui est en revanche solidement établi, c'est le lien entre alexithymie et ad
 - Passe par la situation. "Tu étais comment quand tu es sorti de la réunion, par rapport à quand tu y es entré ?" Le différentiel est plus accessible que l'état absolu.
 - Ne corrige pas son étiquette. S'il dit "je suis énervé" et que tu vois clairement de la tristesse, ne dis pas "non, tu es triste". Tu viens de lui retirer le seul mot qu'il avait. Accueille l'énervement, et la tristesse remontera d'elle-même plus tard si elle doit remonter.
 
-### 2.2 Le décalage temporel, ou le tonnerre après l'éclair
+### 4.2 Le décalage temporel, ou le tonnerre après l'éclair
 
 **L'analogie.** Tu vois l'éclair, tu comptes, et le tonnerre arrive trois secondes plus tard. Rien d'anormal, juste deux vitesses de propagation différentes.
 
@@ -54,7 +54,7 @@ Concrètement : il apprend une mauvaise nouvelle, il réagit de façon très pla
 - Quand une explosion disproportionnée arrive, remonte le fil au lieu de traiter le contenu. "Il s'est passé quoi cette semaine ?" est plus efficace que "ce n'est pas la chaussette le problème".
 - Ne prends pas la réaction plate du premier jour comme une donnée sur son attachement. Sur le moment, il gère la charge, il ne la ressent pas encore. Ce décalage entre réaction et prise de conscience correspond aux deux voies de traitement de la menace décrites par Joseph LeDoux (source : LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
 
-### 2.3 La colère comme émotion-parapluie
+### 4.3 La colère comme émotion-parapluie
 
 **L'analogie.** Le voyant unique du tableau de bord. Sur certaines vieilles voitures, un seul témoin orange s'allume pour signaler à peu près n'importe quoi : niveau d'huile, capteur défaillant, filtre encrassé, sonde de température. Le voyant ne te dit pas ce qui ne va pas, il te dit seulement que quelque chose ne va pas. Tu ne sais pas si tu peux continuer à rouler ou s'il faut t'arrêter tout de suite.
 
@@ -73,7 +73,7 @@ Un test simple : demande-toi ce qui, dans la situation, pourrait le faire se sen
 - Après le retour au calme, ouvre par le contexte, pas par l'émotion. "C'était quoi le pire moment de la journée ?" plutôt que "pourquoi tu as réagi comme ça ?".
 - Distingue absolument la colère de l'agressivité dirigée. Une colère qui monte, qui s'exprime fort, et qui redescend, c'est une émotion. Une colère qui vise, qui rabaisse, qui casse, qui fait peur, c'est autre chose, et le chapitre 10 en parle sans détour. La colère comme émotion secondaire recouvrant une émotion primaire plus vulnérable est un principe central des thérapies centrées sur l'émotion (source : Greenberg & Paivio, *Working with Emotions in Psychotherapy*, Guilford Press, 1997 ; vérification du 7 août 2026).
 
-### 2.4 Honte et culpabilité : la tache et l'acte
+### 4.4 Honte et culpabilité : la tache et l'acte
 
 **L'analogie.** La culpabilité dit : j'ai fait une tache sur la nappe. La honte dit : je suis la tache. La première laisse une porte de sortie, on nettoie, on répare, on s'excuse. La seconde n'en laisse aucune, parce qu'on ne répare pas ce qu'on est.
 
@@ -92,7 +92,7 @@ Le signe qu'une remarque a touché la honte plutôt que la culpabilité : la ré
 - Quand tu vois de la honte, ajoute explicitement la sortie. "Ça arrive à tout le monde, et ça ne change rien à ce que je pense de toi" n'est pas une politesse creuse, c'est la porte qu'il ne trouve pas seul.
 - Ne moque jamais, même gentiment, même devant des amis, sur une zone de honte. La blague publique sur un sujet sensible est ce qui abîme le plus durablement. La distinction entre honte, qui porte sur l'identité, et culpabilité, qui porte sur un acte, est développée dans les travaux de Brené Brown sur la vulnérabilité (source : Brown, *Daring Greatly*, Gotham Books, 2012 ; vérification du 7 août 2026).
 
-### 2.5 Le code viril et ses règles non écrites
+### 4.5 Le code viril et ses règles non écrites
 
 Il n'y a pas de manuel, mais il y a un règlement. La plupart des hommes l'ont intégré avant dix ans, sans jamais que personne le formule. On peut le résumer en quatre règles :
 
@@ -111,7 +111,7 @@ Ces règles ne sont pas des opinions qu'il aurait choisies. Ce sont des réflexe
 - Valorise ce qu'il est, pas seulement ce qu'il fait. Un homme dont on ne complimente que les résultats devient un homme qui pense n'être aimé que pour ses résultats, et qui s'effondre quand les résultats baissent.
 - Rends la demande d'aide banale plutôt qu'héroïque. "Tu prends rendez-vous quand ?" est plus efficace que "tu devrais vraiment consulter", parce que la première présuppose que c'est normal. Les règles non écrites de la masculinité traditionnelle sont formalisées dans le cadre théorique de Ronald Levant (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
-### 2.6 Le réservoir : pourquoi il déborde d'un coup
+### 4.6 Le réservoir : pourquoi il déborde d'un coup
 
 **L'analogie.** Une baignoire dont le robinet coule en permanence et dont la bonde est trop petite. Chaque contrariété ajoute de l'eau. L'évacuation, elle, est lente : peu de mots, peu de confidents, peu de moments d'évacuation. Le niveau monte lentement, invisiblement, pendant des semaines. Et un jour une goutte de plus fait déborder, et le débordement est spectaculaire et disproportionné par rapport à cette dernière goutte.
 
@@ -125,7 +125,7 @@ C'est exactement le mécanisme du burn-out masculin, et c'est aussi celui des ru
 - Utilise un rituel à horaire fixe et sans enjeu, par exemple pendant la vaisselle ou en marchant. Le fait que ce soit systématique enlève le poids symbolique du "il faut qu'on parle".
 - Surveille les quatre indicateurs les plus fiables : sommeil, alcool, libido, humeur au réveil. Ce sont les jauges du réservoir. La suppression prolongée d'une émotion ne la fait pas disparaître, elle en maintient l'activation physiologique jusqu'à un débordement (source : Gross, « The emerging field of emotion regulation: an integrative review », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
 
-### 2.7 Côte à côte plutôt que face à face
+### 4.7 Côte à côte plutôt que face à face
 
 **L'analogie.** Un interrogatoire se fait face à face, de part et d'autre d'une table. Une confidence se fait côte à côte, dans une voiture, sur un canapé, sur un banc, en marchant.
 
@@ -139,12 +139,12 @@ C'est pour cette raison que les amitiés masculines se construisent autour d'act
 
 - Déplace les conversations difficiles dans la voiture, en promenade, à la cuisine pendant que vous préparez à manger.
 - Occupe les mains. Un homme qui bricole, conduit, marche ou cuisine parle plus qu'un homme assis en face de toi.
-- Accepte les silences longs. Un silence de trente secondes dans ce format n'est pas un blocage, c'est le temps de traitement décrit en 2.2.
+- Accepte les silences longs. Un silence de trente secondes dans ce format n'est pas un blocage, c'est le temps de traitement décrit en 4.2.
 - Ne préviens pas systématiquement à l'avance. "Il faut qu'on parle ce soir" laisse huit heures de montée d'anxiété qui vont fermer la porte avant même la conversation.
 
 Le guide "Questions et communication" (chapitre 6, "Le cadre") généralise cette observation au-delà du masculin : les bonnes fenêtres pour une question profonde, trajet en voiture, marche, tâche manuelle partagée, sont presque toujours des situations où on ne se regarde pas, quel que soit l'interlocuteur. Le mode d'échange côte à côte plutôt que face à face est documenté comme une caractéristique stable des amitiés masculines (source : Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
 
-### 2.8 Ce que "ça va" veut dire
+### 4.8 Ce que "ça va" veut dire
 
 Petit lexique de traduction, à prendre comme une aide et non comme une vérité universelle. La signification exacte dépend de l'homme, mais les registres sont assez stables.
 
@@ -153,4 +153,4 @@ Petit lexique de traduction, à prendre comme une aide et non comme une vérité
 - **"C'est rien."** Souvent : c'est quelque chose, mais je ne veux pas que ça devienne un sujet, parce que si ça devient un sujet je vais devoir en parler et je ne sais pas comment.
 - **"Je gère."** Dans la moitié des cas, il gère. Dans l'autre moitié, c'est la règle 3 du code viril qui parle.
 - **"Fais comme tu veux."** Rarement de l'indifférence. Souvent de l'épuisement décisionnel, ou une manière d'éviter un conflit qu'il ne se sent pas capable de tenir en ce moment.
-- **Le silence prolongé après une dispute.** Presque jamais de la punition, contrairement à ce qui est vécu en face. Le plus souvent une saturation physiologique réelle, décrite au chapitre 9.2. Ce laconisme est cohérent avec le concept d'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+- **Le silence prolongé après une dispute.** Presque jamais de la punition, contrairement à ce qui est vécu en face. Le plus souvent une saturation physiologique réelle, décrite au chapitre 16.2. Ce laconisme est cohérent avec le concept d'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).

@@ -13,7 +13,7 @@ licence: "CC BY 4.0"
 C'est la section la plus importante en matière de sécurité, donc autant être précis.
 
 - **Premier trimestre** : de nombreux praticiens évitent le massage corps entier par précaution (période à risque de fausse couche plus élevé, indépendamment du massage, mais principe de prudence appliqué), un avis médical préalable est recommandé.
-- **À partir du 2e trimestre** : le massage prénatal est globalement bien documenté comme bénéfique (réduction du stress, des douleurs lombaires liées au changement de posture), à condition d'adapter la position.
+- **À partir du 2e trimestre** : le massage prénatal est globalement bien documenté comme bénéfique (réduction du stress, des douleurs lombaires liées au changement de posture), à condition d'adapter la position (source : Field, T. et coll., « Pregnancy massage reduces prematurity, low birthweight and postpartum depression », *Infant Behavior and Development*, 2009 ; vérification du 8 août 2026).
 - **Position** : jamais à plat ventre après le 1er trimestre. Position latérale avec coussins de soutien (sous le ventre, entre les genoux), ou position semi-assise.
 - **Zones à éviter ou à traiter avec une extrême légèreté** :
   - Abdomen : contact très léger uniquement, jamais de pression.

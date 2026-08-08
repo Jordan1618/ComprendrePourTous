@@ -1,6 +1,6 @@
 ---
 guide: "Pour Lui"
-chapitre: "03"
+chapitre: "3"
 titre: "Le substrat : analyse socio-neuro-psychologique"
 sujet: "corps masculin"
 angle: "psychologie"
@@ -10,9 +10,9 @@ licence: "CC BY 4.0"
 
 # Le substrat : analyse socio-neuro-psychologique
 
-Ce chapitre est le socle théorique. Il explique pourquoi les mécanismes du chapitre 2 existent, d'où ils viennent, et ce qui, dedans, est modifiable et ce qui ne l'est pas. C'est aussi le chapitre qui permet de ne pas se tromper de niveau d'explication, ce qui est l'erreur la plus fréquente sur ce sujet.
+Ce chapitre est le socle théorique. Il explique pourquoi les mécanismes du chapitre 4 existent, d'où ils viennent, et ce qui, dedans, est modifiable et ce qui ne l'est pas. C'est aussi le chapitre qui permet de ne pas se tromper de niveau d'explication, ce qui est l'erreur la plus fréquente sur ce sujet.
 
-### 2 bis.1 Trois couches, jamais une seule
+### 3.1 Trois couches, jamais une seule
 
 **L'analogie.** Un mur repeint trois fois. Il y a le plâtre d'origine, une première couche de peinture posée dans l'enfance, une seconde posée à l'adolescence. Quand tu grattes, tu ne trouves pas une explication unique : tu trouves trois strates qui interagissent. Celui qui dit "c'est biologique" ne voit que le plâtre. Celui qui dit "c'est culturel" ne voit que la peinture. Les deux se trompent en même temps.
 
@@ -24,7 +24,7 @@ Toute réaction masculine que tu observes est produite par trois niveaux simulta
 
 La règle pratique : quand une réaction te paraît absurde, cherche d'abord au niveau 3, ensuite au niveau 2, et presque jamais au niveau 1. Ce découpage en plusieurs niveaux d'explication reprend le modèle biopsychosocial proposé en médecine (source : Engel, « The need for a new medical model: a challenge for biomedicine », *Science*, 1977 ; vérification du 7 août 2026).
 
-### 2 bis.2 Ce que la neurobiologie dit vraiment
+### 3.2 Ce que la neurobiologie dit vraiment
 
 Il faut être précis ici, parce que ce champ est l'un des plus déformés par la vulgarisation.
 
@@ -36,13 +36,13 @@ Il faut être précis ici, parce que ce champ est l'un des plus déformés par l
 
 **Ce qui est solide :**
 
-- **Le seuil d'inondation physiologique.** En situation de conflit conjugal, les hommes atteignent en moyenne plus vite un niveau d'activation cardiovasculaire élevé, et redescendent plus lentement. Au-dessus de ce seuil, l'accès au langage élaboré et au raisonnement chute réellement. C'est le mécanisme du disjoncteur décrit en 9.1, et il est mesurable, pas métaphorique.
+- **Le seuil d'inondation physiologique.** En situation de conflit conjugal, les hommes atteignent en moyenne plus vite un niveau d'activation cardiovasculaire élevé, et redescendent plus lentement. Au-dessus de ce seuil, l'accès au langage élaboré et au raisonnement chute réellement. C'est le mécanisme du disjoncteur décrit en 16.1, et il est mesurable, pas métaphorique.
 - **Les systèmes de l'attachement.** L'ocytocine et la vasopressine jouent un rôle central dans le lien de couple chez les mammifères, avec une contribution relativement plus marquée de la vasopressine chez les mâles. Ce n'est pas une différence de capacité d'attachement, c'est une différence de circuit. Point important : ces systèmes s'activent par le contact et la répétition, pas par la déclaration. Un homme se lie par ce qu'il fait avec toi, plus que par ce qu'il te dit.
-- **La récompense et la nouveauté.** Les circuits dopaminergiques répondent fortement à la nouveauté et à la résolution de problème. Cela n'excuse rien sur le plan de la fidélité, mais cela explique en partie pourquoi le mode réparateur (voir 2.5, règle 2) est si spontané : proposer une solution active un circuit de récompense, écouter sans agir n'en active aucun.
+- **La récompense et la nouveauté.** Les circuits dopaminergiques répondent fortement à la nouveauté et à la résolution de problème. Cela n'excuse rien sur le plan de la fidélité, mais cela explique en partie pourquoi le mode réparateur (voir 4.5, règle 2) est si spontané : proposer une solution active un circuit de récompense, écouter sans agir n'en active aucun.
 
 **La conclusion à retenir :** la biologie ne produit pas les comportements masculins que tu observes. Elle produit des pentes légères, que la socialisation transforme en autoroutes. Une pente de 2 % que l'on renforce pendant vingt ans donne un dénivelé considérable. C'est ce qui rend le résultat massif et l'origine faible en même temps. Les effets du contexte social sur les stéroïdes sexuels, et leur caractère modeste comparé à la variation interindividuelle, sont documentés en neuroendocrinologie sociale (source : van Anders & Watson, « Social neuroendocrinology: effects of social contexts and behaviors on sex steroids in humans », *Human Nature*, 2006 ; vérification du 7 août 2026).
 
-### 2 bis.3 La socialisation : comment on fabrique un homme
+### 3.3 La socialisation : comment on fabrique un homme
 
 C'est le niveau explicatif principal, et il opère en quatre temps.
 
@@ -52,11 +52,11 @@ C'est le niveau explicatif principal, et il opère en quatre temps.
 
 **Temps 3 : le groupe de pairs.** Entre huit et quinze ans, le groupe masculin fonctionne sur une hiérarchie explicite et une surveillance permanente. La règle centrale est simple : toute manifestation de faiblesse fait chuter le rang, et une chute de rang coûte cher, socialement et parfois physiquement. Le garçon apprend à masquer en temps réel. Ce n'est pas de l'hypocrisie, c'est une compétence de survie sociale, apprise dans un environnement où elle était réellement nécessaire.
 
-**Temps 4 : la sanction de l'échec.** À l'adolescence puis à l'âge adulte, l'échec masculin est peu accompagné. On ne console pas un garçon qui rate, on lui dit de recommencer. Résultat : l'échec devient un événement identitaire (voir 2.4) et non un événement d'apprentissage.
+**Temps 4 : la sanction de l'échec.** À l'adolescence puis à l'âge adulte, l'échec masculin est peu accompagné. On ne console pas un garçon qui rate, on lui dit de recommencer. Résultat : l'échec devient un événement identitaire (voir 4.4) et non un événement d'apprentissage.
 
 Le psychologue américain William Pollack a proposé pour décrire le produit fini l'expression d'[alexithymie](<../../2 - Notions/Alexithymie.md>) masculine normative : non pas un trouble, mais un état par défaut, statistiquement banal, produit par une éducation qui coupe l'accès aux mots des émotions. C'est probablement le concept le plus utile de tout ce chapitre, parce qu'il déplace la question. Ce n'est pas "qu'est-ce qui ne va pas chez lui", c'est "qu'est-ce qu'on ne lui a jamais appris". Le concept d'alexithymie masculine normative, produite par la socialisation plutôt que par un trouble individuel, a été développé par Ronald Levant (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
-### 2 bis.4 L'attachement, version masculine
+### 3.4 L'attachement, version masculine
 
 Les styles d'attachement se forment dans la petite enfance et structurent ensuite les relations amoureuses. Quatre styles, et leur expression masculine spécifique.
 
@@ -65,24 +65,24 @@ Les styles d'attachement se forment dans la petite enfance et structurent ensuit
 - **Anxieux ou préoccupé.** Moins fréquent chez les hommes, mais loin d'être rare, et particulièrement mal vécu parce qu'il contredit le modèle attendu. Signes : besoin de réassurance permanent, [hypervigilance](<../../2 - Notions/Hypervigilance.md>) aux signes de désamour, jalousie, difficulté à supporter le silence. Chez un homme, ça se déguise souvent en colère ou en contrôle, parce que la demande directe est trop honteuse.
 - **Désorganisé.** Alternance des deux, généralement liée à un environnement précoce à la fois nécessaire et menaçant. C'est le profil qui bénéficie le plus d'un accompagnement professionnel, et le moins d'un effort de couple isolé.
 
-**💑 Dans le couple.** La combinaison la plus fréquente et la plus douloureuse est anxieuse avec évitant. Elle se rapproche, il s'éloigne, elle se rapproche davantage, il s'éloigne davantage. Chacun confirme la peur de l'autre. C'est le schéma poursuite-retrait du 9.1, avec ses racines.
+**💑 Dans le couple.** La combinaison la plus fréquente et la plus douloureuse est anxieuse avec évitant. Elle se rapproche, il s'éloigne, elle se rapproche davantage, il s'éloigne davantage. Chacun confirme la peur de l'autre. C'est le schéma poursuite-retrait du 16.1, avec ses racines.
 
 **Bons réflexes.**
 
 - Avec un évitant, la pression accélère la fuite. Ce qui fonctionne : la constance sans exigence, l'absence de test, et le fait de laisser exister l'espace qu'il demande tout en maintenant clairement ta propre présence. Le message qui le fait bouger n'est pas "montre-moi que tu tiens à moi", c'est "je suis là et je ne disparais pas quand tu prends de la distance".
 - Ne prends pas les styles pour des sentences. L'attachement est modifiable, par la relation elle-même et par le travail thérapeutique. Le terme technique est [sécurité acquise](<../../2 - Notions/Sécurité acquise.md>), et c'est très bien documenté. Les stratégies d'attachement décrites chez l'adulte s'appliquent aux hommes comme aux femmes, avec des expressions parfois modulées par les normes de genre (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
-### 2 bis.5 Le statut comme organisateur central
+### 3.5 Le statut comme organisateur central
 
 Chez la plupart des hommes, il existe un classement interne quasi permanent. Ce n'est pas conscient et ce n'est pas choisi, mais c'est actif : face à un autre homme, une évaluation implicite se fait, sur des critères variables selon les milieux (force, compétence, revenu, culture, aisance sociale, réussite auprès des femmes).
 
 Ce classement a trois conséquences directes :
 
-1. **L'utilité conditionnelle.** La valeur personnelle est ressentie comme dépendante d'une contribution. Un homme qui ne produit rien se vit comme n'ayant rien à offrir, donc rien à faire aimer. C'est la racine de la dépression post-chômage et post-retraite du chapitre 7.
+1. **L'utilité conditionnelle.** La valeur personnelle est ressentie comme dépendante d'une contribution. Un homme qui ne produit rien se vit comme n'ayant rien à offrir, donc rien à faire aimer. C'est la racine de la dépression post-chômage et post-retraite du chapitre 13.
 2. **La difficulté à recevoir.** Recevoir sans contrepartie place en position basse dans le classement. C'est pour cette raison qu'un homme a souvent plus de mal à accepter de l'aide, un cadeau coûteux, ou des soins, qu'à en donner.
-3. **La comparaison douloureuse.** Un ami qui réussit spectaculairement produit un mélange de fierté et de quelque chose de plus sombre, difficile à nommer et honteux à avouer. Voir 8 bis.5. Le statut social comme organisateur des comportements masculins est documenté par la distinction entre deux voies d'accès au rang social, la dominance et le prestige (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+3. **La comparaison douloureuse.** Un ami qui réussit spectaculairement produit un mélange de fierté et de quelque chose de plus sombre, difficile à nommer et honteux à avouer. Voir 15.5. Le statut social comme organisateur des comportements masculins est documenté par la distinction entre deux voies d'accès au rang social, la dominance et le prestige (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
-### 2 bis.6 La double injonction contemporaine
+### 3.6 La double injonction contemporaine
 
 C'est le point que ce guide appelle le dilemme, et c'est probablement ce qui distingue le plus la situation des hommes nés après 1990 de celle de leurs pères.
 
@@ -97,15 +97,15 @@ Le modèle ancien était cohérent et injuste : sois fort, tais-toi, pourvois, d
 
 Ces injonctions ne sont pas toutes contradictoires en théorie, et une partie du travail adulte consiste précisément à tenir les deux bouts. Mais elles sont vécues comme contradictoires par quelqu'un qui n'a pas reçu le mode d'emploi, et à peu près personne ne l'a reçu. Le résultat le plus fréquent n'est pas la révolte, c'est la paralysie : ne rien faire, ne rien dire, ne rien tenter, parce que toute action semble exposer à un reproche.
 
-Cette paralysie est l'un des moteurs principaux du désengagement relationnel masculin décrit en 10 bis.3, et l'un des points d'entrée des discours de ressentiment décrits en 9 ter.3. Cette tension entre normes masculines traditionnelles et attentes contemporaines est décrite dans les travaux fondateurs sur la reconstruction de la masculinité (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+Cette paralysie est l'un des moteurs principaux du désengagement relationnel masculin décrit en 12.3, et l'un des points d'entrée des discours de ressentiment décrits en 18.3. Cette tension entre normes masculines traditionnelles et attentes contemporaines est décrite dans les travaux fondateurs sur la reconstruction de la masculinité (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
-### 2 bis.7 Le carré du blocage
+### 3.7 Le carré du blocage
 
 Pour résumer les six sections précédentes en un schéma utilisable. Quatre éléments qui se renforcent mutuellement :
 
-1. **Pas de mots** (alexithymie normative, 2 bis.3).
+1. **Pas de mots** (alexithymie normative, 3.3).
 2. **Pas de droit** (l'expression est associée à une sanction, temps 2 et 3).
-3. **Pas de lieu** (aucun espace social où déposer, chapitre 8).
+3. **Pas de lieu** (aucun espace social où déposer, chapitre 14).
 4. **Pas de modèle** (aucun homme observé n'a jamais fait autrement).
 
 Retire un seul de ces quatre éléments et le système s'ouvre. C'est exactement ce que fait une bonne relation, et c'est aussi ce que fait une thérapie. Ce n'est pas une question de volonté ou de courage, c'est une question de conditions. Ce blocage cumulé — mots, droit, lieu, modèle — recoupe les obstacles au recours à l'aide identifiés dans la littérature sur la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).

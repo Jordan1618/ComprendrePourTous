@@ -14,5 +14,5 @@ Le mécanisme retenu n'est pas un taux hormonal anormal : les dosages sont gén�
 Ce qui aide au diagnostic : un relevé daté sur deux ou trois cycles, montrant que les symptômes suivent la phase du cycle et disparaissent ensuite. Une impression ne suffit pas, un relevé oui. Des prises en charge existent.
 
 **Où c'est développé**
-- [La santé émotionnelle](<../1 - Guides/Pour Elle/04 - La sante emotionnelle feminine.md>), sur ce que les hormones expliquent réellement.
-- [La dépression féminine](<../1 - Guides/Pour Elle/06 - La depression feminine.md>), parmi les périodes de vulnérabilité.
+- [La santé émotionnelle](<../1 - Guides/Pour Elle/03 - La sante emotionnelle feminine.md>), sur ce que les hormones expliquent réellement.
+- [La dépression féminine](<../1 - Guides/Pour Elle/04 - La depression feminine.md>), parmi les périodes de vulnérabilité.

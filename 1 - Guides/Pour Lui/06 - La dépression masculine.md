@@ -1,6 +1,6 @@
 ---
 guide: "Pour Lui"
-chapitre: "06"
+chapitre: "6"
 titre: "La dépression masculine : le visage qu'elle ne prend pas"
 sujet: "corps masculin"
 angle: "psychologie"
@@ -10,19 +10,19 @@ licence: "CC BY 4.0"
 
 # La dépression masculine : le visage qu'elle ne prend pas
 
-### 3.1 Pourquoi elle passe inaperçue
+### 6.1 Pourquoi elle passe inaperçue
 
 **L'analogie.** Une fuite d'eau dans une maison. Le modèle classique, celui qu'on nous a appris à repérer, c'est la flaque au sol : visible, identifiable, on appelle le plombier. Mais une fuite peut aussi se manifester par une facture d'eau anormale, une tache d'humidité au plafond de l'étage du dessous, une odeur, un carrelage qui se décolle. Si tu ne cherches que la flaque, tu peux vivre trois ans au-dessus d'une fuite.
 
 La dépression masculine est très souvent une fuite sans flaque. Les critères diagnostiques standards mettent en avant la tristesse, les pleurs, le retrait, le ralentissement, la dévalorisation verbalisée. Chez beaucoup d'hommes, la dépression se présente en négatif de tout ça. Le moindre recours au diagnostic et aux soins chez les hommes dépressifs est documenté par une synthèse de la littérature clinique (source : Cochran & Rabinowitz, *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 ; vérification du 7 août 2026).
 
-### 3.2 Le tableau atypique, symptôme par symptôme
+### 6.2 Le tableau atypique, symptôme par symptôme
 
 Voici ce qu'il faut apprendre à voir. Aucun de ces signes pris isolément ne signifie dépression. C'est le regroupement, la persistance au-delà de deux à trois semaines, et le contraste avec l'état antérieur qui font signal.
 
 - **Irritabilité et colère.** Le symptôme le plus fréquent et le plus trompeur. Un homme qui devient sec, cassant, qui s'énerve dans les embouteillages, qui ne supporte plus le bruit des enfants, n'est pas devenu désagréable. Dans le doute, pense dépression avant de penser caractère.
 - **Fuite dans l'activité.** Le contraire du ralentissement attendu. Il travaille plus, il s'inscrit à un troisième sport, il lance un projet, il ne tient plus en place. C'est de l'évitement par saturation : tant que l'agenda est plein, la vie intérieure n'a pas de place pour remonter.
-- **Augmentation des consommations.** Alcool en premier, mais aussi cannabis, tabac, écrans, pornographie, jeux d'argent, achats. Toute consommation qui augmente nettement et sans raison contextuelle est un signal. Le lien [alexithymie](<../../2 - Notions/Alexithymie.md>)-addiction du chapitre 2.1 s'exprime ici : ce sont des régulateurs externes pour une émotion à laquelle il n'accède pas.
+- **Augmentation des consommations.** Alcool en premier, mais aussi cannabis, tabac, écrans, pornographie, jeux d'argent, achats. Toute consommation qui augmente nettement et sans raison contextuelle est un signal. Le lien [alexithymie](<../../2 - Notions/Alexithymie.md>)-addiction du chapitre 4.1 s'exprime ici : ce sont des régulateurs externes pour une émotion à laquelle il n'accède pas.
 - **Prise de risque.** Vitesse au volant, sports à risque, comportements financiers ou sexuels inhabituels. Ce n'est pas toujours une intention suicidaire, mais c'est toujours un rapport dégradé à sa propre valeur.
 - **Plaintes physiques sans cause retrouvée.** Maux de dos, céphalées, troubles digestifs, douleurs thoraciques, acouphènes. C'est le corps qui parle à la place. Un homme fera dix fois plus facilement une consultation pour un mal de dos que pour un moral en berne.
 - **Effondrement de la libido, ou au contraire compulsivité sexuelle.** Les deux extrêmes sont des signaux.
@@ -31,13 +31,13 @@ Voici ce qu'il faut apprendre à voir. Aucun de ces signes pris isolément ne si
 - **Cynisme et désengagement.** Un homme qui trouve soudain que tout est vain, que rien n'a de sens, que les gens sont médiocres, ne fait pas nécessairement une crise philosophique.
 - **Perte d'accès au plaisir.** Le seul symptôme classique qui reste très fiable. S'il ne prend plus de plaisir aux choses qu'il aimait vraiment, c'est un signe majeur, quelle que soit la façade. La présentation atypique de la dépression masculine — irritabilité, prise de risque, hausse de la consommation d'alcool — est décrite dans cette même synthèse (source : Cochran & Rabinowitz, *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 ; vérification du 7 août 2026).
 
-### 3.3 Le facteur déclenchant typique
+### 6.3 Le facteur déclenchant typique
 
-Les déclencheurs les plus fréquents d'un épisode dépressif masculin sont ceux qui touchent aux règles du chapitre 2.5 : perte d'emploi ou déclassement professionnel, échec d'un projet, séparation, problème financier, maladie ou blessure qui limite le corps, départ à la retraite, naissance d'un enfant, décès d'un parent (surtout du père). Le point commun : tous attaquent l'utilité perçue ou le statut.
+Les déclencheurs les plus fréquents d'un épisode dépressif masculin sont ceux qui touchent aux règles du chapitre 4.5 : perte d'emploi ou déclassement professionnel, échec d'un projet, séparation, problème financier, maladie ou blessure qui limite le corps, départ à la retraite, naissance d'un enfant, décès d'un parent (surtout du père). Le point commun : tous attaquent l'utilité perçue ou le statut.
 
 Un homme qui perd son travail ne perd pas seulement un revenu. Dans son système intériorisé, il perd la justification de son existence. Il faut prendre cette phrase au sérieux, elle n'est pas exagérée. Les facteurs déclenchants les plus fréquents de la dépression masculine sont documentés dans la même synthèse clinique (source : Cochran & Rabinowitz, *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 ; vérification du 7 août 2026).
 
-### 3.4 Le risque suicidaire : ce qu'il faut savoir précisément
+### 6.4 Le risque suicidaire : ce qu'il faut savoir précisément
 
 Ce passage n'est pas un avertissement de forme. C'est de l'information de sécurité, et elle est actionnable.
 
@@ -60,7 +60,7 @@ Les hommes présentent un risque de décès par suicide environ trois fois supé
 - **En cas de danger immédiat, appeler le 15.** Un passage à l'acte imminent est une urgence médicale, pas une question de couple.
 - **Réduire l'accès aux moyens.** Si tu sais qu'il y a chez vous quelque chose de dangereux et accessible, éloigne-le, sans en faire un sujet de négociation.
 
-### 3.5 Comment ouvrir la porte sans la forcer
+### 6.5 Comment ouvrir la porte sans la forcer
 
 Une conversation qui commence par "je crois que tu es dépressif" échoue à peu près toujours, parce qu'elle arrive comme un diagnostic, donc comme un verdict sur ce qu'il est, donc en zone de honte.
 

@@ -2,8 +2,8 @@
 type: "guide"
 guide: "IST, dépistage et prévention"
 sujet: "commun"
-chapitres: 6
-mots: 2846
+chapitres: 7
+mots: 4132
 verifie_le: 2026-07-27
 licence: "CC BY 4.0"
 ---
@@ -22,17 +22,18 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Comprendre les IST : panorama et transmission](<01 - Panorama et transmission.md>) | prévention | 596 |
-| 2 | [Chlamydia et gonorrhée : les deux plus fréquentes, souvent silencieuses](<02 - Chlamydia et gonorrhée.md>) | prévention | 454 |
-| 3 | [Syphilis : la grande oubliée qui revient en force](<03 - Syphilis.md>) | prévention | 367 |
-| 4 | [Herpès génital : la gestion à vie plutôt que la guérison](<04 - Herpès génital.md>) | prévention | 446 |
-| 5 | [Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans](<05 - Le VIH aujourd'hui.md>) | prévention | 492 |
-| 6 | [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<06 - HPV et vaccination.md>) | prévention | 491 |
+| 1 | [Comprendre les IST : panorama et transmission](<01 - Panorama et transmission.md>) | prévention | 775 |
+| 2 | [Chlamydia et gonorrhée : les deux plus fréquentes, souvent silencieuses](<02 - Chlamydia et gonorrhée.md>) | prévention | 514 |
+| 3 | [Syphilis : la grande oubliée qui revient en force](<03 - Syphilis.md>) | prévention | 419 |
+| 4 | [Herpès génital : la gestion à vie plutôt que la guérison](<04 - Herpès génital.md>) | prévention | 589 |
+| 5 | [Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans](<05 - Le VIH aujourd'hui.md>) | prévention | 624 |
+| 6 | [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<06 - HPV et vaccination.md>) | prévention | 538 |
+| 7 | [Sources vérifiables](<07 - Sources verifiables.md>) | repères | 673 |
 
-Total : 2 846 mots, 6 chapitres.
+Total : 4 132 mots, 7 chapitres.
 
 ## Sources et mise à jour
 
-Sources vérifiées au 27 juillet 2026. Les chiffres et recommandations cités portent leur propre date de vérification dans le texte. Un chiffre sans date est un chiffre à revérifier.
+Sources vérifiées au 8 août 2026, regroupées dans le chapitre [Sources vérifiables](<07 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise. Les chiffres et recommandations cités portent leur propre date de vérification dans le texte. Un chiffre sans date est un chiffre à revérifier.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

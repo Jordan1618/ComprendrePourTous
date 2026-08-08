@@ -12,6 +12,8 @@ licence: "CC BY 4.0"
 
 ### 2.1 Écoles occidentales
 
+L'efficacité du massage sur la réduction du stress, de l'anxiété et de la douleur musculaire est établie par plusieurs synthèses de la littérature, avec un niveau de preuve variable selon la technique et l'indication (source : Moyer, C. A., Rounds, J. & Hannum, J. W., « A meta-analysis of massage therapy research », *Psychological Bulletin*, 2004 ; vérification du 8 août 2026).
+
 | Méthode | Origine | Principe | Pression | Objectif principal |
 |---|---|---|---|---|
 | **Massage suédois** | Europe du Nord, 19e s. | Gestes fluides et enveloppants (effleurage, pétrissage) | Légère à moyenne | Détente générale, circulation |
@@ -34,4 +36,4 @@ licence: "CC BY 4.0"
 | **Lomi Lomi** | Hawaï | Mouvements amples avec avant-bras, très fluides, presque dansés | Approche holistique corps-esprit |
 | **Watsu** | Fusion shiatsu + eau (Californie, inspiré du Japon) | Mobilisations et étirements en piscine à 35°C | Nécessite un cadre aquatique spécifique |
 
-**Point de vigilance culturel** : beaucoup de ces méthodes reposent sur des cadres théoriques (méridiens, doshas, éléments) qui ne sont pas validés par la médecine occidentale factuelle, même si leurs effets pratiques (détente, relâchement musculaire, effet placebo positif) sont eux bien documentés. Un bon praticien sait faire la différence entre "ce geste fonctionne et fait du bien" et "ce geste soigne une maladie via un mécanisme énergétique prouvé", les deux affirmations n'ont pas le même niveau de preuve.
+**Point de vigilance culturel** : beaucoup de ces méthodes reposent sur des cadres théoriques (méridiens, doshas, éléments) qui ne sont pas validés par la médecine occidentale factuelle, même si leurs effets pratiques (détente, relâchement musculaire, effet placebo positif) sont eux bien documentés. Un bon praticien sait faire la différence entre "ce geste fonctionne et fait du bien" et "ce geste soigne une maladie via un mécanisme énergétique prouvé", les deux affirmations n'ont pas le même niveau de preuve. L'absence de validation scientifique des cadres théoriques énergétiques (méridiens, doshas) tout en reconnaissant des bénéfices cliniques mesurables sur la détente est une conclusion récurrente des revues systématiques sur les médecines complémentaires (source : Ernst, E., « The safety of massage therapy », *Rheumatology*, 2003 ; vérification du 8 août 2026).

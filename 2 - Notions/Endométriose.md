@@ -14,7 +14,7 @@ Le point qui compte le plus : **le délai entre les premiers symptômes et le di
 Ce qui n'est pas normal et justifie de consulter : des règles qui empêchent de travailler ou d'aller en cours, des douleurs pendant les rapports, des douleurs digestives ou urinaires rythmées par le cycle, une infertilité inexpliquée. L'intensité de la douleur ne prédit pas l'étendue des lésions, et l'inverse est vrai aussi.
 
 **Où c'est développé**
-- [Troubles et pathologies du cycle](<../1 - Guides/Pour Elle/10 - Troubles et pathologies du cycle.md>), en détail.
-- [Anxiété, stress et corps](<../1 - Guides/Pour Elle/07 - Anxiete stress et corps.md>), sur la plainte renvoyée au stress.
+- [Troubles et pathologies du cycle](<../1 - Guides/Pour Elle/07 - Troubles et pathologies du cycle.md>), en détail.
+- [Anxiété, stress et corps](<../1 - Guides/Pour Elle/05 - Anxiete stress et corps.md>), sur la plainte renvoyée au stress.
 
 **Voir aussi** [Charge mentale](<Charge mentale.md>).

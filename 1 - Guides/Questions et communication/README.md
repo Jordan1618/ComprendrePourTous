@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Questions et communication"
 sujet: "commun"
-chapitres: 9
-mots: 5893
+chapitres: 10
+mots: 8737
 verifie_le: 2026-08-05
 licence: "CC BY 4.0"
 ---
@@ -24,20 +24,21 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Ce qu'une question fait vraiment](<01 - Ce qu'une question fait vraiment.md>) | psychologie | 936 |
-| 2 | [L'anatomie d'une question](<02 - L'anatomie d'une question.md>) | pratique | 968 |
-| 3 | [Les six familles de questions](<03 - Les six familles de questions.md>) | repères | 414 |
-| 4 | [Les questions qui changent une vie](<04 - Les questions qui changent une vie.md>) | relation | 1 003 |
-| 5 | [Les émotions en jeu](<05 - Les émotions en jeu.md>) | psychologie | 756 |
-| 6 | [Le cadre](<06 - Le cadre.md>) | pratique | 534 |
-| 7 | [Les questions difficiles avec les proches](<07 - Les questions difficiles avec les proches.md>) | relation | 444 |
-| 8 | [Recevoir la réponse](<08 - Recevoir la réponse.md>) | relation | 362 |
-| 9 | [Boîte à outils](<09 - Boîte à outils.md>) | repères | 476 |
+| 1 | [Ce qu'une question fait vraiment](<01 - Ce qu'une question fait vraiment.md>) | psychologie | 1 046 |
+| 2 | [L'anatomie d'une question](<02 - L'anatomie d'une question.md>) | pratique | 1 176 |
+| 3 | [Les six familles de questions](<03 - Les six familles de questions.md>) | repères | 734 |
+| 4 | [Les questions qui changent une vie](<04 - Les questions qui changent une vie.md>) | relation | 1 289 |
+| 5 | [Les émotions en jeu](<05 - Les émotions en jeu.md>) | psychologie | 1 000 |
+| 6 | [Le cadre](<06 - Le cadre.md>) | pratique | 751 |
+| 7 | [Les questions difficiles avec les proches](<07 - Les questions difficiles avec les proches.md>) | relation | 604 |
+| 8 | [Recevoir la réponse](<08 - Recevoir la réponse.md>) | relation | 606 |
+| 9 | [Boîte à outils](<09 - Boîte à outils.md>) | repères | 495 |
+| 10 | [Sources vérifiables](<10 - Sources verifiables.md>) | repères | 1 036 |
 
-Total : 5 893 mots, 9 chapitres.
+Total : 8 737 mots, 10 chapitres.
 
 ## Sources et mise à jour
 
-Sources vérifiées au 4 août 2026, listées en fin de chapitre 9. Les chapitres 5 à 9 relèvent pour partie de la pratique clinique et de l'entretien plus que de résultats expérimentaux chiffrés ; c'est signalé comme tel dans le texte plutôt que présenté avec une fausse précision.
+Sources vérifiées au 8 août 2026, regroupées dans le chapitre [Sources vérifiables](<10 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).
