@@ -35,16 +35,56 @@
   }
 
   /* ------------------------------- avis et contact (sans serveur) ----- */
-  /* Le site est statique : il ne peut rien enregistrer ni envoyer. Les
-     boutons composent un message pre-rempli dans la messagerie du visiteur.
-     L'adresse est assemblee ici plutot qu'ecrite dans le HTML, pour ne pas
-     etre aspiree telle quelle par les robots collecteurs. */
+  /* Le site reste statique : aucun compte, aucune base de donnees. Le
+     formulaire et les boutons d'avis envoient directement le message par
+     e-mail via Web3Forms (https://web3forms.com), qui ne fait que relayer
+     vers l'adresse verifiee de l'auteur. Voir /confidentialite/#formulaire. */
   var MAIL = ["jordan.poncetpro", "gmail.com"].join("@");
+  /* Cle publique Web3Forms, decoupee pour ne pas apparaitre en clair dans le
+     texte source. Elle n'autorise que l'envoi vers l'adresse verifiee lors
+     de la creation du compte Web3Forms, jamais la lecture des messages :
+     ce n'est pas un secret a proteger, juste une valeur qu'on evite de
+     laisser trivialement recopiable par un robot. */
+  var WEB3FORMS_KEY = ["daada50b", "bc23", "4a7b", "b7f2", "30632276cf6c"].join("-");
+  var WEB3FORMS_URL = "https://api.web3forms.com/submit";
+  var RATE_LIMIT_MS = 30000; /* un envoi toutes les 30 secondes maximum */
 
-  function ouvrirMessage(sujet, corps) {
-    window.location.href = "mailto:" + MAIL +
-      "?subject=" + encodeURIComponent(sujet) +
-      "&body=" + encodeURIComponent(corps);
+  function peutEnvoyer() {
+    try {
+      var dernier = parseInt(localStorage.getItem("cpt_last_send") || "0", 10);
+      return (Date.now() - dernier) > RATE_LIMIT_MS;
+    } catch (e) { return true; }
+  }
+  function noterEnvoi() {
+    try { localStorage.setItem("cpt_last_send", String(Date.now())); } catch (e) {}
+  }
+
+  /* Envoie un message via Web3Forms. `champHoneypot` doit rester vide : s'il
+     est rempli, c'est un robot, et on simule un succes sans rien envoyer. */
+  function envoyerFormulaire(opts, onDone) {
+    if (opts.honeypot) { onDone(true); return; }
+    if (!opts.message) { onDone(false, "Ecrivez d'abord un message."); return; }
+    if (!peutEnvoyer()) {
+      onDone(false, "Merci de patienter quelques secondes avant un nouvel envoi.");
+      return;
+    }
+    if (WEB3FORMS_KEY.indexOf("REMPLACER") === 0) {
+      onDone(false, "Formulaire pas encore relie (cle manquante). Ecrivez directement a " + MAIL + ".");
+      return;
+    }
+    noterEnvoi();
+    fetch(WEB3FORMS_URL, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", "Accept": "application/json" },
+      body: JSON.stringify({
+        access_key: WEB3FORMS_KEY,
+        subject: opts.subject,
+        message: opts.message,
+        from_name: opts.nom || "Site Comprendre pour tous"
+      })
+    }).then(function (r) { return r.json(); })
+      .then(function (data) { onDone(!!data.success, data.success ? null : "Envoi impossible pour le moment."); })
+      .catch(function () { onDone(false, "Envoi impossible (hors ligne ?). Ecrivez a " + MAIL + "."); });
   }
 
   var LIBELLES = {
@@ -54,40 +94,95 @@
     ajout:     ["Proposition d'ajout", "Je propose un ajout sur cette page.\n\nSujet propose :\n\nPourquoi ce serait utile :\n"]
   };
 
-  document.querySelectorAll(".feedback .fb").forEach(function (btn) {
-    btn.addEventListener("click", function () {
-      var bloc = btn.closest(".feedback");
-      var titre = bloc.getAttribute("data-title") || document.title;
-      var url = bloc.getAttribute("data-url") || location.pathname;
-      var l = LIBELLES[btn.getAttribute("data-avis")] || LIBELLES.utile;
-      ouvrirMessage(
-        "[Comprendre pour tous] " + l[0] + " \u2014 " + titre,
-        l[1] + "\n\n---\nPage : " + titre + "\n" + location.origin + url + "\n"
-      );
-      var note = bloc.querySelector(".feedback-note");
-      if (note) {
-        note.textContent = "Un message vient de s'ouvrir dans votre messagerie. "
-          + "S'il ne s'ouvre pas, ecrivez a " + MAIL + ".";
-      }
+  function brancherCompteur(textarea, compteur, max) {
+    if (!textarea || !compteur) return;
+    textarea.addEventListener("input", function () {
+      compteur.textContent = String(Math.min(textarea.value.length, max));
     });
+  }
+
+  document.querySelectorAll(".feedback").forEach(function (bloc) {
+    var panneau = bloc.querySelector(".feedback-panel");
+    var texte = bloc.querySelector(".fb-msg");
+    var nomChamp = bloc.querySelector(".fb-nom");
+    var hp = bloc.querySelector(".fb-hp-input");
+    var compteurN = bloc.querySelector(".fb-count-n");
+    var note = bloc.querySelector(".feedback-note");
+    var typeCourant = "utile";
+
+    brancherCompteur(texte, compteurN, 2000);
+
+    bloc.querySelectorAll(".fb").forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        typeCourant = btn.getAttribute("data-avis") || "utile";
+        var l = LIBELLES[typeCourant] || LIBELLES.utile;
+        if (panneau) {
+          panneau.hidden = false;
+          if (texte) {
+            texte.value = l[1];
+            texte.focus();
+            if (compteurN) compteurN.textContent = String(texte.value.length);
+          }
+        }
+      });
+    });
+
+    var annuler = bloc.querySelector(".fb-cancel");
+    if (annuler) {
+      annuler.addEventListener("click", function () { panneau.hidden = true; });
+    }
+
+    if (panneau) {
+      panneau.addEventListener("submit", function (e) {
+        e.preventDefault();
+        var titre = bloc.getAttribute("data-title") || document.title;
+        var url = bloc.getAttribute("data-url") || location.pathname;
+        var l = LIBELLES[typeCourant] || LIBELLES.utile;
+        var nom = nomChamp ? nomChamp.value.trim() : "";
+        var msg = texte ? texte.value.trim() : "";
+        var corps = (nom || "Un\u00b7e visiteur\u00b7se") + " a dit \u00ab\u00a0" + msg + "\u00a0\u00bb"
+          + "\n\n---\nType : " + l[0] + "\nPage : " + titre + "\n" + location.origin + url;
+        envoyerFormulaire({
+          subject: "[Comprendre pour tous] " + l[0] + " \u2014 " + titre,
+          message: corps,
+          nom: nom,
+          honeypot: hp ? hp.value : ""
+        }, function (ok, erreur) {
+          if (note) {
+            note.textContent = ok
+              ? "Message envoy\u00e9, merci !"
+              : (erreur || "Envoi impossible pour le moment.");
+          }
+          if (ok && panneau) { panneau.hidden = true; panneau.reset(); }
+        });
+      });
+    }
   });
 
   var cf = document.getElementById("contact-form");
   if (cf) {
+    brancherCompteur(document.getElementById("cf-message"), document.getElementById("cf-count-n"), 4000);
     cf.addEventListener("submit", function (e) {
       e.preventDefault();
       var sujet = document.getElementById("cf-sujet").value;
       var page = document.getElementById("cf-page").value.trim();
+      var nom = document.getElementById("cf-nom").value.trim();
       var msg = document.getElementById("cf-message").value.trim();
+      var hp = document.getElementById("cf-hp");
       var info = document.getElementById("cf-fallback");
-      if (!msg) {
-        info.textContent = "Ecrivez d'abord un message.";
-        return;
-      }
-      ouvrirMessage("[Comprendre pour tous] " + sujet,
-                    msg + (page ? "\n\n---\nPage concernee : " + page : ""));
-      info.textContent = "Un message vient de s'ouvrir dans votre messagerie. "
-        + "S'il ne s'ouvre pas, ecrivez directement a " + MAIL + ".";
+      var corps = (nom || "Un\u00b7e visiteur\u00b7se") + " a dit \u00ab\u00a0" + msg + "\u00a0\u00bb"
+        + (page ? "\n\n---\nPage concernee : " + page : "");
+      envoyerFormulaire({
+        subject: "[Comprendre pour tous] " + sujet + (page ? " \u2014 " + page : ""),
+        message: corps,
+        nom: nom,
+        honeypot: hp ? hp.value : ""
+      }, function (ok, erreur) {
+        info.textContent = ok
+          ? "Message envoy\u00e9, merci ! Vous pouvez fermer cette page."
+          : (erreur || "Envoi impossible pour le moment.");
+        if (ok) cf.reset();
+      });
     });
   }
 

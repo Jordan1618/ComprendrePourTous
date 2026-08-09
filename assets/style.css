@@ -488,25 +488,53 @@ main::before {
 .fb:hover { border-color: var(--accent); background: var(--accent-soft); color: var(--accent-ink); }
 .feedback-note { margin: .9rem 0 0; font-size: .82rem; color: var(--faint); line-height: 1.5; }
 
-.contact-form { display: flex; flex-direction: column; gap: .35rem; margin: 1.4rem 0; }
+.feedback-panel {
+  display: flex; flex-direction: column; gap: .35rem; margin-top: 1rem;
+  padding-top: 1rem; border-top: 1px dashed var(--border);
+}
+.feedback-panel label { font-size: .88rem; font-weight: 600; margin-top: .4rem; }
+.feedback-panel-actions { display: flex; gap: .6rem; align-items: center; margin-top: .8rem; }
+.fb-cancel {
+  padding: .6rem 1.1rem; font: inherit; font-weight: 600; cursor: pointer;
+  color: var(--faint); background: transparent; border: 1px solid var(--border); border-radius: 10px;
+}
+.fb-cancel:hover { color: var(--text); border-color: var(--faint); }
+
+.contact-form, .feedback-panel { position: relative; display: flex; flex-direction: column; gap: .35rem; margin: 1.4rem 0; }
 .contact-form label { font-size: .88rem; font-weight: 600; margin-top: .6rem; }
-.contact-form input, .contact-form select, .contact-form textarea {
+.contact-form .opt, .feedback-panel .opt { font-weight: 400; color: var(--faint); }
+.contact-form input, .contact-form select, .contact-form textarea,
+.feedback-panel input, .feedback-panel textarea {
   font: inherit; padding: .6rem .8rem; color: var(--text);
   background: var(--surface); border: 1px solid var(--border); border-radius: 9px;
 }
-.contact-form textarea { resize: vertical; min-height: 8rem; }
-.contact-form input:focus, .contact-form select:focus, .contact-form textarea:focus {
+.contact-form textarea, .feedback-panel textarea { resize: vertical; min-height: 8rem; }
+.feedback-panel textarea { min-height: 5rem; }
+.contact-form input:focus, .contact-form select:focus, .contact-form textarea:focus,
+.feedback-panel input:focus, .feedback-panel textarea:focus {
   border-color: var(--accent); outline: none; box-shadow: 0 0 0 3px var(--accent-soft);
 }
-.contact-form button {
+.fb-count { align-self: flex-end; font-size: .78rem; color: var(--faint); }
+
+/* Piege a robots : invisible pour un visiteur humain, mais present dans le
+   DOM pour les scripts automatises qui remplissent tous les champs. */
+.fb-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+.contact-form button[type="submit"], .fb-send {
   align-self: flex-start; margin-top: 1rem; padding: .7rem 1.3rem;
   font: inherit; font-weight: 600; cursor: pointer;
   color: #fff; background: var(--accent);
   border: 1px solid var(--accent); border-radius: 10px;
 }
-:root[data-theme="dark"] .contact-form button { color: #10241f; }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .contact-form button { color: #10241f; } }
-.contact-form button:hover { background: var(--accent-ink); border-color: var(--accent-ink); }
+:root[data-theme="dark"] .contact-form button[type="submit"],
+:root[data-theme="dark"] .fb-send { color: #10241f; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .contact-form button[type="submit"],
+  :root:not([data-theme="light"]) .fb-send { color: #10241f; }
+}
+.contact-form button[type="submit"]:hover, .fb-send:hover {
+  background: var(--accent-ink); border-color: var(--accent-ink);
+}
 
 @media print { .feedback, .contact-form { display: none !important; } }
 

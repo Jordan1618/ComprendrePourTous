@@ -89,6 +89,12 @@ CONTACT_USER = "jordan.poncetpro"
 CONTACT_DOMAIN = "gmail.com"
 LINKEDIN = "https://www.linkedin.com/in/jordan-p-77a697228"
 
+# Le formulaire de contact et les avis de page sont envoyes cote navigateur
+# (fetch direct vers Web3Forms, voir assets/app.js) : il n'y a pas de
+# rendu serveur a ce niveau, donc pas de cle a injecter ici. La cle
+# elle-meme vit uniquement dans assets/app.js, decoupee pour ne pas
+# apparaitre en clair.
+
 # Teinte HSL par section et par guide. Le CSS derive tout seul l'accent
 # clair et l'accent sombre a partir de cette unique valeur, ce qui evite
 # de maintenir deux palettes par couleur.
@@ -773,9 +779,10 @@ def breadcrumb(page, by_url):
 
 
 def feedback_block(title, url):
-    """Bloc d'avis. Sans serveur, un site statique ne peut rien enregistrer :
-    chaque bouton compose un message pre-rempli dans la messagerie du
-    visiteur. Rien n'est envoye automatiquement, rien n'est stocke."""
+    """Bloc d'avis. Le site reste statique (aucune base de donnees, aucun
+    compte) : le message est transmis directement par e-mail via Web3Forms,
+    un service tiers qui ne fait que relayer vers l'adresse de l'auteur.
+    Voir /confidentialite/ pour le detail de ce qui est envoye."""
     return (
         '<section class="feedback" data-title="%s" data-url="%s">'
         '<h2>Cette page vous a-t-elle été utile&nbsp;?</h2>'
@@ -785,9 +792,23 @@ def feedback_block(title, url):
         '<button type="button" class="fb" data-avis="erreur">Signaler une erreur</button>'
         '<button type="button" class="fb" data-avis="ajout">Proposer un ajout</button>'
         '</div>'
-        '<p class="feedback-note">Votre retour ouvre un message pré-rempli dans '
-        'votre application de courrier, avec le titre de la page. Rien n\'est '
-        'envoyé automatiquement et aucune donnée n\'est enregistrée ici.</p>'
+        '<form class="feedback-panel" hidden>'
+        '<label>Votre message'
+        '<textarea class="fb-msg" maxlength="2000" rows="4"></textarea></label>'
+        '<div class="fb-count"><span class="fb-count-n">0</span>/2000</div>'
+        '<label>Votre prénom <span class="opt">(facultatif)</span>'
+        '<input class="fb-nom" type="text" maxlength="60" autocomplete="name"></label>'
+        '<div class="fb-hp" aria-hidden="true">'
+        '<label>Laisser vide<input class="fb-hp-input" type="text" tabindex="-1" autocomplete="off"></label>'
+        '</div>'
+        '<div class="feedback-panel-actions">'
+        '<button type="submit" class="fb-send">Envoyer</button>'
+        '<button type="button" class="fb-cancel">Annuler</button>'
+        '</div>'
+        '</form>'
+        '<p class="feedback-note">Votre retour est transmis directement par '
+        'e-mail à l\'auteur, sans créer de compte ni être stocké sur ce '
+        'site. <a href="/confidentialite/#formulaire">Détail</a>.</p>'
         '</section>' % (esc(title), esc(url)))
 
 
@@ -1065,9 +1086,12 @@ projet, et je réponds.</p>
 
 <h2>Écrire un message</h2>
 <p>Ce site est entièrement statique&nbsp;: il n'a pas de serveur, donc pas de
-boîte de réception. Le formulaire ci-dessous <strong>prépare un message dans
-votre application de courrier</strong>, que vous relisez et envoyez
-vous-même. Rien ne transite par ce site, et rien n'y est enregistré.</p>
+base de données ni de compte à créer. Le formulaire ci-dessous <strong>envoie
+le message directement par e-mail</strong> à l'auteur via
+<a href="https://web3forms.com" target="_blank" rel="noopener">Web3Forms</a>,
+un service de relais qui ne fait que transmettre&nbsp;: rien n'est stocké sur
+ce site, et l'auteur seul reçoit le message. Détail sur
+<a href="/confidentialite/#formulaire">la page confidentialité</a>.</p>
 
 <form class="contact-form" id="contact-form">
   <label for="cf-sujet">Sujet</label>
@@ -1079,9 +1103,15 @@ vous-même. Rien ne transite par ce site, et rien n'y est enregistré.</p>
   </select>
   <label for="cf-page">Page concernée (facultatif)</label>
   <input type="text" id="cf-page" placeholder="ex. Pour Elle, chapitre 4">
+  <label for="cf-nom">Votre prénom <span class="opt">(facultatif)</span></label>
+  <input type="text" id="cf-nom" maxlength="60" autocomplete="name" placeholder="Comment vous signer">
   <label for="cf-message">Message</label>
-  <textarea id="cf-message" rows="7" placeholder="Votre message…"></textarea>
-  <button type="submit">Ouvrir dans ma messagerie</button>
+  <textarea id="cf-message" rows="7" maxlength="4000" placeholder="Votre message…"></textarea>
+  <div class="fb-count"><span id="cf-count-n">0</span>/4000</div>
+  <div class="fb-hp" aria-hidden="true">
+    <label>Laisser vide<input type="text" id="cf-hp" tabindex="-1" autocomplete="off"></label>
+  </div>
+  <button type="submit">Envoyer</button>
 </form>
 <p class="muted" id="cf-fallback"></p>
 
@@ -1126,6 +1156,9 @@ Street, San Francisco, CA 94107, États-Unis
 (<a href="https://github.com" target="_blank" rel="noopener">github.com</a>).</p>
 <p>Le nom de domaine est enregistré chez <strong>OVH SAS</strong>, 2 rue Kellermann,
 59100 Roubaix, France.</p>
+<p>Le formulaire de contact et les boutons d'avis sont relayés par
+<strong>Web3Forms</strong>, service tiers qui transmet les messages par e-mail sans les stocker
+côté site. Voir <a href="/confidentialite/#formulaire">le détail sur la page confidentialité</a>.</p>
 
 <h2>Propriété intellectuelle et réutilisation</h2>
 <p>Les textes sont publiés sous licence
@@ -1179,17 +1212,46 @@ concrètement.</p>
 
 <h2>Aucune collecte, aucun cookie</h2>
 <p>Ce site est entièrement <strong>statique</strong> : ce sont des fichiers HTML pré-calculés,
-servis tels quels. Il n'y a ni base de données, ni compte utilisateur, ni formulaire de contact,
-ni commentaire, ni newsletter.</p>
+servis tels quels. Il n'y a ni base de données, ni compte utilisateur, ni commentaire, ni
+newsletter. La seule exception concerne le formulaire de contact et les boutons d'avis, détaillés
+plus bas, et uniquement si vous choisissez de vous en servir.</p>
 <ul>
 <li><strong>Aucun cookie</strong> n'est déposé, ni technique, ni publicitaire. C'est pourquoi
 aucune bannière de consentement ne vous est présentée : il n'y a rien à consentir.</li>
 <li><strong>Aucun traceur ni mesure d'audience</strong> : pas de Google Analytics, pas de pixel,
 pas de service tiers de statistiques.</li>
-<li><strong>Aucune ressource externe</strong> : les styles, le script et les illustrations sont
-servis depuis ce domaine. Aucune police ni bibliothèque n'est chargée depuis un serveur tiers,
-donc aucun tiers ne voit votre visite.</li>
+<li><strong>Aucune ressource externe chargée au chargement des pages</strong> : les styles, le
+script et les illustrations sont servis depuis ce domaine. Aucune police ni bibliothèque n'est
+chargée depuis un serveur tiers pendant votre navigation.</li>
 <li><strong>Aucune publicité</strong>, aucun partage ni revente de données.</li>
+</ul>
+
+<h2 id="formulaire">Formulaire de contact et boutons d'avis</h2>
+<p>Le formulaire de la page <a href="/contact/">Contact</a> et les boutons d'avis en bas de chaque
+page (« Signaler une erreur », etc.) sont la <strong>seule</strong> fonctionnalité de ce site qui
+communique avec un tiers, et uniquement <strong>si vous choisissez de rédiger et d'envoyer un
+message</strong>. Rien n'est envoyé tant que vous n'avez pas cliqué sur « Envoyer ».</p>
+<p>Le message est transmis via <a href="https://web3forms.com" target="_blank" rel="noopener">Web3Forms</a>,
+un service qui relaie le contenu du formulaire directement par e-mail vers l'adresse de l'auteur,
+sans tableau de bord ni archive consultable par un tiers. Concrètement, à l'envoi&nbsp;:</p>
+<ul>
+<li><strong>Ce qui est transmis</strong> : le texte de votre message, le prénom que vous indiquez
+le cas échéant (le champ est facultatif), et le titre de la page concernée si le message part
+d'un bouton d'avis.</li>
+<li><strong>Ce qui n'est jamais transmis</strong> : votre adresse IP n'est pas communiquée à
+l'auteur ; aucun identifiant, aucun cookie, aucun profil visiteur n'est créé.</li>
+<li><strong>Finalité</strong> : répondre à votre message et corriger ou améliorer le contenu du
+site. Aucune autre utilisation.</li>
+<li><strong>Base légale</strong> : votre consentement explicite, exprimé par l'action d'écrire et
+d'envoyer le message (article 6.1.a du RGPD).</li>
+<li><strong>Conservation</strong> : l'auteur conserve les messages reçus dans sa messagerie le
+temps nécessaire pour y répondre, puis les supprime. Web3Forms agit comme sous-traitant au sens du
+RGPD pour la seule opération de relais ; voir sa
+<a href="https://web3forms.com/privacy" target="_blank" rel="noopener">politique de
+confidentialité</a>.</li>
+<li><strong>Vos droits</strong> : comme pour le reste de ce site, vous pouvez demander l'accès,
+la rectification ou l'effacement d'un message déjà envoyé en écrivant via les
+<a href="/contact/">autres moyens de contact</a>.</li>
 </ul>
 
 <h2>Ce qui reste stocké dans votre navigateur</h2>
