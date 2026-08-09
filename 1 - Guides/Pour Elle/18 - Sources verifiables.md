@@ -63,7 +63,7 @@ Cette page regroupe les sources introduites lors du passage à une source par so
 | Syndrome HELLP (9.7) | Sibai, B., *Diagnosis, controversies, and management of the syndrome of hemolysis, elevated liver enzymes, and low platelet count*, Obstetrics & Gynecology, 2004 | 7 août 2026 |
 | Grossesse môlaire (9.8) | Seckl, M., Sebire, N. & Berkowitz, R., *Gestational trophoblastic disease: ESMO Clinical Practice Guidelines*, Annals of Oncology, 2013 | 7 août 2026 |
 | Allo-immunisation Rhésus (9.9) | American College of Obstetricians and Gynecologists, *Management of Alloimmunization During Pregnancy*, Practice Bulletin No. 192 | 7 août 2026 |
-| Accouchement normal, recommandations OMS (9.11) | OMS, *WHO recommendations: intrapartum care for a positive childbirth experience*, None, 2018 | 7 août 2026 |
+| Accouchement normal, recommandations OMS (9.11) | OMS, *WHO recommendations: intrapartum care for a positive childbirth experience*, 2018 | 7 août 2026 |
 | Psychose du post-partum (10.3) | VanderKruik, R. et coll., *The global prevalence of postpartum psychosis: a systematic review*, BMC Psychiatry, 2017 | 7 août 2026 |
 | Syndrome de Sheehan (10.4) | Kelestimur, F., *Sheehan's syndrome*, Pituitary, 2003 | 7 août 2026 |
 | Thyroïdite du post-partum (10.5) | Stagnaro-Green, A., *Postpartum thyroiditis*, Journal of Clinical Endocrinology & Metabolism, 2002 | 7 août 2026 |

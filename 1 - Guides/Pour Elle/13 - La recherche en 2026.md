@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Les figures de la recherche en 2026 : qui fait avancer quoi
 
-Tu as demandé les "superstars" du domaine, les voici, avec ce qu'elles ont concrètement changé. Un point commun frappant à la lecture de leurs parcours : plusieurs d'entre elles ont commencé à s'intéresser à leur sujet soit parce qu'elles vivaient elles-mêmes la maladie qu'elles étudient, soit parce qu'elles ont été frappées par le contraste entre la fréquence d'un problème et le peu de recherche qui lui était consacré.
+Voici les figures les plus marquantes du domaine, avec ce qu'elles ont concrètement changé. Un point commun frappant à la lecture de leurs parcours : plusieurs d'entre elles ont commencé à s'intéresser à leur sujet soit parce qu'elles vivaient elles-mêmes la maladie qu'elles étudient, soit parce qu'elles ont été frappées par le contraste entre la fréquence d'un problème et le peu de recherche qui lui était consacré.
 
 ### Camille Berthelot : Institut Pasteur, Paris (génomique évolutive de la menstruation)
 
@@ -26,7 +26,7 @@ Considérée comme l'une des pionnières mondiales de l'épidémiologie de l'end
 
 ### Hilary Critchley : Université d'Édimbourg (physiologie menstruelle et saignements anormaux)
 
-Professeure de référence sur la physiologie de l'endomètre et les saignements utérins anormaux, elle a occupé de nombreux rôles de coordination scientifique internationale (ESHRE, Society for Gynecologic Investigation) et collabore avec un réseau mondial de chercheurs de premier plan sur l'endomètre (dont Linda Griffith elle-même). Ses travaux ont largement contribué à la compréhension moderne du fonctionnement normal et pathologique de l'endomètre, la même muqueuse au cœur des sections 1, 2 et 4 de ce document (source : University of Edinburgh Research Explorer, 2026).
+Professeure de référence sur la physiologie de l'endomètre et les saignements utérins anormaux, elle a occupé de nombreux rôles de coordination scientifique internationale (ESHRE, Society for Gynecologic Investigation) et collabore avec un réseau mondial de chercheurs de premier plan sur l'endomètre (dont Linda Griffith elle-même). Ses travaux ont largement contribué à la compréhension moderne du fonctionnement normal et pathologique de l'endomètre, la même muqueuse au cœur des chapitres 1, 2 et 7 de ce document (source : University of Edinburgh Research Explorer, 2026).
 
 ### Marina Kvaskoff : Inserm / Université Paris-Saclay (épidémiologie de l'endométriose en France)
 

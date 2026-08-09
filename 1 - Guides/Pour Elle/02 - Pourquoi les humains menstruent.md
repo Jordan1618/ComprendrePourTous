@@ -10,9 +10,9 @@ licence: "CC BY 4.0"
 
 # Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive
 
-Ta remarque, "dans le règne animal on doit être la seule espèce où c'est aussi compliqué", mérite une vraie réponse scientifique plutôt qu'une validation rapide, parce que la réalité est plus intéressante et plus nuancée que l'idée reçue, et parce que c'est un domaine de recherche actif et passionnant en ce moment même.
+L'idée reçue "dans le règne animal, l'espèce humaine doit être la seule où c'est aussi compliqué" mérite une vraie réponse scientifique plutôt qu'une validation rapide, parce que la réalité est plus intéressante et plus nuancée que l'idée reçue, et parce que c'est un domaine de recherche actif et passionnant en ce moment même.
 
-### 2.1 Ce qui est vrai dans ton intuition
+### 2.1 Ce qui est vrai dans cette idée reçue
 
 La **menstruation** (l'évacuation active de la muqueuse utérine sous forme de saignement visible) est effectivement **rare** dans le règne animal. On ne la retrouve que chez une poignée d'espèces : les humains, la plupart des primates catarhiniens (chimpanzés, bonobos, macaques...), quatre espèces de chauves-souris, la musaraigne éléphant (macroscélide), et la souris épineuse ("Acomys") (source : recherches Institut Pasteur/Camille Berthelot, projet EVOMENS, 2025-2026 ; Inserm, 2022). La grande majorité des mammifères, chiens, chats, chevaux, vaches, n'ont pas de règles : ils ont un **cycle œstral**, où la muqueuse utérine non fécondée est **réabsorbée** par l'organisme plutôt qu'évacuée. C'est ce qu'on appelle improprement "les chaleurs" chez une chienne, un phénomène biologiquement différent des règles humaines : pas de sang évacué à l'extérieur, un cycle piloté différemment, et une fertilité restreinte à une courte fenêtre visible comportementalement (d'où le mot "chaleurs").
 
@@ -36,9 +36,9 @@ Le sujet a connu un vrai coup d'accélérateur ces derniers mois, porté par deu
 
 En Europe, le projet **EVOMENS**, financé par le Conseil européen de la recherche et mené à l'Institut Pasteur par la chercheuse **Camille Berthelot**, compare les génomes de primates menstruant et non-menstruant (macaques, vervets, ouistitis, humains) pour identifier les gènes responsables de l'apparition de la menstruation au cours de l'évolution, en utilisant des techniques de transcriptomique en cellule unique pour reconstruire, tissu par tissu, ce qui se passe dans l'utérus à la fin du cycle hormonal. L'enjeu n'est pas que théorique : comprendre pourquoi et comment l'endomètre humain se comporte ainsi pourrait directement éclairer les mécanismes de maladies comme l'endométriose (source : Inserm, portrait Camille Berthelot, 2022 ; Institut Pasteur, 2025-2026).
 
-Aux États-Unis, la bio-ingénieure **Linda Griffith** du MIT, dont le parcours est détaillé en section 8, a lancé fin 2025 ce qu'elle appelle elle-même un "moonshot" de dix millions de dollars pour la science de la menstruation, estimant que ce champ a été historiquement sous-financé par rapport à son importance réelle pour la santé des femmes (source : Maven/The Preprint, octobre 2025).
+Aux États-Unis, la bio-ingénieure **Linda Griffith** du MIT, dont le parcours est détaillé au chapitre 13, a lancé fin 2025 ce qu'elle appelle elle-même un "moonshot" de dix millions de dollars pour la science de la menstruation, estimant que ce champ a été historiquement sous-financé par rapport à son importance réelle pour la santé des femmes (source : Maven/The Preprint, octobre 2025).
 
-**Estimation (‰)** : sur l'ensemble des espèces de mammifères connues (environ 6 000), seule une poignée présente une véritable menstruation, un ordre de grandeur largement sous 5 ‰ des espèces de mammifères, même si aucun décompte scientifique précis et consensuel n'existe à ce niveau de granularité (donnée qualitative, pas de source chiffrée fiable à ce niveau de précision, je préfère te le dire plutôt que d'inventer un chiffre).
+**Estimation** : sur l'ensemble des espèces de mammifères connues (environ 6 000), seule une poignée présente une véritable menstruation, un ordre de grandeur largement sous 0,5 % des espèces de mammifères, même si aucun décompte scientifique précis et consensuel n'existe à ce niveau de granularité (donnée qualitative, pas de source chiffrée fiable à ce niveau de précision, je préfère te le dire plutôt que d'inventer un chiffre).
 
 ### 2.5 Le mythe de la synchronisation des règles : ce que dit vraiment la science
 
@@ -54,7 +54,7 @@ Une croyance très répandue veut que les femmes qui vivent ensemble ou qui sont
 
 ### 2.6 Un dernier détour : le tabou culturel des règles, historiquement et aujourd'hui
 
-Au-delà du mécanisme biologique, la menstruation porte depuis longtemps une charge culturelle lourde dans de très nombreuses sociétés, pratiques d'isolement pendant les règles, croyances "d'impureté", tabous encore très présents dans certaines régions du monde aujourd'hui. Cette charge symbolique n'a rien de biologique : elle s'ajoute au phénomène physiologique lui-même et explique en grande partie pourquoi le sujet a été aussi peu étudié scientifiquement pendant des décennies (voir aussi le témoignage de Linda Griffith, section 8, sur le sous-financement historique de la recherche sur l'endométriose).
+Au-delà du mécanisme biologique, la menstruation porte depuis longtemps une charge culturelle lourde dans de très nombreuses sociétés, pratiques d'isolement pendant les règles, croyances "d'impureté", tabous encore très présents dans certaines régions du monde aujourd'hui. Cette charge symbolique n'a rien de biologique : elle s'ajoute au phénomène physiologique lui-même et explique en grande partie pourquoi le sujet a été aussi peu étudié scientifiquement pendant des décennies (voir aussi le témoignage de Linda Griffith, chapitre 13, sur le sous-financement historique de la recherche sur l'endométriose).
 
 Un exemple concret de cette évolution récente : en France, l'accès gratuit aux protections périodiques dans les établissements scolaires et universitaires s'est progressivement généralisé depuis 2021, une politique publique qui répond directement à ce qu'on appelle désormais la **précarité menstruelle**, l'idée que le coût des protections peut constituer un vrai obstacle matériel, notamment pour de jeunes femmes ou des femmes en situation de précarité.
 

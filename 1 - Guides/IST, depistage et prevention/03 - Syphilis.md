@@ -31,4 +31,4 @@ Hausse de 34 % des cas en Europe entre les dernières années observées, et de 
 
 **Bons réflexes**
 - Toute lésion génitale, même indolore et même si elle a disparu d'elle-même, mérite un dépistage plutôt qu'un haussement d'épaules.
-- La syphilis se dépiste par une simple prise de sang, incluse dans le bilan IST standard (voir chapitre dépistage à venir).
+- La syphilis se dépiste par une simple prise de sang, incluse dans le bilan IST standard.

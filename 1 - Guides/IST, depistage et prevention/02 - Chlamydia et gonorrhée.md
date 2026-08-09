@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 La première cause d'IST bactérienne dans les pays occidentaux. Environ **70 % des femmes et 50 % des hommes infectés ne présentent aucun symptôme**, ce qui explique sa circulation large. Quand des symptômes existent : brûlures urinaires, pertes vaginales ou écoulement urétral inhabituels, douleurs pelviennes. La Haute Autorité de Santé recommande un dépistage systématique chez toutes les femmes sexuellement actives de 15 à 25 ans, symptômes ou non (source : HAS ; Crips Île-de-France ; vérification du 27 juillet 2026).
 
-**Ce qui rend la chlamydia sérieuse malgré son silence** : non traitée, elle peut remonter vers les trompes de Fallope et provoquer une salpingite (infection des trompes), elle-même cause majeure d'infertilité tubaire évitable et de grossesse extra-utérine, un point déjà signalé dans le guide sur le corps féminin (section 5.12), qui mérite d'être développé ici : c'est littéralement la cause la plus fréquente d'infertilité **évitable** chez la femme dans les pays occidentaux.
+**Ce qui rend la chlamydia sérieuse malgré son silence** : non traitée, elle peut remonter vers les trompes de Fallope et provoquer une salpingite (infection des trompes), elle-même cause majeure d'infertilité tubaire évitable et de grossesse extra-utérine. C'est littéralement la cause la plus fréquente d'infertilité **évitable** chez la femme dans les pays occidentaux, un point détaillé dans le guide sur le corps féminin (section 7.16).
 
 **Traitement** : antibiotique en prise unique ou courte cure, simple, efficace, à condition d'être dépisté.
 

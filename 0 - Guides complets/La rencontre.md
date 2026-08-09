@@ -7,7 +7,7 @@ mots: 13350
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/La rencontre"
-genere_le: 2026-08-08
+genere_le: 2026-08-09
 ---
 
 # La rencontre
@@ -697,7 +697,7 @@ Signalées ici plutôt qu'omises, conformément à la méthode du projet.
 | Heuristique de disponibilité (3.7) | Tversky, A. & Kahneman, D., *Availability: A heuristic for judging frequency and probability*, Cognitive Psychology, 1973 | 7 août 2026 |
 | Homogamie sociale et son origine structurelle (4.1, 4.3, 9.1) | Kalmijn, M., *Intermarriage and Homogamy: Causes, Patterns, Trends*, Annual Review of Sociology, 1998 | 7 août 2026 |
 | Surcharge de choix et satisfaction décisionnelle (5.1, 5.2) | Iyengar, S. & Lepper, M., *When choice is demotivating: can one desire too much of a good thing?*, Journal of Personality and Social Psychology, 2000 | 7 août 2026 |
-| Partage de données par les applications de rencontre (5.5) | Norwegian Consumer Council, *Out of Control*, None, 2020 | 7 août 2026 |
+| Partage de données par les applications de rencontre (5.5) | Norwegian Consumer Council, *Out of Control*, rapport, 2020 | 7 août 2026 |
 | Théorie de la pénétration sociale (6.1) | Altman, I. & Taylor, D., *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart and Winston, 1973 | 7 août 2026 |
 | Méta-analyse du dévoilement de soi et de l'appréciation (6.3) | Collins, N. & Miller, L., *Self-disclosure and liking: a meta-analytic review*, Psychological Bulletin, 1994 | 7 août 2026 |
 | Réactivité perçue dans la construction de l'intimité (6.4) | Reis, H. & Shaver, P., *Intimacy as an interpersonal process*, Handbook of Personal Relationships, Wiley, 1988 | 7 août 2026 |

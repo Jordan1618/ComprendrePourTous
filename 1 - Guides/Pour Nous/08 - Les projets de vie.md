@@ -36,7 +36,7 @@ Où vivre paraît moins lourd qu'un enfant. C'est pourtant la décision qui dét
 
 Deux erreurs fréquentes. **Suivre l'un sans compensation explicite** : celui qui déménage perd son réseau, parfois son emploi, et se retrouve dépendant. Ce n'est pas un problème si c'est nommé et compensé ; c'en est un si c'est traité comme allant de soi. Et **sous-estimer le trajet** : les temps de transport quotidiens ont un effet documenté sur le bien-être, très supérieur à ce que les gens anticipent au moment de choisir.
 
-Le point d'attention pratique : qui est au bail ou au prêt, et selon quelles parts. Voir [Indivision](<../../2 - Notions/Indivision.md>) et le chapitre 8 de [L'amour](<../L amour/README.md>). Le temps de trajet quotidien a un effet documenté et sous-estimé sur le bien-être, ce que les économistes appellent le paradoxe du trajet domicile-travail (source : Stutzer & Frey, « Stress that doesn't pay: the commuting paradox », *Scandinavian Journal of Economics*, 2008 ; vérification du 7 août 2026).
+Le point d'attention pratique : qui est au bail ou au prêt, et selon quelles parts. Voir [Indivision](<../../2 - Notions/Indivision.md>) et le chapitre 9 de [L'amour](<../L amour/README.md>). Le temps de trajet quotidien a un effet documenté et sous-estimé sur le bien-être, ce que les économistes appellent le paradoxe du trajet domicile-travail (source : Stutzer & Frey, « Stress that doesn't pay: the commuting paradox », *Scandinavian Journal of Economics*, 2008 ; vérification du 7 août 2026).
 
 ### 8.4 Le travail : les arbitrages invisibles
 

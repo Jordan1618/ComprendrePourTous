@@ -27,7 +27,7 @@ Imagine une infection comme un locataire silencieux dans un appartement : il peu
 - **Par contact muqueux direct** (rapport vaginal, anal, oral) : la majorité des IST.
 - **Par contact cutané simple**, même sans pénétration : herpès, HPV, syphilis au stade du chancre, le préservatif réduit mais n'élimine pas totalement ce risque, parce qu'il ne couvre pas toute la zone de contact possible.
 - **Par le sang** : VIH, hépatite B principalement.
-- **De la mère à l'enfant** : pendant la grossesse ou l'accouchement pour plusieurs IST (voir chapitre à venir sur grossesse et IST).
+- **De la mère à l'enfant** : pendant la grossesse ou l'accouchement pour plusieurs IST.
 
 Ces voies de transmission et les mesures de prévention associées sont détaillées dans les recommandations cliniques de référence (source : Workowski, K. & Bachmann, L., « Sexually Transmitted Infections Treatment Guidelines, 2021 », *MMWR Recommendations and Reports*, CDC, 2021 ; vérification du 8 août 2026).
 

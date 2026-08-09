@@ -3,11 +3,11 @@ type: "guide-complet"
 guide: "IST, dépistage et prévention"
 sujet: "commun"
 chapitres: 7
-mots: 4139
+mots: 4092
 verifie_le: 2026-07-27
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/IST, depistage et prevention"
-genere_le: 2026-08-08
+genere_le: 2026-08-09
 ---
 
 # IST, dépistage et prévention
@@ -53,7 +53,7 @@ Imagine une infection comme un locataire silencieux dans un appartement : il peu
 - **Par contact muqueux direct** (rapport vaginal, anal, oral) : la majorité des IST.
 - **Par contact cutané simple**, même sans pénétration : herpès, HPV, syphilis au stade du chancre, le préservatif réduit mais n'élimine pas totalement ce risque, parce qu'il ne couvre pas toute la zone de contact possible.
 - **Par le sang** : VIH, hépatite B principalement.
-- **De la mère à l'enfant** : pendant la grossesse ou l'accouchement pour plusieurs IST (voir chapitre à venir sur grossesse et IST).
+- **De la mère à l'enfant** : pendant la grossesse ou l'accouchement pour plusieurs IST.
 
 Ces voies de transmission et les mesures de prévention associées sont détaillées dans les recommandations cliniques de référence (source : Workowski, K. & Bachmann, L., « Sexually Transmitted Infections Treatment Guidelines, 2021 », *MMWR Recommendations and Reports*, CDC, 2021 ; vérification du 8 août 2026).
 
@@ -75,7 +75,7 @@ Point de repère essentiel pour le reste du guide : sur les huit IST les plus fr
 
 La première cause d'IST bactérienne dans les pays occidentaux. Environ **70 % des femmes et 50 % des hommes infectés ne présentent aucun symptôme**, ce qui explique sa circulation large. Quand des symptômes existent : brûlures urinaires, pertes vaginales ou écoulement urétral inhabituels, douleurs pelviennes. La Haute Autorité de Santé recommande un dépistage systématique chez toutes les femmes sexuellement actives de 15 à 25 ans, symptômes ou non (source : HAS ; Crips Île-de-France ; vérification du 27 juillet 2026).
 
-**Ce qui rend la chlamydia sérieuse malgré son silence** : non traitée, elle peut remonter vers les trompes de Fallope et provoquer une salpingite (infection des trompes), elle-même cause majeure d'infertilité tubaire évitable et de grossesse extra-utérine, un point déjà signalé dans le guide sur le corps féminin (section 5.12), qui mérite d'être développé ici : c'est littéralement la cause la plus fréquente d'infertilité **évitable** chez la femme dans les pays occidentaux.
+**Ce qui rend la chlamydia sérieuse malgré son silence** : non traitée, elle peut remonter vers les trompes de Fallope et provoquer une salpingite (infection des trompes), elle-même cause majeure d'infertilité tubaire évitable et de grossesse extra-utérine. C'est littéralement la cause la plus fréquente d'infertilité **évitable** chez la femme dans les pays occidentaux, un point détaillé dans le guide sur le corps féminin (section 7.16).
 
 **Traitement** : antibiotique en prise unique ou courte cure, simple, efficace, à condition d'être dépisté.
 
@@ -118,7 +118,7 @@ Hausse de 34 % des cas en Europe entre les dernières années observées, et de 
 
 **Bons réflexes**
 - Toute lésion génitale, même indolore et même si elle a disparu d'elle-même, mérite un dépistage plutôt qu'un haussement d'épaules.
-- La syphilis se dépiste par une simple prise de sang, incluse dans le bilan IST standard (voir chapitre dépistage à venir).
+- La syphilis se dépiste par une simple prise de sang, incluse dans le bilan IST standard.
 
 ---
 
@@ -194,8 +194,6 @@ La vaccination (Gardasil 9) est recommandée en France pour **les filles et les 
 **Bons réflexes**
 - Le dépistage du cancer du col de l'utérus (frottis puis test HPV selon l'âge) reste nécessaire même chez une femme vaccinée, la vaccination réduit le risque, elle ne le supprime pas à 100 % (le vaccin ne couvre pas toutes les souches existantes).
 - Le HPV n'a, dans l'immense majorité des cas, aucun symptôme visible, son absence de symptômes ne dit rien sur le nombre de partenaires ou le "sérieux" d'une personne, contrairement à une association encore fréquente dans les esprits.
-
-"Suite du guide (hépatite B et autres IST, dépistage pratique, comment en parler à un·e partenaire, grossesse et urgences) à venir dans la continuité de cette conversation."
 
 ---
 

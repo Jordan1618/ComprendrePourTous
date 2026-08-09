@@ -16,7 +16,7 @@ Avant même de parler de gestes, un vrai professionnel pose un cadre. C'est ce q
 - Mains propres, ongles courts, pas de bagues ni bracelets qui accrochent la peau.
 - Température de la pièce autour de 22-24°C, une personne allongée et détendue perd rapidement en température corporelle ressentie.
 - Serviettes propres à chaque séance, drap de protection sur la table ou le tapis.
-- Mains réchauffées avant tout contact (des mains froides posées brutalement sont l'une des premières causes de crispation réflexe, un réflexe de retrait bien documenté face à un stimulus thermique inattendu (source : Craig, A. D., « How do you feel? Interoception: the sense of the physiological condition of the body », *Nature Reviews Neuroscience*, 2002 ; vérification du 8 août 2026)).
+- Mains réchauffées avant tout contact : des mains froides posées brutalement sont l'une des premières causes de crispation réflexe. Le corps intègre en permanence ce type de signal thermique pour ajuster sa réaction, un mécanisme décrit sous le nom d'interoception (source : Craig, A. D., « How do you feel? Interoception: the sense of the physiological condition of the body », *Nature Reviews Neuroscience*, 2002 ; vérification du 8 août 2026).
 
 ### 1.2 Le consentement et la communication : le vrai "produit pro"
 Ce qui différencie un praticien formé d'un amateur, ce n'est pas la force des mains, c'est la capacité à :

@@ -52,7 +52,7 @@ Garder au moins **un domaine entièrement à soi**, non partagé et non négocia
 
 Le délitement est rarement soudain. Il donne des signaux dans un ordre assez régulier, et les connaître permet d'agir avant la rupture.
 
-**Précoces.** On ne se raconte plus les petites choses de la journée. Les sollicitations quotidiennes ne reçoivent plus de réponse (le mécanisme décrit dans [L'amour](<../L amour/README.md>), chapitre 6). Le contact physique non sexuel disparaît. On commence à se raconter des versions différentes des mêmes scènes.
+**Précoces.** On ne se raconte plus les petites choses de la journée. Les sollicitations quotidiennes ne reçoivent plus de réponse (le mécanisme décrit dans [L'amour](<../L amour/README.md>), chapitre 7). Le contact physique non sexuel disparaît. On commence à se raconter des versions différentes des mêmes scènes.
 
 **Intermédiaires.** L'ironie remplace l'échange direct. On évite certains sujets, et la liste s'allonge. On préfère être ailleurs sans que ce soit dit. On parle de l'autre à des tiers avant de lui en parler à lui.
 
@@ -78,5 +78,5 @@ L'intérêt n'est pas dans les réponses. Il est dans le fait que les choses se 
 
 - Réinstallez le récit du quotidien avant tout le reste. C'est le signal le plus précoce et le plus facile à corriger.
 - Si vous vous reconnaissez dans le rôle d'aidant, dites-le. Ce n'est ni un reproche ni un abandon.
-- Traitez les ressources extérieures comme une nécessité, pas comme un luxe. Un couple n'est pas conçu pour remplacer une communauté entière — c'est le point du chapitre 5 de [L'amour](<../L amour/README.md>).
+- Traitez les ressources extérieures comme une nécessité, pas comme un luxe. Un couple n'est pas conçu pour remplacer une communauté entière — c'est le point du chapitre 6 de [L'amour](<../L amour/README.md>).
 - Fixez le rendez-vous hebdomadaire maintenant, pendant que ça va bien. Instauré en pleine crise, il est vécu comme un tribunal.

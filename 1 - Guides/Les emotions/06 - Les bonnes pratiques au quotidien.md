@@ -44,7 +44,7 @@ Une remarque honnête sur la **méditation de pleine conscience** : elle est ass
 
 **Chercher une explication profonde à un état qui a une cause simple.** Fatigue, faim, douleur, effet indésirable d'un médicament : à écarter avant d'aller chercher l'enfance.
 
-**Tout attendre d'une seule personne.** Un conjoint ne peut pas être simultanément partenaire, meilleur ami, confident thérapeutique et unique source de soutien. Voir [L'amour](<../L amour/README.md>), chapitre 5. L'usage passif des réseaux sociaux dégrade le bien-être affectif, alors que l'usage actif — interagir, échanger — ne produit pas cet effet (source : Verduyn et coll., « Passive Facebook usage undermines affective well-being », *Journal of Experimental Psychology: General*, 2015 ; vérification du 7 août 2026).
+**Tout attendre d'une seule personne.** Un conjoint ne peut pas être simultanément partenaire, meilleur ami, confident thérapeutique et unique source de soutien. Voir [L'amour](<../L amour/README.md>), chapitre 6. L'usage passif des réseaux sociaux dégrade le bien-être affectif, alors que l'usage actif — interagir, échanger — ne produit pas cet effet (source : Verduyn et coll., « Passive Facebook usage undermines affective well-being », *Journal of Experimental Psychology: General*, 2015 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

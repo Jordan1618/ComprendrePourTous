@@ -30,6 +30,7 @@ Un concept mérite sa note quand il **traverse au moins deux guides**, ou quand 
 - [Alexithymie](<Alexithymie.md>)
 - [Désir spontané et désir réactif](<Désir spontané et désir réactif.md>)
 - [Côte à côte](<Côte à côte.md>)
+- [Granularité émotionnelle](<Granularité émotionnelle.md>)
 
 La collection est jeune, cette liste est faite pour s'allonger.
 
@@ -39,12 +40,21 @@ La collection est jeune, cette liste est faite pour s'allonger.
 - [Renforcement intermittent](<Renforcement intermittent.md>)
 - [Effet de halo](<Effet de halo.md>)
 - [Homogamie](<Homogamie.md>)
+- [Désert relationnel](<Désert relationnel.md>)
 
 **Désir et intimité**
 - [Modèle du double contrôle](<Modèle du double contrôle.md>)
 - [Capitalisation](<Capitalisation.md>)
+- [Anxiété de performance](<Anxiété de performance.md>)
+- [Vasectomie](<Vasectomie.md>)
 
 **Sécurité et cadre**
 - [Contrôle coercitif](<Contrôle coercitif.md>)
 - [Hypervigilance](<Hypervigilance.md>)
 - [Indivision](<Indivision.md>)
+
+**Corps et santé**
+- [Endométriose](<Endométriose.md>)
+- [Périménopause](<Périménopause.md>)
+- [Trouble dysphorique prémenstruel](<Trouble dysphorique prémenstruel.md>)
+- [Dépression du post-partum](<Dépression du post-partum.md>)

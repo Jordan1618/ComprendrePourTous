@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — Pour Elle
 
-Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>). Ce guide porte ses sources dans le corps du texte, au format `(source : X ; vérification du [date])`, et n'a pas encore de chapitre de sources dédié — c'est un chantier ouvert, signalé plutôt que masqué. Les références institutionnelles à surveiller en priorité sont regroupées ici.
+Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/Pour Elle/18 - Sources verifiables.md>) précise ce que chaque référence appuie et liste ce qui reste sans source. Les références institutionnelles à surveiller en priorité sont regroupées ici.
 
 ## Autorités de santé françaises
 
@@ -69,7 +69,7 @@ Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>). Ce guide port
 | Nolen-Hoeksema, S. (2001), [Gender differences in depression](https://scholar.google.com/scholar?q=%22Gender+differences+in+depression%22), *Current Directions in Psychological Science* | Rumination et différences de genre dans la dépression | 4.5 |
 | O'Connell, H., Sanjeevan, K. & Hutson, J. (2005), [Anatomy of the clitoris](https://scholar.google.com/scholar?q=%22Anatomy+of+the+clitoris%22), *Journal of Urology* | Anatomie complète du clitoris | 8.1 |
 | O'Hara, M. & McCabe, J. (2013), [Postpartum depression: current status and future directions](https://scholar.google.com/scholar?q=%22Postpartum+depression%3A+current+status+and+future+directions%22), *Annual Review of Clinical Psychology* | Dépression du post-partum | 4.4 |
-| OMS (2018), [WHO recommendations: intrapartum care for a positive childbirth experience](https://scholar.google.com/scholar?q=%22WHO+recommendations%3A+intrapartum+care+for+a+positive+childbirth+experience%22), *None* | Accouchement normal, recommandations OMS | 9.11 |
+| OMS (2018), [WHO recommendations: intrapartum care for a positive childbirth experience](https://scholar.google.com/scholar?q=%22WHO+recommendations%3A+intrapartum+care+for+a+positive+childbirth+experience%22) | Accouchement normal, recommandations OMS | 9.11 |
 | Omole, F. et coll. (2019), [Bartholin duct cyst and gland abscess: office management](https://scholar.google.com/scholar?q=%22Bartholin+duct+cyst+and+gland+abscess%3A+office+management%22), *American Family Physician* | Kyste et abcès de Bartholin | 7.17 |
 | Practice Committee of the ASRM (2008), [Current evaluation of amenorrhea](https://scholar.google.com/scholar?q=%22Current+evaluation+of+amenorrhea%22), *Fertility and Sterility* | Évaluation de l'aménorrhée | 7.9 |
 | Reame, N. et coll. (1984), [Pulsatile gonadotropin secretion during the human menstrual cycle](https://scholar.google.com/scholar?q=%22Pulsatile+gonadotropin+secretion+during+the+human+menstrual+cycle%22), *Journal of Clinical Endocrinology & Metabolism* | Pulsatilité de la GnRH | 1.1 |

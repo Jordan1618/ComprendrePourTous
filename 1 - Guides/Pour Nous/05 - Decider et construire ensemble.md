@@ -58,7 +58,7 @@ C'est contre-intuitif et c'est probablement le conseil le plus rentable de ce ch
 
 Le format minimal, en cinq lignes : ce qu'on décide, à partir de quand, qui fait quoi concrètement, ce qui se passe si l'un des deux veut revenir dessus, et quand on refait le point.
 
-Les aspects strictement juridiques et financiers — statuts, indivision, testament, organisation des comptes — sont traités dans le guide [L'amour](<../L amour/README.md>), chapitre 8. Ce chapitre-ci porte sur la **décision**, celui-là sur le **cadre légal**. Formaliser une décision par écrit réduit l'écart de compréhension entre deux personnes, un effet documenté dans la littérature sur la formation d'intentions (source : Gollwitzer, « Implementation intentions: strong effects of simple plans », *American Psychologist*, 1999 ; vérification du 7 août 2026).
+Les aspects strictement juridiques et financiers — statuts, indivision, testament, organisation des comptes — sont traités dans le guide [L'amour](<../L amour/README.md>), chapitre 9. Ce chapitre-ci porte sur la **décision**, celui-là sur le **cadre légal**. Formaliser une décision par écrit réduit l'écart de compréhension entre deux personnes, un effet documenté dans la littérature sur la formation d'intentions (source : Gollwitzer, « Implementation intentions: strong effects of simple plans », *American Psychologist*, 1999 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

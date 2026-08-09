@@ -7,7 +7,7 @@ mots: 13598
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Nous"
-genere_le: 2026-08-08
+genere_le: 2026-08-09
 ---
 
 # Pour Nous
@@ -339,7 +339,7 @@ C'est contre-intuitif et c'est probablement le conseil le plus rentable de ce ch
 
 Le format minimal, en cinq lignes : ce qu'on décide, à partir de quand, qui fait quoi concrètement, ce qui se passe si l'un des deux veut revenir dessus, et quand on refait le point.
 
-Les aspects strictement juridiques et financiers — statuts, indivision, testament, organisation des comptes — sont traités dans le guide [L'amour](<../1 - Guides/L amour/README.md>), chapitre 8. Ce chapitre-ci porte sur la **décision**, celui-là sur le **cadre légal**. Formaliser une décision par écrit réduit l'écart de compréhension entre deux personnes, un effet documenté dans la littérature sur la formation d'intentions (source : Gollwitzer, « Implementation intentions: strong effects of simple plans », *American Psychologist*, 1999 ; vérification du 7 août 2026).
+Les aspects strictement juridiques et financiers — statuts, indivision, testament, organisation des comptes — sont traités dans le guide [L'amour](<../1 - Guides/L amour/README.md>), chapitre 9. Ce chapitre-ci porte sur la **décision**, celui-là sur le **cadre légal**. Formaliser une décision par écrit réduit l'écart de compréhension entre deux personnes, un effet documenté dans la littérature sur la formation d'intentions (source : Gollwitzer, « Implementation intentions: strong effects of simple plans », *American Psychologist*, 1999 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -401,7 +401,7 @@ Garder au moins **un domaine entièrement à soi**, non partagé et non négocia
 
 Le délitement est rarement soudain. Il donne des signaux dans un ordre assez régulier, et les connaître permet d'agir avant la rupture.
 
-**Précoces.** On ne se raconte plus les petites choses de la journée. Les sollicitations quotidiennes ne reçoivent plus de réponse (le mécanisme décrit dans [L'amour](<../1 - Guides/L amour/README.md>), chapitre 6). Le contact physique non sexuel disparaît. On commence à se raconter des versions différentes des mêmes scènes.
+**Précoces.** On ne se raconte plus les petites choses de la journée. Les sollicitations quotidiennes ne reçoivent plus de réponse (le mécanisme décrit dans [L'amour](<../1 - Guides/L amour/README.md>), chapitre 7). Le contact physique non sexuel disparaît. On commence à se raconter des versions différentes des mêmes scènes.
 
 **Intermédiaires.** L'ironie remplace l'échange direct. On évite certains sujets, et la liste s'allonge. On préfère être ailleurs sans que ce soit dit. On parle de l'autre à des tiers avant de lui en parler à lui.
 
@@ -427,7 +427,7 @@ L'intérêt n'est pas dans les réponses. Il est dans le fait que les choses se 
 
 - Réinstallez le récit du quotidien avant tout le reste. C'est le signal le plus précoce et le plus facile à corriger.
 - Si vous vous reconnaissez dans le rôle d'aidant, dites-le. Ce n'est ni un reproche ni un abandon.
-- Traitez les ressources extérieures comme une nécessité, pas comme un luxe. Un couple n'est pas conçu pour remplacer une communauté entière — c'est le point du chapitre 5 de [L'amour](<../1 - Guides/L amour/README.md>).
+- Traitez les ressources extérieures comme une nécessité, pas comme un luxe. Un couple n'est pas conçu pour remplacer une communauté entière — c'est le point du chapitre 6 de [L'amour](<../1 - Guides/L amour/README.md>).
 - Fixez le rendez-vous hebdomadaire maintenant, pendant que ça va bien. Instauré en pleine crise, il est vécu comme un tribunal.
 
 ---
@@ -528,7 +528,7 @@ Où vivre paraît moins lourd qu'un enfant. C'est pourtant la décision qui dét
 
 Deux erreurs fréquentes. **Suivre l'un sans compensation explicite** : celui qui déménage perd son réseau, parfois son emploi, et se retrouve dépendant. Ce n'est pas un problème si c'est nommé et compensé ; c'en est un si c'est traité comme allant de soi. Et **sous-estimer le trajet** : les temps de transport quotidiens ont un effet documenté sur le bien-être, très supérieur à ce que les gens anticipent au moment de choisir.
 
-Le point d'attention pratique : qui est au bail ou au prêt, et selon quelles parts. Voir [Indivision](<../2 - Notions/Indivision.md>) et le chapitre 8 de [L'amour](<../1 - Guides/L amour/README.md>). Le temps de trajet quotidien a un effet documenté et sous-estimé sur le bien-être, ce que les économistes appellent le paradoxe du trajet domicile-travail (source : Stutzer & Frey, « Stress that doesn't pay: the commuting paradox », *Scandinavian Journal of Economics*, 2008 ; vérification du 7 août 2026).
+Le point d'attention pratique : qui est au bail ou au prêt, et selon quelles parts. Voir [Indivision](<../2 - Notions/Indivision.md>) et le chapitre 9 de [L'amour](<../1 - Guides/L amour/README.md>). Le temps de trajet quotidien a un effet documenté et sous-estimé sur le bien-être, ce que les économistes appellent le paradoxe du trajet domicile-travail (source : Stutzer & Frey, « Stress that doesn't pay: the commuting paradox », *Scandinavian Journal of Economics*, 2008 ; vérification du 7 août 2026).
 
 ### 8.4 Le travail : les arbitrages invisibles
 
@@ -708,7 +708,7 @@ C'est le fait historique le plus contre-intuitif. Pendant l'essentiel de l'histo
 
 L'historienne Stephanie Coontz a documenté ce basculement : l'idée que le mariage devrait reposer sur l'amour s'impose en Occident à partir de la fin du XVIIIe siècle et se généralise au XXe (source : Coontz, *Marriage, a History*, 2005 ; vérification du 6 août 2026).
 
-La conséquence est développée dans [L'amour](<../1 - Guides/L amour/README.md>), chapitre 5 : un couple fondé sur un sentiment est plus désirable et plus fragile qu'un couple fondé sur l'économie, puisque la disparition du sentiment dissout la raison d'être. Ce n'est pas que les gens sauraient moins s'engager qu'avant : c'est que le critère a changé. Stephanie Coontz a montré que l'idée d'un mariage fondé sur l'amour s'impose en Occident à partir de la fin du XVIIIe siècle (source : Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
+La conséquence est développée dans [L'amour](<../1 - Guides/L amour/README.md>), chapitre 6 : un couple fondé sur un sentiment est plus désirable et plus fragile qu'un couple fondé sur l'économie, puisque la disparition du sentiment dissout la raison d'être. Ce n'est pas que les gens sauraient moins s'engager qu'avant : c'est que le critère a changé. Stephanie Coontz a montré que l'idée d'un mariage fondé sur l'amour s'impose en Occident à partir de la fin du XVIIIe siècle (source : Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
 
 ### 11.3 La diversité des formes
 

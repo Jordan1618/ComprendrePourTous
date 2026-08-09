@@ -24,7 +24,7 @@ C'est le fait historique le plus contre-intuitif. Pendant l'essentiel de l'histo
 
 L'historienne Stephanie Coontz a documenté ce basculement : l'idée que le mariage devrait reposer sur l'amour s'impose en Occident à partir de la fin du XVIIIe siècle et se généralise au XXe (source : Coontz, *Marriage, a History*, 2005 ; vérification du 6 août 2026).
 
-La conséquence est développée dans [L'amour](<../L amour/README.md>), chapitre 5 : un couple fondé sur un sentiment est plus désirable et plus fragile qu'un couple fondé sur l'économie, puisque la disparition du sentiment dissout la raison d'être. Ce n'est pas que les gens sauraient moins s'engager qu'avant : c'est que le critère a changé. Stephanie Coontz a montré que l'idée d'un mariage fondé sur l'amour s'impose en Occident à partir de la fin du XVIIIe siècle (source : Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
+La conséquence est développée dans [L'amour](<../L amour/README.md>), chapitre 6 : un couple fondé sur un sentiment est plus désirable et plus fragile qu'un couple fondé sur l'économie, puisque la disparition du sentiment dissout la raison d'être. Ce n'est pas que les gens sauraient moins s'engager qu'avant : c'est que le critère a changé. Stephanie Coontz a montré que l'idée d'un mariage fondé sur l'amour s'impose en Occident à partir de la fin du XVIIIe siècle (source : Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
 
 ### 11.3 La diversité des formes
 
