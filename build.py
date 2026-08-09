@@ -165,6 +165,14 @@ ILLOS = {
         '<path d="M60 12v56M32 40h56" stroke="currentColor" stroke-width="2.5" opacity=".45"/>'
         '<path d="m47 53 11-25 15 11-26 14Z" fill="currentColor" opacity=".55"/>'
     ),
+    "sources": (
+        '<path d="M60 14 86 24V44C86 58 75 66 60 66 45 66 34 58 34 44V24Z"'
+        ' fill="currentColor" opacity=".14"/>'
+        '<path d="M60 14 86 24V44C86 58 75 66 60 66 45 66 34 58 34 44V24Z"'
+        ' fill="none" stroke="currentColor" stroke-width="2.5" stroke-linejoin="round"/>'
+        '<path d="M46 42 55 51 75 29" fill="none" stroke="currentColor" stroke-width="3"'
+        ' stroke-linecap="round" stroke-linejoin="round" opacity=".7"/>'
+    ),
 }
 
 ANCHOR_SVG = (
@@ -802,7 +810,7 @@ def feedback_block(title, url):
     l'auteur. Voir /confidentialite/#formulaire pour le detail."""
     return (
         '<section class="feedback" data-title="%s" data-url="%s">'
-        '<h2>Une amélioration à proposer sur cette page&nbsp;?</h2>'
+        '<h2>Une amélioration ou un signalement à proposer sur cette page&nbsp;?</h2>'
         '<form class="feedback-panel">'
         '<label>Votre prénom <span class="opt">(facultatif)</span>'
         '<input class="fb-nom" type="text" maxlength="60" autocomplete="name" placeholder="Comment vous signer"></label>'

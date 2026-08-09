@@ -116,7 +116,7 @@
         var corps = (nom || "Un\u00b7e visiteur\u00b7se") + " a dit \u00ab\u00a0" + msg + "\u00a0\u00bb"
           + "\n\n---\nPage : " + titre + "\n" + location.origin + url;
         envoyerFormulaire({
-          subject: "[Comprendre pour tous] Am\u00e9lioration propos\u00e9e \u2014 " + titre,
+          subject: "[Comprendre pour tous] Am\u00e9lioration ou signalement \u2014 " + titre,
           message: corps,
           nom: nom,
           honeypot: hp ? hp.value : ""
