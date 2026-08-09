@@ -12,6 +12,7 @@ artefact : ne jamais l'editer a la main, relancer ce script.
 Usage :  python build.py
 """
 
+import hashlib
 import html as html_mod
 import json
 import re
@@ -23,6 +24,20 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "_site"
 ASSETS = ROOT / "assets"
+
+
+def asset_version(name):
+    """Empreinte courte du contenu d'un fichier d'assets, utilisee en
+    parametre d'URL (?v=...) pour forcer les navigateurs et le CDN a
+    recharger le fichier des qu'il change, plutot que de servir une
+    version en cache jusqu'a expiration du Cache-Control."""
+    path = ASSETS / name
+    digest = hashlib.sha256(path.read_bytes()).hexdigest()
+    return digest[:10]
+
+
+CSS_VERSION = asset_version("style.css")
+JS_VERSION = asset_version("app.js")
 
 REPO = "https://github.com/Jordan1618/ComprendrePourTous"
 BLOB = REPO + "/blob/main"
@@ -700,7 +715,7 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
 <meta property="og:description" content="%(desc)s">
 <meta property="og:type" content="website">
 <meta property="og:url" content="%(canonical)s">
-<link rel="stylesheet" href="/assets/style.css">
+<link rel="stylesheet" href="/assets/style.css?v=%(cssv)s">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128218;</text></svg>">
 <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
 %(extra_head)s
@@ -736,7 +751,7 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
   </nav>
   <p class="disclaimer">Rien ici n'est un avis médical individualisé. Pour toute situation concrète, un professionnel de santé reste irremplaçable.</p>
 </footer>
-<script src="/assets/app.js" defer></script>
+<script src="/assets/app.js?v=%(jsv)s" defer></script>
 </body>
 </html>
 """ % {
@@ -749,6 +764,8 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
         "auteur": esc(AUTEUR),
         "linkedin": LINKEDIN,
         "hue": hue,
+        "cssv": CSS_VERSION,
+        "jsv": JS_VERSION,
         "nav": nav,
         "body": body,
         "extra_head": extra_head,
@@ -779,34 +796,26 @@ def breadcrumb(page, by_url):
 
 
 def feedback_block(title, url):
-    """Bloc d'avis. Le site reste statique (aucune base de donnees, aucun
-    compte) : le message est transmis directement par e-mail via Web3Forms,
-    un service tiers qui ne fait que relayer vers l'adresse de l'auteur.
-    Voir /confidentialite/ pour le detail de ce qui est envoye."""
+    """Bloc d'amelioration. Le site reste statique (aucune base de donnees,
+    aucun compte) : le message est transmis directement par e-mail via
+    Web3Forms, un service tiers qui ne fait que relayer vers l'adresse de
+    l'auteur. Voir /confidentialite/#formulaire pour le detail."""
     return (
         '<section class="feedback" data-title="%s" data-url="%s">'
-        '<h2>Cette page vous a-t-elle été utile&nbsp;?</h2>'
-        '<div class="feedback-actions">'
-        '<button type="button" class="fb" data-avis="utile">Oui, utile</button>'
-        '<button type="button" class="fb" data-avis="incomplet">Incomplète</button>'
-        '<button type="button" class="fb" data-avis="erreur">Signaler une erreur</button>'
-        '<button type="button" class="fb" data-avis="ajout">Proposer un ajout</button>'
-        '</div>'
-        '<form class="feedback-panel" hidden>'
-        '<label>Votre message'
-        '<textarea class="fb-msg" maxlength="2000" rows="4"></textarea></label>'
-        '<div class="fb-count"><span class="fb-count-n">0</span>/2000</div>'
+        '<h2>Une amélioration à proposer sur cette page&nbsp;?</h2>'
+        '<form class="feedback-panel">'
         '<label>Votre prénom <span class="opt">(facultatif)</span>'
-        '<input class="fb-nom" type="text" maxlength="60" autocomplete="name"></label>'
+        '<input class="fb-nom" type="text" maxlength="60" autocomplete="name" placeholder="Comment vous signer"></label>'
+        '<label>Votre commentaire'
+        '<textarea class="fb-msg" maxlength="2000" rows="3" required '
+        'placeholder="Une erreur repérée, un passage confus, quelque chose qui manque…"></textarea></label>'
+        '<div class="fb-count"><span class="fb-count-n">0</span>/2000</div>'
         '<div class="fb-hp" aria-hidden="true">'
         '<label>Laisser vide<input class="fb-hp-input" type="text" tabindex="-1" autocomplete="off"></label>'
         '</div>'
-        '<div class="feedback-panel-actions">'
         '<button type="submit" class="fb-send">Envoyer</button>'
-        '<button type="button" class="fb-cancel">Annuler</button>'
-        '</div>'
         '</form>'
-        '<p class="feedback-note">Votre retour est transmis directement par '
+        '<p class="feedback-note">Votre commentaire est transmis directement par '
         'e-mail à l\'auteur, sans créer de compte ni être stocké sur ce '
         'site. <a href="/confidentialite/#formulaire">Détail</a>.</p>'
         '</section>' % (esc(title), esc(url)))
@@ -1143,34 +1152,45 @@ def render_mentions(nav):
     body.append(breadcrumb_simple("Mentions légales"))
     body.append("<h1>Mentions légales</h1>")
     body.append("""
-<h2>Éditeur du site</h2>
-<p>Ce site est édité à titre personnel et non commercial par <strong>%(auteur)s</strong>,
-personne physique, qui en assure la rédaction et la publication.</p>
-<p>Contact : <a href="%(repo)s/issues" target="_blank" rel="noopener">signaler une erreur ou
-écrire via GitHub</a>, ou <a href="%(linkedin)s" target="_blank" rel="noopener">LinkedIn</a>.</p>
-<p>Directeur de la publication : %(auteur)s.</p>
+<p class="lead">Conformément à l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
+dans l'économie numérique (LCEN), les présentes mentions identifient l'éditeur, l'hébergeur et les
+conditions d'utilisation de ce site.</p>
 
-<h2>Hébergement</h2>
+<h2>1. Éditeur du site</h2>
+<p>Ce site est édité à titre <strong>personnel, individuel et non commercial</strong> par
+<strong>%(auteur)s</strong>, personne physique, qui en assure seule la rédaction, la publication et
+la direction de la publication au sens de l'article 6-III de la LCEN. Le site ne réalise aucune
+vente, aucune prestation rémunérée et n'affiche aucune publicité.</p>
+<p>Contact : <a href="/contact/">formulaire de contact</a>,
+<a href="%(repo)s/issues" target="_blank" rel="noopener">GitHub</a> ou
+<a href="%(linkedin)s" target="_blank" rel="noopener">LinkedIn</a>.</p>
+
+<h2>2. Hébergement</h2>
 <p>Le site est hébergé par <strong>GitHub Pages</strong> — GitHub, Inc., 88 Colin P. Kelly Jr.
 Street, San Francisco, CA 94107, États-Unis
-(<a href="https://github.com" target="_blank" rel="noopener">github.com</a>).</p>
+(<a href="https://github.com" target="_blank" rel="noopener">github.com</a>), filiale de
+Microsoft Corporation.</p>
 <p>Le nom de domaine est enregistré chez <strong>OVH SAS</strong>, 2 rue Kellermann,
-59100 Roubaix, France.</p>
+59100 Roubaix, France, immatriculée au RCS de Lille sous le numéro 424 761 419
+(<a href="https://www.ovhcloud.com" target="_blank" rel="noopener">ovhcloud.com</a>).</p>
 <p>Le formulaire de contact et les boutons d'avis sont relayés par
 <strong>Web3Forms</strong>, service tiers qui transmet les messages par e-mail sans les stocker
 côté site. Voir <a href="/confidentialite/#formulaire">le détail sur la page confidentialité</a>.</p>
 
-<h2>Propriété intellectuelle et réutilisation</h2>
+<h2>3. Propriété intellectuelle et réutilisation</h2>
 <p>Les textes sont publiés sous licence
 <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target="_blank" rel="noopener">Creative
 Commons Attribution 4.0 International (CC BY 4.0)</a>. Vous pouvez les copier, les modifier, les
 traduire et les rediffuser, y compris à des fins commerciales, à condition de citer le projet et
 son auteur et d'indiquer si des modifications ont été apportées. Voir la
 <a href="/licence/">page de licence</a> pour la mention d'attribution à reprendre.</p>
-<p>Le code source du site est consultable
-<a href="%(repo)s" target="_blank" rel="noopener">sur GitHub</a>.</p>
+<p>Le code source du site (mise en page, feuilles de style, scripts) est distinct du contenu
+éditorial et consultable <a href="%(repo)s" target="_blank" rel="noopener">sur GitHub</a> ; il
+reste la propriété de son auteur sauf mention contraire dans le dépôt.</p>
+<p>La marque « %(site)s » et les illustrations propres à la mise en page du site ne sont pas
+couvertes par la licence CC BY 4.0, qui ne porte que sur le contenu rédactionnel des guides.</p>
 
-<h2>Nature du contenu et responsabilité</h2>
+<h2>4. Nature du contenu et responsabilité</h2>
 <p>Ce site a une vocation strictement <strong>éducative et informative</strong>. Son auteur n'est
 ni médecin, ni psychologue, ni sexologue, et le déclare ouvertement. Les contenus publiés sont des
 synthèses sourcées et datées, rédigées avec assistance d'intelligence artificielle puis vérifiées
@@ -1178,23 +1198,44 @@ et relues.</p>
 <p><strong>Rien sur ce site ne constitue un avis médical, psychologique ou juridique
 individualisé</strong>, ni un diagnostic, ni une prescription. Aucune information lue ici ne
 remplace la consultation d'un professionnel qualifié ayant examiné une situation réelle. L'auteur
-ne saurait être tenu responsable de l'usage fait de ces informations.</p>
+ne saurait être tenu responsable de l'usage fait de ces informations, ni des décisions prises sur
+leur seul fondement.</p>
 <p>Les données chiffrées portent leur date de vérification. Une donnée peut avoir été mise à jour
-par la recherche depuis sa publication.</p>
+par la recherche depuis sa publication ; voir la page
+<a href="/transversal/sources-et-dates-de-verification/">sources et dates de vérification</a>.</p>
 
-<h2>En cas d'urgence</h2>
+<h2>5. Disponibilité et évolution du site</h2>
+<p>L'éditeur s'efforce d'assurer l'exactitude et la mise à jour des informations publiées, sans
+garantie de résultat. Le site peut être modifié, suspendu ou interrompu à tout moment, notamment
+pour des raisons de maintenance, sans préavis ni indemnité. L'hébergeur ne garantit pas non plus
+une disponibilité continue du service.</p>
+
+<h2>6. Liens externes</h2>
+<p>Ce site renvoie vers des ressources externes (institutions de santé, associations, publications
+scientifiques). Leur contenu, leur exactitude et leurs propres conditions d'utilisation n'engagent
+que leurs éditeurs respectifs ; l'insertion d'un lien ne vaut ni caution ni recommandation
+exclusive.</p>
+
+<h2>7. Cookies et données personnelles</h2>
+<p>Ce site ne dépose aucun cookie et ne collecte aucune donnée personnelle en dehors de l'usage
+volontaire du formulaire de contact. Le détail complet, y compris vos droits au titre du RGPD, est
+sur la page <a href="/confidentialite/">confidentialité</a>.</p>
+
+<h2>8. Droit applicable et litiges</h2>
+<p>Les présentes mentions sont soumises au droit français. À défaut de résolution amiable via les
+<a href="/contact/">moyens de contact</a> ci-dessus, les tribunaux français compétents seraient
+seuls saisis de tout litige relatif à l'utilisation de ce site.</p>
+
+<h2>9. En cas d'urgence</h2>
 <p><strong>15</strong> (SAMU) pour une urgence médicale. <strong>3114</strong> pour la prévention
 du suicide, gratuit, 24 h/24 et 7 j/7, accessible aussi bien à la personne concernée qu'à un
 proche inquiet. Voir la page <a href="/transversal/signaux-d-alerte/">signaux d'alerte</a>.</p>
 
-<h2>Liens externes</h2>
-<p>Ce site renvoie vers des ressources externes (institutions de santé, associations, publications
-scientifiques). Leur contenu n'engage que leurs éditeurs respectifs.</p>
-
-<h2>Signaler une erreur</h2>
+<h2>10. Signaler une erreur</h2>
 <p>Toute erreur signalée est corrigée. C'est la contribution la plus utile qu'un lecteur puisse
-apporter : <a href="%(repo)s/issues" target="_blank" rel="noopener">ouvrir un signalement</a>.</p>
-""" % {"auteur": esc(AUTEUR), "repo": REPO, "linkedin": LINKEDIN})
+apporter : via le <a href="/contact/">formulaire de contact</a> ou en
+<a href="%(repo)s/issues" target="_blank" rel="noopener">ouvrant un signalement sur GitHub</a>.</p>
+""" % {"auteur": esc(AUTEUR), "repo": REPO, "linkedin": LINKEDIN, "site": esc(SITE_TITLE)})
     body.append("</article>")
     return layout("Mentions légales",
                   "Éditeur, hébergeur, licence et responsabilité éditoriale du site.",

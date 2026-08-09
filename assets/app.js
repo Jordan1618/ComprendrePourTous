@@ -87,13 +87,6 @@
       .catch(function () { onDone(false, "Envoi impossible (hors ligne ?). Ecrivez a " + MAIL + "."); });
   }
 
-  var LIBELLES = {
-    utile:     ["Retour positif", "Cette page m'a ete utile.\n\nCe qui m'a servi :\n"],
-    incomplet: ["Page incomplete", "Il me semble qu'il manque quelque chose sur cette page.\n\nCe que je cherchais :\n"],
-    erreur:    ["Signalement d'une erreur", "Je crois avoir repere une erreur.\n\nPassage concerne :\n\nCe qui me semble inexact :\n"],
-    ajout:     ["Proposition d'ajout", "Je propose un ajout sur cette page.\n\nSujet propose :\n\nPourquoi ce serait utile :\n"]
-  };
-
   function brancherCompteur(textarea, compteur, max) {
     if (!textarea || !compteur) return;
     textarea.addEventListener("input", function () {
@@ -101,6 +94,8 @@
     });
   }
 
+  /* Bloc d'amelioration en bas de page : un prenom facultatif et un
+     commentaire, envoyes directement, sans etape de selection prealable. */
   document.querySelectorAll(".feedback").forEach(function (bloc) {
     var panneau = bloc.querySelector(".feedback-panel");
     var texte = bloc.querySelector(".fb-msg");
@@ -108,42 +103,20 @@
     var hp = bloc.querySelector(".fb-hp-input");
     var compteurN = bloc.querySelector(".fb-count-n");
     var note = bloc.querySelector(".feedback-note");
-    var typeCourant = "utile";
 
     brancherCompteur(texte, compteurN, 2000);
-
-    bloc.querySelectorAll(".fb").forEach(function (btn) {
-      btn.addEventListener("click", function () {
-        typeCourant = btn.getAttribute("data-avis") || "utile";
-        var l = LIBELLES[typeCourant] || LIBELLES.utile;
-        if (panneau) {
-          panneau.hidden = false;
-          if (texte) {
-            texte.value = l[1];
-            texte.focus();
-            if (compteurN) compteurN.textContent = String(texte.value.length);
-          }
-        }
-      });
-    });
-
-    var annuler = bloc.querySelector(".fb-cancel");
-    if (annuler) {
-      annuler.addEventListener("click", function () { panneau.hidden = true; });
-    }
 
     if (panneau) {
       panneau.addEventListener("submit", function (e) {
         e.preventDefault();
         var titre = bloc.getAttribute("data-title") || document.title;
         var url = bloc.getAttribute("data-url") || location.pathname;
-        var l = LIBELLES[typeCourant] || LIBELLES.utile;
         var nom = nomChamp ? nomChamp.value.trim() : "";
         var msg = texte ? texte.value.trim() : "";
         var corps = (nom || "Un\u00b7e visiteur\u00b7se") + " a dit \u00ab\u00a0" + msg + "\u00a0\u00bb"
-          + "\n\n---\nType : " + l[0] + "\nPage : " + titre + "\n" + location.origin + url;
+          + "\n\n---\nPage : " + titre + "\n" + location.origin + url;
         envoyerFormulaire({
-          subject: "[Comprendre pour tous] " + l[0] + " \u2014 " + titre,
+          subject: "[Comprendre pour tous] Am\u00e9lioration propos\u00e9e \u2014 " + titre,
           message: corps,
           nom: nom,
           honeypot: hp ? hp.value : ""
@@ -153,7 +126,7 @@
               ? "Message envoy\u00e9, merci !"
               : (erreur || "Envoi impossible pour le moment.");
           }
-          if (ok && panneau) { panneau.hidden = true; panneau.reset(); }
+          if (ok && panneau) { panneau.reset(); if (compteurN) compteurN.textContent = "0"; }
         });
       });
     }
