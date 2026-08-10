@@ -1,6 +1,8 @@
 // Edge Function Supabase : reçoit un avis (étoiles + commentaire), vérifie
 // le honeypot et le jeton Cloudflare Turnstile, puis insère la ligne en
 // base avec la clé service_role (la seule autorisée à écrire, RLS oblige).
+// Envoie ensuite une notification par e-mail via Web3Forms (meme service
+// et meme cle publique que le formulaire de contact, voir assets/app.js).
 //
 // Déploiement : `supabase functions deploy soumettre-avis`
 // Secrets requis (supabase secrets set) : TURNSTILE_SECRET_KEY
@@ -13,6 +15,32 @@ const CORS_HEADERS = {
   "Access-Control-Allow-Headers": "authorization, x-client-info, apikey, content-type",
   "Access-Control-Allow-Methods": "POST, OPTIONS",
 };
+
+const WEB3FORMS_KEY = "daada50b-bc23-4a7b-b7f2-30632276cf6c";
+
+async function notifierParMail(avis: {
+  page_url: string; page_title: string; note: number; commentaire: string | null; nom: string | null;
+}) {
+  const corps = (avis.nom || "Un·e visiteur·se") + " a laissé " + avis.note + "/5" +
+    (avis.commentaire ? " et a dit « " + avis.commentaire + " »" : " sans commentaire") +
+    "\n\n---\nPage : " + avis.page_title + "\n" + avis.page_url +
+    "\n\nÀ approuver dans Supabase > Table Editor > avis.";
+  try {
+    await fetch("https://api.web3forms.com/submit", {
+      method: "POST",
+      headers: { "Content-Type": "application/json", Accept: "application/json" },
+      body: JSON.stringify({
+        access_key: WEB3FORMS_KEY,
+        subject: "[Comprendre pour tous] Nouvel avis à modérer — " + avis.page_title,
+        message: corps,
+        from_name: "Comprendre pour tous",
+      }),
+    });
+  } catch {
+    // La notification est un confort, pas une garantie : un echec ici ne
+    // doit jamais faire echouer l'enregistrement de l'avis lui-meme.
+  }
+}
 
 function reponse(body: unknown, status = 200) {
   return new Response(JSON.stringify(body), {
@@ -82,15 +110,21 @@ Deno.serve(async (req) => {
     Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!,
   );
 
+  const commentaireNet = commentaire ? commentaire.trim().slice(0, 1000) : null;
+  const nomNet = nom ? nom.trim().slice(0, 60) : null;
+
   const { error } = await supabase.from("avis").insert({
     page_url,
     page_title,
     note: noteNum,
-    commentaire: commentaire ? commentaire.trim().slice(0, 1000) : null,
-    nom: nom ? nom.trim().slice(0, 60) : null,
+    commentaire: commentaireNet,
+    nom: nomNet,
     approuve: false,
   });
 
   if (error) return reponse({ error: "Enregistrement impossible" }, 500);
+
+  await notifierParMail({ page_url, page_title, note: noteNum, commentaire: commentaireNet, nom: nomNet });
+
   return reponse({ ok: true });
 });

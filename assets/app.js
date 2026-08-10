@@ -94,12 +94,11 @@
     });
   }
 
-  /* Bloc d'amelioration en bas de page : un prenom facultatif et un
-     commentaire, envoyes directement, sans etape de selection prealable. */
+  /* Bloc d'amelioration en bas de page : un commentaire, envoye
+     directement, sans etape de selection prealable. */
   document.querySelectorAll(".feedback").forEach(function (bloc) {
     var panneau = bloc.querySelector(".feedback-panel");
     var texte = bloc.querySelector(".fb-msg");
-    var nomChamp = bloc.querySelector(".fb-nom");
     var hp = bloc.querySelector(".fb-hp-input");
     var compteurN = bloc.querySelector(".fb-count-n");
     var note = bloc.querySelector(".feedback-note");
@@ -111,14 +110,12 @@
         e.preventDefault();
         var titre = bloc.getAttribute("data-title") || document.title;
         var url = bloc.getAttribute("data-url") || location.pathname;
-        var nom = nomChamp ? nomChamp.value.trim() : "";
         var msg = texte ? texte.value.trim() : "";
-        var corps = (nom || "Un\u00b7e visiteur\u00b7se") + " a dit \u00ab\u00a0" + msg + "\u00a0\u00bb"
+        var corps = "Un\u00b7e visiteur\u00b7se a dit \u00ab\u00a0" + msg + "\u00a0\u00bb"
           + "\n\n---\nPage : " + titre + "\n" + location.origin + url;
         envoyerFormulaire({
           subject: "[Comprendre pour tous] Am\u00e9lioration ou signalement \u2014 " + titre,
           message: corps,
-          nom: nom,
           honeypot: hp ? hp.value : ""
         }, function (ok, erreur) {
           if (note) {

@@ -22,9 +22,9 @@ Site : https://www.comprendrepourtous.fr
 
 On entend parler de beaucoup de choses sans jamais savoir ce qu'elles sont vraiment. Endométriose, dépression masculine, IST, papillomavirus, post-partum. On connaît les mots, on en a une idée vague, et cette idée vague suffit à croire qu'on a compris. Elle ne suffit jamais le jour où ça concerne quelqu'un autour de soi.
 
-Mon objectif avec cette collection est éducatif : comprendre pour de vrai, avec des mécanismes expliqués plutôt que des définitions, des chiffres sourcés et datés plutôt que des impressions, et ce que ça change concrètement dans une relation plutôt que de la théorie.
+Ce projet vise un kit de base : de quoi se comprendre soi-même — dans son corps, ses émotions, ses schémas — et comprendre l'autre, pour construire une relation saine plutôt que la subir. Se connaître n'est pas la finalité ; c'est ce qui rend possible de construire sans se cogner aux mêmes murs, seul ou à deux. Aucun niveau de départ supposé : ça marche aussi bien pour combler un vide total que pour corriger un angle mort précis.
 
-J'écris chaque guide dans les deux sens. Celui sur le cycle féminin s'adresse autant aux femmes qui veulent comprendre leur propre corps qu'aux hommes qui veulent comprendre celui de leur partenaire. Celui sur la santé émotionnelle masculine fait exactement l'inverse. C'est la colonne vertébrale du projet : comprendre le corps et le fonctionnement de l'autre, ce n'est pas de la curiosité, c'est la condition pour s'y intéresser autrement qu'en surface.
+J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y reconnaître et évoluer par ce biais — celui sur le cycle féminin s'adresse autant aux femmes qui veulent comprendre leur propre corps qu'aux hommes qui veulent comprendre celui de leur partenaire, et l'inverse pour la santé émotionnelle masculine.
 
 **Rien ici n'est un avis médical individualisé.** C'est dit une fois, et pas répété à chaque page. Pour toute situation concrète, un professionnel de santé reste irremplaçable.
 

@@ -469,93 +469,81 @@ main::before {
 
 /* ------------------------------------------------------ avis & contact */
 
-.feedback {
-  max-width: 46rem; margin: 3rem 0 0; padding: 1.4rem 1.6rem;
+.feedback, .avis {
+  max-width: 46rem; padding: 1.5rem 1.7rem;
   background: var(--surface); border: 1px solid var(--border);
   border-left: 3px solid var(--accent); border-radius: 0 var(--radius) var(--radius) 0;
 }
-.feedback h2 {
-  margin: 0 0 .9rem; padding: 0; border: 0;
-  font-family: var(--sans); font-size: 1.02rem; font-weight: 650; letter-spacing: 0;
-}
-.feedback-note { margin: .9rem 0 0; font-size: .82rem; color: var(--faint); line-height: 1.5; }
-.feedback-panel label { font-size: .88rem; font-weight: 600; margin-top: .4rem; }
+.feedback { margin: 1.2rem 0 0; }
+.avis { margin: 3rem 0 0; }
 
-.contact-form, .feedback-panel { position: relative; display: flex; flex-direction: column; gap: .35rem; margin: 1.4rem 0; }
+/* En-tete commun : icone + titre + sous-titre, pour distinguer les deux
+   blocs d'un coup d'oeil sans dupliquer leur structure. */
+.block-head { display: flex; align-items: flex-start; gap: .7rem; margin: 0 0 1.1rem; }
+.block-icon { font-size: 1.3rem; line-height: 1.3; flex: none; }
+.block-head h2 {
+  margin: 0; padding: 0; border: 0;
+  font-family: var(--sans); font-size: 1.04rem; font-weight: 650; letter-spacing: 0;
+}
+.block-sub { margin: .15rem 0 0; font-size: .82rem; color: var(--faint); }
+
+.feedback-note, .avis-legal { margin: .9rem 0 0; font-size: .8rem; color: var(--faint); line-height: 1.5; }
+
+.contact-form, .feedback-panel, .avis-form {
+  position: relative; display: flex; flex-direction: column; gap: .6rem; margin: 0;
+}
+.avis-form[hidden] { display: none; }
 .contact-form label { font-size: .88rem; font-weight: 600; margin-top: .6rem; }
-.contact-form .opt, .feedback-panel .opt { font-weight: 400; color: var(--faint); }
+.contact-form .opt { font-weight: 400; color: var(--faint); }
+.avis-form-legend { margin: 0; font-size: .85rem; font-weight: 600; color: var(--muted); }
 .contact-form input, .contact-form select, .contact-form textarea,
-.feedback-panel input, .feedback-panel textarea {
+.feedback-panel textarea, .avis-form input, .avis-form textarea {
   width: 100%; box-sizing: border-box; font: inherit; padding: .6rem .8rem; color: var(--text);
   background: var(--surface); border: 1px solid var(--border); border-radius: 9px;
 }
-.contact-form textarea, .feedback-panel textarea { resize: vertical; min-height: 8rem; }
-.feedback-panel textarea { min-height: 5rem; }
+.contact-form textarea { resize: vertical; min-height: 8rem; }
+.feedback-panel textarea, .avis-form textarea { resize: vertical; min-height: 5rem; }
 .contact-form input:focus, .contact-form select:focus, .contact-form textarea:focus,
-.feedback-panel input:focus, .feedback-panel textarea:focus {
+.feedback-panel textarea:focus, .avis-form input:focus, .avis-form textarea:focus {
   border-color: var(--accent); outline: none; box-shadow: 0 0 0 3px var(--accent-soft);
 }
-.fb-count { align-self: flex-end; font-size: .78rem; color: var(--faint); }
+.fb-count, .avis-count { align-self: flex-end; margin-top: -.4rem; font-size: .78rem; color: var(--faint); }
 
 /* Piege a robots : invisible pour un visiteur humain, mais present dans le
    DOM pour les scripts automatises qui remplissent tous les champs. */
 .fb-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
 
-.contact-form button[type="submit"], .fb-send {
-  align-self: flex-start; margin-top: 1rem; padding: .7rem 1.3rem;
+.contact-form button[type="submit"], .fb-send, .avis-send {
+  align-self: flex-start; margin-top: .3rem; padding: .7rem 1.3rem;
   font: inherit; font-weight: 600; cursor: pointer;
   color: #fff; background: var(--accent);
   border: 1px solid var(--accent); border-radius: 10px;
 }
 :root[data-theme="dark"] .contact-form button[type="submit"],
-:root[data-theme="dark"] .fb-send { color: #10241f; }
+:root[data-theme="dark"] .fb-send, :root[data-theme="dark"] .avis-send { color: #10241f; }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) .contact-form button[type="submit"],
-  :root:not([data-theme="light"]) .fb-send { color: #10241f; }
+  :root:not([data-theme="light"]) .fb-send,
+  :root:not([data-theme="light"]) .avis-send { color: #10241f; }
 }
-.contact-form button[type="submit"]:hover, .fb-send:hover {
+.contact-form button[type="submit"]:hover, .fb-send:hover, .avis-send:hover {
   background: var(--accent-ink); border-color: var(--accent-ink);
 }
 
-/* ---------------------------------------------------------- bloc avis */
+.avis-note-msg { margin: 0; font-size: .85rem; font-weight: 600; color: var(--accent-ink); }
 
-.avis {
-  max-width: 46rem; margin: 2.2rem 0 0; padding: 1.4rem 1.6rem;
-  background: var(--surface); border: 1px solid var(--border);
-  border-left: 3px solid var(--accent); border-radius: 0 var(--radius) var(--radius) 0;
-}
-.avis h2 {
-  margin: 0 0 .9rem; padding: 0; border: 0;
-  font-family: var(--sans); font-size: 1.02rem; font-weight: 650; letter-spacing: 0;
-}
-.avis-form { position: relative; display: flex; flex-direction: column; gap: .35rem; margin: 1.4rem 0 0; }
-.avis-form[hidden] { display: none; }
-.avis-form label { font-size: .88rem; font-weight: 600; margin-top: .4rem; }
-.avis-form .opt { font-weight: 400; color: var(--faint); }
-.avis-form input, .avis-form textarea {
-  width: 100%; box-sizing: border-box; font: inherit; padding: .6rem .8rem; color: var(--text);
-  background: var(--surface); border: 1px solid var(--border); border-radius: 9px;
-}
-.avis-form textarea { resize: vertical; min-height: 5rem; }
-.avis-form input:focus, .avis-form textarea:focus {
-  border-color: var(--accent); outline: none; box-shadow: 0 0 0 3px var(--accent-soft);
-}
-.avis-count { align-self: flex-end; font-size: .78rem; color: var(--faint); }
-.avis-note-msg { margin: .7rem 0 0; font-size: .88rem; font-weight: 600; color: var(--accent-ink); }
-.avis-legal { margin: .9rem 0 0; font-size: .82rem; color: var(--faint); line-height: 1.5; }
-
-.avis-stars { display: flex; gap: .2rem; }
+.avis-stars { display: flex; gap: .15rem; margin: -.1rem 0 .1rem; }
 .star-btn {
-  font-size: 1.6rem; line-height: 1; padding: 0; border: 0; background: none;
-  color: var(--border); cursor: pointer;
+  font-size: 1.7rem; line-height: 1; padding: 0; border: 0; background: none;
+  color: var(--border); cursor: pointer; transition: color .1s ease;
 }
 .star-btn:hover { color: var(--accent); }
 .avis-stars .star-btn.is-active { color: var(--accent); }
 .avis-stars-ro { color: var(--accent); letter-spacing: .05em; }
 
-.avis-liste { margin: 0 0 1rem; }
+.avis-liste { margin: 0 0 1.3rem; padding-bottom: 1.3rem; border-bottom: 1px solid var(--border); }
 .avis-moyenne { margin: 0 0 .6rem; font-size: .95rem; }
-.avis-items { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .8rem; }
+.avis-items { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .7rem; }
 .avis-items li { padding: .7rem .9rem; background: var(--bg); border: 1px solid var(--border); border-radius: 9px; }
 .avis-item-head { display: flex; align-items: center; gap: .6rem; margin-bottom: .3rem; font-size: .88rem; }
 .avis-items p { margin: 0; font-size: .92rem; color: var(--text); line-height: 1.5; }
