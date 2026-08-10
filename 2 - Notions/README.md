@@ -41,6 +41,7 @@ La collection est jeune, cette liste est faite pour s'allonger.
 - [Effet de halo](<Effet de halo.md>)
 - [Homogamie](<Homogamie.md>)
 - [Désert relationnel](<Désert relationnel.md>)
+- [Kinkeeping](<Kinkeeping.md>)
 
 **Désir et intimité**
 - [Modèle du double contrôle](<Modèle du double contrôle.md>)

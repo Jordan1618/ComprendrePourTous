@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "angle"
-mis_a_jour_le: 2026-08-09
+mis_a_jour_le: 2026-08-10
 licence: "CC BY 4.0"
 ---
 
@@ -18,6 +18,7 @@ Comment le corps fonctionne concrètement, mécanisme par mécanisme.
 - [Panorama complet des troubles et pathologies du cycle](<../1 - Guides/Pour Elle/07 - Troubles et pathologies du cycle.md>)  `corps féminin` · Pour Elle
 - [La grossesse : physiologie et complications](<../1 - Guides/Pour Elle/09 - La grossesse.md>)  `corps féminin` · Pour Elle
 - [L'accouchement et le post-partum](<../1 - Guides/Pour Elle/10 - Accouchement et post-partum.md>)  `corps féminin` · Pour Elle
+- [Le corps féminin : ce qu'il est utile de savoir](<../1 - Guides/Pour Elle/21 - Le corps feminin ce qu il est utile de savoir.md>)  `corps féminin` · Pour Elle
 - [Le cycle masculin : ce qui existe vraiment](<../1 - Guides/Pour Lui/02 - Le cycle masculin.md>)  `corps masculin` · Pour Lui
 - [Le corps masculin : ce qu'il est utile de savoir](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>)  `corps masculin` · Pour Lui
 - [La sexualité masculine : anatomie, réponse, troubles](<../1 - Guides/Pour Lui/10 - La sexualite masculine.md>)  `corps masculin` · Pour Lui
@@ -35,6 +36,8 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<../1 - Guides/Pour Elle/03 - La sante emotionnelle feminine.md>)  `corps féminin` · Pour Elle
 - [La dépression féminine : le visage qu'elle prend](<../1 - Guides/Pour Elle/04 - La depression feminine.md>)  `corps féminin` · Pour Elle
 - [Anxiété, stress et corps : quand la plainte n'est pas entendue](<../1 - Guides/Pour Elle/05 - Anxiete stress et corps.md>)  `corps féminin` · Pour Elle
+- [Les grands profils féminins](<../1 - Guides/Pour Elle/20 - Les grands profils feminins.md>)  `corps féminin` · Pour Elle
+- [Les âges de la vie féminine](<../1 - Guides/Pour Elle/22 - Les ages de la vie feminine.md>)  `corps féminin` · Pour Elle
 - [Le substrat : analyse socio-neuro-psychologique](<../1 - Guides/Pour Lui/03 - Le substrat socio-neuro-psychologique.md>)  `corps masculin` · Pour Lui
 - [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<../1 - Guides/Pour Lui/04 - L'architecture émotionnelle.md>)  `corps masculin` · Pour Lui
 - [Les grands profils masculins](<../1 - Guides/Pour Lui/05 - Les grands profils masculins.md>)  `corps masculin` · Pour Lui
@@ -57,6 +60,7 @@ Dépistage, protection, risque réel contre risque perçu.
 - [La pilule et la contraception hormonale : raisonnement étape par étape](<../1 - Guides/Pour Elle/06 - Contraception hormonale.md>)  `corps féminin` · Pour Elle
 - [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<../1 - Guides/Pour Elle/11 - Les pieges de la modernite.md>)  `corps féminin` · Pour Elle
 - [Les peurs : lesquelles sont fondées, et comment avancer](<../1 - Guides/Pour Elle/12 - Les peurs rationnelles ou non.md>)  `corps féminin` · Pour Elle
+- [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Elle/26 - La sante sur le long terme.md>)  `corps féminin` · Pour Elle
 - [La contraception masculine : ce qui existe vraiment](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>)  `corps masculin` · Pour Lui
 - [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>)  `corps masculin` · Pour Lui
 - [Ce qui se répare vraiment : les prises en charge qui ont des preuves](<../1 - Guides/Pour Nous/03 - Ce qui se repare vraiment.md>)  `commun` · Pour Nous
@@ -77,6 +81,9 @@ Dépistage, protection, risque réel contre risque perçu.
 Ce que ça change concrètement quand on est deux.
 
 - [La sexualité féminine : anatomie, réponse sexuelle, troubles](<../1 - Guides/Pour Elle/08 - Sexualité féminine.md>)  `corps féminin` · Pour Elle
+- [Le désert relationnel féminin : soutenir tout le monde, être soutenue par personne](<../1 - Guides/Pour Elle/23 - Le desert relationnel feminin.md>)  `corps féminin` · Pour Elle
+- [La boîte à outils de couple](<../1 - Guides/Pour Elle/24 - La boite a outils de couple.md>)  `corps féminin` · Pour Elle
+- [Les limites : ce qui n'est pas à toi de porter](<../1 - Guides/Pour Elle/25 - Les limites.md>)  `corps féminin` · Pour Elle
 - [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/11 - La sexualité comme langage émotionnel.md>)  `corps masculin` · Pour Lui
 - [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/12 - Le désir dans la durée.md>)  `corps masculin` · Pour Lui
 - [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>)  `corps masculin` · Pour Lui
@@ -132,6 +139,7 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Ressources et associations utiles](<../1 - Guides/Pour Elle/16 - Ressources et associations.md>)  `corps féminin` · Pour Elle
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/17 - Glossaire des termes médicaux.md>)  `corps féminin` · Pour Elle
 - [Sources vérifiables](<../1 - Guides/Pour Elle/18 - Sources verifiables.md>)  `corps féminin` · Pour Elle
+- [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Elle/19 - Le decor ce que disent les chiffres.md>)  `corps féminin` · Pour Elle
 - [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Lui/01 - Ce que disent les chiffres.md>)  `corps masculin` · Pour Lui
 - [Aide-mémoire](<../1 - Guides/Pour Lui/21 - Aide-mémoire.md>)  `corps masculin` · Pour Lui
 - [Sources vérifiables](<../1 - Guides/Pour Lui/22 - Sources verifiables.md>)  `corps masculin` · Pour Lui

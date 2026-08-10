@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sujet"
-mis_a_jour_le: 2026-08-09
+mis_a_jour_le: 2026-08-10
 licence: "CC BY 4.0"
 ---
 
@@ -33,6 +33,14 @@ Ce qui concerne le corps et le fonctionnement féminins. À lire pour se compren
 - [Ressources et associations utiles](<../1 - Guides/Pour Elle/16 - Ressources et associations.md>)  `repères`
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/17 - Glossaire des termes médicaux.md>)  `repères`
 - [Sources vérifiables](<../1 - Guides/Pour Elle/18 - Sources verifiables.md>)  `repères`
+- [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Elle/19 - Le decor ce que disent les chiffres.md>)  `repères`
+- [Les grands profils féminins](<../1 - Guides/Pour Elle/20 - Les grands profils feminins.md>)  `psychologie`
+- [Le corps féminin : ce qu'il est utile de savoir](<../1 - Guides/Pour Elle/21 - Le corps feminin ce qu il est utile de savoir.md>)  `physiologie`
+- [Les âges de la vie féminine](<../1 - Guides/Pour Elle/22 - Les ages de la vie feminine.md>)  `psychologie`
+- [Le désert relationnel féminin : soutenir tout le monde, être soutenue par personne](<../1 - Guides/Pour Elle/23 - Le desert relationnel feminin.md>)  `relation`
+- [La boîte à outils de couple](<../1 - Guides/Pour Elle/24 - La boite a outils de couple.md>)  `relation`
+- [Les limites : ce qui n'est pas à toi de porter](<../1 - Guides/Pour Elle/25 - Les limites.md>)  `relation`
+- [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Elle/26 - La sante sur le long terme.md>)  `prévention`
 
 ## Corps masculin
 

@@ -18,3 +18,4 @@ Dans les premières semaines, cela ne ressemble pas à de la menace mais à de l
 **Où c'est développé**
 - [Les signaux d'alerte documentés](<../1 - Guides/La rencontre/07 - Les signaux d alerte documentes.md>), avec le test de la réaction à un inconfort exprimé.
 - [Signaux d'alerte](<../3 - Transversal/Signaux d'alerte.md>).
+- [Les limites : ce qui n'est pas à toi de porter](<../1 - Guides/Pour Elle/25 - Les limites.md>), sur la frontière entre maladresse relationnelle et contrôle réel, dans les deux sens.

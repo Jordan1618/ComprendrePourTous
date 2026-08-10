@@ -2,10 +2,10 @@
 projet: "Comprendre pour tous"
 type: "collection"
 guides: 9
-chapitres: 108
-mots: 107243
+chapitres: 121
+mots: 143771
 cree_le: 2026-07-21
-mis_a_jour_le: 2026-08-06
+mis_a_jour_le: 2026-08-10
 licence: "CC BY 4.0"
 auteur: "Jordan1618"
 depot: "https://github.com/Jordan1618/ComprendrePourTous"
@@ -32,7 +32,7 @@ J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y
 
 | Guide | Sujet | Chapitres | Contenu | Intégrale |
 |---|---|---|---|---|
-| [Pour Elle](<1 - Guides/Pour Elle/README.md>) | corps féminin | 17 | Cycle, contraception, pathologies, sexualité, grossesse, santé mentale, peurs| [lire](<0 - Guides complets/Pour Elle.md>) |
+| [Pour Elle](<1 - Guides/Pour Elle/README.md>) | corps féminin | 26 | Cycle, contraception, pathologies, sexualité, grossesse, profils psychologiques, âges de la vie, couple, limites| [lire](<0 - Guides complets/Pour Elle.md>) |
 | [Pour Lui](<1 - Guides/Pour Lui/README.md>) | corps masculin | 21 | Émotions, dépression, corps, cycle, contraception, sexualité, couple, santé long terme| [lire](<0 - Guides complets/Pour Lui.md>) |
 | [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 6 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV | [lire](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [lire](<0 - Guides complets/Massage professionnel.md>) |
@@ -42,7 +42,7 @@ J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y
 | [L'amour](<1 - Guides/L amour/README.md>) | commun | 9 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir, engagement | [lire](<0 - Guides complets/L'amour.md>) |
 | [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 12 | Trauma, quotidien et charge, projets de vie, épreuves, deuil, histoire du couple| [lire](<0 - Guides complets/Pour Nous.md>) |
 
-Environ 107 200 mots au total.
+Environ 143 800 mots au total.
 
 Un document à part condense le meilleur de chaque guide, 15 items maximum par guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>). C'est une synthèse tenue à la main, pas un artefact généré par `build-guides-complets.py`.
 

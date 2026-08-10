@@ -2,12 +2,12 @@
 type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
-chapitres: 18
-mots: 32912
-verifie_le: 2026-08-07
+chapitres: 26
+mots: 42926
+verifie_le: 2026-08-10
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
-genere_le: 2026-08-09
+genere_le: 2026-08-10
 ---
 
 # Pour Elle
@@ -42,6 +42,14 @@ Sa particularité est de ne jamais s'arrêter au mécanisme biologique. Chaque p
 - **16.** Ressources et associations utiles
 - **17.** Glossaire complet des termes médicaux employés dans ce document
 - **18.** Sources vérifiables
+- **19.** Le décor : ce que disent les chiffres
+- **20.** Les grands profils féminins
+- **21.** Le corps féminin : ce qu'il est utile de savoir
+- **22.** Les âges de la vie féminine
+- **23.** Le désert relationnel féminin : soutenir tout le monde, être soutenue par personne
+- **24.** La boîte à outils de couple
+- **25.** Les limites : ce qui n'est pas à toi de porter
+- **26.** La santé sur vingt ans : ce qui compte et quand
 
 ---
 
@@ -1367,3 +1375,617 @@ Cette page regroupe les sources introduites lors du passage à une source par so
 | Modèle vulnérabilité-stress-adaptation du couple (14.6) | Karney, B. & Bradbury, T., *The longitudinal course of marital quality and stability*, Psychological Bulletin, 1995 | 7 août 2026 |
 
 Retour au [guide Pour Elle](<../1 - Guides/Pour Elle/README.md>).
+
+---
+
+## 19. Le décor : ce que disent les chiffres
+
+### 19.1 Le paradoxe central, en une phrase
+
+Les femmes vivent plus longtemps que les hommes, mais passent plus de ces années en mauvaise santé, moins écoutées, et diagnostiquées plus tard — pas malgré le fait qu'elles consultent davantage, mais en dépit de ce fait.
+
+En France, [l'espérance de vie à la naissance atteint 85,9 ans pour les femmes contre 80,3 ans pour les hommes en 2025, un écart de 5,6 ans qui s'est réduit depuis 1995](https://www.insee.fr/fr/statistiques/8719824?sommaire=8721209). Mais vivre plus longtemps ne veut pas dire vivre mieux : à l'échelle systémique, [les femmes reçoivent un diagnostic en moyenne quatre ans plus tard que les hommes, tous types de maladies confondus](https://www.nature.com/articles/s41467-019-08475-9) — une étude portant sur 6,9 millions de patients danois et 770 pathologies distinctes, qui a mesuré des écarts allant jusqu'à 4,5 ans de retard pour les maladies métaboliques comme le diabète, et un diagnostic de trouble du déficit de l'attention posé en moyenne à 20 ans chez les femmes contre 14 ans chez les hommes.
+
+### 19.2 La détresse psychique déclarée, et son décalage de prise en charge
+
+En 2024, [15,6 % des adultes de 18 à 79 ans en France métropolitaine ont vécu un épisode dépressif caractérisé dans l'année](https://www.santepubliquefrance.fr/en/mental-health/depression-and-anxiety), et [les femmes sont plus touchées que les hommes par l'anxiété et la dépression, tout comme les jeunes adultes et les personnes en situation de précarité ou d'isolement](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_1.html). La prévalence du trouble anxieux généralisé s'élevait à 6,3 % en 2024.
+
+Sur le non-recours aux soins, [39,2 % des hommes concernés par un trouble anxieux généralisé n'ont consulté personne](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_1.html) — un chiffre qui, en creux, rappelle qu'une part significative des femmes concernées ne consulte pas non plus, même si l'écart penche en leur faveur. Consulter davantage n'efface pas l'écart de fond : c'est justement l'objet de la sous-partie suivante.
+
+### 19.3 Le corps qu'on ne croit pas assez
+
+[Un peu plus d'une femme sur deux déclare avoir déjà eu ses symptômes ou sa douleur minimisés par un professionnel de santé en raison de son genre](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la). Ce n'est pas une impression isolée : [aux urgences, une douleur abdominale chez une femme est plus souvent interprétée d'emblée comme gynécologique](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la), ce qui retarde la recherche d'autres causes.
+
+L'endométriose en est l'exemple le plus documenté : [le délai moyen entre les premiers symptômes et le diagnostic reste d'environ 7 ans en France](https://www.sciencedirect.com/science/article/abs/pii/S2468718922003415), alors que la maladie touche environ 2,5 millions de femmes dans le pays. Voir le chapitre Panorama des pathologies fréquentes pour le détail clinique.
+
+### 19.4 La charge invisible
+
+[Les femmes assurent 64 % des tâches domestiques et 71 % des tâches parentales au sein des foyers](https://www.insee.fr/fr/statistiques/fichier/1303232/es478h.pdf), une répartition mesurée sur les enquêtes Emploi du temps de l'Insee. Ce déséquilibre ne se limite pas au temps passé à faire : il inclut le temps passé à anticiper, planifier et se souvenir à la place de l'autre — la part la moins visible, et la plus difficile à chiffrer. Voir le chapitre Charge mentale et répartition pour le mécanisme complet et les leviers concrets.
+
+### 19.5 Ce que ces chiffres ne disent pas
+
+Ils ne disent pas que chaque femme vit tout ça, ni à la même intensité. Ils disent trois choses utiles :
+
+- La plainte physique ou psychique d'une femme a statistiquement plus de chances d'être minimisée avant d'être prise au sérieux.
+- Le corps qui encaisse une charge invisible sur des années finit par présenter une facture, pas toujours reconnue comme liée.
+- Consulter plus souvent ne suffit pas à compenser un système qui écoute plus lentement — la vigilance individuelle (insister, reformuler, demander un deuxième avis) reste, pour l'instant, un outil réel bien qu'imparfait.
+
+## Sources vérifiables
+
+- Insee, [Bilan démographique 2025](https://www.insee.fr/fr/statistiques/8719824?sommaire=8721209) ; vérification du 10 août 2026.
+- Westergaard et al., [« Population-wide analysis of differences in disease progression patterns in men and women »](https://www.nature.com/articles/s41467-019-08475-9), *Nature Communications*, 2019 ; vérification du 10 août 2026.
+- Santé publique France, [Baromètre santé mentale 2024](https://www.santepubliquefrance.fr/en/mental-health/depression-and-anxiety) ; vérification du 10 août 2026.
+- Santé publique France, [BEH 2025-14, prévalence des états anxieux](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_1.html) ; vérification du 10 août 2026.
+- Fédération Hospitalière de France / Ipsos, [enquête sur les biais de genre dans la prise en charge médicale](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la) ; vérification du 10 août 2026.
+- [Délais diagnostiques et parcours des patientes souffrant d'endométriose en France : une étude multicentrique](https://www.sciencedirect.com/science/article/abs/pii/S2468718922003415), *ScienceDirect* ; vérification du 10 août 2026.
+- Insee, [Le temps domestique et parental des hommes et des femmes](https://www.insee.fr/fr/statistiques/fichier/1303232/es478h.pdf), *Économie et Statistique* n°478-479-480, 2015 ; vérification du 10 août 2026.
+
+---
+
+## 20. Les grands profils féminins
+
+Ce qui suit n'est pas une typologie de personnalités mais une typologie de stratégies — les mêmes mots d'ouverture que son chapitre miroir côté Pour Lui, parce que le principe est identique : ce sont des modes de fonctionnement adoptés pour résoudre un problème donné, avec les moyens disponibles, pas des cases figées. Une même femme peut passer d'un profil à l'autre selon la période de sa vie, et la plupart en combinent deux.
+
+Pour chacun : le fonctionnement, ce qui le fait tenir, ce qui la fait tomber amoureuse, ce qui le casse, la vigilance en couple, et des bons réflexes concrets. Certains profils n'ont pas d'équivalent direct côté Pour Lui — la socialisation genrée ne produit pas les mêmes contraintes des deux côtés, et forcer un miroir parfait aurait été plus faux qu'utile.
+
+### 20.1 La conciliante
+
+**Fonctionnement.** Son énergie va vers l'harmonie du groupe avant la sienne propre. Elle sent les tensions avant qu'elles n'éclatent et agit pour les désamorcer, souvent avant même d'avoir vérifié ce qu'elle, elle, ressentait. Très appréciée, souvent épuisée en silence.
+
+**Ce qui la fait tenir.** Le sentiment que la relation tient grâce à elle.
+
+**Ce qui la fait tomber amoureuse.** Quelqu'un qui remarque l'effort avant qu'elle n'ait à le signaler, et qui la libère explicitement de l'obligation d'être toujours celle qui arrondit les angles.
+
+**Ce qui la casse.** L'accumulation invisible : elle ne se plaint pas à un niveau qui alerterait l'entourage, jusqu'au point de rupture, souvent perçu de l'extérieur comme soudain alors qu'il ne l'est pas. Ce profil recoupe la dimension « Nice in Relationships » mesurée par l'inventaire de conformité aux normes féminines — la pression à développer des relations attentionnées et compatissantes avant ses propres besoins.
+
+**Vigilance en couple.** L'absence de conflit n'est pas une preuve que tout va bien. Il faut aller chercher activement ce qu'elle tait, parce qu'elle ne l'apportera pas spontanément — le faire serait, dans sa logique, créer la tension qu'elle travaille à éviter. [Le développement de l'inventaire de conformité aux normes féminines identifie cette dimension comme l'une des plus centrales dans la socialisation genrée occidentale](https://link.springer.com/article/10.1007/s11199-005-3709-7).
+
+**Bons réflexes.**
+- Demander explicitement « qu'est-ce qui t'a coûté cette semaine ? » plutôt que « ça va ? », auquel elle répondra presque toujours oui.
+- Remercier l'effort d'apaisement quand il est visible, au lieu de le traiter comme l'état normal des choses.
+- Créer volontairement un désaccord mineur sans enjeu, pour lui montrer que le conflit ne fait pas s'effondrer la relation.
+
+👁️ **Vu de l'autre côté**
+Perception générale : une femme conciliante est souvent lue comme naturellement facile à vivre, comme si l'absence de friction était un trait de caractère plutôt qu'un travail actif et coûteux. Côté masculin en particulier, ce travail invisible est souvent pris pour de l'évidence — au point de ne jamais être nommé, encore moins remercié, jusqu'au jour où il s'arrête.
+Dans sa tête à lui : « elle n'a jamais rien dit, donc ça allait ».
+
+### 20.2 L'irréprochable
+
+**Fonctionnement.** Perfectionniste, hyperorganisée, exigeante avec elle-même bien au-delà de ce qu'elle exigerait de quiconque. Sous la compétence apparente, une vigilance permanente contre l'erreur.
+
+**Ce qui la fait tenir.** Le contrôle sur ce qui est objectivement mesurable — la maison tenue, le planning respecté, les enfants suivis, le travail bien fait.
+
+**Ce qui la fait tomber amoureuse.** Une personne qui la valorise pour ce qu'elle est en dehors de ce qu'elle accomplit, et qui le lui prouve précisément dans les moments où elle a lâché quelque chose.
+
+**Ce qui la casse.** L'échec visible, la comparaison sociale défavorable, et l'impossibilité de déléguer sans anxiété. [Une étude sur le perfectionnisme chez les étudiantes montre que la pleine conscience joue un rôle protecteur contre l'anxiété liée au perfectionnisme spécifiquement chez les femmes](https://oresquebec.ca/articles-de-veille/anxiete-et-perfectionnisme-chez-les-etudiantes-du-college-resultats-de-recherche/), ce qui suggère un mécanisme différent de celui observé chez les hommes.
+
+**Vigilance en couple.** Les compliments vagues ne rassurent pas ce profil, ils confirment au contraire qu'on n'a pas vraiment regardé. La critique, même mineure et même bienveillante, arrive amplifiée. [La socialisation genrée encourage les filles à anticiper les menaces et à mobiliser des stratégies centrées sur l'émotion plutôt que sur le problème](https://oresquebec.ca/articles-de-veille/anxiete-et-perfectionnisme-chez-les-etudiantes-du-college-resultats-de-recherche/), ce qui nourrit ce mode de fonctionnement dès l'enfance.
+
+**Bons réflexes.**
+- Complimenter un détail précis, jamais une généralité — « tu as pensé à X » plutôt que « t'es incroyable ».
+- Proposer de déléguer une tâche minuscule et sans enjeu, pour désamorcer l'anxiété de délégation par la petite dose.
+- Ne jamais critiquer devant témoin, même sur un point mineur — l'amplification est proportionnelle à l'exposition sociale.
+
+👁️ **Vu de l'autre côté**
+Perception générale : l'irréprochable est souvent perçue comme quelqu'un qui « n'a pas besoin d'aide », précisément parce qu'elle ne montre jamais la faille — ce qui décourage l'entourage de proposer un soutien qui pourtant serait accueilli avec soulagement.
+Dans sa tête à lui : « elle gère tellement bien que je me dis que je la dérangerais en proposant de l'aide ».
+
+### 20.3 La donneuse de soin
+
+**Fonctionnement.** Son identité est indexée sur ce qu'elle apporte aux autres — attention, organisation du foyer, anticipation des besoins de chacun. Elle aime en prenant soin, et sait rarement recevoir ce même soin en retour sans malaise.
+
+**Ce qui la fait tenir.** Le sentiment d'être irremplaçable dans le fonctionnement quotidien des personnes dont elle s'occupe.
+
+**Ce qui la fait tomber amoureuse.** Quelqu'un qui prend soin d'elle sans qu'elle ait eu à l'organiser elle-même — l'inverse exact de son mode de fonctionnement habituel, ce qui le rend d'autant plus marquant.
+
+**Ce qui la casse.** Le sentiment de n'être vue que comme fonction et jamais comme personne, et l'absence de retour quand l'attention qu'elle donne n'est plus perçue comme un choix mais comme un dû. Ce profil recoupe directement les dimensions « Domestic » et « Care for Children » de l'inventaire de conformité aux normes féminines, [le souci du foyer et des obligations familiales comme norme identitaire](https://genderhealthdata.org/wp-content/uploads/gravity_forms/scale-repository-PDFs/Conformity-to-Feminine-Norms-Inventory.pdf).
+
+**Vigilance en couple.** Elle ne demande presque jamais rien pour elle directement — le lui proposer explicitement compte plus que d'attendre qu'elle formule une demande qu'elle ne formulera pas. Voir le chapitre sur la charge mentale et sa répartition pour le mécanisme complet.
+
+**Bons réflexes.**
+- Organiser quelque chose pour elle sans le lui demander en amont — le geste perd sa valeur si elle doit encore le planifier elle-même.
+- Nommer explicitement ce qu'elle fait qui passe inaperçu, une fois par semaine suffit à changer la donne.
+- Lui poser une question qui ne porte sur personne d'autre qu'elle : « et toi, tu voudrais quoi ? ».
+
+👁️ **Vu de l'autre côté**
+Perception générale : la donneuse de soin est souvent perçue comme comblée par le fait même de prendre soin des autres, comme si le don épuisait son propre besoin d'en recevoir — une lecture qui confond ce qu'elle fait avec ce dont elle a besoin.
+Dans sa tête à lui : « elle a l'air heureuse de s'occuper de tout le monde, donc ça doit lui suffire ».
+
+### 20.4 L'hypervigilante
+
+**Fonctionnement.** Réactivité élevée aux signaux faibles de menace ou de tension, scan permanent de l'environnement social et physique. De l'extérieur : quelqu'un d'attentive, parfois anxieuse. De l'intérieur : quelqu'un qui traite en continu une quantité d'informations que les autres ne remarquent même pas.
+
+**Ce qui la fait tenir.** La prévisibilité. Anticiper réduit l'incertitude, et l'incertitude est ce qui coûte le plus cher à ce profil.
+
+**Ce qui la fait tomber amoureuse.** La constance. Une personne fiable, prévisible dans ses réactions, produit chez elle un relâchement progressif de la vigilance — rare, et donc précieux.
+
+**Ce qui la casse.** L'imprévisibilité prolongée chez un proche, les environnements où la menace est réelle mais non maîtrisable, l'épuisement du système d'alerte lui-même. [Les méta-analyses sur les différences de personnalité entre les sexes montrent un score de neuroticisme et d'anxiété plus élevé chez les femmes que chez les hommes, de façon relativement constante à travers les cultures](https://www.sciencedirect.com/science/article/pii/S0191886926001704). Ce profil recoupe la notion d'[hypervigilance](<../2 - Notions/Hypervigilance.md>).
+
+**Vigilance en couple.** Le calme affiché de l'autre ne suffit pas à désamorcer l'alerte — il faut de la constance démontrée dans le temps, pas une seule preuve ponctuelle. Nommer explicitement ce qui va se passer, avant que ça se passe, réduit la charge de scan de façon disproportionnée par rapport à l'effort que ça demande.
+
+**Bons réflexes.**
+- Prévenir des changements de programme le plus tôt possible, même mineurs — c'est l'incertitude qui coûte, pas le changement lui-même.
+- Répondre aux messages dans un délai stable et prévisible, plus important que la rapidité en soi.
+- Ne jamais répondre « calme-toi » à une alerte — ça invalide le signal sans en traiter la cause.
+
+👁️ **Vu de l'autre côté**
+Perception générale : l'hypervigilance est souvent lue comme de l'anxiété excessive ou du contrôle, alors qu'elle correspond à un système d'alerte qui a appris, souvent avec raison, que l'environnement mérite d'être scanné.
+Dans sa tête à lui : « elle s'inquiète pour rien » — sans se demander ce qui a rendu ce scan nécessaire au départ.
+
+### 20.5 La suradaptée
+
+**Fonctionnement.** Elle ajuste en continu ce qu'elle exprime pour préserver la relation, au point de perdre le contact avec sa propre opinion. Ce n'est pas de la gentillesse, c'est une stratégie de sécurité relationnelle : taire ce qui pourrait créer une distance.
+
+**Ce qui la fait tenir.** Le sentiment que la relation est intacte — même au prix de sa propre voix.
+
+**Ce qui la fait tomber amoureuse.** Quelqu'un qui lui demande explicitement son avis dissident et qui l'accueille sans se braquer, prouvant que la relation supporte le désaccord.
+
+**Ce qui la casse.** L'écart cumulatif entre ce qu'elle pense et ce qu'elle dit. [La théorie du « silencing the self » établit que les schémas relationnels poussant à taire ses pensées et à privilégier les besoins d'autrui pour préserver la sécurité et l'intimité de la relation constituent un facteur de vulnérabilité spécifique à la dépression chez les femmes](https://journals.sagepub.com/doi/10.1111/j.1471-6402.1992.tb00242.x), documenté depuis sur plus de 125 études.
+
+**Vigilance en couple.** Un accord trop facile, trop systématique, n'est pas un bon signal — c'est souvent le symptôme, pas la preuve d'une relation apaisée. Le silence prolongé sur un sujet précis mérite d'être creusé activement plutôt que pris pour un non-problème.
+
+**Bons réflexes.**
+- Poser des questions qui présupposent un désaccord possible : « qu'est-ce qui te dérangerait là-dedans ? » plutôt que « ça te va ? ».
+- Valoriser explicitement les moments où elle exprime un désaccord, même mineur.
+- Vérifier régulièrement, sur des sujets neutres, que son avis correspond bien à ce qu'elle a dit — sans en faire un interrogatoire.
+
+👁️ **Vu de l'autre côté**
+Perception générale : la suradaptée est souvent perçue comme facile à vivre et sans besoins particuliers, un silence lu comme un accord réel plutôt que comme un renoncement actif.
+Dans sa tête à lui : « on n'a jamais eu de vrai désaccord, ça doit vouloir dire qu'on est très compatibles ».
+
+### 20.6 La performeuse en surcharge
+
+**Fonctionnement.** Elle tient deux vies pleines à la fois — professionnelle et domestique — sans réduire l'exigence sur aucune des deux. Rien ne semble jamais retiré de la liste, seulement ajouté.
+
+**Ce qui la fait tenir.** La preuve continue qu'elle peut tout assumer, portée autant par elle-même que par l'entourage qui s'y habitue.
+
+**Ce qui la fait tomber amoureuse.** Quelqu'un qui retire concrètement une charge de sa liste, sans qu'elle ait à le demander, le planifier, ni le vérifier ensuite.
+
+**Ce qui la casse.** [Les recherches sur la « deuxième journée de travail » documentent que les femmes en emploi à temps plein assurent l'essentiel du travail domestique et parental au retour du travail rémunéré, avec des conséquences mesurables sur l'épuisement, la tension conjugale et la santé](https://en.wikipedia.org/wiki/The_Second_Shift) — un mécanisme distinct du perfectionnisme de l'irréprochable : ici, la surcharge est réelle et cumulative, pas seulement anxieuse.
+
+**Vigilance en couple.** « Je peux t'aider » ne suffit pas — l'aide qui reste conditionnée à une demande explicite laisse la charge de coordination intacte, qui est elle-même une part du fardeau. La bascule utile est de prendre une responsabilité entière, de bout en bout, pas une tâche ponctuelle.
+
+**Bons réflexes.**
+- Prendre en charge un domaine entier de façon permanente plutôt que « donner un coup de main » ponctuellement.
+- Remarquer et nommer la charge de planification, pas seulement la charge d'exécution.
+- Proposer explicitement du temps de repos non productif, en le rendant concret (« je m'occupe de tout samedi matin, ne prévois rien »).
+
+👁️ **Vu de l'autre côté**
+Perception générale : la performeuse en surcharge est souvent perçue comme ayant choisi ce rythme, comme si l'accumulation était une préférence personnelle plutôt qu'une répartition par défaut jamais vraiment renégociée.
+Dans sa tête à lui : « elle aime que tout soit fait à sa façon, c'est pour ça qu'elle prend tout en charge ».
+
+### 20.7 La vigilante de l'apparence
+
+**Fonctionnement.** Une part significative de son attention va au contrôle de son image — comment son corps est perçu, en continu, y compris dans des contextes qui n'ont objectivement rien à voir avec l'apparence.
+
+**Ce qui la fait tenir.** La maîtrise de l'image renvoyée, qui fonctionne comme un filet de sécurité social.
+
+**Ce qui la fait tomber amoureuse.** Un regard qui la valorise sans jamais commenter son apparence — la retirant, pour une fois, de la position d'objet regardé.
+
+**Ce qui la casse.** [La théorie de l'objectification établit que l'intériorisation d'un regard extérieur évaluateur sur son propre corps entraîne une auto-surveillance corporelle chronique, elle-même associée à la honte corporelle, à l'anxiété liée à l'apparence, à la dépression et aux troubles du comportement alimentaire](https://journals.sagepub.com/doi/10.1111/j.1471-6402.1997.tb00108.x) — un mécanisme documenté comme touchant les femmes de façon disproportionnée du fait de l'objectification sexuelle culturelle plus fréquente de leur corps.
+
+**Vigilance en couple.** Les remarques sur l'apparence, même positives, entretiennent le mécanisme de surveillance plutôt que de le désamorcer. Valoriser ce qu'elle fait ou pense a un effet plus durable que valoriser ce qu'elle montre.
+
+**Bons réflexes.**
+- Complimenter une action, une idée ou une décision plutôt qu'un aspect physique, surtout dans les contextes sans rapport avec l'apparence.
+- Ne jamais commenter un changement de poids ou d'apparence, même en bien — ça confirme que c'est surveillé.
+- Créer des contextes où l'apparence n'est objectivement pas le sujet (activité physique non compétitive, discussion de fond) et y être pleinement présent.
+
+👁️ **Vu de l'autre côté**
+Perception générale : l'attention portée à l'apparence est souvent lue comme de la coquetterie ou de la vanité, rarement comme le symptôme d'une auto-surveillance apprise et coûteuse en énergie mentale.
+Dans sa tête à lui : « elle passe du temps à se préparer parce que ça lui fait plaisir » — sans envisager que ce temps soit aussi, en partie, un travail de gestion du regard des autres.
+
+### 20.8 La fusionnelle
+
+**Fonctionnement.** Elle n'existe pleinement qu'en relation. Investissement total, disponibilité totale, et dissolution progressive de sa vie propre dans celle du couple.
+
+**Ce qui la fait tenir.** La certitude du lien.
+
+**Ce qui la fait tomber amoureuse.** Vite, et fort — quelques semaines suffisent souvent.
+
+**Ce qui la casse.** La rupture, avec une intensité disproportionnée, parce qu'elle ne perd pas une relation, elle perd le contenant de son identité. [Les stratégies hyperactivantes associées à l'attachement anxieux intensifient le conflit et amplifient la détresse en cas de menace perçue sur le lien](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change).
+
+**Vigilance en couple.** Ce profil épuise à la longue, et l'épuisement est difficile à dire parce que la demande est présentée comme de l'amour. La contribution la plus utile est de l'aider à reconstruire une vie hors du couple — ce qu'elle vivra d'abord comme un rejet, avant d'y trouver un socle plus stable.
+
+**Bons réflexes.**
+- Encourager explicitement une activité ou une amitié qui n'inclut pas le couple, sans le présenter comme un rejet.
+- Rassurer sur le lien avant de proposer une séparation même temporaire (weekend entre amies, activité solo).
+- Ne jamais utiliser la distance comme sanction — ça confirme exactement la peur qui alimente le profil.
+
+👁️ **Vu de l'autre côté**
+Perception générale : l'investissement fusionnel est souvent lu au début comme une preuve d'amour intense, rarement comme un signal qu'il faudrait, au contraire, encourager de l'espace personnel dès le départ.
+Dans sa tête à lui : « elle veut être avec moi tout le temps, c'est flatteur » — avant de découvrir, plus tard, le coût de cette intensité.
+
+### 20.9 La désabusée
+
+**Fonctionnement.** Elle a été blessée, souvent une fois de façon marquante, et a converti la blessure en théorie générale. Ce n'est plus « j'ai souffert », c'est « c'est comme ça, avec eux ». Le cynisme protège : si rien n'est possible, plus rien ne peut décevoir.
+
+**Ce qui la fait tenir.** La cohérence de sa théorie — ce qui la rend difficile à discuter, puisqu'elle la protège.
+
+**Ce qui la fait tomber amoureuse.** Un démenti concret et répété, jamais un argument. [Les stratégies désactivantes associées à l'attachement évitant poussent à la mise à distance et à l'évitement de l'engagement dans les interactions conflictuelles](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change) — seule une expérience qui contredit durablement la théorie peut l'entamer.
+
+**Ce qui la casse.** Le fait de recommencer à espérer, puis d'être déçue à nouveau. La deuxième déception coûte toujours plus cher que la première.
+
+**Vigilance en couple.** Elle teste, souvent sans le savoir elle-même. Le piège est de prendre le test pour la personne ; le piège symétrique est de rester indéfiniment à vouloir prouver quelque chose à quelqu'un qui a besoin d'être déçu pour avoir raison.
+
+**Bons réflexes.**
+- Tenir une parole donnée sur un point mineur, de façon répétée, plutôt que de chercher à convaincre par le discours.
+- Ne jamais répondre au cynisme par de l'argumentation défensive — ça nourrit le test plutôt que de le désamorcer.
+- Nommer le schéma sans l'accuser : « je remarque que tu t'attends au pire, je comprends pourquoi, je ne suis pas pressé de te prouver quoi que ce soit ».
+
+👁️ **Vu de l'autre côté**
+Perception générale : la désabusée est souvent perçue comme difficile ou froide par principe, rarement comme quelqu'un qui se protège activement d'une répétition redoutée.
+Dans sa tête à lui : « elle s'attend toujours au pire, c'est fatigant » — sans faire le lien avec ce qui a construit cette attente.
+
+### 20.10 L'affirmée pénalisée
+
+**Fonctionnement.** Elle dit ce qu'elle pense, négocie ouvertement, refuse ce qui ne lui convient pas. Rien dans son fonctionnement n'est en soi problématique — ce qui l'est, c'est la réaction qu'il déclenche autour d'elle.
+
+**Ce qui la fait tenir.** La cohérence entre ce qu'elle pense et ce qu'elle dit.
+
+**Ce qui la fait tomber amoureuse.** Quelqu'un qui ne prend pas son affirmation de soi pour de l'agressivité, et qui ne cherche pas non plus à l'adoucir à sa place.
+
+**Ce qui la casse.** [La recherche sur le « backlash effect » montre que les femmes qui affichent des comportements assertifs et compétitifs sont jugées tout aussi compétentes que des hommes au comportement identique, mais nettement moins appréciables et moins recommandées à l'embauche](https://www.sciencedirect.com/science/article/abs/pii/S0022103111002514) — une pénalité sociale directement liée au fait de sortir du rôle attendu, pas à un défaut réel de comportement. Ce n'est pas propre au travail : la même mécanique joue dans les cercles amicaux et familiaux.
+
+**Vigilance en couple.** Le partenaire d'une femme affirmée doit être au clair sur le fait que la franchise n'est pas une attaque personnelle — sinon chaque désaccord devient une crise, ce qui pousse la personne soit à s'auto-censurer (et perdre ce qui la rendait elle-même), soit à quitter la relation.
+
+**Bons réflexes.**
+- Distinguer explicitement, à voix haute, le ton du contenu : « je note ce que tu dis, même si le ton me pique un peu ».
+- Ne jamais qualifier sa franchise d'« agressive » sans avoir d'abord vérifié l'intention réelle.
+- Défendre publiquement ce trait plutôt que de le tolérer seulement en privé — le double standard social ne se corrige pas en silence.
+
+👁️ **Vu de l'autre côté**
+Perception générale : une femme qui s'affirme est plus souvent perçue comme froide, dure ou difficile qu'un homme au comportement identique — [les évaluations négatives portées sur les femmes agentiques les décrivent comme égoïstes, froides et interpersonnellement hostiles, avec des conséquences mesurables sur l'embauche, le salaire et les promotions](https://www.sciencedirect.com/science/article/abs/pii/S0022103111002514).
+Dans sa tête à lui : « si un homme avait dit exactement la même phrase, je n'aurais rien trouvé à y redire ».
+
+### 20.11 La sécure
+
+**Fonctionnement.** Elle exprime, elle écoute, elle revient après un conflit, elle demande de l'aide, elle tolère de ne pas savoir. Elle existe, elle est plus fréquente qu'on ne le croit, et on n'en parle jamais parce qu'elle ne pose pas de problème.
+
+**Ce qui la fait tenir.** Rien de particulier — c'est précisément la définition.
+
+**Ce qui la fait tomber amoureuse.** La réciprocité et la simplicité. Elle n'est pas attirée par le chaos.
+
+**Ce qui la casse.** Comme tout le monde : les deuils, les échecs, les événements lourds. Mais elle dispose des outils pour les traverser, ce qui change tout. [L'attachement sécure, caractérisé par un faible évitement et une faible anxiété, est associé à la recherche de soutien social et à une meilleure régulation émotionnelle face au stress](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change).
+
+**Vigilance en couple.** Aucune, sauf une : ce profil est parfois trouvé ennuyeux par des personnes habituées à l'intensité du chaos. Confondre l'intensité et l'amour est l'une des erreurs les plus coûteuses qui existent, dans les deux sens.
+
+**Bons réflexes.**
+- Ne pas interpréter le calme comme un désintérêt — c'est une compétence, pas un manque d'investissement.
+- Continuer à nourrir la relation activement même sans crise à résoudre, pour ne pas la prendre pour acquise.
+- S'inspirer concrètement de ses mécanismes de régulation plutôt que de les trouver « too calm ».
+
+*Pas de bloc « Vu de l'autre côté » ici, délibérément : ce profil est précisément celui où il n'y a pas d'écart de perception à documenter — l'absence de friction n'y cache rien, contrairement à la conciliante ou à la suradaptée. Le silence sur ce point est le signal, pas un oubli.*
+
+### 20.12 Ce que cette typologie ne dit pas
+
+Ce ne sont pas des cases, et surtout pas des diagnostics. Une femme change de profil dominant après une thérapie, après une maternité, après une rupture, après une réussite professionnelle. La question utile n'est jamais « laquelle est-elle », c'est « laquelle est-elle en ce moment, et pourquoi maintenant ». Cette typologie descriptive n'a pas la validité psychométrique d'instruments de mesure comme [l'inventaire de conformité aux normes féminines](https://link.springer.com/article/10.1007/s11199-005-3709-7), la [Silencing the Self Scale](https://journals.sagepub.com/doi/10.1111/j.1471-6402.1992.tb00242.x) ou les échelles d'attachement adulte — elle en reprend des dimensions documentées pour construire des portraits lisibles, pas pour remplacer une évaluation clinique.
+
+## Sources vérifiables
+
+- Mahalik et al., [« Development of the Conformity to Feminine Norms Inventory »](https://link.springer.com/article/10.1007/s11199-005-3709-7), *Sex Roles*, 2005 ; vérification du 10 août 2026.
+- [Conformity to Feminine Norms Inventory, détail des huit dimensions](https://genderhealthdata.org/wp-content/uploads/gravity_forms/scale-repository-PDFs/Conformity-to-Feminine-Norms-Inventory.pdf) ; vérification du 10 août 2026.
+- Lamarre & Marcotte, [étude sur le perfectionnisme et l'anxiété chez les étudiantes de collège](https://oresquebec.ca/articles-de-veille/anxiete-et-perfectionnisme-chez-les-etudiantes-du-college-resultats-de-recherche/), *European Review of Applied Psychology* ; vérification du 10 août 2026.
+- [Revisiting gender differences in personality: New evidence on big five domains and facets with large-scale samples from 27 nations](https://www.sciencedirect.com/science/article/pii/S0191886926001704), *ScienceDirect* ; vérification du 10 août 2026.
+- Jack & Dill, [« The Silencing the Self Scale: Schemas of Intimacy Associated With Depression in Women »](https://journals.sagepub.com/doi/10.1111/j.1471-6402.1992.tb00242.x), *Psychology of Women Quarterly*, 1992 ; vérification du 10 août 2026.
+- [The Second Shift, Arlie Hochschild, 1989](https://en.wikipedia.org/wiki/The_Second_Shift) ; vérification du 10 août 2026.
+- Fredrickson & Roberts, [« Objectification Theory: Toward Understanding Women's Lived Experiences and Mental Health Risks »](https://journals.sagepub.com/doi/10.1111/j.1471-6402.1997.tb00108.x), *Psychology of Women Quarterly*, 1997 ; vérification du 10 août 2026.
+- Mikulincer & Shaver, [*Attachment in Adulthood: Structure, Dynamics and Change*](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change), Guilford Press ; vérification du 10 août 2026.
+- Rudman et al., [« Status incongruity and backlash effects: Defending the gender hierarchy motivates prejudice against female leaders »](https://www.sciencedirect.com/science/article/abs/pii/S0022103111002514), *Journal of Experimental Social Psychology* ; vérification du 10 août 2026.
+
+---
+
+## 21. Le corps féminin : ce qu'il est utile de savoir
+
+Ce chapitre est plus factuel, un socle de repères qui ne trouvent leur place ni dans le chapitre sur le cycle ni dans celui sur les pathologies spécifiques — la thyroïde, les os, le dépistage du sein, et les leviers de santé les plus rentables au quotidien.
+
+### 21.1 La thyroïde : l'écart le plus sous-estimé
+
+La thyroïde est l'un des organes où l'écart entre les sexes est le plus marqué, et le moins connu du grand public. [Les femmes sont environ cinq à huit fois plus touchées que les hommes par les troubles thyroïdiens](https://www.fhpmco.fr/2025/01/09/les-inegalites-face-aux-troubles-thyroidiens/), avec un rapport encore plus élevé pour l'hyperthyroïdie, [huit femmes touchées pour un homme](https://www.fhpmco.fr/2025/01/09/les-inegalites-face-aux-troubles-thyroidiens/). [L'hypothyroïdie touche préférentiellement les femmes de plus de 50 ans, avec une prévalence atteignant 15 à 20 % chez les femmes de plus de 60 ans](https://www.fhpmco.fr/2025/01/09/les-inegalites-face-aux-troubles-thyroidiens/).
+
+Pourquoi c'est utile à savoir : la fatigue chronique, la prise de poids inexpliquée, les troubles de l'humeur, la frilosité ou la chute de cheveux sont des symptômes de dysthyroïdie qui se recoupent largement avec ceux attribués par défaut au stress, à l'anxiété ou à « l'âge ». Un dosage de TSH est simple, peu coûteux, et trop rarement demandé en première intention.
+
+**Bons réflexes.**
+- Demander un dosage de TSH devant une fatigue persistante inexpliquée, avant d'accepter un diagnostic de « stress » par défaut.
+- Savoir que les troubles thyroïdiens sont traitables simplement une fois diagnostiqués — la difficulté est presque toujours le délai avant le dosage, pas le traitement lui-même.
+
+### 21.2 Le dépistage du cancer du sein
+
+[Le programme de dépistage organisé cible actuellement les femmes de 50 à 74 ans à risque moyen, avec une mammographie et un examen clinique tous les deux ans](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/depistage-et-detection-precoce/depistage-du-cancer-du-sein/le-programme-de-depistage-organise). [Une révision à la baisse de cet âge d'entrée, vers 45 ans, est à l'étude par la Haute Autorité de Santé, la Commission européenne recommandant déjà ce seuil](https://erevo.fr/blog/abaissement-age-controle-cancer-sein/) — [environ 8 000 cas de cancer du sein ont été recensés en France chez des femmes de 40 à 50 ans en 2023](https://erevo.fr/blog/abaissement-age-controle-cancer-sein/), une tranche d'âge aujourd'hui hors du dépistage organisé.
+
+En dehors du programme organisé, l'autopalpation régulière reste un outil simple qui ne remplace pas la mammographie mais qui permet de repérer un changement entre deux examens. Toute grosseur nouvelle, rétraction cutanée ou écoulement doit être signalé sans attendre le prochain rendez-vous prévu.
+
+**💑 Dans le couple.** Le rôle du ou de la partenaire dans ce suivi est réel, dans les deux sens : rappeler l'échéance d'une mammographie oubliée dans un agenda chargé rend un vrai service, à condition de le proposer comme un geste de soutien et non comme une injonction.
+
+### 21.3 Les os : un risque qui s'installe des décennies avant de se voir
+
+L'ostéoporose est perçue comme une maladie de la vieillesse, alors que la perte osseuse commence dès la périménopause, quand les œstrogènes — qui protègent la densité osseuse — chutent. [En France, environ une femme ménopausée sur trois développe une ostéoporose, soit deux à trois millions de femmes](https://www.frm.org/fr/maladies/recherches-autres-maladies/osteoporose/focus-osteoporose), et [la prévalence atteint 39 % des femmes de 65 ans et 70 % de celles de 80 ans et plus](https://www.frm.org/fr/maladies/recherches-autres-maladies/osteoporose/focus-osteoporose). [Le risque de fracture liée à l'ostéoporose sur le reste de la vie à partir de 50 ans est de 16 % chez la femme, contre 5 % chez l'homme du même âge](https://www.frm.org/fr/maladies/recherches-autres-maladies/osteoporose/focus-osteoporose) — un écart de plus de trois fois.
+
+Les leviers qui comptent avant la ménopause, pas après : les apports en calcium et vitamine D, l'activité physique portée (marche rapide, course, renforcement musculaire — pas la natation, qui ne sollicite pas l'os de la même façon), l'arrêt du tabac, et une consommation d'alcool modérée. Après 50 ans, une ostéodensitométrie se discute avec un médecin en présence de facteurs de risque (antécédent familial, ménopause précoce, corticothérapie prolongée).
+
+**Bons réflexes.**
+- Ne pas attendre une fracture pour s'informer sur la densité osseuse — la fenêtre utile pour agir se situe avant et pendant la périménopause, pas après.
+- Privilégier une activité physique en charge (marche, course, port de charges) plutôt qu'exclusivement des activités portées comme la natation ou le vélo.
+
+### 21.4 Le trio qui abîme tout
+
+Les mêmes trois leviers reviennent, sous une forme légèrement différente de celle du guide miroir, parce que leurs effets ne sont pas identiques selon le sexe.
+
+1. **Le sommeil.** [Les femmes déclarent davantage de troubles du sommeil que les hommes](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_1.html), en partie liés aux fluctuations hormonales du cycle et de la périménopause. Une dette de sommeil chronique aggrave directement l'anxiété et abaisse le seuil de tolérance au stress quotidien.
+2. **La charge mentale non reconnue comme fatigue physique.** Le travail cognitif d'anticipation et de coordination — voir le chapitre dédié à la charge mentale — épuise sans que l'épuisement soit toujours relié à sa cause réelle, ce qui retarde la demande de soutien.
+3. **L'activité physique.** [L'effet protecteur de l'exercice régulier sur la densité osseuse, l'humeur et le risque cardiovasculaire est parmi les mieux documentés en médecine préventive](https://www.frm.org/fr/maladies/recherches-autres-maladies/osteoporose/focus-osteoporose), avec un bénéfice qui s'accumule d'autant plus qu'il est initié tôt, avant la ménopause.
+
+👁️ **Vu de l'autre côté**
+Perception générale : la fatigue féminine chronique est plus souvent attribuée d'emblée à une cause psychologique ou au stress qu'à une cause organique à écarter d'abord — [un biais documenté dans la prise en charge médicale, où les symptômes physiques des femmes sont plus fréquemment minimisés ou requalifiés](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la).
+Dans sa tête à lui : « elle est fatiguée parce qu'elle en fait trop », une explication qui n'est pas fausse mais qui empêche de chercher une cause organique en parallèle.
+
+## Sources vérifiables
+
+- FHP-MCO, [« Les inégalités face aux troubles thyroïdiens »](https://www.fhpmco.fr/2025/01/09/les-inegalites-face-aux-troubles-thyroidiens/), 2025 ; vérification du 10 août 2026.
+- Institut National du Cancer, [le programme de dépistage organisé des cancers du sein](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/depistage-et-detection-precoce/depistage-du-cancer-du-sein/le-programme-de-depistage-organise) ; vérification du 10 août 2026.
+- [Communiqué sur l'abaissement envisagé de l'âge de dépistage du cancer du sein](https://erevo.fr/blog/abaissement-age-controle-cancer-sein/), 2025 ; vérification du 10 août 2026.
+- Fondation pour la Recherche Médicale, [focus ostéoporose](https://www.frm.org/fr/maladies/recherches-autres-maladies/osteoporose/focus-osteoporose) ; vérification du 10 août 2026.
+- Santé publique France, [BEH 2025-14](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_1.html) ; vérification du 10 août 2026.
+- Fédération Hospitalière de France / Ipsos, [enquête sur les biais de genre dans la prise en charge médicale](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la) ; vérification du 10 août 2026.
+
+---
+
+## 22. Les âges de la vie féminine
+
+### 22.1 La puberté : plus tôt qu'avant, et ça compte
+
+[En France, l'âge médian des premières règles est aujourd'hui de 13,1 ans, contre 12,6 ans en 1994](https://www.ined.fr/en/everything_about_population/demographic-facts-sheets/focus-on/age_menstruation) — une baisse continue depuis deux siècles : [environ 16 ans en 1750, 15 ans en 1850, 13 ans en 1950](https://www.ined.fr/en/everything_about_population/demographic-facts-sheets/focus-on/age_menstruation). [Neuf filles sur dix ont leurs premières règles entre 11 et 14 ans](https://www.ined.fr/en/everything_about_population/demographic-facts-sheets/focus-on/age_menstruation), une plage normale plus large que ce que laisse croire la moyenne. L'avancée de cet âge est associée à l'amélioration de la nutrition et, plus récemment, à l'épidémie d'obésité infantile, sans que les deux facteurs expliquent la totalité du phénomène.
+
+Ce qui compte concrètement : une puberté plus précoce expose plus tôt aux mêmes enjeux (image corporelle, premiers regards sexualisés, encadrement nécessaire) alors que la maturité psychologique n'a pas avancé au même rythme que la maturité physique — un décalage qui mérite d'être nommé plutôt que traité comme un non-sujet.
+
+### 22.2 Les années de fertilité : une fenêtre plus courte qu'on ne le pense
+
+La fertilité décline progressivement à partir de 30 ans, plus nettement après 35, principalement du fait de la baisse en nombre et en qualité des ovocytes. Ce déclin est un fait biologique, distinct de la question sociale du moment choisi pour avoir des enfants — voir le chapitre sur la fertilité pour le détail clinique complet.
+
+**💑 Dans le couple.** La pression temporelle ressentie autour de cette fenêtre n'est pas symétrique dans le couple, et le rappeler sans dramatiser aide à situer une décision commune plutôt qu'un compte à rebours individuel.
+
+### 22.3 La périménopause : la transition la moins bien expliquée
+
+[Les premiers symptômes de la transition ménopausique apparaissent en moyenne entre 45 et 50 ans](https://www.ameli.fr/assure/sante/themes/menopause/symptomes-diagnostic), avant l'arrêt réel des règles. [La ménopause naturelle survient en moyenne à 51 ans en France](https://www.ameli.fr/assure/sante/themes/menopause/symptomes-diagnostic). [Les bouffées de chaleur, le symptôme le plus fréquent, touchent environ sept femmes sur dix](https://www.medecinesciences.org/en/articles/medsci/full_html/2025/12/medsci20250136/medsci20250136.html), avec une fréquence qui augmente au fil de la transition, passant d'environ 40 % en début de transition à 60-80 % vers la fin. [Leur durée moyenne est de cinq ans, et un tiers des femmes en ressentent encore dix ans après les dernières règles](https://www.medecinesciences.org/en/articles/medsci/full_html/2025/12/medsci20250136/medsci20250136.html).
+
+Cette période est régulièrement confondue avec une dépression, alors qu'elle correspond à une fluctuation hormonale réelle et documentée qui peut coexister avec, sans se réduire à, une souffrance psychique. Voir la notion [périménopause](<../2 - Notions/Périménopause.md>) pour le détail.
+
+👁️ **Vu de l'autre côté**
+Perception générale : la périménopause est peu connue en dehors des personnes directement concernées, au point que ses manifestations (irritabilité, troubles du sommeil, bouffées de chaleur) sont souvent lues comme un changement de caractère plutôt que comme une transition physiologique documentée et temporaire.
+Dans sa tête à lui : « elle a changé, elle est plus à cran qu'avant » — sans faire le lien avec une cause hormonale identifiable et, en partie, gérable.
+
+**Bons réflexes.**
+- Nommer la période explicitement plutôt que d'ignorer ce qui change, ce qui permet à la personne concernée de ne pas porter seule l'explication.
+- Ne pas relativiser les bouffées de chaleur comme un inconfort mineur — leur fréquence et leur durée réelles en font un facteur de fatigue chronique.
+
+### 22.4 Après la ménopause : une nouvelle phase, pas une fin
+
+La post-ménopause s'accompagne d'une accélération de la perte osseuse (voir le chapitre sur le corps féminin, section ostéoporose) et d'un changement du profil de risque cardiovasculaire, la protection hormonale relative disparaissant. C'est aussi, pour beaucoup de femmes, une période de réappropriation : fin des contraintes du cycle et de la contraception, souvent recoupement avec un changement du rôle parental (départ des enfants du foyer). Les deux réalités, contrainte physique accrue et liberté nouvelle, coexistent sans s'annuler.
+
+## Sources vérifiables
+
+- Ined, [L'âge aux premières règles](https://www.ined.fr/en/everything_about_population/demographic-facts-sheets/focus-on/age_menstruation) ; vérification du 10 août 2026.
+- Ameli.fr, [Ménopause : définition, symptômes et diagnostic](https://www.ameli.fr/assure/sante/themes/menopause/symptomes-diagnostic) ; vérification du 10 août 2026.
+- [« Comprendre la ménopause. Physiopathologie des bouffées de chaleur »](https://www.medecinesciences.org/en/articles/medsci/full_html/2025/12/medsci20250136/medsci20250136.html), *médecine/sciences*, 2025 ; vérification du 10 août 2026.
+
+---
+
+## 23. Le désert relationnel féminin : soutenir tout le monde, être soutenue par personne
+
+Ce chapitre n'est pas le miroir exact de son équivalent côté Pour Lui. Les données vont dans l'autre sens : les femmes ont, en moyenne, des réseaux de soutien plus larges et plus diversifiés que les hommes. Le problème féminin du lien n'est donc pas l'absence de réseau — c'est d'en être le pilier sans jamais en être la bénéficiaire, et une période précise où ce réseau, même large, s'effondre d'un coup.
+
+### 23.1 Le pilier invisible du réseau familial
+
+La sociologie appelle ça le *kinkeeping* : [l'effort constant pour que les membres d'une famille restent en contact, que les anniversaires soient retenus, que les fils de discussion familiaux tournent](https://en.wikipedia.org/wiki/Kinkeeping) — un travail non rémunéré, largement invisible, qu'on ne remarque que lorsqu'il s'arrête. [Ce rôle échoit très majoritairement aux femmes : celles qui envoient les rappels, retiennent les dates, et maintiennent silencieusement le climat émotionnel de la famille élargie](https://link.springer.com/article/10.1007/s11199-023-01352-2), un concept théorisé dès 1985 par la sociologue Carolyn Rosenthal.
+
+La conséquence directe : une femme peut être objectivement « bien entourée » — famille, amies, collègues — tout en étant celle qui entretient activement chacun de ces liens, sans que personne n'entretienne le sien en retour. Avoir un grand réseau et être soutenue par ce réseau sont deux choses différentes, et la première peut masquer l'absence de la seconde.
+
+**💑 Dans le couple.** Demander explicitement « qui prend soin de toi, dans tout ça ? » est une question que cette personne se pose rarement elle-même — la charge de kinkeeping est vécue comme un rôle, pas comme un manque, jusqu'à l'épuisement.
+
+### 23.2 L'isolement post-partum : le trou d'air documenté
+
+Contrairement au désert relationnel masculin, chronique et progressif, l'isolement relationnel féminin le plus documenté est concentré sur une période précise : les mois qui suivent une naissance. [Une enquête menée en 2025 auprès de mères ayant eu un enfant depuis 2020 montre que 44 % d'entre elles ont vu leur cercle amical se réduire pendant cette période](https://presseagence.fr/france-sante-perinatale-solitude-et-manque-dinformation-le-double-ecueil-des-jeunes-meres/). [L'isolement post-partum est décrit comme une déconnexion sociale et émotionnelle spécifique, distincte de la dépression du post-partum même si les deux peuvent coexister](https://www.23maiparis.com/en/blogs/le-blog-23-mai-paris/postpartum-isolation-vs-village-guide-danticipation).
+
+Les causes identifiées ne sont pas individuelles mais structurelles : éloignement géographique des grands-parents, deux parents actifs professionnellement sans réseau de soutien de proximité, diversification des modèles familiaux qui réduit les schémas d'entraide traditionnels.
+
+**Bons réflexes.**
+- Ne pas attendre que la demande de contact vienne d'elle — c'est justement la période où formuler une demande devient le plus difficile.
+- Proposer une présence sans exigence de conversation (faire les courses, s'occuper du bébé une heure pour qu'elle sorte seule) plutôt qu'une visite qui ajoute une charge sociale à gérer.
+
+👁️ **Vu de l'autre côté**
+Perception générale : une jeune mère entourée de sa famille est supposée « bien accompagnée » par défaut, alors que la présence de la famille et le sentiment réel de soutien ne se recoupent pas toujours — la famille peut être là physiquement et absente sur le plan du relais émotionnel.
+Dans sa tête à lui : « elle a sa mère, ses sœurs, ses copines, elle n'est pas seule » — un raisonnement qui confond la taille du réseau avec la qualité du soutien reçu.
+
+### 23.3 Ce qui aide vraiment
+
+- **Répartir activement le kinkeeping**, pas seulement le proposer une fois : prendre en charge un pan entier (les anniversaires côté belle-famille, par exemple), de façon permanente, pas ponctuelle.
+- **Devenir soi-même une source de soutien reconnue**, pas seulement un bénéficiaire passif du réseau qu'elle entretient — ça rééquilibre la charge sans qu'elle ait à la demander.
+- **Nommer explicitement la période post-partum comme une période à risque d'isolement**, avant qu'elle ne s'installe, plutôt que d'attendre un signal de détresse pour réagir.
+
+## Sources vérifiables
+
+- [Kinkeeping](https://en.wikipedia.org/wiki/Kinkeeping), concept sociologique développé par Carolyn Rosenthal, 1985 ; vérification du 10 août 2026.
+- [« Kinkeeping Across Families: The Central Role of Mothers and Stepmothers in the Facilitation of Adult Intergenerational Ties »](https://link.springer.com/article/10.1007/s11199-023-01352-2), *Sex Roles*, 2023 ; vérification du 10 août 2026.
+- [Enquête sur la solitude périnatale des jeunes mères en France, 2025](https://presseagence.fr/france-sante-perinatale-solitude-et-manque-dinformation-le-double-ecueil-des-jeunes-meres/) ; vérification du 10 août 2026.
+- [Isolement post-partum vs Village : guide d'anticipation](https://www.23maiparis.com/en/blogs/le-blog-23-mai-paris/postpartum-isolation-vs-village-guide-danticipation) ; vérification du 10 août 2026.
+
+---
+
+## 24. La boîte à outils de couple
+
+Ce chapitre est le plus opérationnel. Il suppose acquis le vocabulaire du chapitre sur les grands profils féminins.
+
+### 24.1 La demandeuse et le retrait de l'autre : un piège à deux
+
+**L'analogie.** Une pompe et un disjoncteur. Plus la pompe insiste pour faire remonter la pression, plus le disjoncteur coupe tôt pour se protéger — chacun des deux mécanismes aggrave l'autre, sans qu'aucun des deux ne soit en tort isolément.
+
+[Les observations de couples hétérosexuels montrent que les femmes occupent statistiquement plus souvent la position de demande dans les conflits, et les hommes plus souvent la position de retrait](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict), un patron documenté sous le nom de « demand/withdraw ». Ce n'est pas une question de tempérament individuel mais une structure qui s'auto-alimente : la demande, même légitime, intensifie le retrait, et le retrait intensifie la demande suivante — chacun ayant l'impression que l'autre est la cause du problème alors que les deux entretiennent la même boucle.
+
+Le piège concret : insister davantage face au silence semble logique dans l'instant (« s'il ne répond pas, c'est que je n'ai pas été assez claire »), et c'est précisément ce qui prolonge le blocage. Voir le profil de la suradaptée du chapitre précédent pour le mécanisme inverse — le silence qui vient d'elle plutôt que de l'autre.
+
+**Bons réflexes.**
+- Formuler la demande une fois, clairement, puis marquer une pause avant de la reformuler différemment — la répétition immédiate est lue comme une pression, pas comme une clarification.
+- Accepter une pause demandée par l'autre sans la lire comme un refus de la conversation, à condition qu'elle s'accompagne d'un engagement explicite à revenir dessus.
+- Nommer la boucle à voix haute quand elle se répète : « je sens qu'on est encore dans le truc où j'insiste et tu te fermes, on peut faire autrement ? ».
+
+### 24.2 Le reproche et la demande
+
+Le reproche porte sur le passé et sur la personne. La demande porte sur le futur et sur le comportement. Le premier déclenche la défense presque automatiquement. Le second est actionnable.
+
+- « Tu ne m'aides jamais » devient « est-ce que tu peux prendre en charge les courses et la logistique des enfants, entièrement, sans que j'aie à y repenser » — voir le chapitre sur la charge mentale pour la distinction entre exécution et anticipation.
+- « Tu ne remarques jamais rien » devient « j'aimerais que tu me demandes comment s'est passée ma semaine, avant que je te raconte celle des enfants ».
+- « Tu es distant en ce moment » devient « j'ai remarqué qu'on se parle moins depuis deux semaines, il se passe quoi de ton côté ? ».
+
+[La façon dont un désaccord est formulé prédit davantage la trajectoire du couple que son contenu](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf), un résultat parmi les plus robustes de la recherche sur les couples.
+
+### 24.3 Le décodage : ce qu'elle dit, ce que ça peut vouloir dire
+
+Un tableau de traduction à manier avec prudence — ce sont des hypothèses de travail, pas des certitudes, construites à partir des profils du chapitre précédent.
+
+- **Elle dit « ça va » d'un ton qui suggère le contraire.** Traduction probable : profil conciliante ou suradaptée — le silence protège la relation à ses propres dépens plutôt qu'il ne signale une absence de problème.
+- **Elle refuse une aide qu'elle demandait hier.** Traduction probable : l'aide arrive sous une forme qui ajoute de la coordination (« dis-moi ce qu'il faut faire ») plutôt que d'en retirer.
+- **Elle s'énerve pour un détail domestique.** Traduction probable : le détail est la goutte visible d'une surcharge invisible, voir le profil de la performeuse en surcharge.
+- **Elle relance plusieurs fois le même sujet.** Traduction probable : elle n'a pas eu le sentiment d'être vraiment entendue la première fois, pas qu'elle cherche la dispute.
+- **Elle minimise sa propre fatigue ou sa douleur.** Traduction probable : minimisation apprise, y compris dans le rapport à son propre corps — voir le chapitre sur ce que le corps signale.
+- **Elle devient très factuelle et froide pendant un conflit.** Traduction probable : ce n'est pas toujours un signe d'indifférence — ça peut être une stratégie de mise à distance face à une charge émotionnelle déjà pleine ailleurs.
+
+### 24.4 Ce que tu peux dire quand tu ne sais pas quoi dire
+
+Quatre phrases qui fonctionnent presque partout et qui ne coûtent rien :
+
+- « Je ne sais pas quoi dire, mais je suis là. »
+- « Tu n'as pas à gérer ça toute seule. »
+- « Ce que tu ressens a du sens. »
+- « Ça ne change rien à ce que je pense de toi. »
+
+Ces formulations reprennent le principe de la communication non violente : décrire un fait et un besoin plutôt qu'exiger ou juger, [une approche construite autour de l'observation, du sentiment, du besoin et de la demande](https://nonviolentcommunication.com/product/nvc/).
+
+## Sources vérifiables
+
+- Christensen & Heavey, [« Gender and social structure in the demand/withdraw pattern of marital conflict »](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict), *Journal of Personality and Social Psychology*, 1990 ; vérification du 10 août 2026.
+- Gottman & Levenson, [« Marital processes predictive of later dissolution »](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf), *Journal of Personality and Social Psychology*, 1992 ; vérification du 10 août 2026.
+- Rosenberg, [*Nonviolent Communication: A Language of Life*](https://nonviolentcommunication.com/product/nvc/), PuddleDancer Press ; vérification du 10 août 2026.
+
+---
+
+## 25. Les limites : ce qui n'est pas à toi de porter
+
+Ce chapitre est aussi important que tous les autres. Un guide qui t'apprendrait à comprendre sans t'apprendre à te protéger serait un mauvais guide.
+
+### 25.1 Comprendre n'est pas excuser
+
+Tout ce document explique des mécanismes. Aucun de ces mécanismes ne constitue une justification. Le profil de la conciliante explique un silence, il ne le rend pas sain à maintenir indéfiniment. Le kinkeeping explique une charge, il n'oblige personne à la porter seule pour toujours.
+
+La ligne est simple : comprendre sert à ne pas mal interpréter et à choisir la bonne approche. Ça ne sert pas à accepter indéfiniment. [La distinction entre comprendre un comportement par son origine et l'excuser est centrale dans les approches thérapeutiques centrées sur l'attachement](https://www.routledge.com/The-Practice-of-Emotionally-Focused-Couple-Therapy-Creating-Connection/Johnson/p/book/9780815348016).
+
+### 25.2 Ce qui n'est pas à toi de porter seule
+
+Le kinkeeping, la charge mentale et le rôle de conciliante décrits dans les chapitres précédents ont un point commun : ce sont des rôles qui peuvent devenir des fardeaux silencieux quand personne ne les partage.
+
+Les signes que tu es allée trop loin dans ces rôles :
+
+- Tu anticipes systématiquement l'humeur des autres avant de décider de la tienne.
+- Tu portes seule la mémoire des rendez-vous, des anniversaires, des besoins de chacun.
+- Tu es la seule à qui l'on demande, et la seule à qui personne ne demande rien.
+- Tu as arrêté d'exprimer certaines choses parce que ce serait trop lourd pour l'autre en ce moment, et que ce moment dure depuis un an.
+- Tu es épuisée et tu n'as personne à qui le dire — voir le chapitre sur le désert relationnel féminin.
+
+Si plusieurs de ces points sont vrais, ce n'est pas un problème de communication de couple. C'est un déséquilibre structurel, et il se traite en redistribuant le rôle, pas en le portant mieux. [Le travail cognitif d'anticipation et de coordination relève du même mécanisme documenté pour la charge mentale domestique](https://fr.wikipedia.org/wiki/Charge_mentale_m%C3%A9nag%C3%A8re), indépendamment de la répartition des tâches elles-mêmes.
+
+### 25.3 Ce qui relève du soin professionnel et pas de toi
+
+Trois situations où l'intervention professionnelle n'est pas une option parmi d'autres :
+
+- **Les idées suicidaires**, même formulées de manière détournée, chez toi ou chez ton ou ta partenaire. Ce n'est pas à toi de gérer ça seule, et essayer de le faire est dangereux pour vous deux.
+- **Une addiction installée.** Aucune volonté de partenaire n'a jamais soigné une addiction. Ton rôle possible est de ne pas la faciliter, pas de la traiter.
+- **Un trouble psychiatrique caractérisé** : dépression sévère, trouble bipolaire, psychose, trouble anxieux invalidant. Ces choses se soignent, bien, et pas à la maison. [Le glissement vers un rôle de soignant, et son coût réel, suivent le modèle du stress de l'aidant décrit dans la littérature sur le fardeau du proche aidant](https://academic.oup.com/gerontologist/article/30/5/583/564941).
+
+### 25.4 Les vraies alarmes : quand ce n'est plus de la santé émotionnelle
+
+Il faut nommer clairement une frontière, parce que certains mécanismes décrits dans ce guide peuvent être invoqués, par toi ou par l'autre, pour justifier des comportements qui n'ont rien à voir avec de la maladresse relationnelle.
+
+**Ce qui n'est jamais un problème de communication, quel que soit le sexe de la personne qui l'exerce :**
+
+- Le contrôle des fréquentations, des vêtements, du téléphone, de l'argent.
+- L'isolement progressif de ta famille et de tes amis.
+- Les menaces, y compris les menaces de suicide utilisées pour t'empêcher de partir — c'est un mécanisme de contrainte, et la réponse est de contacter le 3114 ou le 15, pas de céder.
+- La dévalorisation systématique, la remise en cause de ta perception de la réalité.
+- Toute violence physique ou sexuelle, y compris « une seule fois », y compris « il ou elle ne l'a pas fait exprès », y compris quand la personne pleure après.
+- La peur. Si tu as peur de sa réaction quand tu dis quelque chose, tu n'es plus dans un problème de communication.
+
+Ce mécanisme porte un nom : voir la notion [contrôle coercitif](<../2 - Notions/Contrôle coercitif.md>). Il n'est pas propre à un sexe — les hommes peuvent en être victimes tout comme les femmes peuvent en être les auteures, même si les enquêtes de victimation montrent une majorité de situations où les femmes sont visées. Traiter ce sujet comme s'il ne concernait qu'un seul sens serait aussi faux que dangereux, dans les deux directions.
+
+**Ressources.** Le 3919 est le numéro national d'écoute pour les violences faites aux femmes, anonyme et gratuit. Le 17 pour une urgence. Le 114 par SMS si tu ne peux pas parler.
+
+Rien dans ce guide, aucun mécanisme, aucune explication, ne s'applique à ces situations. Les mettre sur le compte de la maladresse relationnelle ordinaire serait la pire lecture possible de ce document.
+
+### 25.5 Ta propre santé émotionnelle
+
+Dernier point, et il compte. Porter en continu le rôle de conciliante, de donneuse de soin ou de kinkeeper demande une vigilance permanente, et cette vigilance fatigue même quand tout va bien apparemment. Tu as le droit d'avoir tes propres besoins non couverts par cette relation, tes propres confidents, ton propre espace thérapeutique si tu en veux un.
+
+Un couple où une personne est en permanence l'aidante et l'autre l'aidé n'est pas un couple, c'est un service. La réciprocité n'a pas besoin d'être symétrique dans la forme, elle a besoin d'exister. [Préserver sa propre santé émotionnelle est un facteur protecteur documenté chez les proches aidants](https://academic.oup.com/gerontologist/article/30/5/583/564941), et le principe se transpose directement à n'importe quel rôle de soin relationnel prolongé.
+
+## Sources vérifiables
+
+- Johnson, [*The Practice of Emotionally Focused Couple Therapy: Creating Connection*](https://www.routledge.com/The-Practice-of-Emotionally-Focused-Couple-Therapy-Creating-Connection/Johnson/p/book/9780815348016), Routledge, 2004 ; vérification du 10 août 2026.
+- Pearlin, Mullan, Semple & Skaff, [« Caregiving and the stress process: An overview of concepts and their measures »](https://academic.oup.com/gerontologist/article/30/5/583/564941), *The Gerontologist*, 1990 ; vérification du 10 août 2026.
+
+---
+
+## 26. La santé sur vingt ans : ce qui compte et quand
+
+### 26.1 Le problème, en un chiffre honnête
+
+Les femmes vivent plus longtemps que les hommes, mais l'écart de diagnostic et de prise en charge documenté au premier chapitre de ce guide pèse sur la qualité de ces années. Ce chapitre liste ce qui compte réellement, par ordre d'impact, et à quel moment s'en occuper.
+
+### 26.2 Le classement par impact réel
+
+**1. Le suivi cardiovasculaire, pris au sérieux plus tôt.** Première cause de mortalité féminine, souvent sous-estimée parce que perçue comme un risque masculin. [Le retard de traitement pour un infarctus est presque trois fois plus fréquent chez les femmes que chez les hommes](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la), en partie parce que les symptômes féminins (douleur diffuse, essoufflement, fatigue) diffèrent du tableau classique enseigné en priorité.
+
+**2. Le tabac.** Aucun autre facteur ne rapporte autant à l'arrêt, et l'effet s'ajoute à celui des œstrogènes qui protègent le système cardiovasculaire avant la ménopause — protection qui disparaît chez les fumeuses.
+
+**3. Les dépistages spécifiques au sexe.** Sein, col de l'utérus, ostéoporose — voir plus bas pour le calendrier précis.
+
+**4. L'alcool.** Les repères de consommation à moindre risque sont identiques à ceux communiqués pour les hommes en France (pas plus de dix verres par semaine, deux par jour, avec des jours sans), alors que le métabolisme féminin de l'alcool est en moyenne plus lent, ce qui majore l'effet à quantité égale.
+
+**5. L'activité physique et le sommeil.** Effets larges : cardiovasculaire, densité osseuse, humeur, régulation hormonale.
+
+**6. La santé mentale.** Développée plus bas, trop souvent absente des bilans de santé généralistes.
+
+### 26.3 Ce qu'il faut surveiller, par décennie
+
+**Vingt à trente ans.** Dépistage des IST au changement de partenaire — voir [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>). Frottis cervical dès 25 ans, [deux premiers examens à un an d'intervalle puis tous les trois ans si les résultats sont normaux](https://www.has-sante.fr/jcms/p_3069063/fr/depistage-du-cancer-du-col-de-l-uterus-le-test-hpv-recommande-chez-les-femmes-de-plus-de-30-ans). Habitudes qui s'installent : tabac, alcool, sommeil, activité physique.
+
+**Trente à quarante ans.** [À partir de 30 ans, le dépistage du col de l'utérus passe au test HPV, refait tous les cinq ans si le résultat est négatif](https://www.has-sante.fr/jcms/p_3069063/fr/depistage-du-cancer-du-col-de-l-uterus-le-test-hpv-recommande-chez-les-femmes-de-plus-de-30-ans). Première mesure de tension et bilan lipidique si ce n'est pas déjà fait. C'est aussi la décennie où la pression professionnelle et la charge parentale culminent souvent en même temps.
+
+**Quarante à cinquante ans.** Suivi cardiovasculaire régulier. Vigilance thyroïdienne accrue en cas de fatigue ou de troubles de l'humeur inexpliqués — voir le chapitre sur le corps féminin. Premiers signes possibles de périménopause à surveiller sans les confondre systématiquement avec une dépression.
+
+**Cinquante ans et au-delà.** [Dépistage organisé du cancer du sein tous les deux ans jusqu'à 74 ans](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/depistage-et-detection-precoce/depistage-du-cancer-du-sein/le-programme-de-depistage-organise). Poursuite du dépistage du col jusqu'à 65 ans. Densité osseuse à discuter avec un médecin en présence de facteurs de risque — voir le chapitre sur le corps féminin pour l'ampleur réelle du risque d'ostéoporose. Dépistage organisé du cancer colorectal par test immunologique tous les deux ans, identique pour les deux sexes. Poursuite du suivi cardiovasculaire, la protection hormonale relative disparaissant après la ménopause.
+
+### 26.4 La santé mentale sur la durée
+
+Elle appartient à ce chapitre autant que la tension artérielle.
+
+Les femmes consultent davantage pour des motifs psychiques que les hommes, mais [le non-recours aux soins reste significatif même chez les femmes concernées](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_1.html) — consulter plus ne veut pas dire consulter suffisamment tôt.
+
+Trois moments de bascule reviennent particulièrement : le post-partum (voir le chapitre sur le désert relationnel féminin), la périménopause, et le départ des enfants du foyer. Chacun combine un changement hormonal ou identitaire avec un risque d'isolement relationnel.
+
+**Signal d'alerte, pas clause de style** : des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit, en permanence, accessible aussi à un proche inquiet.
+
+💑 **Dans le couple**
+
+Le rôle du ou de la partenaire dans le suivi médical est réel dans les deux sens. Ce qui bloque : « tu devrais voir un médecin », entendu comme un jugement ou une charge de plus. Ce qui passe : « tu veux que je prenne le rendez-vous, ou tu préfères le faire toi-même ? » — la question porte sur la logistique, pas sur la nécessité, et évite d'ajouter une tâche de plus à quelqu'un déjà en surcharge.
+
+**Bons réflexes**
+- Faites mesurer votre tension au moins une fois par an — silencieuse, gratuite en pharmacie, et le paramètre le plus rentable à surveiller.
+- Ne laissez pas une fatigue persistante être classée « stress » sans un dosage de TSH pour écarter une cause thyroïdienne.
+- Honorez les convocations de dépistage organisé dès qu'elles arrivent — sein, col de l'utérus, colorectal — plutôt que de les reporter indéfiniment.
+- Ayez un médecin traitant et voyez-le une fois par an, même quand tout va bien.
+- La santé mentale se surveille comme le reste. Le **3114** existe aussi pour celles qui vont mal sans savoir le nommer.
+
+## Sources vérifiables
+
+- Fédération Hospitalière de France / Ipsos, [enquête sur les biais de genre dans la prise en charge médicale](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la) ; vérification du 10 août 2026.
+- Haute Autorité de Santé, [Dépistage du cancer du col de l'utérus : le test HPV recommandé chez les femmes de plus de 30 ans](https://www.has-sante.fr/jcms/p_3069063/fr/depistage-du-cancer-du-col-de-l-uterus-le-test-hpv-recommande-chez-les-femmes-de-plus-de-30-ans) ; vérification du 10 août 2026.
+- Institut National du Cancer, [le programme de dépistage organisé des cancers du sein](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/depistage-et-detection-precoce/depistage-du-cancer-du-sein/le-programme-de-depistage-organise) ; vérification du 10 août 2026.
+- Santé publique France, [BEH 2025-14](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_1.html) ; vérification du 10 août 2026.

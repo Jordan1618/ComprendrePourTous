@@ -17,4 +17,4 @@ Deux conséquences documentées. Une charge considérable posée sur le couple, 
 - [Le désert relationnel](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>), en détail.
 - [La santé sur le long terme](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>), sur les moments de bascule.
 
-**Voir aussi** [Côte à côte](<Côte à côte.md>), [Alexithymie](<Alexithymie.md>).
+**Voir aussi** [Côte à côte](<Côte à côte.md>), [Alexithymie](<Alexithymie.md>), [Kinkeeping](<Kinkeeping.md>) — le mécanisme féminin correspondant, structurellement différent.

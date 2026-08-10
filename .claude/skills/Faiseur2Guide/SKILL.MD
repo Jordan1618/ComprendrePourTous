@@ -26,6 +26,7 @@ Chapitres numérotés (## 1., ## 2....) puis sous-parties (### 1.1, ### 1.2...).
 
 * Une analogie concrète nommée dans le titre de la section.
 * 💑 Dans le couple : ce que ça change concrètement à deux.
+* 👁️ Vu de l'autre côté : quand le sujet s'y prête, ce que le sexe opposé perçoit, redoute ou comprend mal sur ce point précis. Un seul bloc en deux mouvements : d'abord l'explication sourcée (ce que montre la recherche sur ce décalage de perception, pourquoi il existe), puis, sans transition ni guillemets de précaution, une ou deux phrases crues à la première personne qui l'incarnent — direct, sans détour, dire ce qu'il y a vraiment au fond des gens plutôt que l'euphémiser. Ne pas forcer ce bloc partout : seulement là où un vrai écart de perception, documentable, existe.
 * Bons réflexes : des actions ou formulations concrètes, jamais des généralités.
 * Des estimations chiffrées sourcées et datées quand elles existent ; fourchette plutôt que faux chiffre unique si la donnée est incertaine — et le dire, plutôt qu'inventer une précision qui n'existe pas.
 
@@ -49,6 +50,12 @@ Ne jamais fabriquer une URL, un DOI ou un numéro de page pour faire propre. Une
 Sourcer au niveau de la sous-partie, pas seulement du chapitre
 
 Chaque sous-partie (`###`) doit porter **au minimum une source scientifique réelle et vérifiable**. Un chapitre de 6 à 8 sous-parties avec seulement 2 ou 3 citations au total n'est pas acceptable, même si une section finale de sources existe par ailleurs. La section finale recense, elle ne remplace pas le sourçage local. Continuer d'exclure toute fabrication : pas d'URL ni de DOI inventés, une fourchette honnête plutôt qu'un faux chiffre, et signaler dans "affirmations sans source précise identifiée" ce qui reste sans référence après recherche sérieuse.
+
+**Le lien se pose sur l'affirmation elle-même, pas sur un tag "(source : ...)" à côté.** La phrase ou le segment exact que la source appuie devient l'hyperlien — `[Les femmes sont vues comme trop émotionnelles](lien)` — sans texte de citation visible dans le corps du chapitre (pas de "(Auteur, année)", pas de "(source : X)"). Si plusieurs affirmations d'une même sous-partie viennent de sources différentes, chacune porte son propre lien sur son propre segment, pour que ce soit sans ambiguïté quelle phrase s'appuie sur quoi.
+
+Le lien suit la même règle que l'index central : DOI ou URL officielle **uniquement si vérifiée à cet instant** (jamais devinée à partir du nom de l'auteur et du titre) ; à défaut, un lien de recherche sur le titre exact plutôt qu'un lien inventé qui a l'air bon.
+
+L'auteur, la revue et la date de vérification restent obligatoires, mais uniquement dans la section "Sources vérifiables" en fin de chapitre et dans `4 - Sources/` — c'est là, et seulement là, que le lecteur retrouve qui a dit quoi et quand ça a été vérifié. Le corps du texte reste lisible sans typographie de citation, le clic sur la phrase fait le reste.
 
 Rien de ce qui suit dans le contenu publié
 
@@ -151,6 +158,8 @@ On sait déjà que ce n'est pas un avis individualisé. Le dire une seule fois, 
 
 Exception qui reste : les signaux d'alerte réels (symptômes nécessitant une vraie urgence — choc toxique, complication de grossesse, idées suicidaires, violence) ne sont pas des disclaimers de forme, ce sont des informations de sécurité actionnables. Elles restent, formulées comme des faits ("en cas de X, appeler le 15"), jamais comme une clause de non-responsabilité.
 
+Individus problématiques — à ne jamais omettre, pour les deux sexes. Un guide qui traite du choix d'un partenaire, des schémas relationnels ou des conflits ne peut pas s'arrêter aux maladresses ordinaires : il doit aussi nommer, factuellement, les comportements manipulateurs, coercitifs ou dangereux, et donner les moyens concrets de les reconnaître et de s'en protéger — pas de généralités du type "fais attention", des signaux précis et des réflexes actionnables. Ne jamais réserver ce sujet à un seul guide ou un seul sexe : les hommes et les femmes peuvent aussi bien être visés que représenter ce risque pour l'autre, et le texte le traite sans complaisance des deux côtés. Relier explicitement à la notion `Contrôle coercitif` et à la page `Signaux d'alerte` plutôt que de réexpliquer le mécanisme à chaque fois.
+
 Ce qu'il faut éviter
 * Halluciner une statistique précise sans recherche — une fourchette honnête vaut mieux qu'un faux chiffre.
 * Réécrire une analogie déjà établie avec des mots différents "pour faire propre" — risque de contradiction subtile.
@@ -163,6 +172,8 @@ Si l'interlocuteur redirige
 * S'il veut un autre persona que celui utilisé par défaut pour le sujet → basculer directement, sans demander confirmation.
 
 Note de mise à jour
+* 10 août 2026 (v10) — le lien se pose directement sur l'affirmation (`[la phrase elle-même](lien)`), sans tag "(source : ...)" ni "(Auteur, année)" visible dans le corps du texte ; auteur, revue et date de vérification restent obligatoires mais uniquement dans la section Sources vérifiables en fin de chapitre et dans `4 - Sources/`. Origine : l'exemple de démonstration du bloc "Vu de l'autre côté" comportait un faux marqueur de source ("source : X, année") jamais vérifié, repéré par l'utilisateur — durcissement pour qu'un lien cliquable soit la norme partout, sous une forme plus lisible que le tag parenthétique initialement proposé.
+* 10 août 2026 (v9) — ajout du bloc structurel "👁️ Vu de l'autre côté" (explication sourcée puis incarnation crue à la première personne, seulement là où l'écart de perception est documentable), et d'une règle explicite sur les individus problématiques : tout guide touchant au choix de partenaire ou aux schémas relationnels doit nommer les comportements manipulateurs/coercitifs et donner des reflexes concrets de protection, pour les deux sexes, relié aux notions et pages existantes plutôt que réexpliqué à chaque fois. Origine : reconstruction complète prévue des guides Pour Elle/Pour Lui pour rééquilibrer les trois registres (physique, émotionnel, relationnel).
 * 3 août 2026 — ajout du persona "communication interpersonnelle transversale" et de la technique "abstrait → concret". Origine : extraction et généralisation du guide "Les questions qui font mouche" à partir des guides Cycle et santé féminine / Santé émotionnelle masculine.
 * 3 août 2026 (v2) — remplacement de l'élicitation par domaines de vie par la grille des 100 angles d'analyse (10 familles de 10 : sciences du vivant, psychologie et esprit, économie et société, droit, pouvoir, stratégie, corps et intimité, philosophie et sens, communication et relation, contexte et environnement, risque, données, prévention, culture et expression). Ces angles sont transposables à n'importe quel sujet de guide, indépendamment du domaine de vie traité.
 * 3 août 2026 (v3) — élicitation systématique même si des angles ont déjà été nommés ; suppression de la limite de 4-8 angles par guide ; suppression de toute priorisation entre familles (seule la pertinence au sujet compte) ; recoupements entre angles proches traités en cumul plutôt qu'en arbitrage.

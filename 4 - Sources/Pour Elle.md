@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Pour Elle"
-mis_a_jour_le: 2026-08-07
+mis_a_jour_le: 2026-08-10
 licence: "CC BY 4.0"
 ---
 
@@ -18,6 +18,17 @@ Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), classées par
 | [Assurance maladie — Contraception](https://www.ameli.fr/assure/sante/themes/contraception) | Prise en charge et méthodes disponibles | 6 |
 | [Assurance maladie — Endométriose](https://www.ameli.fr/assure/sante/themes/endometriose) | Repérage et parcours de soin | 7 |
 | [INCa — Dépistage des cancers](https://www.e-cancer.fr/Professionnels-de-sante/Depistage-et-detection-precoce) | Dépistage organisé du sein et du col | 12 |
+| [Insee — Bilan démographique 2025](https://www.insee.fr/fr/statistiques/8719824?sommaire=8721209) | Espérance de vie par sexe | 19 |
+| [Insee — Le temps domestique et parental des hommes et des femmes](https://www.insee.fr/fr/statistiques/fichier/1303232/es478h.pdf) | Répartition du temps domestique | 19 |
+| [Santé publique France — Baromètre santé mentale 2024](https://www.santepubliquefrance.fr/en/mental-health/depression-and-anxiety) | Prévalence de la dépression | 19, 26 |
+| [Santé publique France — BEH 2025-14](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_1.html) | Prévalence des troubles anxieux | 19, 21, 26 |
+| [Fédération Hospitalière de France / Ipsos — biais de genre dans la prise en charge médicale](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la) | Minimisation de la douleur et retard diagnostique | 19, 21, 26 |
+| [FHP-MCO — Les inégalités face aux troubles thyroïdiens](https://www.fhpmco.fr/2025/01/09/les-inegalites-face-aux-troubles-thyroidiens/) | Écart de prévalence thyroïdienne entre les sexes | 21 |
+| [Institut National du Cancer — dépistage organisé du cancer du sein](https://www.cancer.fr/professionnels-de-sante/prevention-et-depistages/depistage-et-detection-precoce/depistage-du-cancer-du-sein/le-programme-de-depistage-organise) | Modalités du dépistage du sein | 21, 26 |
+| [Fondation pour la Recherche Médicale — ostéoporose](https://www.frm.org/fr/maladies/recherches-autres-maladies/osteoporose/focus-osteoporose) | Prévalence de l'ostéoporose post-ménopausique | 21, 26 |
+| [Ined — L'âge aux premières règles](https://www.ined.fr/en/everything_about_population/demographic-facts-sheets/focus-on/age_menstruation) | Évolution de l'âge à la puberté | 22 |
+| [Ameli.fr — Ménopause : symptômes et diagnostic](https://www.ameli.fr/assure/sante/themes/menopause/symptomes-diagnostic) | Âge moyen de la ménopause | 22 |
+| [Haute Autorité de Santé — dépistage du cancer du col de l'utérus](https://www.has-sante.fr/jcms/p_3069063/fr/depistage-du-cancer-du-col-de-l-uterus-le-test-hpv-recommande-chez-les-femmes-de-plus-de-30-ans) | Calendrier de dépistage du col | 26 |
 
 ## Recherche mobilisée
 
@@ -38,6 +49,21 @@ Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), classées par
 | Angst, J. et coll. (2002), [Gender differences in depression](https://scholar.google.com/scholar?q=%22Gender+differences+in+depression%22), *European Archives of Psychiatry and Clinical Neuroscience* | Présentation clinique de la dépression selon le genre | 4.3 |
 | Basson, R. (2000), [The female sexual response: a different model](https://scholar.google.com/scholar?q=%22The+female+sexual+response%3A+a+different+model%22), *Journal of Sex & Marital Therapy* | Modèle circulaire de la réponse sexuelle féminine | 8.2, 8.13, 5.4 |
 | Brotto, L. (2010), [The DSM diagnostic criteria for hypoactive sexual desire disorder in women](https://scholar.google.com/scholar?q=%22The+DSM+diagnostic+criteria+for+hypoactive+sexual+desire+disorder+in+women%22), *Archives of Sexual Behavior* | Trouble de l'intérêt et de l'excitation sexuelle féminine | 8.10 |
+| Christensen, A. & Heavey, C. (1990), [Gender and Social Structure in the Demand/Withdraw Pattern of Marital Conflict](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict), *Journal of Personality and Social Psychology* | Position de demande et de retrait selon le sexe | 24 |
+| Fredrickson, B. & Roberts, T. (1997), [Objectification Theory: Toward Understanding Women's Lived Experiences and Mental Health Risks](https://journals.sagepub.com/doi/10.1111/j.1471-6402.1997.tb00108.x), *Psychology of Women Quarterly* | Auto-surveillance corporelle et objectification | 20 |
+| Gottman, J. & Levenson, R. (1992), [Marital processes predictive of later dissolution](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf), *Journal of Personality and Social Psychology* | Formulation du désaccord et trajectoire du couple | 24 |
+| Hochschild, A. (1989), [The Second Shift](https://en.wikipedia.org/wiki/The_Second_Shift) | Double journée de travail des femmes actives | 20 |
+| Jack, D. & Dill, D. (1992), [The Silencing the Self Scale: Schemas of Intimacy Associated With Depression in Women](https://journals.sagepub.com/doi/10.1111/j.1471-6402.1992.tb00242.x), *Psychology of Women Quarterly* | Auto-censure relationnelle et vulnérabilité dépressive | 20 |
+| Johnson, S. (2004), [The Practice of Emotionally Focused Couple Therapy](https://www.routledge.com/The-Practice-of-Emotionally-Focused-Couple-Therapy-Creating-Connection/Johnson/p/book/9780815348016), Routledge | Comprendre un comportement sans l'excuser | 25 |
+| Lamarre, V. & Marcotte, D., [Anxiété et perfectionnisme chez les étudiantes du collège](https://oresquebec.ca/articles-de-veille/anxiete-et-perfectionnisme-chez-les-etudiantes-du-college-resultats-de-recherche/), *European Review of Applied Psychology* | Perfectionnisme et anxiété chez les femmes | 20 |
+| Mahalik, J. et coll. (2005), [Development of the Conformity to Feminine Norms Inventory](https://link.springer.com/article/10.1007/s11199-005-3709-7), *Sex Roles* | Normes de genre féminines mesurées | 20 |
+| Mikulincer, M. & Shaver, P., [Attachment in Adulthood: Structure, Dynamics and Change](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change), Guilford Press | Styles d'attachement adulte | 20 |
+| Pearlin, L. et coll. (1990), [Caregiving and the stress process](https://academic.oup.com/gerontologist/article/30/5/583/564941), *The Gerontologist* | Coût du rôle d'aidant·e | 25 |
+| Rosenberg, M., [Nonviolent Communication: A Language of Life](https://nonviolentcommunication.com/product/nvc/), PuddleDancer Press | Formulation observation/besoin/demande | 24 |
+| Rosenthal, C. (1985) ; [Kinkeeping Across Families](https://link.springer.com/article/10.1007/s11199-023-01352-2), *Sex Roles*, 2023 | Rôle de maintien des liens familiaux | 23 |
+| Rudman, L. et coll., [Status incongruity and backlash effects](https://www.sciencedirect.com/science/article/abs/pii/S0022103111002514), *Journal of Experimental Social Psychology* | Pénalité sociale des femmes assertives | 20 |
+| [Revisiting gender differences in personality: large-scale samples from 27 nations](https://www.sciencedirect.com/science/article/pii/S0191886926001704), *ScienceDirect* | Différences de personnalité entre les sexes | 20 |
+| [Isolement post-partum vs Village, guide d'anticipation](https://www.23maiparis.com/en/blogs/le-blog-23-mai-paris/postpartum-isolation-vs-village-guide-danticipation) ; [enquête solitude périnatale 2025](https://presseagence.fr/france-sante-perinatale-solitude-et-manque-dinformation-le-double-ecueil-des-jeunes-meres/) | Isolement social post-partum | 23 |
 | Cederström, C. & Spicer, A. (2015), [The Wellness Syndrome](https://scholar.google.com/scholar?q=%22The+Wellness+Syndrome%22), *Polity Press* | Le bien-être comme injonction supplémentaire | 11.5 |
 | Cuijpers, P. et coll. (2008), [Psychological treatment of depression: results of a series of meta-analyses](https://scholar.google.com/scholar?q=%22Psychological+treatment+of+depression%3A+results+of+a+series+of+meta-analyses%22), *Canadian Journal of Psychiatry* | Efficacité des psychothérapies structurées | 4.6 |
 | Cunningham, F. et coll., [Williams Obstetrics](https://scholar.google.com/scholar?q=%22Williams+Obstetrics%22), *McGraw-Hill* | Physiologie de la grossesse par trimestre | 9.1, 9.10 |
@@ -84,6 +110,9 @@ Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), classées par
 | Tversky, A. & Kahneman, D. (1973), [Availability: A heuristic for judging frequency and probability](https://scholar.google.com/scholar?q=%22Availability%3A+A+heuristic+for+judging+frequency+and+probability%22), *Cognitive Psychology* | Heuristique de disponibilité | 12.1 |
 | VanderKruik, R. et coll. (2017), [The global prevalence of postpartum psychosis: a systematic review](https://scholar.google.com/scholar?q=%22The+global+prevalence+of+postpartum+psychosis%3A+a+systematic+review%22), *BMC Psychiatry* | Psychose du post-partum | 10.3 |
 | Victora, C. et coll. (2016), [Breastfeeding in the 21st century](https://scholar.google.com/scholar?q=%22Breastfeeding+in+the+21st+century%22), *The Lancet* | Bénéfices de l'allaitement | 10.7 |
+| Westergaard, D. et coll. (2019), [Population-wide analysis of differences in disease progression patterns in men and women](https://www.nature.com/articles/s41467-019-08475-9), *Nature Communications* | Écart de délai diagnostique entre les sexes | 19 |
+| [Délais diagnostiques et parcours des patientes souffrant d'endométriose en France](https://www.sciencedirect.com/science/article/abs/pii/S2468718922003415), *ScienceDirect* | Délai diagnostique de l'endométriose | 19 |
+| [Comprendre la ménopause. Physiopathologie des bouffées de chaleur](https://www.medecinesciences.org/en/articles/medsci/full_html/2025/12/medsci20250136/medsci20250136.html), *médecine/sciences*, 2025 | Fréquence et durée des bouffées de chaleur | 22 |
 | Webber, L. et coll. (2016), [ESHRE Guideline: management of women with premature ovarian insufficiency](https://scholar.google.com/scholar?q=%22ESHRE+Guideline%3A+management+of+women+with+premature+ovarian+insufficiency%22), *Human Reproduction* | Insuffisance ovarienne prématurée | 7.10 |
 | Workowski, K. & Bachmann, L. (2021), [Sexually Transmitted Infections Treatment Guidelines](https://scholar.google.com/scholar?q=%22Sexually+Transmitted+Infections+Treatment+Guidelines%22), *MMWR, CDC* | Infections pelviennes | 7.16 |
 | Yu, D. et coll. (2008), [Asherman syndrome — one century later](https://scholar.google.com/scholar?q=%22Asherman+syndrome+%E2%80%94+one+century+later%22), *Fertility and Sterility* | Syndrome d'Asherman | 7.14 |
