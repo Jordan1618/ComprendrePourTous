@@ -36,6 +36,9 @@ Sources du guide [Pour Lui](<../1 - Guides/Pour Lui/README.md>). Le chapitre [So
 | Référence | Ce qu'elle appuie | Chapitre |
 |---|---|---|
 | Bancroft, J. & Janssen, E. (2000), [The dual control model of male sexual response](https://scholar.google.com/scholar?q=%22The+dual+control+model+of+male+sexual+response%22), *Neuroscience & Biobehavioral Reviews* | Modèle du double contrôle, développé sur des hommes | 10 |
+| Diver, M. et coll. (2003), [Diurnal rhythms of serum testosterone and other hormones in men](https://onlinelibrary.wiley.com/doi/10.1046/j.1365-2265.2003.01772.x), *Clinical Endocrinology* | Rythme circadien de la testostérone | 2 |
+| Leproult, R. & Van Cauter, E. (2011), [Effect of 1 week of sleep restriction on testosterone levels in young healthy men](https://jamanetwork.com/journals/jama/fullarticle/1029127), *JAMA* | Effet du manque de sommeil sur la testostérone | 2 |
+| Handelsman, D. (2005), [Andropause: invention, prevention, rejuvenation](https://pubmed.ncbi.nlm.nih.gov/15734143/), *Trends in Endocrinology & Metabolism* | Critique du concept d'andropause | 2 |
 | Taylor, G. J., Bagby, R. M. & Parker, J. (1997), [Disorders of Affect Regulation](https://scholar.google.com/scholar?q=%22Disorders+of+Affect+Regulation%22), *Cambridge University Press* | Alexithymie et difficulté à identifier ses émotions | 3, 4 |
 
 ## Masculinité, corps et régulation émotionnelle
