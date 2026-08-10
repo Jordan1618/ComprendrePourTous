@@ -517,7 +517,56 @@ main::before {
   background: var(--accent-ink); border-color: var(--accent-ink);
 }
 
-@media print { .feedback, .contact-form { display: none !important; } }
+/* ---------------------------------------------------------- bloc avis */
+
+.avis {
+  max-width: 46rem; margin: 2.2rem 0 0; padding: 1.4rem 1.6rem;
+  background: var(--surface); border: 1px solid var(--border);
+  border-left: 3px solid var(--accent); border-radius: 0 var(--radius) var(--radius) 0;
+}
+.avis h2 {
+  margin: 0 0 .9rem; padding: 0; border: 0;
+  font-family: var(--sans); font-size: 1.02rem; font-weight: 650; letter-spacing: 0;
+}
+.avis-form { position: relative; display: flex; flex-direction: column; gap: .35rem; margin: 1.4rem 0 0; }
+.avis-form[hidden] { display: none; }
+.avis-form label { font-size: .88rem; font-weight: 600; margin-top: .4rem; }
+.avis-form .opt { font-weight: 400; color: var(--faint); }
+.avis-form input, .avis-form textarea {
+  width: 100%; box-sizing: border-box; font: inherit; padding: .6rem .8rem; color: var(--text);
+  background: var(--surface); border: 1px solid var(--border); border-radius: 9px;
+}
+.avis-form textarea { resize: vertical; min-height: 5rem; }
+.avis-form input:focus, .avis-form textarea:focus {
+  border-color: var(--accent); outline: none; box-shadow: 0 0 0 3px var(--accent-soft);
+}
+.avis-count { align-self: flex-end; font-size: .78rem; color: var(--faint); }
+.avis-note-msg { margin: .7rem 0 0; font-size: .88rem; font-weight: 600; color: var(--accent-ink); }
+.avis-legal { margin: .9rem 0 0; font-size: .82rem; color: var(--faint); line-height: 1.5; }
+
+.avis-stars { display: flex; gap: .2rem; }
+.star-btn {
+  font-size: 1.6rem; line-height: 1; padding: 0; border: 0; background: none;
+  color: var(--border); cursor: pointer;
+}
+.star-btn:hover { color: var(--accent); }
+.avis-stars .star-btn.is-active { color: var(--accent); }
+.avis-stars-ro { color: var(--accent); letter-spacing: .05em; }
+
+.avis-liste { margin: 0 0 1rem; }
+.avis-moyenne { margin: 0 0 .6rem; font-size: .95rem; }
+.avis-items { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: .8rem; }
+.avis-items li { padding: .7rem .9rem; background: var(--bg); border: 1px solid var(--border); border-radius: 9px; }
+.avis-item-head { display: flex; align-items: center; gap: .6rem; margin-bottom: .3rem; font-size: .88rem; }
+.avis-items p { margin: 0; font-size: .92rem; color: var(--text); line-height: 1.5; }
+
+.card-top[hidden] { display: none; }
+.card-top .top-emoji { font-size: 2rem; line-height: 1; margin-bottom: .3rem; }
+.card-top .top-pages-list { list-style: decimal; margin: .3rem 0 0 1.1rem; padding: 0; font-size: .86rem; color: var(--muted); }
+.card-top .top-pages-list li { margin-bottom: .2rem; }
+.card-top .top-pages-list a { color: inherit; }
+
+@media print { .feedback, .contact-form, .avis, .card-top { display: none !important; } }
 
 /* --------------------------------------------------------------- footer */
 

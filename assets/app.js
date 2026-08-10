@@ -159,6 +159,153 @@
     });
   }
 
+  /* --------------------------------------- avis publics (Supabase) ---- */
+  /* Contrairement au bloc d'amelioration ci-dessus (envoi direct par
+     e-mail, jamais stocke), les avis sont conserves et affiches
+     publiquement, mais seulement apres relecture manuelle (colonne
+     "approuve" dans Supabase). Voir /confidentialite/#avis. */
+  var SUPABASE_URL = "https://zufscjxwnbkadcygvzcp.supabase.co";
+  var SUPABASE_ANON_KEY = "sb_publishable_zshz05tNZomvbt5JGHQkXQ_gvukztL3";
+  var AVIS_FUNCTION_URL = SUPABASE_URL + "/functions/v1/swift-handler";
+  var pasConfigure = SUPABASE_URL.indexOf("REMPLACER") !== -1;
+
+  function supabaseGet(chemin) {
+    return fetch(SUPABASE_URL + "/rest/v1/" + chemin, {
+      headers: { apikey: SUPABASE_ANON_KEY, Authorization: "Bearer " + SUPABASE_ANON_KEY }
+    }).then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); });
+  }
+
+  function formaterAvis(a) {
+    var etoiles = "★".repeat(a.note) + "☆".repeat(5 - a.note);
+    var auteur = a.nom ? esc2(a.nom) : "Un·e lecteur·rice";
+    var com = a.commentaire ? "<p>" + esc2(a.commentaire) + "</p>" : "";
+    return '<li><div class="avis-item-head"><span class="avis-stars-ro" aria-hidden="true">' + etoiles +
+           '</span><strong>' + auteur + '</strong></div>' + com + '</li>';
+  }
+  function esc2(s) {
+    return String(s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+
+  document.querySelectorAll(".avis").forEach(function (bloc) {
+    var url = bloc.getAttribute("data-url") || location.pathname;
+    var titre = bloc.getAttribute("data-title") || document.title;
+    var liste = bloc.querySelector(".avis-liste");
+    var form = bloc.querySelector(".avis-form");
+    var stars = bloc.querySelectorAll(".star-btn");
+    var noteInput = bloc.querySelector(".avis-note");
+    var texte = bloc.querySelector(".avis-msg");
+    var nomChamp = bloc.querySelector(".avis-nom");
+    var hp = bloc.querySelector(".avis-hp-input");
+    var compteur = bloc.querySelector(".avis-count-n");
+    var noteMsg = bloc.querySelector(".avis-note-msg");
+    var turnstileDiv = bloc.querySelector(".cf-turnstile");
+    var dejaNote = false;
+    try { dejaNote = !!localStorage.getItem("cpt_avis_" + url); } catch (e) {}
+
+    brancherCompteur(texte, compteur, 1000);
+
+    if (pasConfigure) {
+      if (liste) liste.innerHTML = '<p class="muted">Avis pas encore activés sur ce site.</p>';
+      if (form) form.hidden = true;
+      return;
+    }
+
+    /* affichage des avis approuves + moyenne */
+    var champAvis = "page_url=eq." + encodeURIComponent(url) +
+      "&approuve=eq.true&select=note,commentaire,nom,cree_le&order=cree_le.desc&limit=20";
+    supabaseGet("avis?" + champAvis).then(function (avis) {
+      if (!liste) return;
+      if (!avis.length) {
+        liste.innerHTML = '<p class="muted">Aucun avis publié pour l’instant. Soyez le premier·ère.</p>';
+        return;
+      }
+      var moyenne = avis.reduce(function (s, a) { return s + a.note; }, 0) / avis.length;
+      liste.innerHTML = '<p class="avis-moyenne"><strong>' + moyenne.toFixed(1) + '/5</strong> sur ' +
+        avis.length + (avis.length > 1 ? ' avis' : ' avis') + '</p><ul class="avis-items">' +
+        avis.map(formaterAvis).join("") + '</ul>';
+    }).catch(function () {
+      if (liste) liste.innerHTML = '<p class="muted">Avis indisponibles pour le moment.</p>';
+    });
+
+    /* etoiles cliquables */
+    stars.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var v = parseInt(btn.getAttribute("data-valeur"), 10);
+        if (noteInput) noteInput.value = String(v);
+        stars.forEach(function (b) {
+          b.classList.toggle("is-active", parseInt(b.getAttribute("data-valeur"), 10) <= v);
+        });
+      });
+    });
+
+    if (dejaNote && form) {
+      form.hidden = true;
+      if (noteMsg) noteMsg.textContent = "Vous avez déjà envoyé un avis pour cette page, merci !";
+    }
+
+    if (form && !dejaNote) {
+      form.addEventListener("submit", function (e) {
+        e.preventDefault();
+        if (hp && hp.value) return; /* robot : on ne fait rien, silencieusement */
+        var note = noteInput ? parseInt(noteInput.value, 10) : 0;
+        if (!note) {
+          if (noteMsg) noteMsg.textContent = "Choisissez une note avant d'envoyer.";
+          return;
+        }
+        var tokenInput = turnstileDiv ? turnstileDiv.querySelector('[name="cf-turnstile-response"]') : null;
+        var token = tokenInput ? tokenInput.value : "";
+        if (!token) {
+          if (noteMsg) noteMsg.textContent = "Merci de valider la vérification anti-robot.";
+          return;
+        }
+        fetch(AVIS_FUNCTION_URL, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", apikey: SUPABASE_ANON_KEY },
+          body: JSON.stringify({
+            page_url: url,
+            page_title: titre,
+            note: note,
+            commentaire: texte ? texte.value.trim() : "",
+            nom: nomChamp ? nomChamp.value.trim() : "",
+            honeypot: hp ? hp.value : "",
+            turnstile_token: token
+          })
+        }).then(function (r) { return r.json(); })
+          .then(function (data) {
+            if (data.ok) {
+              try { localStorage.setItem("cpt_avis_" + url, "1"); } catch (e) {}
+              form.hidden = true;
+              if (noteMsg) noteMsg.textContent = "Merci, votre avis sera publié après relecture.";
+            } else {
+              if (noteMsg) noteMsg.textContent = data.error || "Envoi impossible pour le moment.";
+              if (window.turnstile && turnstileDiv) window.turnstile.reset(turnstileDiv);
+            }
+          })
+          .catch(function () {
+            if (noteMsg) noteMsg.textContent = "Envoi impossible (hors ligne ?).";
+          });
+      });
+    }
+  });
+
+  /* carte "Vos tops" de l'accueil */
+  var topCard = document.getElementById("top-pages-card");
+  if (topCard && !pasConfigure) {
+    supabaseGet("avis_stats?select=page_url,page_title,moyenne,nombre&order=moyenne.desc&limit=5")
+      .then(function (tops) {
+        if (!tops.length) return;
+        var liste = topCard.querySelector(".top-pages-list");
+        liste.innerHTML = tops.map(function (t) {
+          return '<li><a href="' + t.page_url + '">' + esc2(t.page_title) + '</a> — ' +
+            Number(t.moyenne).toFixed(1) + '/5 (' + t.nombre + ')</li>';
+        }).join("");
+        topCard.hidden = false;
+      })
+      .catch(function () {});
+  }
+
   /* --------------------------------------------------------- recherche */
   var input = document.getElementById("q");
   var results = document.getElementById("results");

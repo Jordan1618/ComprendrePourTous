@@ -759,6 +759,7 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
   </nav>
   <p class="disclaimer">Rien ici n'est un avis médical individualisé. Pour toute situation concrète, un professionnel de santé reste irremplaçable.</p>
 </footer>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
 <script src="/assets/app.js?v=%(jsv)s" defer></script>
 </body>
 </html>
@@ -827,6 +828,51 @@ def feedback_block(title, url):
         'e-mail à l\'auteur, sans créer de compte ni être stocké sur ce '
         'site. <a href="/confidentialite/#formulaire">Détail</a>.</p>'
         '</section>' % (esc(title), esc(url)))
+
+
+def avis_block(title, url):
+    """Bloc d'avis publics : note en etoiles + commentaire optionnel.
+    Contrairement au bloc d'amelioration (feedback_block), les avis sont
+    stockes (Supabase) et affiches publiquement apres moderation manuelle.
+    Voir /confidentialite/#avis et 5 - Notes Internes/Mise en place des avis.md."""
+    etoiles = "".join(
+        '<button type="button" class="star-btn" data-valeur="%d" aria-label="%d étoile%s">★</button>'
+        % (n, n, "s" if n > 1 else "")
+        for n in range(1, 6)
+    )
+    return (
+        '<section class="avis" data-title="%s" data-url="%s">'
+        '<h2>L’avis des lecteur·rices sur cette page</h2>'
+        '<div class="avis-liste" data-etat="chargement"><p class="muted">Chargement des avis…</p></div>'
+        '<form class="avis-form">'
+        '<div class="avis-stars" role="radiogroup" aria-label="Votre note">%s</div>'
+        '<input type="hidden" class="avis-note" value="0">'
+        '<label>Votre prénom <span class="opt">(facultatif)</span>'
+        '<input class="avis-nom" type="text" maxlength="60" autocomplete="name" placeholder="Comment vous signer"></label>'
+        '<label>Votre commentaire <span class="opt">(facultatif)</span>'
+        '<textarea class="avis-msg" maxlength="1000" rows="3" '
+        'placeholder="Ce qui vous a aidé·e, ce qui manque…"></textarea></label>'
+        '<div class="avis-count"><span class="avis-count-n">0</span>/1000</div>'
+        '<div class="cf-turnstile" data-sitekey="0x4AAAAAAEL468nM9VwKcVEp"></div>'
+        '<div class="fb-hp" aria-hidden="true">'
+        '<label>Laisser vide<input class="avis-hp-input" type="text" tabindex="-1" autocomplete="off"></label>'
+        '</div>'
+        '<button type="submit" class="avis-send">Envoyer mon avis</button>'
+        '</form>'
+        '<p class="avis-note-msg"></p>'
+        '<p class="avis-legal">Votre avis est stocké (Supabase) et publié après relecture, pas '
+        'automatiquement. <a href="/confidentialite/#avis">Détail</a>.</p>'
+        '</section>' % (esc(title), esc(url), etoiles))
+
+
+def top_pages_card():
+    """Carte 'Vos tops' de l'accueil : contenu rempli par app.js une fois les
+    stats d'avis chargees depuis Supabase (statique tant que rien n'est
+    approuve, donc masquee par defaut via CSS jusqu'a avoir du contenu)."""
+    return ('<div class="card card-top" id="top-pages-card" style="--hue: 300" hidden>'
+            '<span class="top-emoji" aria-hidden="true">⭐</span><h2>Vos tops</h2>'
+            '<p>Les pages les mieux notées par les lecteur·rices.</p>'
+            '<ol class="top-pages-list"></ol></div>')
 
 
 def breadcrumb_simple(title):
@@ -956,7 +1002,7 @@ def render_home(home, pages, by_url, nav):
     body.append('<p class="hero-stats">%d guides · %d chapitres · %s mots · sources datées</p>'
                 % (guides, chapters, "{:,}".format(words).replace(",", " ")))
     body.append("</div>")
-    body.append('<div class="cards">%s</div>' % "".join(cards))
+    body.append('<div class="cards">%s%s</div>' % ("".join(cards), top_pages_card()))
     body.append('<div class="prose home-prose">%s</div>' % home.html)
     body.append(source_link(home))
 
@@ -1024,6 +1070,7 @@ def render_guide(guide, by_url, nav):
     body.append('<p class="source"><a href="%s" target="_blank" rel="noopener">'
                 'Voir ce dossier sur GitHub</a></p>' % gh_tree(guide.folder))
     body.append("</article>")
+    body.append(avis_block(guide.title, guide.url))
     body.append(feedback_block(guide.title, guide.url))
     return layout(guide.title, excerpt(guide.html) or guide.title,
                   "".join(body), nav, guide.url, hue=guide.hue)
@@ -1039,6 +1086,7 @@ def render_page(page, by_url, nav):
     body.append(source_link(page, by_url))
     body.append("</article>")
     body.append(prev_next_html(page, by_url))
+    body.append(avis_block(page.title, page.url))
     body.append(feedback_block(page.title, page.url))
     return layout(page.title, excerpt(page.html) or page.title,
                   "".join(body), nav, page.url, hue=page.hue)
@@ -1261,17 +1309,19 @@ concrètement.</p>
 
 <h2>Aucune collecte, aucun cookie</h2>
 <p>Ce site est entièrement <strong>statique</strong> : ce sont des fichiers HTML pré-calculés,
-servis tels quels. Il n'y a ni base de données, ni compte utilisateur, ni commentaire, ni
-newsletter. La seule exception concerne le formulaire de contact et les boutons d'avis, détaillés
-plus bas, et uniquement si vous choisissez de vous en servir.</p>
+servis tels quels. Il n'y a ni base de données propre au site, ni compte utilisateur, ni
+newsletter. Les seules exceptions concernent le formulaire de contact, les boutons d'avis, et le
+système de notes et commentaires publics, détaillés plus bas, et uniquement si vous choisissez de
+vous en servir.</p>
 <ul>
 <li><strong>Aucun cookie</strong> n'est déposé, ni technique, ni publicitaire. C'est pourquoi
 aucune bannière de consentement ne vous est présentée : il n'y a rien à consentir.</li>
 <li><strong>Aucun traceur ni mesure d'audience</strong> : pas de Google Analytics, pas de pixel,
 pas de service tiers de statistiques.</li>
-<li><strong>Aucune ressource externe chargée au chargement des pages</strong> : les styles, le
-script et les illustrations sont servis depuis ce domaine. Aucune police ni bibliothèque n'est
-chargée depuis un serveur tiers pendant votre navigation.</li>
+<li><strong>Presque aucune ressource externe</strong> : les styles, le script principal et les
+illustrations sont servis depuis ce domaine. La seule exception est le script de
+<a href="#avis">Cloudflare Turnstile</a>, chargé sur chaque page pour protéger le système de notes
+et commentaires contre les robots, détaillé plus bas.</li>
 <li><strong>Aucune publicité</strong>, aucun partage ni revente de données.</li>
 </ul>
 
@@ -1303,11 +1353,52 @@ la rectification ou l'effacement d'un message déjà envoyé en écrivant via le
 <a href="/contact/">autres moyens de contact</a>.</li>
 </ul>
 
+<h2 id="avis">Notes et commentaires publics</h2>
+<p>En bas de chaque chapitre, vous pouvez laisser une note (1 à 5 étoiles) et, si vous le
+souhaitez, un commentaire et un prénom. Contrairement au formulaire de contact ci-dessus, ces avis
+sont <strong>stockés</strong> (chez <a href="https://supabase.com" target="_blank"
+rel="noopener">Supabase</a>, hébergeur de base de données tiers) et <strong>publiés
+publiquement</strong> sur la page concernée, mais seulement après relecture manuelle par l'auteur
+— l'envoi ne rend pas votre avis visible immédiatement.</p>
+<ul>
+<li><strong>Ce qui est stocké</strong> : la note, le commentaire et le prénom que vous indiquez le
+cas échéant (les deux sont facultatifs), le titre et l'adresse de la page concernée, et la date
+d'envoi.</li>
+<li><strong>Vérification anti-robot</strong> : l'envoi passe par
+<a href="https://www.cloudflare.com/products/turnstile/" target="_blank" rel="noopener">Cloudflare
+Turnstile</a>, qui analyse votre navigation pour distinguer un humain d'un robot sans CAPTCHA
+visible dans la plupart des cas. Cloudflare reçoit à cette occasion des informations techniques
+standard (adresse IP, caractéristiques du navigateur) ; voir sa
+<a href="https://www.cloudflare.com/privacypolicy/" target="_blank" rel="noopener">politique de
+confidentialité</a>.</li>
+<li><strong>Ce qui n'est jamais public</strong> : votre adresse IP n'apparaît jamais sur le site,
+ni dans les avis publiés, ni ailleurs.</li>
+<li><strong>Modération</strong> : chaque avis envoyé reste invisible tant que l'auteur ne l'a pas
+approuvé manuellement. Un avis peut être refusé (hors sujet, contenu abusif) sans notification.</li>
+<li><strong>Finalité</strong> : donner aux lecteur·rices un retour d'expérience partagé sur chaque
+page, et faire ressortir les pages les mieux notées sur la page d'accueil.</li>
+<li><strong>Base légale</strong> : votre consentement explicite, exprimé par l'action de noter et
+d'envoyer (article 6.1.a du RGPD).</li>
+<li><strong>Conservation</strong> : les avis sont conservés tant que la page existe. Supabase agit
+comme sous-traitant au sens du RGPD pour le seul stockage des données ; voir sa
+<a href="https://supabase.com/privacy" target="_blank" rel="noopener">politique de
+confidentialité</a>.</li>
+<li><strong>Vos droits</strong> : vous pouvez demander la rectification ou l'effacement d'un avis
+déjà publié en écrivant via les <a href="/contact/">moyens de contact</a>, en précisant la page et
+la date approximative d'envoi.</li>
+</ul>
+
 <h2>Ce qui reste stocké dans votre navigateur</h2>
-<p>Une seule information est conservée, <strong>sur votre appareil uniquement</strong> : votre
-préférence de thème clair ou sombre, enregistrée dans le stockage local du navigateur
-(<code>localStorage</code>) sous la clé <code>theme</code>. Elle n'est jamais transmise, ne permet
-aucune identification, et disparaît si vous videz les données du site.</p>
+<p>Quelques informations techniques sont conservées, <strong>sur votre appareil uniquement</strong>,
+dans le stockage local du navigateur (<code>localStorage</code>) : aucune n'est transmise, aucune
+ne permet de vous identifier, et toutes disparaissent si vous videz les données du site.</p>
+<ul>
+<li><code>theme</code> : votre préférence de thème clair ou sombre.</li>
+<li><code>cpt_last_send</code> : l'horodatage de votre dernier envoi via un formulaire, utilisé
+uniquement pour limiter la fréquence d'envoi (une soumission toutes les 30 secondes maximum).</li>
+<li><code>cpt_avis_&lt;adresse de la page&gt;</code> : une marque posée après l'envoi d'un avis sur
+une page donnée, pour éviter d'afficher le formulaire une deuxième fois sur le même appareil.</li>
+</ul>
 
 <h2>Journaux techniques de l'hébergeur</h2>
 <p>Le site est hébergé par <strong>GitHub Pages</strong>. Comme tout serveur web, GitHub peut
