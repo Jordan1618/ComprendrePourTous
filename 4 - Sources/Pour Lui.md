@@ -14,6 +14,11 @@ Sources du guide [Pour Lui](<../1 - Guides/Pour Lui/README.md>). Le chapitre [So
 | Référence | Ce qu'elle appuie | Chapitre |
 |---|---|---|
 | [Santé publique France — Suicide](https://www.santepubliquefrance.fr/maladies-et-traumatismes/suicide-et-tentative-de-suicide) | Surmortalité masculine par suicide | 1, 6, 20 |
+| [Santé publique France — Baromètre santé mentale](https://www.santepubliquefrance.fr/en/mental-health/depression-and-anxiety) | Prévalence de la dépression par sexe | 1 |
+| [Le Quotidien du Médecin — non-recours aux soins psychiques](https://www.lequotidiendumedecin.fr/actu-medicale/sante-publique/malgre-une-mauvaise-sante-mentale-seulement-un-francais-sur-dix-consulte-un-professionnel) | Écart de recours aux soins par sexe | 1 |
+| [Slate.fr — pourquoi les femmes consultent plus qu'un psy](https://www.slate.fr/story/210509/therapies-psy-pourquoi-femmes-plus-nombreuses-hommes-divan-stereotypes-genre-ideal-masculin-virilite) | Répartition par sexe de la patientèle psy | 1 |
+| [Observatoire des inégalités — accidents mortels au travail](https://www.inegalites.fr/Accidents-graves-et-morts-au-travail-surtout-des-hommes-et-des-ouvriers) | Surmortalité masculine au travail | 1 |
+| [Sénat — femmes sans abri, la face cachée de la rue](https://www.senat.fr/rap/r24-015-1/r24-015-12.html) | Répartition par sexe du sans-abrisme de rue | 1 |
 | [Santé publique France — Alcool](https://www.santepubliquefrance.fr/determinants-de-sante/alcool) | Repères de consommation à moindre risque | 20 |
 | [Insee — Espérance de vie](https://www.insee.fr/fr/statistiques/2416631) | Écart d'espérance de vie entre hommes et femmes | 1, 20 |
 

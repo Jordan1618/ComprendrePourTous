@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 22
-mots: 33745
+mots: 33926
 verifie_le: 2026-08-10
 licence: "CC BY 4.0"
 ---
@@ -22,7 +22,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Le décor : ce que disent les chiffres](<01 - Ce que disent les chiffres.md>) | repères | 842 |
+| 1 | [Le décor : ce que disent les chiffres](<01 - Ce que disent les chiffres.md>) | repères | 1 023 |
 | 2 | [Le cycle masculin : ce qui existe vraiment](<02 - Le cycle masculin.md>) | physiologie | 1 112 |
 | 3 | [Le substrat : analyse socio-neuro-psychologique](<03 - Le substrat socio-neuro-psychologique.md>) | psychologie | 2 297 |
 | 4 | [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<04 - L'architecture émotionnelle.md>) | psychologie | 3 261 |
@@ -45,7 +45,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 21 | [Aide-mémoire](<21 - Aide-mémoire.md>) | repères | 949 |
 | 22 | [Sources vérifiables](<22 - Sources verifiables.md>) | repères | 1 352 |
 
-Total : 33 745 mots, 22 chapitres.
+Total : 33 926 mots, 22 chapitres.
 
 ## Le guide jumeau
 
