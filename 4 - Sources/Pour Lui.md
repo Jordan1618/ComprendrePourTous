@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Pour Lui"
-mis_a_jour_le: 2026-08-07
+mis_a_jour_le: 2026-08-10
 licence: "CC BY 4.0"
 ---
 
@@ -42,6 +42,13 @@ Sources du guide [Pour Lui](<../1 - Guides/Pour Lui/README.md>). Le chapitre [So
 | Bleske-Rechek, A. & Buss, D. (2001), [Opposite-sex friendship: sex differences and similarities in initiation, selection, and dissolution](https://scholar.google.com/scholar?q=%22Opposite-sex+friendship%3A+sex+differences+and+similarities+in+initiation%2C+selection%2C+and+dissolution%22), *Personality and Social Psychology Bulletin* | Amitiés homme-femme | 17.12 |
 | Brown, B. (2012), [Daring Greatly](https://scholar.google.com/scholar?q=%22Daring+Greatly%22), *Gotham Books* | Honte contre culpabilité | 4.4 |
 | Cheng, J. et coll. (2013), [Two ways to the top](https://scholar.google.com/scholar?q=%22Two+ways+to+the+top%22), *Journal of Personality and Social Psychology* | Hiérarchies de dominance et de prestige | 3.5, 15.1, 15.2, 15.5, 17.11 |
+| Mahalik, J. et coll. (2003), [Development of the Conformity to Masculine Norms Inventory](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory), *Psychology of Men & Masculinity* | Normes masculines mesurées, grands profils | 5 |
+| Levant, R. (1992), [Toward the reconstruction of masculinity](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7), *Journal of Family Psychology* | Alexithymie masculine normative | 5 |
+| Mikulincer, M. & Shaver, P., [Attachment in Adulthood: Structure, Dynamics and Change](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change), Guilford Press | Styles d'attachement adulte | 5 |
+| Vandello, J. & Bosson, J., [Hard Won and Easily Lost](https://digitalcommons.usf.edu/psy_facpub/1161/), *Psychology of Men & Masculinity* | Masculinité précaire | 5, 18 |
+| [The affective consequences of threats to masculinity](https://www.sciencedirect.com/science/article/abs/pii/S0022103121000986), *Journal of Experimental Social Psychology* | Prise de risque après menace identitaire | 5 |
+| [Prevalence and correlates of muscle dysmorphia in a sample of boys and men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11916914/), *PMC* | Prévalence de la dysmorphie musculaire | 5 |
+| [Touch starvation](https://en.wikipedia.org/wiki/Touch_starvation), synthèse sourcée | Manque de contact physique et ses effets | 5 |
 | Christensen, A. & Heavey, C. (1990), [Gender and social structure in the demand/withdraw pattern of marital conflict](https://scholar.google.com/scholar?q=%22Gender+and+social+structure+in+the+demand%2Fwithdraw+pattern+of+marital+conflict%22), *Journal of Personality and Social Psychology* | Patron demande-retrait dans le conflit conjugal | 16.1, 17.8 |
 | Cochran, S. & Rabinowitz, F. (2000), [Men and Depression: Clinical and Empirical Perspectives](https://scholar.google.com/scholar?q=%22Men+and+Depression%3A+Clinical+and+Empirical+Perspectives%22), *Academic Press* | Dépression masculine, présentation clinique | 6.1, 6.2, 6.3 |
 | Daminger, A. (2019), [The Cognitive Dimension of Household Labor](https://scholar.google.com/scholar?q=%22The+Cognitive+Dimension+of+Household+Labor%22), *American Sociological Review* | Travail cognitif domestique | 19.2, 17.2 |

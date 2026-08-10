@@ -3,7 +3,7 @@ projet: "Comprendre pour tous"
 type: "collection"
 guides: 9
 chapitres: 121
-mots: 143771
+mots: 145315
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-08-10
 licence: "CC BY 4.0"
@@ -42,7 +42,7 @@ J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y
 | [L'amour](<1 - Guides/L amour/README.md>) | commun | 9 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir, engagement | [lire](<0 - Guides complets/L'amour.md>) |
 | [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 12 | Trauma, quotidien et charge, projets de vie, épreuves, deuil, histoire du couple| [lire](<0 - Guides complets/Pour Nous.md>) |
 
-Environ 143 800 mots au total.
+Environ 145 300 mots au total.
 
 Un document à part condense le meilleur de chaque guide, 15 items maximum par guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>). C'est une synthèse tenue à la main, pas un artefact généré par `build-guides-complets.py`.
 
