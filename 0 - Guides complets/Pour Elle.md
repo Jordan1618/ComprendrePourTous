@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 72098
+mots: 72703
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -1208,7 +1208,7 @@ Une entrée qui fonctionne, sans jugement : **« est-ce que tu te sens mieux ou 
 
 ### 12.1 L'analogie de l'alarme mal calibrée
 
-Une alarme qui sonne pour une vapeur de douche et reste muette devant un début d'incendie n'est pas trop sensible : elle est **mal calibrée**. Elle réagit à ce qui est spectaculaire et ignore ce qui est fréquent.
+Une alarme qui sonne pour une vapeur de douche et reste muette devant un début d'incendie n'est pas trop sensible : elle est **mal calibrée**. Elle réagit à ce qui est spectaculaire et ignore ce qui est fréquent. Une alarme correctement calibrée, en revanche, reste précieuse et mérite d'être écoutée sans réserve.
 
 C'est exactement ce que fait l'évaluation intuitive du risque. Ce qui est marquant, raconté, visuel, paraît fréquent ; ce qui est banal et progressif paraît rare. Ce chapitre recalibre — non pour rassurer à tout prix, mais pour que l'inquiétude se pose au bon endroit.
 
@@ -1220,19 +1220,30 @@ Une précision de méthode : je donne ici des **ordres de grandeur et des hiéra
 
 **Le cancer du sein avant 40 ans.** Très redouté, réellement rare à cet âge. Ce qui justifie une consultation sans attendre : une boule persistante, une rétraction du mamelon, un écoulement, une modification de la peau. La surveillance organisée commence plus tard précisément parce que le rapport bénéfice/risque du dépistage dépend de l'âge.
 
-**La « perte de fertilité à 35 ans ».** La fertilité décline progressivement, ce n'est pas une falaise à date fixe. Le chiffre souvent cité vient de données historiques anciennes et a été largement critiqué. Le déclin est réel et graduel, plus marqué après 37-40 ans. Le risque thrombotique sous contraception œstroprogestative a été quantifié et comparé à celui de la grossesse dans une large étude de cohorte (source : van Hylckama Vlieg et coll., « The venous thrombotic risk of oral contraceptives », *BMJ*, 2009 ; vérification du 7 août 2026).
+**La « perte de fertilité à 35 ans ».** La fertilité décline progressivement, ce n'est pas une falaise à date fixe. Le chiffre souvent cité vient de données historiques anciennes et a été largement critiqué. Le déclin est réel et graduel, plus marqué après 37-40 ans — et depuis quelques années, une option concrète existe pour celles qui veulent se donner davantage de marge : la préservation de la fertilité par congélation d'ovocytes, désormais accessible en France pour convenance personnelle jusqu'à 37 ans, voir le chapitre sur les âges de la vie féminine pour le détail complet de ce dispositif. Le risque thrombotique sous contraception œstroprogestative a été quantifié et comparé à celui de la grossesse dans une large étude de cohorte (source : van Hylckama Vlieg et coll., « The venous thrombotic risk of oral contraceptives », *BMJ*, 2009 ; vérification du 7 août 2026).
 
 ### 12.3 Les risques sous-estimés
 
 Ceux-là méritent bien plus d'attention qu'ils n'en reçoivent.
 
-**Les maladies cardiovasculaires.** Première cause de mortalité chez les femmes, très loin devant les cancers gynécologiques. Elles restent perçues comme un problème masculin, ce qui produit deux effets : moins de prévention, et un retard de prise en charge à l'urgence. Les symptômes d'infarctus se présentent plus souvent chez les femmes sous une forme atypique — fatigue intense, douleur dans la mâchoire ou le dos, nausées, essoufflement — plutôt que la douleur thoracique irradiante classique. **Savoir cela peut sauver une vie.**
+**Les maladies cardiovasculaires.** Première cause de mortalité chez les femmes, très loin devant les cancers gynécologiques. Elles restent perçues comme un problème masculin, ce qui produit deux effets : moins de prévention, et un retard de prise en charge à l'urgence. Le sujet mérite une nuance dans le temps : des décennies de baisse de la mortalité cardiovasculaire, portées par la réduction du tabagisme, une meilleure prise en charge de l'hypertension et de meilleurs traitements, ont marqué un vrai progrès collectif — mais cette amélioration a stagné ces dernières années, en particulier chez les femmes de moins de 55 ans, ce qui rend la vigilance individuelle décrite dans ce chapitre plus utile que jamais, pas moins. Les symptômes d'infarctus se présentent plus souvent chez les femmes sous une forme atypique — fatigue intense, douleur dans la mâchoire ou le dos, nausées, essoufflement — plutôt que la douleur thoracique irradiante classique. **Savoir cela peut sauver une vie.**
 
 **Le tabac associé à la contraception œstroprogestative après 35 ans.** L'association multiplie le risque cardiovasculaire. C'est l'un des rares points où la contre-indication est nette.
 
 **Le retard diagnostique de l'[endométriose](<../2 - Notions/Endométriose.md>).** Encore compté en années. Des règles qui empêchent de travailler ou d'aller en cours ne sont pas normales, et « c'est comme ça » n'est pas un diagnostic.
 
 **Les IST asymptomatiques.** Chlamydia en particulier, souvent silencieuse et pouvant retentir sur la fertilité. Le dépistage est simple et largement sous-utilisé. Voir [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>). La sous-reconnaissance du risque cardiovasculaire féminin, première cause de mortalité chez les femmes, est documentée par l'association américaine de cardiologie (source : Mosca et coll., « Sex/Gender Differences in Cardiovascular Disease Prevention », *Circulation*, 2011 ; vérification du 7 août 2026).
+
+### 12.3 bis Une peur qui recule vraiment : la vaccination HPV
+
+Ce chapitre recalibre surtout des peurs mal ajustées — mais il faut aussi nommer une peur ancienne qui, elle, recule réellement grâce à une avancée médicale majeure, trop peu connue dans son ampleur. [Les filles vaccinées entre 12 et 13 ans montrent une réduction de 83,9 % du diagnostic de cancer du col de l'utérus par rapport aux femmes non vaccinées, et la vaccination réduit de 99 % le risque de lésions cervicales sévères pour les types de HPV les plus susceptibles de causer ce cancer, quand elle est administrée tôt](https://www.nevadacancercoalition.org/blog/hpv-vaccine-erasing-cancer-heres-proof). Un résultat plus spectaculaire encore : [une étude menée au Royaume-Uni a montré une baisse de 100 % des décès par cancer du col chez les femmes vaccinées avec le Gardasil 9, les femmes de moins de 30 ans vaccinées ayant une probabilité proche de zéro de mourir de ce cancer](https://www.nevadacancercoalition.org/blog/hpv-vaccine-erasing-cancer-heres-proof).
+
+L'effet se confirme sur le temps long : [une étude portant sur 8 659 femmes vaccinées à 14 ans a montré que les infections aux types de HPV à haut risque étaient quasiment éliminées plus d'une décennie plus tard](https://www.nevadacancercoalition.org/blog/hpv-vaccine-erasing-cancer-heres-proof). À l'échelle mondiale, [le vaccin HPV pourrait à lui seul sauver 45 millions de vies](https://www.nevadacancercoalition.org/blog/hpv-vaccine-erasing-cancer-heres-proof). Ce n'est pas une promesse théorique : c'est l'un des très rares cas où une maladie redoutée depuis des générations est en train de devenir, concrètement, une maladie qui pourrait quasiment disparaître du vivant des femmes vaccinées aujourd'hui.
+
+**Bons réflexes.**
+- Se renseigner activement sur la vaccination HPV pour soi-même si ce n'est pas déjà fait — le rattrapage reste possible au-delà de l'adolescence, à discuter avec un médecin.
+- Encourager la vaccination des enfants, filles et garçons, dans la fenêtre d'âge recommandée — l'efficacité est la plus forte quand elle précède toute exposition au virus.
+- Retenir ce résultat comme un contrepoint concret à la peur du cancer du col évoquée plus haut : une peur ancienne et légitime, aujourd'hui largement neutralisable par un geste de prévention simple.
 
 ### 12.4 Comment avancer quand la peur est là
 
@@ -1269,6 +1280,15 @@ Ce qui fonctionne mieux : **« tu veux que je te rassure, ou que je t'aide à tr
 - Apprenez les signes atypiques de l'infarctus chez la femme. C'est l'information la plus utile de ce chapitre.
 - Fixez une limite à la vérification. Au-delà, chercher n'informe plus, ça entretient.
 - Consultez sur un écart par rapport à votre normale, pas sur une norme générale.
+
+## Sources vérifiables
+
+- Tversky, A. & Kahneman, D., « Availability: A heuristic for judging frequency and probability », *Cognitive Psychology*, 1973 ; vérification du 7 août 2026.
+- van Hylckama Vlieg, A. et coll., « The venous thrombotic risk of oral contraceptives », *BMJ*, 2009 ; vérification du 7 août 2026.
+- Mosca, L. et coll., « Sex/Gender Differences in Cardiovascular Disease Prevention », *Circulation*, 2011 ; vérification du 7 août 2026.
+- Barrett, L. F., *How Emotions Are Made*, Houghton Mifflin Harcourt, 2017 ; vérification du 7 août 2026.
+- Haute Autorité de Santé, *Dépistage des cancers* ; vérification du 7 août 2026.
+- [The HPV vaccine is erasing cancer – here's the proof](https://www.nevadacancercoalition.org/blog/hpv-vaccine-erasing-cancer-heres-proof), Nevada Cancer Coalition ; vérification du 11 août 2026.
 
 ---
 
