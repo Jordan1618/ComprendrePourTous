@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Les hommes vivent en moyenne moins longtemps que les femmes, dans tous les pays. Une part de cet écart est biologique ; une part importante ne l'est pas. Elle tient à des comportements et à un rapport au soin : tabac, alcool, conduites à risque, moindre recours au médecin, retard à consulter.
 
-C'est une bonne nouvelle mal formulée. **La partie modifiable est grande.** Ce chapitre liste ce qui compte réellement, par ordre d'impact, et à quel moment s'en occuper. L'écart d'espérance de vie entre hommes et femmes est mesuré chaque année par l'institut national de la statistique (source : Insee, *Espérance de vie, mortalité et causes de décès* ; vérification du 7 août 2026).
+C'est une bonne nouvelle mal formulée. **La partie modifiable est grande, et elle l'est de plus en plus au fil des décennies**, à mesure que les traitements s'améliorent et que le dépistage progresse. Ce chapitre liste ce qui compte réellement, par ordre d'impact, et à quel moment s'en occuper. L'écart d'espérance de vie entre hommes et femmes est mesuré chaque année par l'institut national de la statistique (source : Insee, *Espérance de vie, mortalité et causes de décès* ; vérification du 7 août 2026).
 
 ### 20.2 Le classement par impact réel
 
@@ -73,3 +73,31 @@ Ce qui bloque : « tu devrais voir un médecin », entendu comme un jugement. Ce
 - Faites le test colorectal quand il arrive par courrier. Il est fait chez soi, il prend cinq minutes, et le cancer concerné se guérit très bien pris tôt.
 - Ayez un médecin traitant et voyez-le une fois par an, même quand tout va bien. Le rapport au soin masculin se joue là : consulter uniquement quand ça va mal, c'est consulter tard.
 - La santé mentale se surveille comme le reste. Le **3114** existe aussi pour ceux qui vont mal sans savoir le nommer.
+
+### 20.6 Ce que le suivi change vraiment, en chiffres
+
+Ce chapitre a listé ce qu'il faut surveiller et quand. Il faut dire aussi, très concrètement, ce que ce suivi rapporte réellement une fois mis en place — parce que ce ne sont pas des recommandations abstraites, ce sont des gestes dont l'effet a été mesuré, et l'effet est important.
+
+**La tension, chiffrée précisément.** Une baisse de dix points de la tension artérielle systolique — un objectif tout à fait atteignable pour beaucoup d'hommes hypertendus, par le traitement seul ou combiné à des ajustements de mode de vie — réduit de 20 % le risque d'événement cardiovasculaire majeur, de 27 % le risque d'accident vasculaire cérébral et de 28 % le risque d'insuffisance cardiaque. [Ces chiffres proviennent d'une méta-analyse portant sur les données individuelles de centaines de milliers de participants à travers le monde](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00590-0/fulltext), ce qui en fait l'une des estimations les plus solides de toute la médecine préventive. Concrètement : le geste le plus simple et le moins coûteux du 20.2 — prendre sa tension — est aussi celui dont l'effet en aval, une fois un traitement engagé si nécessaire, est le mieux démontré.
+
+**Le dépistage colorectal, chiffré précisément.** Chez les hommes spécifiquement, réaliser le test de dépistage recommandé dans la tranche d'âge concernée réduit de 24 % le risque de développer un cancer colorectal au cours de la vie, et surtout de 51 % le risque d'en mourir. [La survie à cinq ans après un diagnostic de cancer colorectal est par ailleurs passée de 53 % pour les personnes diagnostiquées en 1990 à 65 % pour celles diagnostiquées en 2015](https://www.santepubliquefrance.fr/en/cancer-du-colon-rectum/data), une progression continue portée à la fois par le dépistage plus précoce et par l'amélioration des traitements. Le test qui arrive par courrier tous les deux ans, décrit comme la démarche la plus sous-utilisée du 20.3, est donc aussi celle dont l'impact individuel, une fois faite, est parmi les plus élevés de tout ce chapitre.
+
+**Ce que ça change dans la façon de voir ces rendez-vous.** Un bilan de santé annuel ou un test envoyé par courrier peuvent sembler des formalités administratives sans conséquence tangible. Les chiffres ci-dessus montrent l'inverse : ce sont, très concrètement, parmi les gestes de santé publique les plus efficaces jamais mesurés, largement plus déterminants qu'un changement de régime alimentaire ponctuel ou qu'un complément alimentaire à la mode. La médecine préventive a un défaut : son bénéfice ne se voit jamais directement, puisqu'il consiste précisément en un événement qui n'arrive pas. C'est aussi ce qui la rend si difficile à prendre au sérieux tant qu'on va bien — et si évidente rétrospectivement pour ceux qui en ont bénéficié sans même le savoir.
+
+**Bons réflexes.**
+
+- Retenir un seul chiffre si un seul doit rester : dix points de tension en moins, c'est environ un cinquième de risque cardiovasculaire majeur en moins. Ça motive davantage qu'une recommandation générale de « surveiller sa tension ».
+- Ne pas attendre un symptôme pour s'y mettre. L'intérêt de ces deux gestes est justement qu'ils agissent avant que quoi que ce soit ne se fasse sentir.
+- Partager ces chiffres avec les hommes de son entourage qui repoussent leur bilan annuel « parce que tout va bien ». C'est précisément l'argument qui manque le plus souvent dans ces conversations.
+
+## Sources vérifiables
+
+- Insee, *Espérance de vie, mortalité et causes de décès* ; vérification du 7 août 2026.
+- GBD 2019 Risk Factors Collaborators (2020), « Global burden of 87 risk factors », *The Lancet* ; vérification du 7 août 2026.
+- Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026.
+- Haute Autorité de santé, *Dépistage du cancer de la prostate* ; vérification du 7 août 2026.
+- Addis, M. & Mahalik, J. (2003), « Men, masculinity, and the contexts of help seeking », *American Psychologist* ; vérification du 7 août 2026.
+- [Blood Pressure Lowering Treatment Trialists' Collaboration (2021), « Pharmacological blood pressure lowering for primary and secondary prevention of cardiovascular disease across different levels of blood pressure », *The Lancet*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00590-0/fulltext) ; vérification du 11 août 2026.
+- [Santé publique France, *Cancer colorectal : données de dépistage*](https://www.santepubliquefrance.fr/en/cancer-du-colon-rectum/data) ; vérification du 11 août 2026.
+
+Ce dernier point mérite d'être développé une phrase de plus : ce n'est pas une question de discipline personnelle ou de volonté, c'est une question d'accès à l'information. La plupart des hommes qui repoussent ces gestes ne le font pas par déni, mais parce que personne ne leur a jamais présenté le rapport entre l'effort minime que ça demande et le bénéfice réel que ça produit, faute de quoi cet effort reste, à leurs yeux, sans justification suffisante pour être priorisé face au reste d'un emploi du temps chargé.

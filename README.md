@@ -3,7 +3,7 @@ projet: "Comprendre pour tous"
 type: "collection"
 guides: 10
 chapitres: 143
-mots: 207167
+mots: 212006
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-08-11
 licence: "CC BY 4.0"
@@ -43,7 +43,7 @@ J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y
 | [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 12 | Trauma, quotidien et charge, projets de vie, épreuves, deuil, histoire du couple| [lire](<0 - Guides complets/Pour Nous.md>) |
 | [Les nouvelles compositions familiales](<1 - Guides/Les nouvelles compositions familiales/README.md>) | commun | 4 | Panorama actuel, grandir sans un parent, les étapes réelles d'une recomposition, trouver sa place (beau-parent, parent, enfant, ex-conjoint), bons principes | [lire](<0 - Guides complets/Les nouvelles compositions familiales.md>) |
 
-Environ 194 200 mots au total.
+Environ 212 000 mots au total.
 
 Un document à part condense le meilleur de chaque guide, 15 items maximum par guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>). C'est une synthèse tenue à la main, pas un artefact généré par `build-guides-complets.py`.
 

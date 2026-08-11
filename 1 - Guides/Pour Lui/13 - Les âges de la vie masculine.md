@@ -76,6 +76,12 @@ La retraite retire d'un coup ce qui, dans le système décrit au 4.5, tenait lie
 - Ne pas corriger systématiquement sa manière de faire. Un père corrigé dix fois devient un père qui n'essaie plus, et le couple se retrouve avec un déséquilibre qui durera quinze ans.
 - Nommer explicitement sa place. "Elle a besoin de toi autant que de moi, juste différemment" est une phrase qui vaut cher au troisième mois. La transition psychologique vers la paternité est décrite dans une revue de la littérature dédiée (source : Genesoni & Tallandini, « Men's Psychological Transition to Fatherhood: An Analysis of the Literature, 1989–2008 », *Birth*, 2009 ; vérification du 7 août 2026).
 
+### 13.6 Ce que cette traversée par âges donne à voir, une fois assemblée
+
+Pris un par un, chacun de ces âges peut sembler porter, à lui seul, sa propre difficulté isolée : la comparaison à vingt ans, la charge à trente, le bilan à quarante, la retraite à soixante. Pris ensemble, sur toute une vie, ils dessinent une trajectoire beaucoup plus lisible et, au fond, plus rassurante que la simple somme de ses parties prises isolément : chaque étape a ses fragilités propres, mais aussi ses ressources propres, et aucune n'est écrite comme définitive avant même d'avoir été traversée.
+
+Le fil qui relie ces âges entre eux n'est donc pas tant la difficulté elle-même que la même absence récurrente de vocabulaire et de cadre pour nommer ce qui se joue, précisément au moment où ça se joue — la comparaison sociale à vingt ans, le deuil silencieux du bilan à quarante, le vide identitaire de la retraite. Ce chapitre n'a pas cherché à résoudre ces moments à la place de qui les traverse, mais à leur donner un nom et un contexte, ce qui, à chaque étape décrite ici, s'est révélé être la première chose qui manquait — bien avant n'importe quel conseil pratique.
+
 ## Sources vérifiables
 
 - Fardouly, J. & Vartanian, L. (2016), « Social media and body image concerns », *Current Opinion in Psychology* ; vérification du 7 août 2026.

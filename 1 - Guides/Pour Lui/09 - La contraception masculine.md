@@ -83,6 +83,12 @@ Et la phrase qui déplace vraiment quelque chose : **« si on ne veut pas d'enfa
 - Vérifiez la taille du préservatif. C'est banal à dire et c'est le premier facteur d'échec et d'abandon.
 - Ne considérez aucune méthode masculine comme acquise sans contrôle : la vasectomie comme la thermique se vérifient par spermogramme.
 
+### 9.6 Ce que ce chapitre change concrètement, une fois lu
+
+La plupart des hommes qui arrivent au bout de ce chapitre découvrent qu'ils avaient une vision de leurs propres options plus pauvre que la réalité. Ce n'est pas un hasard : l'information contraceptive, dans la quasi-totalité des parcours de santé, est présentée aux femmes de façon systématique — à la première consultation gynécologique, au moment d'une prescription, dans les campagnes de prévention — alors qu'elle n'est presque jamais présentée aux hommes de façon équivalente, à aucun âge, dans aucun cadre de suivi médical routinier. Le déséquilibre décrit au 9.1 n'est donc pas seulement une affaire de charge une fois la contraception choisie, il commence bien plus tôt, dès l'accès à l'information elle-même.
+
+Ce que ce chapitre a essayé de faire, c'est de combler ce manque une bonne fois, en un seul endroit : ce qui existe réellement aujourd'hui, ce qui progresse et dans quel délai réaliste, ce qui ne protège de rien malgré les croyances persistantes, et la conversation concrète à avoir pour que la charge cesse de reposer par défaut sur une seule personne. Un homme qui a lu ce chapitre en entier dispose, à la fin, de plus d'informations sur sa propre contraception que la plupart des hommes de son entourage — ce qui, en soi, change déjà la nature de la conversation qu'il peut avoir avec sa ou son partenaire.
+
 ## Sources vérifiables
 
 - Grady, W., Klepinger, D., Billy, J. & Cubbins, L. (1996), « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health* ; vérification du 7 août 2026.

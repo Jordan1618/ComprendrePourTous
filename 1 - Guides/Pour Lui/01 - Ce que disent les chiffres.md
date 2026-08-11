@@ -62,13 +62,15 @@ Sur les accidents du travail, une amélioration progressive et réelle est égal
 
 ### 1.6 Ce que ces chiffres ne disent pas
 
-Ils ne disent pas que ton compagnon est en danger. La grande majorité des hommes vont bien, traversent leur vie sans crise majeure, et les progrès déjà documentés plus haut — recul de l'écart d'espérance de vie, hausse du recours aux soins psychiques, baisse des accidents du travail les plus graves — montrent que la situation d'ensemble s'améliore, lentement mais réellement, plutôt qu'elle ne se dégrade. Ils disent trois choses utiles :
+Ils ne disent pas, à eux seuls et pris isolément, que ton compagnon est en danger. La grande majorité des hommes vont bien, traversent leur vie sans crise majeure, et les progrès déjà documentés plus haut — recul de l'écart d'espérance de vie, hausse du recours aux soins psychiques, baisse des accidents du travail les plus graves — montrent que la situation d'ensemble s'améliore, lentement mais réellement, plutôt qu'elle ne se dégrade. Ils disent trois choses utiles :
 
-- Le signal d'alerte, chez un homme, ne ressemble pas au signal d'alerte que tu reconnaîtrais chez une amie.
-- Le délai entre le début du problème et la demande d'aide est long, souvent des années.
-- La personne qui repère en premier est presque toujours la partenaire. Pas le médecin, pas les amis, pas la famille. Toi.
+- Le signal d'alerte, chez un homme, ne ressemble presque jamais au signal d'alerte que tu reconnaîtrais spontanément chez une amie.
+- Le délai entre le début du problème et la demande d'aide est souvent long, parfois des années entières.
+- La personne qui repère en premier est presque toujours la partenaire. Pas le médecin, pas les amis, pas la famille. Toi, et ce rôle, une fois bien identifié et bien compris, devient une force réelle plutôt qu'un fardeau silencieux et solitaire.
 
 C'est pour cette raison que ce guide existe, et c'est aussi pour cette raison que le chapitre 19 sur les limites est aussi important que les autres.
+
+Un dernier point de méthode, utile pour lire tout le reste de ce guide sans en tirer de fausses conclusions : les chiffres de ce chapitre décrivent des tendances de population, jamais un pronostic individuel. Un homme peut cocher plusieurs facteurs de risque décrits ici et aller très bien ; un autre peut n'en cocher aucun et traverser une période difficile. Ces statistiques servent à comprendre pourquoi certains signaux méritent d'être pris au sérieux quand ils apparaissent, pas à établir un profil de risque figé sur une personne précise. C'est cette nuance, plus que n'importe quel chiffre pris isolément, qui devrait guider la lecture de tout ce qui suit dans ce guide — les mécanismes décrits ensuite expliquent des tendances observées à grande échelle, jamais le destin d'un homme en particulier, et c'est précisément cette prudence qui rend ces chiffres utiles pour comprendre et pour agir, plutôt qu'anxiogènes ou fatalistes.
 
 ## Sources vérifiables
 

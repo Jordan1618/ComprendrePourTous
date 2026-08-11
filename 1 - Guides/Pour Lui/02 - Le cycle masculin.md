@@ -86,6 +86,12 @@ La formulation qui remplace, avec le levier du chiffre : **« sur dix, ton éner
 - Méfiez-vous de tout contenu qui décrit un cycle masculin en jours. La précision affichée est un signal d'alerte, pas de sérieux.
 - Notez vos variations pendant un mois, avec le sommeil et l'alcool en regard. Le lien saute souvent aux yeux sans qu'aucun dosage soit nécessaire.
 
+### 2.6 Ce que ce chapitre change, une fois compris
+
+Ce chapitre a démonté un mythe assez répandu — celui d'un cycle masculin calqué sur le cycle féminin — sans pour autant nier ce qui est réel : des variations d'énergie, d'humeur et de libido existent bel et bien chez les hommes, elles ont une base physiologique solide, et elles méritent d'être prises au sérieux plutôt que rangées sous un vague « il est de mauvaise humeur en ce moment ».
+
+La différence essentielle avec le cycle féminin n'est donc pas que ces variations n'existeraient pas chez l'homme, c'est qu'elles ne suivent pas un calendrier fixe et prévisible : elles répondent à des causes identifiables, pour l'essentiel modifiables, ce qui change complètement la façon d'agir dessus. Une femme qui connaît sa phase de cycle peut anticiper une variation à venir. Un homme qui connaît ses leviers — sommeil, alcool, stress, activité physique — peut, lui, agir directement sur la cause plutôt que d'attendre que la phase passe. Ce n'est pas un cycle moins riche, c'est un système différent, avec ses propres règles, et ce chapitre a cherché à donner les vraies, plutôt que d'en emprunter à un autre corps que le corps masculin.
+
 ## Sources vérifiables
 
 - Diver et al. (2003), [Diurnal rhythms of serum testosterone and other hormones in men](https://onlinelibrary.wiley.com/doi/10.1046/j.1365-2265.2003.01772.x), *Clinical Endocrinology* ; vérification du 10 août 2026.

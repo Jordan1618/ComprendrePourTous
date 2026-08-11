@@ -95,6 +95,8 @@ La formulation qui désamorce, dite à froid et hors de la chambre : **« ça n'
 - Sachez que le désir réactif existe aussi chez les hommes. Ne pas avoir envie spontanément n'est pas une anomalie.
 - Une douleur sexuelle se consulte, toujours.
 
+Un dernier point mérite d'être répété une fois, à la fin, parce qu'il résume tout ce chapitre : la sexualité masculine est un système physiologique parmi d'autres, avec ses mécanismes propres, ses dérèglements identifiables et ses traitements documentés — pas un test de virilité qui se réussirait ou s'échouerait une fois pour toutes. Un homme qui consulte pour un trouble sexuel fait exactement la même démarche que celui qui consulte pour une douleur au genou ou une tension trop élevée. Rien dans cette démarche ne dit quoi que ce soit sur qui il est, et tout ce que la médecine sait aujourd'hui sur ces troubles va dans le même sens : ils se traitent, souvent bien, et l'attente avant de consulter est presque toujours, très largement, plus longue que nécessaire — souvent des années, alors que la consultation elle-même prend quelques minutes et débouche, dans la majorité des cas, sur une solution concrète et rapidement efficace.
+
 ## Sources vérifiables
 
 - Lue, T. (2000), « Erectile dysfunction », *New England Journal of Medicine* ; vérification du 7 août 2026.

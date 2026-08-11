@@ -75,3 +75,30 @@ Douze corrections, applicables des deux côtés. Ce sont les affirmations qui, q
 10. **L'intensité n'est pas l'amour.** Le chaos, la jalousie et les montagnes russes ne sont pas des preuves de sentiment. C'est vrai dans les deux sens.
 11. **Le sexe n'est pas un dû, et le refus n'est pas un rejet de la personne.** Deux vérités simultanées, souvent tenues séparément par chacun des deux membres du couple.
 12. **La plupart des hommes vont bien.** Ce guide décrit des mécanismes et des risques. Il ne décrit pas une pathologie généralisée, et lire chaque comportement à travers cette grille serait aussi faux que de ne rien voir du tout. Ces clarifications reprennent le cadre de l'inventaire de conformité aux normes masculines, qui distingue plusieurs dimensions indépendantes plutôt qu'un bloc uniforme (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
+
+### 18.5 Ce qui fonctionne pour de bon
+
+Tout ce chapitre a décrit un vide et ses pièges. Il faut dire aussi ce qui le comble réellement, parce que ce n'est ni une invention marketing ni un vœu pieux : c'est un résultat de recherche solide et convergent.
+
+**Le chiffre qui inverse le sens commun.** Une méta-analyse portant sur 78 échantillons et près de 19 500 participants montre que la conformité stricte aux normes masculines traditionnelles — autosuffisance absolue, pouvoir sur les femmes, séduction comme trophée — est associée, de façon modeste mais constante, à une moins bonne santé mentale et à un moindre recours à l'aide psychologique. [Ce n'est pas l'assouplissement du modèle qui abîme les hommes, c'est l'inverse : plus un homme s'y conforme strictement, plus le risque augmente](https://pubmed.ncbi.nlm.nih.gov/27869454/). Fait notable dans la même étude : la norme de primauté du travail, à elle seule, n'est pas liée à un moins bon état psychologique — ce n'est donc pas le fait de viser la réussite professionnelle qui pose problème, c'est l'ensemble des normes rigides qui l'entourent souvent.
+
+**Ce que construisent concrètement les hommes qui s'en sortent bien.** Les hommes qui associent des traits classés « masculins » (confiance, initiative, endurance) et des traits classés « féminins » (empathie, expression émotionnelle, entraide) rapportent une meilleure santé mentale, plus de flexibilité cognitive et une vie sociale plus riche que ceux qui s'en tiennent à un seul registre. Ce n'est pas un compromis bancal entre deux modèles incompatibles : c'est, empiriquement, la combinaison la plus solide des deux mondes plutôt que le sacrifice de l'un pour l'autre.
+
+**Un cadre récent, construit spécifiquement pour ce vide.** Un travail de synthèse théorique publié en 2022 propose un cadre de « masculinité positive » fondé sur deux piliers qui se répondent directement au constat du 18.1 : savoir, c'est-à-dire comprendre les normes de genre et leurs effets plutôt que les subir sans les voir, et être, c'est-à-dire une expression authentique de soi qui n'est dictée ni par le vieux modèle ni par sa négation systématique. [Ce cadre a été conçu précisément pour donner aux jeunes hommes ce que ce chapitre appelle depuis le début une carte à jour, plutôt qu'une liste de ce qu'il ne faut plus faire](https://academic.oup.com/heapro/article/37/1/daab031/6220389).
+
+**Ce que ça change concrètement.** Un homme qui définit sa valeur par des critères internes — l'intégrité, la fiabilité, le soin qu'il porte aux siens, la compétence qu'il construit — plutôt que par des critères de performance externes — la domination, le statut, le nombre de conquêtes — rapporte une satisfaction de vie plus élevée et plus stable dans le temps. C'est une bascule qui se travaille, pas un trait de caractère qu'on a ou qu'on n'a pas : elle se construit par des modèles concrets (un mentor, un père, un ami plus âgé qui incarne autre chose que les deux extrêmes), pas par un discours abstrait sur ce qu'il faudrait être.
+
+**Bons réflexes.**
+
+- Ne pas chercher un modèle unique et parfait à copier. Chercher plutôt, chez plusieurs hommes admirés, ce que chacun fait bien, et assembler.
+- Nommer explicitement, dans le couple, ce qui a été construit et qui fonctionne — pas seulement ce qui reste à corriger. Le 18.4 liste les pièges ; il faut aussi se dire, à voix haute, ce qui marche.
+- Se souvenir que ce travail-là est en cours dans toute une génération d'hommes à la fois, ce qui veut dire que personne ne le fait vraiment seul, même quand c'est l'impression qu'on en a.
+
+## Sources vérifiables
+
+- Levant, R. (1992), « Toward the reconstruction of masculinity », *Journal of Family Psychology* ; vérification du 7 août 2026.
+- Vandello, J. & Bosson, J. (2013), « Hard won and easily lost », *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
+- Gottman, J. & Levenson, R. (1992), « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
+- Mahalik, J. et coll. (2003), « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
+- [Wong, Y. J., Ho, M.-H. R., Wang, S.-Y. & Miller, I. S. K. (2017), « Meta-Analyses of the Relationship Between Conformity to Masculine Norms and Mental Health-Related Outcomes », *Journal of Counseling Psychology*](https://pubmed.ncbi.nlm.nih.gov/27869454/) ; vérification du 11 août 2026.
+- [Wilson, M., Gwyther, K., Swann, R., Casey, K., Featherston, R., Oliffe, J. L., Englar-Carlson, M. & Rice, S. M. (2022), « Operationalizing positive masculinity: a theoretical synthesis and school-based framework to engage boys and young men », *Health Promotion International*](https://academic.oup.com/heapro/article/37/1/daab031/6220389) ; vérification du 11 août 2026.

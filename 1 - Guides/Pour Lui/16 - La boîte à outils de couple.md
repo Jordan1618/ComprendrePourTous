@@ -108,6 +108,8 @@ Ce que ça donne, concrètement, à la place d'un « désolé » vague qui refer
 - Accompagner l'excuse d'un changement concret proposé, même modeste, plutôt que d'un simple regret sans suite pratique.
 - Éviter de terminer par une demande explicite de pardon — la recherche montre qu'elle affaiblit, plutôt qu'elle ne renforce, l'effet de l'excuse.
 
+Aucun de ces outils ne demande un talent particulier ni une transformation de personnalité. Ce sont des structures simples, répétables, qui produisent un effet mesurable dès la première utilisation sincère — c'est précisément ce qui en fait une boîte à outils, et pas une liste de qualités à espérer développer un jour. Ce qui les distingue vraiment, c'est qu'ils fonctionnent même mal exécutés au début : une excuse maladroite qui reconnaît la responsabilité vaut mieux qu'une excuse parfaite jamais formulée, et un démarrage en douceur un peu raide reste préférable à une critique bien tournée.
+
 ## Sources vérifiables
 
 - Christensen, A. & Heavey, C. (1990), « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.

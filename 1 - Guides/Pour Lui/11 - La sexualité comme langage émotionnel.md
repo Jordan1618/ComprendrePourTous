@@ -86,6 +86,8 @@ Un point contre-intuitif mais très courant : beaucoup d'hommes ont une poussée
 
 Ce n'est pas pour autant une obligation pour toi. Le savoir sert à ne pas mal l'interpréter, pas à te contraindre. L'effet d'un événement difficile sur la sexualité est cohérent avec la façon dont le corps garde la mémoire d'un vécu traumatique (source : van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
 
+Le point à retenir dépasse le seul cas du deuil : à peu près tous les mécanismes décrits dans ce chapitre partagent la même racine, celle d'un canal unique surchargé de significations qu'aucun autre espace ne peut accueillir. Élargir progressivement ce répertoire — la parole, le contact non sexuel, l'expression directe d'un besoin — ne retire rien à la sexualité elle-même. Ça lui retire seulement le poids de devoir tout porter à elle seule, ce qui, la plupart du temps, la rend plus légère et plus disponible, pas moins présente.
+
 ## Sources vérifiables
 
 - Levant, R. (1992), « Toward the reconstruction of masculinity », *Journal of Family Psychology* ; vérification du 7 août 2026.
