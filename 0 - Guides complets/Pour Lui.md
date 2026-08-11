@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 31
-mots: 56890
+mots: 56926
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
@@ -1305,11 +1305,11 @@ Six verrous, par fréquence.
 
 ### 12.6 Ce qui le fait rester, ce qui le fait partir
 
-Ici, les données sont bonnes et elles méritent d'être connues, parce qu'elles contredisent la plupart des intuitions.
+Ici, les données sont bonnes, réellement rassurantes, et elles méritent d'être connues aussi largement que possible, parce qu'elles contredisent la plupart des intuitions répandues sur ce qui ferait durer ou échouer une relation.
 
 L'étude la plus solide sur le sujet a analysé 43 jeux de données longitudinales portant sur plus de 11 000 couples. Les cinq facteurs qui prédisent le mieux la qualité d'une relation sont, dans l'ordre : la perception que le partenaire est engagé, l'appréciation ressentie envers le partenaire, la satisfaction sexuelle, la perception que le partenaire est satisfait, et le faible niveau de conflit. Ces variables relationnelles expliquent jusqu'à 45 % de la variance, tandis que les caractéristiques individuelles des partenaires n'en expliquent qu'environ 21 % (source : Joel, Eastwick et al., PNAS, 2020 ; vérification du 31 juillet 2026).
 
-Le résultat le plus important est celui-ci : les caractéristiques propres du partenaire n'expliquent qu'environ 5 % de la satisfaction de l'autre. Autrement dit, la qualité d'une relation dépend beaucoup moins de qui est la personne que de ce qui se passe entre les deux.
+Le résultat le plus important, et sans doute le plus libérateur de tout ce guide, est celui-ci : les caractéristiques propres du partenaire n'expliquent qu'environ 5 % de la satisfaction de l'autre. Autrement dit, la qualité d'une relation dépend beaucoup moins de qui est la personne que de ce qui se construit, jour après jour, entre les deux.
 
 **Ce que ça change concrètement.**
 
@@ -1325,7 +1325,7 @@ L'idée que la relation se joue au début, dans une phase de séduction où il f
 
 Les données du 12.6 disent l'inverse : ce qui compte n'est pas ce que tu montres, c'est ce qui s'installe. La séduction ne prédit à peu près rien. La façon dont vous vous parlez le mardi soir de la troisième année prédit à peu près tout.
 
-Et pour un homme en particulier, cette bascule est libératrice à entendre. Il ne s'agit pas de devenir quelqu'un d'autre pour être choisi. Il s'agit d'apprendre à faire fonctionner quelque chose à deux, ce qui est une compétence, ce qui s'apprend, et ce qui ne dépend qu'en partie de qui il est. Croire à une conquête ponctuelle plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple (source : Knee, « Implicit theories of relationships: assessment and prediction of romantic relationship initiation, coping, and longevity », *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
+Et pour un homme en particulier, cette bascule est profondément libératrice à entendre. Il ne s'agit pas de devenir quelqu'un d'autre pour être choisi. Il s'agit d'apprendre à faire fonctionner quelque chose à deux, ce qui est une vraie compétence concrète, ce qui s'apprend avec le temps, et ce qui ne dépend qu'en partie de qui il est vraiment. Croire à une conquête ponctuelle plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple (source : Knee, « Implicit theories of relationships: assessment and prediction of romantic relationship initiation, coping, and longevity », *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
 
 ---
 
