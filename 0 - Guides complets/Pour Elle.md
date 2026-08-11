@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 71344
+mots: 72098
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -1120,7 +1120,7 @@ L'allaitement n'est ni une obligation morale ni une évidence physiologique simp
 
 Une fête foraine installe des miroirs qui allongent ou écrasent. Personne ne s'en inquiète : on sait que le miroir déforme.
 
-Le problème contemporain est qu'on a remplacé les miroirs par des flux d'images qui déforment aussi, mais dont on a oublié qu'ils déforment. Chaque image y est sélectionnée, cadrée, retouchée, et surtout **choisie parmi des centaines**. On compare son quotidien brut à un montage.
+Le problème contemporain est qu'on a remplacé les miroirs par des flux d'images qui déforment aussi, mais dont on a oublié qu'ils déforment — et surtout, dont on a oublié qu'ils peuvent tout autant être réglés dans l'autre sens, vers quelque chose de plus fidèle et de plus utile. Chaque image y est sélectionnée, cadrée, retouchée, et surtout **choisie parmi des centaines**. On compare son quotidien brut à un montage.
 
 Ce chapitre porte sur ces déformations, et sur l'industrie qui s'est installée dans l'écart qu'elles créent. La comparaison sociale ascendante déclenchée par les contenus centrés sur l'apparence est documentée dans la littérature sur les réseaux sociaux (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
 
@@ -1133,6 +1133,19 @@ Ce qui est établi : l'usage **passif** — faire défiler sans interagir — es
 Ce qui est débattu : l'ampleur de cet effet et son sens causal. Les travaux les plus solides décrivent des associations modérées, et il est probable qu'une partie du lien aille dans l'autre sens — se sentir mal conduit à consulter davantage. Les affirmations catastrophistes comme les affirmations rassurantes dépassent l'une et l'autre les données.
 
 Ce qui est actionnable : la distinction entre usage **passif** et usage **actif** (échanger, créer, discuter). Le second n'a pas les mêmes effets. Et le simple fait de se désabonner des comptes centrés sur l'apparence produit un changement mesurable de ce qui défile. L'usage passif des réseaux sociaux est associé à une insatisfaction corporelle plus marquée, en particulier chez les adolescentes et jeunes femmes (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
+
+### 11.2 bis Ce qui marche vraiment, dans l'autre sens
+
+Ce chapitre a surtout décrit des pièges jusqu'ici — il faut aussi nommer ce qui, à l'inverse, produit un effet positif réel et mesuré, pour ne pas laisser penser que les écrans et les réseaux sociaux ne seraient qu'une source de dégâts.
+
+Sur l'usage actif, déjà évoqué plus haut, la nuance mérite d'être développée avec les données disponibles : [une méta-analyse portant sur 141 études a montré que l'utilisation active des réseaux sociaux pour se connecter aux autres est associée à un renforcement du bien-être, avec une association positive, modeste mais réelle, entre usage actif et bien-être social](https://academic.oup.com/jcmc/article/29/1/zmad055/7595758). [L'engagement actif dans des communautés en ligne est associé à la formation de liens sociaux, même faibles, qui réduisent la solitude](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10737572/) — un mécanisme qui vaut à tout âge, pas seulement pour les publics les plus étudiés sur ce terrain. [Les interactions au sein de communautés de soutien en ligne permettent de recevoir du soutien mais aussi d'en offrir et de partager sa propre expérience, ce qui contribue positivement au bien-être psychologique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7868376/) — un groupe de parole en ligne sur l'endométriose, la dépression du post-partum ou n'importe quelle épreuve traversée n'est donc pas un pis-aller par rapport à un lien « réel », c'est une forme de soutien social à part entière, avec un effet mesuré — [ces interactions en ligne peuvent améliorer l'anxiété, la tension, le stress et divers états d'humeur négatifs, et contribuer à soulager des symptômes dépressifs](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7868376/).
+
+Sur l'image du corps spécifiquement, un mouvement plus récent que le simple « désabonnement » mérite d'être connu. [Les femmes exposées à des contenus de neutralité corporelle sur les réseaux sociaux, comparées à celles exposées à des contenus centrés sur un idéal de minceur, rapportent un score d'image corporelle significativement plus élevé, moins de comparaisons ascendantes sur l'apparence et davantage de pensées positives envers leur propre apparence](https://pmc.ncbi.nlm.nih.gov/articles/PMC12589514/). La neutralité corporelle se distingue de la simple « positivité corporelle » par son centre de gravité : [elle met l'accent sur la fonctionnalité du corps — tout ce que le corps permet de faire, dans des domaines variés — plutôt que sur son apparence, qu'elle soit critiquée ou complimentée](https://pmc.ncbi.nlm.nih.gov/articles/PMC12589514/). C'est une nuance utile, parce que [l'exposition à des contenus de positivité corporelle classique peut, à l'inverse, être associée à une auto-objectification accrue](https://pmc.ncbi.nlm.nih.gov/articles/PMC12589514/) — se concentrer sur ce que le corps fait, plutôt que sur ce qu'il montre, semble être le levier le plus robuste des deux — un déplacement d'attention simple, mais qui change concrètement la nature même de la comparaison sociale décrite en ouverture de ce chapitre.
+
+**Bons réflexes.**
+- Utiliser activement les réseaux sociaux — échanger, participer à une communauté de soutien, partager — plutôt que seulement faire défiler passivement, en gardant à l'esprit que c'est cette distinction, plus que le temps passé, qui détermine l'effet réel sur le bien-être.
+- Chercher activement des comptes centrés sur ce que le corps permet de faire plutôt que sur son apparence, y compris positive — un contenu qui célèbre la fonctionnalité plutôt que l'esthétique produit un effet plus robuste.
+- Ne pas hésiter à rejoindre une communauté en ligne autour d'une épreuve traversée (santé, parentalité, deuil) — le soutien qui s'y échange a un effet réel sur le bien-être, documenté au même titre qu'un soutien en face à face.
 
 ### 11.3 L'industrie du bien-être
 
@@ -1177,6 +1190,17 @@ Une entrée qui fonctionne, sans jugement : **« est-ce que tu te sens mieux ou 
 - Demandez un dosage avant de prendre un complément, pas après. Un complément sans carence ne sert à rien.
 - Méfiez-vous des produits qui promettent beaucoup à la fois, et des formules sans contenu clinique comme « rééquilibrer ».
 - Ne transformez pas le repos en performance. Une pratique de bien-être qui ajoute de la culpabilité a manqué sa cible.
+
+## Sources vérifiables
+
+- Fardouly, J. & Vartanian, L., « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026.
+- DGCCRF, *Compléments alimentaires : les tromperies* ; vérification du 7 août 2026.
+- Norwegian Consumer Council, *Out of Control*, rapport, 2020 ; vérification du 7 août 2026.
+- Cederström, C. & Spicer, A., *The Wellness Syndrome*, Polity Press, 2015 ; vérification du 7 août 2026.
+- [Are active and passive social media use related to mental health, wellbeing, and social support outcomes? A meta-analysis of 141 studies](https://academic.oup.com/jcmc/article/29/1/zmad055/7595758), *Journal of Computer-Mediated Communication* ; vérification du 11 août 2026.
+- [Active Use of Online Community Reduces Loneliness Among Older Adults Through Weak Ties Formation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10737572/), *PMC* ; vérification du 11 août 2026.
+- [Does Usage of Online Social Media Help Users With Depressed Symptoms Improve Their Mental Health?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7868376/), *PMC* ; vérification du 11 août 2026.
+- [Relationship between body positivity and body neutrality with body image, self-esteem, mindfulness and gratitude](https://pmc.ncbi.nlm.nih.gov/articles/PMC12589514/), *PMC* ; vérification du 11 août 2026.
 
 ---
 
