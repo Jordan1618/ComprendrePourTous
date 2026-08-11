@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 31
-mots: 50693
+mots: 51115
 verifie_le: 2026-08-10
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -2124,6 +2124,18 @@ Une croyance répandue veut que ce soit la satisfaction de la femme qui détermi
 
 C'est une information rassurante dans les deux sens : ça retire à la femme le poids disproportionné d'être perçue comme la seule responsable de « la santé » du couple, et ça retire à l'homme l'idée fausse que ses propres besoins comptent moins que ceux de sa partenaire.
 
+### Le contact physique non sexuel, sous-estimé
+
+Un besoin réel et documenté reste souvent confondu avec le désir sexuel, alors qu'il en est distinct. [Les femmes qui reçoivent davantage de contact affectueux non sexuel rapportent une meilleure satisfaction corporelle et une meilleure qualité de relation](https://www.psypost.org/women-experiencing-more-affectionate-touch-are-more-satisfied-with-their-bodies-and-relationships/), un effet mesuré indépendamment de la fréquence des rapports sexuels eux-mêmes. [La satisfaction corporelle constitue une voie explicative significative par laquelle le contact affectueux améliore la qualité perçue de la relation](https://www.psypost.org/women-experiencing-more-affectionate-touch-are-more-satisfied-with-their-bodies-and-relationships/) — un mécanisme qui explique pourquoi une main posée sans arrière-pensée, une accolade prolongée ou un contact simple pendant une conversation ont un effet réel, mesurable, distinct de tout ce qui vient d'être dit sur l'écoute ou la réactivité.
+
+[Le contact physique non sexuel entre partenaires joue un rôle spécifique dans le bien-être relationnel et mental, y compris dans les couples de longue durée](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6845267/), ce qui signifie que ce besoin ne s'éteint pas avec le temps ni avec la routine — il reste actif à toutes les étapes d'une relation, de la même façon que les autres mécanismes décrits dans ce chapitre.
+
+### La transparence financière, rarement nommée mais très prédictive
+
+Un dernier facteur, peu discuté mais fortement documenté : [la transparence financière entre partenaires est associée à une satisfaction relationnelle plus élevée, et son absence peut avoir des effets dévastateurs sur le couple](https://www.psychologytoday.com/us/blog/your-emotions-and-money/202605/how-do-couples-really-deal-with-money-behind-the-scenes). [Les couples mariés disposant d'un compte d'épargne commun rapportent le taux de satisfaction conjugale le plus élevé (94 %), contre 82 % pour ceux qui ne disposent que de comptes personnels séparés](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/).
+
+Le coût de l'absence de transparence est documenté avec la même précision : [28 % des couples mariés admettent avoir caché un achat important ou une dette à leur conjoint, et 40 % mettraient fin à la relation en cas de malhonnêteté financière découverte](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/). Ce n'est donc pas un sujet secondaire relégué après l'amour ou la communication — c'est un facteur à part entière, aussi prédictif que les mécanismes émotionnels décrits plus haut, et trop souvent absent des conversations de couple avant qu'un problème ne survienne.
+
 ### Ce que ça change au quotidien, très concrètement
 
 Trois attentes reviennent le plus souvent, au-delà de la théorie :
@@ -2159,6 +2171,10 @@ Si un point de ce chapitre inquiète plus qu'il ne rassure — l'impression de n
 - [Emotional Needs in Marriage: Comparing Men and Women from a Psychological Perspective](https://neurolaunch.com/emotional-needs-spouse-men-vs-women-psychology/) ; vérification du 11 août 2026.
 - [Predictors of Relationship Satisfaction Across the Transition to Parenthood](https://journals.sagepub.com/doi/10.1177/0192513X221113850), *Journal of Family Issues* ; vérification du 11 août 2026.
 - [Relationship Supportiveness during the Transition to Parenting among Married and Unmarried Parents](https://pmc.ncbi.nlm.nih.gov/articles/PMC2838213/), *PMC* ; vérification du 11 août 2026.
+- [Women Experiencing More Affectionate Touch Are More Satisfied With Their Bodies and Relationships](https://www.psypost.org/women-experiencing-more-affectionate-touch-are-more-satisfied-with-their-bodies-and-relationships/), *PsyPost*, reprenant une étude du *Journal of Sex Research* ; vérification du 11 août 2026.
+- [Affectionate Touch and Relational, Mental, and Physical Well-Being in Older Couples](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6845267/), *PMC* ; vérification du 11 août 2026.
+- [How Do Couples Really Deal With Money Behind the Scenes?](https://www.psychologytoday.com/us/blog/your-emotions-and-money/202605/how-do-couples-really-deal-with-money-behind-the-scenes), *Psychology Today* ; vérification du 11 août 2026.
+- [Love and Money: How Financial Transparency Can Strengthen Relationships](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/), Experian ; vérification du 11 août 2026.
 
 ---
 
