@@ -58,19 +58,47 @@ Les réseaux sociaux ont ajouté une couche de complexité à la rivalité déj�
 - Accepter qu'une amitié qui change de forme (moins fréquente, plus ciblée) n'est pas une amitié qui se dégrade.
 - Distinguer consciemment ce qui est vu sur un écran de ce qui est vécu réellement, en particulier dans les périodes de vulnérabilité (post-partum, rupture, difficulté professionnelle).
 
+### L'autre période à risque : après soixante ans
+
+La contraction du réseau amical n'est pas propre à la maternité — elle revient, sous une autre forme, à un âge plus avancé, avec des enjeux différents mais tout aussi réels. [Les femmes âgées vivant seules sont considérées comme particulièrement exposées à la solitude, à la dépression et à une mobilité réduite](https://pubmed.ncbi.nlm.nih.gov/16635950/), et [la solitude en fin de vie est façonnée par des conditions propres au parcours de vie genré — exposition plus fréquente au veuvage, vie seule, désavantage social et économique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12761591/).
+
+Ce qui rend l'amitié particulièrement précieuse à ce stade n'est pas seulement le compagnonnage. [Les liens amicaux à un âge avancé contribuent au bien-être par le maintien de l'identité face à des circonstances changeantes et l'adaptation au vieillissement](https://academic.oup.com/innovateage/article/3/1/igz005/5423647), et [le soutien relationnel est associé au maintien des fonctions cognitives et de la santé physique](https://academic.oup.com/innovateage/article/3/1/igz005/5423647) — l'amitié n'est donc pas un simple agrément à cette période, elle est un facteur protecteur mesurable, au même titre qu'à l'entrée dans la maternité, mais pour des raisons différentes.
+
+**Bons réflexes.**
+- Ne pas attendre le veuvage ou l'isolement pour investir dans des amitiés solides — les liens entretenus avant une transition difficile en amortissent le choc.
+- Pour l'entourage d'une femme veuve ou vivant seule, maintenir un contact régulier et concret plutôt qu'une disponibilité vague « si besoin ».
+- Considérer les structures collectives (associations, centres pour aînés) non comme un pis-aller mais comme un espace documenté de création de liens réels à cet âge.
+
+### La qualité plutôt que le nombre
+
+Une dernière donnée mérite d'être connue, parce qu'elle contredit une pression sociale répandue à avoir un large cercle amical visible. [L'absence d'amie proche ou de confidente est aussi délétère pour la santé que le tabagisme ou un excès de poids](https://womensbrainhealth.org/think-tank/think-twice/ucla-study-on-friendship-among-women), et [avoir une amie proche et confidente augmente les chances de traverser un stress majeur, comme le décès d'un conjoint, sans nouvelle atteinte physique ni perte de vitalité durable](https://womensbrainhealth.org/think-tank/think-twice/ucla-study-on-friendship-among-women).
+
+[La proximité émotionnelle compte davantage que le nombre d'amies pour le bien-être psychologique — de nombreuses relations superficielles peuvent laisser un sentiment d'isolement aussi fort que l'absence totale de relations](https://richwoman.co/article/why-the-kindest-women-often-have-a-small-circle-of-friends-how-to-keep-yourself-safe-from-spr). [La plupart du soutien émotionnel et social reçu provient d'un petit groupe — en moyenne cinq personnes, qui concentrent près de 40 % du temps social et de l'investissement émotionnel disponibles](https://richwoman.co/article/why-the-kindest-women-often-have-a-small-circle-of-friends-how-to-keep-yourself-safe-from-spr).
+
+Ce qui se dégage de cette donnée : un cercle amical restreint mais profond n'est pas un manque à combler ni un signe d'isolement social. C'est, statistiquement, une stratégie relationnelle au moins aussi favorable au bien-être qu'un grand réseau — souvent plus, quand elle est comparée à de nombreux liens superficiels.
+
 ### Réparer après un conflit : ce qui marche vraiment
 
 Parce que la rivalité entre amies passe rarement par la confrontation directe, sa réparation ne passe pas non plus par une simple excuse formelle. Une amitié féminine abîmée par du commérage ou de l'exclusion se répare par un geste de réintégration explicite — inviter de nouveau, inclure de nouveau — plus que par une déclaration verbale seule, précisément parce que le dommage initial était lui-même indirect.
 
-Trois signes qu'une amitié vaut la peine d'être réparée plutôt que d'être laissée s'éteindre : le conflit portait sur un malentendu identifiable plutôt que sur une valeur fondamentale incompatible ; les deux personnes reconnaissent une part de responsabilité, même minime ; l'envie de la relation dépasse la fierté de ne pas faire le premier pas.
+Trois signes concrets, à vérifier honnêtement avant de décider, qu'une amitié vaut la peine d'être réparée plutôt que d'être laissée s'éteindre : le conflit portait sur un malentendu identifiable plutôt que sur une valeur fondamentale incompatible ; les deux personnes reconnaissent une part de responsabilité, même minime ; l'envie de la relation dépasse la fierté de ne pas faire le premier pas.
+
+Un dernier repère, utile à travers toutes les périodes évoquées ici : la qualité d'une amitié ne se mesure jamais à sa fréquence de contact mais à ce qui se passe quand elle reprend après un silence. Une amitié qui retrouve immédiatement sa proximité après plusieurs mois sans nouvelles n'est pas une amitié négligée, c'est une amitié solide qui n'a pas besoin d'entretien constant pour rester réelle — une distinction qui allège beaucoup de culpabilité inutile, en particulier dans les périodes (maternité, deuil, surcharge professionnelle) où le temps disponible pour les autres se réduit fortement.
+
+Ce chapitre, pris dans son ensemble, dit une chose simple : les amitiés féminines ne sont ni un luxe secondaire ni un supplément d'âme à la vie de couple ou de famille. Ce sont des relations qui protègent la santé mentale et physique, qui traversent différemment chaque étape de la vie, et qui méritent qu'on leur consacre autant d'attention et de soin qu'à n'importe quelle relation amoureuse — pas moins, simplement autrement. Les négliger sous prétexte qu'elles « attendront », dans une période chargée, revient à négliger un facteur de santé aussi réel que le sommeil ou l'alimentation, même s'il est socialement moins reconnu comme tel.
 
 **Bons réflexes.**
 - Faire le premier pas ne signifie pas avoir tort — c'est souvent la personne la moins blessée qui peut se permettre de le faire, indépendamment de qui a commencé.
 - Réintégrer concrètement (invitation, message direct) plutôt que de se contenter d'une excuse abstraite.
-- Accepter qu'une amitié réparée ne redevienne pas identique à ce qu'elle était avant — elle peut rester bonne sous une forme différente.
+- Accepter qu'une amitié réparée ne redevienne pas identique à ce qu'elle était avant — elle peut rester bonne sous une forme différente, parfois plus solide qu'avant la rupture, précisément parce qu'elle a déjà traversé une épreuve et y a survécu.
 
 ## Sources vérifiables
 
 - [Attractiveness and Rivalry in Women's Friendships with Women](https://link.springer.com/article/10.1007/s12110-010-9081-5), *Human Nature* ; vérification du 11 août 2026.
 - [From Sisterhood to Mean Girls: Evolutionary Insights Into Friendship and Fiendship](https://www.skeptic.com/article/from-sisterhood-to-mean-girls-evolutionary-insights-into-friendship-and-fiendship/), *Skeptic* ; vérification du 11 août 2026.
 - [The Great Divide: How Motherhood Fractures Friendships And Why We Should Work To Repair Them](https://www.essence.com/lifestyle/friendships-after-kids/), *Essence* ; vérification du 11 août 2026.
+- [Impact of senior center friendships on aging women who live alone](https://pubmed.ncbi.nlm.nih.gov/16635950/), *PubMed* ; vérification du 11 août 2026.
+- [Loneliness, Gender, and Relationships in Later Life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12761591/), *Innovation in Aging* ; vérification du 11 août 2026.
+- [Friendship in Later Life: A Research Agenda](https://academic.oup.com/innovateage/article/3/1/igz005/5423647), *Innovation in Aging* ; vérification du 11 août 2026.
+- [UCLA Study On Friendship Among Women](https://womensbrainhealth.org/think-tank/think-twice/ucla-study-on-friendship-among-women), Women's Brain Health Initiative ; vérification du 11 août 2026.
+- [Why The Kindest Women Often Have A Small Circle of Friends](https://richwoman.co/article/why-the-kindest-women-often-have-a-small-circle-of-friends-how-to-keep-yourself-safe-from-spr) ; vérification du 11 août 2026.
