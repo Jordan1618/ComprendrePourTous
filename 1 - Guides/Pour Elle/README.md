@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 73887
+mots: 74166
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -24,15 +24,15 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 |---|---|---|---|
 | 1 | [Le cycle menstruel : anatomie et physiologie de base](<01 - Le cycle menstruel.md>) | physiologie | 2 493 |
 | 2 | [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<02 - Pourquoi les humains menstruent.md>) | physiologie | 2 173 |
-| 3 | [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<03 - La sante emotionnelle feminine.md>) | psychologie | 1 972 |
+| 3 | [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<03 - La sante emotionnelle feminine.md>) | psychologie | 2 003 |
 | 4 | [La dépression féminine : le visage qu'elle prend](<04 - La depression feminine.md>) | psychologie | 2 127 |
-| 5 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<05 - Anxiete stress et corps.md>) | psychologie | 1 840 |
+| 5 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<05 - Anxiete stress et corps.md>) | psychologie | 1 960 |
 | 6 | [La pilule et la contraception hormonale : raisonnement étape par étape](<06 - Contraception hormonale.md>) | prévention | 2 139 |
 | 7 | [Panorama complet des troubles et pathologies du cycle](<07 - Troubles et pathologies du cycle.md>) | physiologie | 5 951 |
 | 8 | [La sexualité féminine : anatomie, réponse sexuelle, troubles](<08 - Sexualité féminine.md>) | relation | 4 819 |
 | 9 | [La grossesse : physiologie et complications](<09 - La grossesse.md>) | physiologie | 2 499 |
 | 10 | [L'accouchement et le post-partum](<10 - Accouchement et post-partum.md>) | physiologie | 2 132 |
-| 11 | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<11 - Les pieges de la modernite.md>) | prévention | 1 841 |
+| 11 | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<11 - Les pieges de la modernite.md>) | prévention | 1 952 |
 | 12 | [Les peurs : lesquelles sont fondées, et comment avancer](<12 - Les peurs rationnelles ou non.md>) | prévention | 1 831 |
 | 13 | [Les figures de la recherche en 2026 : qui fait avancer quoi](<13 - La recherche en 2026.md>) | repères | 1 847 |
 | 14 | [Conseils pratiques généraux, au-delà du cas par cas](<14 - Conseils pratiques généraux.md>) | pratique | 1 898 |
@@ -54,11 +54,11 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 30 | [Ce qui leur fait peur chez les hommes](<30 - Ce qui leur fait peur chez les hommes.md>) | relation | 2 022 |
 | 31 | [Ce qui compte vraiment chez les femmes, en amitié et en amour](<31 - Ce qui compte vraiment chez les femmes.md>) | relation | 2 009 |
 | 32 | [Ce qui compte vraiment chez les hommes](<32 - Ce qui compte vraiment chez les hommes.md>) | relation | 2 004 |
-| 33 | [Comment expriment-elles leur amour](<33 - Comment expriment-elles leur amour.md>) | relation | 2 000 |
+| 33 | [Comment expriment-elles leur amour](<33 - Comment expriment-elles leur amour.md>) | relation | 2 016 |
 | 34 | [Comment sont-elles vues et existent-elles dans la famille](<34 - Comment sont-elles vues et existent-elles dans la famille.md>) | relation | 2 021 |
 | 35 | [Mères célibataires aujourd'hui](<35 - Meres celibataires aujourd hui.md>) | relation | 2 120 |
 
-Total : 73 887 mots, 35 chapitres.
+Total : 74 166 mots, 35 chapitres.
 
 ## Le guide jumeau
 

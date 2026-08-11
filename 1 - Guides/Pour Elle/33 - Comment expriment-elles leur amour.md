@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # Comment expriment-elles leur amour
 
+Ce chapitre explore les nombreuses formes, verbales et silencieuses, par lesquelles cet amour se manifeste au quotidien.
+
 ### D'abord, une mise en garde utile : les « langages de l'amour » ne tiennent pas la route scientifique
 
 Ce chapitre applique à l'expression féminine de l'amour la même exigence de rigueur que celle déjà appliquée dans ce guide à chaque autre sujet largement popularisé mais insuffisamment étayé par la recherche.

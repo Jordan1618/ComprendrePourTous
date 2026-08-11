@@ -12,15 +12,15 @@ licence: "CC BY 4.0"
 
 ### 5.1 L'analogie du détecteur trop sensible
 
-Un détecteur de fumée réglé trop bas sonne pour un toast. Il n'est pas cassé : il fait son travail avec un seuil mal calibré. Le problème n'est pas qu'il détecte, c'est qu'il détecte trop tôt et trop souvent, jusqu'à ce que plus personne n'y prête attention — y compris le jour où il y a vraiment le feu. Un détecteur bien réglé, à l'inverse, reste un outil précieux : la question n'est jamais de s'en débarrasser, mais de le recalibrer.
+Un détecteur de fumée réglé trop bas sonne pour un toast. Il n'est pas cassé : il fait son travail avec un seuil mal calibré. Le problème n'est pas qu'il détecte, c'est qu'il détecte trop tôt et trop souvent, jusqu'à ce que plus personne n'y prête attention — y compris le jour où il y a vraiment le feu. Un détecteur bien réglé, à l'inverse, reste un outil précieux et fiable au quotidien : la question n'est jamais de s'en débarrasser, mais de le recalibrer avec soin, pas de le faire taire.
 
-L'anxiété fonctionne ainsi, et ce chapitre traite les deux versants du problème : le seuil trop bas, et l'habitude prise par l'entourage comme par le corps médical de ne plus écouter l'alarme.
+L'anxiété fonctionne exactement ainsi, et ce chapitre traite les deux versants du problème à la fois : le seuil réglé trop bas, et l'habitude prise, par l'entourage comme par le corps médical, de ne plus écouter l'alarme du tout, même quand elle a raison.
 
-Il est le pendant du chapitre 7 de [Pour Lui](<../Pour Lui/07 - Anxiété, stress et corps.md>). La prévalence des troubles anxieux, mesurée à grande échelle, est nettement plus élevée chez les femmes que chez les hommes (source : Kessler et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026).
+Il est le pendant direct du chapitre 7 de [Pour Lui](<../Pour Lui/07 - Anxiété, stress et corps.md>), avec les mêmes mécanismes de fond, mais des présentations et des biais de repérage qui diffèrent nettement selon le sexe. La prévalence des troubles anxieux, mesurée à grande échelle, est nettement plus élevée chez les femmes que chez les hommes (source : Kessler et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026).
 
 ### 5.2 Ce que dit la mesure
 
-Les troubles anxieux sont diagnostiqués nettement plus souvent chez les femmes, avec un rapport de l'ordre de deux pour un, ordre de grandeur stable selon les pays et les instruments. L'écart apparaît à l'adolescence.
+Les troubles anxieux sont diagnostiqués nettement plus souvent chez les femmes, avec un rapport de l'ordre de deux pour un, un ordre de grandeur qui reste stable selon les pays étudiés et les instruments de mesure utilisés. L'écart apparaît dès l'adolescence et se maintient ensuite tout au long de la vie adulte.
 
 Les explications avancées se cumulent plutôt qu'elles ne s'excluent : exposition plus forte à des facteurs de risque documentés, sensibilité hormonale aux transitions, différences de socialisation dans l'expression de la peur, et une composante de repérage — l'anxiété masculine s'exprimant plus souvent par l'irritabilité, l'alcool ou le repli, elle est moins souvent nommée comme telle.
 
@@ -28,7 +28,7 @@ Ce qui compte pour vous : la fréquence n'est pas la normalité. Un trouble anxi
 
 ### 5.3 Le corps parle, et il dit vrai
 
-L'anxiété a des manifestations physiques réelles : palpitations, oppression thoracique, souffle court, boule dans la gorge, troubles digestifs, tensions musculaires, vertiges, fourmillements. Ce ne sont pas des symptômes « imaginaires ».
+L'anxiété a des manifestations physiques réelles et mesurables : palpitations, oppression thoracique, souffle court, boule dans la gorge, troubles digestifs, tensions musculaires, vertiges, fourmillements. Ce ne sont jamais des symptômes « imaginaires », même quand leur cause est bien anxieuse plutôt qu'organique.
 
 D'où deux erreurs symétriques, et il faut les tenir ensemble.
 
@@ -50,11 +50,11 @@ Ce n'est pas une question de caractère mais de méthode. Quatre leviers concret
 
 **Faire tracer.** « Pouvez-vous noter dans le dossier que j'ai signalé ce symptôme et qu'il n'a pas été exploré ? » Cette phrase est légitime et change souvent la suite de la consultation.
 
-Un second avis est un droit, pas une défiance. Et une consultation où vous repartez sans avoir dit l'essentiel est une consultation à refaire. Demander explicitement qu'une cause organique soit écartée avant de conclure au stress est cohérent avec la littérature sur le biais diagnostique de genre (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
+Un second avis est un droit, pas une défiance, et le demander n'a jamais besoin d'être justifié longuement. Et une consultation où vous repartez sans avoir dit l'essentiel est une consultation à refaire, sans attendre le prochain épisode aigu pour le faire. Demander explicitement qu'une cause organique soit écartée avant de conclure au stress est cohérent avec la littérature sur le biais diagnostique de genre (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 5.5 Ce qui fonctionne sur l'anxiété elle-même
 
-Les prises en charge de première intention sont bien établies, et l'anxiété fait partie des troubles où elles marchent le mieux : les thérapies cognitivo-comportementales, avec exposition graduée pour les formes phobiques, sont recommandées avant les traitements médicamenteux.
+Les prises en charge de première intention sont bien établies, solidement étayées par des décennies de recherche, et l'anxiété fait partie des troubles où elles marchent le mieux : les thérapies cognitivo-comportementales, avec exposition graduée pour les formes phobiques, sont recommandées avant les traitements médicamenteux dans la quasi-totalité des référentiels internationaux.
 
 Deux points de vigilance. Les **benzodiazépines** soulagent vite, exposent à une dépendance rapide, et ne sont pas un traitement de fond : leur usage doit rester court et encadré. Et la **vérification** — refaire des recherches, reconsulter, réexaminer — apaise quelques minutes et renforce la boucle : poser une limite explicite est une intervention en soi.
 
@@ -75,9 +75,9 @@ Un dernier point mérite d'être connu, parce qu'il change la lecture des sensat
 
 💑 **Dans le couple**
 
-Réassurer immédiatement est le réflexe le plus naturel et l'un des moins efficaces : la réassurance est précisément ce que la boucle anxieuse réclame, et elle la nourrit.
+Réassurer immédiatement est le réflexe le plus naturel, presque instinctif, et pourtant l'un des moins efficaces : la réassurance est précisément ce que la boucle anxieuse réclame en continu, et elle la nourrit au lieu de l'apaiser durablement.
 
-Ce qui aide davantage tient dans une question à deux options : **« tu veux que je te rassure, ou que je t'aide à décider quoi faire ? »** L'autre choisit, ce qui évite de répondre à une demande qui n'a pas été formulée.
+Ce qui aide bien davantage tient dans une question simple, à deux options claires : **« tu veux que je te rassure, ou que je t'aide à décider quoi faire ? »** L'autre choisit lui-même, ce qui évite de répondre à une demande qui, en réalité, n'a jamais été formulée.
 
 **Bons réflexes**
 

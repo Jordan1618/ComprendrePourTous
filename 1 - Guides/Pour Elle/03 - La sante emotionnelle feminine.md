@@ -12,9 +12,9 @@ licence: "CC BY 4.0"
 
 ### 3.1 L'analogie du fusible
 
-Quand une installation disjoncte, on peut accuser le fusible. Il a effectivement sauté. Mais le fusible n'est pas la cause : il a sauté parce que la ligne était surchargée, et le remplacer sans toucher à la charge garantit qu'il sautera encore.
+Quand une installation électrique disjoncte, on peut accuser le fusible. Il a effectivement sauté, visiblement, de façon indiscutable. Mais le fusible n'est pas la cause : il a sauté parce que la ligne était surchargée, et le remplacer sans toucher à la charge en amont garantit, presque à coup sûr, qu'il sautera de nouveau.
 
-« C'est hormonal » fonctionne exactement comme cette accusation du fusible. C'est parfois vrai, souvent partiel, et régulièrement utilisé pour ne pas regarder la charge. Ce chapitre trie : ce que les hormones expliquent réellement, ce qu'elles n'expliquent pas, et ce qui se joue ailleurs. Le trouble dysphorique prémenstruel, à distinguer du syndrome prémenstruel ordinaire, est défini par des critères cliniques précis (source : American College of Obstetricians and Gynecologists, *Premenstrual Syndrome*, Practice Bulletin ; vérification du 7 août 2026).
+« C'est hormonal » fonctionne exactement comme cette accusation du fusible. C'est parfois vrai, souvent partiel, et régulièrement utilisé pour ne pas regarder la charge réelle qui pèse en amont, celle qui a fait sauter le fusible en premier lieu. Ce chapitre trie : ce que les hormones expliquent réellement, ce qu'elles n'expliquent pas, et ce qui se joue ailleurs. Le trouble dysphorique prémenstruel, à distinguer nettement du syndrome prémenstruel ordinaire, est défini par des critères cliniques précis et bien établis (source : American College of Obstetricians and Gynecologists, *Premenstrual Syndrome*, Practice Bulletin ; vérification du 7 août 2026).
 
 ### 3.2 Ce que les hormones expliquent réellement
 

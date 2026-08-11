@@ -12,11 +12,11 @@ licence: "CC BY 4.0"
 
 ### 11.1 L'analogie du miroir déformant
 
-Une fête foraine installe des miroirs qui allongent ou écrasent. Personne ne s'en inquiète : on sait que le miroir déforme.
+Une fête foraine installe des miroirs qui allongent ou écrasent la silhouette. Personne ne s'en inquiète vraiment : on sait, dès le premier regard, que le miroir déforme et qu'il n'a jamais prétendu montrer autre chose qu'un jeu.
 
 Le problème contemporain est qu'on a remplacé les miroirs par des flux d'images qui déforment aussi, mais dont on a oublié qu'ils déforment — et surtout, dont on a oublié qu'ils peuvent tout autant être réglés dans l'autre sens, vers quelque chose de plus fidèle et de plus utile. Chaque image y est sélectionnée, cadrée, retouchée, et surtout **choisie parmi des centaines**. On compare son quotidien brut à un montage.
 
-Ce chapitre porte sur ces déformations, et sur l'industrie qui s'est installée dans l'écart qu'elles créent. La comparaison sociale ascendante déclenchée par les contenus centrés sur l'apparence est documentée dans la littérature sur les réseaux sociaux (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
+Ce chapitre porte sur ces déformations modernes, sur l'industrie entière qui s'est installée et prospère dans l'écart qu'elles créent, et sur les leviers réels, positifs autant que défensifs, qui permettent de s'en protéger sans pour autant tout rejeter en bloc. La comparaison sociale ascendante déclenchée par les contenus centrés sur l'apparence est documentée dans la littérature sur les réseaux sociaux (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
 
 ### 11.2 Les réseaux sociaux et l'image du corps
 
@@ -43,7 +43,7 @@ Sur l'image du corps spécifiquement, un mouvement plus récent que le simple «
 
 ### 11.3 L'industrie du bien-être
 
-Un marché considérable s'est développé sur une promesse simple : votre corps a un problème, voici le produit.
+Un marché considérable, et en croissance continue, s'est développé sur une promesse d'une simplicité redoutable : votre corps a forcément un problème quelque part, et voici, comme par hasard, le produit exact qui le résout.
 
 Trois motifs récurrents, et ce qu'ils valent.
 
@@ -65,17 +65,17 @@ Utiles, et à manier avec deux précautions.
 
 ### 11.5 L'injonction au bien-être elle-même
 
-Le piège le plus discret. Le discours du *self-care* est parti d'une intention juste — s'occuper de soi est légitime — et s'est transformé en une exigence supplémentaire : il faut désormais aussi bien dormir, méditer, s'alimenter correctement, faire du sport, gérer ses émotions et être épanouie.
+Le piège le plus discret de tous, précisément parce qu'il se présente comme une solution plutôt que comme un problème. Le discours du *self-care* est parti d'une intention juste et légitime — s'occuper de soi est un besoin réel — et s'est peu à peu transformé en une exigence supplémentaire : il faut désormais aussi bien dormir, méditer, s'alimenter correctement, faire du sport, gérer ses émotions et être épanouie.
 
 Résultat : une charge de plus, et une culpabilité de plus quand elle n'est pas tenue. Pour quelqu'un qui porte déjà une [charge mentale](<../../2 - Notions/Charge mentale.md>) importante, ajouter la gestion optimisée de son propre bien-être revient à ajouter un poste à un emploi du temps saturé.
 
-Le renversement utile : **le repos n'a pas à être productif.** Ne rien faire n'est pas un échec de gestion de soi. Le glissement du bien-être personnel vers une injonction de performance supplémentaire est analysé dans un essai consacré au sujet (source : Cederström & Spicer, *The Wellness Syndrome*, Polity Press, 2015 ; vérification du 7 août 2026).
+Le renversement utile, et sans doute le plus libérateur de tout ce chapitre : **le repos n'a pas à être productif.** Ne rien faire, vraiment rien, sans objectif ni bénéfice mesurable à en tirer, n'est jamais un échec de gestion de soi. Le glissement du bien-être personnel vers une injonction de performance supplémentaire est analysé dans un essai consacré au sujet (source : Cederström & Spicer, *The Wellness Syndrome*, Polity Press, 2015 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
 Ces mécanismes touchent les deux, sous des formes différentes, et ils se discutent mal parce qu'ils touchent à l'image de soi.
 
-Une entrée qui fonctionne, sans jugement : **« est-ce que tu te sens mieux ou moins bien après avoir passé du temps sur ton téléphone ? »** Elle porte sur un effet observable plutôt que sur un comportement à corriger, ce qui la rend recevable.
+Une entrée qui fonctionne bien, sans jugement ni accusation implicite : **« est-ce que tu te sens mieux ou moins bien après avoir passé du temps sur ton téléphone ? »** Elle porte sur un effet observable et concret plutôt que sur un comportement à corriger de l'extérieur, ce qui la rend beaucoup plus facilement recevable.
 
 **Bons réflexes**
 
