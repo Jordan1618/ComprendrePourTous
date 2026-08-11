@@ -3,7 +3,7 @@ projet: "Comprendre pour tous"
 type: "collection"
 guides: 10
 chapitres: 143
-mots: 203251
+mots: 203859
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-08-11
 licence: "CC BY 4.0"
@@ -24,7 +24,7 @@ On entend parler de beaucoup de choses sans jamais savoir ce qu'elles sont vraim
 
 Ce projet vise un kit de base : de quoi se comprendre soi-même — dans son corps, ses émotions, ses schémas — et comprendre l'autre, pour construire une relation saine plutôt que la subir. Se connaître n'est pas la finalité ; c'est ce qui rend possible de construire sans se cogner aux mêmes murs, seul ou à deux. Aucun niveau de départ supposé : ça marche aussi bien pour combler un vide total que pour corriger un angle mort précis.
 
-J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y reconnaître et évoluer par ce biais — celui sur le cycle féminin s'adresse autant aux femmes qui veulent comprendre leur propre corps qu'aux hommes qui veulent comprendre celui de leur partenaire, et l'inverse pour la santé émotionnelle masculine.
+J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y reconnaître et évoluer par ce biais — celui sur le cycle féminin s'adresse autant aux femmes qui veulent comprendre leur propre corps qu'aux hommes qui veulent comprendre celui de leur partenaire, et l'inverse pour la vie masculine.
 
 **Rien ici n'est un avis médical individualisé.** C'est dit une fois, et pas répété à chaque page. Pour toute situation concrète, un professionnel de santé reste irremplaçable.
 
