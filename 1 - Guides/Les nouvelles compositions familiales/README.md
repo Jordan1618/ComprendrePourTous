@@ -1,6 +1,6 @@
 ---
 type: "guide"
-guide: "Familles recomposées"
+guide: "Les nouvelles compositions familiales"
 sujet: "commun"
 chapitres: 4
 mots: 2224
@@ -8,7 +8,7 @@ verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
 
-# Familles recomposées
+# Les nouvelles compositions familiales
 
 **Une famille sur dix, un rôle à trouver, un temps à respecter**
 

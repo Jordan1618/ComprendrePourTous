@@ -1,5 +1,5 @@
 ---
-guide: "Familles recomposées"
+guide: "Les nouvelles compositions familiales"
 chapitre: "4"
 titre: "Sources vérifiables"
 sujet: "commun"

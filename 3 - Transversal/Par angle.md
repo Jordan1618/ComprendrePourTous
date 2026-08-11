@@ -106,7 +106,7 @@ Ce que ça change concrètement quand on est deux.
 - [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `commun` · Questions et communication
 - [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `commun` · Questions et communication
 - [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `commun` · Questions et communication
-- [Trouver sa place dedans](<../1 - Guides/Familles recomposees/02 - Trouver sa place dedans.md>)  `commun` · Familles recomposées
+- [Trouver sa place dedans](<../1 - Guides/Les nouvelles compositions familiales/02 - Trouver sa place dedans.md>)  `commun` · Les nouvelles compositions familiales
 
 ## Pratique
 
@@ -132,7 +132,7 @@ Quoi faire, concrètement, avec des formulations et des gestes précis.
 - [Femme enceinte : ce qui change vraiment](<../1 - Guides/Massage professionnel/08 - Femme enceinte.md>)  `commun` · Massage professionnel
 - [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>)  `commun` · Questions et communication
 - [Le cadre](<../1 - Guides/Questions et communication/06 - Le cadre.md>)  `commun` · Questions et communication
-- [Les bons principes à avoir](<../1 - Guides/Familles recomposees/03 - Les bons principes a avoir.md>)  `commun` · Familles recomposées
+- [Les bons principes à avoir](<../1 - Guides/Les nouvelles compositions familiales/03 - Les bons principes a avoir.md>)  `commun` · Les nouvelles compositions familiales
 
 ## Repères
 
@@ -162,7 +162,7 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Les six familles de questions](<../1 - Guides/Questions et communication/03 - Les six familles de questions.md>)  `commun` · Questions et communication
 - [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `commun` · Questions et communication
 - [Sources vérifiables](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>)  `commun` · Questions et communication
-- [Les familles recomposées aujourd'hui](<../1 - Guides/Familles recomposees/01 - Les familles recomposees aujourd hui.md>)  `commun` · Familles recomposées
-- [Sources vérifiables](<../1 - Guides/Familles recomposees/04 - Sources verifiables.md>)  `commun` · Familles recomposées
+- [Les familles recomposées aujourd'hui](<../1 - Guides/Les nouvelles compositions familiales/01 - Les familles recomposees aujourd hui.md>)  `commun` · Les nouvelles compositions familiales
+- [Sources vérifiables](<../1 - Guides/Les nouvelles compositions familiales/04 - Sources verifiables.md>)  `commun` · Les nouvelles compositions familiales
 
 Retour à [l'accueil de Comprendre pour tous](<../README.md>).

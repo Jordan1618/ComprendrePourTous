@@ -1,5 +1,5 @@
 ---
-guide: "Familles recomposées"
+guide: "Les nouvelles compositions familiales"
 chapitre: "1"
 titre: "Les familles recomposées aujourd'hui"
 sujet: "commun"

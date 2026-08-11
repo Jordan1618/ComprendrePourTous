@@ -13,7 +13,7 @@ depot: "https://github.com/Jordan1618/ComprendrePourTous"
 
 # Comprendre pour tous
 
-**Le corps, les émotions, l'esprit : Construire et vivre ses relations. Expliquer pour de vrai.**
+**Le corps, les émotions, l'esprit : Construire et vivre ses relations pour de vrai.**
 
 Dépôt : https://github.com/Jordan1618/ComprendrePourTous
 Site : https://www.comprendrepourtous.fr
@@ -41,7 +41,7 @@ J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y
 | [La rencontre](<1 - Guides/La rencontre/README.md>) | commun | 10 | Attirance, attachement, biais, applications, signaux d'alerte, sécurité | [lire](<0 - Guides complets/La rencontre.md>) |
 | [L'amour](<1 - Guides/L amour/README.md>) | commun | 9 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir, engagement | [lire](<0 - Guides complets/L'amour.md>) |
 | [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 12 | Trauma, quotidien et charge, projets de vie, épreuves, deuil, histoire du couple| [lire](<0 - Guides complets/Pour Nous.md>) |
-| [Familles recomposées](<1 - Guides/Familles recomposees/README.md>) | commun | 3 | Panorama actuel, trouver sa place (beau-parent, parent, enfant, ex-conjoint), bons principes | [lire](<0 - Guides complets/Familles recomposées.md>) |
+| [Les nouvelles compositions familiales](<1 - Guides/Les nouvelles compositions familiales/README.md>) | commun | 4 | Panorama actuel, trouver sa place (beau-parent, parent, enfant, ex-conjoint), bons principes | [lire](<0 - Guides complets/Les nouvelles compositions familiales.md>) |
 
 Environ 147 600 mots au total.
 

@@ -163,12 +163,12 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `relation`
 - [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `repères`
 - [Sources vérifiables](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>)  `repères`
-**Familles recomposées**
+**Les nouvelles compositions familiales**
 
-- [Les familles recomposées aujourd'hui](<../1 - Guides/Familles recomposees/01 - Les familles recomposees aujourd hui.md>)  `repères`
-- [Trouver sa place dedans](<../1 - Guides/Familles recomposees/02 - Trouver sa place dedans.md>)  `relation`
-- [Les bons principes à avoir](<../1 - Guides/Familles recomposees/03 - Les bons principes a avoir.md>)  `pratique`
-- [Sources vérifiables](<../1 - Guides/Familles recomposees/04 - Sources verifiables.md>)  `repères`
+- [Les familles recomposées aujourd'hui](<../1 - Guides/Les nouvelles compositions familiales/01 - Les familles recomposees aujourd hui.md>)  `repères`
+- [Trouver sa place dedans](<../1 - Guides/Les nouvelles compositions familiales/02 - Trouver sa place dedans.md>)  `relation`
+- [Les bons principes à avoir](<../1 - Guides/Les nouvelles compositions familiales/03 - Les bons principes a avoir.md>)  `pratique`
+- [Sources vérifiables](<../1 - Guides/Les nouvelles compositions familiales/04 - Sources verifiables.md>)  `repères`
 
 ## Comment cet index est tenu
 

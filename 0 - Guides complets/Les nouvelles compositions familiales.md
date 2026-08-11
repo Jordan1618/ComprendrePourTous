@@ -1,18 +1,18 @@
 ---
 type: "guide-complet"
-guide: "Familles recomposées"
+guide: "Les nouvelles compositions familiales"
 sujet: "commun"
 chapitres: 4
 mots: 2228
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
-genere: "automatiquement depuis 1 - Guides/Familles recomposees"
+genere: "automatiquement depuis 1 - Guides/Les nouvelles compositions familiales"
 genere_le: 2026-08-11
 ---
 
-# Familles recomposées
+# Les nouvelles compositions familiales
 
-**Version intégrale.** Ce fichier est généré automatiquement à partir des chapitres de `1 - Guides/Familles recomposees`. Ne pas l'éditer directement : toute correction doit être faite dans le chapitre concerné, puis `build-guides-complets.py` relancé.
+**Version intégrale.** Ce fichier est généré automatiquement à partir des chapitres de `1 - Guides/Les nouvelles compositions familiales`. Ne pas l'éditer directement : toute correction doit être faite dans le chapitre concerné, puis `build-guides-complets.py` relancé.
 
 ---
 

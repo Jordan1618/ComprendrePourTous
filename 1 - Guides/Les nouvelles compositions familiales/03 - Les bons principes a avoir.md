@@ -1,5 +1,5 @@
 ---
-guide: "Familles recomposées"
+guide: "Les nouvelles compositions familiales"
 chapitre: "3"
 titre: "Les bons principes à avoir"
 sujet: "commun"

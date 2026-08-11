@@ -1,5 +1,5 @@
 ---
-guide: "Familles recomposées"
+guide: "Les nouvelles compositions familiales"
 chapitre: "2"
 titre: "Trouver sa place dedans"
 sujet: "commun"

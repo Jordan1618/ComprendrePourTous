@@ -1,13 +1,13 @@
 ---
 type: "sources"
-guide: "Familles recomposées"
+guide: "Les nouvelles compositions familiales"
 mis_a_jour_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
 
-# Sources — Familles recomposées
+# Sources — Les nouvelles compositions familiales
 
-Sources du guide [Familles recomposées](<../1 - Guides/Familles recomposees/README.md>), citées directement dans chaque chapitre.
+Sources du guide [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>), citées directement dans chaque chapitre.
 
 ## Chiffres et cadre
 

@@ -26,7 +26,7 @@ DOSSIERS = [
     "La rencontre",
     "L amour",
     "Pour Nous",
-    "Familles recomposees",
+    "Les nouvelles compositions familiales",
 ]
 
 def lire_frontmatter(texte):
