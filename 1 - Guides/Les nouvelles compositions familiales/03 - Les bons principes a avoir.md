@@ -40,6 +40,10 @@ Aucune situation ne justifie de placer un enfant dans une position où aimer un 
 
 La médiation familiale et l'accompagnement thérapeutique existent précisément pour ce type de configuration, où les repères habituels du couple et de la parentalité ne suffisent pas toujours. Y recourir tôt, avant l'installation d'un conflit chronique, est plus efficace et moins coûteux — humainement — que d'attendre une crise.
 
+### 3.8 Nommer et célébrer ce qui fonctionne, pas seulement ce qui coince
+
+Un principe trop souvent oublié dans une liste de bons réflexes centrée sur la prévention des problèmes : prendre le temps de reconnaître, à voix haute, ce qui se construit bien. Un moment de complicité entre un beau-parent et un bel-enfant, un conflit résolu sans escalade, une fête réussie malgré la complexité du calendrier partagé — ces réussites ordinaires méritent d'être nommées en famille, pas seulement remarquées en silence. Rappeler que la majorité des familles recomposées finissent par bien fonctionner, avec des enfants qui s'épanouissent au moins aussi bien que dans une famille de structure différente dès lors que la qualité du lien est au rendez-vous, n'est pas de l'optimisme naïf — c'est un fait statistique qui mérite d'être répété aussi souvent que les mises en garde.
+
 **Bons réflexes, en résumé actionnable :**
 - Construire la relation avant d'exercer l'autorité.
 - Se donner explicitement plusieurs années, pas plusieurs mois.
@@ -47,6 +51,7 @@ La médiation familiale et l'accompagnement thérapeutique existent précisémen
 - Ne jamais demander, même implicitement, un choix de loyauté à l'enfant.
 - Garder le nouveau partenaire hors des échanges directs avec l'ex-conjoint.
 - Solliciter une médiation ou un accompagnement dès les premiers signes de blocage durable, pas en dernier recours.
+- Nommer explicitement, en famille, les réussites et les moments de complicité — ils comptent tout autant que les difficultés traversées, et méritent la même attention.
 
 ## Sources vérifiables
 

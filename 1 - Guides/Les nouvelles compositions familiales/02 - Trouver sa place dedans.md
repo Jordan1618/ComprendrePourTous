@@ -56,8 +56,22 @@ Dans sa tête à lui ou elle : « si je l'aime bien, est-ce que ça veut dire qu
 - Poser des règles claires de communication avec l'ex-conjoint dès le départ (calendrier, dépenses, décisions importantes) réduit fortement le risque d'escalade.
 - En cas de conflit installé, la médiation familiale est une option réelle, pas un aveu d'échec.
 
+### 2.5 Ce qui marche vraiment, et à quel point ça marche souvent
+
+Après quatre positions et leurs pièges respectifs, un chiffre mérite de conclure ce chapitre parce qu'il est à la fois le plus rassurant et le moins connu : [environ 80 % des enfants en famille recomposée fonctionnent bien à travers l'ensemble des mesures développementales étudiées, et la qualité de la relation prédit le devenir de l'enfant de façon plus fiable que la structure familiale elle-même — la connexion, la constance et la chaleur comptent davantage que le lien biologique](https://www.psychologytoday.com/us/blog/stepping-together/202603/6-common-patterns-of-stepparent-stepchild-relationships). Ce chiffre mérite d'être gardé en tête à chaque étape difficile décrite plus haut : la majorité des familles y arrivent, et ce guide sert justement à faire partie de cette majorité plutôt que de l'exception.
+
+Sur ce qui construit concrètement un lien solide entre beau-parent et bel-enfant, la recherche converge vers une méthode simple, presque à contre-courant de l'intuition initiale de vouloir « bien faire » en s'impliquant fort dès le départ. [Les enfants construisent une relation positive ou négative avec un beau-parent en fonction de leur évaluation des comportements de ce beau-parent envers eux et envers leur famille ; la meilleure image à garder en tête est celle de construire une amitié, pas un lien parental — et ces relations peuvent grandir en acceptation et en proximité quel que soit leur point de départ](https://www.sciencedaily.com/releases/2011/03/110329141554.htm). [Les actions prosociales répétées — offrir un cadeau, un geste de gentillesse, un message positif adressé à l'enfant — se révèlent transformatrices pour la relation sur la durée, d'après le témoignage d'adultes ayant grandi en famille recomposée](https://ifstudies.org/blog/positive-turning-points-in-stepparent-stepchild-relationships). Concrètement, les enfants apprécient particulièrement qu'un beau-parent commence par chercher à s'amuser avec eux et à construire une amitié, plutôt que d'endosser d'emblée une posture parentale — l'inverse exact du piège décrit en ouverture de ce chapitre, et la confirmation, par un autre angle, du même principe : la connexion avant la correction.
+
+**Bons réflexes.**
+- Multiplier les petits gestes positifs et répétés (un intérêt sincère, une attention, un geste de gentillesse) plutôt qu'un unique grand geste ponctuel pour « marquer le coup » de l'arrivée dans la famille.
+- Chercher d'abord une complicité de type amical, fondée sur un intérêt commun, avant toute idée de rôle parental.
+- Garder ce chiffre de 80 % en tête dans les moments de doute : la majorité des familles recomposées finissent par bien fonctionner, et la qualité du lien construit jour après jour, pas la structure familiale de départ, est ce qui fait la différence.
+
 ## Sources vérifiables
 
 - [Disciplining dilemma: The role of the stepparent](https://www.canr.msu.edu/news/disciplining_dilemma_the_role_of_the_stepparent), Michigan State University Extension ; vérification du 11 août 2026.
 - Gottman Institute, [Navigating Different Parenting Styles in Blended Families](https://www.gottman.com/blog/navigating-different-parenting-styles-in-blended-families/) ; vérification du 11 août 2026.
 - [Famille recomposée : comment gérer les conflits et l'ex trop présent(e) ?](https://www.mamaste.fr/famille-recomposee-conflits-ex/) ; vérification du 11 août 2026.
+- [6 Common Patterns of Stepparent-Stepchild Relationships](https://www.psychologytoday.com/us/blog/stepping-together/202603/6-common-patterns-of-stepparent-stepchild-relationships), *Psychology Today* ; vérification du 11 août 2026.
+- [Stepchildren relate to stepparents based on perceived benefits, researchers find](https://www.sciencedaily.com/releases/2011/03/110329141554.htm), *ScienceDaily* ; vérification du 11 août 2026.
+- [Positive Turning Points in Stepparent-Stepchild Relationships](https://ifstudies.org/blog/positive-turning-points-in-stepparent-stepchild-relationships), Institute for Family Studies ; vérification du 11 août 2026.

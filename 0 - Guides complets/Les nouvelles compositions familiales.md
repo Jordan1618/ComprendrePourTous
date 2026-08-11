@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Les nouvelles compositions familiales"
 sujet: "commun"
 chapitres: 4
-mots: 4349
+mots: 4983
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Les nouvelles compositions familiales"
@@ -178,11 +178,25 @@ Dans sa tête à lui ou elle : « si je l'aime bien, est-ce que ça veut dire qu
 - Poser des règles claires de communication avec l'ex-conjoint dès le départ (calendrier, dépenses, décisions importantes) réduit fortement le risque d'escalade.
 - En cas de conflit installé, la médiation familiale est une option réelle, pas un aveu d'échec.
 
+### 2.5 Ce qui marche vraiment, et à quel point ça marche souvent
+
+Après quatre positions et leurs pièges respectifs, un chiffre mérite de conclure ce chapitre parce qu'il est à la fois le plus rassurant et le moins connu : [environ 80 % des enfants en famille recomposée fonctionnent bien à travers l'ensemble des mesures développementales étudiées, et la qualité de la relation prédit le devenir de l'enfant de façon plus fiable que la structure familiale elle-même — la connexion, la constance et la chaleur comptent davantage que le lien biologique](https://www.psychologytoday.com/us/blog/stepping-together/202603/6-common-patterns-of-stepparent-stepchild-relationships). Ce chiffre mérite d'être gardé en tête à chaque étape difficile décrite plus haut : la majorité des familles y arrivent, et ce guide sert justement à faire partie de cette majorité plutôt que de l'exception.
+
+Sur ce qui construit concrètement un lien solide entre beau-parent et bel-enfant, la recherche converge vers une méthode simple, presque à contre-courant de l'intuition initiale de vouloir « bien faire » en s'impliquant fort dès le départ. [Les enfants construisent une relation positive ou négative avec un beau-parent en fonction de leur évaluation des comportements de ce beau-parent envers eux et envers leur famille ; la meilleure image à garder en tête est celle de construire une amitié, pas un lien parental — et ces relations peuvent grandir en acceptation et en proximité quel que soit leur point de départ](https://www.sciencedaily.com/releases/2011/03/110329141554.htm). [Les actions prosociales répétées — offrir un cadeau, un geste de gentillesse, un message positif adressé à l'enfant — se révèlent transformatrices pour la relation sur la durée, d'après le témoignage d'adultes ayant grandi en famille recomposée](https://ifstudies.org/blog/positive-turning-points-in-stepparent-stepchild-relationships). Concrètement, les enfants apprécient particulièrement qu'un beau-parent commence par chercher à s'amuser avec eux et à construire une amitié, plutôt que d'endosser d'emblée une posture parentale — l'inverse exact du piège décrit en ouverture de ce chapitre, et la confirmation, par un autre angle, du même principe : la connexion avant la correction.
+
+**Bons réflexes.**
+- Multiplier les petits gestes positifs et répétés (un intérêt sincère, une attention, un geste de gentillesse) plutôt qu'un unique grand geste ponctuel pour « marquer le coup » de l'arrivée dans la famille.
+- Chercher d'abord une complicité de type amical, fondée sur un intérêt commun, avant toute idée de rôle parental.
+- Garder ce chiffre de 80 % en tête dans les moments de doute : la majorité des familles recomposées finissent par bien fonctionner, et la qualité du lien construit jour après jour, pas la structure familiale de départ, est ce qui fait la différence.
+
 ## Sources vérifiables
 
 - [Disciplining dilemma: The role of the stepparent](https://www.canr.msu.edu/news/disciplining_dilemma_the_role_of_the_stepparent), Michigan State University Extension ; vérification du 11 août 2026.
 - Gottman Institute, [Navigating Different Parenting Styles in Blended Families](https://www.gottman.com/blog/navigating-different-parenting-styles-in-blended-families/) ; vérification du 11 août 2026.
 - [Famille recomposée : comment gérer les conflits et l'ex trop présent(e) ?](https://www.mamaste.fr/famille-recomposee-conflits-ex/) ; vérification du 11 août 2026.
+- [6 Common Patterns of Stepparent-Stepchild Relationships](https://www.psychologytoday.com/us/blog/stepping-together/202603/6-common-patterns-of-stepparent-stepchild-relationships), *Psychology Today* ; vérification du 11 août 2026.
+- [Stepchildren relate to stepparents based on perceived benefits, researchers find](https://www.sciencedaily.com/releases/2011/03/110329141554.htm), *ScienceDaily* ; vérification du 11 août 2026.
+- [Positive Turning Points in Stepparent-Stepchild Relationships](https://ifstudies.org/blog/positive-turning-points-in-stepparent-stepchild-relationships), Institute for Family Studies ; vérification du 11 août 2026.
 
 ---
 
@@ -218,6 +232,10 @@ Aucune situation ne justifie de placer un enfant dans une position où aimer un 
 
 La médiation familiale et l'accompagnement thérapeutique existent précisément pour ce type de configuration, où les repères habituels du couple et de la parentalité ne suffisent pas toujours. Y recourir tôt, avant l'installation d'un conflit chronique, est plus efficace et moins coûteux — humainement — que d'attendre une crise.
 
+### 3.8 Nommer et célébrer ce qui fonctionne, pas seulement ce qui coince
+
+Un principe trop souvent oublié dans une liste de bons réflexes centrée sur la prévention des problèmes : prendre le temps de reconnaître, à voix haute, ce qui se construit bien. Un moment de complicité entre un beau-parent et un bel-enfant, un conflit résolu sans escalade, une fête réussie malgré la complexité du calendrier partagé — ces réussites ordinaires méritent d'être nommées en famille, pas seulement remarquées en silence. Rappeler que la majorité des familles recomposées finissent par bien fonctionner, avec des enfants qui s'épanouissent au moins aussi bien que dans une famille de structure différente dès lors que la qualité du lien est au rendez-vous, n'est pas de l'optimisme naïf — c'est un fait statistique qui mérite d'être répété aussi souvent que les mises en garde.
+
 **Bons réflexes, en résumé actionnable :**
 - Construire la relation avant d'exercer l'autorité.
 - Se donner explicitement plusieurs années, pas plusieurs mois.
@@ -225,6 +243,7 @@ La médiation familiale et l'accompagnement thérapeutique existent précisémen
 - Ne jamais demander, même implicitement, un choix de loyauté à l'enfant.
 - Garder le nouveau partenaire hors des échanges directs avec l'ex-conjoint.
 - Solliciter une médiation ou un accompagnement dès les premiers signes de blocage durable, pas en dernier recours.
+- Nommer explicitement, en famille, les réussites et les moments de complicité — ils comptent tout autant que les difficultés traversées, et méritent la même attention.
 
 ## Sources vérifiables
 
