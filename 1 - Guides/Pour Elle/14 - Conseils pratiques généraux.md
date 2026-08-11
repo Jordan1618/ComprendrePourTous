@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Conseils pratiques généraux, au-delà du cas par cas
 
-Au-delà des conseils spécifiques donnés section par section, voici une synthèse plus générale, les principes de fond qui, si tu les intègres durablement, te serviront quelle que soit la situation précise que ta partenaire traversera un jour.
+Au-delà des conseils spécifiques donnés section par section, voici une synthèse plus générale, les principes de fond qui, si tu les intègres durablement, te serviront quelle que soit la situation précise que ta partenaire traversera un jour — et qui, comme le montre la dernière section de ce chapitre, peuvent aussi devenir une occasion réelle de rapprochement plutôt qu'une simple épreuve à subir.
 
 ### 14.1 Le principe de la croyance par défaut
 
@@ -50,8 +50,34 @@ Pour clore ce document sur un point pratique et concret, voici la liste consolid
 - Idées suicidaires évoquées, même de façon détournée, en période post-partum (contacter le 3114 ou le 15 sans délai)
 - Saignement vaginal après la ménopause, à tout moment (toujours à explorer, jamais à attendre) Cette liste reprend les signaux d'alerte détaillés chapitre par chapitre dans ce guide, réunis aussi dans la page transversale dédiée (source : page *Signaux d'alerte* de la collection ; vérification du 7 août 2026).
 
+### 14.7 bis Ce que ça apporte, au-delà de l'épreuve elle-même
+
+Ce chapitre a surtout listé des principes de vigilance et de soutien — il faut aussi dire, avec la même rigueur, ce que la recherche montre sur ce que ce type de soutien apporte réellement, dans les deux sens, quand il est bien mené.
+
+Sur le plan le plus concret, celui de la santé elle-même : [les personnes atteintes d'un cancer et engagées dans une relation forte avec leur partenaire connaissent de meilleurs résultats émotionnels et physiques que celles qui n'en bénéficient pas](https://www.patientpower.info/breast-cancer/partner-power-better-romantic-relationships-better-outcomes), et [le soutien du partenaire joue un rôle déterminant dans l'adaptation à la maladie pour les patientes en couple](https://pmc.ncbi.nlm.nih.gov/articles/PMC8774593/). L'effet est mesuré jusque dans les statistiques de survie : [être marié procure, pour cinq des dix cancers majeurs étudiés, un bénéfice de survie supérieur à celui de la chimiothérapie elle-même](https://pmc.ncbi.nlm.nih.gov/articles/PMC5769016/) — un chiffre qui donne une mesure concrète de ce que représente, très objectivement, une présence stable aux côtés de quelqu'un qui traverse une épreuve de santé.
+
+Ce que ce type d'épreuve traversée à deux produit sur la relation elle-même mérite tout autant d'être connu. [Une collaboration de soutien mutuel face à un stress majeur — une maladie, une difficulté économique — peut faire naître davantage de proximité, de confiance et de satisfaction relationnelle globale](https://csyorkregion.com/news/435-what-keeps-couples-together-through-life-s-biggest-challenges). [Quand un couple traverse une crise significative qui lui montre qu'il peut compter l'un sur l'autre, cette expérience renforce l'intimité relationnelle — même s'il s'agit d'un événement négatif au départ, il rapproche souvent les deux personnes](https://csyorkregion.com/news/435-what-keeps-couples-together-through-life-s-biggest-challenges). Une étude qualitative a même quantifié la stratégie la plus fréquemment rapportée par les couples : [83 % des mécanismes d'adaptation rapportés par les couples reposaient sur le fait de s'appuyer sur le lien du couple lui-même, plutôt que sur des stratégies individuelles séparées](https://csyorkregion.com/news/435-what-keeps-couples-together-through-life-s-biggest-challenges).
+
+Ce n'est donc jamais un chapitre à lire uniquement comme une liste de risques à anticiper. C'est aussi la description d'un des moments où un couple peut, très concrètement, se découvrir plus solide qu'il ne le pensait — à condition d'aborder l'épreuve à deux, dans le sens que ce chapitre entier a essayé de décrire.
+
+**Bons réflexes.**
+- Se rappeler, au moment d'accompagner une épreuve de santé, que ce soutien a un effet mesuré et réel sur les issues médicales elles-mêmes, pas seulement sur le moral.
+- Considérer une épreuve traversée à deux comme une occasion réelle de renforcer la relation, sans pour autant en minimiser la difficulté ni la peur qu'elle peut légitimement inspirer.
+- S'appuyer activement sur le lien de couple comme stratégie principale d'adaptation — c'est, d'après la recherche, ce que font la plupart des couples qui traversent une épreuve avec succès.
+
 ### 14.8 Un dernier mot
 
 La compétence la plus utile que tu puisses développer n'est pas d'être un expert médical du corps de ta partenaire, mais un partenaire qui ne minimise jamais ce qu'elle rapporte, qui l'accompagne activement chez les professionnels concernés, qui reste curieux sans jamais se substituer à son médecin, et qui, le jour où l'une de ces situations se présentera réellement dans votre vie à deux, saura reconnaître ce qui se joue et réagir avec justesse plutôt que dans l'improvisation.
 
-"Document rédigé le 21 juillet 2026, sources vérifiées et datées à cette même période. À mettre à jour si de nouvelles recommandations officielles (HAS, CNGOF, OMS, Inserm) venaient à être publiées, la recherche en santé féminine évolue actuellement rapidement, comme en témoigne le renommage du SOPK en SMOP en mai 2026, survenu pendant la préparation même de ce document." Ce guide est écrit pour être mis à jour : les recommandations de santé évoluent, et une donnée datée reste préférable à une fausse certitude (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
+Ce guide est écrit pour être mis à jour : les recommandations de santé évoluent, et une donnée datée reste préférable à une fausse certitude (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
+
+## Sources vérifiables
+
+- Hoffmann, D. & Tarzian, A., « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026.
+- Daminger, A., « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026.
+- Haute Autorité de Santé, *Rechercher une recommandation* ; vérification du 7 août 2026.
+- Karney, B. & Bradbury, T., « The longitudinal course of marital quality and stability », *Psychological Bulletin*, 1995 ; vérification du 7 août 2026.
+- [Partner Power: Better Romantic Relationships, Better Outcomes](https://www.patientpower.info/breast-cancer/partner-power-better-romantic-relationships-better-outcomes), Patient Power ; vérification du 11 août 2026.
+- [In sickness and in health: The role of marital partners in cancer survival](https://pmc.ncbi.nlm.nih.gov/articles/PMC5769016/), *PMC* ; vérification du 11 août 2026.
+- ["Partner", "Caregiver", or "Co-Survivor"—Might the Label We Give the Partners of Cancer Patients Affect the Health Outcome of the Patients and Their Partners?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8774593/), *Current Oncology* ; vérification du 11 août 2026.
+- [What Keeps Couples Together Through Life's Biggest Challenges](https://csyorkregion.com/news/435-what-keeps-couples-together-through-life-s-biggest-challenges) ; vérification du 11 août 2026.

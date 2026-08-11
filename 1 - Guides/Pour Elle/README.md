@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 73294
+mots: 73887
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -35,7 +35,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 11 | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<11 - Les pieges de la modernite.md>) | prévention | 1 841 |
 | 12 | [Les peurs : lesquelles sont fondées, et comment avancer](<12 - Les peurs rationnelles ou non.md>) | prévention | 1 831 |
 | 13 | [Les figures de la recherche en 2026 : qui fait avancer quoi](<13 - La recherche en 2026.md>) | repères | 1 847 |
-| 14 | [Conseils pratiques généraux, au-delà du cas par cas](<14 - Conseils pratiques généraux.md>) | pratique | 1 305 |
+| 14 | [Conseils pratiques généraux, au-delà du cas par cas](<14 - Conseils pratiques généraux.md>) | pratique | 1 898 |
 | 15 | [Foire aux questions rapides](<15 - Foire aux questions.md>) | pratique | 471 |
 | 16 | [Ressources et associations utiles](<16 - Ressources et associations.md>) | repères | 275 |
 | 17 | [Glossaire complet des termes médicaux employés dans ce document](<17 - Glossaire des termes médicaux.md>) | repères | 489 |
@@ -58,7 +58,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 34 | [Comment sont-elles vues et existent-elles dans la famille](<34 - Comment sont-elles vues et existent-elles dans la famille.md>) | relation | 2 021 |
 | 35 | [Mères célibataires aujourd'hui](<35 - Meres celibataires aujourd hui.md>) | relation | 2 120 |
 
-Total : 73 294 mots, 35 chapitres.
+Total : 73 887 mots, 35 chapitres.
 
 ## Le guide jumeau
 
