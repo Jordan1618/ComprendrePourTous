@@ -3,8 +3,8 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 58655
-verifie_le: 2026-08-10
+mots: 61291
+verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
 genere_le: 2026-08-11
@@ -2078,7 +2078,7 @@ Trois signes concrets, à vérifier honnêtement avant de décider, qu'une amiti
 
 Un dernier repère, utile à travers toutes les périodes évoquées ici : la qualité d'une amitié ne se mesure jamais à sa fréquence de contact mais à ce qui se passe quand elle reprend après un silence. Une amitié qui retrouve immédiatement sa proximité après plusieurs mois sans nouvelles n'est pas une amitié négligée, c'est une amitié solide qui n'a pas besoin d'entretien constant pour rester réelle — une distinction qui allège beaucoup de culpabilité inutile, en particulier dans les périodes (maternité, deuil, surcharge professionnelle) où le temps disponible pour les autres se réduit fortement.
 
-Ce chapitre, pris dans son ensemble, dit une chose simple : les amitiés féminines ne sont ni un luxe secondaire ni un supplément d'âme à la vie de couple ou de famille. Ce sont des relations qui protègent la santé mentale et physique, qui traversent différemment chaque étape de la vie, et qui méritent qu'on leur consacre autant d'attention et de soin qu'à n'importe quelle relation amoureuse — pas moins, simplement autrement. Les négliger sous prétexte qu'elles « attendront », dans une période chargée, revient à négliger un facteur de santé aussi réel que le sommeil ou l'alimentation, même s'il est socialement moins reconnu comme tel.
+Ce chapitre, pris dans son ensemble, dit une chose simple : les amitiés féminines ne sont ni un luxe secondaire ni un supplément d'âme à la vie de couple ou de famille. Ce sont des relations qui protègent la santé mentale et physique, qui traversent différemment chaque étape de la vie, et qui méritent qu'on leur consacre autant d'attention et de soin qu'à n'importe quelle relation amoureuse — pas moins, simplement autrement. Les négliger sous prétexte qu'elles « attendront », dans une période chargée, revient à négliger un facteur de santé aussi réel que le sommeil ou l'alimentation, même s'il est socialement moins reconnu comme tel — une reconnaissance qui gagnerait à être aussi explicite que celle accordée, sans hésitation, aux autres relations de vie.
 
 **Bons réflexes.**
 - Faire le premier pas ne signifie pas avoir tort — c'est souvent la personne la moins blessée qui peut se permettre de le faire, indépendamment de qui a commencé.
@@ -2100,7 +2100,7 @@ Ce chapitre, pris dans son ensemble, dit une chose simple : les amitiés fémini
 
 ## 28. Ce que les femmes attendent des hommes
 
-Ce chapitre part d'une bonne nouvelle, rarement mise en avant : ce qui prédit vraiment la satisfaction dans une relation n'est ni mystérieux ni hors de portée. Ce n'est pas une question de grands gestes ni de personnalité exceptionnelle. C'est une poignée de mécanismes concrets, documentés, et pour l'essentiel accessibles à n'importe qui de bonne volonté.
+Ce chapitre part d'une bonne nouvelle, rarement mise en avant : ce qui prédit vraiment la satisfaction dans une relation n'est ni mystérieux ni hors de portée. Ce n'est pas une question de grands gestes ni de personnalité exceptionnelle. C'est une poignée de mécanismes concrets, documentés, et pour l'essentiel accessibles à n'importe qui de bonne volonté — des mécanismes qui, une fois nommés, retirent une bonne partie du mystère et de l'anxiété entourant la question de ce qu'« il faudrait faire » pour qu'une relation dure.
 
 ### Ce qui compte le plus, avant tout le reste
 
@@ -2138,7 +2138,7 @@ Un besoin réel et documenté reste souvent confondu avec le désir sexuel, alor
 
 Un dernier facteur, peu discuté mais fortement documenté : [la transparence financière entre partenaires est associée à une satisfaction relationnelle plus élevée, et son absence peut avoir des effets dévastateurs sur le couple](https://www.psychologytoday.com/us/blog/your-emotions-and-money/202605/how-do-couples-really-deal-with-money-behind-the-scenes). [Les couples mariés disposant d'un compte d'épargne commun rapportent le taux de satisfaction conjugale le plus élevé (94 %), contre 82 % pour ceux qui ne disposent que de comptes personnels séparés](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/).
 
-Le coût de l'absence de transparence est documenté avec la même précision : [28 % des couples mariés admettent avoir caché un achat important ou une dette à leur conjoint, et 40 % mettraient fin à la relation en cas de malhonnêteté financière découverte](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/). Ce n'est donc pas un sujet secondaire relégué après l'amour ou la communication — c'est un facteur à part entière, aussi prédictif que les mécanismes émotionnels décrits plus haut, et trop souvent absent des conversations de couple avant qu'un problème ne survienne.
+Le coût de l'absence de transparence est documenté avec la même précision : [28 % des couples mariés admettent avoir caché un achat important ou une dette à leur conjoint, et 40 % mettraient fin à la relation en cas de malhonnêteté financière découverte](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/). Ce n'est donc pas un sujet secondaire relégué après l'amour ou la communication — c'est un facteur à part entière, aussi prédictif que les mécanismes émotionnels décrits plus haut, et trop souvent absent des conversations de couple avant qu'un problème ne survienne, alors qu'une conversation ouverte et régulière sur l'argent coûte, en réalité, beaucoup moins qu'une crise de confiance découverte après coup.
 
 ### Ce que ça change au quotidien, très concrètement
 
@@ -2158,14 +2158,16 @@ Trois attentes reviennent le plus souvent, au-delà de la théorie :
 
 C'est une période où les attentes se déplacent fortement, et où le décalage entre ce qui était vrai avant et ce qui devient vrai après peut surprendre les deux partenaires. [La satisfaction conjugale baisse davantage chez les femmes que chez les hommes après une naissance, et cette baisse est plus marquée chez les parents plus jeunes et dans les relations plus récentes](https://journals.sagepub.com/doi/10.1177/0192513X221113850). [Le soutien perçu du partenaire, pour les deux parents, tend à être élevé juste après la naissance puis à décliner régulièrement dans les mois qui suivent](https://pmc.ncbi.nlm.nih.gov/articles/PMC2838213/) — non pas parce que l'attachement diminue, mais parce que l'attention de chacun se redistribue vers l'enfant, souvent sans que personne ne le nomme explicitement.
 
-Ce n'est pas un signal d'alarme en soi : c'est un phénomène statistiquement attendu, documenté, qui touche la majorité des couples. Le savoir à l'avance change la façon de le traverser — voir le chapitre sur le désert relationnel féminin pour ce qui se joue spécifiquement du côté du réseau social pendant cette période.
+Ce n'est pas un signal d'alarme en soi : c'est un phénomène statistiquement attendu, documenté, qui touche la majorité des couples, quelle que soit la solidité de la relation avant l'arrivée de l'enfant. Le savoir à l'avance change la façon de le traverser — voir le chapitre sur le désert relationnel féminin pour ce qui se joue spécifiquement du côté du réseau social pendant cette période.
 
 **Bons réflexes pour cette période précise.**
 - Nommer explicitement la baisse de disponibilité mutuelle plutôt que de la laisser être interprétée comme un désintérêt.
 - Réserver, même brièvement, des moments qui ne tournent pas autour de l'enfant — leur rareté ne les rend pas moins nécessaires, au contraire.
-- Se rappeler mutuellement que ce creux est temporaire et documenté, pas le signe d'un problème de fond dans la relation.
+- Se rappeler mutuellement que ce creux est temporaire et documenté, pas le signe d'un problème de fond dans la relation qu'il faudrait remettre en question à la hâte.
 
 Si un point de ce chapitre inquiète plus qu'il ne rassure — l'impression de ne pas se reconnaître dans ces mécanismes, ou la peur qu'il soit trop tard pour les mettre en place — la bonne nouvelle scientifique reste la même : rien de tout ça n'est figé. La réactivité, l'écoute qui accepte l'influence, l'appréciation exprimée sont des pratiques, pas des traits de caractère. Elles se construisent à n'importe quel moment d'une relation, pas seulement au début.
+
+Ce qui rend ce chapitre utile n'est donc pas de dresser un portrait figé de ce qu'attendrait « la femme » en général, mais de donner un jeu d'outils concrets et vérifiés : la réactivité perçue, l'acceptation de l'influence, la reconnaissance de l'amitié conjugale comme socle, le contact physique non sexuel, la transparence financière. Aucun de ces leviers ne demande un changement de personnalité — seulement une attention régulière et volontaire, dans les petites choses répétées bien plus que dans les grandes déclarations occasionnelles, portée dans la durée plutôt que déployée ponctuellement au moment où la relation semble vaciller.
 
 ## Sources vérifiables
 
@@ -2216,6 +2218,23 @@ Ce jugement a un coût mesurable : [être interrogée sur l'alimentation, le som
 - Ne jamais relayer une critique informelle sur les choix parentaux d'une autre femme, même « pour son bien » — c'est exactement le mécanisme qui alimente la peur chez toutes les autres.
 - Rappeler activement, dans son propre cercle, que la grande majorité des mères n'ont pas d'avis tranché sur les choix des autres — le dire à voix haute contribue à corriger la perception collective.
 
+### La peur d'être perçue comme « trop compétitive »
+
+Une peur plus spécifique, liée à celle du jugement mais distincte, mérite d'être nommée : celle d'être vue comme agressive ou déplacée simplement parce qu'on affiche de l'ambition. [Les femmes sont plus susceptibles que les hommes de considérer la compétition avec des collègues du même genre comme indésirable et inacceptable, et la violation des attentes de rôle de genre alimente la perception que les femmes seraient particulièrement compétitives entre elles](https://www.psychologytoday.com/us/blog/rethinking-rivalry-competition-and-collaboration/202602/why-competitive-women-are-sometimes) — un double standard qui pénalise une ambition jugée normale chez un homme et suspecte chez une femme.
+
+Un nuance importante limite la portée de cette peur, et mérite d'être connue pour ce qu'elle apporte de rassurant : [les femmes n'ont pas, en général, une aversion pour les femmes compétitives — leurs réactions dépendent du contexte, et elles n'apprécient pas les femmes compétitives seulement quand cette compétition les vise elles-mêmes ou vise une amie proche, pas quand elle vise une rivale extérieure au cercle](https://www.psychologytoday.com/us/blog/rethinking-rivalry-competition-and-collaboration/202602/why-competitive-women-are-sometimes). Autrement dit, la peur du jugement pour ambition affichée n'est pas une fatalité généralisée entre femmes — elle dépend fortement de qui regarde et de la proximité relationnelle avec la personne qui juge.
+
+### La peur de la comparaison permanente, version écrans
+
+Un dernier registre de peur, plus diffus que les précédents mais tout aussi documenté, mérite d'être nommé pour ce qu'il est : une source d'anxiété continue plutôt qu'un événement ponctuel. [Une exposition répétée à des comparaisons ascendantes sur les réseaux sociaux — se comparer à des profils perçus comme supérieurs, en particulier sur l'apparence — a un impact significatif sur la santé psychologique, en augmentant spécifiquement l'anxiété liée à l'apparence](https://www.mdpi.com/2076-328X/15/1/8). [Les comparaisons faites via les réseaux sociaux encouragent davantage de comparaisons ascendantes sur l'apparence que les médias traditionnels ou les comparaisons en face à face](https://www.researchgate.net/publication/311065845_The_impact_of_appearance_comparisons_made_through_social_media_traditional_media_and_in_person_in_women's_everyday_lives), un effet [particulièrement marqué chez les jeunes femmes, avec une baisse du bien-être subjectif observée uniquement chez les participantes féminines, les hommes ne rapportant pas d'effet significatif comparable](https://netpsychology.org/social-comparison-instagram-mental-health-guide/).
+
+Cette peur diffère des précédentes par sa nature continue : elle ne naît pas d'une interaction précise avec une personne identifiée, mais d'une exposition répétée à des images choisies et filtrées, présentées comme un quotidien ordinaire. La reconnaître comme un mécanisme documenté, plutôt que comme une fragilité personnelle, aide à en limiter l'emprise : ce n'est pas la comparaison en tant que telle qui pose problème, c'est sa version ascendante, continue et déconnectée de toute réalité vécue par la personne qui compare.
+
+**Bons réflexes.**
+- Distinguer une ambition affichée jugée injustement d'une réelle dureté relationnelle — les deux se ressemblent parfois de l'extérieur, mais n'appellent pas la même réponse.
+- Limiter consciemment l'exposition aux contenus qui déclenchent systématiquement une comparaison ascendante, plutôt que de les subir passivement comme une fatalité du quotidien numérique.
+- Se rappeler que la peur d'être jugée pour son ambition dépend largement du contexte et de la proximité relationnelle — elle n'est ni universelle ni permanente.
+
 ### Le mythe de la « reine des abeilles » au travail
 
 Une autre peur répandue mérite d'être nuancée avec autant de soin que les précédentes : celle qu'une femme en position de pouvoir soit, par nature, plus dure envers les autres femmes qu'un homme équivalent ne le serait. [Les preuves sur ce point sont contradictoires : en croisant un large ensemble d'études, aucune preuve ne montre que les femmes seniors aident moins, ou nuisent davantage, aux femmes juniors que les hommes seniors ne le font envers les hommes juniors](https://theconversation.com/the-immortal-and-false-myth-of-the-workplace-queen-bee-129680). [Des travaux plus récents suggèrent au contraire que les femmes en position de direction créent souvent davantage d'opportunités pour d'autres femmes, avec plus de mentorat et des promotions plus rapides](https://theconversation.com/the-immortal-and-false-myth-of-the-workplace-queen-bee-129680).
@@ -2252,6 +2271,10 @@ La peur du jugement féminin n'est ni une invention ni une fatalité généralis
 - [Coping with mate poaching: gender differences in detection of infidelity-related threats](https://www.sciencedirect.com/science/article/abs/pii/S1090513814001019), *Evolution and Human Behavior* ; vérification du 11 août 2026.
 - [Women's Fertility Status Alters Other Women's Jealousy and Mate Guarding](https://journals.sagepub.com/doi/10.1177/0146167216678859), *Personality and Social Psychology Bulletin* ; vérification du 11 août 2026.
 - [Gender differences in response to infidelity types and rival attractiveness](https://www.tandfonline.com/doi/full/10.1080/14681994.2019.1639657), *Psychology & Sexuality* ; vérification du 11 août 2026.
+- [Why Competitive Women Are Sometimes Seen as Threats](https://www.psychologytoday.com/us/blog/rethinking-rivalry-competition-and-collaboration/202602/why-competitive-women-are-sometimes), *Psychology Today* ; vérification du 11 août 2026.
+- [The Impact of Upward Social Comparison on Social Media on Appearance Anxiety](https://www.mdpi.com/2076-328X/15/1/8), *Behavioral Sciences* ; vérification du 11 août 2026.
+- [The impact of appearance comparisons made through social media, traditional media, and in person in women's everyday lives](https://www.researchgate.net/publication/311065845_The_impact_of_appearance_comparisons_made_through_social_media_traditional_media_and_in_person_in_women's_everyday_lives) ; vérification du 11 août 2026.
+- [Instagram Social Comparison: Mental Health Impact + Solutions](https://netpsychology.org/social-comparison-instagram-mental-health-guide/) ; vérification du 11 août 2026.
 - [The Silent Heartbreak: Why Friendship Breakups Often Hurt More Than Romantic Ones](https://formalpsychology.com/friendship-breakups-psychology-of-loss/), Formal Psychology ; vérification du 11 août 2026.
 
 ---
@@ -2337,7 +2360,7 @@ Cette vigilance, aussi réelle soit-elle, coexiste très bien avec des relations
 
 ## 31. Ce qui compte vraiment chez les femmes, en amitié et en amour
 
-Ce chapitre se distingue du premier de cette série : là où « ce que les femmes attendent des femmes » décrivait les attentes concrètes du quotidien, celui-ci va chercher ce qui, au fond, fait la différence entre une relation qui tient et une relation qui s'effrite — en amitié comme en amour.
+Ce chapitre se distingue du premier de cette série : là où « ce que les femmes attendent des femmes » décrivait les attentes concrètes du quotidien, celui-ci va chercher ce qui, au fond, fait la différence entre une relation qui tient et une relation qui s'effrite — en amitié comme en amour, à travers les grandes étapes d'une vie.
 
 ### La confiance, avant tout le reste
 
@@ -2369,6 +2392,12 @@ Ce n'est donc pas une coïncidence si une femme entourée d'amitiés solides et 
 
 [Une enquête du Pew Research Center a montré que 64 % des femmes considèrent le partage des mêmes valeurs comme plus important que l'attirance physique dans le choix d'un partenaire](https://shebudgets.com/lifestyle/relationships/what-women-value-most-in-men-at-every-stage-of-life-according-to-research/). Ce chiffre va dans les deux sens : il dit autant ce que les femmes recherchent que ce qui, chez elles, est statistiquement le plus déterminant à long terme — la gentillesse et des valeurs partagées comptent plus, dans la durée, que ce qui se voit au premier regard.
 
+### Transmettre plutôt qu'accumuler : ce qui compte au milieu de la vie
+
+Un terrain souvent absent des guides relationnels mérite d'être exploré ici : ce qui compte vraiment chez une femme au milieu de sa vie, une période où les priorités relationnelles se déplacent sans que ce déplacement soit toujours nommé. [Chez les femmes, c'est le capital social — les relations et réseaux entretenus — qui joue un rôle central dans la générativité et, par ce biais, dans une meilleure santé, à la différence des hommes chez qui c'est davantage le capital humain (compétences, expérience) qui joue ce rôle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9099985/). [Les femmes plus généreuses dans ce sens rapportent une plus grande satisfaction dans leur mariage et leur rôle de mère](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9099985/), et [le mentorat intergénérationnel répond directement à ce besoin de générativité au milieu de la vie, en offrant un moyen concret d'exprimer cette préoccupation pour la génération suivante](https://www.researchgate.net/publication/279418146_Generativity_in_Midlife_and_Young_Adults_Links_to_Agency_Communion_and_Subjective_Well-Being).
+
+Ce résultat éclaire d'un jour nouveau ce qui a déjà été établi plus haut sur la réciprocité comme matière première de l'amitié féminine : au milieu de la vie, cette réciprocité prend souvent une forme intergénérationnelle — transmettre à une plus jeune, guider, ouvrir des portes — plutôt que seulement horizontale entre pairs. Ce n'est pas un supplément d'altruisme, c'est, d'après cette recherche, l'un des mécanismes qui compte le plus pour la satisfaction et la santé d'une femme à cette période précise de sa vie.
+
 ### Ce que sa perte révèle sur son importance réelle
 
 La meilleure preuve de ce que vaut une amitié féminine est peut-être ce que sa rupture provoque. [Une rupture amicale est souvent aussi douloureuse, voire plus, qu'une rupture amoureuse — les amitiés féminines activent des mécanismes d'attachement profonds, comparables ou supérieurs à ceux de l'attachement romantique](https://ahead-app.com/blog/heartbreak/why-female-friendship-breakups-hurt-more-than-romantic-ones). [Les amitiés impliquent souvent des liens plus longs et plus stables que beaucoup de relations amoureuses, construits sur des années d'expérience partagée, et intimement liés à l'identité — quand le lien se rompt, ça peut se vivre comme la perte de plus qu'une personne](https://ahead-app.com/blog/heartbreak/why-female-friendship-breakups-hurt-more-than-romantic-ones).
@@ -2379,10 +2408,16 @@ Un mécanisme précis explique pourquoi cette douleur est si peu reconnue social
 
 Connaître ce mécanisme a une vraie utilité : il autorise à prendre au sérieux la douleur d'une amitié perdue, sans avoir à la justifier ou à la minimiser parce que « ce n'était qu'une amie ». Ce n'est jamais « qu'une amie » — c'est exactement le sujet de ce chapitre depuis le début.
 
+### Combien d'amitiés comptent vraiment
+
+Face à la pression sociale d'afficher un large cercle amical, une réponse chiffrée mérite d'être connue. [Trois à cinq amitiés proches constituent le point idéal pour le bonheur et la satisfaction de vie en général, avec un optimum plus précis situé autour de quatre pour réduire la solitude, deux pour réduire la dépression, trois pour réduire l'anxiété, et deux pour réduire le stress](https://www.thetreetop.com/statistics/how-many-friends-you-need-statistics/). [Un effet non linéaire existe : un nombre très élevé d'amitiés proches, autour de quinze ou plus, est en réalité associé à une moins bonne santé mentale](https://www.socialconnectionguidelines.org/en/evidence-briefs/how-many-friends-do-you-need) — la quantité, passé un certain seuil, cesse d'être un atout et devient même un fardeau.
+
+Ce résultat rejoint directement ce qui a déjà été établi dans ce chapitre sur la réciprocité comme fondation : ce n'est jamais l'étendue du réseau qui protège, mais la profondeur et la fiabilité d'un petit nombre de liens. [Beaucoup de femmes forment des amitiés étroites et intenses avec une ou deux autres femmes, et ce qui compte est la qualité et la profondeur de l'intimité présente dans ces relations](https://thewell.northwell.edu/womens-health/importance-of-female-friendships), pas le nombre affiché sur un réseau social ou évoqué en société.
+
 **Bons réflexes.**
 - Investir dans la fiabilité des petites choses plutôt que dans les grands gestes ponctuels — c'est ce qui construit la confiance mesurée comme la plus déterminante.
 - Ne jamais sous-estimer la valeur d'une amitié réciproque et fiable : elle a un effet mesurable sur la santé, pas seulement sur le moral.
-- Se rappeler que ce qui fait une relation de qualité — confiance, réciprocité, sécurité émotionnelle — est le même socle en amitié et en amour, ce qui veut dire qu'on peut s'appuyer sur ses amitiés les plus solides pour comprendre ce qui, chez soi, fonctionne déjà très bien en amour.
+- Se rappeler que ce qui fait une relation de qualité — confiance, réciprocité, sécurité émotionnelle — est le même socle en amitié et en amour, ce qui veut dire qu'on peut s'appuyer sur ses amitiés les plus solides pour comprendre ce qui, chez soi, fonctionne déjà très bien en amour, à n'importe quel âge et à n'importe quelle étape de la vie.
 
 ## Sources vérifiables
 
@@ -2395,6 +2430,11 @@ Connaître ce mécanisme a une vraie utilité : il autorise à prendre au série
 - [Why Female Friendship Breakups Hurt More Than Romantic Ones](https://ahead-app.com/blog/heartbreak/why-female-friendship-breakups-hurt-more-than-romantic-ones) ; vérification du 11 août 2026.
 - [The Silent Heartbreak: Why Friendship Breakups Often Hurt More Than Romantic Ones](https://formalpsychology.com/friendship-breakups-psychology-of-loss/), Formal Psychology ; vérification du 11 août 2026.
 - [Early Attachment Patterns Influence How We Show Up For Our Adult Friendships](https://www.psychotherapysingapore.com/post/early-attachment-patterns-influence-how-we-show-up-for-our-adult-friendships) ; vérification du 11 août 2026.
+- [Generativity and Gendered Pathways to Health: The Role of Human, Social, and Financial Capital Past Mid-Life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9099985/), *PMC* ; vérification du 11 août 2026.
+- [Generativity in Midlife and Young Adults: Links to Agency, Communion, and Subjective Well-Being](https://www.researchgate.net/publication/279418146_Generativity_in_Midlife_and_Young_Adults_Links_to_Agency_Communion_and_Subjective_Well-Being) ; vérification du 11 août 2026.
+- [Statistics on How Many Friends You Need](https://www.thetreetop.com/statistics/how-many-friends-you-need-statistics/) ; vérification du 11 août 2026.
+- [Evidence Brief: How Many Friends Do You Need?](https://www.socialconnectionguidelines.org/en/evidence-briefs/how-many-friends-do-you-need), Social Connection Guidelines ; vérification du 11 août 2026.
+- [The Importance Of Female Friendships](https://thewell.northwell.edu/womens-health/importance-of-female-friendships), The Well by Northwell ; vérification du 11 août 2026.
 
 ---
 
@@ -2434,6 +2474,18 @@ Ce point mérite d'être détaillé parce qu'il contredit une idée reçue tenac
 
 Autrement dit : la capacité physique à protéger n'est pas ce qui, chez un homme, prédit son investissement dans une relation durable — c'est même plutôt l'inverse qui ressort des données. Ce résultat ne dit rien sur ce que les femmes recherchent en abstrait, mais beaucoup sur le fait que la force physique, à elle seule, ne garantit ni la fiabilité ni l'engagement dans la durée — deux qualités qui, elles, sont mesurées séparément et bien plus prédictives, comme les sections précédentes le montrent.
 
+### Deux formes de statut, et ce qu'elles prédisent vraiment
+
+Une distinction établie par la recherche évolutionniste éclaire un point souvent confondu dans le débat sur ce que les femmes rechercheraient chez un homme. [Les hommes socialement dominants sont compétitifs, affirmés et autoritaires, utilisant de fortes compétences sociales pour exercer un pouvoir sur les autres, tandis que les hommes à haut prestige obtiennent leur statut par l'inclusion sociale et des compétences reconnues, élevés par leurs pairs à une position en vue](https://www.psychologytoday.com/us/blog/the-attraction-doctor/201803/are-dominant-or-prestigious-men-more-attractive-to-women). [Les femmes préfèrent les hommes dominants pour des relations de court terme et les hommes prestigieux pour des relations de long terme](https://www.psychologytoday.com/us/blog/the-attraction-doctor/201803/are-dominant-or-prestigious-men-more-attractive-to-women).
+
+Ce résultat mérite d'être répété parce qu'il clarifie une confusion fréquente : la force ou l'assurance qui impressionnent au premier regard ne sont pas ce qui, statistiquement, prédit le choix d'un partenaire pour construire une vie — c'est la réputation construite sur la compétence et la reconnaissance des pairs qui joue ce rôle. [Une réputation éthique améliore les évaluations d'attractivité de long terme, de prestige, d'intelligence et de gentillesse, sans affecter l'attractivité de court terme ni les évaluations de dominance physique](https://www.nature.com/articles/s41598-025-06611-8) — la droiture morale, autrement dit, ne joue aucun rôle dans l'attraction physique immédiate, mais un rôle déterminant dans le choix d'un partenaire pour la durée.
+
+### Le rôle méconnu du père dans l'attachement amoureux adulte
+
+Un dernier mécanisme, rarement mis en avant dans les discussions sur le couple, mérite d'être nommé parce qu'il éclaire une origine souvent invisible de ce qui, chez une femme, prédit la qualité de ses relations amoureuses adultes. [La contribution des soins paternels perçus durant l'enfance était légèrement supérieure à celle des soins maternels perçus dans la construction de l'attachement adulte à un partenaire](https://www.nature.com/articles/s41598-023-42674-1), et [les personnes capables de former une relation amoureuse sécurisante avaient généralement un père perçu comme attentionné, aimant, drôle et affectueux](https://www.researchgate.net/profile/Patricia-Noller/publication/232532243_Attachment_Style_as_a_Predictor_of_Adult_Romantic_Relationships/links/0fcfd51023040599e8000000/Attachment-Style-as-a-Predictor-of-Adult-Romantic-Relationships.pdf).
+
+Ce résultat rejoint directement ce qui a été établi dans le chapitre miroir du guide Pour Lui sur le lien père-fille et son effet documenté sur l'attachement amoureux adulte — la même donnée, lue ici du côté de ce qu'elle signifie pour une femme adulte plutôt que pour le père qui l'a transmise. Un résultat spécifique aux femmes mérite aussi d'être connu : [pour les femmes, le meilleur prédicteur de la qualité relationnelle est le degré de confort de leur partenaire avec la proximité émotionnelle, alors que pour les hommes, le meilleur prédicteur est le degré d'anxiété de leur partenaire face à l'abandon](https://www.researchgate.net/publication/264947709_Exploring_the_Association_between_Adult_Attachment_Styles_in_Romantic_Relationships_Perceptions_of_Parents_from_Childhood_and_Relationship_Satisfaction) — un homme à l'aise avec l'intimité, plus que sa force ou son statut apparent, prédit statistiquement mieux la satisfaction d'une femme dans la durée.
+
 ### Le partage réel, au-delà de l'intention affichée
 
 Un facteur pratique, moins romantique mais tout aussi déterminant : [les hommes rapportent une satisfaction plus élevée face à une répartition inégale des tâches, alors que les femmes sont plus satisfaites quand la répartition est réellement égale](https://link.springer.com/article/10.1007/s11205-026-03839-3), un écart de perception qui, non traité, use durablement la relation. [Aujourd'hui, moins d'un tiers des familles suivent encore le modèle « un seul apporteur de revenu », et 60 % des familles reposent sur deux revenus — mais le partage du travail domestique non rémunéré ne s'est réajusté que très partiellement, les mères de ces couples à double revenu assurant encore 13,5 heures de tâches ménagères contre 9,5 heures pour les pères](https://contemporaryfamilies.utah.edu/publications/posts/2022/april/egalitarian-relationships-brief-report.php).
@@ -2462,6 +2514,11 @@ Un dernier point atténue ce que ces chiffres pourraient avoir de décourageant 
 - [Unequal Chores, Unequal Joy? Perceptions of Housework Satisfaction in Spain and Sweden](https://link.springer.com/article/10.1007/s11205-026-03839-3), *Social Indicators Research* ; vérification du 11 août 2026.
 - [Mine and Yours, or Ours: Are All Egalitarian Relationships Equal?](https://contemporaryfamilies.utah.edu/publications/posts/2022/april/egalitarian-relationships-brief-report.php), Contemporary Families ; vérification du 11 août 2026.
 - [Feeling Appreciated Buffers against the Negative Effects of Unequal Division of Household Labor](https://sites.lsa.umich.edu/whirl/wp-content/uploads/sites/792/2022/02/Gordon-et-al.-2022-Psych-Science.pdf) ; vérification du 11 août 2026.
+- [Are Dominant or Prestigious Men More Attractive to Women?](https://www.psychologytoday.com/us/blog/the-attraction-doctor/201803/are-dominant-or-prestigious-men-more-attractive-to-women), *Psychology Today* ; vérification du 11 août 2026.
+- [Ethics trumps resources in women's and men's evaluations of potential mates and competitors](https://www.nature.com/articles/s41598-025-06611-8), *Scientific Reports* ; vérification du 11 août 2026.
+- [High care and low overprotection from both paternal and maternal parents predict a secure attachment style with a partner among perinatal Japanese women](https://www.nature.com/articles/s41598-023-42674-1), *Scientific Reports* ; vérification du 11 août 2026.
+- Noller, P. et coll., [Attachment Style as a Predictor of Adult Romantic Relationships](https://www.researchgate.net/profile/Patricia-Noller/publication/232532243_Attachment_Style_as_a_Predictor_of_Adult_Romantic_Relationships/links/0fcfd51023040599e8000000/Attachment-Style-as-a-Predictor-of-Adult-Romantic-Relationships.pdf) ; vérification du 11 août 2026.
+- [Exploring the Association between Adult Attachment Styles in Romantic Relationships, Perceptions of Parents from Childhood and Relationship Satisfaction](https://www.researchgate.net/publication/264947709_Exploring_the_Association_between_Adult_Attachment_Styles_in_Romantic_Relationships_Perceptions_of_Parents_from_Childhood_and_Relationship_Satisfaction) ; vérification du 11 août 2026.
 
 ---
 
@@ -2469,7 +2526,9 @@ Un dernier point atténue ce que ces chiffres pourraient avoir de décourageant 
 
 ### D'abord, une mise en garde utile : les « langages de l'amour » ne tiennent pas la route scientifique
 
-Avant de décrire ce que la recherche montre vraiment, il faut écarter un cadre extrêmement populaire mais mal étayé. [Une revue de 2024 menée à l'Université de Toronto a examiné l'ensemble des preuves empiriques disponibles sur la théorie des cinq langages de l'amour, et aucune des dix études existantes ne soutient les affirmations de son auteur](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say). [Quand on demande aux gens d'évaluer indépendamment chaque forme d'expression de l'amour, ils ont tendance à toutes les valoriser fortement, ce qui suggère qu'en réalité les cinq façons d'exprimer et de recevoir l'amour sont vues comme importantes simultanément, pas comme un langage unique et exclusif à découvrir](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say). [Les cinq catégories ne ressortent pas non plus comme des dimensions statistiquement distinctes — le toucher physique et le temps de qualité, par exemple, se chevauchent fortement](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say).
+Ce chapitre applique à l'expression féminine de l'amour la même exigence de rigueur que celle déjà appliquée dans ce guide à chaque autre sujet largement popularisé mais insuffisamment étayé par la recherche.
+
+Avant de décrire ce que la recherche montre vraiment sur la façon dont les femmes expriment leur amour, il faut écarter un cadre extrêmement populaire mais mal étayé. [Une revue de 2024 menée à l'Université de Toronto a examiné l'ensemble des preuves empiriques disponibles sur la théorie des cinq langages de l'amour, et aucune des dix études existantes ne soutient les affirmations de son auteur](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say). [Quand on demande aux gens d'évaluer indépendamment chaque forme d'expression de l'amour, ils ont tendance à toutes les valoriser fortement, ce qui suggère qu'en réalité les cinq façons d'exprimer et de recevoir l'amour sont vues comme importantes simultanément, pas comme un langage unique et exclusif à découvrir](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say). [Les cinq catégories ne ressortent pas non plus comme des dimensions statistiquement distinctes — le toucher physique et le temps de qualité, par exemple, se chevauchent fortement](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say).
 
 Ce n'est pas un détail : ça veut dire que l'idée de « trouver LE langage de l'amour » d'une personne, puis de s'y tenir exclusivement, repose sur un cadre plus intuitif que scientifique. La bonne nouvelle est que la recherche propose quelque chose de plus riche et de mieux étayé à la place.
 
@@ -2482,6 +2541,20 @@ Sur les préférences déclarées : [les femmes tendent à privilégier les mots
 Sur le plan temporel, un résultat mérite d'être connu parce qu'il contredit une autre idée reçue : [les hommes déclarent en moyenne tomber amoureux environ un mois plus tôt que les femmes dans une relation naissante](https://www.medicaldaily.com/psychologists-reveal-men-and-women-do-love-differently-are-equally-affectionate-241662). En retour, [les femmes ont tendance à vivre l'amour romantique avec une intensité légèrement supérieure, et à penser plus souvent à la personne aimée](https://www.medicaldaily.com/psychologists-reveal-men-and-women-do-love-differently-are-equally-affectionate-241662) — [avec un pic émotionnel précoce plus marqué et une transition plus prononcée, alors que les hommes suivent une courbe plus stable et progressive](https://www.medicaldaily.com/psychologists-reveal-men-and-women-do-love-differently-are-equally-affectionate-241662).
 
 Le point le plus important à retenir de l'ensemble de ces données : [le consensus le plus large reste que les hommes et les femmes n'aiment pas de façon aussi différente qu'on le croit communément, et que les deux partagent une capacité profonde de connexion, d'affection et d'engagement](https://www.medicaldaily.com/psychologists-reveal-men-and-women-do-love-differently-are-equally-affectionate-241662).
+
+### L'écart entre ce qu'on donne et ce qu'on attend
+
+Une donnée précise éclaire un mécanisme rarement nommé, qui explique une bonne partie des malentendus dans un couple : [il existe un écart net entre ce que les gens préfèrent recevoir et la façon dont ils expriment eux-mêmes l'amour ; cet écart est le plus marqué pour la valorisation verbale, seulement 14 % des personnes qui la placent dans leurs deux formes d'expression préférées la plaçant aussi dans leurs deux formes d'expression les plus utilisées](https://www.connectedcouples.app/blog/love-language-statistics). Autrement dit, beaucoup de femmes attendent des mots de valorisation sans nécessairement en donner autant qu'elles voudraient en recevoir — un décalage qui n'a rien d'hypocrite, simplement le signe que recevoir et donner obéissent à des logiques différentes.
+
+Sur ce que les femmes expriment concrètement, comparées aux hommes : [en moyenne, les femmes obtiennent des scores plus élevés que les hommes sur quatre des cinq catégories de langages de l'amour, à l'exception des actes de service — et par rapport aux hommes, la répondante moyenne offrait davantage de cadeaux, quand l'homme moyen exprimait davantage l'amour par le service rendu](https://www.connectedcouples.app/blog/love-language-statistics). [Ces patterns sont vraisemblablement hérités de rôles de genre traditionnels qui ont poussé les femmes à développer de fortes compétences de communication verbale, tout en enseignant aux hommes à exprimer leur attention par les actes plutôt que par les mots](https://www.connectedcouples.app/blog/love-language-statistics) — un résultat qui rejoint directement ce qui a déjà été établi côté masculin dans ce projet, et qui montre combien les deux expressions restent, au fond, socialement construites plutôt que biologiquement figées.
+
+Une réserve importante s'impose ici, la même que celle déjà posée en ouverture de ce chapitre à propos du cadre des langages de l'amour : [la variation individuelle à l'intérieur de chaque sexe dépasse largement les différences moyennes observées entre les sexes](https://www.connectedcouples.app/blog/love-language-statistics) — ces tendances décrivent des moyennes statistiques, jamais une prédiction fiable pour une personne donnée.
+
+### La jalousie, une expression active de l'investissement affectif
+
+Un dernier registre, plus ambivalent que les précédents, mérite d'être nommé avec la même précision que celle déjà appliquée dans ce guide. [La jalousie a évolué comme une émotion négative caractérisée par la détresse face à une menace réelle ou perçue envers une relation valorisée, coordonnant l'usage de comportements de rétention du partenaire — des actes destinés à protéger une relation des rivaux, à prévenir l'infidélité et à empêcher une rupture](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10742941/). [Ces comportements de rétention se répartissent en deux catégories : ceux qui apportent un bénéfice au partenaire (cadeaux, marques d'affection, soutien émotionnel) et ceux qui infligent un coût (susciter la jalousie, proférer des menaces)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10742941/), [l'intensité de la jalousie ressentie — cognitive, émotionnelle et comportementale — étant corrélée positivement à la fréquence de l'ensemble de ces stratégies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10742941/).
+
+Ce résultat doit être lu avec la même prudence déjà appliquée ailleurs dans ce guide à propos du contrôle : une jalousie ponctuelle qui se traduit par davantage d'attention et d'affection est une expression ordinaire d'un attachement réel. Mais quand elle se traduit systématiquement par des stratégies qui infligent un coût — menaces, surveillance, isolement progressif du partenaire — elle sort du registre de l'expression amoureuse pour entrer dans celui du [contrôle coercitif](<../2 - Notions/Contrôle coercitif.md>), déjà défini et documenté ailleurs dans ce guide. La différence tient à la direction du geste : nourrir la relation, ou restreindre l'autre — une distinction simple, mais qui change entièrement la nature de ce qui se joue derrière une même émotion de départ.
 
 ### Recevoir l'amour compte autant que l'exprimer
 
@@ -2505,9 +2578,13 @@ L'expression de l'amour n'est pas figée dans le temps, et le savoir évite de c
 
 Ce qui prédit la solidité d'une relation dans la durée n'est donc pas l'intensité initiale mais l'entretien actif : [les expériences nouvelles partagées, la gratitude exprimée et l'écoute réactive comptent parmi les comportements de maintien les mieux étayés par la recherche](https://www.simplypsychology.com/articles/long-term-relationship-maintenance-psychology). [Selon les travaux de Gottman, les interactions positives doivent dépasser les négatives dans un ratio d'au moins cinq pour un dans les relations stables](https://www.simplypsychology.com/articles/long-term-relationship-maintenance-psychology), et [le maintien d'une relation ne se mesure pas à l'absence de conflit mais à la présence de réparation — la façon dont un couple se rétablit après un désaccord prédit sa durée bien mieux que l'absence de désaccords eux-mêmes](https://www.simplypsychology.com/articles/long-term-relationship-maintenance-psychology).
 
+### Ce que le corps porte, au-delà des mots et des gestes
+
+L'expression de l'amour n'est pas qu'une question de choix conscient ou de style personnel — elle s'appuie sur un substrat biologique partagé par les deux sexes. Le mécanisme déjà détaillé dans le chapitre correspondant du guide Pour Lui s'applique de façon identique ici : la sécrétion d'ocytocine et de vasopressine, stimulée par le contact physique et l'intimité, renforce le lien de couple indépendamment du sexe des deux partenaires. Ce socle commun explique pourquoi, malgré des styles d'expression statistiquement différents entre hommes et femmes, l'attachement lui-même reste comparable en profondeur — seule sa traduction extérieure varie selon les habitudes acquises depuis l'enfance et les rôles sociaux intériorisés bien avant l'âge adulte.
+
 ### Une dernière nuance, pour ne pas jeter l'outil entièrement
 
-Le concept des langages de l'amour, même sans validation scientifique solide, reste utile comme point de départ de conversation — il donne un vocabulaire simple pour commencer à parler de ce qui compte pour chacun. Le problème n'est pas de s'en servir comme d'un déclencheur de discussion, mais de le traiter comme une vérité scientifique figée qui dispenserait d'observer et d'écouter la personne réelle en face.
+Malgré tout ce qui vient d'être dit, le concept des langages de l'amour, même sans validation scientifique solide, reste utile comme point de départ de conversation — il donne un vocabulaire simple et accessible pour commencer à parler de ce qui compte réellement pour chacun. Le problème n'est pas de s'en servir comme d'un déclencheur de discussion, mais de le traiter comme une vérité scientifique figée qui dispenserait d'observer et d'écouter la personne réelle en face — celle-ci, précisément, et pas la moyenne statistique qu'aucune personne réelle n'incarne jamais parfaitement.
 
 ## Sources vérifiables
 
@@ -2519,6 +2596,8 @@ Le concept des langages de l'amour, même sans validation scientifique solide, r
 - [How Compliments Maintain Romance](https://www.psychologytoday.com/us/blog/why-bad-looks-good/202512/how-compliments-maintain-romance), *Psychology Today* ; vérification du 11 août 2026.
 - [Why Some Long-Term Couples Can Maintain Their Passion](https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202407/can-passionate-love-survive-the-test-of-time), *Psychology Today* ; vérification du 11 août 2026.
 - [Long-Term Relationship Maintenance: The Psychology of Staying Connected](https://www.simplypsychology.com/articles/long-term-relationship-maintenance-psychology), *Simply Psychology* ; vérification du 11 août 2026.
+- [Love Language Statistics 2026: Distribution & Research](https://www.connectedcouples.app/blog/love-language-statistics) ; vérification du 11 août 2026.
+- [The Relationship between Jealousy and Mate Retention Strategies in Romantic Relationships among Women during the COVID-19 Pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10742941/), *PMC* ; vérification du 11 août 2026.
 
 ---
 

@@ -3,8 +3,8 @@ type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 31
-mots: 51539
-verifie_le: 2026-08-10
+mots: 52057
+verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
 genere_le: 2026-08-11
@@ -2081,7 +2081,7 @@ Aucune de ces attentes — le respect, la reconnaissance de sa contribution, le 
 
 ## 25. Ce qui leur fait peur chez les hommes
 
-Ce chapitre parle d'une peur rarement mise en mots, précisément parce que l'admettre semble contredire l'image que beaucoup d'hommes pensent devoir renvoyer. Elle mérite d'être posée sans détour, avec ce que la recherche en dit et ce qui permet de la traverser.
+Ce chapitre parle d'une peur rarement mise en mots, précisément parce que l'admettre semble contredire l'image que beaucoup d'hommes pensent devoir renvoyer. Elle mérite d'être posée sans détour, avec ce que la recherche en dit et ce qui permet de la traverser. Comme pour le chapitre équivalent côté féminin de ce projet, nommer une peur avec précision n'est jamais ce qui l'aggrave — c'est, la plupart du temps, ce qui commence à la désamorcer.
 
 ### La peur des autres hommes, nommée directement
 
@@ -2134,7 +2134,7 @@ Ce mécanisme explique une part de ce qui peut sembler, de l'extérieur, disprop
 
 ### Ce que ça change, en pratique
 
-Rien de ce qui est décrit dans ce chapitre n'est une fatalité biologique ou un trait de caractère figé. La peur des autres hommes, la peur de l'humiliation, la peur de ne pas être à la hauteur, la peur bien réelle de la violence physique — toutes ont une origine identifiable et, souvent, une réponse concrète : nommer, demander de l'aide, désamorcer avant que la pression ne s'accumule en silence jusqu'à un point de rupture. Le chiffre le plus important de ce chapitre n'est pas celui qui fait peur, c'est celui qui rassure : la vulnérabilité exprimée entre hommes, une fois testée, rapproche presque toujours plus qu'elle n'éloigne. Le connaître ne supprime pas la peur — mais ça change concrètement ce qu'il devient possible de faire avec elle, seul et avec les autres hommes qui, très probablement, la traversent aussi sans jamais oser le dire les premiers.
+Rien de ce qui est décrit dans ce chapitre n'est une fatalité biologique ou un trait de caractère figé. La peur des autres hommes, la peur de l'humiliation, la peur de ne pas être à la hauteur, la peur bien réelle de la violence physique — toutes ont une origine identifiable et, souvent, une réponse concrète : nommer, demander de l'aide, désamorcer avant que la pression ne s'accumule en silence jusqu'à un point de rupture. Le chiffre le plus important de ce chapitre n'est pas celui qui fait peur, c'est celui qui rassure : la vulnérabilité exprimée entre hommes, une fois testée, rapproche presque toujours plus qu'elle n'éloigne. Le connaître ne supprime pas la peur — mais ça change concrètement ce qu'il devient possible de faire avec elle, seul et avec les autres hommes qui, très probablement, la traversent aussi sans jamais oser le dire les premiers. Faire le premier pas, même maladroitement, reste souvent le geste qui compte le plus — pour soi, et pour l'autre homme qui, très probablement, n'attendait que ça pour oser en faire autant.
 
 ## Sources vérifiables
 
@@ -2208,7 +2208,7 @@ Cette réalité rejoint directement ce qui a été établi au chapitre précéde
 
 Nommer ces peurs — le rejet, la dépendance affective, la fausse accusation, la perte matérielle et parentale, la vulnérabilité à la violence — n'a rien d'une déclaration de défiance envers les femmes. C'est au contraire ce qui permet d'aborder une relation avec une prudence ajustée et non paralysante : reconnaître un risque réel et rare, sans jamais le transformer en soupçon systématique envers une partenaire ou une inconnue. La confiance construite dans une relation, comme le montrent les chapitres consacrés à ce qui compte vraiment dans ce guide, se bâtit précisément sur cette capacité à voir la personne réelle en face, plutôt que la catégorie qu'elle pourrait, en théorie, représenter.
 
-Ce chapitre a délibérément traité ensemble des peurs de nature très différente — certaines fondées sur des risques rares mais réels, d'autres sur des mécanismes intérieurs bien plus fréquents que ne le laisse penser le silence qui les entoure. Le point commun entre elles reste le même d'un bout à l'autre : les nommer clairement, avec les données disponibles plutôt qu'avec l'anxiété seule, est ce qui permet d'agir avec discernement plutôt qu'avec la peur en pilote automatique — et de continuer à s'ouvrir à une relation de confiance sans y renoncer par anticipation.
+Ce chapitre a délibérément traité ensemble des peurs de nature très différente — certaines fondées sur des risques rares mais réels, d'autres sur des mécanismes intérieurs bien plus fréquents que ne le laisse penser le silence qui les entoure. Le point commun entre elles reste le même d'un bout à l'autre : les nommer clairement, avec les données disponibles plutôt qu'avec l'anxiété seule, est ce qui permet d'agir avec discernement plutôt qu'avec la peur en pilote automatique — et de continuer à s'ouvrir à une relation de confiance sans y renoncer par anticipation, ni se laisser enfermer par des peurs statistiquement rares au point de fermer la porte à tout ce qu'une relation de confiance peut réellement apporter.
 
 ## Sources vérifiables
 
@@ -2278,7 +2278,7 @@ Une nuance mérite d'être connue, parce qu'elle rassure autant qu'elle recadre 
 
 ### Ce qui reste vrai, par-delà les différences de forme
 
-Ce que ce chapitre montre, en creux, est que les mécanismes qui font qu'une relation masculine compte vraiment ne sont pas fondamentalement différents de ceux déjà établis côté féminin — la sécurité d'attachement, la qualité du lien, la douleur réelle d'une perte, la reconnaissance gagnée par la fiabilité plutôt que par la contrainte. Ce qui diffère, ce n'est pas la profondeur du lien, mais sa forme d'expression : plus silencieuse, plus différée, plus souvent traduite en action qu'en mots. La reconnaître change la façon de lire, chez soi comme chez les autres hommes, ce qui compte vraiment derrière une apparente indifférence — et rappelle qu'il n'est jamais nécessaire de reconstruire un vaste réseau pour aller mieux : quelques liens fiables suffisent, à condition de leur donner le temps et l'attention qu'ils méritent, et de se rappeler que la solidité d'un lien ne se mesure jamais à sa taille apparente, mais à ce qu'il tient réellement quand tout le reste vacille.
+Ce que ce chapitre montre, en creux, est que les mécanismes qui font qu'une relation masculine compte vraiment ne sont pas fondamentalement différents de ceux déjà établis côté féminin — la sécurité d'attachement, la qualité du lien, la douleur réelle d'une perte, la reconnaissance gagnée par la fiabilité plutôt que par la contrainte. Ce qui diffère, ce n'est pas la profondeur du lien, mais sa forme d'expression : plus silencieuse, plus différée, plus souvent traduite en action qu'en mots. La reconnaître change la façon de lire, chez soi comme chez les autres hommes, ce qui compte vraiment derrière une apparente indifférence — et rappelle qu'il n'est jamais nécessaire de reconstruire un vaste réseau pour aller mieux : quelques liens fiables suffisent, à condition de leur donner le temps et l'attention qu'ils méritent, et de se rappeler que la solidité d'un lien ne se mesure jamais à sa taille apparente, mais à ce qu'il tient réellement quand tout le reste vacille — c'est précisément cette qualité-là, et non le nombre de contacts affichés, qui compte vraiment chez un homme comme chez ses relations.
 
 ## Sources vérifiables
 
@@ -2296,7 +2296,7 @@ Ce que ce chapitre montre, en creux, est que les mécanismes qui font qu'une rel
 
 ## 28. Ce qui compte vraiment chez les femmes
 
-Après les attentes concrètes du quotidien déjà traitées dans ce guide, ce chapitre va chercher ce qui, chez une femme, est le plus souvent identifié par la recherche comme fondement d'une relation qui dure — au-delà des critères superficiels ou changeants.
+Après les attentes concrètes du quotidien déjà traitées dans ce guide, ce chapitre va chercher ce qui, chez une femme, est le plus souvent identifié par la recherche comme fondement d'une relation qui dure — au-delà des critères superficiels ou changeants. Comme pour le chapitre équivalent déjà écrit côté féminin sur ce qui compte vraiment chez les hommes, l'objectif n'est jamais de réduire une personne à une liste de qualités, mais de dégager ce qui, statistiquement, distingue une relation qui traverse le temps d'une relation qui s'essouffle.
 
 ### La gentillesse, encore et toujours en tête
 
@@ -2346,7 +2346,7 @@ Un résultat complémentaire éclaire ce que recherchent spécifiquement les hom
 
 ### Ce que ça change concrètement
 
-Ce chapitre confirme, une fois de plus, un résultat qui traverse presque tout ce guide : ce qui compte vraiment, dans la durée, n'a que peu à voir avec les représentations les plus visibles et les plus commentées du désir masculin. La gentillesse, l'intelligence, la capacité à soutenir et à être soutenu, l'humour qui s'installe dans le quotidien plutôt que celui qui impressionne au premier rendez-vous — ce sont des qualités stables, observables, et surtout construites dans le temps plutôt que données d'emblée. Savoir cela change la façon d'aborder une relation : moins comme une vitrine à soigner, davantage comme un lien à construire avec ce qui, d'après toutes les données disponibles, compte réellement — et cette construction, contrairement à un physique ou un statut social, reste entièrement à la portée de chacun, indépendamment du point de départ — à condition de la nourrir dans la durée plutôt que de la présumer acquise dès la rencontre.
+Ce chapitre confirme, une fois de plus, un résultat qui traverse presque tout ce guide : ce qui compte vraiment, dans la durée, n'a que peu à voir avec les représentations les plus visibles et les plus commentées du désir masculin. La gentillesse, l'intelligence, la capacité à soutenir et à être soutenu, l'humour qui s'installe dans le quotidien plutôt que celui qui impressionne au premier rendez-vous — ce sont des qualités stables, observables, et surtout construites dans le temps plutôt que données d'emblée. Savoir cela change la façon d'aborder une relation : moins comme une vitrine à soigner, davantage comme un lien à construire avec ce qui, d'après toutes les données disponibles, compte réellement — et cette construction, contrairement à un physique ou un statut social, reste entièrement à la portée de chacun, indépendamment du point de départ — à condition de la nourrir dans la durée plutôt que de la présumer acquise dès la rencontre, jour après jour, bien après que la phase de séduction initiale s'est estompée.
 
 ## Sources vérifiables
 
@@ -2370,7 +2370,7 @@ Ce chapitre fait le miroir direct de celui déjà écrit côté féminin dans ce
 
 ### Tomber amoureux plus vite, aimer autrement
 
-Ce chapitre s'appuie, comme celui déjà écrit côté féminin, sur un principe simple qui mérite d'être posé avant d'entrer dans le détail : ce que la recherche décrit ici sont des tendances statistiques observées à grande échelle, pas une règle qui s'appliquerait à chaque homme de façon uniforme. Elles donnent un cadre de lecture utile, jamais une prédiction individuelle figée.
+Ce chapitre s'appuie, comme celui déjà écrit côté féminin, sur un principe simple qui mérite d'être posé avant d'entrer dans le détail : ce que la recherche décrit ici sont des tendances statistiques observées à grande échelle, pas une règle qui s'appliquerait à chaque homme de façon uniforme. Elles donnent un cadre de lecture utile, jamais une prédiction individuelle figée — un homme donné peut très bien s'exprimer de façon plus verbale que la moyenne décrite ici, sans que cela remette en cause la validité générale du résultat.
 
 [Une étude portant sur 808 jeunes adultes dans 33 pays d'Europe, d'Amérique du Nord et d'Afrique du Sud — la première à comparer aussi largement l'expérience de l'amour romantique entre hommes et femmes — a montré que les hommes tombent amoureux en moyenne un mois plus tôt que les femmes](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows), tandis que [les femmes vivent l'amour romantique avec une intensité légèrement supérieure et pensent plus souvent à la personne aimée](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows) — dans 54 % de leurs heures éveillées contre 44 % chez les hommes.
 
@@ -2387,6 +2387,8 @@ Perception générale : un homme qui propose une solution plutôt que d'écouter
 Dans sa tête à lui : proposer une solution est souvent, pour lui, la façon la plus directe et la plus sincère de dire « ça me touche, et je veux que ça aille mieux pour toi » — un langage d'action plutôt qu'un langage de mots, pas un manque d'attention.
 
 ### Ce que le corps montre, avant même les mots
+
+Avant d'entrer dans le détail des signaux observables, il faut rappeler pourquoi ils comptent autant : dans une culture qui valorise encore la déclaration verbale comme preuve ultime d'un sentiment, ces signaux corporels et comportementaux constituent une source d'information tout aussi fiable, simplement moins spectaculaire et plus facile à manquer si l'on ne sait pas les chercher.
 
 Des indicateurs comportementaux précis et documentés permettent de repérer un investissement amoureux masculin, souvent avant que les mots ne suivent. [Un contact visuel accru, un langage corporel qui se met à refléter celui de l'autre, et une hausse notable des actes de service comptent parmi les indicateurs précoces les plus fiables identifiés par la recherche en communication relationnelle](https://mentalzon.com/en/post/3179/the-power-of-acts-of-service-showing-love-through-actions). Ces signaux, souvent lus après coup plutôt qu'au moment où ils apparaissent, méritent d'être connus pour ce qu'ils sont : une forme d'expression aussi fiable qu'une déclaration verbale, simplement moins spectaculaire.
 
@@ -2421,7 +2423,7 @@ Pour un homme dont l'expression de l'amour passe surtout par l'action plutôt qu
 
 ### Ce qui rejoint ce qui compte vraiment dans la durée
 
-Ce chapitre rejoint directement ce qui a déjà été établi dans ce guide sur ce qui compte vraiment chez les hommes et chez les femmes : la fiabilité démontrée par les actes, la présence répétée dans le temps, la protection au sens large plutôt que la seule déclaration. L'expression masculine de l'amour n'est donc pas une version incomplète ou moins riche de l'expression féminine — c'est une grammaire différente, tout aussi capable de porter un attachement profond, à condition d'apprendre à la lire pour ce qu'elle est plutôt que de la comparer à un modèle qui n'est pas le sien — et à condition, des deux côtés, de continuer à nommer ce que ces gestes signifient, pour qu'ils ne restent jamais silencieux au point de devenir invisibles.
+Ce chapitre rejoint directement ce qui a déjà été établi dans ce guide sur ce qui compte vraiment chez les hommes et chez les femmes : la fiabilité démontrée par les actes, la présence répétée dans le temps, la protection au sens large plutôt que la seule déclaration. L'expression masculine de l'amour n'est donc pas une version incomplète ou moins riche de l'expression féminine — c'est une grammaire différente, tout aussi capable de porter un attachement profond, à condition d'apprendre à la lire pour ce qu'elle est plutôt que de la comparer à un modèle qui n'est pas le sien — et à condition, des deux côtés, de continuer à nommer ce que ces gestes signifient, pour qu'ils ne restent jamais silencieux au point de devenir invisibles à ceux-là mêmes qui en bénéficient chaque jour sans toujours les remarquer.
 
 ## Sources vérifiables
 
@@ -2439,15 +2441,19 @@ Ce chapitre rejoint directement ce qui a déjà été établi dans ce guide sur 
 
 ## 30. Comment sont-ils vus et existent-ils dans la famille
 
-Ce chapitre fait le miroir de celui déjà écrit côté féminin dans ce projet, en explorant cette fois comment un homme est perçu et existe concrètement au sein de sa famille — un rôle en pleine mutation, souvent tiraillé entre une image ancienne et une réalité vécue déjà bien différente.
+Ce chapitre fait le miroir de celui déjà écrit côté féminin dans ce projet, en explorant cette fois comment un homme est perçu et existe concrètement au sein de sa famille — un rôle en pleine mutation, souvent tiraillé entre une image ancienne et une réalité vécue déjà bien différente. Comme pour le chapitre équivalent côté féminin, la question posée n'est pas seulement ce qu'un homme fait dans sa famille, mais ce que cette famille voit et reconnaît réellement de lui.
 
 ### Une identité paternelle en pleine transformation, mais pas encore stabilisée
+
+Ce décalage entre l'image collective et le vécu concret n'est pas propre aux hommes de ce projet : il traverse la plupart des sociétés occidentales contemporaines, à des rythmes différents selon les contextes culturels et générationnels.
 
 [La paternité est un projet identitaire, entremêlé au processus par lequel un homme comprend qui il est dans la société — pourtant, les pères continuent de faire face à des stéréotypes qui les présentent comme émotionnellement distants et uniquement responsables du soutien financier](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1672384/full). [À l'échelle mondiale, les perceptions d'une paternité idéale s'élargissent au-delà du seul rôle de pourvoyeur pour valoriser aussi l'engagement des hommes dans le soin et le nourrissage affectif de leurs enfants](https://pmc.ncbi.nlm.nih.gov/articles/PMC11238964/), et [le rôle des pères s'est étendu au-delà du soutien financier pour inclure le soutien émotionnel, le partage des responsabilités domestiques, et une implication active dans le développement de l'enfant](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1672384/full).
 
 Ce changement a des effets mesurés et positifs sur les enfants eux-mêmes : [des études mettent en évidence l'impact positif de pères impliqués sur la réussite scolaire, les compétences sociales et la stabilité émotionnelle des enfants](https://funtimesmagazine.com/dads-can-be-nurturing-too-debunking-stereotypes-about-fatherhood-in-the-modern-family/). Mais ce changement reste inachevé et inégal : [alors que les comportements de soin des pères augmentent, la plupart des activités de garde d'enfant restent très majoritairement assurées par les mères](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1672384/full) — un homme peut donc aujourd'hui vouloir sincèrement s'impliquer davantage sans que cette volonté se traduise nécessairement, dans les faits, par un partage équilibré.
 
 ### Le mécanisme qui freine, souvent sans que personne ne le nomme
+
+Ce mécanisme ne se limite pas à un simple manque de volonté d'un côté ou de l'autre — c'est un engrenage qui s'installe progressivement, souvent sans qu'aucun des deux parents n'en ait pleinement conscience au moment où il commence.
 
 Un mécanisme précis explique une partie de cet écart entre l'aspiration et la réalité, et il mérite d'être nommé sans accusation, parce qu'il implique les deux parents plutôt qu'un seul. [Le contrôle maternel de l'accès du père — dit « gatekeeping maternel » — désigne les préférences et les efforts d'une mère pour contrôler le rôle du père dans les tâches domestiques et la garde des enfants](https://www.researchgate.net/publication/270206190_Maternal_Gatekeeping_Mothers'_Beliefs_and_Behaviors_That_Inhibit_Greater_Father_Involvement_in_Family_Work). [Ce mécanisme se répartit sur un spectre allant des comportements qui freinent l'implication paternelle à ceux qui la soutiennent activement](https://link.springer.com/article/10.1007/s11199-025-01565-7), et [un gatekeeping plus fermé est associé à une moindre implication du père dans les soins aux enfants, à une relation père-enfant de moins bonne qualité, et à une insatisfaction dans la relation de couple](https://link.springer.com/article/10.1007/s11199-025-01565-7).
 
@@ -2490,7 +2496,7 @@ Le problème documenté n'est pas le plaisir partagé en lui-même, mais son rem
 
 Ce chapitre a délibérément parcouru plusieurs âges et plusieurs configurations de la place d'un homme dans sa famille — le père jeune tiraillé entre une aspiration nouvelle et une organisation ancienne, l'homme adulte qui porte encore la trace de sa propre relation à son père, le père séparé qui doit réapprendre à habiter une relation transformée par la distance. Le fil qui les relie tous est le même : la place d'un homme dans sa famille ne se limite jamais à un rôle économique ou à une fonction protectrice au sens le plus étroit — elle se construit, se transmet et se répare, à chaque génération, dans des gestes concrets bien plus que dans des déclarations d'intention.
 
-Ce mouvement reste réel, mais encore loin d'être stabilisé : l'image du père uniquement pourvoyeur recule dans les représentations collectives sans avoir totalement disparu dans les pratiques concrètes du quotidien. Ce décalage n'est ni la faute des pères ni celle des mères prises isolément — c'est un système familial hérité, en cours de renégociation, qui se transforme d'autant plus vite que les deux parents nomment ensemble ce qui doit changer, plutôt que de laisser d'anciens réflexes décider à leur place.
+Ce mouvement reste réel, mais encore loin d'être stabilisé : l'image du père uniquement pourvoyeur recule dans les représentations collectives sans avoir totalement disparu dans les pratiques concrètes du quotidien. Ce décalage n'est ni la faute des pères ni celle des mères prises isolément — c'est un système familial hérité, en cours de renégociation, qui se transforme d'autant plus vite que les deux parents nomment ensemble ce qui doit changer, plutôt que de laisser d'anciens réflexes décider à leur place — pour que la place d'un père dans sa famille se construise enfin sur ce qu'il fait réellement, jour après jour, plutôt que sur ce qu'on continue, par habitude ancienne, à attendre ou à ne pas attendre de lui.
 
 ## Sources vérifiables
 
@@ -2511,15 +2517,19 @@ Ce mouvement reste réel, mais encore loin d'être stabilisé : l'image du père
 
 ## 31. Pères célibataires aujourd'hui
 
-Ce chapitre fait le miroir direct de celui déjà écrit côté féminin dans ce projet sur les mères célibataires — une réalité moins fréquente statistiquement, mais tout aussi réelle, et qui mérite d'être traitée avec la même rigueur plutôt que d'être traitée comme une simple note de bas de page du sujet plus large de la monoparentalité.
+Ce chapitre fait le miroir direct de celui déjà écrit côté féminin dans ce projet sur les mères célibataires — une réalité moins fréquente statistiquement, mais tout aussi réelle, et qui mérite d'être traitée avec la même rigueur plutôt que d'être traitée comme une simple note de bas de page du sujet plus large de la monoparentalité. Les données disponibles sur les pères célibataires restent moins abondantes que celles sur les mères célibataires — un déséquilibre documenté en lui-même, qui n'enlève rien à la réalité et à la légitimité de ce que vivent les pères concernés.
 
 ### Une réalité minoritaire, mais en croissance et trop peu documentée
+
+Cette rareté relative ne change rien à la légitimité de ce qui se vit concrètement : un père célibataire sur cinq environ, en France, mérite les mêmes réponses précises et le même sérieux qu'une mère célibataire sur cinq.
 
 [La France compte environ 2,4 millions de familles monoparentales, regroupant environ 6,2 millions de personnes, parents et enfants compris](https://www.mere-celibataire.fr/article/les-meres-celibataires-vs-les-peres-celibataires/). [Environ 82 % de ces familles sont dirigées par des mères, ce qui signifie qu'environ 18 % le sont par des pères célibataires](https://www.mere-celibataire.fr/article/les-meres-celibataires-vs-les-peres-celibataires/) — une proportion minoritaire, mais qui représente tout de même plusieurs centaines de milliers de familles en France. [Le nombre de pères célibataires augmente progressivement, reflet d'une évolution des mentalités et d'une implication croissante des pères dans la vie quotidienne de leurs enfants](https://www.mere-celibataire.fr/article/les-meres-celibataires-vs-les-peres-celibataires/), une tendance cohérente avec ce qui a déjà été établi dans ce guide sur la transformation en cours de l'identité paternelle.
 
 Un détail statistique mérite d'être noté : [la séparation reste la première cause de monoparentalité, dans 79 % des cas, et cette proportion est encore plus marquée chez les hommes (86 %) que chez les femmes (78 %)](https://www.mere-celibataire.fr/article/les-meres-celibataires-vs-les-peres-celibataires/) — la monoparentalité paternelle naît donc, plus souvent que la maternelle, d'une rupture de couple plutôt que d'un choix initial ou d'un veuvage.
 
 ### Un défi différent de celui des mères célibataires, pas moindre
+
+Comparer les deux situations n'a de sens que pour mieux comprendre chacune d'elles — jamais pour établir laquelle serait objectivement la plus difficile à vivre.
 
 Ce chapitre ne cherche pas à établir une hiérarchie entre les difficultés vécues par les mères et les pères célibataires — elles sont réelles des deux côtés, mais différentes dans leur nature. [Les mères célibataires font face à davantage de défis économiques, tandis que les pères célibataires rencontrent davantage de difficultés liées aux tâches de soin quotidien](https://www.researchgate.net/publication/359120723_Being_One_in_a_World_of_Twos_Experiences_and_Consequences_of_Single_Parenting) — un déséquilibre qui reflète directement la répartition traditionnelle des rôles parentaux, chacun devant apprendre, souvent dans l'urgence, ce qui n'était pas jusque-là sa responsabilité principale.
 
@@ -2573,7 +2583,7 @@ Ce chapitre a montré que ce qui protège le mieux un enfant n'est jamais le sac
 
 ### Ce que ça change concrètement
 
-Être père célibataire aujourd'hui reste une expérience minoritaire, statistiquement, mais réelle et croissante. Les défis qu'elle pose — la bascule vers des tâches de soin peu préparées, la stigmatisation encore présente, un réseau de soutien moins immédiatement disponible — sont différents de ceux des mères célibataires, pas moindres. Les nommer précisément, plutôt que de les laisser dans l'angle mort d'un sujet traité presque exclusivement au féminin, est la première étape pour que les pères concernés trouvent le soutien dont ils ont, très concrètement, besoin — et pour que leurs enfants grandissent avec un père présent, soutenu, et jamais seul à porter ce qu'il n'a pas à porter seul.
+Être père célibataire aujourd'hui reste une expérience minoritaire, statistiquement, mais réelle et croissante. Les défis qu'elle pose — la bascule vers des tâches de soin peu préparées, la stigmatisation encore présente, un réseau de soutien moins immédiatement disponible — sont différents de ceux des mères célibataires, pas moindres. Les nommer précisément, plutôt que de les laisser dans l'angle mort d'un sujet traité presque exclusivement au féminin, est la première étape pour que les pères concernés trouvent le soutien dont ils ont, très concrètement, besoin — et pour que leurs enfants grandissent avec un père présent, soutenu, et jamais seul à porter ce qu'il n'a, en réalité, jamais eu à porter entièrement seul.
 
 ## Sources vérifiables
 

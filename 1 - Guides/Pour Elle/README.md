@@ -2,9 +2,9 @@
 type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
-chapitres: 26
-mots: 42758
-verifie_le: 2026-08-10
+chapitres: 35
+mots: 61291
+verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
 
@@ -48,8 +48,17 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 24 | [La boîte à outils de couple](<24 - La boite a outils de couple.md>) | relation | 880 |
 | 25 | [Les limites : ce qui n'est pas à toi de porter](<25 - Les limites.md>) | relation | 987 |
 | 26 | [La santé sur vingt ans : ce qui compte et quand](<26 - La sante sur le long terme.md>) | prévention | 906 |
+| 27 | [Ce que les femmes attendent des femmes](<27 - Ce que les femmes attendent des femmes.md>) | relation | 2 002 |
+| 28 | [Ce que les femmes attendent des hommes](<28 - Ce que les femmes attendent des hommes.md>) | relation | 2 002 |
+| 29 | [Ce qui leur fait peur chez les femmes](<29 - Ce qui leur fait peur chez les femmes.md>) | relation | 2 177 |
+| 30 | [Ce qui leur fait peur chez les hommes](<30 - Ce qui leur fait peur chez les hommes.md>) | relation | 2 022 |
+| 31 | [Ce qui compte vraiment chez les femmes, en amitié et en amour](<31 - Ce qui compte vraiment chez les femmes.md>) | relation | 2 009 |
+| 32 | [Ce qui compte vraiment chez les hommes](<32 - Ce qui compte vraiment chez les hommes.md>) | relation | 2 004 |
+| 33 | [Comment expriment-elles leur amour](<33 - Comment expriment-elles leur amour.md>) | relation | 2 000 |
+| 34 | [Comment sont-elles vues et existent-elles dans la famille](<34 - Comment sont-elles vues et existent-elles dans la famille.md>) | relation | 2 021 |
+| 35 | [Mères célibataires aujourd'hui](<35 - Meres celibataires aujourd hui.md>) | relation | 2 120 |
 
-Total : 42 758 mots, 26 chapitres.
+Total : 61 291 mots, 35 chapitres.
 
 ## Le guide jumeau
 

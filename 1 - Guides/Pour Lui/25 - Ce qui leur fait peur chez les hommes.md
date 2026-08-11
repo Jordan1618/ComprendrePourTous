@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Ce qui leur fait peur chez les hommes
 
-Ce chapitre parle d'une peur rarement mise en mots, précisément parce que l'admettre semble contredire l'image que beaucoup d'hommes pensent devoir renvoyer. Elle mérite d'être posée sans détour, avec ce que la recherche en dit et ce qui permet de la traverser.
+Ce chapitre parle d'une peur rarement mise en mots, précisément parce que l'admettre semble contredire l'image que beaucoup d'hommes pensent devoir renvoyer. Elle mérite d'être posée sans détour, avec ce que la recherche en dit et ce qui permet de la traverser. Comme pour le chapitre équivalent côté féminin de ce projet, nommer une peur avec précision n'est jamais ce qui l'aggrave — c'est, la plupart du temps, ce qui commence à la désamorcer.
 
 ### La peur des autres hommes, nommée directement
 
@@ -63,7 +63,7 @@ Ce mécanisme explique une part de ce qui peut sembler, de l'extérieur, disprop
 
 ### Ce que ça change, en pratique
 
-Rien de ce qui est décrit dans ce chapitre n'est une fatalité biologique ou un trait de caractère figé. La peur des autres hommes, la peur de l'humiliation, la peur de ne pas être à la hauteur, la peur bien réelle de la violence physique — toutes ont une origine identifiable et, souvent, une réponse concrète : nommer, demander de l'aide, désamorcer avant que la pression ne s'accumule en silence jusqu'à un point de rupture. Le chiffre le plus important de ce chapitre n'est pas celui qui fait peur, c'est celui qui rassure : la vulnérabilité exprimée entre hommes, une fois testée, rapproche presque toujours plus qu'elle n'éloigne. Le connaître ne supprime pas la peur — mais ça change concrètement ce qu'il devient possible de faire avec elle, seul et avec les autres hommes qui, très probablement, la traversent aussi sans jamais oser le dire les premiers.
+Rien de ce qui est décrit dans ce chapitre n'est une fatalité biologique ou un trait de caractère figé. La peur des autres hommes, la peur de l'humiliation, la peur de ne pas être à la hauteur, la peur bien réelle de la violence physique — toutes ont une origine identifiable et, souvent, une réponse concrète : nommer, demander de l'aide, désamorcer avant que la pression ne s'accumule en silence jusqu'à un point de rupture. Le chiffre le plus important de ce chapitre n'est pas celui qui fait peur, c'est celui qui rassure : la vulnérabilité exprimée entre hommes, une fois testée, rapproche presque toujours plus qu'elle n'éloigne. Le connaître ne supprime pas la peur — mais ça change concrètement ce qu'il devient possible de faire avec elle, seul et avec les autres hommes qui, très probablement, la traversent aussi sans jamais oser le dire les premiers. Faire le premier pas, même maladroitement, reste souvent le geste qui compte le plus — pour soi, et pour l'autre homme qui, très probablement, n'attendait que ça pour oser en faire autant.
 
 ## Sources vérifiables
 

@@ -2,9 +2,9 @@
 type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
-chapitres: 22
-mots: 33954
-verifie_le: 2026-08-10
+chapitres: 31
+mots: 52057
+verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
 
@@ -44,8 +44,17 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 20 | [La santé sur vingt ans : ce qui compte et quand](<20 - La sante sur le long terme.md>) | prévention | 1 193 |
 | 21 | [Aide-mémoire](<21 - Aide-mémoire.md>) | repères | 949 |
 | 22 | [Sources vérifiables](<22 - Sources verifiables.md>) | repères | 1 352 |
+| 23 | [Ce que les hommes attendent des hommes](<23 - Ce que les hommes attendent des hommes.md>) | relation | 2 026 |
+| 24 | [Ce que les hommes attendent des femmes](<24 - Ce que les hommes attendent des femmes.md>) | relation | 2 007 |
+| 25 | [Ce qui leur fait peur chez les hommes](<25 - Ce qui leur fait peur chez les hommes.md>) | relation | 2 001 |
+| 26 | [Ce qui leur fait peur chez les femmes](<26 - Ce qui leur fait peur chez les femmes.md>) | relation | 2 002 |
+| 27 | [Ce qui compte vraiment chez les hommes](<27 - Ce qui compte vraiment chez les hommes.md>) | relation | 2 016 |
+| 28 | [Ce qui compte vraiment chez les femmes](<28 - Ce qui compte vraiment chez les femmes.md>) | relation | 2 022 |
+| 29 | [Comment expriment-ils leur amour](<29 - Comment expriment-ils leur amour.md>) | relation | 2 006 |
+| 30 | [Comment sont-ils vus et existent-ils dans la famille](<30 - Comment sont-ils vus et existent-ils dans la famille.md>) | relation | 2 022 |
+| 31 | [Pères célibataires aujourd'hui](<31 - Peres celibataires aujourd hui.md>) | relation | 2 008 |
 
-Total : 33 954 mots, 22 chapitres.
+Total : 52 064 mots, 31 chapitres.
 
 ## Le guide jumeau
 

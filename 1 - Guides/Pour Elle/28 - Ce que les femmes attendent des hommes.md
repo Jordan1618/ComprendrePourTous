@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Ce que les femmes attendent des hommes
 
-Ce chapitre part d'une bonne nouvelle, rarement mise en avant : ce qui prédit vraiment la satisfaction dans une relation n'est ni mystérieux ni hors de portée. Ce n'est pas une question de grands gestes ni de personnalité exceptionnelle. C'est une poignée de mécanismes concrets, documentés, et pour l'essentiel accessibles à n'importe qui de bonne volonté.
+Ce chapitre part d'une bonne nouvelle, rarement mise en avant : ce qui prédit vraiment la satisfaction dans une relation n'est ni mystérieux ni hors de portée. Ce n'est pas une question de grands gestes ni de personnalité exceptionnelle. C'est une poignée de mécanismes concrets, documentés, et pour l'essentiel accessibles à n'importe qui de bonne volonté — des mécanismes qui, une fois nommés, retirent une bonne partie du mystère et de l'anxiété entourant la question de ce qu'« il faudrait faire » pour qu'une relation dure.
 
 ### Ce qui compte le plus, avant tout le reste
 
@@ -48,7 +48,7 @@ Un besoin réel et documenté reste souvent confondu avec le désir sexuel, alor
 
 Un dernier facteur, peu discuté mais fortement documenté : [la transparence financière entre partenaires est associée à une satisfaction relationnelle plus élevée, et son absence peut avoir des effets dévastateurs sur le couple](https://www.psychologytoday.com/us/blog/your-emotions-and-money/202605/how-do-couples-really-deal-with-money-behind-the-scenes). [Les couples mariés disposant d'un compte d'épargne commun rapportent le taux de satisfaction conjugale le plus élevé (94 %), contre 82 % pour ceux qui ne disposent que de comptes personnels séparés](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/).
 
-Le coût de l'absence de transparence est documenté avec la même précision : [28 % des couples mariés admettent avoir caché un achat important ou une dette à leur conjoint, et 40 % mettraient fin à la relation en cas de malhonnêteté financière découverte](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/). Ce n'est donc pas un sujet secondaire relégué après l'amour ou la communication — c'est un facteur à part entière, aussi prédictif que les mécanismes émotionnels décrits plus haut, et trop souvent absent des conversations de couple avant qu'un problème ne survienne.
+Le coût de l'absence de transparence est documenté avec la même précision : [28 % des couples mariés admettent avoir caché un achat important ou une dette à leur conjoint, et 40 % mettraient fin à la relation en cas de malhonnêteté financière découverte](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/). Ce n'est donc pas un sujet secondaire relégué après l'amour ou la communication — c'est un facteur à part entière, aussi prédictif que les mécanismes émotionnels décrits plus haut, et trop souvent absent des conversations de couple avant qu'un problème ne survienne, alors qu'une conversation ouverte et régulière sur l'argent coûte, en réalité, beaucoup moins qu'une crise de confiance découverte après coup.
 
 ### Ce que ça change au quotidien, très concrètement
 
@@ -68,14 +68,16 @@ Trois attentes reviennent le plus souvent, au-delà de la théorie :
 
 C'est une période où les attentes se déplacent fortement, et où le décalage entre ce qui était vrai avant et ce qui devient vrai après peut surprendre les deux partenaires. [La satisfaction conjugale baisse davantage chez les femmes que chez les hommes après une naissance, et cette baisse est plus marquée chez les parents plus jeunes et dans les relations plus récentes](https://journals.sagepub.com/doi/10.1177/0192513X221113850). [Le soutien perçu du partenaire, pour les deux parents, tend à être élevé juste après la naissance puis à décliner régulièrement dans les mois qui suivent](https://pmc.ncbi.nlm.nih.gov/articles/PMC2838213/) — non pas parce que l'attachement diminue, mais parce que l'attention de chacun se redistribue vers l'enfant, souvent sans que personne ne le nomme explicitement.
 
-Ce n'est pas un signal d'alarme en soi : c'est un phénomène statistiquement attendu, documenté, qui touche la majorité des couples. Le savoir à l'avance change la façon de le traverser — voir le chapitre sur le désert relationnel féminin pour ce qui se joue spécifiquement du côté du réseau social pendant cette période.
+Ce n'est pas un signal d'alarme en soi : c'est un phénomène statistiquement attendu, documenté, qui touche la majorité des couples, quelle que soit la solidité de la relation avant l'arrivée de l'enfant. Le savoir à l'avance change la façon de le traverser — voir le chapitre sur le désert relationnel féminin pour ce qui se joue spécifiquement du côté du réseau social pendant cette période.
 
 **Bons réflexes pour cette période précise.**
 - Nommer explicitement la baisse de disponibilité mutuelle plutôt que de la laisser être interprétée comme un désintérêt.
 - Réserver, même brièvement, des moments qui ne tournent pas autour de l'enfant — leur rareté ne les rend pas moins nécessaires, au contraire.
-- Se rappeler mutuellement que ce creux est temporaire et documenté, pas le signe d'un problème de fond dans la relation.
+- Se rappeler mutuellement que ce creux est temporaire et documenté, pas le signe d'un problème de fond dans la relation qu'il faudrait remettre en question à la hâte.
 
 Si un point de ce chapitre inquiète plus qu'il ne rassure — l'impression de ne pas se reconnaître dans ces mécanismes, ou la peur qu'il soit trop tard pour les mettre en place — la bonne nouvelle scientifique reste la même : rien de tout ça n'est figé. La réactivité, l'écoute qui accepte l'influence, l'appréciation exprimée sont des pratiques, pas des traits de caractère. Elles se construisent à n'importe quel moment d'une relation, pas seulement au début.
+
+Ce qui rend ce chapitre utile n'est donc pas de dresser un portrait figé de ce qu'attendrait « la femme » en général, mais de donner un jeu d'outils concrets et vérifiés : la réactivité perçue, l'acceptation de l'influence, la reconnaissance de l'amitié conjugale comme socle, le contact physique non sexuel, la transparence financière. Aucun de ces leviers ne demande un changement de personnalité — seulement une attention régulière et volontaire, dans les petites choses répétées bien plus que dans les grandes déclarations occasionnelles, portée dans la durée plutôt que déployée ponctuellement au moment où la relation semble vaciller.
 
 ## Sources vérifiables
 

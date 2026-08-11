@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Ce qui compte vraiment chez les femmes
 
-Après les attentes concrètes du quotidien déjà traitées dans ce guide, ce chapitre va chercher ce qui, chez une femme, est le plus souvent identifié par la recherche comme fondement d'une relation qui dure — au-delà des critères superficiels ou changeants.
+Après les attentes concrètes du quotidien déjà traitées dans ce guide, ce chapitre va chercher ce qui, chez une femme, est le plus souvent identifié par la recherche comme fondement d'une relation qui dure — au-delà des critères superficiels ou changeants. Comme pour le chapitre équivalent déjà écrit côté féminin sur ce qui compte vraiment chez les hommes, l'objectif n'est jamais de réduire une personne à une liste de qualités, mais de dégager ce qui, statistiquement, distingue une relation qui traverse le temps d'une relation qui s'essouffle.
 
 ### La gentillesse, encore et toujours en tête
 
@@ -60,7 +60,7 @@ Un résultat complémentaire éclaire ce que recherchent spécifiquement les hom
 
 ### Ce que ça change concrètement
 
-Ce chapitre confirme, une fois de plus, un résultat qui traverse presque tout ce guide : ce qui compte vraiment, dans la durée, n'a que peu à voir avec les représentations les plus visibles et les plus commentées du désir masculin. La gentillesse, l'intelligence, la capacité à soutenir et à être soutenu, l'humour qui s'installe dans le quotidien plutôt que celui qui impressionne au premier rendez-vous — ce sont des qualités stables, observables, et surtout construites dans le temps plutôt que données d'emblée. Savoir cela change la façon d'aborder une relation : moins comme une vitrine à soigner, davantage comme un lien à construire avec ce qui, d'après toutes les données disponibles, compte réellement — et cette construction, contrairement à un physique ou un statut social, reste entièrement à la portée de chacun, indépendamment du point de départ — à condition de la nourrir dans la durée plutôt que de la présumer acquise dès la rencontre.
+Ce chapitre confirme, une fois de plus, un résultat qui traverse presque tout ce guide : ce qui compte vraiment, dans la durée, n'a que peu à voir avec les représentations les plus visibles et les plus commentées du désir masculin. La gentillesse, l'intelligence, la capacité à soutenir et à être soutenu, l'humour qui s'installe dans le quotidien plutôt que celui qui impressionne au premier rendez-vous — ce sont des qualités stables, observables, et surtout construites dans le temps plutôt que données d'emblée. Savoir cela change la façon d'aborder une relation : moins comme une vitrine à soigner, davantage comme un lien à construire avec ce qui, d'après toutes les données disponibles, compte réellement — et cette construction, contrairement à un physique ou un statut social, reste entièrement à la portée de chacun, indépendamment du point de départ — à condition de la nourrir dans la durée plutôt que de la présumer acquise dès la rencontre, jour après jour, bien après que la phase de séduction initiale s'est estompée.
 
 ## Sources vérifiables
 

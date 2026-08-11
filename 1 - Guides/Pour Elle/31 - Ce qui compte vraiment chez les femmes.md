@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Ce qui compte vraiment chez les femmes, en amitié et en amour
 
-Ce chapitre se distingue du premier de cette série : là où « ce que les femmes attendent des femmes » décrivait les attentes concrètes du quotidien, celui-ci va chercher ce qui, au fond, fait la différence entre une relation qui tient et une relation qui s'effrite — en amitié comme en amour.
+Ce chapitre se distingue du premier de cette série : là où « ce que les femmes attendent des femmes » décrivait les attentes concrètes du quotidien, celui-ci va chercher ce qui, au fond, fait la différence entre une relation qui tient et une relation qui s'effrite — en amitié comme en amour, à travers les grandes étapes d'une vie.
 
 ### La confiance, avant tout le reste
 
@@ -42,6 +42,12 @@ Ce n'est donc pas une coïncidence si une femme entourée d'amitiés solides et 
 
 [Une enquête du Pew Research Center a montré que 64 % des femmes considèrent le partage des mêmes valeurs comme plus important que l'attirance physique dans le choix d'un partenaire](https://shebudgets.com/lifestyle/relationships/what-women-value-most-in-men-at-every-stage-of-life-according-to-research/). Ce chiffre va dans les deux sens : il dit autant ce que les femmes recherchent que ce qui, chez elles, est statistiquement le plus déterminant à long terme — la gentillesse et des valeurs partagées comptent plus, dans la durée, que ce qui se voit au premier regard.
 
+### Transmettre plutôt qu'accumuler : ce qui compte au milieu de la vie
+
+Un terrain souvent absent des guides relationnels mérite d'être exploré ici : ce qui compte vraiment chez une femme au milieu de sa vie, une période où les priorités relationnelles se déplacent sans que ce déplacement soit toujours nommé. [Chez les femmes, c'est le capital social — les relations et réseaux entretenus — qui joue un rôle central dans la générativité et, par ce biais, dans une meilleure santé, à la différence des hommes chez qui c'est davantage le capital humain (compétences, expérience) qui joue ce rôle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9099985/). [Les femmes plus généreuses dans ce sens rapportent une plus grande satisfaction dans leur mariage et leur rôle de mère](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9099985/), et [le mentorat intergénérationnel répond directement à ce besoin de générativité au milieu de la vie, en offrant un moyen concret d'exprimer cette préoccupation pour la génération suivante](https://www.researchgate.net/publication/279418146_Generativity_in_Midlife_and_Young_Adults_Links_to_Agency_Communion_and_Subjective_Well-Being).
+
+Ce résultat éclaire d'un jour nouveau ce qui a déjà été établi plus haut sur la réciprocité comme matière première de l'amitié féminine : au milieu de la vie, cette réciprocité prend souvent une forme intergénérationnelle — transmettre à une plus jeune, guider, ouvrir des portes — plutôt que seulement horizontale entre pairs. Ce n'est pas un supplément d'altruisme, c'est, d'après cette recherche, l'un des mécanismes qui compte le plus pour la satisfaction et la santé d'une femme à cette période précise de sa vie.
+
 ### Ce que sa perte révèle sur son importance réelle
 
 La meilleure preuve de ce que vaut une amitié féminine est peut-être ce que sa rupture provoque. [Une rupture amicale est souvent aussi douloureuse, voire plus, qu'une rupture amoureuse — les amitiés féminines activent des mécanismes d'attachement profonds, comparables ou supérieurs à ceux de l'attachement romantique](https://ahead-app.com/blog/heartbreak/why-female-friendship-breakups-hurt-more-than-romantic-ones). [Les amitiés impliquent souvent des liens plus longs et plus stables que beaucoup de relations amoureuses, construits sur des années d'expérience partagée, et intimement liés à l'identité — quand le lien se rompt, ça peut se vivre comme la perte de plus qu'une personne](https://ahead-app.com/blog/heartbreak/why-female-friendship-breakups-hurt-more-than-romantic-ones).
@@ -52,10 +58,16 @@ Un mécanisme précis explique pourquoi cette douleur est si peu reconnue social
 
 Connaître ce mécanisme a une vraie utilité : il autorise à prendre au sérieux la douleur d'une amitié perdue, sans avoir à la justifier ou à la minimiser parce que « ce n'était qu'une amie ». Ce n'est jamais « qu'une amie » — c'est exactement le sujet de ce chapitre depuis le début.
 
+### Combien d'amitiés comptent vraiment
+
+Face à la pression sociale d'afficher un large cercle amical, une réponse chiffrée mérite d'être connue. [Trois à cinq amitiés proches constituent le point idéal pour le bonheur et la satisfaction de vie en général, avec un optimum plus précis situé autour de quatre pour réduire la solitude, deux pour réduire la dépression, trois pour réduire l'anxiété, et deux pour réduire le stress](https://www.thetreetop.com/statistics/how-many-friends-you-need-statistics/). [Un effet non linéaire existe : un nombre très élevé d'amitiés proches, autour de quinze ou plus, est en réalité associé à une moins bonne santé mentale](https://www.socialconnectionguidelines.org/en/evidence-briefs/how-many-friends-do-you-need) — la quantité, passé un certain seuil, cesse d'être un atout et devient même un fardeau.
+
+Ce résultat rejoint directement ce qui a déjà été établi dans ce chapitre sur la réciprocité comme fondation : ce n'est jamais l'étendue du réseau qui protège, mais la profondeur et la fiabilité d'un petit nombre de liens. [Beaucoup de femmes forment des amitiés étroites et intenses avec une ou deux autres femmes, et ce qui compte est la qualité et la profondeur de l'intimité présente dans ces relations](https://thewell.northwell.edu/womens-health/importance-of-female-friendships), pas le nombre affiché sur un réseau social ou évoqué en société.
+
 **Bons réflexes.**
 - Investir dans la fiabilité des petites choses plutôt que dans les grands gestes ponctuels — c'est ce qui construit la confiance mesurée comme la plus déterminante.
 - Ne jamais sous-estimer la valeur d'une amitié réciproque et fiable : elle a un effet mesurable sur la santé, pas seulement sur le moral.
-- Se rappeler que ce qui fait une relation de qualité — confiance, réciprocité, sécurité émotionnelle — est le même socle en amitié et en amour, ce qui veut dire qu'on peut s'appuyer sur ses amitiés les plus solides pour comprendre ce qui, chez soi, fonctionne déjà très bien en amour.
+- Se rappeler que ce qui fait une relation de qualité — confiance, réciprocité, sécurité émotionnelle — est le même socle en amitié et en amour, ce qui veut dire qu'on peut s'appuyer sur ses amitiés les plus solides pour comprendre ce qui, chez soi, fonctionne déjà très bien en amour, à n'importe quel âge et à n'importe quelle étape de la vie.
 
 ## Sources vérifiables
 
@@ -68,3 +80,8 @@ Connaître ce mécanisme a une vraie utilité : il autorise à prendre au série
 - [Why Female Friendship Breakups Hurt More Than Romantic Ones](https://ahead-app.com/blog/heartbreak/why-female-friendship-breakups-hurt-more-than-romantic-ones) ; vérification du 11 août 2026.
 - [The Silent Heartbreak: Why Friendship Breakups Often Hurt More Than Romantic Ones](https://formalpsychology.com/friendship-breakups-psychology-of-loss/), Formal Psychology ; vérification du 11 août 2026.
 - [Early Attachment Patterns Influence How We Show Up For Our Adult Friendships](https://www.psychotherapysingapore.com/post/early-attachment-patterns-influence-how-we-show-up-for-our-adult-friendships) ; vérification du 11 août 2026.
+- [Generativity and Gendered Pathways to Health: The Role of Human, Social, and Financial Capital Past Mid-Life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9099985/), *PMC* ; vérification du 11 août 2026.
+- [Generativity in Midlife and Young Adults: Links to Agency, Communion, and Subjective Well-Being](https://www.researchgate.net/publication/279418146_Generativity_in_Midlife_and_Young_Adults_Links_to_Agency_Communion_and_Subjective_Well-Being) ; vérification du 11 août 2026.
+- [Statistics on How Many Friends You Need](https://www.thetreetop.com/statistics/how-many-friends-you-need-statistics/) ; vérification du 11 août 2026.
+- [Evidence Brief: How Many Friends Do You Need?](https://www.socialconnectionguidelines.org/en/evidence-briefs/how-many-friends-do-you-need), Social Connection Guidelines ; vérification du 11 août 2026.
+- [The Importance Of Female Friendships](https://thewell.northwell.edu/womens-health/importance-of-female-friendships), The Well by Northwell ; vérification du 11 août 2026.

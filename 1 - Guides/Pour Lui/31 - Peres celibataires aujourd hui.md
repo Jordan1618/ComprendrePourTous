@@ -10,15 +10,19 @@ licence: "CC BY 4.0"
 
 # Pères célibataires aujourd'hui
 
-Ce chapitre fait le miroir direct de celui déjà écrit côté féminin dans ce projet sur les mères célibataires — une réalité moins fréquente statistiquement, mais tout aussi réelle, et qui mérite d'être traitée avec la même rigueur plutôt que d'être traitée comme une simple note de bas de page du sujet plus large de la monoparentalité.
+Ce chapitre fait le miroir direct de celui déjà écrit côté féminin dans ce projet sur les mères célibataires — une réalité moins fréquente statistiquement, mais tout aussi réelle, et qui mérite d'être traitée avec la même rigueur plutôt que d'être traitée comme une simple note de bas de page du sujet plus large de la monoparentalité. Les données disponibles sur les pères célibataires restent moins abondantes que celles sur les mères célibataires — un déséquilibre documenté en lui-même, qui n'enlève rien à la réalité et à la légitimité de ce que vivent les pères concernés.
 
 ### Une réalité minoritaire, mais en croissance et trop peu documentée
+
+Cette rareté relative ne change rien à la légitimité de ce qui se vit concrètement : un père célibataire sur cinq environ, en France, mérite les mêmes réponses précises et le même sérieux qu'une mère célibataire sur cinq.
 
 [La France compte environ 2,4 millions de familles monoparentales, regroupant environ 6,2 millions de personnes, parents et enfants compris](https://www.mere-celibataire.fr/article/les-meres-celibataires-vs-les-peres-celibataires/). [Environ 82 % de ces familles sont dirigées par des mères, ce qui signifie qu'environ 18 % le sont par des pères célibataires](https://www.mere-celibataire.fr/article/les-meres-celibataires-vs-les-peres-celibataires/) — une proportion minoritaire, mais qui représente tout de même plusieurs centaines de milliers de familles en France. [Le nombre de pères célibataires augmente progressivement, reflet d'une évolution des mentalités et d'une implication croissante des pères dans la vie quotidienne de leurs enfants](https://www.mere-celibataire.fr/article/les-meres-celibataires-vs-les-peres-celibataires/), une tendance cohérente avec ce qui a déjà été établi dans ce guide sur la transformation en cours de l'identité paternelle.
 
 Un détail statistique mérite d'être noté : [la séparation reste la première cause de monoparentalité, dans 79 % des cas, et cette proportion est encore plus marquée chez les hommes (86 %) que chez les femmes (78 %)](https://www.mere-celibataire.fr/article/les-meres-celibataires-vs-les-peres-celibataires/) — la monoparentalité paternelle naît donc, plus souvent que la maternelle, d'une rupture de couple plutôt que d'un choix initial ou d'un veuvage.
 
 ### Un défi différent de celui des mères célibataires, pas moindre
+
+Comparer les deux situations n'a de sens que pour mieux comprendre chacune d'elles — jamais pour établir laquelle serait objectivement la plus difficile à vivre.
 
 Ce chapitre ne cherche pas à établir une hiérarchie entre les difficultés vécues par les mères et les pères célibataires — elles sont réelles des deux côtés, mais différentes dans leur nature. [Les mères célibataires font face à davantage de défis économiques, tandis que les pères célibataires rencontrent davantage de difficultés liées aux tâches de soin quotidien](https://www.researchgate.net/publication/359120723_Being_One_in_a_World_of_Twos_Experiences_and_Consequences_of_Single_Parenting) — un déséquilibre qui reflète directement la répartition traditionnelle des rôles parentaux, chacun devant apprendre, souvent dans l'urgence, ce qui n'était pas jusque-là sa responsabilité principale.
 
@@ -72,7 +76,7 @@ Ce chapitre a montré que ce qui protège le mieux un enfant n'est jamais le sac
 
 ### Ce que ça change concrètement
 
-Être père célibataire aujourd'hui reste une expérience minoritaire, statistiquement, mais réelle et croissante. Les défis qu'elle pose — la bascule vers des tâches de soin peu préparées, la stigmatisation encore présente, un réseau de soutien moins immédiatement disponible — sont différents de ceux des mères célibataires, pas moindres. Les nommer précisément, plutôt que de les laisser dans l'angle mort d'un sujet traité presque exclusivement au féminin, est la première étape pour que les pères concernés trouvent le soutien dont ils ont, très concrètement, besoin — et pour que leurs enfants grandissent avec un père présent, soutenu, et jamais seul à porter ce qu'il n'a pas à porter seul.
+Être père célibataire aujourd'hui reste une expérience minoritaire, statistiquement, mais réelle et croissante. Les défis qu'elle pose — la bascule vers des tâches de soin peu préparées, la stigmatisation encore présente, un réseau de soutien moins immédiatement disponible — sont différents de ceux des mères célibataires, pas moindres. Les nommer précisément, plutôt que de les laisser dans l'angle mort d'un sujet traité presque exclusivement au féminin, est la première étape pour que les pères concernés trouvent le soutien dont ils ont, très concrètement, besoin — et pour que leurs enfants grandissent avec un père présent, soutenu, et jamais seul à porter ce qu'il n'a, en réalité, jamais eu à porter entièrement seul.
 
 ## Sources vérifiables
 

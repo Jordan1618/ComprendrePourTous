@@ -14,7 +14,7 @@ Ce chapitre fait le miroir direct de celui déjà écrit côté féminin dans ce
 
 ### Tomber amoureux plus vite, aimer autrement
 
-Ce chapitre s'appuie, comme celui déjà écrit côté féminin, sur un principe simple qui mérite d'être posé avant d'entrer dans le détail : ce que la recherche décrit ici sont des tendances statistiques observées à grande échelle, pas une règle qui s'appliquerait à chaque homme de façon uniforme. Elles donnent un cadre de lecture utile, jamais une prédiction individuelle figée.
+Ce chapitre s'appuie, comme celui déjà écrit côté féminin, sur un principe simple qui mérite d'être posé avant d'entrer dans le détail : ce que la recherche décrit ici sont des tendances statistiques observées à grande échelle, pas une règle qui s'appliquerait à chaque homme de façon uniforme. Elles donnent un cadre de lecture utile, jamais une prédiction individuelle figée — un homme donné peut très bien s'exprimer de façon plus verbale que la moyenne décrite ici, sans que cela remette en cause la validité générale du résultat.
 
 [Une étude portant sur 808 jeunes adultes dans 33 pays d'Europe, d'Amérique du Nord et d'Afrique du Sud — la première à comparer aussi largement l'expérience de l'amour romantique entre hommes et femmes — a montré que les hommes tombent amoureux en moyenne un mois plus tôt que les femmes](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows), tandis que [les femmes vivent l'amour romantique avec une intensité légèrement supérieure et pensent plus souvent à la personne aimée](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows) — dans 54 % de leurs heures éveillées contre 44 % chez les hommes.
 
@@ -31,6 +31,8 @@ Perception générale : un homme qui propose une solution plutôt que d'écouter
 Dans sa tête à lui : proposer une solution est souvent, pour lui, la façon la plus directe et la plus sincère de dire « ça me touche, et je veux que ça aille mieux pour toi » — un langage d'action plutôt qu'un langage de mots, pas un manque d'attention.
 
 ### Ce que le corps montre, avant même les mots
+
+Avant d'entrer dans le détail des signaux observables, il faut rappeler pourquoi ils comptent autant : dans une culture qui valorise encore la déclaration verbale comme preuve ultime d'un sentiment, ces signaux corporels et comportementaux constituent une source d'information tout aussi fiable, simplement moins spectaculaire et plus facile à manquer si l'on ne sait pas les chercher.
 
 Des indicateurs comportementaux précis et documentés permettent de repérer un investissement amoureux masculin, souvent avant que les mots ne suivent. [Un contact visuel accru, un langage corporel qui se met à refléter celui de l'autre, et une hausse notable des actes de service comptent parmi les indicateurs précoces les plus fiables identifiés par la recherche en communication relationnelle](https://mentalzon.com/en/post/3179/the-power-of-acts-of-service-showing-love-through-actions). Ces signaux, souvent lus après coup plutôt qu'au moment où ils apparaissent, méritent d'être connus pour ce qu'ils sont : une forme d'expression aussi fiable qu'une déclaration verbale, simplement moins spectaculaire.
 
@@ -65,7 +67,7 @@ Pour un homme dont l'expression de l'amour passe surtout par l'action plutôt qu
 
 ### Ce qui rejoint ce qui compte vraiment dans la durée
 
-Ce chapitre rejoint directement ce qui a déjà été établi dans ce guide sur ce qui compte vraiment chez les hommes et chez les femmes : la fiabilité démontrée par les actes, la présence répétée dans le temps, la protection au sens large plutôt que la seule déclaration. L'expression masculine de l'amour n'est donc pas une version incomplète ou moins riche de l'expression féminine — c'est une grammaire différente, tout aussi capable de porter un attachement profond, à condition d'apprendre à la lire pour ce qu'elle est plutôt que de la comparer à un modèle qui n'est pas le sien — et à condition, des deux côtés, de continuer à nommer ce que ces gestes signifient, pour qu'ils ne restent jamais silencieux au point de devenir invisibles.
+Ce chapitre rejoint directement ce qui a déjà été établi dans ce guide sur ce qui compte vraiment chez les hommes et chez les femmes : la fiabilité démontrée par les actes, la présence répétée dans le temps, la protection au sens large plutôt que la seule déclaration. L'expression masculine de l'amour n'est donc pas une version incomplète ou moins riche de l'expression féminine — c'est une grammaire différente, tout aussi capable de porter un attachement profond, à condition d'apprendre à la lire pour ce qu'elle est plutôt que de la comparer à un modèle qui n'est pas le sien — et à condition, des deux côtés, de continuer à nommer ce que ces gestes signifient, pour qu'ils ne restent jamais silencieux au point de devenir invisibles à ceux-là mêmes qui en bénéficient chaque jour sans toujours les remarquer.
 
 ## Sources vérifiables
 
