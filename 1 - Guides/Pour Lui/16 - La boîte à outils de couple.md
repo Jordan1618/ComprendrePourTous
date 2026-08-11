@@ -73,6 +73,19 @@ Un tableau de traduction complémentaire de celui du 4.8, orienté couple. À ma
 - **Il s'énerve quand tu l'aides.** Traduction probable : l'aide non demandée est reçue comme un constat d'incompétence.
 - **Il dit "fais comme tu veux" sur tout depuis un mois.** Traduction probable : épuisement décisionnel, souvent un signe précoce de 6.2. Ce décodage reprend la distinction entre émotion primaire et émotion secondaire de la thérapie centrée sur l'émotion (source : Greenberg & Paivio, *Working with Emotions in Psychotherapy*, Guilford Press, 1997 ; vérification du 7 août 2026).
 
+### 16.4 bis Le démarrage en douceur et les tentatives de réparation
+
+Deux outils supplémentaires, parmi les mieux documentés de toute la recherche sur les couples, méritent une place à part entière dans cette boîte à outils.
+
+[John Gottman a montré qu'il pouvait regarder trois minutes d'une conversation de couple filmée et prédire, avec 96 % de précision, si ce couple serait divorcé trois ans plus tard](https://empathi.com/blog/what-is-the-soft-startup/) — un résultat fondé sur un seul indicateur : la façon dont la conversation commence. [Un démarrage en douceur consiste à formuler une préoccupation sans déclencher immédiatement la défense du partenaire, l'antidote direct de la critique](https://naturalstatecounselingcenters.com/wp-content/uploads/2024/07/Gottman-Conflict-Softened-Startup-R-FRY.pdf) — remplacer « tu recommences encore » par « j'ai besoin qu'on reparle de X, tu as un moment ? » change presque tout dans la façon dont la suite se déroule.
+
+À l'intérieur même d'un conflit déjà engagé, un second mécanisme compte autant : [les tentatives de réparation sont de petits gestes ou de petits mots qui aident à désamorcer un conflit et à ramener le couple vers la connexion ; la capacité à réparer en plein milieu d'un conflit est l'un des plus forts prédicteurs de la longévité d'une relation](https://couplestherapyinc.com/gottman-repair-attempts/). [Les réparations faites tôt dans le conflit réussissent bien mieux que les réparations tardives, et les réparations émotionnelles courtes fonctionnent mieux que les réparations purement cognitives, longues et argumentatives](https://couplestherapyinc.com/gottman-repair-attempts/).
+
+**Bons réflexes.**
+- Formuler une préoccupation en énonçant un besoin plutôt qu'en ouvrant par un reproche — le contenu peut rester le même, l'accueil ne le sera pas.
+- Tenter une réparation dès les premiers signes de tension plutôt que d'attendre que la dispute soit installée.
+- Privilégier une réparation courte et émotionnelle (« on fait une pause, je reviens vers toi ») à une longue explication argumentée en plein pic de tension.
+
 ### 16.5 Ce que tu peux dire quand tu ne sais pas quoi dire
 
 Quatre phrases qui fonctionnent presque partout et qui ne coûtent rien :
@@ -83,3 +96,25 @@ Quatre phrases qui fonctionnent presque partout et qui ne coûtent rien :
 - "Ça ne change rien à ce que je pense de toi."
 
 La dernière est spécifiquement l'antidote de la honte, et c'est probablement la phrase la plus utile de tout ce guide. Elle vaut après une panne, après un licenciement, après un aveu difficile, après une erreur. Elle dit exactement ce que la honte prétend impossible. Ces formulations reprennent le même principe de communication non violente appliqué à un moment de blocage (source : Rosenberg, *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 ; vérification du 7 août 2026).
+
+### 16.5 bis La structure d'une excuse qui répare vraiment
+
+Un dernier outil, précis et directement actionnable, mérite de conclure ce chapitre. [Six éléments contribuent à l'efficacité d'une excuse, tous n'ayant pas le même poids : la reconnaissance de responsabilité — dire clairement que c'est sa faute et qu'une erreur a été commise — est l'élément le plus important, suivi d'une offre concrète de réparation](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/). [L'expression de regret et l'explication de ce qui s'est mal passé arrivent juste derrière, et l'élément le moins efficace de tous est, à l'inverse, la demande explicite de pardon](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/).
+
+Ce que ça donne, concrètement, à la place d'un « désolé » vague qui referme le sujet sans rien réparer : « j'ai eu tort de dire ça, je vois que ça t'a blessée, et la prochaine fois je vais faire différemment — voilà comment. » Une phrase courte, mais qui réunit à elle seule les trois éléments les plus déterminants identifiés par cette recherche.
+
+**Bons réflexes.**
+- Commencer toujours par la reconnaissance de responsabilité, avant toute explication ou justification qui pourrait diluer l'excuse.
+- Accompagner l'excuse d'un changement concret proposé, même modeste, plutôt que d'un simple regret sans suite pratique.
+- Éviter de terminer par une demande explicite de pardon — la recherche montre qu'elle affaiblit, plutôt qu'elle ne renforce, l'effet de l'excuse.
+
+## Sources vérifiables
+
+- Christensen, A. & Heavey, C. (1990), « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
+- Gottman, J. & Levenson, R. (1992), « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
+- Rosenberg, M. (2003), *Nonviolent Communication: A Language of Life*, PuddleDancer Press ; vérification du 7 août 2026.
+- Greenberg, L. & Paivio, S. (1997), *Working with Emotions in Psychotherapy*, Guilford Press ; vérification du 7 août 2026.
+- [What Is the Soft Startup?](https://empathi.com/blog/what-is-the-soft-startup/), Figs O'Sullivan Couples Therapy ; vérification du 11 août 2026.
+- [Gottman Conflict Resolution: Softened Startup](https://naturalstatecounselingcenters.com/wp-content/uploads/2024/07/Gottman-Conflict-Softened-Startup-R-FRY.pdf) ; vérification du 11 août 2026.
+- [Gottman Repair Attempts](https://couplestherapyinc.com/gottman-repair-attempts/), Couples Therapy Inc. ; vérification du 11 août 2026.
+- Lewicki, R. et coll. (2016), [The 6 elements of an effective apology, according to science](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/), Ohio State University ; vérification du 11 août 2026.
