@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 31
-mots: 54842
+mots: 55238
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -29,7 +29,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 5 | [Les grands profils masculins](<05 - Les grands profils masculins.md>) | psychologie | 3 271 |
 | 6 | [La dépression masculine : le visage qu'elle ne prend pas](<06 - La dépression masculine.md>) | psychologie | 1 907 |
 | 7 | [Anxiété, stress et corps : le circuit court](<07 - Anxiété, stress et corps.md>) | psychologie | 1 701 |
-| 8 | [Le corps masculin : ce qu'il est utile de savoir](<08 - Le corps masculin.md>) | physiologie | 1 360 |
+| 8 | [Le corps masculin : ce qu'il est utile de savoir](<08 - Le corps masculin.md>) | physiologie | 1 756 |
 | 9 | [La contraception masculine : ce qui existe vraiment](<09 - La contraception masculine.md>) | prévention | 1 188 |
 | 10 | [La sexualité masculine : anatomie, réponse, troubles](<10 - La sexualite masculine.md>) | physiologie | 1 317 |
 | 11 | [La sexualité comme langage émotionnel](<11 - La sexualité comme langage émotionnel.md>) | relation | 1 430 |
@@ -54,7 +54,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 30 | [Comment sont-ils vus et existent-ils dans la famille](<30 - Comment sont-ils vus et existent-ils dans la famille.md>) | relation | 2 022 |
 | 31 | [Pères célibataires aujourd'hui](<31 - Peres celibataires aujourd hui.md>) | relation | 2 008 |
 
-Total : 54 842 mots, 31 chapitres.
+Total : 55 238 mots, 31 chapitres.
 
 ## Le guide jumeau
 
