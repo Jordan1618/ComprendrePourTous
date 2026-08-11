@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 67623
+mots: 68263
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -1746,6 +1746,29 @@ Les leviers qui comptent avant la ménopause, pas après : les apports en calciu
 - Ne pas attendre une fracture pour s'informer sur la densité osseuse — la fenêtre utile pour agir se situe avant et pendant la périménopause, pas après.
 - Privilégier une activité physique en charge (marche, course, port de charges) plutôt qu'exclusivement des activités portées comme la natation ou le vélo.
 
+### 21.3 bis Le fer : la carence la plus fréquente et la plus banalisée
+
+Une carence nutritionnelle touche les femmes de façon disproportionnée, en lien direct avec un phénomène biologique rarement mis en relation avec elle : les menstruations. [En France, la carence en fer touche environ 25 % des femmes en âge de procréer, et jusqu'à 44 % des jeunes filles de 15 à 17 ans](https://nutritionpro.fr/en/blogs/infos/les-5-carences-les-plus-frequentes-en-france) — [1,6 % des hommes sont anémiés en France, contre 8,8 % des femmes](https://nutritionpro.fr/en/blogs/infos/les-5-carences-les-plus-frequentes-en-france), un écart de plus de cinq fois.
+
+Le lien avec le cycle menstruel n'est pas anecdotique, il est central : [80 % du poids global de l'anémie ferriprive sur l'ensemble de la population française est attribuable aux menstruations](https://nutritionpro.fr/en/blogs/infos/les-5-carences-les-plus-frequentes-en-france). [Les femmes perdent en moyenne 30 à 50 mg de fer par cycle menstruel, davantage en cas de règles abondantes, alors que les apports alimentaires typiques tournent autour de 10 à 12 mg par jour, avec une absorption réelle de seulement 10 à 15 %](https://nutritionpro.fr/en/blogs/infos/les-5-carences-les-plus-frequentes-en-france) — un bilan structurellement déficitaire pour de nombreuses femmes, mois après mois, sans qu'aucun événement isolé ne le signale.
+
+Les symptômes d'une carence en fer se recoupent largement avec ceux déjà cités pour la thyroïde plus haut dans ce chapitre — fatigue, essoufflement à l'effort, pâleur, chute de cheveux — ce qui explique pourquoi les deux causes méritent d'être recherchées ensemble plutôt que l'une après l'autre par élimination.
+
+**Bons réflexes.**
+- Demander un dosage de la ferritine, pas seulement de l'hémoglobine, devant une fatigue persistante — la ferritine détecte une carence en fer avant qu'elle ne devienne une anémie franche.
+- Signaler explicitement des règles abondantes à un médecin, un facteur de risque direct de carence en fer trop rarement relié à la fatigue qui l'accompagne.
+- Ne pas se supplémenter en fer sans dosage préalable — un excès de fer non justifié comporte aussi des risques, la supplémentation doit être guidée par un résultat biologique, pas par une simple présomption.
+
+### 21.3 ter Les maladies auto-immunes, un terrain massivement féminin
+
+Un dernier terrain mérite d'être connu pour son ampleur, largement sous-estimée dans les représentations courantes de la santé féminine. [Les maladies auto-immunes touchent environ 5 millions de personnes en France, et 4 patients sur 5 atteints sont des femmes](https://universpharmacie.fr/blog/article/maladies-auto-immunes-pourquoi-les-femmes-sont-elles-plus-touchees-.html). Ce déséquilibre varie fortement selon la pathologie concernée, avec des écarts parfois extrêmes : [le ratio est de 9 femmes pour 1 homme dans le lupus érythémateux systémique, et de 19 femmes pour 1 homme dans le syndrome de Sjögren](https://universpharmacie.fr/blog/article/maladies-auto-immunes-pourquoi-les-femmes-sont-elles-plus-touchees-.html). [La thyroïdite d'Hashimoto, déjà évoquée plus haut à propos de la thyroïde, survient dans 80 % des cas chez des femmes et touche 3 à 5 % d'entre elles](https://universpharmacie.fr/blog/article/maladies-auto-immunes-pourquoi-les-femmes-sont-elles-plus-touchees-.html).
+
+Cette surreprésentation féminine, dont les mécanismes exacts restent activement étudiés (rôle des hormones sexuelles, du chromosome X, de la réponse immunitaire elle-même plus réactive chez les femmes), mérite d'être connue avant tout pour une raison pratique : face à un ensemble de symptômes diffus et changeants — fatigue, douleurs articulaires migrantes, troubles digestifs, éruptions cutanées — qui ne rentrent dans aucune case précise, une origine auto-immune mérite d'être évoquée plus tôt chez une femme, précisément parce que la probabilité de base y est nettement plus élevée.
+
+**Bons réflexes.**
+- Face à des symptômes diffus, persistants et inexpliqués touchant plusieurs systèmes du corps à la fois, évoquer explicitement une piste auto-immune auprès d'un médecin plutôt que d'accepter un diagnostic fourre-tout de stress ou de fatigue chronique.
+- Savoir qu'un diagnostic auto-immun prend souvent du temps et plusieurs examens — la persistance dans la démarche diagnostique est ici particulièrement importante, ces maladies figurant parmi celles au délai de diagnostic le plus long.
+
 ### 21.4 Le trio qui abîme tout
 
 Les mêmes trois leviers reviennent, sous une forme légèrement différente de celle du guide miroir, parce que leurs effets ne sont pas identiques selon le sexe.
@@ -1766,6 +1789,8 @@ Dans sa tête à lui : « elle est fatiguée parce qu'elle en fait trop », une 
 - Fondation pour la Recherche Médicale, [focus ostéoporose](https://www.frm.org/fr/maladies/recherches-autres-maladies/osteoporose/focus-osteoporose) ; vérification du 10 août 2026.
 - Santé publique France, [BEH 2025-14](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_1.html) ; vérification du 10 août 2026.
 - Fédération Hospitalière de France / Ipsos, [enquête sur les biais de genre dans la prise en charge médicale](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la) ; vérification du 10 août 2026.
+- [Les 5 carences les plus fréquentes en France](https://nutritionpro.fr/en/blogs/infos/les-5-carences-les-plus-frequentes-en-france), Nutrition Pro ; vérification du 11 août 2026.
+- [Maladies auto-immunes : pourquoi les femmes sont-elles plus touchées ?](https://universpharmacie.fr/blog/article/maladies-auto-immunes-pourquoi-les-femmes-sont-elles-plus-touchees-.html), Univers Pharmacie ; vérification du 11 août 2026.
 
 ---
 
