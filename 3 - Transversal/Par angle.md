@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "angle"
-mis_a_jour_le: 2026-08-10
+mis_a_jour_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
 

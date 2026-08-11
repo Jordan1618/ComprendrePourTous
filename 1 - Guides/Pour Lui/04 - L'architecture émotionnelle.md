@@ -52,7 +52,7 @@ Concrètement : il apprend une mauvaise nouvelle, il réagit de façon très pla
 
 - Renonce au débriefing à chaud. La conversation utile sur un événement lourd se tient rarement le jour même. Repose la question 48 à 72 heures plus tard, sans annoncer que tu la reposes.
 - Quand une explosion disproportionnée arrive, remonte le fil au lieu de traiter le contenu. "Il s'est passé quoi cette semaine ?" est plus efficace que "ce n'est pas la chaussette le problème".
-- Ne prends pas la réaction plate du premier jour comme une donnée sur son attachement. Sur le moment, il gère la charge, il ne la ressent pas encore. Ce décalage entre réaction et prise de conscience correspond aux deux voies de traitement de la menace décrites par Joseph LeDoux (source : LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
+- Ne prends pas la réaction plate du premier jour comme une donnée sur son attachement. Sur le moment, il gère la charge, il ne la ressent pas encore. [Ce décalage entre réaction et prise de conscience correspond aux deux voies de traitement de la menace décrites par le neuroscientifique Joseph LeDoux](https://www.simonandschuster.com/books/The-Emotional-Brain/Joseph-Ledoux/9780684836591).
 
 ### 4.3 La colère comme émotion-parapluie
 
@@ -71,7 +71,7 @@ Un test simple : demande-toi ce qui, dans la situation, pourrait le faire se sen
 - Ne nomme jamais l'émotion cachée à sa place en pleine colère. "En fait tu as honte" est une phrase qui déclenche une escalade garantie, parce que tu viens de mettre le doigt exactement sur le point qu'il masque.
 - Traite l'intensité avant le contenu. "Là on est trop chauds tous les deux, on reprend dans vingt minutes" est plus efficace que n'importe quel argument.
 - Après le retour au calme, ouvre par le contexte, pas par l'émotion. "C'était quoi le pire moment de la journée ?" plutôt que "pourquoi tu as réagi comme ça ?".
-- Distingue absolument la colère de l'agressivité dirigée. Une colère qui monte, qui s'exprime fort, et qui redescend, c'est une émotion. Une colère qui vise, qui rabaisse, qui casse, qui fait peur, c'est autre chose, et le chapitre 10 en parle sans détour. La colère comme émotion secondaire recouvrant une émotion primaire plus vulnérable est un principe central des thérapies centrées sur l'émotion (source : Greenberg & Paivio, *Working with Emotions in Psychotherapy*, Guilford Press, 1997 ; vérification du 7 août 2026).
+- Distingue absolument la colère de l'agressivité dirigée. Une colère qui monte, qui s'exprime fort, et qui redescend, c'est une émotion. Une colère qui vise, qui rabaisse, qui casse, qui fait peur, c'est autre chose, et le chapitre 10 en parle sans détour. [La colère comme émotion secondaire recouvrant une émotion primaire plus vulnérable est un principe central des thérapies centrées sur l'émotion](https://www.abebooks.com/9781572302433/Working-Emotions-Psychotherapy-Greenberg-Leslie-1572302437/plp).
 
 ### 4.4 Honte et culpabilité : la tache et l'acte
 
@@ -90,7 +90,7 @@ Le signe qu'une remarque a touché la honte plutôt que la culpabilité : la ré
 - Sépare systématiquement le comportement de la personne. "Ce que tu as fait m'a blessée" et non "tu es quelqu'un qui blesse".
 - Sur les zones à vif connues (travail, argent, sexe), passe par la demande et jamais par le constat. "J'aimerais qu'on regarde le budget ensemble" plutôt que "tu ne gères pas".
 - Quand tu vois de la honte, ajoute explicitement la sortie. "Ça arrive à tout le monde, et ça ne change rien à ce que je pense de toi" n'est pas une politesse creuse, c'est la porte qu'il ne trouve pas seul.
-- Ne moque jamais, même gentiment, même devant des amis, sur une zone de honte. La blague publique sur un sujet sensible est ce qui abîme le plus durablement. La distinction entre honte, qui porte sur l'identité, et culpabilité, qui porte sur un acte, est développée dans les travaux de Brené Brown sur la vulnérabilité (source : Brown, *Daring Greatly*, Gotham Books, 2012 ; vérification du 7 août 2026).
+- Ne moque jamais, même gentiment, même devant des amis, sur une zone de honte. La blague publique sur un sujet sensible est ce qui abîme le plus durablement. [La distinction entre honte, qui porte sur l'identité, et culpabilité, qui porte sur un acte, est développée dans les travaux de la chercheuse Brené Brown sur la vulnérabilité](https://en.wikipedia.org/wiki/Daring_Greatly).
 
 ### 4.5 Le code viril et ses règles non écrites
 
@@ -109,7 +109,7 @@ Ces règles ne sont pas des opinions qu'il aurait choisies. Ce sont des réflexe
 
 - Nomme explicitement le mode que tu veux, avant de parler. "J'ai besoin que tu m'écoutes, pas que tu répares" prend trois secondes et évite trois quarts des disputes de ce type.
 - Valorise ce qu'il est, pas seulement ce qu'il fait. Un homme dont on ne complimente que les résultats devient un homme qui pense n'être aimé que pour ses résultats, et qui s'effondre quand les résultats baissent.
-- Rends la demande d'aide banale plutôt qu'héroïque. "Tu prends rendez-vous quand ?" est plus efficace que "tu devrais vraiment consulter", parce que la première présuppose que c'est normal. Les règles non écrites de la masculinité traditionnelle sont formalisées dans le cadre théorique de Ronald Levant (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+- Rends la demande d'aide banale plutôt qu'héroïque. "Tu prends rendez-vous quand ?" est plus efficace que "tu devrais vraiment consulter", parce que la première présuppose que c'est normal. [Les règles non écrites de la masculinité traditionnelle sont formalisées dans le cadre théorique de Ronald Levant](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7).
 
 ### 4.6 Le réservoir : pourquoi il déborde d'un coup
 
@@ -123,7 +123,7 @@ C'est exactement le mécanisme du burn-out masculin, et c'est aussi celui des ru
 
 - Installe une évacuation régulière et petite, plutôt qu'une grande conversation rare. Dix minutes tous les jours vaut mieux qu'une heure tous les deux mois.
 - Utilise un rituel à horaire fixe et sans enjeu, par exemple pendant la vaisselle ou en marchant. Le fait que ce soit systématique enlève le poids symbolique du "il faut qu'on parle".
-- Surveille les quatre indicateurs les plus fiables : sommeil, alcool, libido, humeur au réveil. Ce sont les jauges du réservoir. La suppression prolongée d'une émotion ne la fait pas disparaître, elle en maintient l'activation physiologique jusqu'à un débordement (source : Gross, « The emerging field of emotion regulation: an integrative review », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
+- Surveille les quatre indicateurs les plus fiables : sommeil, alcool, libido, humeur au réveil. Ce sont les jauges du réservoir. [La suppression prolongée d'une émotion ne la fait pas disparaître, elle en maintient l'activation physiologique jusqu'à un débordement](https://journals.sagepub.com/doi/abs/10.1037/1089-2680.2.3.271).
 
 ### 4.7 Côte à côte plutôt que face à face
 
@@ -142,7 +142,7 @@ C'est pour cette raison que les amitiés masculines se construisent autour d'act
 - Accepte les silences longs. Un silence de trente secondes dans ce format n'est pas un blocage, c'est le temps de traitement décrit en 4.2.
 - Ne préviens pas systématiquement à l'avance. "Il faut qu'on parle ce soir" laisse huit heures de montée d'anxiété qui vont fermer la porte avant même la conversation.
 
-Le guide "Questions et communication" (chapitre 6, "Le cadre") généralise cette observation au-delà du masculin : les bonnes fenêtres pour une question profonde, trajet en voiture, marche, tâche manuelle partagée, sont presque toujours des situations où on ne se regarde pas, quel que soit l'interlocuteur. Le mode d'échange côte à côte plutôt que face à face est documenté comme une caractéristique stable des amitiés masculines (source : Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
+Le guide "Questions et communication" (chapitre 6, "Le cadre") généralise cette observation au-delà du masculin : les bonnes fenêtres pour une question profonde, trajet en voiture, marche, tâche manuelle partagée, sont presque toujours des situations où on ne se regarde pas, quel que soit l'interlocuteur. [Le mode d'échange côte à côte plutôt que face à face est documenté comme une caractéristique stable des amitiés masculines, sans que ça les rende inférieures aux amitiés féminines plus fondées sur la parole](https://link.springer.com/article/10.1007/BF00287670).
 
 ### 4.8 Ce que "ça va" veut dire
 
@@ -153,4 +153,13 @@ Petit lexique de traduction, à prendre comme une aide et non comme une vérité
 - **"C'est rien."** Souvent : c'est quelque chose, mais je ne veux pas que ça devienne un sujet, parce que si ça devient un sujet je vais devoir en parler et je ne sais pas comment.
 - **"Je gère."** Dans la moitié des cas, il gère. Dans l'autre moitié, c'est la règle 3 du code viril qui parle.
 - **"Fais comme tu veux."** Rarement de l'indifférence. Souvent de l'épuisement décisionnel, ou une manière d'éviter un conflit qu'il ne se sent pas capable de tenir en ce moment.
-- **Le silence prolongé après une dispute.** Presque jamais de la punition, contrairement à ce qui est vécu en face. Le plus souvent une saturation physiologique réelle, décrite au chapitre 16.1. Ce laconisme est cohérent avec le concept d'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+- **Le silence prolongé après une dispute.** Presque jamais de la punition, contrairement à ce qui est vécu en face. Le plus souvent une saturation physiologique réelle, décrite au chapitre 16.1. [Ce laconisme est cohérent avec le concept d'alexithymie masculine normative](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7).
+
+## Sources vérifiables
+
+- LeDoux, J. (1996), [The Emotional Brain](https://www.simonandschuster.com/books/The-Emotional-Brain/Joseph-Ledoux/9780684836591), Simon & Schuster ; vérification du 11 août 2026.
+- Greenberg, L. & Paivio, S. (1997), [Working with Emotions in Psychotherapy](https://www.abebooks.com/9781572302433/Working-Emotions-Psychotherapy-Greenberg-Leslie-1572302437/plp), Guilford Press ; vérification du 11 août 2026.
+- Brown, B. (2012), [Daring Greatly](https://en.wikipedia.org/wiki/Daring_Greatly), Gotham Books ; vérification du 11 août 2026.
+- Levant, R. (1992), [Toward the reconstruction of masculinity](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7), *Journal of Family Psychology* ; vérification du 11 août 2026.
+- Gross, J. (1998), [The emerging field of emotion regulation: an integrative review](https://journals.sagepub.com/doi/abs/10.1037/1089-2680.2.3.271), *Review of General Psychology* ; vérification du 11 août 2026.
+- Wright, P. (1982), [Men's friendships, women's friendships and the alleged inferiority of the latter](https://link.springer.com/article/10.1007/BF00287670), *Sex Roles* ; vérification du 11 août 2026.

@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 **L'analogie.** Une fuite d'eau dans une maison. Le modèle classique, celui qu'on nous a appris à repérer, c'est la flaque au sol : visible, identifiable, on appelle le plombier. Mais une fuite peut aussi se manifester par une facture d'eau anormale, une tache d'humidité au plafond de l'étage du dessous, une odeur, un carrelage qui se décolle. Si tu ne cherches que la flaque, tu peux vivre trois ans au-dessus d'une fuite.
 
-La dépression masculine est très souvent une fuite sans flaque. Les critères diagnostiques standards mettent en avant la tristesse, les pleurs, le retrait, le ralentissement, la dévalorisation verbalisée. Chez beaucoup d'hommes, la dépression se présente en négatif de tout ça. Le moindre recours au diagnostic et aux soins chez les hommes dépressifs est documenté par une synthèse de la littérature clinique (source : Cochran & Rabinowitz, *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 ; vérification du 7 août 2026).
+La dépression masculine est très souvent une fuite sans flaque. Les critères diagnostiques standards mettent en avant la tristesse, les pleurs, le retrait, le ralentissement, la dévalorisation verbalisée. Chez beaucoup d'hommes, la dépression se présente en négatif de tout ça. [Le moindre recours au diagnostic et aux soins chez les hommes dépressifs est documenté par une synthèse de référence de la littérature clinique](https://www.sciencedirect.com/book/9780121775407/men-and-depression).
 
 ### 6.2 Le tableau atypique, symptôme par symptôme
 
@@ -29,19 +29,19 @@ Voici ce qu'il faut apprendre à voir. Aucun de ces signes pris isolément ne si
 - **Troubles du sommeil.** Réveils entre 3 h et 5 h avec impossibilité de se rendormir. C'est un signe très classique, y compris chez les hommes qui n'expriment rien par ailleurs.
 - **Retrait social progressif.** Il annule, il décline, il ne rappelle pas. Souvent expliqué par la fatigue ou le manque de temps.
 - **Cynisme et désengagement.** Un homme qui trouve soudain que tout est vain, que rien n'a de sens, que les gens sont médiocres, ne fait pas nécessairement une crise philosophique.
-- **Perte d'accès au plaisir.** Le seul symptôme classique qui reste très fiable. S'il ne prend plus de plaisir aux choses qu'il aimait vraiment, c'est un signe majeur, quelle que soit la façade. La présentation atypique de la dépression masculine — irritabilité, prise de risque, hausse de la consommation d'alcool — est décrite dans cette même synthèse (source : Cochran & Rabinowitz, *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 ; vérification du 7 août 2026).
+- **Perte d'accès au plaisir.** Le seul symptôme classique qui reste très fiable. S'il ne prend plus de plaisir aux choses qu'il aimait vraiment, c'est un signe majeur, quelle que soit la façade. [La présentation atypique de la dépression masculine — irritabilité, prise de risque, hausse de la consommation d'alcool — est décrite dans cette même synthèse de référence](https://www.sciencedirect.com/book/9780121775407/men-and-depression).
 
 ### 6.3 Le facteur déclenchant typique
 
 Les déclencheurs les plus fréquents d'un épisode dépressif masculin sont ceux qui touchent aux règles du chapitre 4.5 : perte d'emploi ou déclassement professionnel, échec d'un projet, séparation, problème financier, maladie ou blessure qui limite le corps, départ à la retraite, naissance d'un enfant, décès d'un parent (surtout du père). Le point commun : tous attaquent l'utilité perçue ou le statut.
 
-Un homme qui perd son travail ne perd pas seulement un revenu. Dans son système intériorisé, il perd la justification de son existence. Il faut prendre cette phrase au sérieux, elle n'est pas exagérée. Les facteurs déclenchants les plus fréquents de la dépression masculine sont documentés dans la même synthèse clinique (source : Cochran & Rabinowitz, *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 ; vérification du 7 août 2026).
+Un homme qui perd son travail ne perd pas seulement un revenu. Dans son système intériorisé, il perd la justification de son existence. Il faut prendre cette phrase au sérieux, elle n'est pas exagérée. [Les facteurs déclenchants les plus fréquents de la dépression masculine sont documentés dans la même synthèse clinique](https://www.sciencedirect.com/book/9780121775407/men-and-depression).
 
 ### 6.4 Le risque suicidaire : ce qu'il faut savoir précisément
 
 Ce passage n'est pas un avertissement de forme. C'est de l'information de sécurité, et elle est actionnable.
 
-Les hommes présentent un risque de décès par suicide environ trois fois supérieur à celui des femmes, et ce risque augmente fortement avec l'âge : le taux atteint 76 décès pour 100 000 chez les hommes de 85 ans et plus, contre 29 pour 100 000 chez les 45-64 ans (source : Santé publique France, bulletin du 10 octobre 2025 ; vérification du 31 juillet 2026). Les hommes âgés isolés sont la population la plus à risque de France, très loin devant les adolescents, contrairement à la représentation courante.
+[Les hommes présentent un risque de décès par suicide environ trois fois supérieur à celui des femmes, et ce risque augmente fortement avec l'âge](https://www.santepubliquefrance.fr/maladies-et-traumatismes/suicide-et-tentative-de-suicide) : le taux atteint 76 décès pour 100 000 chez les hommes de 85 ans et plus, contre 29 pour 100 000 chez les 45-64 ans. Les hommes âgés isolés sont la population la plus à risque de France, très loin devant les adolescents, contrairement à la représentation courante.
 
 **Les signaux qui doivent alerter :**
 
@@ -69,5 +69,11 @@ Ce qui fonctionne beaucoup mieux :
 - **Partir des faits observables, pas de l'interprétation.** "Tu dors mal depuis six semaines et tu ne vois plus personne" est difficile à contester. "Tu vas mal" est immédiatement contestable.
 - **Utiliser le corps comme porte d'entrée.** "Tu devrais faire un bilan sanguin, tu es épuisé en permanence." Un homme qui n'irait jamais chez un psy ira souvent chez son généraliste pour de la fatigue, et le généraliste fait le reste du chemin. C'est un contournement parfaitement légitime.
 - **Prendre le rendez-vous n'est pas infantilisant si tu le proposes une fois.** Beaucoup d'hommes ne consultent pas non pas par refus, mais parce que la démarche entière (trouver, appeler, expliquer) est un obstacle massif quand l'énergie est au plus bas.
-- **Mentionner le dispositif Mon soutien psy.** Il permet un accès remboursé à des séances de psychologue, et plus d'un million de patients y ont eu recours depuis 2022 (source : Assurance Maladie, février 2026 ; vérification du 31 juillet 2026). Le coût étant l'un des trois freins majeurs identifiés, le lever change réellement la donne.
+- **Mentionner le dispositif Mon soutien psy.** [Il permet un accès remboursé à des séances de psychologue, et plus d'un million de patients y ont eu recours depuis sa création en 2022](https://www.ameli.fr/assure/actualites/dispositif-mon-soutien-psy-chiffres-cles-et-premiers-temoignages-de-patients). Le coût étant l'un des trois freins majeurs identifiés, le lever change réellement la donne.
+
+## Sources vérifiables
+
+- Cochran, S. & Rabinowitz, F. (2000), [Men and Depression: Clinical and Empirical Perspectives](https://www.sciencedirect.com/book/9780121775407/men-and-depression), Academic Press ; vérification du 11 août 2026.
+- Santé publique France, [Suicide et tentatives de suicide](https://www.santepubliquefrance.fr/maladies-et-traumatismes/suicide-et-tentative-de-suicide) ; vérification du 11 août 2026.
+- Assurance Maladie, [Dispositif Mon soutien psy : chiffres-clés](https://www.ameli.fr/assure/actualites/dispositif-mon-soutien-psy-chiffres-cles-et-premiers-temoignages-de-patients) ; vérification du 11 août 2026.
 - **Dire ce que ça te fait, à toi.** "Je m'inquiète et ça me pèse" est parfois plus mobilisateur que n'importe quel argument sur son état à lui, parce que la règle 2 du code viril s'active : il devient utile en allant mieux.

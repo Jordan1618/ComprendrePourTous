@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 22
-mots: 33933
+mots: 33900
 verifie_le: 2026-08-10
 licence: "CC BY 4.0"
 ---
@@ -24,11 +24,11 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 |---|---|---|---|
 | 1 | [Le décor : ce que disent les chiffres](<01 - Ce que disent les chiffres.md>) | repères | 1 023 |
 | 2 | [Le cycle masculin : ce qui existe vraiment](<02 - Le cycle masculin.md>) | physiologie | 1 119 |
-| 3 | [Le substrat : analyse socio-neuro-psychologique](<03 - Le substrat socio-neuro-psychologique.md>) | psychologie | 2 297 |
-| 4 | [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<04 - L'architecture émotionnelle.md>) | psychologie | 3 261 |
+| 3 | [Le substrat : analyse socio-neuro-psychologique](<03 - Le substrat socio-neuro-psychologique.md>) | psychologie | 2 286 |
+| 4 | [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<04 - L'architecture émotionnelle.md>) | psychologie | 3 256 |
 | 5 | [Les grands profils masculins](<05 - Les grands profils masculins.md>) | psychologie | 3 271 |
-| 6 | [La dépression masculine : le visage qu'elle ne prend pas](<06 - La dépression masculine.md>) | psychologie | 1 456 |
-| 7 | [Anxiété, stress et corps : le circuit court](<07 - Anxiété, stress et corps.md>) | psychologie | 797 |
+| 6 | [La dépression masculine : le visage qu'elle ne prend pas](<06 - La dépression masculine.md>) | psychologie | 1 427 |
+| 7 | [Anxiété, stress et corps : le circuit court](<07 - Anxiété, stress et corps.md>) | psychologie | 809 |
 | 8 | [Le corps masculin : ce qu'il est utile de savoir](<08 - Le corps masculin.md>) | physiologie | 1 306 |
 | 9 | [La contraception masculine : ce qui existe vraiment](<09 - La contraception masculine.md>) | prévention | 1 188 |
 | 10 | [La sexualité masculine : anatomie, réponse, troubles](<10 - La sexualite masculine.md>) | physiologie | 1 317 |
@@ -45,7 +45,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 21 | [Aide-mémoire](<21 - Aide-mémoire.md>) | repères | 949 |
 | 22 | [Sources vérifiables](<22 - Sources verifiables.md>) | repères | 1 352 |
 
-Total : 33 933 mots, 22 chapitres.
+Total : 33 900 mots, 22 chapitres.
 
 ## Le guide jumeau
 

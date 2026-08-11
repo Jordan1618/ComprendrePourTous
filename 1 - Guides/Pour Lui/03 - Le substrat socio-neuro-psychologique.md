@@ -22,7 +22,7 @@ Toute réaction masculine que tu observes est produite par trois niveaux simulta
 2. **La socialisation de genre.** Massive, précoce, et largement inconsciente. C'est de loin le facteur le plus puissant.
 3. **La biographie individuelle.** Le père qu'il a eu, la place dans la fratrie, les humiliations subies, les modèles disponibles. C'est ce qui explique pourquoi deux hommes du même milieu réagissent de façon opposée.
 
-La règle pratique : quand une réaction te paraît absurde, cherche d'abord au niveau 3, ensuite au niveau 2, et presque jamais au niveau 1. Ce découpage en plusieurs niveaux d'explication reprend le modèle biopsychosocial proposé en médecine (source : Engel, « The need for a new medical model: a challenge for biomedicine », *Science*, 1977 ; vérification du 7 août 2026).
+La règle pratique : quand une réaction te paraît absurde, cherche d'abord au niveau 3, ensuite au niveau 2, et presque jamais au niveau 1. [Ce découpage en plusieurs niveaux d'explication reprend le modèle biopsychosocial proposé en médecine](https://www.science.org/doi/10.1126/science.847460), qui refuse justement de réduire un comportement à une seule strate.
 
 ### 3.2 Ce que la neurobiologie dit vraiment
 
@@ -40,7 +40,7 @@ Il faut être précis ici, parce que ce champ est l'un des plus déformés par l
 - **Les systèmes de l'attachement.** L'ocytocine et la vasopressine jouent un rôle central dans le lien de couple chez les mammifères, avec une contribution relativement plus marquée de la vasopressine chez les mâles. Ce n'est pas une différence de capacité d'attachement, c'est une différence de circuit. Point important : ces systèmes s'activent par le contact et la répétition, pas par la déclaration. Un homme se lie par ce qu'il fait avec toi, plus que par ce qu'il te dit.
 - **La récompense et la nouveauté.** Les circuits dopaminergiques répondent fortement à la nouveauté et à la résolution de problème. Cela n'excuse rien sur le plan de la fidélité, mais cela explique en partie pourquoi le mode réparateur (voir 4.5, règle 2) est si spontané : proposer une solution active un circuit de récompense, écouter sans agir n'en active aucun.
 
-**La conclusion à retenir :** la biologie ne produit pas les comportements masculins que tu observes. Elle produit des pentes légères, que la socialisation transforme en autoroutes. Une pente de 2 % que l'on renforce pendant vingt ans donne un dénivelé considérable. C'est ce qui rend le résultat massif et l'origine faible en même temps. Les effets du contexte social sur les stéroïdes sexuels, et leur caractère modeste comparé à la variation interindividuelle, sont documentés en neuroendocrinologie sociale (source : van Anders & Watson, « Social neuroendocrinology: effects of social contexts and behaviors on sex steroids in humans », *Human Nature*, 2006 ; vérification du 7 août 2026).
+**La conclusion à retenir :** la biologie ne produit pas les comportements masculins que tu observes. Elle produit des pentes légères, que la socialisation transforme en autoroutes. Une pente de 2 % que l'on renforce pendant vingt ans donne un dénivelé considérable. C'est ce qui rend le résultat massif et l'origine faible en même temps. [Les effets du contexte social sur les stéroïdes sexuels, et leur caractère modeste comparé à la variation interindividuelle, sont documentés en neuroendocrinologie sociale](https://link.springer.com/article/10.1007/s12110-006-1018-7).
 
 ### 3.3 La socialisation : comment on fabrique un homme
 
@@ -54,7 +54,7 @@ C'est le niveau explicatif principal, et il opère en quatre temps.
 
 **Temps 4 : la sanction de l'échec.** À l'adolescence puis à l'âge adulte, l'échec masculin est peu accompagné. On ne console pas un garçon qui rate, on lui dit de recommencer. Résultat : l'échec devient un événement identitaire (voir 4.4) et non un événement d'apprentissage.
 
-Le psychologue américain William Pollack a proposé pour décrire le produit fini l'expression d'[alexithymie](<../../2 - Notions/Alexithymie.md>) masculine normative : non pas un trouble, mais un état par défaut, statistiquement banal, produit par une éducation qui coupe l'accès aux mots des émotions. C'est probablement le concept le plus utile de tout ce chapitre, parce qu'il déplace la question. Ce n'est pas "qu'est-ce qui ne va pas chez lui", c'est "qu'est-ce qu'on ne lui a jamais appris". Le concept d'alexithymie masculine normative, produite par la socialisation plutôt que par un trouble individuel, a été développé par Ronald Levant (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+Le psychologue américain William Pollack a proposé pour décrire le produit fini l'expression d'[alexithymie](<../../2 - Notions/Alexithymie.md>) masculine normative : non pas un trouble, mais un état par défaut, statistiquement banal, produit par une éducation qui coupe l'accès aux mots des émotions. C'est probablement le concept le plus utile de tout ce chapitre, parce qu'il déplace la question. Ce n'est pas "qu'est-ce qui ne va pas chez lui", c'est "qu'est-ce qu'on ne lui a jamais appris". [Le concept d'alexithymie masculine normative, produite par la socialisation plutôt que par un trouble individuel, a été développé par le psychologue Ronald Levant](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7).
 
 ### 3.4 L'attachement, version masculine
 
@@ -70,7 +70,7 @@ Les styles d'attachement se forment dans la petite enfance et structurent ensuit
 **Bons réflexes.**
 
 - Avec un évitant, la pression accélère la fuite. Ce qui fonctionne : la constance sans exigence, l'absence de test, et le fait de laisser exister l'espace qu'il demande tout en maintenant clairement ta propre présence. Le message qui le fait bouger n'est pas "montre-moi que tu tiens à moi", c'est "je suis là et je ne disparais pas quand tu prends de la distance".
-- Ne prends pas les styles pour des sentences. L'attachement est modifiable, par la relation elle-même et par le travail thérapeutique. Le terme technique est [sécurité acquise](<../../2 - Notions/Sécurité acquise.md>), et c'est très bien documenté. Les stratégies d'attachement décrites chez l'adulte s'appliquent aux hommes comme aux femmes, avec des expressions parfois modulées par les normes de genre (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+- Ne prends pas les styles pour des sentences. L'attachement est modifiable, par la relation elle-même et par le travail thérapeutique. Le terme technique est [sécurité acquise](<../../2 - Notions/Sécurité acquise.md>), et c'est très bien documenté. [Les stratégies d'attachement décrites chez l'adulte s'appliquent aux hommes comme aux femmes, avec des expressions parfois modulées par les normes de genre](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change).
 
 ### 3.5 Le statut comme organisateur central
 
@@ -80,7 +80,7 @@ Ce classement a trois conséquences directes :
 
 1. **L'utilité conditionnelle.** La valeur personnelle est ressentie comme dépendante d'une contribution. Un homme qui ne produit rien se vit comme n'ayant rien à offrir, donc rien à faire aimer. C'est la racine de la dépression post-chômage et post-retraite du chapitre 13.
 2. **La difficulté à recevoir.** Recevoir sans contrepartie place en position basse dans le classement. C'est pour cette raison qu'un homme a souvent plus de mal à accepter de l'aide, un cadeau coûteux, ou des soins, qu'à en donner.
-3. **La comparaison douloureuse.** Un ami qui réussit spectaculairement produit un mélange de fierté et de quelque chose de plus sombre, difficile à nommer et honteux à avouer. Voir 15.5. Le statut social comme organisateur des comportements masculins est documenté par la distinction entre deux voies d'accès au rang social, la dominance et le prestige (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+3. **La comparaison douloureuse.** Un ami qui réussit spectaculairement produit un mélange de fierté et de quelque chose de plus sombre, difficile à nommer et honteux à avouer. Voir 15.5. [Le statut social comme organisateur des comportements masculins est documenté par la distinction entre deux voies d'accès au rang social, la dominance (par la force et la crainte) et le prestige (par la compétence reconnue)](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf).
 
 ### 3.6 La double injonction contemporaine
 
@@ -97,7 +97,7 @@ Le modèle ancien était cohérent et injuste : sois fort, tais-toi, pourvois, d
 
 Ces injonctions ne sont pas toutes contradictoires en théorie, et une partie du travail adulte consiste précisément à tenir les deux bouts. Mais elles sont vécues comme contradictoires par quelqu'un qui n'a pas reçu le mode d'emploi, et à peu près personne ne l'a reçu. Le résultat le plus fréquent n'est pas la révolte, c'est la paralysie : ne rien faire, ne rien dire, ne rien tenter, parce que toute action semble exposer à un reproche.
 
-Cette paralysie est l'un des moteurs principaux du désengagement relationnel masculin décrit en 12.3, et l'un des points d'entrée des discours de ressentiment décrits en 18.3. Cette tension entre normes masculines traditionnelles et attentes contemporaines est décrite dans les travaux fondateurs sur la reconstruction de la masculinité (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+Cette paralysie est l'un des moteurs principaux du désengagement relationnel masculin décrit en 12.3, et l'un des points d'entrée des discours de ressentiment décrits en 18.3. [Cette tension entre normes masculines traditionnelles et attentes contemporaines est décrite dans les travaux fondateurs sur la reconstruction de la masculinité](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7).
 
 ### 3.7 Le carré du blocage
 
@@ -108,4 +108,13 @@ Pour résumer les six sections précédentes en un schéma utilisable. Quatre é
 3. **Pas de lieu** (aucun espace social où déposer, chapitre 14).
 4. **Pas de modèle** (aucun homme observé n'a jamais fait autrement).
 
-Retire un seul de ces quatre éléments et le système s'ouvre. C'est exactement ce que fait une bonne relation, et c'est aussi ce que fait une thérapie. Ce n'est pas une question de volonté ou de courage, c'est une question de conditions. Ce blocage cumulé — mots, droit, lieu, modèle — recoupe les obstacles au recours à l'aide identifiés dans la littérature sur la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
+Retire un seul de ces quatre éléments et le système s'ouvre. C'est exactement ce que fait une bonne relation, et c'est aussi ce que fait une thérapie. Ce n'est pas une question de volonté ou de courage, c'est une question de conditions. [Ce blocage cumulé — mots, droit, lieu, modèle — recoupe les obstacles au recours à l'aide identifiés dans la littérature de référence sur la socialisation masculine](https://www.researchgate.net/publication/10822409_Men_Masculinity_and_the_Contexts_of_Help_Seeking).
+
+## Sources vérifiables
+
+- Engel, G. (1977), [The need for a new medical model: a challenge for biomedicine](https://www.science.org/doi/10.1126/science.847460), *Science* ; vérification du 11 août 2026.
+- van Anders, S. & Watson, N. (2006), [Social neuroendocrinology: effects of social contexts and behaviors on sex steroids in humans](https://link.springer.com/article/10.1007/s12110-006-1018-7), *Human Nature* ; vérification du 11 août 2026.
+- Levant, R. (1992), [Toward the reconstruction of masculinity](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7), *Journal of Family Psychology* ; vérification du 11 août 2026.
+- Mikulincer, M. & Shaver, P., [Attachment in Adulthood: Structure, Dynamics and Change](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change), Guilford Press ; vérification du 11 août 2026.
+- Cheng, J. et al. (2013), [Two Ways to the Top](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf), *Journal of Personality and Social Psychology* ; vérification du 11 août 2026.
+- Addis, M. & Mahalik, J. (2003), [Men, Masculinity, and the Contexts of Help Seeking](https://www.researchgate.net/publication/10822409_Men_Masculinity_and_the_Contexts_of_Help_Seeking), *American Psychologist* ; vérification du 11 août 2026.
