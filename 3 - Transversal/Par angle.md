@@ -104,6 +104,9 @@ Ce que ça change concrètement quand on est deux.
 - [Ce que les hommes attendent des femmes](<../1 - Guides/Pour Lui/24 - Ce que les hommes attendent des femmes.md>)  `corps masculin` · Pour Lui
 - [Ce qui leur fait peur chez les hommes](<../1 - Guides/Pour Lui/25 - Ce qui leur fait peur chez les hommes.md>)  `corps masculin` · Pour Lui
 - [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Lui/26 - Ce qui leur fait peur chez les femmes.md>)  `corps masculin` · Pour Lui
+- [Ce qui compte vraiment chez les hommes](<../1 - Guides/Pour Lui/27 - Ce qui compte vraiment chez les hommes.md>)  `corps masculin` · Pour Lui
+- [Ce qui compte vraiment chez les femmes](<../1 - Guides/Pour Lui/28 - Ce qui compte vraiment chez les femmes.md>)  `corps masculin` · Pour Lui
+- [Comment expriment-ils leur amour](<../1 - Guides/Pour Lui/29 - Comment expriment-ils leur amour.md>)  `corps masculin` · Pour Lui
 - [Hypervigilance et évitement : ce que ça donne à deux](<../1 - Guides/Pour Nous/02 - Hypervigilance et evitement en couple.md>)  `commun` · Pour Nous
 - [En parler à son partenaire : les formulations qui passent](<../1 - Guides/Pour Nous/04 - En parler a son partenaire.md>)  `commun` · Pour Nous
 - [Traverser les crises et tenir dans la durée](<../1 - Guides/Pour Nous/06 - Traverser les crises.md>)  `commun` · Pour Nous

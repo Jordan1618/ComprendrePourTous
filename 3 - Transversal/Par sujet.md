@@ -83,6 +83,9 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [Ce que les hommes attendent des femmes](<../1 - Guides/Pour Lui/24 - Ce que les hommes attendent des femmes.md>)  `relation`
 - [Ce qui leur fait peur chez les hommes](<../1 - Guides/Pour Lui/25 - Ce qui leur fait peur chez les hommes.md>)  `relation`
 - [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Lui/26 - Ce qui leur fait peur chez les femmes.md>)  `relation`
+- [Ce qui compte vraiment chez les hommes](<../1 - Guides/Pour Lui/27 - Ce qui compte vraiment chez les hommes.md>)  `relation`
+- [Ce qui compte vraiment chez les femmes](<../1 - Guides/Pour Lui/28 - Ce qui compte vraiment chez les femmes.md>)  `relation`
+- [Comment expriment-ils leur amour](<../1 - Guides/Pour Lui/29 - Comment expriment-ils leur amour.md>)  `relation`
 
 ## Commun
 
