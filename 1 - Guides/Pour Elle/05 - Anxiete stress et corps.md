@@ -12,7 +12,7 @@ licence: "CC BY 4.0"
 
 ### 5.1 L'analogie du détecteur trop sensible
 
-Un détecteur de fumée réglé trop bas sonne pour un toast. Il n'est pas cassé : il fait son travail avec un seuil mal calibré. Le problème n'est pas qu'il détecte, c'est qu'il détecte trop tôt et trop souvent, jusqu'à ce que plus personne n'y prête attention — y compris le jour où il y a vraiment le feu.
+Un détecteur de fumée réglé trop bas sonne pour un toast. Il n'est pas cassé : il fait son travail avec un seuil mal calibré. Le problème n'est pas qu'il détecte, c'est qu'il détecte trop tôt et trop souvent, jusqu'à ce que plus personne n'y prête attention — y compris le jour où il y a vraiment le feu. Un détecteur bien réglé, à l'inverse, reste un outil précieux : la question n'est jamais de s'en débarrasser, mais de le recalibrer.
 
 L'anxiété fonctionne ainsi, et ce chapitre traite les deux versants du problème : le seuil trop bas, et l'habitude prise par l'entourage comme par le corps médical de ne plus écouter l'alarme.
 
@@ -24,7 +24,7 @@ Les troubles anxieux sont diagnostiqués nettement plus souvent chez les femmes,
 
 Les explications avancées se cumulent plutôt qu'elles ne s'excluent : exposition plus forte à des facteurs de risque documentés, sensibilité hormonale aux transitions, différences de socialisation dans l'expression de la peur, et une composante de repérage — l'anxiété masculine s'exprimant plus souvent par l'irritabilité, l'alcool ou le repli, elle est moins souvent nommée comme telle.
 
-Ce qui compte pour vous : la fréquence n'est pas la normalité. Un trouble anxieux fréquent reste un trouble, et il fait partie de ceux qui répondent le mieux aux prises en charge. Cet écart de prévalence est retrouvé de façon stable selon les pays et les instruments de mesure (source : McLean et coll., « Gender differences in anxiety disorders », *Journal of Psychiatric Research*, 2011 ; vérification du 7 août 2026).
+Ce qui compte pour vous : la fréquence n'est pas la normalité. Un trouble anxieux fréquent reste un trouble, et il fait partie de ceux qui répondent le mieux aux prises en charge — voir plus bas pour ce que ça signifie concrètement en termes de pronostic et de rétablissement. Cet écart de prévalence est retrouvé de façon stable selon les pays et les instruments de mesure (source : McLean et coll., « Gender differences in anxiety disorders », *Journal of Psychiatric Research*, 2011 ; vérification du 7 août 2026).
 
 ### 5.3 Le corps parle, et il dit vrai
 
@@ -60,6 +60,19 @@ Deux points de vigilance. Les **benzodiazépines** soulagent vite, exposent à u
 
 Sur les leviers quotidiens — sommeil, activité physique, alcool, respiration lente, écriture — voir les chapitres 5 et 6 de [Les émotions](<../Les emotions/README.md>). Ils valent ici exactement comme ailleurs, et ils sont sous-utilisés parce qu'ils sont ennuyeux. Les thérapies cognitivo-comportementales sont recommandées en première intention pour les troubles anxieux dans les référentiels de bonne pratique (source : NICE, *Generalised anxiety disorder and panic disorder in adults*, CG113 ; vérification du 7 août 2026).
 
+### 5.5 bis Une bonne nouvelle à connaître : l'anxiété est ce qui se soigne le mieux
+
+Ce chapitre a surtout nommé des difficultés jusqu'ici — il faut aussi nommer, avec la même clarté, à quel point les troubles anxieux comptent parmi les plus favorablement soignables de toute la psychiatrie. [L'anxiété est le domaine où la thérapie cognitivo-comportementale montre ses meilleurs résultats, avec des centaines d'essais cliniques soutenant son efficacité, et des tailles d'effet généralement considérées comme importantes](https://link.springer.com/article/10.1007/s11920-022-01402-8). [Ces traitements sont généralement plus courts que ceux d'autres troubles, avec des bénéfices qui se maintiennent bien après la fin de la thérapie](https://link.springer.com/article/10.1007/s11920-022-01402-8) — l'anxiété n'est donc pas seulement traitable, elle répond souvent plus vite et plus durablement que beaucoup d'autres souffrances psychiques.
+
+Un mécanisme précis explique pourquoi affronter progressivement ce qui inquiète — plutôt que de l'éviter — fonctionne aussi bien, et il vaut la peine d'être connu parce qu'il change la façon de vivre chaque petite victoire sur l'anxiété. [Parmi les sources de la confiance en soi identifiées par le psychologue Albert Bandura, l'expérience de maîtrise — réussir une chose qu'on redoutait — est la plus puissante de toutes ; ces expériences réduisent directement la peur et augmentent la confiance envers ce qui était auparavant évité](https://www.simplypsychology.org/self-efficacy.html). Ce mécanisme explique très concrètement pourquoi l'exposition progressive citée plus haut fonctionne : chaque petit défi affronté avec succès ne soulage pas seulement l'anxiété du moment, il construit, mesurablement, une confiance qui se transfère au défi suivant — un cercle vertueux qui s'auto-alimente, à l'inverse exact de la boucle anxieuse décrite plus haut, qui elle s'auto-entretient dans le sens de l'évitement.
+
+Un dernier point mérite d'être connu, parce qu'il change la lecture des sensations physiques de l'anxiété elles-mêmes : [ce qui détermine l'effet de l'activation physiologique — palpitations, tension, souffle court — sur la confiance n'est pas la sensation en elle-même, mais la façon dont elle est interprétée](https://www.psychologynoteshq.com/selfefficacy/). Apprendre à relire ces mêmes sensations non comme une preuve de danger mais comme un simple signal d'activation — le corps qui se prépare, pas le corps qui annonce une catastrophe — est, en soi, un levier de mieux-être qui ne demande ni médicament ni séance de thérapie pour commencer à s'exercer, même s'il se perfectionne souvent bien plus vite avec un accompagnement professionnel.
+
+**Bons réflexes.**
+- Se rappeler que les troubles anxieux comptent parmi les troubles psychiques qui répondent le mieux aux traitements bien conduits — ce n'est jamais une fatalité à vie.
+- Noter consciemment chaque petit défi affronté malgré l'anxiété, même minime — cette trace construit, mesurablement, la confiance nécessaire pour le défi suivant.
+- Face aux sensations physiques de l'anxiété, s'entraîner à les nommer comme une activation plutôt que comme un danger — la même sensation, lue différemment, pèse beaucoup moins lourd.
+
 💑 **Dans le couple**
 
 Réassurer immédiatement est le réflexe le plus naturel et l'un des moins efficaces : la réassurance est précisément ce que la boucle anxieuse réclame, et elle la nourrit.
@@ -73,3 +86,13 @@ Ce qui aide davantage tient dans une question à deux options : **« tu veux que
 - Employez la phrase de l'écart : « je voudrais qu'on écarte une cause organique avant de conclure au stress ».
 - Connaissez les signes atypiques de l'infarctus chez la femme. C'est l'information la plus utile de ce chapitre.
 - Fixez une limite à la vérification. Au-delà, chercher n'informe plus, ça entretient.
+
+## Sources vérifiables
+
+- Kessler, R. et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026.
+- McLean, C. et coll., « Gender differences in anxiety disorders », *Journal of Psychiatric Research*, 2011 ; vérification du 7 août 2026.
+- Hoffmann, D. & Tarzian, A., « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026.
+- NICE, *Generalised anxiety disorder and panic disorder in adults*, CG113 ; vérification du 7 août 2026.
+- [Efficacy of Cognitive Behavioral Therapy for Anxiety-Related Disorders: A Meta-Analysis of Recent Literature](https://link.springer.com/article/10.1007/s11920-022-01402-8), *Current Psychiatry Reports* ; vérification du 11 août 2026.
+- Bandura, A., repris dans [Self-Efficacy: Bandura's Theory Of Motivation In Psychology](https://www.simplypsychology.org/self-efficacy.html), Simply Psychology ; vérification du 11 août 2026.
+- [Albert Bandura's Self-Efficacy: 4 Sources & Why Your Beliefs Drive Behavior](https://www.psychologynoteshq.com/selfefficacy/) ; vérification du 11 août 2026.
