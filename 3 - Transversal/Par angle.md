@@ -85,6 +85,14 @@ Ce que ça change concrètement quand on est deux.
 - [La boîte à outils de couple](<../1 - Guides/Pour Elle/24 - La boite a outils de couple.md>)  `corps féminin` · Pour Elle
 - [Les limites : ce qui n'est pas à toi de porter](<../1 - Guides/Pour Elle/25 - Les limites.md>)  `corps féminin` · Pour Elle
 - [Ce que les femmes attendent des femmes](<../1 - Guides/Pour Elle/27 - Ce que les femmes attendent des femmes.md>)  `corps féminin` · Pour Elle
+- [Ce que les femmes attendent des hommes](<../1 - Guides/Pour Elle/28 - Ce que les femmes attendent des hommes.md>)  `corps féminin` · Pour Elle
+- [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Elle/29 - Ce qui leur fait peur chez les femmes.md>)  `corps féminin` · Pour Elle
+- [Ce qui leur fait peur chez les hommes](<../1 - Guides/Pour Elle/30 - Ce qui leur fait peur chez les hommes.md>)  `corps féminin` · Pour Elle
+- [Ce qui compte vraiment chez les femmes, en amitié et en amour](<../1 - Guides/Pour Elle/31 - Ce qui compte vraiment chez les femmes.md>)  `corps féminin` · Pour Elle
+- [Ce qui compte vraiment chez les hommes](<../1 - Guides/Pour Elle/32 - Ce qui compte vraiment chez les hommes.md>)  `corps féminin` · Pour Elle
+- [Comment expriment-elles leur amour](<../1 - Guides/Pour Elle/33 - Comment expriment-elles leur amour.md>)  `corps féminin` · Pour Elle
+- [Comment sont-elles vues et existent-elles dans la famille](<../1 - Guides/Pour Elle/34 - Comment sont-elles vues et existent-elles dans la famille.md>)  `corps féminin` · Pour Elle
+- [Mères célibataires aujourd'hui](<../1 - Guides/Pour Elle/35 - Meres celibataires aujourd hui.md>)  `corps féminin` · Pour Elle
 - [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/11 - La sexualité comme langage émotionnel.md>)  `corps masculin` · Pour Lui
 - [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/12 - Le désir dans la durée.md>)  `corps masculin` · Pour Lui
 - [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>)  `corps masculin` · Pour Lui

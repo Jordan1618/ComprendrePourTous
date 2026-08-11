@@ -14,5 +14,6 @@ Ce rôle échoit très majoritairement aux femmes, y compris quand le reste des 
 **Où c'est développé**
 - [Le désert relationnel féminin](<../1 - Guides/Pour Elle/23 - Le desert relationnel feminin.md>).
 - [Les grands profils féminins](<../1 - Guides/Pour Elle/20 - Les grands profils feminins.md>), profil de la donneuse de soin.
+- [Comment sont-elles vues et existent-elles dans la famille](<../1 - Guides/Pour Elle/34 - Comment sont-elles vues et existent-elles dans la famille.md>), sa saisonnalité autour des fêtes et son lien avec la charge mentale.
 
 **Voir aussi** [Désert relationnel](<Désert relationnel.md>) — le mécanisme masculin correspondant, structurellement différent : pas une absence de réseau, mais son entretien à sens unique.
