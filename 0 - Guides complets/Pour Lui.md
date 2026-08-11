@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 31
-mots: 56386
+mots: 56890
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
@@ -1202,11 +1202,34 @@ Ce qui compte n'est pas la quantité brute, c'est la fonction. Un homme qui rega
 - Éviter l'ultimatum, qui produit de la dissimulation et pas de l'arrêt.
 - Distinguer nettement ce qui relève de ton accord de couple (les règles, c'est à vous de les poser) de ce qui relève d'un mécanisme de régulation émotionnelle (là, c'est un sujet de soin). Les effets de la pornographie sur les attentes et les conditions d'excitation restent débattus dans la littérature clinique (source : Park et coll., « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences*, 2016 ; vérification du 7 août 2026).
 
+### 11.4 bis Ce qui améliore vraiment les choses : en parler, explicitement
+
+Ce chapitre a beaucoup parlé de sexualité comme canal indirect d'expression émotionnelle — il faut aussi dire que le canal le plus direct de tous, la parole explicite sur le sujet, reste sous-utilisé alors qu'il est le plus efficace, et de loin.
+
+[Les couples qui communiquent positivement entre eux montrent des niveaux plus élevés d'intimité émotionnelle et sexuelle, ce qui se traduit à son tour par une satisfaction relationnelle accrue](https://scholars.uky.edu/en/publications/the-mediating-role-of-sexual-and-nonsexual-communication-between-/). Plus spécifiquement sur la sexualité elle-même : [la communication sexuelle aide les couples à mieux comprendre les préférences de chacun, ce qui mène à un meilleur équilibre et à une satisfaction sexuelle plus élevée](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6032&context=etd) — [le vocabulaire utilisé par les deux partenaires pour parler de sexualité est directement associé à leur satisfaction et à leur proximité relationnelle ; disposer d'un vocabulaire plus riche améliore la capacité à exprimer ses désirs et la satisfaction sexuelle qui en découle](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6032&context=etd).
+
+Un point pratique précis mérite d'être retenu : [les discussions sur les préférences sexuelles sont le plus efficaces en dehors de l'acte lui-même, la communication non verbale prenant le relais pendant le rapport](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6032&context=etd) — exactement la même logique déjà établie dans ce guide à propos des conversations difficiles, qui se tiennent mieux à froid que dans le feu de l'instant. Une dernière donnée rassure sur l'ampleur du sujet : [une large proportion de couples rapportent des difficultés à communiquer sur la sexualité ou un souhait d'améliorer cette communication](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6032&context=etd) — ce n'est donc jamais un problème isolé ou honteux, c'est une compétence que la plupart des couples cherchent, eux aussi, à développer.
+
+**Bons réflexes.**
+- Réserver un moment hors de la chambre, à froid, pour parler explicitement des préférences, des envies et des malaises éventuels — pas seulement pendant ou juste après un rapport.
+- Développer activement un vocabulaire commun et précis pour parler de sexualité en couple — plus il est riche, plus il facilite l'expression réelle des désirs de chacun.
+- Se rappeler que la difficulté à en parler est quasi universelle, pas un signe que quelque chose ne va pas spécifiquement dans cette relation.
+
 ### 11.5 Le sexe après un événement difficile
 
 Un point contre-intuitif mais très courant : beaucoup d'hommes ont une poussée de désir dans les périodes de deuil, d'angoisse ou de stress majeur. Ce n'est pas de l'indécence. La sexualité est, chez eux, une des rares voies d'accès à la décharge et au réconfort corporel. Un homme qui vient de perdre son père et qui a besoin de faire l'amour n'est pas insensible, il est en train d'utiliser le seul canal qui lui est ouvert.
 
 Ce n'est pas pour autant une obligation pour toi. Le savoir sert à ne pas mal l'interpréter, pas à te contraindre. L'effet d'un événement difficile sur la sexualité est cohérent avec la façon dont le corps garde la mémoire d'un vécu traumatique (source : van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
+
+## Sources vérifiables
+
+- Levant, R. (1992), « Toward the reconstruction of masculinity », *Journal of Family Psychology* ; vérification du 7 août 2026.
+- Lue, T. (2000), « Erectile dysfunction », *New England Journal of Medicine* ; vérification du 7 août 2026.
+- Bancroft, J. & Janssen, E. (2000), « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews* ; vérification du 7 août 2026.
+- Park, B. et coll. (2016), « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences* ; vérification du 7 août 2026.
+- van der Kolk, B. (2014), *The Body Keeps the Score*, Viking ; vérification du 7 août 2026.
+- [The Role of Sexual Communication in Committed Relationships](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6032&context=etd) ; vérification du 11 août 2026.
+- [The mediating role of sexual and nonsexual communication](https://scholars.uky.edu/en/publications/the-mediating-role-of-sexual-and-nonsexual-communication-between-/), University of Kentucky ; vérification du 11 août 2026.
 
 ---
 
