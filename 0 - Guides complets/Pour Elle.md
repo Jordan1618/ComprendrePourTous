@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 72703
+mots: 73294
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -1294,7 +1294,7 @@ Ce qui fonctionne mieux : **« tu veux que je te rassure, ou que je t'aide à tr
 
 ## 13. Les figures de la recherche en 2026 : qui fait avancer quoi
 
-Voici les figures les plus marquantes du domaine, avec ce qu'elles ont concrètement changé. Un point commun frappant à la lecture de leurs parcours : plusieurs d'entre elles ont commencé à s'intéresser à leur sujet soit parce qu'elles vivaient elles-mêmes la maladie qu'elles étudient, soit parce qu'elles ont été frappées par le contraste entre la fréquence d'un problème et le peu de recherche qui lui était consacré.
+Voici les figures les plus marquantes du domaine, avec ce qu'elles ont concrètement changé. Un point commun frappant à la lecture de leurs parcours : plusieurs d'entre elles ont commencé à s'intéresser à leur sujet soit parce qu'elles vivaient elles-mêmes la maladie qu'elles étudient, soit parce qu'elles ont été frappées par le contraste entre la fréquence d'un problème et le peu de recherche qui lui était consacré. Ce chapitre n'est pas qu'un annuaire de noms : c'est la preuve concrète que les sujets traités dans ce guide comme longtemps négligés font aujourd'hui l'objet d'un travail scientifique actif, mené par des chercheuses reconnues internationalement, avec des résultats tangibles à la clé.
 
 ### Camille Berthelot : Institut Pasteur, Paris (génomique évolutive de la menstruation)
 
@@ -1332,9 +1332,28 @@ Chercheuse et présidente non rémunérée du comité consultatif clinique de l'
 
 Titulaire de la chaire de psychiatrie de l'UNC et directrice du Centre des troubles de l'humeur féminins de cette université, elle est une pionnière de la psychiatrie périnatale et l'investigatrice principale des essais cliniques ayant conduit à l'approbation de la brexanolone (2019) puis de la zuranolone pour la [dépression du post-partum](<../2 - Notions/Dépression du post-partum.md>). Elle rappelle régulièrement, dans ses interventions publiques, que la dépression post-partum touche environ 1 nouvelle mère sur 8 aux États-Unis et reste, comme une grande partie de la santé des femmes, un champ historiquement sous-étudié et négligé par la recherche médicale (source : UNC Health Foundation, 2024 ; Endpoints News, janvier 2025 ; American Journal of Psychiatry, 2026).
 
+### C. Noel Bairey Merz : Cedars-Sinai, Los Angeles (cardiologie féminine)
+
+Directrice du Barbra Streisand Women's Heart Center à Cedars-Sinai, elle figure parmi les cardiologues les plus reconnues au monde sur la spécificité des maladies cardiovasculaires féminines, avec une contribution majeure en 2026 dans l'*European Heart Journal* sur les facteurs de risque traditionnels et spécifiquement féminins. Ses travaux ont notamment porté sur l'ischémie sans obstruction coronarienne significative (INOCA), une forme de maladie cardiaque qui touche de façon disproportionnée les femmes et qui reste largement méconnue parce qu'elle ne correspond pas au tableau classique de l'infarctus enseigné en priorité — [des IRM cardiaques avancées ont permis d'en clarifier les causes et d'améliorer les décisions de traitement, une avancée jugée particulièrement importante pour les femmes concernées par cette forme atypique de maladie cardiaque](https://www.massgeneralbrigham.org/en/about/newsroom/articles/2026-predictions-about-cardiovascular). Ce travail rejoint directement ce qui a été établi dans le chapitre sur les peurs de ce guide, à propos du retard de reconnaissance des symptômes cardiovasculaires atypiques chez les femmes.
+
+### Ce qui change à l'échelle institutionnelle, pas seulement individuelle
+
+Au-delà de ces parcours personnels, une dynamique plus large mérite d'être connue, parce qu'elle montre que le rattrapage évoqué par ces chercheuses ne repose plus seulement sur leur détermination individuelle. [Les National Institutes of Health américains ont investi environ 4,6 milliards de dollars dans la santé des femmes lors de l'exercice budgétaire 2024, une somme portée à environ 5 milliards de dollars pour 2025](https://www.ncbi.nlm.nih.gov/books/NBK612400/). [Un rapport majeur des Académies nationales des sciences, de l'ingénierie et de la médecine recommande la création d'un fonds interdisciplinaire dédié de 11,4 milliards de dollars sur cinq ans, ainsi que la formation d'un nouvel institut spécifiquement centré sur la recherche en santé des femmes](https://www.nationalacademies.org/news/to-advance-womens-health-research-nih-should-form-new-institute-and-congress-should-appropriate-new-funding-says-report).
+
+Des priorités concrètes accompagnent ces moyens. [Le budget de la commission sénatoriale pour l'exercice 2026 inclut une augmentation de 400 millions de dollars pour les NIH, avec des instructions explicites pour prioriser la recherche sur des pathologies gynécologiques longtemps négligées comme les fibromes utérins et le syndrome des ovaires polykystiques](https://swhr.org/looking-back-moving-forward-womens-health-research-in-2025-and-the-road-ahead/). Et [en 2025, les NIH ont consacré leur programme Pathways to Prevention à faire la synthèse des connaissances sur la ménopause, identifier les lacunes de recherche existantes et développer un plan d'action pour faire avancer ce champ](https://swhr.org/looking-back-moving-forward-womens-health-research-in-2025-and-the-road-ahead/) — un sujet qui, comme l'endométriose ou le TDPM évoqués plus haut, est longtemps resté à la marge des priorités de financement malgré son ampleur.
+
+Ce mouvement, à la fois individuel et désormais institutionnel, change la lecture de ce chapitre : les pathologies décrites dans ce guide comme historiquement sous-étudiées ne sont plus seulement portées par la détermination de quelques chercheuses isolées — elles bénéficient, de plus en plus, d'un effort concerté et financé à l'échelle des plus grandes agences de recherche du monde.
+
 ### Le fil conducteur de tous ces parcours
 
 En relisant ces neuf trajectoires, un motif commun se dégage nettement : plusieurs de ces chercheuses ont d'abord été confrontées, personnellement ou professionnellement, à un immense décalage entre la fréquence réelle d'un problème de santé féminine et l'attention scientifique et financière qui lui était historiquement accordée. Ce n'est pas un hasard si Linda Griffith parle explicitement d'un "moonshot" nécessaire, ou si Samantha Meltzer-Brody insiste sur le fait que son champ a été "négligé", c'est un constat partagé, documenté, et de plus en plus reconnu par les institutions elles-mêmes, qui explique en grande partie pourquoi tant de pathologies de ce document ont mis aussi longtemps à être prises au sérieux. Ces figures partagent une caractéristique commune, documentée dans l'histoire de la médecine reproductive : la remise en cause de savoirs établis à partir de données nouvelles (source : te Velde & Pearson, « The variability of female reproductive ageing », *Human Reproduction Update*, 2002 ; vérification du 7 août 2026).
+
+## Sources vérifiables
+
+- [Overview of the National Institutes of Health Investment in Women's Health Research](https://www.ncbi.nlm.nih.gov/books/NBK612400/), *NCBI Bookshelf* ; vérification du 11 août 2026.
+- [To Advance Women's Health Research, NIH Should Form New Institute and Congress Should Appropriate New Funding](https://www.nationalacademies.org/news/to-advance-womens-health-research-nih-should-form-new-institute-and-congress-should-appropriate-new-funding-says-report), National Academies of Sciences, Engineering, and Medicine ; vérification du 11 août 2026.
+- [Looking Back, Moving Forward: Women's Health Research in 2025 and the Road Ahead](https://swhr.org/looking-back-moving-forward-womens-health-research-in-2025-and-the-road-ahead/), Society for Women's Health Research ; vérification du 11 août 2026.
+- [Looking Ahead: Predictions for Cardiology in 2026](https://www.massgeneralbrigham.org/en/about/newsroom/articles/2026-predictions-about-cardiovascular), Mass General Brigham ; vérification du 11 août 2026.
 
 ---
 
