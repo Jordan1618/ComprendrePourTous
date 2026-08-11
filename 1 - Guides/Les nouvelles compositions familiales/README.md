@@ -3,7 +3,7 @@ type: "guide"
 guide: "Les nouvelles compositions familiales"
 sujet: "commun"
 chapitres: 4
-mots: 2224
+mots: 4345
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -20,12 +20,12 @@ Ce guide s'adresse à qui vit ou traverse une recomposition familiale — comme 
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Les familles recomposées aujourd'hui](<01 - Les familles recomposees aujourd hui.md>) | repères | 567 |
+| 1 | [Les familles recomposées aujourd'hui](<01 - Les familles recomposees aujourd hui.md>) | repères | 2 688 |
 | 2 | [Trouver sa place dedans](<02 - Trouver sa place dedans.md>) | relation | 896 |
 | 3 | [Les bons principes à avoir](<03 - Les bons principes a avoir.md>) | pratique | 565 |
 | 4 | [Sources vérifiables](<04 - Sources verifiables.md>) | repères | 196 |
 
-Total : 2 224 mots, 4 chapitres.
+Total : 4 345 mots, 4 chapitres.
 
 ## Autour de ce guide
 
