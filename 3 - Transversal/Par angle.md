@@ -100,6 +100,10 @@ Ce que ça change concrètement quand on est deux.
 - [La boîte à outils de couple](<../1 - Guides/Pour Lui/16 - La boîte à outils de couple.md>)  `corps masculin` · Pour Lui
 - [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<../1 - Guides/Pour Lui/17 - Les reproches récurrents.md>)  `corps masculin` · Pour Lui
 - [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Pour Lui/19 - Les limites.md>)  `corps masculin` · Pour Lui
+- [Ce que les hommes attendent des hommes](<../1 - Guides/Pour Lui/23 - Ce que les hommes attendent des hommes.md>)  `corps masculin` · Pour Lui
+- [Ce que les hommes attendent des femmes](<../1 - Guides/Pour Lui/24 - Ce que les hommes attendent des femmes.md>)  `corps masculin` · Pour Lui
+- [Ce qui leur fait peur chez les hommes](<../1 - Guides/Pour Lui/25 - Ce qui leur fait peur chez les hommes.md>)  `corps masculin` · Pour Lui
+- [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Lui/26 - Ce qui leur fait peur chez les femmes.md>)  `corps masculin` · Pour Lui
 - [Hypervigilance et évitement : ce que ça donne à deux](<../1 - Guides/Pour Nous/02 - Hypervigilance et evitement en couple.md>)  `commun` · Pour Nous
 - [En parler à son partenaire : les formulations qui passent](<../1 - Guides/Pour Nous/04 - En parler a son partenaire.md>)  `commun` · Pour Nous
 - [Traverser les crises et tenir dans la durée](<../1 - Guides/Pour Nous/06 - Traverser les crises.md>)  `commun` · Pour Nous

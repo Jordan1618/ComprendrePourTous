@@ -79,6 +79,10 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>)  `prévention`
 - [Aide-mémoire](<../1 - Guides/Pour Lui/21 - Aide-mémoire.md>)  `repères`
 - [Sources vérifiables](<../1 - Guides/Pour Lui/22 - Sources verifiables.md>)  `repères`
+- [Ce que les hommes attendent des hommes](<../1 - Guides/Pour Lui/23 - Ce que les hommes attendent des hommes.md>)  `relation`
+- [Ce que les hommes attendent des femmes](<../1 - Guides/Pour Lui/24 - Ce que les hommes attendent des femmes.md>)  `relation`
+- [Ce qui leur fait peur chez les hommes](<../1 - Guides/Pour Lui/25 - Ce qui leur fait peur chez les hommes.md>)  `relation`
+- [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Lui/26 - Ce qui leur fait peur chez les femmes.md>)  `relation`
 
 ## Commun
 
