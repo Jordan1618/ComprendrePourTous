@@ -17,3 +17,6 @@ Ce rôle échoit très majoritairement aux femmes, y compris quand le reste des 
 - [Comment sont-elles vues et existent-elles dans la famille](<../1 - Guides/Pour Elle/34 - Comment sont-elles vues et existent-elles dans la famille.md>), sa saisonnalité autour des fêtes et son lien avec la charge mentale.
 
 **Voir aussi** [Désert relationnel](<Désert relationnel.md>) — le mécanisme masculin correspondant, structurellement différent : pas une absence de réseau, mais son entretien à sens unique.
+
+**Où c'est développé (miroir masculin)**
+- [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/30 - Comment sont-ils vus et existent-ils dans la famille.md>), sur le gatekeeping maternel comme mécanisme parallèle du côté paternel.

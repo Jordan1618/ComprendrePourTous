@@ -107,6 +107,8 @@ Ce que ça change concrètement quand on est deux.
 - [Ce qui compte vraiment chez les hommes](<../1 - Guides/Pour Lui/27 - Ce qui compte vraiment chez les hommes.md>)  `corps masculin` · Pour Lui
 - [Ce qui compte vraiment chez les femmes](<../1 - Guides/Pour Lui/28 - Ce qui compte vraiment chez les femmes.md>)  `corps masculin` · Pour Lui
 - [Comment expriment-ils leur amour](<../1 - Guides/Pour Lui/29 - Comment expriment-ils leur amour.md>)  `corps masculin` · Pour Lui
+- [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/30 - Comment sont-ils vus et existent-ils dans la famille.md>)  `corps masculin` · Pour Lui
+- [Pères célibataires aujourd'hui](<../1 - Guides/Pour Lui/31 - Peres celibataires aujourd hui.md>)  `corps masculin` · Pour Lui
 - [Hypervigilance et évitement : ce que ça donne à deux](<../1 - Guides/Pour Nous/02 - Hypervigilance et evitement en couple.md>)  `commun` · Pour Nous
 - [En parler à son partenaire : les formulations qui passent](<../1 - Guides/Pour Nous/04 - En parler a son partenaire.md>)  `commun` · Pour Nous
 - [Traverser les crises et tenir dans la durée](<../1 - Guides/Pour Nous/06 - Traverser les crises.md>)  `commun` · Pour Nous

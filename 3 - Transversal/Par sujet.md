@@ -86,6 +86,8 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [Ce qui compte vraiment chez les hommes](<../1 - Guides/Pour Lui/27 - Ce qui compte vraiment chez les hommes.md>)  `relation`
 - [Ce qui compte vraiment chez les femmes](<../1 - Guides/Pour Lui/28 - Ce qui compte vraiment chez les femmes.md>)  `relation`
 - [Comment expriment-ils leur amour](<../1 - Guides/Pour Lui/29 - Comment expriment-ils leur amour.md>)  `relation`
+- [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/30 - Comment sont-ils vus et existent-ils dans la famille.md>)  `relation`
+- [Pères célibataires aujourd'hui](<../1 - Guides/Pour Lui/31 - Peres celibataires aujourd hui.md>)  `relation`
 
 ## Commun
 
