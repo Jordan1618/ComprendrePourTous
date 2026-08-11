@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 70711
+mots: 71344
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -525,6 +525,21 @@ Le mot est trop fort pour caractériser l'usage général, pour la majorité des
 - un manque d'information donnée aux patientes sur les effets secondaires réels avant de commencer,
 - ou une prescription systématique chez des femmes qui auraient été de bonnes candidates à un stérilet au cuivre (zéro hormone) ou à une contraception non hormonale, simplement par habitude de prescription plutôt que par choix éclairé. Une large étude de cohorte danoise a mis en évidence une association entre contraception hormonale et risque ultérieur de dépression, avec un effet modeste en population générale (source : Skovlund et coll., « Association of Hormonal Contraception With Depression », *JAMA Psychiatry*, 2016 ; vérification du 7 août 2026).
 
+### Étape 4 bis : Les bénéfices réels, au-delà de la contraception elle-même
+
+Ce chapitre a surtout nommé les risques jusqu'ici, parce qu'ils sont trop souvent minimisés — mais l'équilibre complet du raisonnement demande aussi de nommer, avec la même rigueur, les bénéfices non contraceptifs réels et solidement documentés de la contraception hormonale, trop souvent ignorés du grand public.
+
+Le plus significatif concerne le risque de cancer de l'ovaire. [La contraception orale combinée réduit le risque de cancer de l'ovaire d'environ 50 % en population générale, et cette réduction peut atteindre 80 % en cas d'usage prolongé](https://www.ashasexualhealth.org/more-proof-that-the-birth-control-pill-reduces-risk-of-ovarian-cancer/). Cette protection dépend de la durée d'utilisation : [après au moins trois ans d'usage, la réduction de risque avoisine 40 %, un effet protecteur qui augmente avec la durée d'utilisation et qui persiste jusqu'à deux décennies après l'arrêt de la contraception](https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet). Le mécanisme proposé est cohérent avec la physiologie déjà décrite plus haut dans ce chapitre : [l'effet protecteur serait lié au nombre d'ovulations au cours de la vie reproductive — moins d'ovulations au total étant associées à un risque de cancer de l'ovaire plus faible](https://www.ashasexualhealth.org/more-proof-that-the-birth-control-pill-reduces-risk-of-ovarian-cancer/), l'ovulation répétée exerçant elle-même une forme de stress sur les tissus ovariens.
+
+Cette protection ne se limite pas à la population générale. [Une réduction du risque de cancer de l'ovaire est également observée chez les femmes porteuses d'une mutation délétère des gènes BRCA1 ou BRCA2 — pour les porteuses d'une mutation BRCA1, la durée d'utilisation de la contraception orale s'est révélée un facteur protecteur majeur, avec une association inverse entre durée d'utilisation et risque de cancer de l'ovaire qui persiste plus de 15 ans](https://pmc.ncbi.nlm.nih.gov/articles/PMC8278569/) après l'arrêt — une information particulièrement utile pour les femmes concernées par ce risque génétique spécifique, souvent déjà confrontées à des choix difficiles sur leur santé reproductive.
+
+Au-delà du seul risque de cancer, ce chapitre a déjà mentionné plus haut d'autres bénéfices réels et recherchés activement par de nombreuses utilisatrices — régularisation des cycles, réduction des douleurs de règles, amélioration de l'acné et de l'hirsutisme. Ces effets ne sont pas des « bonus » accessoires : pour une femme souffrant de règles très douloureuses ou très abondantes, ils représentent un vrai gain de qualité de vie au quotidien, à mettre en balance honnêtement avec les risques déjà détaillés plus haut.
+
+**Bons réflexes.**
+- Ne pas réduire la décision contraceptive à une seule liste de risques — mettre en balance, de façon aussi rigoureuse, les bénéfices réels, y compris ceux qui dépassent la seule contraception.
+- Pour une femme avec un antécédent familial de cancer de l'ovaire ou une mutation BRCA connue, évoquer explicitement cet effet protecteur avec un médecin — c'est une donnée pertinente pour la décision, pas un simple argument de vente.
+- Se rappeler que ces bénéfices, comme les risques, dépendent de la durée d'utilisation — une décision contraceptive gagne à être pensée sur le temps long, pas seulement dans l'urgence d'un renouvellement d'ordonnance.
+
 ### Étape 5 : Les alternatives qui existent, à connaître
 
 - **Stérilet au cuivre (DIU)** : zéro hormone, efficace 5 à 10 ans, mais peut augmenter l'abondance des règles.
@@ -542,6 +557,16 @@ La contraception est trop souvent vécue comme "son sujet à elle" alors qu'elle
 - Pose la question directement de temps en temps : "est-ce que tu sens des effets sur ton humeur, ta libido, tes migraines depuis que tu prends X ?", sans attendre qu'elle vienne le signaler spontanément.
 - Si un jour la charge contraceptive devient un sujet de tension, informe-toi sur les options masculines réellement disponibles (préservatif en usage systématique, [vasectomie](<../2 - Notions/Vasectomie.md>) si le projet familial est arrêté) plutôt que de considérer que c'est "son problème à elle" par défaut.
 - Accompagne-la au rendez-vous de renouvellement de temps en temps si c'est possible, la présence d'un partenaire change souvent la façon dont une consultation gynécologique se déroule, dans le bon sens.
+
+## Sources vérifiables
+
+- Rivera, R., Yacobson, I. & Grimes, D., « The mechanism of action of hormonal contraceptives and intrauterine contraceptive devices », *American Journal of Obstetrics and Gynecology*, 1999 ; vérification du 7 août 2026.
+- Skovlund, C. et coll., « Association of Hormonal Contraception With Depression », *JAMA Psychiatry*, 2016 ; vérification du 7 août 2026.
+- Haute Autorité de Santé, *Contraception* ; vérification du 7 août 2026.
+- Assurance maladie, *Les différentes méthodes de contraception*, ameli.fr ; vérification du 7 août 2026.
+- [Oral Contraceptives (Birth Control Pills) and Cancer Risk](https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet), National Cancer Institute ; vérification du 11 août 2026.
+- [More Proof That The Birth Control Pill Reduces Risk Of Ovarian Cancer](https://www.ashasexualhealth.org/more-proof-that-the-birth-control-pill-reduces-risk-of-ovarian-cancer/), American Sexual Health Association ; vérification du 11 août 2026.
+- [Oral contraceptive use and ovarian cancer risk for BRCA1/2 mutation carriers: an international cohort study](https://pmc.ncbi.nlm.nih.gov/articles/PMC8278569/), *PMC* ; vérification du 11 août 2026.
 
 ---
 

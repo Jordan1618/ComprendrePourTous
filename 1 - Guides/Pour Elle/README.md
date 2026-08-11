@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 70711
+mots: 71344
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -27,7 +27,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 3 | [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<03 - La sante emotionnelle feminine.md>) | psychologie | 1 972 |
 | 4 | [La dépression féminine : le visage qu'elle prend](<04 - La depression feminine.md>) | psychologie | 2 127 |
 | 5 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<05 - Anxiete stress et corps.md>) | psychologie | 1 840 |
-| 6 | [La pilule et la contraception hormonale : raisonnement étape par étape](<06 - Contraception hormonale.md>) | prévention | 1 515 |
+| 6 | [La pilule et la contraception hormonale : raisonnement étape par étape](<06 - Contraception hormonale.md>) | prévention | 2 139 |
 | 7 | [Panorama complet des troubles et pathologies du cycle](<07 - Troubles et pathologies du cycle.md>) | physiologie | 5 951 |
 | 8 | [La sexualité féminine : anatomie, réponse sexuelle, troubles](<08 - Sexualité féminine.md>) | relation | 4 819 |
 | 9 | [La grossesse : physiologie et complications](<09 - La grossesse.md>) | physiologie | 2 499 |
@@ -58,7 +58,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 34 | [Comment sont-elles vues et existent-elles dans la famille](<34 - Comment sont-elles vues et existent-elles dans la famille.md>) | relation | 2 021 |
 | 35 | [Mères célibataires aujourd'hui](<35 - Meres celibataires aujourd hui.md>) | relation | 2 120 |
 
-Total : 70 711 mots, 35 chapitres.
+Total : 71 344 mots, 35 chapitres.
 
 ## Le guide jumeau
 
