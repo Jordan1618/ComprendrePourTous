@@ -68,6 +68,19 @@ Les prises en charge de première intention sont les mêmes que pour les hommes,
 
 Trois points spécifiques. L'effet des ISRS sur la libido est fréquent et rarement anticipé : il se discute avec le prescripteur, et il ne justifie jamais un arrêt brutal. En période d'allaitement, des traitements compatibles existent — l'idée qu'il faudrait choisir entre se soigner et allaiter est fausse et coûte cher. Et alléger la charge réelle fait partie du traitement : ce n'est pas du confort, c'est un levier. Les psychothérapies structurées ont montré une efficacité constante sur la dépression dans une série de méta-analyses regroupant de nombreux essais (source : Cuijpers et coll., « Psychological treatment of depression: results of a series of meta-analyses », *Canadian Journal of Psychiatry*, 2008 ; vérification du 7 août 2026).
 
+### 4.6 bis Ce que montrent, très concrètement, les chances de s'en sortir
+
+Ce chapitre a nommé beaucoup de difficultés ; il doit aussi nommer, avec la même rigueur, à quel point les chances de rémission sont réelles — parce que c'est une information qui manque cruellement au moment où elle serait la plus utile à entendre. [Environ 40 à 60 % des personnes constatent une amélioration de leurs symptômes dès le premier traitement antidépresseur essayé, avec environ 37 % atteignant une rémission complète](https://sciencewatch.blog/how-many-people-recover-from-depression). Et si ce premier essai ne suffit pas, ce n'est jamais une impasse : [l'essai de référence STAR*D a montré un taux de rémission cumulé de 66 % après jusqu'à quatre essais de traitements antidépresseurs successifs](https://sciencewatch.blog/how-many-people-recover-from-depression) — la plupart des personnes finissent par trouver le traitement qui fonctionne pour elles, même quand le premier essai déçoit.
+
+[La combinaison d'une thérapie cognitivo-comportementale et d'un traitement médicamenteux atteint un taux de réussite de 73 %, supérieur à chacune des deux approches prise isolément](https://sciencewatch.blog/how-many-people-recover-from-depression). Un dernier repère mérite d'être connu, parce qu'il donne une raison concrète de ne pas attendre : [commencer un traitement dans les six premiers mois d'un épisode dépressif augmente la vitesse de rémission de 40 %](https://sciencewatch.blog/how-many-people-recover-from-depression). Consulter tôt n'est donc pas qu'un principe de précaution abstrait — c'est un facteur mesuré qui accélère concrètement le rétablissement.
+
+Un facteur protecteur mérite une place à part entière dans ce chapitre, parce qu'il est à la portée de chacune, en complément de tout traitement engagé. [L'autocompassion — la capacité à se traiter avec bienveillance dans les moments difficiles plutôt qu'avec une sévérité excessive — agit comme un facteur protecteur contre le développement de troubles psychologiques, et un niveau plus élevé d'autocompassion est associé à un bien-être psychologique accru et à une dépression plus faible](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591980/). Une étude longitudinale menée spécifiquement chez des femmes en milieu de vie — une période de vulnérabilité déjà identifiée plus haut dans ce chapitre — a mis en évidence [une relation bidirectionnelle et auto-renforçante entre l'autocompassion et le risque de symptômes dépressifs, qui peut jouer un rôle protecteur ou, à l'inverse, aggravant selon le sens dans lequel elle évolue](https://www.tandfonline.com/doi/full/10.1080/13697137.2023.2256651) — ce qui signifie, concrètement, que cultiver activement l'autocompassion peut initier un cercle vertueux, tout comme la sévérité envers soi-même peut en initier un vicieux.
+
+**Bons réflexes.**
+- Se rappeler, dans les moments de doute sur l'utilité de se soigner, que les chances de rémission sont réelles et documentées — la plupart des personnes qui engagent un traitement finissent par aller mieux, parfois après plusieurs essais.
+- Consulter tôt plutôt que d'attendre que la situation empire — un délai plus court entre le début des symptômes et le début du traitement accélère mesurablement le rétablissement.
+- Pratiquer consciemment l'autocompassion — se parler à soi-même comme on parlerait à une amie proche traversant la même épreuve — comme un levier réel de rétablissement, pas comme une indulgence superflue.
+
 💑 **Dans le couple**
 
 L'erreur la plus fréquente du partenaire est de vouloir remonter le moral, ce qui revient à demander à quelqu'un d'aller mieux. La seconde est d'attendre une demande explicite, qui ne viendra pas — demander est précisément ce que la maladie empêche.
@@ -81,3 +94,14 @@ Ce qui aide : reprendre des tâches sans les annoncer comme un service, et propo
 - Deux semaines sont le repère. Au-delà d'un état bas quasi permanent, consulter est raisonnable.
 - Ne laissez pas « c'est normal avec ta vie » clore la discussion. Une explication n'est pas un traitement.
 - **3114** en cas d'idées suicidaires, y compris pour un proche inquiet.
+
+## Sources vérifiables
+
+- Kessler, R. et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026.
+- Angst, J. et coll., « Gender differences in depression », *European Archives of Psychiatry and Clinical Neuroscience*, 2002 ; vérification du 7 août 2026.
+- O'Hara, M. & McCabe, J., « Postpartum depression: current status and future directions », *Annual Review of Clinical Psychology*, 2013 ; vérification du 7 août 2026.
+- Nolen-Hoeksema, S., « Gender differences in depression », *Current Directions in Psychological Science*, 2001 ; vérification du 7 août 2026.
+- Cuijpers, P. et coll., « Psychological treatment of depression: results of a series of meta-analyses », *Canadian Journal of Psychiatry*, 2008 ; vérification du 7 août 2026.
+- [How Many People Recover From Depression? Success Statistics](https://sciencewatch.blog/how-many-people-recover-from-depression), citant notamment l'essai STAR*D ; vérification du 11 août 2026.
+- [The Role of Self-Compassion in Buffering Symptoms of Depression in the General Population](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4591980/), *PLOS ONE* ; vérification du 11 août 2026.
+- [Longitudinal relationships between self-compassion and depressive symptoms in midlife women](https://www.tandfonline.com/doi/full/10.1080/13697137.2023.2256651), *Climacteric* ; vérification du 11 août 2026.
