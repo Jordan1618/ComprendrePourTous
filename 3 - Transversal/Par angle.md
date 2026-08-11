@@ -84,6 +84,7 @@ Ce que ça change concrètement quand on est deux.
 - [Le désert relationnel féminin : soutenir tout le monde, être soutenue par personne](<../1 - Guides/Pour Elle/23 - Le desert relationnel feminin.md>)  `corps féminin` · Pour Elle
 - [La boîte à outils de couple](<../1 - Guides/Pour Elle/24 - La boite a outils de couple.md>)  `corps féminin` · Pour Elle
 - [Les limites : ce qui n'est pas à toi de porter](<../1 - Guides/Pour Elle/25 - Les limites.md>)  `corps féminin` · Pour Elle
+- [Ce que les femmes attendent des femmes](<../1 - Guides/Pour Elle/27 - Ce que les femmes attendent des femmes.md>)  `corps féminin` · Pour Elle
 - [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/11 - La sexualité comme langage émotionnel.md>)  `corps masculin` · Pour Lui
 - [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/12 - Le désir dans la durée.md>)  `corps masculin` · Pour Lui
 - [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>)  `corps masculin` · Pour Lui
@@ -105,6 +106,7 @@ Ce que ça change concrètement quand on est deux.
 - [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `commun` · Questions et communication
 - [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `commun` · Questions et communication
 - [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `commun` · Questions et communication
+- [Trouver sa place dedans](<../1 - Guides/Familles recomposees/02 - Trouver sa place dedans.md>)  `commun` · Familles recomposées
 
 ## Pratique
 
@@ -130,6 +132,7 @@ Quoi faire, concrètement, avec des formulations et des gestes précis.
 - [Femme enceinte : ce qui change vraiment](<../1 - Guides/Massage professionnel/08 - Femme enceinte.md>)  `commun` · Massage professionnel
 - [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>)  `commun` · Questions et communication
 - [Le cadre](<../1 - Guides/Questions et communication/06 - Le cadre.md>)  `commun` · Questions et communication
+- [Les bons principes à avoir](<../1 - Guides/Familles recomposees/03 - Les bons principes a avoir.md>)  `commun` · Familles recomposées
 
 ## Repères
 
@@ -159,5 +162,7 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Les six familles de questions](<../1 - Guides/Questions et communication/03 - Les six familles de questions.md>)  `commun` · Questions et communication
 - [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `commun` · Questions et communication
 - [Sources vérifiables](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>)  `commun` · Questions et communication
+- [Les familles recomposées aujourd'hui](<../1 - Guides/Familles recomposees/01 - Les familles recomposees aujourd hui.md>)  `commun` · Familles recomposées
+- [Sources vérifiables](<../1 - Guides/Familles recomposees/04 - Sources verifiables.md>)  `commun` · Familles recomposées
 
 Retour à [l'accueil de Comprendre pour tous](<../README.md>).

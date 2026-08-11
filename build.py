@@ -80,6 +80,7 @@ GUIDE_ORDER = [
     "La rencontre",
     "L amour",
     "Pour Nous",
+    "Familles recomposees",
 ]
 
 # Ordre d'affichage des fichiers de "0 - Guides complets".
@@ -94,6 +95,7 @@ FULL_GUIDE_ORDER = [
     "La rencontre",
     "L'amour",
     "Pour Nous",
+    "Familles recomposées",
 ]
 
 # Fichiers de la racine qui ne sont pas publies comme pages.
