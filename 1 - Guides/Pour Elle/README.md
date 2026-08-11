@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 68263
+mots: 68615
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -23,7 +23,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
 | 1 | [Le cycle menstruel : anatomie et physiologie de base](<01 - Le cycle menstruel.md>) | physiologie | 2 493 |
-| 2 | [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<02 - Pourquoi les humains menstruent.md>) | physiologie | 1 821 |
+| 2 | [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<02 - Pourquoi les humains menstruent.md>) | physiologie | 2 173 |
 | 3 | [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<03 - La sante emotionnelle feminine.md>) | psychologie | 1 206 |
 | 4 | [La dépression féminine : le visage qu'elle prend](<04 - La depression feminine.md>) | psychologie | 1 461 |
 | 5 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<05 - Anxiete stress et corps.md>) | psychologie | 1 176 |
@@ -58,7 +58,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 34 | [Comment sont-elles vues et existent-elles dans la famille](<34 - Comment sont-elles vues et existent-elles dans la famille.md>) | relation | 2 021 |
 | 35 | [Mères célibataires aujourd'hui](<35 - Meres celibataires aujourd hui.md>) | relation | 2 120 |
 
-Total : 68 263 mots, 35 chapitres.
+Total : 68 615 mots, 35 chapitres.
 
 ## Le guide jumeau
 

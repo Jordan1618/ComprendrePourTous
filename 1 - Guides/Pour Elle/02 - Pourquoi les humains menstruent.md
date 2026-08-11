@@ -52,6 +52,14 @@ Une croyance très répandue veut que les femmes qui vivent ensemble ou qui sont
 
 **💑 Dans le couple** : ce mythe n'a rien d'inoffensif dans son usage, il peut pousser à chercher des explications "magiques" à des variations qui n'ont aucun lien réel entre elles (par exemple, si ta partenaire et une collègue ont leurs règles "en même temps", ce n'est ni un signe ni un phénomène biologique particulier, juste une coïncidence statistiquement banale).
 
+### 2.5 bis Une bonne nouvelle scientifique récente : reconstituer un cycle menstruel en laboratoire
+
+Voici une nouvelle réellement enthousiasmante pour qui s'intéresse à ce sujet, et qui mérite d'être connue autant que les zones d'ombre encore présentes dans la recherche. [Des chercheurs ont mis au point un protocole de cycle menstruel reconstitué in vitro à partir d'organoïdes endométriaux humains, qui reproduit fidèlement la dynamique cyclique des cellules épithéliales de l'utérus](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(26)00145-1?rss=yes) — une prouesse technique qui permet, pour la première fois, d'observer en laboratoire une fenêtre du cycle jusque-là quasiment inaccessible à l'étude directe.
+
+Une avancée complémentaire, plus simple à mettre en œuvre et porteuse d'un vrai espoir pour la recherche à grande échelle : [des organoïdes dérivés directement du sang menstruel reproduisent les caractéristiques structurelles et fonctionnelles clés de l'endomètre, avec une réponse à la stimulation hormonale comparable à celle des modèles issus de biopsies](https://academic.oup.com/hropen/advance-article/doi/10.1093/hropen/hoaf063/8286935) — le sang menstruel, longtemps traité comme un simple déchet biologique à évacuer discrètement, devient une source non invasive et abondante pour étudier l'endomètre à l'échelle d'une population entière, sans avoir besoin d'une biopsie invasive pour chaque étude. Ces modèles servent déjà concrètement à mieux comprendre des maladies comme le syndrome des ovaires polykystiques et l'endométriose, en observant directement comment leurs tissus se comportent différemment d'un endomètre sain.
+
+Ce qui rend cette avancée particulièrement porteuse d'espoir : un champ de recherche resté largement sous-financé et sous-étudié pendant des décennies, comme le rappelle le témoignage de Linda Griffith cité plus haut, dispose enfin d'outils technologiques à la hauteur de sa complexité biologique réelle — un domaine longtemps relégué au second plan qui commence, concrètement, à rattraper son retard.
+
 ### 2.6 Un dernier détour : le tabou culturel des règles, historiquement et aujourd'hui
 
 Au-delà du mécanisme biologique, la menstruation porte depuis longtemps une charge culturelle lourde dans de très nombreuses sociétés, pratiques d'isolement pendant les règles, croyances "d'impureté", tabous encore très présents dans certaines régions du monde aujourd'hui. Cette charge symbolique n'a rien de biologique : elle s'ajoute au phénomène physiologique lui-même et explique en grande partie pourquoi le sujet a été aussi peu étudié scientifiquement pendant des décennies (voir aussi le témoignage de Linda Griffith, chapitre 13, sur le sous-financement historique de la recherche sur l'endométriose).
@@ -64,3 +72,9 @@ Un exemple concret de cette évolution récente : en France, l'accès gratuit au
 - Évite les comparaisons du type "les animaux n'ont pas ce problème", en plus d'être scientifiquement inexactes, elles minimisent une réalité biologique complexe et spécifiquement humaine.
 - Si le sujet t'intéresse vraiment, le podcast, les articles ou les conférences de vulgarisation de l'Inserm sur l'endométriose et l'évolution de la menstruation sont une bonne porte d'entrée à explorer, éventuellement ensemble.
 - Ne relance jamais la théorie de la synchronisation même sur le ton de la blague ("c'est bizarre, vous êtes réglées pareil avec ta sœur"), ce n'est ni vrai, ni un compliment scientifique, même si l'intention est innocente.
+
+## Sources vérifiables
+
+- [An in vitro menstrual cycle using organoids captures epithelial cell transitions during menstruation and regeneration of the human endometrium](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(26)00145-1?rss=yes), *Cell Stem Cell* ; vérification du 11 août 2026.
+- [Modeling the window of implantation: Insights from endometrial biopsy and menstrual blood-derived organoids](https://academic.oup.com/hropen/advance-article/doi/10.1093/hropen/hoaf063/8286935), *Human Reproduction Open* ; vérification du 11 août 2026.
+- Johnston-Robledo, I. & Chrisler, J., [« The menstrual mark: menstruation as social stigma »](https://link.springer.com/article/10.1007/s11199-011-0052-z), *Sex Roles*, 2013 ; vérification du 11 août 2026.
