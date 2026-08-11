@@ -10,13 +10,13 @@ licence: "CC BY 4.0"
 
 # Les conflits entre hommes
 
-Ce chapitre décrit un monde parallèle qui se joue à côté de ta relation et qui l'influence en permanence, souvent sans que rien n'en soit dit à la maison.
+Ce chapitre décrit un monde parallèle, presque invisible de l'extérieur, qui se joue en permanence à côté de ta relation et qui l'influence bien plus qu'on ne le croit, souvent sans que rien n'en soit jamais dit à la maison.
 
 ### 15.1 La table des rangs
 
 **L'analogie.** Une salle de banquet où les places ne sont pas marquées mais où tout le monde sait qui est assis où. Personne n'a écrit le plan de table, personne n'en parle jamais, et pourtant chacun sait exactement à quelle distance du haut bout il se trouve. Changer de place se remarque immédiatement.
 
-Le groupe masculin s'organise spontanément selon une hiérarchie implicite. Les critères varient énormément d'un milieu à l'autre : dans un atelier ce sera la compétence technique et l'ancienneté, dans un bureau le titre et l'influence, dans une bande d'amis l'humour et le sang-froid, dans une salle de sport la performance. Ce qui est constant, c'est l'existence du classement, pas son contenu.
+Le groupe masculin, quel qu'il soit, s'organise presque toujours spontanément selon une hiérarchie implicite, sans qu'aucune règle écrite ne l'établisse jamais formellement. Les critères varient énormément d'un milieu à l'autre : dans un atelier ce sera la compétence technique et l'ancienneté, dans un bureau le titre et l'influence, dans une bande d'amis l'humour et le sang-froid, dans une salle de sport la performance. Ce qui est constant, c'est l'existence du classement, pas son contenu.
 
 Trois conséquences pratiques :
 
@@ -51,7 +51,7 @@ Le compromis qui fonctionne : accepter le geste comme signal de réconciliation,
 
 ### 15.4 Le père et le fils
 
-C'est le conflit fondateur, et celui qui laisse le plus de traces.
+C'est le conflit fondateur de tous les autres décrits dans ce chapitre, et celui qui laisse, de très loin, le plus de traces durables.
 
 Trois configurations dominent :
 
@@ -69,7 +69,7 @@ Le point commun des trois : la relation au père se rejoue dans les relations à
 
 ### 15.5 L'ami qui réussit
 
-L'envie entre hommes est un sentiment massif et strictement interdit d'expression. Il n'existe aucune formulation socialement acceptable pour dire "la réussite de mon ami me fait mal". La conséquence est que le sentiment ne disparaît pas, il se convertit : en distance progressive, en petites piques, en dévalorisation de la réussite en question, ou en surcompensation.
+L'envie ressentie entre hommes est un sentiment massif, universellement partagé, et pourtant strictement interdit d'expression directe par les codes sociaux implicites déjà décrits dans ce chapitre. Il n'existe aucune formulation socialement acceptable pour dire "la réussite de mon ami me fait mal". La conséquence est que le sentiment ne disparaît pas, il se convertit : en distance progressive, en petites piques, en dévalorisation de la réussite en question, ou en surcompensation.
 
 Ce mécanisme explique un phénomène très courant et rarement compris : les amitiés masculines résistent mal à une divergence importante de trajectoire. Deux amis dont l'un décroche nettement dans la carrière, l'argent, la vie de couple ou la santé s'éloignent souvent, et aucun des deux ne saura dire pourquoi.
 
