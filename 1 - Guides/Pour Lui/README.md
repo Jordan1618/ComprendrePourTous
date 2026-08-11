@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 31
-mots: 57646
+mots: 58422
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -35,7 +35,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 11 | [La sexualité comme langage émotionnel](<11 - La sexualité comme langage émotionnel.md>) | relation | 1 934 |
 | 12 | [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<12 - Le désir dans la durée.md>) | relation | 2 000 |
 | 13 | [Les âges de la vie masculine](<13 - Les âges de la vie masculine.md>) | psychologie | 1 795 |
-| 14 | [Le désert relationnel : être la seule personne à qui il parle](<14 - Le désert relationnel.md>) | relation | 852 |
+| 14 | [Le désert relationnel : être la seule personne à qui il parle](<14 - Le désert relationnel.md>) | relation | 1 628 |
 | 15 | [Les conflits entre hommes](<15 - Les conflits entre hommes.md>) | relation | 1 927 |
 | 16 | [La boîte à outils de couple](<16 - La boîte à outils de couple.md>) | relation | 1 254 |
 | 17 | [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<17 - Les reproches récurrents.md>) | relation | 2 458 |
@@ -54,7 +54,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 30 | [Comment sont-ils vus et existent-ils dans la famille](<30 - Comment sont-ils vus et existent-ils dans la famille.md>) | relation | 2 022 |
 | 31 | [Pères célibataires aujourd'hui](<31 - Peres celibataires aujourd hui.md>) | relation | 2 008 |
 
-Total : 57 646 mots, 31 chapitres.
+Total : 58 422 mots, 31 chapitres.
 
 ## Le guide jumeau
 
