@@ -12,7 +12,7 @@ licence: "CC BY 4.0"
 
 ### 10.1 Pourquoi ce chapitre existe à côté du chapitre 11
 
-Le chapitre 11 de ce guide décrit la sexualité comme langage émotionnel : pour beaucoup d'hommes, elle est le canal par lequel passent de la tendresse, une demande de réassurance ou un besoin de proximité, faute d'autres canaux disponibles.
+Le chapitre 11 de ce guide décrit la sexualité comme langage émotionnel à part entière : pour beaucoup d'hommes, elle est le canal privilégié par lequel passent de la tendresse, une demande de réassurance ou un besoin de proximité, faute d'autres canaux disponibles ou appris pour exprimer la même chose autrement.
 
 C'est vrai, et pris seul, c'est un cliché qui dessert. Il laisse entendre que la sexualité masculine ne serait qu'un substitut émotionnel, ce qui est doublement faux : elle a une physiologie propre, qui se dérègle et se soigne comme le reste du corps, et elle a une valeur en elle-même, pas seulement comme véhicule d'autre chose.
 
@@ -20,7 +20,7 @@ Ce chapitre traite le versant physiologique, en pendant du chapitre 8 de [Pour E
 
 ### 10.2 Ce qui se passe réellement pendant une érection
 
-Contrairement à une idée répandue, l'érection n'est pas un phénomène musculaire volontaire. C'est un phénomène **vasculaire**, involontaire, sous contrôle du système nerveux autonome.
+Contrairement à une idée très répandue, y compris chez de nombreux hommes concernés eux-mêmes, l'érection n'est pas un phénomène musculaire volontaire qu'on pourrait commander par la seule force de la volonté. C'est un phénomène **vasculaire**, entièrement involontaire, sous le contrôle du système nerveux autonome — le même système qui régule la digestion ou le rythme cardiaque, hors de portée directe de la conscience.
 
 Le mécanisme, en trois temps. Une stimulation — physique, mentale, ou les deux — déclenche la libération d'oxyde nitrique dans les corps caverneux. Les artères se dilatent, le sang afflue. Le gonflement comprime les veines qui assurent le retour, ce qui maintient le remplissage.
 
@@ -52,6 +52,19 @@ Un point mal connu : le **[désir réactif](<../../2 - Notions/Désir spontané 
 
 **La douleur.** Elle existe chez l'homme et est très peu documentée : maladie de Lapeyronie, phimosis, prostatite, douleurs pelviennes chroniques. Une douleur sexuelle n'est jamais à supporter en silence. La prévalence des différents troubles sexuels masculins a été mesurée à grande échelle aux États-Unis (source : Laumann, Paik & Rosen, « Sexual dysfunction in the United States: prevalence and predictors », *JAMA*, 1999 ; vérification du 7 août 2026).
 
+### 10.4 bis Ce que ça vaut de savoir : les troubles cités se traitent, et bien
+
+Ce chapitre vient de dérouler une liste de troubles — il faut aussi dire, avec la même précision, à quel point ils répondent bien aux traitements disponibles aujourd'hui, une information qui manque à beaucoup d'hommes qui n'osent jamais consulter.
+
+Sur les troubles de l'érection spécifiquement, l'efficacité des traitements médicamenteux de première ligne est solidement établie. [Les inhibiteurs de la PDE5 sont hautement efficaces dans le traitement de la dysfonction érectile, améliorant la fonction érectile de 7 à 10 points sur l'échelle de référence par rapport à un placebo, à dose maximale](https://pmc.ncbi.nlm.nih.gov/articles/PMC3776492/). [Les taux de rapports sexuels réussis atteignent 65 %, 62 % et 59 % selon la molécule utilisée, contre seulement 23 à 28 % sous placebo](https://www.nature.com/articles/3901395) — [avec des variations selon la cause sous-jacente, le taux de succès moyen atteignant 82 % toutes causes organiques confondues, et jusqu'à 85 % pour certaines causes spécifiques](https://www.tandfonline.com/doi/full/10.1016/j.aju.2013.07.009).
+
+Une nuance honnête s'impose, pour ne pas transformer ce constat en promesse universelle : [ces traitements restent inefficaces chez au moins 30 % des patients, ce qui explique pourquoi la recherche continue activement d'explorer d'autres cibles pharmacologiques](https://www.ncbi.nlm.nih.gov/books/NBK549843/) — mais pour la majorité des hommes concernés, une solution médicamenteuse simple, sûre et largement disponible existe déjà, sans qu'il soit nécessaire d'en avoir honte ni d'en repousser indéfiniment la discussion avec un médecin.
+
+**Bons réflexes.**
+- Ne jamais présumer qu'un trouble de l'érection restera sans solution — les traitements de première ligne fonctionnent pour la grande majorité des hommes qui les essaient.
+- Consulter un médecin généraliste en premier lieu ; la prescription d'un traitement de première ligne ne nécessite pas systématiquement un spécialiste.
+- Si un premier traitement ne fonctionne pas, ne pas en conclure qu'aucune solution n'existe — d'autres options, y compris non médicamenteuses, sont disponibles et se discutent avec un professionnel.
+
 ### 10.5 Ce que la pornographie déforme
 
 Sans diabolisation ni minimisation, trois effets documentés ou solidement décrits.
@@ -81,3 +94,14 @@ La formulation qui désamorce, dite à froid et hors de la chambre : **« ça n'
 - Traitez un trouble de l'érection comme un signal de santé, pas comme un sujet honteux : il précède parfois de plusieurs années un événement cardiovasculaire.
 - Sachez que le désir réactif existe aussi chez les hommes. Ne pas avoir envie spontanément n'est pas une anomalie.
 - Une douleur sexuelle se consulte, toujours.
+
+## Sources vérifiables
+
+- Lue, T. (2000), « Erectile dysfunction », *New England Journal of Medicine* ; vérification du 7 août 2026.
+- Bancroft, J. & Janssen, E. (2000), « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews* ; vérification du 7 août 2026.
+- Laumann, E., Paik, A. & Rosen, R. (1999), « Sexual dysfunction in the United States: prevalence and predictors », *JAMA* ; vérification du 7 août 2026.
+- Park, B. et coll. (2016), « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences* ; vérification du 7 août 2026.
+- [Phosphodiesterase-5 (PDE5) Inhibitors In the Management of Erectile Dysfunction](https://pmc.ncbi.nlm.nih.gov/articles/PMC3776492/), *PMC* ; vérification du 11 août 2026.
+- [Efficacy of PDE-5-inhibitors for erectile dysfunction](https://www.nature.com/articles/3901395), *International Journal of Impotence Research* ; vérification du 11 août 2026.
+- [Phosphodiesterase type 5 inhibitors as a treatment for erectile dysfunction: Current information and new horizons](https://www.tandfonline.com/doi/full/10.1016/j.aju.2013.07.009), *Arab Journal of Urology* ; vérification du 11 août 2026.
+- [PDE5 Inhibitors](https://www.ncbi.nlm.nih.gov/books/NBK549843/), StatPearls ; vérification du 11 août 2026.
