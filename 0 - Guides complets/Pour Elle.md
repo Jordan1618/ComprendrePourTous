@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 30
-mots: 47532
+mots: 48039
 verifie_le: 2026-08-10
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -2173,6 +2173,14 @@ Une autre peur répandue mérite d'être nuancée avec autant de soin que les pr
 
 Là où le phénomène est observé, [une lecture structurelle l'explique davantage par les inégalités de genre systémiques du monde professionnel que par une pathologie individuelle](https://theconversation.com/the-immortal-and-false-myth-of-the-workplace-queen-bee-129680) — une femme qui a dû lutter seule pour sa place peut reproduire une dureté apprise dans un contexte donné, sans que ce soit une caractéristique féminine générale. Réduire ce mécanisme à « les femmes sont dures entre elles » masque la cause réelle et alimente une méfiance générique entre femmes qui n'est pas soutenue par l'ensemble des preuves disponibles.
 
+### La rivale potentielle : une vigilance spécifique et documentée
+
+Une autre peur, différente de celles du jugement social, mérite d'être nommée séparément : celle qu'une autre femme représente une menace pour sa relation de couple. [Les femmes détectent les signaux d'infidélité potentielle plus vite et plus précisément que les hommes, et orientent spécifiquement leur attention vers les rivales potentielles dans l'entourage de leur partenaire](https://www.sciencedirect.com/science/article/abs/pii/S1090513814001019) — une vigilance ciblée, différente de la vigilance générale décrite plus haut.
+
+[Cette jalousie et cette surveillance de la rivale s'intensifient spécifiquement envers les femmes proches du pic de fertilité](https://journals.sagepub.com/doi/10.1177/0146167216678859), ce qui suggère un mécanisme ancien plutôt qu'un simple trait de caractère individuel. Et [l'infidélité émotionnelle d'un partenaire, pas seulement sexuelle, est vécue comme particulièrement menaçante chez les femmes — un signe possible que le partenaire pourrait quitter la relation ou détourner ses ressources vers une autre](https://www.tandfonline.com/doi/full/10.1080/14681994.2019.1639657), ce qui explique pourquoi une proximité émotionnelle non sexuelle avec une autre femme peut inquiéter autant, voire davantage, qu'un épisode isolé purement physique.
+
+Cette vigilance ciblée n'a rien à voir avec le mécanisme social du jugement ou de la réputation décrit plus haut — c'est un système d'alerte distinct, spécifiquement lié à la relation de couple, qui n'implique aucun jugement sur les femmes en général.
+
 ### Ce que ça change en pratique
 
 La peur du jugement féminin n'est ni une invention ni une fatalité généralisée. C'est un mécanisme social réel, plus fréquent dans certains contextes (les débuts de la maternité, les groupes à forte hiérarchie sociale implicite) que dans d'autres, et systématiquement amplifié par l'anticipation par rapport à ce qui se produit vraiment. La connaître permet de la traverser sans se couper des relations féminines qui, par ailleurs, restent — comme le premier chapitre de cette section le montre — l'un des soutiens les plus solides qui existent.
@@ -2184,6 +2192,9 @@ La peur du jugement féminin n'est ni une invention ni une fatalité généralis
 - Crowley, J., [Unpacking the Power of the Mommy Wars](https://onlinelibrary.wiley.com/doi/10.1111/soin.12077), *Sociological Inquiry* ; vérification du 11 août 2026.
 - [Mommy Wars](https://www.pathwaysprofessional.org/blog/2019/2/19/mommy-wars), Pathways Professional Counseling ; vérification du 11 août 2026.
 - [The immortal – and false – myth of the workplace Queen Bee](https://theconversation.com/the-immortal-and-false-myth-of-the-workplace-queen-bee-129680), *The Conversation* ; vérification du 11 août 2026.
+- [Coping with mate poaching: gender differences in detection of infidelity-related threats](https://www.sciencedirect.com/science/article/abs/pii/S1090513814001019), *Evolution and Human Behavior* ; vérification du 11 août 2026.
+- [Women's Fertility Status Alters Other Women's Jealousy and Mate Guarding](https://journals.sagepub.com/doi/10.1177/0146167216678859), *Personality and Social Psychology Bulletin* ; vérification du 11 août 2026.
+- [Gender differences in response to infidelity types and rival attractiveness](https://www.tandfonline.com/doi/full/10.1080/14681994.2019.1639657), *Psychology & Sexuality* ; vérification du 11 août 2026.
 
 ---
 
@@ -2207,6 +2218,14 @@ Un point à connaître, qui a une vraie valeur pratique : [une expérience pass�
 Perception générale : la prudence d'une femme envers un inconnu est parfois lue par les hommes comme une méfiance personnelle ou une accusation implicite, alors qu'elle s'applique de façon quasi automatique et systématique, indépendamment de la personne en face.
 Dans sa tête à lui : « pourquoi elle se méfie de moi, je n'ai rien fait » — une réaction compréhensible, mais qui manque le fait que l'évaluation ne porte pas sur lui spécifiquement au départ, elle porte sur la situation.
 
+### Ce que disent les chiffres français, précisément
+
+Au-delà de la perception, la réalité statistique française mérite d'être connue avec précision, plutôt que devinée. [En 2024, les services de sécurité ont enregistré 272 400 victimes de violences commises par un partenaire ou ex-partenaire, un niveau quasiment stable par rapport à 2023](https://www.interieur.gouv.fr/actualites/communiques-de-presse/violences-conjugales-enregistrees-par-services-de-securite-quasi-stabilisation-en-2024). [84 % de ces victimes sont des femmes, et 85 % des auteurs identifiés sont des hommes](https://www.interieur.gouv.fr/actualites/communiques-de-presse/violences-conjugales-enregistrees-par-services-de-securite-quasi-stabilisation-en-2024).
+
+Deux précisions qui changent la lecture de ces chiffres. D'abord, [seule une victime de violences conjugales sur six dépose plainte auprès des services de sécurité](https://www.interieur.gouv.fr/actualites/communiques-de-presse/violences-conjugales-enregistrees-par-services-de-securite-quasi-stabilisation-en-2024) — les chiffres enregistrés sont donc une sous-estimation nette et connue de la réalité, pas une photographie complète. Ensuite, [1 283 femmes ont été victimes de féminicides ou de tentatives de féminicide au sein du couple en 2024](https://www.interieur.gouv.fr/actualites/communiques-de-presse/violences-conjugales-enregistrees-par-services-de-securite-quasi-stabilisation-en-2024), le point où cette peur cesse d'être une perception pour devenir un risque vital documenté.
+
+Ces chiffres ne concernent, statistiquement, qu'une minorité des relations. Mais ils expliquent pourquoi la vigilance décrite plus haut n'est pas une anomalie psychologique à corriger : elle répond à un risque réel, mesuré, et documenté année après année par les pouvoirs publics eux-mêmes — voir la notion [contrôle coercitif](<../2 - Notions/Contrôle coercitif.md>) et le chapitre sur les limites pour les signaux à connaître et les ressources d'aide.
+
 ### Ce que ça change concrètement, dans les deux sens
 
 Pour un homme qui veut comprendre cette peur sans la prendre personnellement : elle ne dit rien sur lui en particulier tant qu'aucun signal spécifique n'a été perçu. Les comportements qui la désamorcent le plus efficacement sont simples et concrets — respecter un « non » sans discussion ni insistance, ne pas s'approcher physiquement sans signal clair, laisser à l'autre le contrôle de l'espace et du rythme dans les premières interactions, ne pas minimiser une inquiétude exprimée.
@@ -2226,3 +2245,4 @@ Cette vigilance, aussi réelle soit-elle, coexiste très bien avec des relations
 
 - [After #MeToo Have Women Become More Afraid of Men?](https://www.americansurveycenter.org/newsletter/after-metoo-have-women-become-more-afraid-of-men/), Survey Center on American Life ; vérification du 11 août 2026.
 - [Women's sensitivity to threat in online dating and the (in)effectiveness of standard safety warnings](https://www.researchgate.net/publication/379715919_Women's_sensitivity_to_threat_in_online_dating_and_the_ineffectiveness_of_standard_safety_warnings), *Computers in Human Behavior* ; vérification du 11 août 2026.
+- Ministère de l'Intérieur (SSMSI), [Violences conjugales enregistrées par les services de sécurité : quasi-stabilisation en 2024](https://www.interieur.gouv.fr/actualites/communiques-de-presse/violences-conjugales-enregistrees-par-services-de-securite-quasi-stabilisation-en-2024) ; vérification du 11 août 2026.
