@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 22
-mots: 33900
+mots: 33954
 verifie_le: 2026-08-10
 licence: "CC BY 4.0"
 ---
@@ -29,7 +29,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 5 | [Les grands profils masculins](<05 - Les grands profils masculins.md>) | psychologie | 3 271 |
 | 6 | [La dépression masculine : le visage qu'elle ne prend pas](<06 - La dépression masculine.md>) | psychologie | 1 427 |
 | 7 | [Anxiété, stress et corps : le circuit court](<07 - Anxiété, stress et corps.md>) | psychologie | 809 |
-| 8 | [Le corps masculin : ce qu'il est utile de savoir](<08 - Le corps masculin.md>) | physiologie | 1 306 |
+| 8 | [Le corps masculin : ce qu'il est utile de savoir](<08 - Le corps masculin.md>) | physiologie | 1 360 |
 | 9 | [La contraception masculine : ce qui existe vraiment](<09 - La contraception masculine.md>) | prévention | 1 188 |
 | 10 | [La sexualité masculine : anatomie, réponse, troubles](<10 - La sexualite masculine.md>) | physiologie | 1 317 |
 | 11 | [La sexualité comme langage émotionnel](<11 - La sexualité comme langage émotionnel.md>) | relation | 1 430 |
@@ -45,7 +45,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 21 | [Aide-mémoire](<21 - Aide-mémoire.md>) | repères | 949 |
 | 22 | [Sources vérifiables](<22 - Sources verifiables.md>) | repères | 1 352 |
 
-Total : 33 900 mots, 22 chapitres.
+Total : 33 954 mots, 22 chapitres.
 
 ## Le guide jumeau
 

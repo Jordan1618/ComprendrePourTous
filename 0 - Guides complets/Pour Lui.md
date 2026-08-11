@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 22
-mots: 33884
+mots: 33938
 verifie_le: 2026-08-10
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
@@ -854,7 +854,7 @@ Un rappel factuel court, parce que c'est le genre d'information qui ne circule p
 - **Prostate.** L'hypertrophie bénigne est très fréquente après 50 ans et se manifeste par des troubles urinaires (envies nocturnes, jet faible, sensation de vidange incomplète). Elle n'a rien à voir avec le cancer. Le dépistage du cancer de la prostate par PSA fait débat et se discute individuellement avec le médecin à partir de 50 ans, ou 45 ans en cas d'antécédent familial ou d'origine afro-caribéenne.
 - **Le bilan des 40 ans.** Tension, bilan lipidique, glycémie à jeun. C'est le minimum, et c'est très largement négligé.
 
-**💑 Dans le couple.** Le rôle de la partenaire dans le suivi médical masculin est massif et documenté. Dans beaucoup de couples, c'est elle qui prend les rendez-vous, elle qui repère la grosseur, elle qui insiste pour le bilan. Ce n'est pas idéal comme répartition, et le chapitre 10 en discute. Mais dans l'immédiat, savoir ces quelques repères a une valeur concrète. Les recommandations de dépistage du cancer de la prostate sont fixées par les autorités de santé, sans consensus pour un dépistage systématique en population générale (source : Haute Autorité de santé, *Dépistage du cancer de la prostate* ; vérification du 7 août 2026).
+**💑 Dans le couple.** Le rôle de la partenaire dans le suivi médical masculin est massif et documenté. Dans beaucoup de couples, c'est elle qui prend les rendez-vous, elle qui repère la grosseur, elle qui insiste pour le bilan. Ce n'est pas idéal comme répartition, et le chapitre 10 en discute. Mais dans l'immédiat, savoir ces quelques repères a une valeur concrète. [Les autorités de santé françaises ne recommandent pas de dépistage systématique du cancer de la prostate par PSA en population générale, ni chez les hommes à risque plus élevé](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate).
 
 ### 8.5 Le trio qui abîme tout
 
@@ -862,7 +862,14 @@ Si tu ne devais retenir que trois leviers physiques sur la santé émotionnelle 
 
 1. **Le sommeil.** Une dette de sommeil chronique produit exactement le tableau d'un homme irritable, sans libido, sans concentration et sans élan. Beaucoup de "dépressions" légères se résolvent en trois semaines de sommeil correct.
 2. **L'alcool.** Régulateur émotionnel le plus utilisé par les hommes, et dépresseur du système nerveux central. Il soulage sur l'instant et aggrave le fond. Deux verres quotidiens qui deviennent trois est un signal, pas une habitude.
-3. **L'activité physique.** L'effet antidépresseur de l'exercice régulier est l'un des mieux documentés en psychiatrie, avec des effets comparables à certains traitements sur les formes légères à modérées. Chez un homme qui régule par le corps plutôt que par la parole, c'est souvent le levier le plus accessible. Attention toutefois à la version pathologique décrite en 6.2 : le sport peut aussi devenir un évitement, quand il sert à ne pas rentrer à la maison. Le tabac, l'alcool et la sédentarité figurent parmi les facteurs de risque dont la charge combinée sur la santé est la mieux quantifiée au niveau mondial (source : GBD 2019 Risk Factors Collaborators, « Global burden of 87 risk factors », *The Lancet*, 2020 ; vérification du 7 août 2026).
+3. **L'activité physique.** L'effet antidépresseur de l'exercice régulier est l'un des mieux documentés en psychiatrie, avec des effets comparables à certains traitements sur les formes légères à modérées. Chez un homme qui régule par le corps plutôt que par la parole, c'est souvent le levier le plus accessible. Attention toutefois à la version pathologique décrite en 6.2 : le sport peut aussi devenir un évitement, quand il sert à ne pas rentrer à la maison. [Le tabac, l'alcool et la sédentarité figurent parmi les facteurs de risque dont la charge combinée sur la santé est la mieux quantifiée au niveau mondial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30752-2/fulltext).
+
+## Sources vérifiables
+
+- Haute Autorité de Santé, [Détection précoce du cancer de la prostate](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate) ; vérification du 11 août 2026.
+- GBD 2019 Risk Factors Collaborators (2020), [Global burden of 87 risk factors](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30752-2/fulltext), *The Lancet* ; vérification du 11 août 2026.
+
+*Les autres chiffres de ce chapitre (déclin de la testostérone, prévalence du DALA, prévalence de la dysfonction érectile par âge) restent attribués à leurs sources institutionnelles d'origine (Société Française d'Endocrinologie, La Revue du Praticien, Association Française d'Urologie) sans lien vérifié individuellement à ce stade — à compléter avant publication finale.*
 
 ---
 
