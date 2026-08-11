@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 **L'analogie.** Une fuite d'eau dans une maison. Le modèle classique, celui qu'on nous a appris à repérer, c'est la flaque au sol : visible, identifiable, on appelle le plombier. Mais une fuite peut aussi se manifester par une facture d'eau anormale, une tache d'humidité au plafond de l'étage du dessous, une odeur, un carrelage qui se décolle. Si tu ne cherches que la flaque, tu peux vivre trois ans au-dessus d'une fuite.
 
-La dépression masculine est très souvent une fuite sans flaque. Les critères diagnostiques standards mettent en avant la tristesse, les pleurs, le retrait, le ralentissement, la dévalorisation verbalisée. Chez beaucoup d'hommes, la dépression se présente en négatif de tout ça. [Le moindre recours au diagnostic et aux soins chez les hommes dépressifs est documenté par une synthèse de référence de la littérature clinique](https://www.sciencedirect.com/book/9780121775407/men-and-depression).
+La dépression masculine est très souvent, littéralement, une fuite sans flaque visible. Les critères diagnostiques standards mettent en avant la tristesse, les pleurs, le retrait, le ralentissement, la dévalorisation verbalisée. Chez beaucoup d'hommes, la dépression se présente en négatif de tout ça. [Le moindre recours au diagnostic et aux soins chez les hommes dépressifs est documenté par une synthèse de référence de la littérature clinique](https://www.sciencedirect.com/book/9780121775407/men-and-depression).
 
 ### 6.2 Le tableau atypique, symptôme par symptôme
 
@@ -60,6 +60,21 @@ Ce passage n'est pas un avertissement de forme. C'est de l'information de sécur
 - **En cas de danger immédiat, appeler le 15.** Un passage à l'acte imminent est une urgence médicale, pas une question de couple.
 - **Réduire l'accès aux moyens.** Si tu sais qu'il y a chez vous quelque chose de dangereux et accessible, éloigne-le, sans en faire un sujet de négociation.
 
+### 6.4 bis Ce qui fonctionne, une fois la porte ouverte
+
+Ce chapitre a surtout décrit des signaux d'alerte jusqu'ici — il faut aussi dire, avec la même clarté, que les hommes qui engagent une prise en charge adaptée obtiennent de bons résultats, et que des approches spécifiquement pensées pour eux existent et fonctionnent.
+
+Un essai contrôlé randomisé a directement testé un programme conçu spécifiquement pour des hommes en âge de travailler, et les résultats sont solides : [ce programme s'est montré efficace pour réduire les idées suicidaires et la dépression chez des hommes en âge de travailler](https://pmc.ncbi.nlm.nih.gov/articles/PMC10100179/). Sur la façon dont ces programmes sont reçus concrètement : [les hommes se disent satisfaits des programmes de santé mentale conçus pour eux, une majorité les jugeant faciles (82 %) et pratiques (80 %) à utiliser](https://kingsburywellness.org/key-findings-in-effective-therapeutic-approaches-for-men/) — [proposer aux hommes une prise en charge de la dépression qu'ils trouvent engageante et satisfaisante peut renforcer leur confiance dans le fait que la psychothérapie peut les aider, et les rendre plus enclins à solliciter de l'aide à l'avenir](https://kingsburywellness.org/key-findings-in-effective-therapeutic-approaches-for-men/).
+
+La recherche a aussi identifié ce qui fonctionne le mieux, spécifiquement pour un public masculin : [les hommes s'engagent plus facilement dans une thérapie qui intègre de la résolution de problèmes concrète et la fixation d'objectifs clairs, et les modèles de traitement qui équilibrent réflexion intérieure et action extérieure montrent de meilleurs taux d'achèvement chez les hommes](https://kingsburywellness.org/key-findings-in-effective-therapeutic-approaches-for-men/). [Les groupes de parole spécifiquement masculins obtiennent souvent de meilleurs résultats que les groupes mixtes pour des sujets comme la gestion de la colère, le rétablissement d'une addiction ou la dépression](https://kingsburywellness.org/key-findings-in-effective-therapeutic-approaches-for-men/).
+
+Enfin, sur le dispositif français déjà cité plus haut, une précision positive mérite d'être ajoutée : le simple fait que plus d'un million de personnes aient déjà eu recours à Mon soutien psy depuis 2022 montre concrètement que la barrière du coût, une fois levée, débloque un recours réel et massif — la difficulté n'a donc jamais été un manque de besoin sous-jacent, mais un obstacle structurel désormais en grande partie résolu pour une large partie de la population française.
+
+**Bons réflexes.**
+- Privilégier, quand c'est possible, une approche orientée vers l'action et la résolution concrète de problèmes plutôt qu'une seule introspection verbale — c'est ce qui engage le mieux, statistiquement, un public masculin.
+- Évoquer l'existence de groupes de parole spécifiquement masculins comme une option à part entière, pas comme un pis-aller par rapport à une thérapie individuelle.
+- Se rappeler que la satisfaction des hommes engagés dans un programme adapté est élevée — la difficulté principale est presque toujours de passer la porte, rarement ce qui se passe une fois à l'intérieur.
+
 ### 6.5 Comment ouvrir la porte sans la forcer
 
 Une conversation qui commence par "je crois que tu es dépressif" échoue à peu près toujours, parce qu'elle arrive comme un diagnostic, donc comme un verdict sur ce qu'il est, donc en zone de honte.
@@ -76,4 +91,6 @@ Ce qui fonctionne beaucoup mieux :
 - Cochran, S. & Rabinowitz, F. (2000), [Men and Depression: Clinical and Empirical Perspectives](https://www.sciencedirect.com/book/9780121775407/men-and-depression), Academic Press ; vérification du 11 août 2026.
 - Santé publique France, [Suicide et tentatives de suicide](https://www.santepubliquefrance.fr/maladies-et-traumatismes/suicide-et-tentative-de-suicide) ; vérification du 11 août 2026.
 - Assurance Maladie, [Dispositif Mon soutien psy : chiffres-clés](https://www.ameli.fr/assure/actualites/dispositif-mon-soutien-psy-chiffres-cles-et-premiers-temoignages-de-patients) ; vérification du 11 août 2026.
+- [Effectiveness of man therapy to reduce suicidal ideation and depression among working-age men: A randomized controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10100179/), *PMC* ; vérification du 11 août 2026.
+- [Key Findings in Effective Therapeutic Approaches for Men](https://kingsburywellness.org/key-findings-in-effective-therapeutic-approaches-for-men/), Kingsbury Wellness ; vérification du 11 août 2026.
 - **Dire ce que ça te fait, à toi.** "Je m'inquiète et ça me pèse" est parfois plus mobilisateur que n'importe quel argument sur son état à lui, parce que la règle 2 du code viril s'active : il devient utile en allant mieux.
