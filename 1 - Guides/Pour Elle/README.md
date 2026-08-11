@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 65632
+mots: 66548
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -47,7 +47,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 23 | [Le désert relationnel féminin](<23 - Le desert relationnel feminin.md>) | relation | 1 905 |
 | 24 | [La boîte à outils de couple](<24 - La boite a outils de couple.md>) | relation | 1 915 |
 | 25 | [Les limites : ce qui n'est pas à toi de porter](<25 - Les limites.md>) | relation | 1 883 |
-| 26 | [La santé sur vingt ans : ce qui compte et quand](<26 - La sante sur le long terme.md>) | prévention | 906 |
+| 26 | [La santé sur vingt ans : ce qui compte et quand](<26 - La sante sur le long terme.md>) | prévention | 1 824 |
 | 27 | [Ce que les femmes attendent des femmes](<27 - Ce que les femmes attendent des femmes.md>) | relation | 2 002 |
 | 28 | [Ce que les femmes attendent des hommes](<28 - Ce que les femmes attendent des hommes.md>) | relation | 2 002 |
 | 29 | [Ce qui leur fait peur chez les femmes](<29 - Ce qui leur fait peur chez les femmes.md>) | relation | 2 177 |
@@ -58,7 +58,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 34 | [Comment sont-elles vues et existent-elles dans la famille](<34 - Comment sont-elles vues et existent-elles dans la famille.md>) | relation | 2 021 |
 | 35 | [Mères célibataires aujourd'hui](<35 - Meres celibataires aujourd hui.md>) | relation | 2 120 |
 
-Total : 65 632 mots, 35 chapitres.
+Total : 66 548 mots, 35 chapitres.
 
 ## Le guide jumeau
 
