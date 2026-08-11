@@ -56,6 +56,14 @@ Une autre peur, différente de celles du jugement social, mérite d'être nommé
 
 Cette vigilance ciblée n'a rien à voir avec le mécanisme social du jugement ou de la réputation décrit plus haut — c'est un système d'alerte distinct, spécifiquement lié à la relation de couple, qui n'implique aucun jugement sur les femmes en général.
 
+### La peur de la rupture non résolue
+
+Une dernière peur mérite d'être nommée : celle qu'une amitié se délite sans explication, sans dispute identifiable, par un éloignement progressif qui ne permet ni de comprendre ni de faire le deuil proprement. [Ce type de perte, appelé perte ambiguë, est systématiquement plus difficile à traiter qu'une rupture nette, parce que l'esprit ne peut pas achever son travail de deuil et continue à chercher une résolution qui ne vient jamais](https://formalpsychology.com/friendship-breakups-psychology-of-loss/). C'est une peur diffuse, difficile à nommer précisément parce qu'elle porte sur une absence plutôt que sur un événement — voir le chapitre sur ce qui compte vraiment chez les femmes pour le mécanisme complet de cette forme de deuil non reconnu socialement.
+
+**Bons réflexes.**
+- Face à une amitié qui semble s'éloigner sans raison claire, poser directement la question plutôt que de laisser l'ambiguïté s'installer — une réponse honnête, même décevante, reste plus vivable qu'une incertitude prolongée.
+- Se permettre de nommer cette perte comme un vrai deuil, même sans rupture officielle ni dispute à raconter.
+
 ### Ce que ça change en pratique
 
 La peur du jugement féminin n'est ni une invention ni une fatalité généralisée. C'est un mécanisme social réel, plus fréquent dans certains contextes (les débuts de la maternité, les groupes à forte hiérarchie sociale implicite) que dans d'autres, et systématiquement amplifié par l'anticipation par rapport à ce qui se produit vraiment. La connaître permet de la traverser sans se couper des relations féminines qui, par ailleurs, restent — comme le premier chapitre de cette section le montre — l'un des soutiens les plus solides qui existent.
@@ -70,3 +78,4 @@ La peur du jugement féminin n'est ni une invention ni une fatalité généralis
 - [Coping with mate poaching: gender differences in detection of infidelity-related threats](https://www.sciencedirect.com/science/article/abs/pii/S1090513814001019), *Evolution and Human Behavior* ; vérification du 11 août 2026.
 - [Women's Fertility Status Alters Other Women's Jealousy and Mate Guarding](https://journals.sagepub.com/doi/10.1177/0146167216678859), *Personality and Social Psychology Bulletin* ; vérification du 11 août 2026.
 - [Gender differences in response to infidelity types and rival attractiveness](https://www.tandfonline.com/doi/full/10.1080/14681994.2019.1639657), *Psychology & Sexuality* ; vérification du 11 août 2026.
+- [The Silent Heartbreak: Why Friendship Breakups Often Hurt More Than Romantic Ones](https://formalpsychology.com/friendship-breakups-psychology-of-loss/), Formal Psychology ; vérification du 11 août 2026.
