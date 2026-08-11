@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 35
-mots: 74166
+mots: 75916
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -26,28 +26,28 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 2 | [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<02 - Pourquoi les humains menstruent.md>) | physiologie | 2 173 |
 | 3 | [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<03 - La sante emotionnelle feminine.md>) | psychologie | 2 003 |
 | 4 | [La dépression féminine : le visage qu'elle prend](<04 - La depression feminine.md>) | psychologie | 2 127 |
-| 5 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<05 - Anxiete stress et corps.md>) | psychologie | 1 960 |
+| 5 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<05 - Anxiete stress et corps.md>) | psychologie | 2 042 |
 | 6 | [La pilule et la contraception hormonale : raisonnement étape par étape](<06 - Contraception hormonale.md>) | prévention | 2 139 |
 | 7 | [Panorama complet des troubles et pathologies du cycle](<07 - Troubles et pathologies du cycle.md>) | physiologie | 5 951 |
 | 8 | [La sexualité féminine : anatomie, réponse sexuelle, troubles](<08 - Sexualité féminine.md>) | relation | 4 819 |
 | 9 | [La grossesse : physiologie et complications](<09 - La grossesse.md>) | physiologie | 2 499 |
 | 10 | [L'accouchement et le post-partum](<10 - Accouchement et post-partum.md>) | physiologie | 2 132 |
-| 11 | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<11 - Les pieges de la modernite.md>) | prévention | 1 952 |
-| 12 | [Les peurs : lesquelles sont fondées, et comment avancer](<12 - Les peurs rationnelles ou non.md>) | prévention | 1 831 |
-| 13 | [Les figures de la recherche en 2026 : qui fait avancer quoi](<13 - La recherche en 2026.md>) | repères | 1 847 |
-| 14 | [Conseils pratiques généraux, au-delà du cas par cas](<14 - Conseils pratiques généraux.md>) | pratique | 1 898 |
+| 11 | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<11 - Les pieges de la modernite.md>) | prévention | 2 021 |
+| 12 | [Les peurs : lesquelles sont fondées, et comment avancer](<12 - Les peurs rationnelles ou non.md>) | prévention | 2 003 |
+| 13 | [Les figures de la recherche en 2026 : qui fait avancer quoi](<13 - La recherche en 2026.md>) | repères | 2 077 |
+| 14 | [Conseils pratiques généraux, au-delà du cas par cas](<14 - Conseils pratiques généraux.md>) | pratique | 2 013 |
 | 15 | [Foire aux questions rapides](<15 - Foire aux questions.md>) | pratique | 471 |
 | 16 | [Ressources et associations utiles](<16 - Ressources et associations.md>) | repères | 275 |
 | 17 | [Glossaire complet des termes médicaux employés dans ce document](<17 - Glossaire des termes médicaux.md>) | repères | 489 |
 | 18 | [Sources vérifiables](<18 - Sources verifiables.md>) | repères | 1 729 |
-| 19 | [Le décor : ce que disent les chiffres](<19 - Le decor ce que disent les chiffres.md>) | repères | 1 830 |
+| 19 | [Le décor : ce que disent les chiffres](<19 - Le decor ce que disent les chiffres.md>) | repères | 2 000 |
 | 20 | [Les grands profils féminins](<20 - Les grands profils feminins.md>) | psychologie | 3 866 |
-| 21 | [Le corps féminin : ce qu'il est utile de savoir](<21 - Le corps feminin ce qu il est utile de savoir.md>) | physiologie | 1 686 |
-| 22 | [Les âges de la vie féminine](<22 - Les ages de la vie feminine.md>) | psychologie | 1 905 |
-| 23 | [Le désert relationnel féminin](<23 - Le desert relationnel feminin.md>) | relation | 1 905 |
-| 24 | [La boîte à outils de couple](<24 - La boite a outils de couple.md>) | relation | 1 915 |
-| 25 | [Les limites : ce qui n'est pas à toi de porter](<25 - Les limites.md>) | relation | 1 883 |
-| 26 | [La santé sur vingt ans : ce qui compte et quand](<26 - La sante sur le long terme.md>) | prévention | 1 824 |
+| 21 | [Le corps féminin : ce qu'il est utile de savoir](<21 - Le corps feminin ce qu il est utile de savoir.md>) | physiologie | 2 002 |
+| 22 | [Les âges de la vie féminine](<22 - Les ages de la vie feminine.md>) | psychologie | 2 000 |
+| 23 | [Le désert relationnel féminin](<23 - Le desert relationnel feminin.md>) | relation | 2 003 |
+| 24 | [La boîte à outils de couple](<24 - La boite a outils de couple.md>) | relation | 2 007 |
+| 25 | [Les limites : ce qui n'est pas à toi de porter](<25 - Les limites.md>) | relation | 2 001 |
+| 26 | [La santé sur vingt ans : ce qui compte et quand](<26 - La sante sur le long terme.md>) | prévention | 2 017 |
 | 27 | [Ce que les femmes attendent des femmes](<27 - Ce que les femmes attendent des femmes.md>) | relation | 2 002 |
 | 28 | [Ce que les femmes attendent des hommes](<28 - Ce que les femmes attendent des hommes.md>) | relation | 2 002 |
 | 29 | [Ce qui leur fait peur chez les femmes](<29 - Ce qui leur fait peur chez les femmes.md>) | relation | 2 177 |
@@ -58,7 +58,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 34 | [Comment sont-elles vues et existent-elles dans la famille](<34 - Comment sont-elles vues et existent-elles dans la famille.md>) | relation | 2 021 |
 | 35 | [Mères célibataires aujourd'hui](<35 - Meres celibataires aujourd hui.md>) | relation | 2 120 |
 
-Total : 74 166 mots, 35 chapitres.
+Total : 75 916 mots, 35 chapitres.
 
 ## Le guide jumeau
 

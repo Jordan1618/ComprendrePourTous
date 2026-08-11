@@ -89,6 +89,8 @@ Dernier point, et il compte. Porter en continu le rôle de conciliante, de donne
 
 Un couple où une personne est en permanence l'aidante et l'autre l'aidé n'est pas un couple, c'est un service — une relation, quelle que soit sa forme, suppose un mouvement dans les deux sens, même s'il ne prend pas la même forme des deux côtés. La réciprocité n'a pas besoin d'être symétrique dans la forme, elle a besoin d'exister. [Préserver sa propre santé émotionnelle est un facteur protecteur documenté chez les proches aidants](https://academic.oup.com/gerontologist/article/30/5/583/564941), et le principe se transpose directement à n'importe quel rôle de soin relationnel prolongé.
 
+Ce dernier point rejoint directement ce qui a été établi au 25.4 ter : une personne qui prend soin de ses propres besoins n'est pas égoïste, elle entretient la seule ressource qui lui permettra de continuer à être présente pour les autres sur la durée, sans s'épuiser complètement au point de ne plus rien pouvoir offrir du tout, à personne. Ce n'est jamais un renoncement à la relation ou à la famille qu'on tient à cœur, ni un manque d'engagement envers elles, c'est une condition concrète de leur tenue dans le temps — et c'est précisément ce que ce chapitre entier a cherché à établir, section après section, mécanisme après mécanisme, du début jusqu'à cette toute dernière ligne.
+
 ## Sources vérifiables
 
 - Johnson, [*The Practice of Emotionally Focused Couple Therapy: Creating Connection*](https://www.routledge.com/The-Practice-of-Emotionally-Focused-Couple-Therapy-Creating-Connection/Johnson/p/book/9780815348016), Routledge, 2004 ; vérification du 10 août 2026.

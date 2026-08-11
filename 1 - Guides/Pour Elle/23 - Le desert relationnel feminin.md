@@ -72,6 +72,8 @@ Ce n'est jamais une question de volonté personnelle insuffisante à demander de
 - **Prendre l'initiative du contact plutôt que d'attendre une demande** — dans les quatre situations décrites ici, c'est précisément la capacité à demander qui est la première affectée.
 - **Se rappeler que la taille apparente d'un réseau ne dit rien de la qualité du soutien réellement reçu** — le vérifier directement, plutôt que de le présumer à partir des apparences.
 
+Ce chapitre a volontairement pris le contre-pied de son équivalent masculin, parce que le mécanisme réel l'exige : là où l'homme du chapitre miroir manque de réseau au sens le plus direct, la femme décrite ici en manque rarement — elle en est le pilier constant, ce qui rend son propre isolement à la fois plus difficile à repérer et plus facile à ignorer, y compris par elle-même. Reconnaître cette différence de mécanisme, plutôt que de plaquer un même diagnostic sur les deux situations, est la condition pour proposer une aide qui corresponde réellement à ce qui manque.
+
 ## Sources vérifiables
 
 - [Kinkeeping](https://en.wikipedia.org/wiki/Kinkeeping), concept sociologique développé par Carolyn Rosenthal, 1985 ; vérification du 10 août 2026.

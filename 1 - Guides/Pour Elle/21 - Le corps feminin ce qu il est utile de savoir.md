@@ -75,6 +75,14 @@ Les mêmes trois leviers reviennent, sous une forme légèrement différente de 
 Perception générale : la fatigue féminine chronique est plus souvent attribuée d'emblée à une cause psychologique ou au stress qu'à une cause organique à écarter d'abord — [un biais documenté dans la prise en charge médicale, où les symptômes physiques des femmes sont plus fréquemment minimisés ou requalifiés](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la).
 Dans sa tête à lui : « elle est fatiguée parce qu'elle en fait trop », une explication qui n'est pas fausse mais qui empêche de chercher une cause organique en parallèle.
 
+### 21.5 Le fil qui relie tous ces repères
+
+Quatre sujets ont été traités dans ce chapitre — thyroïde, dépistage du sein, os, fer, terrain auto-immun — et ils peuvent sembler, pris un par un, relever de spécialités médicales complètement distinctes, sans grand rapport entre elles. Ils partagent pourtant un même point de départ : ce sont tous des terrains où le corps féminin est statistiquement bien plus exposé que le corps masculin, et où les symptômes précoces se recoupent largement avec ceux, vagues et non spécifiques, qu'on attribue par défaut au stress, à la fatigue de vie ou à l'âge — fatigue, prise de poids, troubles de l'humeur, douleurs diffuses.
+
+Ce recoupement des symptômes n'est pas un hasard malheureux, c'est précisément ce qui explique pourquoi ces pathologies mettent souvent plus de temps à être identifiées : un même tableau clinique flou peut recouvrir une dysthyroïdie, une carence en fer, une maladie auto-immune débutante, ou effectivement une fatigue ordinaire liée à une vie chargée — et rien, à première vue, ne permet de trancher entre ces hypothèses sans un dosage biologique simple. C'est pour cette raison que ce chapitre a insisté, section après section, sur le même réflexe : ne pas accepter une explication par défaut avant d'avoir, au moins une fois, écarté une cause organique identifiable et traitable.
+
+Ce que ce chapitre a cherché à donner n'est donc pas une liste de maladies à redouter, mais un ensemble de repères factuels permettant de distinguer, avec un peu plus de précision, ce qui relève probablement d'une fatigue de vie ordinaire de ce qui mérite un dosage ou un examen avant d'être classé comme tel. Dans l'immense majorité des cas, un bilan simple suffit à trancher, et il coûte, en temps comme en argent, infiniment moins que les années d'incertitude que ces pathologies mettent parfois à être diagnostiquées quand personne n'a pensé à les évoquer plus tôt.
+
 ## Sources vérifiables
 
 - FHP-MCO, [« Les inégalités face aux troubles thyroïdiens »](https://www.fhpmco.fr/2025/01/09/les-inegalites-face-aux-troubles-thyroidiens/), 2025 ; vérification du 10 août 2026.

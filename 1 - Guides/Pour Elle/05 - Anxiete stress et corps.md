@@ -87,6 +87,8 @@ Ce qui aide bien davantage tient dans une question simple, à deux options clair
 - Connaissez les signes atypiques de l'infarctus chez la femme. C'est l'information la plus utile de ce chapitre.
 - Fixez une limite à la vérification. Au-delà, chercher n'informe plus, ça entretient.
 
+Le fil qui relie tout ce chapitre tient en une phrase : l'anxiété dit presque toujours quelque chose de vrai sur un déséquilibre réel, même quand elle se trompe sur la nature exacte du danger. Apprendre à l'écouter sans lui obéir aveuglément, et se faire entendre par le corps médical sans se laisser réduire au stress, sont les deux faces d'un même apprentissage — et c'est un apprentissage qui, contrairement à beaucoup d'autres, se perfectionne concrètement avec le temps et la pratique.
+
 ## Sources vérifiables
 
 - Kessler, R. et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026.

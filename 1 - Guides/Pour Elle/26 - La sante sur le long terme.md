@@ -85,6 +85,12 @@ Ce principe vaut tout particulièrement pour les paramètres les moins spectacul
 - En cas d'antécédent de prééclampsie ou de diabète gestationnel, en informer explicitement le professionnel qui assure le suivi cardiovasculaire, même des années après l'accouchement.
 - Ne jamais minimiser un trouble du sommeil persistant comme une simple fatalité liée à l'âge — des prises en charge efficaces existent et méritent d'être demandées explicitement.
 
+### 26.5 Ce que ce chapitre change concrètement, une fois mis en pratique
+
+Ce chapitre a listé ce qu'il faut surveiller et quand, en croisant un classement par impact et un calendrier par décennie. Il faut dire une dernière chose, qui vaut pour l'ensemble : aucun des gestes décrits ici n'est spectaculaire pris isolément — une mesure de tension, un frottis, un dosage de TSH, une mention d'antécédent de grossesse compliquée. C'est précisément cette discrétion qui les rend faciles à repousser indéfiniment, et c'est précisément pour cette raison qu'ils ont été rassemblés dans un seul chapitre plutôt que dispersés, un par un, dans le reste du guide.
+
+Le fil qui relie le suivi cardiovasculaire, les dépistages spécifiques, le sommeil et la santé mentale n'est pas seulement médical, il est structurel : chacun de ces paramètres est statistiquement plus susceptible d'être minimisé, reporté ou attribué par défaut au stress chez une femme, pour les mêmes raisons documentées dans le chapitre sur les chiffres qui ouvre ce guide. Suivre ce calendrier n'est donc pas seulement une bonne pratique individuelle, c'est une façon concrète de compenser un biais systémique documenté, geste après geste, décennie après décennie.
+
 ## Sources vérifiables
 
 - Fédération Hospitalière de France / Ipsos, [enquête sur les biais de genre dans la prise en charge médicale](https://www.fhf.fr/actualites/communiques-de-presse/entre-poids-de-la-charge-sanitaire-familiale-et-persistance-de-biais-dans-les-pratiques-de-soin-la) ; vérification du 10 août 2026.

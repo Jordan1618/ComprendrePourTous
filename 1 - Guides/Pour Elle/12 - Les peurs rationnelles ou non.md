@@ -85,6 +85,8 @@ Ce qui fonctionne mieux : **« tu veux que je te rassure, ou que je t'aide à tr
 - Fixez une limite à la vérification. Au-delà, chercher n'informe plus, ça entretient.
 - Consultez sur un écart par rapport à votre normale, pas sur une norme générale.
 
+Un dernier repère résume, à lui seul, tout ce chapitre : la peur qui protège vraiment n'est presque jamais la plus bruyante ni la plus spectaculaire ni la plus racontée autour de soi, elle est simplement la plus statistiquement fondée. Réorienter son inquiétude vers ce qui tue et handicape le plus réellement, sur le temps long — le cardiovasculaire, le tabac, le retard de diagnostic — plutôt que vers ce qui fait le plus peur intuitivement sur le moment, est le geste le plus rentable de toute la prévention féminine, et il ne coûte, au fond, rien de plus qu'un simple déplacement d'attention. Ce recalibrage n'a rien d'un exercice abstrait : chaque item de ce chapitre correspond à une décision concrète, prise une fois pour toutes — un bilan cardiovasculaire programmé, un vaccin HPV fait, un dépistage inscrit à l'agenda une fois pour l'année — qui continue ensuite de produire ses effets pendant des années sans qu'il soit nécessaire d'y repenser sans cesse ni de vivre dans une inquiétude permanente et diffuse.
+
 ## Sources vérifiables
 
 - Tversky, A. & Kahneman, D., « Availability: A heuristic for judging frequency and probability », *Cognitive Psychology*, 1973 ; vérification du 7 août 2026.

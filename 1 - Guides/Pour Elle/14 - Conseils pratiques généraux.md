@@ -71,6 +71,8 @@ La compétence la plus utile que tu puisses développer n'est pas d'être un exp
 
 Ce guide est écrit pour être mis à jour : les recommandations de santé évoluent, et une donnée datée reste préférable à une fausse certitude (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
 
+Si un seul principe devait résumer tous les autres énumérés dans ce chapitre, ce serait celui-ci : la présence compte davantage que la compétence. Personne n'attend d'un partenaire qu'il connaisse par cœur les critères diagnostiques d'une endométriose ou les signaux précis d'une prééclampsie avant même que la situation ne se présente — ce document existe justement pour ça, et il restera disponible le jour venu. Ce qu'aucun document ne peut fournir à l'avance, en revanche, c'est la disposition à croire, à accompagner et à rester, une fois que la situation est réellement là. C'est cette disposition-là, bien plus que n'importe quelle liste de symptômes mémorisée, qui fait la différence dans les moments qui comptent vraiment.
+
 ## Sources vérifiables
 
 - Hoffmann, D. & Tarzian, A., « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026.

@@ -85,6 +85,8 @@ Une entrée qui fonctionne bien, sans jugement ni accusation implicite : **« es
 - Méfiez-vous des produits qui promettent beaucoup à la fois, et des formules sans contenu clinique comme « rééquilibrer ».
 - Ne transformez pas le repos en performance. Une pratique de bien-être qui ajoute de la culpabilité a manqué sa cible.
 
+Ce qui relie les quatre pièges de ce chapitre — comparaison, consommation, données personnelles, injonction — c'est qu'aucun ne se résout en se coupant entièrement du monde moderne, ce qui n'est de toute façon ni réaliste ni souhaitable. Ce qui les désamorce, c'est un usage choisi et actif plutôt que subi et passif, et c'est une distinction qui vaut pour un flux de photos comme pour un complément alimentaire.
+
 ## Sources vérifiables
 
 - Fardouly, J. & Vartanian, L., « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026.

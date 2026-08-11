@@ -89,6 +89,8 @@ Ce que ça donne, concrètement, à la place d'un « désolé » qui referme le 
 - Éviter de terminer par une demande explicite de pardon — la recherche montre qu'elle affaiblit, plutôt qu'elle ne renforce, l'effet de l'excuse.
 - Laisser à l'autre le temps d'intégrer une excuse plutôt que d'attendre un pardon immédiat en retour — la réparation d'une confiance se construit dans la durée, pas dans l'instant qui suit les mots prononcés.
 
+Aucun des outils rassemblés dans ce chapitre ne demande un talent particulier ni une transformation de personnalité — ce sont des structures simples et répétables, qui produisent un effet mesurable dès la première utilisation sincère, même maladroite. Un démarrage en douceur un peu raide reste préférable à une critique bien tournée, et une excuse imparfaite qui reconnaît la responsabilité vaut mieux qu'une excuse parfaite jamais formulée. C'est précisément ce qui en fait une boîte à outils au sens plein du terme, plutôt qu'une liste de qualités à espérer développer un jour lointain.
+
 ## Sources vérifiables
 
 - Christensen & Heavey, [« Gender and social structure in the demand/withdraw pattern of marital conflict »](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict), *Journal of Personality and Social Psychology*, 1990 ; vérification du 10 août 2026.
