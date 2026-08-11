@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 31
-mots: 52057
+mots: 52854
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -22,7 +22,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Le décor : ce que disent les chiffres](<01 - Ce que disent les chiffres.md>) | repères | 1 023 |
+| 1 | [Le décor : ce que disent les chiffres](<01 - Ce que disent les chiffres.md>) | repères | 1 820 |
 | 2 | [Le cycle masculin : ce qui existe vraiment](<02 - Le cycle masculin.md>) | physiologie | 1 119 |
 | 3 | [Le substrat : analyse socio-neuro-psychologique](<03 - Le substrat socio-neuro-psychologique.md>) | psychologie | 2 286 |
 | 4 | [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<04 - L'architecture émotionnelle.md>) | psychologie | 3 256 |
@@ -54,7 +54,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 30 | [Comment sont-ils vus et existent-ils dans la famille](<30 - Comment sont-ils vus et existent-ils dans la famille.md>) | relation | 2 022 |
 | 31 | [Pères célibataires aujourd'hui](<31 - Peres celibataires aujourd hui.md>) | relation | 2 008 |
 
-Total : 52 064 mots, 31 chapitres.
+Total : 52 854 mots, 31 chapitres.
 
 ## Le guide jumeau
 
