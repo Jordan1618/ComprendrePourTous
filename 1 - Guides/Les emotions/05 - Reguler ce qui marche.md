@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 On ne stoppe pas une rivière avec les mains. On peut en revanche creuser un lit, poser des berges, dévier en amont. La régulation émotionnelle n'est pas un effort de blocage : c'est un travail d'aménagement, et il est bien plus efficace **en amont** qu'au moment du débordement.
 
-C'est le principal apport du modèle de James Gross, qui organise les stratégies selon le moment où elles interviennent dans la séquence émotionnelle (source : Gross, *Review of General Psychology*, 1998, et travaux ultérieurs ; vérification du 6 août 2026).
+[C'est le principal apport du modèle de James Gross, qui organise les stratégies selon le moment où elles interviennent dans la séquence émotionnelle](https://emotion.wisc.edu/wp-content/uploads/sites/1353/2021/11/Gross-1998-The-Emerging-Field-of-Emotion-Regulation-An-Integrative-Review.pdf) (Gross, *Review of General Psychology*, 1998, et travaux ultérieurs ; vérification du 6 août 2026).
 
 ### 5.2 Les cinq points d'intervention
 
@@ -28,7 +28,7 @@ Du plus précoce au plus tardif — et l'ordre correspond assez bien à l'effica
 
 **4. Changer l'évaluation.** C'est la **réévaluation cognitive** : modifier le sens donné à la situation. « Il ne répond pas parce qu'il me méprise » devient « il ne répond pas, je ne sais pas pourquoi ». C'est la stratégie la mieux documentée en efficacité, associée à moins de symptômes dépressifs et à une meilleure satisfaction relationnelle.
 
-**5. Moduler la réponse.** Agir une fois l'émotion là : respiration, activité physique, et — cas particulier — la **suppression expressive**, c'est-à-dire ne rien montrer. Ces cinq points d'intervention constituent le modèle de régulation émotionnelle de James Gross, organisé selon le moment où chaque stratégie agit dans la séquence émotionnelle (source : Gross, « The emerging field of emotion regulation: an integrative review », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
+**5. Moduler la réponse.** Agir une fois l'émotion là : respiration, activité physique, et — cas particulier — la **suppression expressive**, c'est-à-dire ne rien montrer. [Ces cinq points d'intervention constituent le modèle de régulation émotionnelle de James Gross, organisé selon le moment où chaque stratégie agit dans la séquence émotionnelle](https://emotion.wisc.edu/wp-content/uploads/sites/1353/2021/11/Gross-1998-The-Emerging-Field-of-Emotion-Regulation-An-Integrative-Review.pdf) (Gross, « The emerging field of emotion regulation: an integrative review », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
 
 ### 5.3 Le point le plus important : la suppression ne marche pas
 
@@ -36,7 +36,7 @@ C'est le résultat le plus solide et le plus contre-intuitif du champ, et il con
 
 Ne rien montrer ne réduit pas l'émotion. Cela réduit son **expression** — tout en maintenant, voire en augmentant, l'activation physiologique. Les travaux de Gross et de son équipe documentent en outre trois coûts : une charge cognitive accrue (on se souvient moins bien de ce qui s'est dit), une moindre satisfaction relationnelle, et une distance ressentie par l'interlocuteur, qui perçoit quelque chose sans savoir quoi.
 
-Autrement dit : **serrer les dents fonctionne pour l'apparence et échoue pour tout le reste**. Cela ne signifie pas qu'il faille tout exprimer partout — le point 1 existe pour ça. Cela signifie que la suppression ne doit pas être la stratégie par défaut. La suppression expressive maintient l'activation physiologique tout en dégradant la mémoire et la qualité perçue de l'échange, un résultat répliqué expérimentalement (source : Gross & Levenson, « Emotional suppression: physiology, self-report, and expressive behavior », *Journal of Personality and Social Psychology*, 1993 ; vérification du 7 août 2026).
+Autrement dit : **serrer les dents fonctionne pour l'apparence et échoue pour tout le reste**. Cela ne signifie pas qu'il faille tout exprimer partout — le point 1 existe pour ça. Cela signifie que la suppression ne doit pas être la stratégie par défaut. [La suppression expressive maintient l'activation physiologique tout en dégradant la mémoire et la qualité perçue de l'échange, un résultat répliqué expérimentalement](https://pubmed.ncbi.nlm.nih.gov/8326473/) (Gross & Levenson, « Emotional suppression: physiology, self-report, and expressive behavior », *Journal of Personality and Social Psychology*, 1993 ; vérification du 7 août 2026).
 
 ### 5.4 Les autres fausses bonnes idées
 
@@ -44,7 +44,7 @@ Autrement dit : **serrer les dents fonctionne pour l'apparence et échoue pour t
 
 **La rumination.** Repasser mentalement une scène en boucle donne l'impression de traiter le problème. Susan Nolen-Hoeksema a documenté son rôle dans l'installation et la prolongation des épisodes dépressifs. La distinction utile est celle entre **réflexion** — qui avance, qui cherche une action — et **rumination** — qui tourne, qui cherche une cause. La première a une fin, la seconde non.
 
-**« Penser positif ».** Se forcer à voir le bon côté relève de la suppression déguisée. La réévaluation cognitive ne consiste pas à se raconter que tout va bien : elle consiste à envisager une interprétation **plus juste**, pas plus agréable. Ni la catharsis par décharge physique ni la rumination ne réduisent l'intensité d'une émotion négative dans la durée (source : Bushman, « Does venting anger feed or extinguish the flame? », *Personality and Social Psychology Bulletin*, 2002 ; Nolen-Hoeksema, « Responses to depression and their effects on the duration of depressive episodes », *Journal of Abnormal Psychology*, 1991 ; vérification du 7 août 2026).
+**« Penser positif ».** Se forcer à voir le bon côté relève de la suppression déguisée. La réévaluation cognitive ne consiste pas à se raconter que tout va bien : elle consiste à envisager une interprétation **plus juste**, pas plus agréable. [Ni la catharsis par décharge physique ni la rumination ne réduisent l'intensité d'une émotion négative dans la durée](https://journals.sagepub.com/doi/10.1177/0146167202289002) (Bushman, « Does venting anger feed or extinguish the flame? », *Personality and Social Psychology Bulletin*, 2002 ; [Nolen-Hoeksema, « Responses to depression and their effects on the duration of depressive episodes »](https://www.semanticscholar.org/paper/Responses-to-depression-and-their-effects-on-the-of-Nolen-Hoeksema/cb39ed0339ad08bde0496f27c2dfdb86869e97d2), *Journal of Abnormal Psychology*, 1991 ; vérification du 7 août 2026).
 
 ### 5.5 Ce qui fonctionne, en pratique
 
@@ -60,7 +60,7 @@ Par ordre d'appui empirique.
 
 **Écrire.** Le protocole de James Pennebaker — écrire vingt minutes par jour pendant trois à quatre jours sur un événement difficile, sans souci de forme — est associé à des bénéfices sur la santé et le bien-être dans de nombreuses études, avec des effets réels quoique modestes.
 
-**Dormir.** La privation de sommeil augmente la réactivité émotionnelle de façon mesurable. Beaucoup de « problèmes émotionnels » sont d'abord des dettes de sommeil. L'écriture expressive sur un événement difficile, répétée sur plusieurs jours, est associée à des bénéfices mesurables sur la santé (source : Pennebaker, « Writing about emotional experiences as a therapeutic process », *Psychological Science*, 1997 ; vérification du 7 août 2026).
+**Dormir.** La privation de sommeil augmente la réactivité émotionnelle de façon mesurable. Beaucoup de « problèmes émotionnels » sont d'abord des dettes de sommeil. [L'écriture expressive sur un événement difficile, répétée sur plusieurs jours, est associée à des bénéfices mesurables sur la santé](https://journals.sagepub.com/doi/10.1111/j.1467-9280.1997.tb00403.x) (Pennebaker, « Writing about emotional experiences as a therapeutic process », *Psychological Science*, 1997 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

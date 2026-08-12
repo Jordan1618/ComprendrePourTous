@@ -16,7 +16,7 @@ Un thermostat ne chauffe pas. Il détecte, compare à une consigne, et déclench
 
 Une émotion fonctionne dans cet ordre-là, et c'est contre-intuitif. Ce n'est pas d'abord un sentiment qui se traduirait ensuite dans le corps. C'est une **évaluation rapide d'une situation**, qui déclenche des changements corporels, et le sentiment conscient arrive en dernier — parfois avec plusieurs secondes de retard.
 
-Cela explique une expérience que tout le monde a vécue sans la comprendre : se rendre compte qu'on est en colère **après** avoir haussé le ton. Le corps était parti avant que la conscience ait été informée. Ce décalage entre réaction et prise de conscience est cohérent avec les deux voies de traitement de la menace décrites par Joseph LeDoux (source : LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
+Cela explique une expérience que tout le monde a vécue sans la comprendre : se rendre compte qu'on est en colère **après** avoir haussé le ton. Le corps était parti avant que la conscience ait été informée. [Ce décalage entre réaction et prise de conscience est cohérent avec les deux voies de traitement de la menace décrites par Joseph LeDoux](https://www.simonandschuster.com/books/The-Emotional-Brain/Joseph-Ledoux/9780684836591) (LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
 
 ### 1.2 Les deux voies de l'alerte
 
@@ -24,13 +24,13 @@ Joseph LeDoux a décrit deux trajets pour une information menaçante. Un trajet 
 
 L'alerte part donc avant l'analyse. C'est adapté — face à une forme allongée au sol, mieux vaut sursauter pour une corde que réfléchir posément devant un serpent. Mais cela signifie que **la réaction précède toujours le raisonnement**, et qu'aucune volonté ne peut inverser cet ordre.
 
-Conséquence pratique : reprocher à quelqu'un de « réagir avant de réfléchir » revient à lui reprocher son câblage. Ce qui se travaille, ce n'est pas la vitesse de la réaction, c'est ce qu'on en fait dans les secondes suivantes. LeDoux a montré que l'information menaçante emprunte un trajet court vers l'amygdale avant tout passage par le cortex (source : LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
+Conséquence pratique : reprocher à quelqu'un de « réagir avant de réfléchir » revient à lui reprocher son câblage. Ce qui se travaille, ce n'est pas la vitesse de la réaction, c'est ce qu'on en fait dans les secondes suivantes. [LeDoux a montré que l'information menaçante emprunte un trajet court vers l'amygdale avant tout passage par le cortex](https://www.simonandschuster.com/books/The-Emotional-Brain/Joseph-Ledoux/9780684836591) (LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
 
 ### 1.3 Le corps n'est pas un décor
 
 William James proposait dès 1884 une idée qui choque encore : nous ne pleurons pas parce que nous sommes tristes, nous sommes tristes parce que nous pleurons. La formulation est excessive, et elle a été corrigée depuis. Mais le fond tient.
 
-Antonio Damasio a développé cette intuition avec l'hypothèse des **marqueurs somatiques** : les états corporels associés à nos expériences passées servent de signal rapide lors des décisions. Ses observations de patients dont les lésions cérébrales avaient dissocié raisonnement et émotion sont éclairantes : ces personnes conservaient une intelligence intacte et devenaient pourtant incapables de décider, s'enlisant indéfiniment dans les avantages et inconvénients (source : Damasio, *L'erreur de Descartes*, 1994 ; vérification du 6 août 2026).
+Antonio Damasio a développé cette intuition avec l'hypothèse des **marqueurs somatiques** : les états corporels associés à nos expériences passées servent de signal rapide lors des décisions. [Ses observations de patients dont les lésions cérébrales avaient dissocié raisonnement et émotion sont éclairantes : ces personnes conservaient une intelligence intacte et devenaient pourtant incapables de décider, s'enlisant indéfiniment dans les avantages et inconvénients](https://cmc.marmot.org/Record/.b10696726) (Damasio, *L'erreur de Descartes*, 1994 ; vérification du 6 août 2026).
 
 **L'émotion n'est donc pas l'opposé de la raison. Elle en est une condition.** Sans elle, aucune option ne pèse plus qu'une autre, et le choix devient impossible.
 
@@ -40,7 +40,7 @@ Il faut le poser, parce qu'il change la façon d'interpréter tout ce qui suit.
 
 **La thèse des émotions de base.** Popularisée par Paul Ekman, elle postule un petit nombre d'émotions universelles — joie, tristesse, colère, peur, dégoût, surprise — avec des expressions faciales reconnues partout. C'est le modèle dominant dans la culture générale, celui des affiches de « roue des émotions ».
 
-**La thèse constructiviste.** Portée notamment par Lisa Feldman Barrett, elle conteste ce découpage : il n'existerait pas de signature cérébrale ou corporelle propre à chaque émotion. Le cerveau **construirait** l'émotion en interprétant un état corporel diffus à la lumière du contexte et des concepts appris (source : Barrett, *How Emotions Are Made*, 2017 ; vérification du 6 août 2026).
+**La thèse constructiviste.** Portée notamment par Lisa Feldman Barrett, elle conteste ce découpage : il n'existerait pas de signature cérébrale ou corporelle propre à chaque émotion. [Le cerveau **construirait** l'émotion en interprétant un état corporel diffus à la lumière du contexte et des concepts appris](https://search.worldcat.org/title/how-emotions-are-made-the-secret-life-of-the-brain/oclc/970641543) (Barrett, *How Emotions Are Made*, 2017 ; vérification du 6 août 2026).
 
 Le débat n'est pas tranché, et je ne prétendrai pas le trancher ici. Ce qui compte est sa conséquence pratique, sur laquelle les deux camps se rejoignent largement : **les mots dont vous disposez modifient ce que vous ressentez**. Une personne qui ne distingue que « bien » et « mal » vit un monde émotionnel plus grossier que celle qui distingue l'agacement de l'humiliation. C'est l'objet du chapitre 3.
 
@@ -54,7 +54,7 @@ Pour fixer les idées, voici la séquence, avec des ordres de grandeur.
 4. **Sentiment conscient.** L'expérience subjective, qui arrive après les trois premières étapes.
 5. **Interprétation.** On met un mot, on cherche une cause, on décide quoi faire.
 
-Deux erreurs classiques se logent dans ce déroulé. À l'étape 4, croire que le sentiment est la cause de ce qui s'est passé avant. À l'étape 5, croire que l'explication trouvée est la vraie : le cerveau produit des justifications plausibles avec une facilité déconcertante, et il les produit **après** coup. Ce déroulé en plusieurs temps reprend la structure du modèle de régulation émotionnelle de James Gross, qui distingue les étapes de génération d'une émotion (source : Gross, « The emerging field of emotion regulation: an integrative review », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
+Deux erreurs classiques se logent dans ce déroulé. À l'étape 4, croire que le sentiment est la cause de ce qui s'est passé avant. À l'étape 5, croire que l'explication trouvée est la vraie : le cerveau produit des justifications plausibles avec une facilité déconcertante, et il les produit **après** coup. [Ce déroulé en plusieurs temps reprend la structure du modèle de régulation émotionnelle de James Gross, qui distingue les étapes de génération d'une émotion](https://emotion.wisc.edu/wp-content/uploads/sites/1353/2021/11/Gross-1998-The-Emerging-Field-of-Emotion-Regulation-An-Integrative-Review.pdf) (Gross, « The emerging field of emotion regulation: an integrative review », *Review of General Psychology*, 1998 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

@@ -20,7 +20,7 @@ Il sert à autre chose, de plus modeste et de plus utile : **savoir où passe la
 
 **Le retentissement.** Est-ce que ça empêche de travailler, de dormir, de voir les gens, de s'occuper de soi ?
 
-**L'écart avec l'état habituel.** Ce n'est pas une norme extérieure qui compte, c'est le changement par rapport à votre fonctionnement ordinaire. Ces trois critères — durée, retentissement, écart avec l'état habituel — recoupent les critères diagnostiques employés dans les classifications cliniques (source : Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
+**L'écart avec l'état habituel.** Ce n'est pas une norme extérieure qui compte, c'est le changement par rapport à votre fonctionnement ordinaire. [Ces trois critères — durée, retentissement, écart avec l'état habituel — recoupent les critères diagnostiques employés dans les classifications cliniques](https://pubmed.ncbi.nlm.nih.gov/12813115/) (Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
 
 ### 8.2 La dépression
 
@@ -30,7 +30,7 @@ Signes fréquents : fatigue permanente non améliorée par le repos, troubles du
 
 Chez les hommes, la présentation est souvent différente et retarde le repérage : irritabilité, colère, prise de risque, augmentation de la consommation d'alcool, surinvestissement dans le travail. Ce point est développé dans [Pour Lui](<../Pour Lui/README.md>). Le retentissement est majeur : les hommes consultent moins et meurent plus par suicide.
 
-**Signal d'alerte, pas disclaimer** : des idées suicidaires, même vagues, justifient d'appeler le **3114** — prévention du suicide, gratuit, 24 h/24, accessible aussi bien à la personne concernée qu'à un proche inquiet. L'anhédonie, plus que la tristesse, est le marqueur central retenu dans les grandes enquêtes épidémiologiques sur la dépression (source : Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
+**Signal d'alerte, pas disclaimer** : des idées suicidaires, même vagues, justifient d'appeler le **3114** — prévention du suicide, gratuit, 24 h/24, accessible aussi bien à la personne concernée qu'à un proche inquiet. [L'anhédonie, plus que la tristesse, est le marqueur central retenu dans les grandes enquêtes épidémiologiques sur la dépression](https://pubmed.ncbi.nlm.nih.gov/12813115/) (Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
 
 ### 8.3 Les troubles anxieux
 
@@ -40,7 +40,7 @@ Chez les hommes, la présentation est souvent différente et retarde le repérag
 
 **L'anxiété sociale** : peur du jugement dans les situations d'interaction, avec évitement. Fréquemment confondue avec de la timidité, alors que le retentissement est bien plus lourd.
 
-Point rassurant et utile : les troubles anxieux figurent parmi les troubles qui répondent le mieux aux prises en charge, en particulier aux thérapies cognitivo-comportementales. La prévalence et l'âge d'apparition des troubles anxieux ont été mesurés à grande échelle par l'enquête nationale de comorbidité américaine (source : Kessler et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026).
+Point rassurant et utile : les troubles anxieux figurent parmi les troubles qui répondent le mieux aux prises en charge, en particulier aux thérapies cognitivo-comportementales. [La prévalence et l'âge d'apparition des troubles anxieux ont été mesurés à grande échelle par l'enquête nationale de comorbidité américaine](https://pubmed.ncbi.nlm.nih.gov/15939837/) (Kessler et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026).
 
 ### 8.4 Les autres repères utiles
 
@@ -48,7 +48,7 @@ Point rassurant et utile : les troubles anxieux figurent parmi les troubles qui 
 
 **Le trouble de stress post-traumatique.** Reviviscences, évitement, hypervigilance, altération de l'humeur, après un événement traumatique. Développé dans [Pour Nous](<../Pour Nous/README.md>).
 
-**Le TDAH de l'adulte.** Souvent méconnu, il s'accompagne d'une **dysrégulation émotionnelle** marquée : réactions intenses et brèves, faible tolérance à la frustration. Il est fréquemment pris pour un trait de caractère. Le retard diagnostique du trouble bipolaire, souvent repéré seulement lors des phases dépressives, est documenté dans la littérature clinique (source : Hirschfeld, « Perceptions and impact of bipolar disorder », *Journal of Clinical Psychiatry*, 2003 ; vérification du 7 août 2026).
+**Le TDAH de l'adulte.** Souvent méconnu, il s'accompagne d'une **dysrégulation émotionnelle** marquée : réactions intenses et brèves, faible tolérance à la frustration. Il est fréquemment pris pour un trait de caractère. [Le retard diagnostique du trouble bipolaire, souvent repéré seulement lors des phases dépressives, est documenté dans la littérature clinique](https://pubmed.ncbi.nlm.nih.gov/12633125/) (Hirschfeld, « Perceptions and impact of bipolar disorder », *Journal of Clinical Psychiatry*, 2003 ; vérification du 7 août 2026).
 
 ### 8.5 Le piège des étiquettes
 
@@ -58,7 +58,7 @@ Trois précautions, à l'heure où ce vocabulaire circule massivement en ligne.
 
 **Un diagnostic n'est pas une identité.** C'est un outil qui ouvre une prise en charge. Il décrit un état, pas une personne, et il peut évoluer.
 
-**L'auto-diagnostic en ligne est peu fiable.** Non par mépris pour ceux qui s'informent, mais parce que la même liste de symptômes correspond à plusieurs tableaux, et que faire la différence est précisément le métier du clinicien. La stigmatisation liée aux étiquettes diagnostiques est un frein documenté au recours aux soins psychiques (source : Corrigan, « How stigma interferes with mental health care », *American Psychologist*, 2004 ; vérification du 7 août 2026).
+**L'auto-diagnostic en ligne est peu fiable.** Non par mépris pour ceux qui s'informent, mais parce que la même liste de symptômes correspond à plusieurs tableaux, et que faire la différence est précisément le métier du clinicien. [La stigmatisation liée aux étiquettes diagnostiques est un frein documenté au recours aux soins psychiques](https://pubmed.ncbi.nlm.nih.gov/15491256/) (Corrigan, « How stigma interferes with mental health care », *American Psychologist*, 2004 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
