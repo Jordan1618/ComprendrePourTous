@@ -14,13 +14,13 @@ licence: "CC BY 4.0"
 
 Un bateau ne coule pas parce qu'une vague est haute. Il coule si la vague le prend par le travers, ou si l'équipage se dispute la barre pendant qu'elle arrive.
 
-La plupart des épreuves d'un couple ne viennent pas de lui : elles viennent du dehors. Maladie, licenciement, famille, enfants, usure. Ce qui distingue les couples qui traversent n'est pas la taille de la vague, c'est l'orientation prise avant qu'elle n'arrive — et le fait de tenir la barre à deux plutôt que de se la disputer. Le modèle vulnérabilité-stress-adaptation de Karney et Bradbury montre que ce sont les ressources d'adaptation du couple face aux événements extérieurs, plus que les événements eux-mêmes, qui prédisent la trajectoire de la relation (source : Karney & Bradbury, « The longitudinal course of marital quality and stability », *Psychological Bulletin*, 1995 ; vérification du 7 août 2026).
+La plupart des épreuves d'un couple ne viennent pas de lui : elles viennent du dehors. Maladie, licenciement, famille, enfants, usure. Ce qui distingue les couples qui traversent n'est pas la taille de la vague, c'est l'orientation prise avant qu'elle n'arrive — et le fait de tenir la barre à deux plutôt que de se la disputer. [Le modèle vulnérabilité-stress-adaptation de Karney et Bradbury montre que ce sont les ressources d'adaptation du couple face aux événements extérieurs, plus que les événements eux-mêmes, qui prédisent la trajectoire de la relation](https://www.healthymarriageinfo.org/wp-content/uploads/2017/12/The-Longitudinal-Course-of.pdf) (Karney & Bradbury, « The longitudinal course of marital quality and stability », *Psychological Bulletin*, 1995 ; vérification du 7 août 2026).
 
 ### 9.2 Le principe qui vaut pour toutes
 
 Un couple soumis à une pression extérieure a tendance à transformer cette pression en conflit interne. C'est mécanique : la tension doit aller quelque part, et le partenaire est la cible la plus disponible.
 
-Le retournement qui protège tient en une phrase, à se dire explicitement : **« le problème, c'est la situation, pas toi. »** Cela paraît naïf écrit ainsi. Dit à voix haute au bon moment, cela change la géométrie d'une dispute — on passe de face à face à côte à côte, ce qui est exactement la [notion](<../../2 - Notions/Côte à côte.md>) qui porte ce nom dans ce projet. C'est l'apport central du modèle vulnérabilité-stress-adaptation : un stress externe se traduit en tension de couple selon la façon dont il est traité à deux (source : Karney & Bradbury, « The longitudinal course of marital quality and stability », *Psychological Bulletin*, 1995 ; vérification du 7 août 2026).
+Le retournement qui protège tient en une phrase, à se dire explicitement : **« le problème, c'est la situation, pas toi. »** Cela paraît naïf écrit ainsi. Dit à voix haute au bon moment, cela change la géométrie d'une dispute — on passe de face à face à côte à côte, ce qui est exactement la [notion](<../../2 - Notions/Côte à côte.md>) qui porte ce nom dans ce projet. [C'est l'apport central du modèle vulnérabilité-stress-adaptation : un stress externe se traduit en tension de couple selon la façon dont il est traité à deux](https://www.healthymarriageinfo.org/wp-content/uploads/2017/12/The-Longitudinal-Course-of.pdf) (Karney & Bradbury, « The longitudinal course of marital quality and stability », *Psychological Bulletin*, 1995 ; vérification du 7 août 2026).
 
 ### 9.3 La famille et la belle-famille
 
@@ -30,7 +30,7 @@ Source de conflit la plus fréquente après l'argent, et celle où les erreurs s
 
 **Le partenaire n'est pas un arbitre.** Demander de choisir entre sa mère et son conjoint est une impasse. La question utile n'est pas « qui a raison » mais « qu'est-ce qu'on décide, nous, sur ce point précis ».
 
-**Les limites se posent sur des faits, pas sur des personnes.** « On ne parlera pas de nos projets d'enfant à table » est tenable. « Ma mère est insupportable » ne l'est pas. Les conflits liés à la belle-famille comptent parmi les sources de tension conjugale les plus citées dans les études longitudinales sur les premières années de mariage (source : Rittenour & Soliz, « In-law relational satisfaction as a function of relational maintenance », *Western Journal of Communication*, 2009 ; vérification du 7 août 2026).
+**Les limites se posent sur des faits, pas sur des personnes.** « On ne parlera pas de nos projets d'enfant à table » est tenable. « Ma mère est insupportable » ne l'est pas. [Les conflits liés à la belle-famille comptent parmi les sources de tension conjugale les plus citées dans les études sur les débuts du mariage](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1084&context=commstudiespapers) (Rittenour & Soliz, « Communicative and relational dimensions of shared family identity and relational intentions in mother-in-law/daughter-in-law relationships », *Western Journal of Communication*, 2009 ; vérification du 7 août 2026).
 
 ### 9.4 Le travail et l'argent
 
@@ -38,7 +38,7 @@ Deux configurations reviennent.
 
 **La perte d'emploi.** Elle touche l'identité autant que le revenu, particulièrement là où le travail structure la valeur sociale — voir [Pour Lui](<../Pour Lui/README.md>). L'erreur fréquente du partenaire est de vouloir résoudre : proposer des offres, motiver. Ce qui aide davantage : maintenir une place et un rôle dans le foyer, et ne pas laisser la question devenir le seul sujet de conversation.
 
-**La surcharge professionnelle.** Elle dégrade le couple sans conflit apparent : moins de disponibilité, moins de récit, moins de désir. Le repère utile est le passage d'une période à un état. Une période intense se traverse ; un état permanent se négocie. Le modèle de stress familial de Rand Conger montre comment une pression économique se traduit en conflit de couple par l'intermédiaire de la détresse individuelle qu'elle provoque (source : Conger & Elder, *Families in Troubled Times*, Aldine de Gruyter, 1994 ; vérification du 7 août 2026).
+**La surcharge professionnelle.** Elle dégrade le couple sans conflit apparent : moins de disponibilité, moins de récit, moins de désir. Le repère utile est le passage d'une période à un état. Une période intense se traverse ; un état permanent se négocie. [Le modèle de stress familial de Rand Conger montre comment une pression économique se traduit en conflit de couple par l'intermédiaire de la détresse individuelle qu'elle provoque](https://academic.oup.com/sf/article-abstract/74/3/1122/2233320) (Conger & Elder, *Families in Troubled Times*, Aldine de Gruyter, 1994 ; vérification du 7 août 2026).
 
 ### 9.5 Les enfants
 
@@ -50,7 +50,7 @@ Deux points documentés qui méritent d'être connus à l'avance.
 
 **Le sommeil est le facteur médiateur principal.** Avant de chercher des explications relationnelles à une période difficile avec un nourrisson, regarder les nuits des deux parents.
 
-Le levier concret, banal et efficace : préserver des moments à deux, même très courts, et ne pas laisser la parentalité absorber la totalité de l'identité du couple. La baisse moyenne de satisfaction conjugale après l'arrivée d'un enfant, et le rôle du sommeil comme facteur médiateur, sont documentés par plusieurs études longitudinales (source : Doss et al., « The effect of the transition to parenthood on relationship quality », *Journal of Personality and Social Psychology*, 2009 ; vérification du 7 août 2026).
+Le levier concret, banal et efficace : préserver des moments à deux, même très courts, et ne pas laisser la parentalité absorber la totalité de l'identité du couple. [La baisse moyenne de satisfaction conjugale après l'arrivée d'un enfant, et le rôle du sommeil comme facteur médiateur, sont documentés par plusieurs études longitudinales](https://pmc.ncbi.nlm.nih.gov/articles/PMC2702669/) (Doss et al., « The effect of the transition to parenthood on relationship quality », *Journal of Personality and Social Psychology*, 2009 ; vérification du 7 août 2026).
 
 ### 9.6 La maladie
 
@@ -58,7 +58,7 @@ Elle produit le glissement le plus insidieux : le partenaire devient soignant. I
 
 Deux conséquences, décrites au chapitre 6 : l'épuisement, qui arrive tard et brutalement, et la disparition du désir, difficile à maintenir envers quelqu'un dont on est devenu responsable.
 
-Ce qui protège : externaliser une partie du soin, garder un domaine entièrement à soi, et nommer la fatigue tôt. **« Je t'aime, et je suis fatigué. Ces deux choses sont vraies en même temps et la seconde ne remet pas la première en cause. »** Le glissement du partenaire vers un rôle de soignant, et son coût, suivent le même mécanisme que celui décrit dans la littérature sur le fardeau de l'aidant familial (source : Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
+Ce qui protège : externaliser une partie du soin, garder un domaine entièrement à soi, et nommer la fatigue tôt. **« Je t'aime, et je suis fatigué. Ces deux choses sont vraies en même temps et la seconde ne remet pas la première en cause. »** [Le glissement du partenaire vers un rôle de soignant, et son coût, suivent le même mécanisme que celui décrit dans la littérature sur le fardeau de l'aidant familial](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

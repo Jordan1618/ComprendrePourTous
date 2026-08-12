@@ -16,7 +16,7 @@ Une alarme incendie est censée sonner quand il y a le feu. Si elle a été mal 
 
 C'est exactement ce qu'est une séquelle traumatique. Ce n'est pas de la fragilité, ni un défaut de volonté. C'est un système de détection du danger qui a appris, dans une situation où c'était utile, à déclencher plus vite et plus fort — et qui continue à appliquer ce réglage dans des situations où il ne l'est plus.
 
-Cette distinction est la base de tout ce guide. Un partenaire qui se met en alerte pour une remarque anodine ne fait pas un caprice : son alarme se déclenche avant que son raisonnement ait eu le temps d'intervenir. Ce réglage sensoriel a été décrit par Joseph LeDoux, qui a montré que la voie courte du traitement de la menace passe par l'amygdale avant tout traitement conscient (source : LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
+Cette distinction est la base de tout ce guide. Un partenaire qui se met en alerte pour une remarque anodine ne fait pas un caprice : son alarme se déclenche avant que son raisonnement ait eu le temps d'intervenir. [Ce réglage sensoriel a été décrit par Joseph LeDoux, qui a montré que la voie courte du traitement de la menace passe par l'amygdale avant tout traitement conscient](https://www.simonandschuster.com/books/The-Emotional-Brain/Joseph-Ledoux/9780684836591) (LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
 
 ### 1.2 Ce qui se passe physiologiquement
 
@@ -28,7 +28,7 @@ Après un événement traumatique, ce circuit peut rester durablement plus réac
 
 **Le déclencheur peut être minuscule et sans rapport apparent.** Un ton de voix, une odeur, une porte qui claque, un geste. Le système de détection travaille sur des indices sensoriels bruts, pas sur du sens.
 
-**Le figement existe autant que la fuite ou le combat.** La sidération — se figer, se déconnecter, ne plus rien sentir — est une réponse physiologique documentée, pas un consentement ni de la passivité. C'est un point essentiel, notamment pour comprendre les situations d'agression. L'exposition prolongée à l'activation du système de stress use l'organisme par un mécanisme que Bruce McEwen a nommé la charge allostatique (source : McEwen, « Stress, adaptation, and disease: allostasis and allostatic load », *Annals of the New York Academy of Sciences*, 1998 ; vérification du 7 août 2026).
+**Le figement existe autant que la fuite ou le combat.** La sidération — se figer, se déconnecter, ne plus rien sentir — est une réponse physiologique documentée, pas un consentement ni de la passivité. C'est un point essentiel, notamment pour comprendre les situations d'agression. [L'exposition prolongée à l'activation du système de stress use l'organisme par un mécanisme que Bruce McEwen a nommé la charge allostatique](https://pubmed.ncbi.nlm.nih.gov/9629234/) (McEwen, « Stress, adaptation, and disease: allostasis and allostatic load », *Annals of the New York Academy of Sciences*, 1998 ; vérification du 7 août 2026).
 
 ### 1.3 La mémoire du corps
 
@@ -36,7 +36,7 @@ Une des caractéristiques les plus déroutantes du trauma est que le souvenir n'
 
 Un souvenir ordinaire est daté, contextualisé, racontable : on sait que c'est passé. Un souvenir traumatique est souvent fragmentaire, sensoriel, et vécu au **présent** quand il se réactive. La personne ne se souvient pas d'avoir eu peur : elle a peur, maintenant.
 
-C'est ce qui explique que « c'est fini, tu es en sécurité maintenant » ne fonctionne pas. La phrase s'adresse au raisonnement ; l'alarme, elle, n'entend pas les arguments. Ce n'est pas que la personne refuse d'être rassurée — c'est que la réassurance verbale ne passe pas par le bon canal. Bessel van der Kolk a documenté comment un souvenir traumatique reste stocké sous une forme sensorielle et fragmentaire plutôt que narrative (source : van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
+C'est ce qui explique que « c'est fini, tu es en sécurité maintenant » ne fonctionne pas. La phrase s'adresse au raisonnement ; l'alarme, elle, n'entend pas les arguments. Ce n'est pas que la personne refuse d'être rassurée — c'est que la réassurance verbale ne passe pas par le bon canal. [Bessel van der Kolk a documenté comment un souvenir traumatique reste stocké sous une forme sensorielle et fragmentaire plutôt que narrative](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952) (van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
 
 ### 1.4 Ce que ce chapitre ne dit pas
 
@@ -46,7 +46,7 @@ Trois précautions, parce que le vocabulaire du trauma s'est banalisé et perd e
 
 **La majorité des personnes exposées à un événement traumatique ne développent pas de trouble durable.** La résilience est la réponse la plus fréquente. C'est important à dire : un événement grave ne condamne pas.
 
-**Un trauma n'explique pas tout et n'excuse rien.** Il explique une réaction ; il n'autorise pas un comportement blessant envers un partenaire. La différence est traitée au chapitre 5. La résilience est la réponse la plus fréquente à un événement potentiellement traumatique : George Bonanno l'a montré sur plusieurs cohortes exposées à des pertes et des événements violents (source : Bonanno, « Loss, trauma, and human resilience », *American Psychologist*, 2004 ; vérification du 7 août 2026).
+**Un trauma n'explique pas tout et n'excuse rien.** Il explique une réaction ; il n'autorise pas un comportement blessant envers un partenaire. La différence est traitée au chapitre 5. [La résilience est la réponse la plus fréquente à un événement potentiellement traumatique : George Bonanno l'a montré sur plusieurs cohortes exposées à des pertes et des événements violents](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/americanPsychologist.pdf) (Bonanno, « Loss, trauma, and human resilience », *American Psychologist*, 2004 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

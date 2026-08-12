@@ -18,7 +18,7 @@ Après un trauma, deux grandes stratégies s'installent, souvent chez la même p
 
 **L'évitement** consiste à se tenir à distance de tout ce qui pourrait réactiver : conversations, situations, proximité, engagement. Il fonctionne à court terme et échoue à long terme, parce qu'il empêche le système d'apprendre que la situation est devenue sûre.
 
-En couple, ces deux stratégies produisent des malentendus caractéristiques. L'hypervigilance est perçue comme du contrôle ou de la jalousie. L'évitement est perçu comme du désamour ou de l'indifférence. Dans les deux cas, le partenaire interprète une **stratégie de protection** comme un **message sur la relation**. Ces deux stratégies portent un nom en recherche sur l'attachement adulte : hyperactivation et désactivation (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+En couple, ces deux stratégies produisent des malentendus caractéristiques. L'hypervigilance est perçue comme du contrôle ou de la jalousie. L'évitement est perçu comme du désamour ou de l'indifférence. Dans les deux cas, le partenaire interprète une **stratégie de protection** comme un **message sur la relation**. [Ces deux stratégies portent un nom en recherche sur l'attachement adulte : hyperactivation et désactivation](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 2.2 Les manifestations concrètes
 
@@ -32,7 +32,7 @@ Ce que les partenaires décrivent le plus souvent, formulé du point de vue de c
 - Elle a du mal à recevoir un compliment ou un geste gratuit.
 - Elle est absente pendant l'intimité, ou s'en éloigne sans explication.
 
-Aucun de ces comportements n'est un caprice. Chacun a été utile, à un moment, dans un contexte où il protégeait. Ces manifestations correspondent aux comportements de recherche de proximité et de mise à distance décrits dans la même littérature (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+Aucun de ces comportements n'est un caprice. Chacun a été utile, à un moment, dans un contexte où il protégeait. [Ces manifestations correspondent aux comportements de recherche de proximité et de mise à distance décrits dans la même littérature](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 2.3 Le cercle vicieux le plus fréquent
 
@@ -42,7 +42,7 @@ La personne traumatisée cherche la sécurité. Elle la cherche par des moyens q
 
 Chacun se voit comme réagissant à l'autre. Aucun des deux ne voit la boucle. Et surtout : **chacun a raison de son point de vue**, ce qui rend la discussion insoluble tant qu'on reste sur les intentions.
 
-La sortie ne passe pas par la recherche du responsable. Elle passe par la description de la boucle elle-même — les deux personnes se plaçant du même côté, face au mécanisme. Ce cycle correspond au patron demande-retrait, l'un des mieux répliqués de la recherche sur le couple (source : Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
+La sortie ne passe pas par la recherche du responsable. Elle passe par la description de la boucle elle-même — les deux personnes se plaçant du même côté, face au mécanisme. [Ce cycle correspond au patron demande-retrait, l'un des mieux répliqués de la recherche sur le couple](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict) (Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
 
 ### 2.4 Ce qui aide, et ce qui n'aide pas
 
@@ -56,7 +56,7 @@ La **prévisibilité** vaut mieux que la réassurance. Dire ce qu'on va faire et
 
 Les **signaux convenus à l'avance**. Un mot ou un geste décidé à froid, qui signifie « je suis en train de partir en alerte, j'ai besoin de dix minutes ». Il évite d'avoir à expliquer au moment où l'explication est impossible.
 
-Le **retour à froid**. Reprendre une scène le lendemain, sans reproche, pour reconstituer la chronologie : qu'est-ce qui s'est passé juste avant, à quel moment ça a basculé. C'est ainsi que les déclencheurs deviennent identifiables. La thérapie de couple centrée sur l'émotion, développée par Susan Johnson, vise précisément à interrompre ce cycle en travaillant sur les besoins d'attachement sous-jacents (source : Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
+Le **retour à froid**. Reprendre une scène le lendemain, sans reproche, pour reconstituer la chronologie : qu'est-ce qui s'est passé juste avant, à quel moment ça a basculé. C'est ainsi que les déclencheurs deviennent identifiables. [La thérapie de couple centrée sur l'émotion, développée par Susan Johnson, vise précisément à interrompre ce cycle en travaillant sur les besoins d'attachement sous-jacents](https://archive.org/details/practiceofemotio0000john) (Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

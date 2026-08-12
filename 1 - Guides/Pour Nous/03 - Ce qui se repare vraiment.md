@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Le champ du psychotrauma est envahi de propositions non validées, parfois coûteuses, parfois nuisibles. Il existe pourtant des prises en charge dont l'efficacité est établie par des essais contrôlés et retenue par les recommandations internationales. Savoir lesquelles évite des années perdues.
 
-Le repère principal : les recommandations de l'Organisation mondiale de la santé, du NICE britannique, et en France les travaux de la Haute Autorité de santé et du réseau des centres régionaux du psychotraumatisme. Les recommandations de bonne pratique existent précisément parce que l'efficacité des différentes approches a été comparée dans des essais contrôlés (source : NICE, *Post-traumatic stress disorder*, NG116, 2018 ; vérification du 7 août 2026).
+Le repère principal : les recommandations de l'Organisation mondiale de la santé, du NICE britannique, et en France les travaux de la Haute Autorité de santé et du réseau des centres régionaux du psychotraumatisme. [Les recommandations de bonne pratique existent précisément parce que l'efficacité des différentes approches a été comparée dans des essais contrôlés](https://www.nice.org.uk/guidance/ng116) (NICE, *Post-traumatic stress disorder*, NG116, 2018 ; vérification du 7 août 2026).
 
 ### 3.2 Les approches recommandées en première intention
 
@@ -26,7 +26,7 @@ Trois familles ressortent de façon convergente.
 
 **La thérapie d'exposition prolongée** et les protocoles apparentés, souvent intégrés aux TCC centrées sur le trauma.
 
-À cela s'ajoutent, selon les situations, des approches à médiation corporelle et des thérapies de couple spécifiques, dont l'appui empirique est plus récent et plus limité — ce qui ne les disqualifie pas, mais justifie de commencer par les approches de première intention. L'OMS recommande les TCC centrées sur le trauma et l'EMDR en première intention, sur la base de revues systématiques d'essais contrôlés (source : OMS, *Guidelines for the management of conditions specifically related to stress*, 2013 ; vérification du 7 août 2026).
+À cela s'ajoutent, selon les situations, des approches à médiation corporelle et des thérapies de couple spécifiques, dont l'appui empirique est plus récent et plus limité — ce qui ne les disqualifie pas, mais justifie de commencer par les approches de première intention. [L'OMS recommande les TCC centrées sur le trauma et l'EMDR en première intention, sur la base de revues systématiques d'essais contrôlés](https://www.who.int/publications/i/item/guidelines-for-the-management-of-conditions-that-are-specifically-related-to-stress) (OMS, *Guidelines for the management of conditions specifically related to stress*, 2013 ; vérification du 7 août 2026).
 
 ### 3.3 Ce qu'il faut savoir sur les médicaments
 
@@ -34,7 +34,7 @@ Les traitements médicamenteux ne sont pas le premier choix pour le trouble de s
 
 Les antidépresseurs de type ISRS ont une place documentée, notamment quand une dépression ou un trouble anxieux sont associés, ou quand la psychothérapie n'est pas accessible ou pas suffisante. Les benzodiazépines, en revanche, ne sont pas recommandées dans cette indication : leur bénéfice est faible, le risque de dépendance réel, et certains travaux suggèrent qu'elles pourraient gêner le travail thérapeutique.
 
-Un effet indésirable a une importance particulière dans un guide sur le couple : les ISRS entraînent fréquemment une baisse de la libido et des difficultés orgasmiques. Cet effet est réel, fréquent, et souvent non anticipé. Il se discute avec le prescripteur — il existe des ajustements — et il ne doit jamais conduire à un arrêt brutal du traitement. Une revue Cochrane a comparé les antidépresseurs au trouble de stress post-traumatique et conclu à un bénéfice modeste, inférieur à celui des psychothérapies centrées sur le trauma (source : Hoskins et al., « Pharmacotherapy for post-traumatic stress disorder », *British Journal of Psychiatry*, 2015 ; vérification du 7 août 2026).
+Un effet indésirable a une importance particulière dans un guide sur le couple : les ISRS entraînent fréquemment une baisse de la libido et des difficultés orgasmiques. Cet effet est réel, fréquent, et souvent non anticipé. Il se discute avec le prescripteur — il existe des ajustements — et il ne doit jamais conduire à un arrêt brutal du traitement. [Une revue Cochrane a comparé les antidépresseurs au trouble de stress post-traumatique et conclu à un bénéfice modeste, inférieur à celui des psychothérapies centrées sur le trauma](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/pharmacotherapy-for-posttraumatic-stress-disorder-systematic-review-and-metaanalysis/596AAEA74F5BA470727289799ED63BEF) (Hoskins et al., « Pharmacotherapy for post-traumatic stress disorder », *British Journal of Psychiatry*, 2015 ; vérification du 7 août 2026).
 
 ### 3.4 Comment s'y retrouver en pratique, en France
 
@@ -42,7 +42,7 @@ Un effet indésirable a une importance particulière dans un guide sur le couple
 
 **Le coût.** Le dispositif *Mon soutien psy* permet la prise en charge de séances chez un psychologue conventionné. Ses conditions ont évolué à plusieurs reprises depuis sa création ; il faut vérifier les modalités en vigueur sur le site de l'Assurance maladie plutôt que de se fier à une information datée. Les centres médico-psychologiques (CMP) offrent une prise en charge publique gratuite, avec des délais souvent longs. Les **centres régionaux du psychotraumatisme** sont spécifiquement dédiés à ces situations.
 
-**Le choix du praticien.** Deux critères pratiques : demander explicitement quelle approche est pratiquée pour le psychotrauma, et considérer que l'alliance thérapeutique — le fait de se sentir en confiance — est un des meilleurs prédicteurs de résultat, tous courants confondus. Ne pas s'entendre avec un thérapeute n'est pas un échec : c'est une raison légitime d'en changer. Le cadre légal des titres de soin psychique en France est fixé par décret (source : décret n° 2010-534 du 20 mai 2010 relatif au titre de psychothérapeute ; vérification du 7 août 2026).
+**Le choix du praticien.** Deux critères pratiques : demander explicitement quelle approche est pratiquée pour le psychotrauma, et considérer que l'alliance thérapeutique — le fait de se sentir en confiance — est un des meilleurs prédicteurs de résultat, tous courants confondus. Ne pas s'entendre avec un thérapeute n'est pas un échec : c'est une raison légitime d'en changer. [Le cadre légal des titres de soin psychique en France est fixé par décret](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022244482) (décret n° 2010-534 du 20 mai 2010 relatif au titre de psychothérapeute ; vérification du 7 août 2026).
 
 ### 3.5 Ce qui ne fonctionne pas, ou pas comme on le croit
 
@@ -50,7 +50,7 @@ Un effet indésirable a une importance particulière dans un guide sur le couple
 
 **Raconter en boucle** son trauma à ses proches n'est pas thérapeutique en soi. Le récit répété sans cadre peut entretenir l'activation plutôt que la réduire. C'est le cadrage thérapeutique qui fait la différence entre exposition et rumination.
 
-**Le temps seul** ne suffit pas toujours. La majorité des gens vont mieux avec le temps ; une minorité significative voit les symptômes se chroniciser. « Attendre que ça passe » n'est pas une stratégie quand cela dure depuis des années. Une revue Cochrane sur le débriefing psychologique individuel après un événement traumatique n'a montré aucun bénéfice et a signalé un risque d'aggravation dans certaines études (source : Rose, Bisson & Wessely, « Psychological debriefing for preventing post traumatic stress disorder », *Cochrane Database of Systematic Reviews*, 2002 ; vérification du 7 août 2026).
+**Le temps seul** ne suffit pas toujours. La majorité des gens vont mieux avec le temps ; une minorité significative voit les symptômes se chroniciser. « Attendre que ça passe » n'est pas une stratégie quand cela dure depuis des années. [Une revue Cochrane sur le débriefing psychologique individuel après un événement traumatique n'a montré aucun bénéfice et a signalé un risque d'aggravation dans certaines études](https://pubmed.ncbi.nlm.nih.gov/11686967/) (Rose, Bisson & Wessely, « Psychological debriefing for preventing post traumatic stress disorder », *Cochrane Database of Systematic Reviews*, 2002 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

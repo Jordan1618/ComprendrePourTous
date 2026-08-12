@@ -20,7 +20,7 @@ Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérifi
 | Place des traitements médicamenteux en seconde intention, ISRS ; benzodiazépines non recommandées (3.3) | Recommandations internationales convergentes (OMS, NICE) | 6 août 2026 |
 | Débriefing psychologique immédiat non recommandé (3.5) | Revues Cochrane et recommandations NICE | 6 août 2026 |
 | Dispositifs de prise en charge en France, centres régionaux du psychotraumatisme (3.4) | Haute Autorité de santé ; Assurance maladie | 6 août 2026 |
-| Réglementation du titre de psychothérapeute | Décret du 20 mai 2010 | 6 août 2026 |
+| Réglementation du titre de psychothérapeute | Décret n° 2010-534 du 20 mai 2010 | 6 août 2026 |
 
 ## Travaux de recherche cités
 
@@ -74,7 +74,7 @@ Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérifi
 | Paradoxe du trajet domicile-travail (8.3) | Stutzer, A. & Frey, B., *Stress that doesn't pay: the commuting paradox*, Scandinavian Journal of Economics, 2008 | 7 août 2026 |
 | Pénalité de maternité dans la carrière (8.4) | Correll, S., Benard, S. & Paik, I., *Getting a Job: Is There a Motherhood Penalty?*, American Journal of Sociology, 2007 | 7 août 2026 |
 | Modèle vulnérabilité-stress-adaptation du couple (9.1, 9.2) | Karney, B. & Bradbury, T., *The longitudinal course of marital quality and stability*, Psychological Bulletin, 1995 | 7 août 2026 |
-| Satisfaction relationnelle et belle-famille (9.3) | Rittenour, C. & Soliz, J., *In-law relational satisfaction as a function of relational maintenance*, Western Journal of Communication, 2009 | 7 août 2026 |
+| Satisfaction relationnelle et belle-famille (9.3) | Rittenour, C. & Soliz, J., *Communicative and relational dimensions of shared family identity and relational intentions in mother-in-law/daughter-in-law relationships*, Western Journal of Communication, 2009 | 7 août 2026 |
 | Modèle de stress familial face à la pression économique (9.4) | Conger, R. & Elder, G., *Families in Troubled Times*, Aldine de Gruyter, 1994 | 7 août 2026 |
 | Baisse de satisfaction conjugale après la naissance d'un enfant (9.5) | Doss, B. et coll., *The effect of the transition to parenthood on relationship quality*, Journal of Personality and Social Psychology, 2009 | 7 août 2026 |
 | Deuil prolongé reconnu comme trouble à part entière (10.3) | Prigerson, H. et coll., *Prolonged Grief Disorder: psychometric validation of criteria*, PLOS Medicine, 2009 | 7 août 2026 |

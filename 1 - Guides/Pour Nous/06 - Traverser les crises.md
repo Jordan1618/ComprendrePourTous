@@ -16,11 +16,11 @@ Aucun couple ne traverse une vie sans crise : deuil, maladie, perte d'emploi, é
 
 Trois éléments reviennent dans la littérature sur les couples résilients.
 
-**Le sens partagé donné à l'épreuve.** Les couples qui traversent construisent un récit commun : « ça nous est arrivé, à nous ». Ceux qui se délitent construisent deux récits séparés, souvent avec un responsable. C'est un des apports des travaux de Froma Walsh sur la résilience familiale (source : Walsh, *Strengthening Family Resilience* ; vérification du 6 août 2026).
+**Le sens partagé donné à l'épreuve.** Les couples qui traversent construisent un récit commun : « ça nous est arrivé, à nous ». Ceux qui se délitent construisent deux récits séparés, souvent avec un responsable. [C'est un des apports des travaux de Froma Walsh sur la résilience familiale](https://www.guilford.com/books/Strengthening-Family-Resilience/Froma-Walsh/9781462529865) (Walsh, *Strengthening Family Resilience* ; vérification du 6 août 2026).
 
 **La souplesse des rôles.** La capacité à échanger temporairement les fonctions — qui gagne l'argent, qui s'occupe du quotidien, qui décide — plutôt que de maintenir une répartition rigide.
 
-**Le maintien de ressources extérieures.** Amis, famille, professionnels. Les couples qui se replient entièrement l'un sur l'autre pendant une crise sont plus fragiles, parce que la totalité de la charge repose sur deux personnes déjà épuisées. Le sens partagé donné à une épreuve est l'un des trois facteurs de résilience familiale identifiés par Froma Walsh à partir de l'observation clinique de familles traversant des crises variées (source : Walsh, *Strengthening Family Resilience*, Guilford Press, 2006 ; vérification du 7 août 2026).
+**Le maintien de ressources extérieures.** Amis, famille, professionnels. Les couples qui se replient entièrement l'un sur l'autre pendant une crise sont plus fragiles, parce que la totalité de la charge repose sur deux personnes déjà épuisées. [Le sens partagé donné à une épreuve est l'un des trois facteurs de résilience familiale identifiés par Froma Walsh à partir de l'observation clinique de familles traversant des crises variées](https://www.guilford.com/books/Strengthening-Family-Resilience/Froma-Walsh/9781462529865) (Walsh, *Strengthening Family Resilience*, Guilford Press, 2006 ; vérification du 7 août 2026).
 
 ### 6.2 Le piège de l'aidant
 
@@ -34,7 +34,7 @@ Deux conséquences, toutes deux documentées en clinique.
 
 **La disparition du désir.** Difficile de désirer quelqu'un dont on est devenu responsable. Le glissement vers une relation asymétrique éteint le désir bien plus sûrement que la routine.
 
-Le point important : **ce n'est pas un manque d'amour, c'est une erreur de répartition des rôles**, et elle se corrige. Reconnaître qu'on est passé du côté aidant n'est pas une trahison ; c'est la condition pour rester un partenaire. Le glissement progressif vers un rôle d'aidant, et son coût, sont décrits par le modèle du stress de l'aidant de Leonard Pearlin (source : Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
+Le point important : **ce n'est pas un manque d'amour, c'est une erreur de répartition des rôles**, et elle se corrige. Reconnaître qu'on est passé du côté aidant n'est pas une trahison ; c'est la condition pour rester un partenaire. [Le glissement progressif vers un rôle d'aidant, et son coût, sont décrits par le modèle du stress de l'aidant de Leonard Pearlin](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 ### 6.3 Ce qui protège l'aidant
 
@@ -46,7 +46,7 @@ Garder au moins **un domaine entièrement à soi**, non partagé et non négocia
 
 **Nommer la fatigue tôt**, avant l'épuisement. Une formulation qui ne blesse pas : « je t'aime, et je suis fatigué. Ces deux choses sont vraies en même temps et la deuxième ne remet pas la première en cause. »
 
-**Se faire aider soi-même.** Les proches de personnes traumatisées ou dépressives développent fréquemment leur propre détresse. Consulter en tant que conjoint est légitime. Le maintien de ressources personnelles distinctes est l'un des facteurs protecteurs identifiés dans la littérature sur le fardeau de l'aidant (source : Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
+**Se faire aider soi-même.** Les proches de personnes traumatisées ou dépressives développent fréquemment leur propre détresse. Consulter en tant que conjoint est légitime. [Le maintien de ressources personnelles distinctes est l'un des facteurs protecteurs identifiés dans la littérature sur le fardeau de l'aidant](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 ### 6.4 Les signaux d'épuisement d'un couple
 
@@ -58,13 +58,13 @@ Le délitement est rarement soudain. Il donne des signaux dans un ordre assez r�
 
 **Tardifs.** Le mépris — le comportement dont l'effet destructeur est le mieux établi par les travaux de Gottman. L'indifférence à ce que l'autre ressent. La vie parallèle organisée.
 
-Ce n'est pas une fatalité mécanique : chacun de ces signaux est réversible, et d'autant plus facilement qu'il est repéré tôt. Le plus rentable est le premier de la liste — se raconter les petites choses — parce qu'il est à la fois le premier à disparaître et le plus simple à réinstaller. Ces signaux reprennent les quatre comportements dont l'effet destructeur sur le couple est le mieux établi par l'observation (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
+Ce n'est pas une fatalité mécanique : chacun de ces signaux est réversible, et d'autant plus facilement qu'il est repéré tôt. Le plus rentable est le premier de la liste — se raconter les petites choses — parce qu'il est à la fois le premier à disparaître et le plus simple à réinstaller. [Ces signaux reprennent les quatre comportements dont l'effet destructeur sur le couple est le mieux établi par l'observation](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 6.5 Une question à se poser régulièrement
 
 Une seule, et elle vaut mieux que beaucoup de bilans : **« est-ce que je deviens quelqu'un que j'aime bien, dans cette relation ? »**
 
-Elle est préférable à « est-ce que je suis heureux » — trop global, trop dépendant de l'humeur du jour — et à « est-ce que je l'aime » — qui, on l'a vu, mélange trois systèmes différents. Elle porte sur la seule chose directement observable : ce que la relation fait de vous. Ce type de question auto-évaluative rejoint les échelles de satisfaction conjugale utilisées en recherche, qui portent sur le vécu subjectif plus que sur des critères extérieurs (source : Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
+Elle est préférable à « est-ce que je suis heureux » — trop global, trop dépendant de l'humeur du jour — et à « est-ce que je l'aime » — qui, on l'a vu, mélange trois systèmes différents. Elle porte sur la seule chose directement observable : ce que la relation fait de vous. [Ce type de question auto-évaluative rejoint les échelles de satisfaction conjugale utilisées en recherche, qui portent sur le vécu subjectif plus que sur des critères extérieurs](https://archive.org/details/the-seven-principles-for-making-marriage-work) (Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
