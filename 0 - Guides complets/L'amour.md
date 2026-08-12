@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "L'amour"
 sujet: "commun"
 chapitres: 10
-mots: 11748
+mots: 11435
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/L amour"
@@ -16,6 +16,8 @@ genere_le: 2026-08-12
 
 ---
 
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
+
 **Ce que c'est vraiment, et comment le comprendre**
 
 Ce guide répond à une question qu'on pose rarement sérieusement : qu'est-ce que l'amour, concrètement ? Il l'aborde par quatre entrées — ce qu'en dit la biologie, ce que l'esprit en fait à partir de sa propre histoire, ce que la culture a ajouté par-dessus, et ce que ça engage réellement quand on vit à deux.
@@ -23,8 +25,6 @@ Ce guide répond à une question qu'on pose rarement sérieusement : qu'est-ce q
 Son fil conducteur : **l'amour n'est pas une chose mais trois**. Le désir, l'attirance romantique et l'attachement sont trois systèmes distincts, qui ne s'allument ni ensemble ni dans l'ordre. La plupart des inquiétudes amoureuses — « je ne ressens plus la même chose », « est-ce que c'est encore de l'amour » — deviennent traitables dès qu'on identifie de quel système on parle.
 
 Le guide dit aussi ce qui n'est **pas** validé. Les langages de l'amour, par exemple, sont utiles comme outil de conversation mais ne sont pas étayés empiriquement, et c'est écrit noir sur blanc plutôt que passé sous silence.
-
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
 
 ## Sommaire
 
@@ -47,11 +47,11 @@ Le guide dit aussi ce qui n'est **pas** validé. Les langages de l'amour, par ex
 
 Imaginez un véhicule équipé de trois moteurs indépendants. Un moteur de traction brute, très puissant, qui démarre vite et consomme énormément. Un moteur de recherche, qui pousse vers un objectif précis et fonctionne à l'anticipation. Un moteur de croisière, discret, peu gourmand, capable de tenir des milliers de kilomètres.
 
-Ces trois moteurs peuvent tourner ensemble, séparément, ou dans le désordre. On dit « je l'aime » quand au moins l'un des trois est en marche, sans savoir lequel. D'où l'essentiel des malentendus sur ce sujet : deux personnes qui emploient le même mot ne parlent pas forcément du même moteur. Cette distinction en trois systèmes indépendants — désir, attirance, attachement — est celle proposée par Helen Fisher et ses collègues (source : Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
+Ces trois moteurs peuvent tourner ensemble, séparément, ou dans le désordre. On dit « je l'aime » quand au moins l'un des trois est en marche, sans savoir lequel. D'où l'essentiel des malentendus sur ce sujet : deux personnes qui emploient le même mot ne parlent pas forcément du même moteur. [Cette distinction en trois systèmes indépendants — désir, attirance, attachement — est celle proposée par Helen Fisher et ses collègues](https://pubmed.ncbi.nlm.nih.gov/16255001/) (Fisher, Aron & Brown, *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
 
 ### 1.2 Les trois systèmes, et pourquoi les distinguer change tout
 
-Helen Fisher et ses collègues ont proposé de distinguer trois systèmes cérébraux qui ont évolué séparément et remplissent des fonctions différentes (source : Fisher, Aron & Brown, *Journal of Comparative Neurology*, 2005 ; vérification du 6 août 2026).
+[Helen Fisher et ses collègues ont proposé de distinguer trois systèmes cérébraux qui ont évolué séparément et remplissent des fonctions différentes](https://pubmed.ncbi.nlm.nih.gov/16255001/) (Fisher, Aron & Brown, *Journal of Comparative Neurology*, 2005 ; vérification du 6 août 2026).
 
 **Le désir sexuel**, principalement lié aux androgènes et aux œstrogènes. Sa fonction : pousser vers l'accouplement, sans grande sélectivité. On peut désirer quelqu'un qu'on n'apprécie pas.
 
@@ -65,7 +65,7 @@ La conséquence pratique est considérable. **Un amour qui « s'éteint » est p
 
 Les études d'imagerie cérébrale sur des personnes récemment tombées amoureuses montrent une activation des régions riches en dopamine associées à la récompense et à la motivation, plutôt que des zones dites « émotionnelles ». Autrement dit : au niveau cérébral, l'amour naissant ressemble davantage à un **système de motivation** qu'à une émotion comme la joie ou la tristesse. C'est un état de poursuite d'un objectif.
 
-Une précaution s'impose ici. L'imagerie cérébrale est un outil précieux et régulièrement sur-interprété. « Telle zone s'allume » ne veut pas dire « telle zone est le siège de l'amour ». Les zones concernées s'activent aussi pour bien d'autres motivations. Ce que ces travaux établissent solidement, c'est la **parenté fonctionnelle** entre l'amour naissant et les systèmes de motivation — pas une localisation de l'amour. La première étude d'imagerie cérébrale sur l'amour romantique naissant a montré une activation des zones riches en dopamine associées à la récompense, plutôt que des zones dites émotionnelles (source : Bartels & Zeki, « The neural basis of romantic love », *NeuroReport*, 2000 ; vérification du 7 août 2026).
+Une précaution s'impose ici. L'imagerie cérébrale est un outil précieux et régulièrement sur-interprété. « Telle zone s'allume » ne veut pas dire « telle zone est le siège de l'amour ». Les zones concernées s'activent aussi pour bien d'autres motivations. Ce que ces travaux établissent solidement, c'est la **parenté fonctionnelle** entre l'amour naissant et les systèmes de motivation — pas une localisation de l'amour. [La première étude d'imagerie cérébrale sur l'amour romantique naissant a montré une activation des zones riches en dopamine associées à la récompense, plutôt que des zones dites émotionnelles](https://pubmed.ncbi.nlm.nih.gov/11117499/) (Bartels & Zeki, *NeuroReport*, 2000 ; vérification du 7 août 2026).
 
 ### 1.4 Pourquoi le début est si intense, et pourquoi ça ne dure pas
 
@@ -75,7 +75,7 @@ C'est exactement la trajectoire d'une relation. Au début, tout est incertain : 
 
 **Ce ralentissement n'est pas une panne. C'est le fonctionnement normal du système.** Le confondre avec la fin de l'amour est probablement l'erreur d'interprétation la plus coûteuse en matière de vie amoureuse. Elle conduit à quitter des relations solides pour retrouver une intensité qui, par construction, se dégradera de la même façon à chaque fois.
 
-La baisse de sérotonine observée dans la phase d'attirance intense, rapprochée par certains travaux des profils observés dans les troubles obsessionnels, éclaire l'aspect envahissant de cette période : penser à quelqu'un des heures par jour n'est pas un signe de la qualité du lien, c'est un état neurochimique transitoire. Le signal dopaminergique code une erreur de prédiction de récompense, maximale en situation d'incertitude et non de gain acquis (source : Schultz, « Predictive reward signal of dopamine neurons », *Journal of Neurophysiology*, 1998 ; vérification du 7 août 2026).
+La baisse de sérotonine observée dans la phase d'attirance intense, rapprochée par certains travaux des profils observés dans les troubles obsessionnels, éclaire l'aspect envahissant de cette période : penser à quelqu'un des heures par jour n'est pas un signe de la qualité du lien, c'est un état neurochimique transitoire. [Le signal dopaminergique code une erreur de prédiction de récompense, maximale en situation d'incertitude et non de gain acquis](https://journals.physiology.org/doi/full/10.1152/jn.1998.80.1.1) (Schultz, *Journal of Neurophysiology*, 1998 ; vérification du 7 août 2026).
 
 ### 1.5 L'ocytocine, sans la légende
 
@@ -83,7 +83,7 @@ L'ocytocine est souvent présentée comme « l'hormone de l'amour ». C'est une 
 
 Ce qui est solide : elle est libérée lors du contact physique, de l'orgasme, de l'allaitement, et elle joue un rôle dans le lien social et la confiance.
 
-Ce qui l'est beaucoup moins : l'idée qu'elle produirait de l'amour ou de la confiance en général. Les travaux plus récents montrent qu'elle **renforce la saillance du lien de groupe**, ce qui inclut aussi le favoritisme envers les proches et parfois la méfiance envers les autres. Ce n'est pas une molécule de la bienveillance universelle. C'est un amplificateur de ce qui est déjà là. Une revue de synthèse souligne que les effets de l'ocytocine dépendent fortement du contexte et de la personne, et ne se résument pas à un effet universel de confiance (source : Bartz, Zaki, Bolger & Ochsner, « Social effects of oxytocin in humans: context and person matter », *Trends in Cognitive Sciences*, 2011 ; vérification du 7 août 2026).
+Ce qui l'est beaucoup moins : l'idée qu'elle produirait de l'amour ou de la confiance en général. Les travaux plus récents montrent qu'elle **renforce la saillance du lien de groupe**, ce qui inclut aussi le favoritisme envers les proches et parfois la méfiance envers les autres. Ce n'est pas une molécule de la bienveillance universelle. C'est un amplificateur de ce qui est déjà là. [Une revue de synthèse souligne que les effets de l'ocytocine dépendent fortement du contexte et de la personne, et ne se résument pas à un effet universel de confiance](https://pubmed.ncbi.nlm.nih.gov/21696997/) (Bartz, Zaki, Bolger & Ochsner, *Trends in Cognitive Sciences*, 2011 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -104,7 +104,7 @@ La conséquence pratique est utile : l'ocytocine se libère par le **contact phy
 
 Un feu qu'on allume commence par une flambée : haute, spectaculaire, chaude, et brève. Si on ne fait rien, elle s'éteint. Si on y met des bûches, elle devient un lit de braises — moins spectaculaire, beaucoup plus chaud sur la durée, et bien plus difficile à éteindre.
 
-Personne ne se plaint qu'un feu passe de la flambée à la braise. En amour, beaucoup de gens vivent ce passage comme une perte, parce qu'ils ont appris que la flambée **était** l'amour. Cette distinction reprend la séparation classique entre amour passionnel et amour compagnonnage établie par Elaine Hatfield (source : Hatfield & Rapson, *Love and Sex: Cross-Cultural Perspectives*, Allyn & Bacon, 1996 ; vérification du 7 août 2026).
+Personne ne se plaint qu'un feu passe de la flambée à la braise. En amour, beaucoup de gens vivent ce passage comme une perte, parce qu'ils ont appris que la flambée **était** l'amour. [Cette distinction reprend la séparation classique entre amour passionnel et amour compagnonnage établie par Elaine Hatfield](https://books.google.com/books/about/Love_and_Sex.html?id=evGtAAAAIAAJ) (Hatfield & Rapson, *Love and Sex: Cross-Cultural Perspectives*, Allyn & Bacon, 1996 ; vérification du 7 août 2026).
 
 ### 2.2 Ce que dit la recherche sur la durée de chaque phase
 
@@ -114,11 +114,11 @@ Ce qui est établi : la phase d'intensité obsédante n'est pas durable. Les ord
 
 Ce qui est établi aussi, et souvent ignoré : **l'amour passionnel ne disparaît pas nécessairement**. Des travaux sur des couples ensemble depuis plus de dix ans ont identifié une minorité de couples déclarant un amour intense et durable — avec un profil différent de celui du début, associant l'intensité à la sécurité plutôt qu'à l'anxiété et à l'obsession.
 
-C'est une nuance qui compte. Ce qui disparaît systématiquement, c'est la composante **obsessionnelle et anxieuse** du début. L'intensité, elle, peut se maintenir. Une étude d'imagerie cérébrale a identifié une minorité de couples de longue durée déclarant une intensité amoureuse comparable à celle du début, associée à des marqueurs cérébraux distincts de ceux de l'obsession (source : Acevedo & Aron, « Does a Long-Term Relationship Kill Romantic Love? », *Review of General Psychology*, 2009 ; vérification du 7 août 2026).
+C'est une nuance qui compte. Ce qui disparaît systématiquement, c'est la composante **obsessionnelle et anxieuse** du début. L'intensité, elle, peut se maintenir. [Une étude d'imagerie cérébrale a identifié une minorité de couples de longue durée déclarant une intensité amoureuse comparable à celle du début, associée à des marqueurs cérébraux distincts de ceux de l'obsession](https://www.apa.org/pubs/journals/releases/gpr13159.pdf) (Acevedo & Aron, *Review of General Psychology*, 2009 ; vérification du 7 août 2026).
 
 ### 2.3 Le modèle triangulaire, comme outil de diagnostic
 
-Robert Sternberg a proposé de décomposer l'amour en trois composantes : **l'intimité** (proximité, confidence, connexion), **la passion** (attirance, désir, excitation) et **l'engagement** (décision de rester, projet). Leur combinaison décrit des états différents (source : Sternberg, *Psychological Review*, 1986 ; vérification du 6 août 2026).
+Robert Sternberg a proposé de décomposer l'amour en trois composantes : **l'intimité** (proximité, confidence, connexion), **la passion** (attirance, désir, excitation) et **l'engagement** (décision de rester, projet). [Leur combinaison décrit des états différents](https://bernard.pitzer.edu/~dmoore/1986_Sternberg_TriangleLove_PsyRev.pdf) (Sternberg, *Psychological Review*, 1986 ; vérification du 6 août 2026).
 
 L'intérêt de ce modèle n'est pas théorique, il est diagnostique. Il permet de nommer ce qui manque au lieu de conclure globalement.
 
@@ -139,7 +139,7 @@ Trois choses s'installent quand le système d'attachement prend le relais, et el
 
 **La prévisibilité comme ressource.** Ce que le système dopaminergique perçoit comme ennuyeux, le système d'attachement le perçoit comme sécurisant. La même caractéristique — savoir ce que l'autre va faire — est un défaut pour un moteur et une qualité pour l'autre.
 
-**L'histoire commune.** Des références partagées, des épreuves traversées, une mémoire à deux. C'est ce qui rend une relation ancienne irremplaçable, et c'est précisément ce qu'aucune nouvelle relation ne peut fournir, même très intense. La régulation mutuelle du stress par la présence d'un partenaire sécurisant est documentée dans la littérature sur l'attachement adulte (source : Hazan & Shaver, « Romantic love conceptualized as an attachment process », *Journal of Personality and Social Psychology*, 1987 ; vérification du 7 août 2026).
+**L'histoire commune.** Des références partagées, des épreuves traversées, une mémoire à deux. C'est ce qui rend une relation ancienne irremplaçable, et c'est précisément ce qu'aucune nouvelle relation ne peut fournir, même très intense. [La régulation mutuelle du stress par la présence d'un partenaire sécurisant est documentée dans la littérature sur l'attachement adulte](https://psycnet.apa.org/record/1987-21950-001) (Hazan & Shaver, *Journal of Personality and Social Psychology*, 1987 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -164,7 +164,7 @@ On raconte souvent que certaines langues du Grand Nord disposent de dizaines de 
 
 Le français n'a qu'un mot pour l'amour. Un seul, pour ce qu'on éprouve envers un enfant, un ami de vingt ans, un amant de trois semaines, un pays, un métier, soi-même. Cette pauvreté n'est pas anodine : elle produit des questions insolubles. « Est-ce que je l'aime encore ? » n'a pas de réponse, parce qu'elle ne précise pas de quel amour on parle.
 
-Le grec ancien, lui, disposait de plusieurs mots. Ce chapitre les reprend — non par curiosité érudite, mais parce que ce vocabulaire est **l'outil de diagnostic le plus simple qui existe** pour savoir ce qu'on vit réellement. Une analyse lexicale comparative a recensé, à travers plusieurs langues, un nombre bien plus grand de mots liés à l'amour que ce que le français distingue habituellement (source : Lomas, « The flavours of love: A cross-cultural lexical analysis », *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
+Le grec ancien, lui, disposait de plusieurs mots. Ce chapitre les reprend — non par curiosité érudite, mais parce que ce vocabulaire est **l'outil de diagnostic le plus simple qui existe** pour savoir ce qu'on vit réellement. [Une analyse lexicale comparative a recensé, à travers plusieurs langues, un nombre bien plus grand de mots liés à l'amour que ce que le français distingue habituellement](https://onlinelibrary.wiley.com/doi/10.1111/jtsb.12158) (Lomas, *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
 
 ### 3.2 Les six mots grecs, et ce qu'ils désignent
 
@@ -182,7 +182,7 @@ Une précaution d'abord, souvent absente des vulgarisations. Ces mots n'étaient
 
 **Philautia** — l'amour de soi. Aristote la sépare nettement en deux. Le mauvais amour de soi cherche pour soi les honneurs, l'argent, les plaisirs, aux dépens des autres. Le bon consiste à vouloir pour soi ce qui est réellement bon, et c'est **la condition des autres amours** : on ne peut pas offrir à autrui un rapport qu'on ne s'accorde pas à soi-même.
 
-À ces six, on ajoute souvent **mania**, l'amour obsessionnel et possessif, et **pragma**, l'amour mûr et pragmatique de ceux qui durent. Ces deux-là viennent en réalité d'une autre grille, présentée plus bas. La distinction entre éros, philia et agapè est développée respectivement dans *Le Banquet* de Platon et l'*Éthique à Nicomaque* d'Aristote, livres VIII et IX (source : Platon, *Le Banquet* ; Aristote, *Éthique à Nicomaque* ; vérification du 7 août 2026).
+À ces six, on ajoute souvent **mania**, l'amour obsessionnel et possessif, et **pragma**, l'amour mûr et pragmatique de ceux qui durent. Ces deux-là viennent en réalité d'une autre grille, présentée plus bas. La distinction entre éros, philia et agapè est développée respectivement dans [*Le Banquet*](https://fr.wikisource.org/wiki/Le_Banquet_(trad._Cousin)) de Platon et l'[*Éthique à Nicomaque*](https://fr.wikisource.org/wiki/Morale_%C3%A0_Nicomaque/Texte_entier) d'Aristote, livres VIII et IX (vérification du 7 août 2026).
 
 ### 3.3 Pourquoi cette grille est un outil, pas une culture générale
 
@@ -198,7 +198,7 @@ Reprenez les inquiétudes les plus courantes, et regardez comme elles changent d
 - « Je ne pense qu'à lui et j'en souffre » → mania plutôt qu'amour, souvent nourrie par l'incertitude plutôt que par la personne. Voir le chapitre 1 sur la dopamine.
 - « Je donne tout et je ne reçois rien » → agapè sans réciprocité. Elle est admirable dans certains contextes — un parent, un proche malade — et elle est intenable comme base d'un couple.
 
-**La question utile n'est donc pas « est-ce que je l'aime ? » mais « lequel de ces liens est présent, lequel manque, et lequel me manque ? »** La première question est un verdict, la seconde est un diagnostic. L'utilité pratique d'un vocabulaire élargi pour les états affectifs est cohérente avec les travaux sur la diversité lexicale de l'amour selon les cultures (source : Lomas, « The flavours of love: A cross-cultural lexical analysis », *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
+**La question utile n'est donc pas « est-ce que je l'aime ? » mais « lequel de ces liens est présent, lequel manque, et lequel me manque ? »** La première question est un verdict, la seconde est un diagnostic. [L'utilité pratique d'un vocabulaire élargi pour les états affectifs est cohérente avec les travaux sur la diversité lexicale de l'amour selon les cultures](https://onlinelibrary.wiley.com/doi/10.1111/jtsb.12158) (Lomas, *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
 
 ### 3.4 Ce que la philosophie a ajouté après les Grecs
 
@@ -210,7 +210,7 @@ Trois apports qui déplacent réellement quelque chose, sans faire l'histoire co
 
 **Fromm et l'amour comme art.** Dans *L'art d'aimer* (1956), Erich Fromm attaque une croyance centrale de notre époque : on croit que le problème de l'amour est d'**être aimé**, ou de **trouver** le bon objet, alors qu'il est d'abord une **capacité** à développer. Personne ne s'attend à savoir jouer du piano sans apprendre ; tout le monde s'attend à savoir aimer sans rien apprendre. Fromm identifie quatre composantes de l'amour mûr : le souci de l'autre, la responsabilité, le respect, et la connaissance. Aucune n'est un sentiment ; toutes sont des pratiques.
 
-Ce déplacement — de « trouver la bonne personne » à « développer une capacité » — est cohérent avec ce que la recherche montre sur les théories implicites de la relation : croire qu'une relation se construit prédit une meilleure traversée des difficultés que croire à l'âme sœur prédestinée (voir chapitre 6.4). Ces trois apports viennent respectivement de Platon (*Le Banquet*), Spinoza (*Éthique*, livre III) et Erich Fromm (source : Fromm, *The Art of Loving*, Harper & Row, 1956 ; vérification du 7 août 2026).
+Ce déplacement — de « trouver la bonne personne » à « développer une capacité » — est cohérent avec ce que la recherche montre sur les théories implicites de la relation : croire qu'une relation se construit prédit une meilleure traversée des difficultés que croire à l'âme sœur prédestinée (voir chapitre 6.4). Ces trois apports viennent respectivement de Platon (*Le Banquet*), Spinoza (*Éthique*, livre III) et Erich Fromm ([*The Art of Loving*](https://en.wikipedia.org/wiki/The_Art_of_Loving), Harper & Row, 1956 ; vérification du 7 août 2026).
 
 ### 3.5 La grille de Lee : six styles amoureux, testés empiriquement
 
@@ -222,7 +222,7 @@ Les trois styles composites : **mania** (éros + ludus : possessif, jaloux, en m
 
 Ce que les données montrent, avec prudence sur l'ampleur des effets : les styles éros et agapè sont associés à une plus grande satisfaction relationnelle, tandis que ludus l'est négativement — ce qui est logique, ludus consistant précisément à ne pas s'engager. Mania est associée à davantage de détresse.
 
-L'usage juste de cette grille est le même que pour les mots grecs : **repérer un écart de style entre deux personnes**. Un pragma qui rencontre un éros ne vivra pas la même relation, et les deux risquent de mal interpréter l'autre — l'un trouvera l'autre froid et calculateur, l'autre le trouvera instable et irréaliste. Ce n'est pas un défaut d'amour, c'est une différence de style. Ces six styles ont été mesurés au moyen d'une échelle validée empiriquement (source : Hendrick & Hendrick, « A theory and method of love », *Journal of Personality and Social Psychology*, 1986 ; vérification du 7 août 2026).
+L'usage juste de cette grille est le même que pour les mots grecs : **repérer un écart de style entre deux personnes**. Un pragma qui rencontre un éros ne vivra pas la même relation, et les deux risquent de mal interpréter l'autre — l'un trouvera l'autre froid et calculateur, l'autre le trouvera instable et irréaliste. Ce n'est pas un défaut d'amour, c'est une différence de style. [Ces six styles ont été mesurés au moyen d'une échelle validée empiriquement](https://psycnet.apa.org/doi/10.1037/0022-3514.50.2.392) (Hendrick & Hendrick, *Journal of Personality and Social Psychology*, 1986 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -242,7 +242,7 @@ La conversation qui déplace vraiment quelque chose, à froid, tient en deux tem
 
 Il ne dit pas qu'il existerait un classement des amours, du plus bas au plus noble. Cette hiérarchie est une lecture tardive, souvent utilisée pour dévaloriser le désir, et elle ne résiste pas à l'examen : une relation sans éros ne tient pas mieux qu'une relation sans philia.
 
-Il ne dit pas non plus que ces catégories seraient des faits de nature. Ce sont des **outils de langage**. Leur seule vertu est de rendre discutable ce qui, faute de mots, restait un bloc indistinct sur lequel on ne pouvait que trancher par oui ou par non. Cette réserve méthodologique rejoint la mise en garde des chercheurs en lexicologie comparée contre une hiérarchisation implicite des formes d'amour selon les cultures (source : Lomas, « The flavours of love: A cross-cultural lexical analysis », *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
+Il ne dit pas non plus que ces catégories seraient des faits de nature. Ce sont des **outils de langage**. Leur seule vertu est de rendre discutable ce qui, faute de mots, restait un bloc indistinct sur lequel on ne pouvait que trancher par oui ou par non. [Cette réserve méthodologique rejoint la mise en garde des chercheurs en lexicologie comparée contre une hiérarchisation implicite des formes d'amour selon les cultures](https://onlinelibrary.wiley.com/doi/10.1111/jtsb.12158) (Lomas, *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
 
 ---
 
@@ -254,7 +254,7 @@ Les petits de la plupart des mammifères sont autonomes en quelques semaines ou 
 
 Cela crée un problème d'ingénierie : il faut que les adultes restent ensemble assez longtemps. Les liens rationnels ne tiennent pas des années sous la fatigue et le stress. Il fallait une colle plus solide qu'un accord. L'attachement amoureux est un bon candidat pour cette colle.
 
-Cette explication est plausible et cohérente avec plusieurs faits, mais elle demande d'être maniée avec précaution — c'est l'objet de la fin de ce chapitre. L'hypothèse d'un attachement de couple comme solution à la dépendance prolongée du petit humain s'appuie sur le même cadre que celui utilisé pour expliquer les trois systèmes cérébraux de l'amour (source : Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
+Cette explication est plausible et cohérente avec plusieurs faits, mais elle demande d'être maniée avec précaution — c'est l'objet de la fin de ce chapitre. [L'hypothèse d'un attachement de couple comme solution à la dépendance prolongée du petit humain s'appuie sur le même cadre que celui utilisé pour expliquer les trois systèmes cérébraux de l'amour](https://pubmed.ncbi.nlm.nih.gov/16255001/) (Fisher, Aron & Brown, *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
 
 ### 4.2 Ce qui rend l'hypothèse crédible
 
@@ -266,7 +266,7 @@ Plusieurs éléments convergent.
 
 **Les modèles animaux le confirment partiellement.** Les travaux sur le campagnol des prairies, espèce monogame, comparé au campagnol des montagnes, qui ne l'est pas, ont montré le rôle des récepteurs à la vasopressine et à l'ocytocine dans la formation du lien de couple (travaux de Sue Carter, Thomas Insel et collègues, années 1990-2000 ; vérification du 6 août 2026).
 
-**L'universalité culturelle.** L'anthropologue William Jankowiak et Edward Fischer ont recherché des traces d'amour romantique dans un large échantillon de sociétés et en ont trouvé dans la très grande majorité d'entre elles (source : Jankowiak & Fischer, *Ethnology*, 1992 ; vérification du 6 août 2026). L'amour romantique n'est donc pas une invention occidentale — contrairement à ce qu'on lit parfois, et contrairement au **mariage d'amour**, qui, lui, est récent (chapitre 6).
+**L'universalité culturelle.** [L'anthropologue William Jankowiak et Edward Fischer ont recherché des traces d'amour romantique dans un large échantillon de sociétés et en ont trouvé dans la très grande majorité d'entre elles](https://oasis.library.unlv.edu/anthro_fac_articles/8/) (Jankowiak & Fischer, *Ethnology*, 1992 ; vérification du 6 août 2026). L'amour romantique n'est donc pas une invention occidentale — contrairement à ce qu'on lit parfois, et contrairement au **mariage d'amour**, qui, lui, est récent (chapitre 6).
 
 ### 4.3 Les limites, qui sont importantes
 
@@ -276,7 +276,7 @@ Trois précautions, sans lesquelles ce type de raisonnement devient de la mauvai
 
 **Ce qui est n'est pas ce qui doit être.** C'est le point le plus important. Le fait qu'un mécanisme ait été sélectionné ne le rend ni bon, ni souhaitable, ni obligatoire. L'infidélité, la jalousie et la violence ont aussi des explications évolutionnistes plausibles : cela ne les justifie en rien. Confondre l'explication et la justification est une erreur logique, et elle est massivement exploitée dans les discours en ligne sur les rapports entre hommes et femmes.
 
-**Les différences entre groupes sont plus faibles que les différences entre individus.** Les écarts moyens documentés entre hommes et femmes en matière de préférences sont réels mais modestes, et complètement écrasés par la variation d'un individu à l'autre. Toute affirmation du type « les hommes sont ainsi, les femmes sont ainsi » déforme les données dont elle se réclame. Confondre une explication d'origine et une justification morale correspond à ce que la philosophie appelle le sophisme naturaliste (source : Moore, *Principia Ethica*, Cambridge University Press, 1903 ; vérification du 7 août 2026).
+**Les différences entre groupes sont plus faibles que les différences entre individus.** Les écarts moyens documentés entre hommes et femmes en matière de préférences sont réels mais modestes, et complètement écrasés par la variation d'un individu à l'autre. Toute affirmation du type « les hommes sont ainsi, les femmes sont ainsi » déforme les données dont elle se réclame. [Confondre une explication d'origine et une justification morale correspond à ce que la philosophie appelle le sophisme naturaliste](https://www.gutenberg.org/ebooks/53430) (Moore, *Principia Ethica*, Cambridge University Press, 1903 ; vérification du 7 août 2026).
 
 ### 4.4 Ce que ça change concrètement
 
@@ -284,7 +284,7 @@ Peu de choses sur le plan pratique, et c'est honnête de le dire. Cet angle n'in
 
 **Il dédramatise le fonctionnement du début.** L'obsession, la perte d'appétit, l'insomnie, la focalisation sur une personne : ce ne sont pas des signes de la qualité de la relation, ce sont des mécanismes anciens qui font leur travail. Cela évite de tirer des conclusions définitives d'un état chimique transitoire.
 
-**Il replace la monogamie exclusive à vie comme une option culturelle**, pas comme un fait de nature. Les données comparatives montrent une majorité de sociétés humaines historiquement organisées autour de formes variables, avec cependant le couple comme unité de coopération dominante presque partout. Cela n'invalide pas le choix de la fidélité — cela indique simplement que c'est un **choix**, qui se décide et se discute à deux, plutôt qu'une évidence biologique. La présence de l'amour romantique dans la quasi-totalité des sociétés étudiées invite à distinguer le sentiment, ancien et partagé, de ses formes institutionnelles, récentes et variables (source : Jankowiak & Fischer, « A cross-cultural perspective on romantic love », *Ethnology*, 1992 ; vérification du 7 août 2026).
+**Il replace la monogamie exclusive à vie comme une option culturelle**, pas comme un fait de nature. Les données comparatives montrent une majorité de sociétés humaines historiquement organisées autour de formes variables, avec cependant le couple comme unité de coopération dominante presque partout. Cela n'invalide pas le choix de la fidélité — cela indique simplement que c'est un **choix**, qui se décide et se discute à deux, plutôt qu'une évidence biologique. [La présence de l'amour romantique dans la quasi-totalité des sociétés étudiées invite à distinguer le sentiment, ancien et partagé, de ses formes institutionnelles, récentes et variables](https://oasis.library.unlv.edu/anthro_fac_articles/8/) (Jankowiak & Fischer, *Ethnology*, 1992 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
@@ -300,7 +300,7 @@ Peu de choses sur le plan pratique, et c'est honnête de le dire. Cet angle n'in
 
 Personne ne choisit son accent. On l'acquiert par exposition, très tôt, sans le décider, et on ne l'entend pas soi-même — ce sont les autres qui le remarquent. On peut le modifier, mais cela demande un effort conscient et prolongé, et il revient sous la fatigue.
 
-L'amour fonctionne de la même façon. Vous avez appris, avant de savoir parler, ce que « être aimé » veut dire concrètement : à quelle vitesse on répond à votre détresse, ce qu'il faut faire pour obtenir de l'attention, si la proximité est sûre ou coûteuse. Cet apprentissage est devenu votre accent relationnel. Vous ne l'entendez pas. Vous croyez simplement que c'est ainsi que fonctionnent les relations. Le concept de modèle interne opérant, à l'origine de cette métaphore, vient des travaux fondateurs de John Bowlby (source : Bowlby, *Attachment and Loss, vol. 1*, Basic Books, 1969 ; vérification du 7 août 2026).
+L'amour fonctionne de la même façon. Vous avez appris, avant de savoir parler, ce que « être aimé » veut dire concrètement : à quelle vitesse on répond à votre détresse, ce qu'il faut faire pour obtenir de l'attention, si la proximité est sûre ou coûteuse. Cet apprentissage est devenu votre accent relationnel. Vous ne l'entendez pas. Vous croyez simplement que c'est ainsi que fonctionnent les relations. [Le concept de modèle interne opérant, à l'origine de cette métaphore, vient des travaux fondateurs de John Bowlby](https://www.abebooks.com/Attachment-Loss-Vol-1-John-Bowlby/31446358848/bd) (Bowlby, *Attachment and Loss, vol. 1*, Basic Books, 1969 ; vérification du 7 août 2026).
 
 ### 5.2 Le modèle interne opérant
 
@@ -308,7 +308,7 @@ Bowlby a nommé ce mécanisme le *modèle interne opérant* : une représentatio
 
 Cette grille a une propriété redoutable : elle **s'auto-confirme**. Quelqu'un qui a appris qu'on finit toujours par l'abandonner interprétera un délai de réponse comme un début d'abandon, réagira en conséquence — reproches, retrait, tests —, et cette réaction rendra effectivement le départ de l'autre plus probable. La prédiction s'est vérifiée, et la grille se renforce.
 
-C'est ce qui explique pourquoi les schémas se répètent avec des partenaires différents. Ce n'est pas de la malchance dans le recrutement. C'est une grille de lecture qui produit les mêmes interprétations, donc les mêmes réactions, donc des issues comparables. Une revue historique retrace la formulation de ce concept par Bowlby et sa validation empirique ultérieure (source : Bretherton, « The Origins of Attachment Theory: John Bowlby and Mary Ainsworth », *Developmental Psychology*, 1992 ; vérification du 7 août 2026).
+C'est ce qui explique pourquoi les schémas se répètent avec des partenaires différents. Ce n'est pas de la malchance dans le recrutement. C'est une grille de lecture qui produit les mêmes interprétations, donc les mêmes réactions, donc des issues comparables. [Une revue historique retrace la formulation de ce concept par Bowlby et sa validation empirique ultérieure](http://www.psychology.sunysb.edu/attachment/online/inge_origins.pdf) (Bretherton, *Developmental Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 5.3 La répétition familiale, sans caricature
 
@@ -320,7 +320,7 @@ Trois formes fréquentes, décrites par leur mécanisme.
 
 **La réparation par procuration.** Chercher chez un partenaire ce qu'un parent n'a pas donné, et lui demander implicitement de réparer quelque chose d'antérieur à lui. Cette attente est structurellement impossible à satisfaire, ce qui produit une déception récurrente que le partenaire ne comprend pas.
 
-**L'inversion du rôle.** Avoir occupé enfant une place d'adulte — soutenir un parent fragile, arbitrer les conflits — et reprendre automatiquement ce rôle en couple : être celui qui gère, qui apaise, qui prend en charge. Cela fonctionne, jusqu'au moment où l'épuisement arrive. Une méta-analyse a établi une transmission mesurable des représentations d'attachement entre les parents et leurs enfants (source : van IJzendoorn, « Adult attachment representations, parental responsiveness, and infant attachment », *Psychological Bulletin*, 1995 ; vérification du 7 août 2026).
+**L'inversion du rôle.** Avoir occupé enfant une place d'adulte — soutenir un parent fragile, arbitrer les conflits — et reprendre automatiquement ce rôle en couple : être celui qui gère, qui apaise, qui prend en charge. Cela fonctionne, jusqu'au moment où l'épuisement arrive. [Une méta-analyse a établi une transmission mesurable des représentations d'attachement entre les parents et leurs enfants](https://pubmed.ncbi.nlm.nih.gov/7777645/) (van IJzendoorn, *Psychological Bulletin*, 1995 ; vérification du 7 août 2026).
 
 ### 5.4 Ce qui distingue une explication d'une excuse
 
@@ -328,13 +328,13 @@ Point important, parce que ces notions circulent beaucoup et servent souvent mal
 
 Comprendre d'où vient un fonctionnement **explique** un comportement. Cela ne le rend ni acceptable ni inévitable. « Je suis comme ça à cause de mon enfance » est vrai et ne règle rien : la personne en face subit le comportement, pas son origine.
 
-La différence entre une explication et une excuse tient en une chose : l'explication est suivie d'un **travail**. Elle sert à identifier le moment précis où le schéma se déclenche, pour pouvoir faire autre chose. L'excuse, elle, sert à obtenir que l'autre s'adapte. La distinction entre expliquer un schéma relationnel et l'utiliser pour se dédouaner est centrale dans les approches thérapeutiques centrées sur l'attachement (source : Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
+La différence entre une explication et une excuse tient en une chose : l'explication est suivie d'un **travail**. Elle sert à identifier le moment précis où le schéma se déclenche, pour pouvoir faire autre chose. L'excuse, elle, sert à obtenir que l'autre s'adapte. [La distinction entre expliquer un schéma relationnel et l'utiliser pour se dédouaner est centrale dans les approches thérapeutiques centrées sur l'attachement](https://www.routledge.com/The-Practice-of-Emotionally-Focused-Couple-Therapy-Creating-Connection/Johnson/p/book/9780815348016) (Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
 
 ### 5.5 La bonne nouvelle, documentée
 
 Les schémas se déplacent. La littérature parle de **sécurité acquise** : des personnes ayant eu un attachement insécure dans l'enfance et présentant à l'âge adulte un fonctionnement sécure. Deux voies principales sont décrites : une relation durable avec un partenaire sécure, et un travail thérapeutique.
 
-Le mécanisme est simple à énoncer : une grille de lecture se modifie par **accumulation d'expériences contraires**. Chaque fois qu'une inquiétude est exprimée et accueillie sans drame, une petite contradiction s'ajoute au modèle. Il en faut beaucoup, sur longtemps, mais l'effet est réel. Le concept de sécurité acquise a été documenté chez des adultes présentant un attachement insécure dans l'enfance et un fonctionnement sécure validé à l'âge adulte (source : Pearson, Cohn, Cowan & Cowan, « Earned- and continuous-security in adult attachment », *Development and Psychopathology*, 1994 ; vérification du 7 août 2026).
+Le mécanisme est simple à énoncer : une grille de lecture se modifie par **accumulation d'expériences contraires**. Chaque fois qu'une inquiétude est exprimée et accueillie sans drame, une petite contradiction s'ajoute au modèle. Il en faut beaucoup, sur longtemps, mais l'effet est réel. [Le concept de sécurité acquise a été documenté chez des adultes présentant un attachement insécure dans l'enfance et un fonctionnement sécure validé à l'âge adulte](https://www.researchgate.net/publication/231843405_Earned-_and_Continuous-security_in_adult_attachment_Relation_to_depressive_symptomatology_and_parenting_style) (Pearson, Cohn, Cowan & Cowan, *Development and Psychopathology*, 1994 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -359,7 +359,7 @@ Il faut séparer deux choses qu'on mélange en permanence.
 
 **Le sentiment amoureux** est ancien et très largement partagé entre cultures. Jankowiak et Fischer en ont trouvé des traces dans l'immense majorité des sociétés étudiées (*Ethnology*, 1992). Il n'est pas une invention occidentale.
 
-**Le fait de fonder le mariage sur ce sentiment**, en revanche, est récent et localisé. Pendant l'essentiel de l'histoire humaine, le mariage a été une affaire d'alliance entre familles, de transmission de patrimoine et d'organisation du travail. L'amour pouvait exister, avant ou après, mais il n'était pas le critère de la décision. L'historienne Stephanie Coontz a documenté ce basculement : l'idée que le mariage devrait reposer sur l'amour s'est imposée en Occident à partir de la fin du XVIIIe siècle, et s'est généralisée au XXe (source : Coontz, *Marriage, a History*, 2005 ; vérification du 6 août 2026).
+**Le fait de fonder le mariage sur ce sentiment**, en revanche, est récent et localisé. Pendant l'essentiel de l'histoire humaine, le mariage a été une affaire d'alliance entre familles, de transmission de patrimoine et d'organisation du travail. L'amour pouvait exister, avant ou après, mais il n'était pas le critère de la décision. [L'historienne Stephanie Coontz a documenté ce basculement](https://www.powells.com/book/marriage-a-history-how-love-conquered-marriage-9780143036678) : l'idée que le mariage devrait reposer sur l'amour s'est imposée en Occident à partir de la fin du XVIIIe siècle, et s'est généralisée au XXe (Coontz, *Marriage, a History*, 2005 ; vérification du 6 août 2026).
 
 ### 6.2 Pourquoi ce basculement rend le couple plus fragile — et plus intense
 
@@ -369,11 +369,11 @@ Tant que le mariage repose sur l'économie et l'alliance, il est **solide** : le
 
 Dès lors qu'il repose sur l'amour, il devient **beaucoup plus désirable et beaucoup plus fragile**. Si la raison d'être ensemble est un sentiment, la disparition du sentiment dissout la raison. Coontz formule le paradoxe ainsi : les conditions qui ont rendu le mariage plus satisfaisant que jamais l'ont, dans le même mouvement, rendu plus optionnel et plus instable.
 
-Ce n'est donc pas que « les gens ne savent plus s'engager ». C'est que le critère de l'engagement a changé, et que ce critère est par nature variable. Stephanie Coontz a montré que le passage à un mariage fondé sur l'amour l'a rendu à la fois plus désirable et plus instable, la disparition du sentiment dissolvant désormais sa raison d'être (source : Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
+Ce n'est donc pas que « les gens ne savent plus s'engager ». C'est que le critère de l'engagement a changé, et que ce critère est par nature variable. [Stephanie Coontz a montré que le passage à un mariage fondé sur l'amour l'a rendu à la fois plus désirable et plus instable](https://www.powells.com/book/marriage-a-history-how-love-conquered-marriage-9780143036678), la disparition du sentiment dissolvant désormais sa raison d'être (Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
 
 ### 6.3 L'attente devenue démesurée
 
-Le psychologue Eli Finkel a décrit ce qu'il appelle le mariage « tout ou rien » : à mesure que les fonctions matérielles du couple se sont allégées, les attentes se sont déplacées vers le haut — épanouissement personnel, réalisation de soi, croissance mutuelle (source : Finkel, *The All-or-Nothing Marriage*, 2017 ; vérification du 6 août 2026).
+[Le psychologue Eli Finkel a décrit ce qu'il appelle le mariage « tout ou rien »](https://www.penguinrandomhouse.com/books/318510/the-all-or-nothing-marriage-by-eli-j-finkel/) : à mesure que les fonctions matérielles du couple se sont allégées, les attentes se sont déplacées vers le haut — épanouissement personnel, réalisation de soi, croissance mutuelle (Finkel, *The All-or-Nothing Marriage*, 2017 ; vérification du 6 août 2026).
 
 Le constat est double, et les deux moitiés comptent. Les couples qui parviennent à satisfaire ces attentes hautes déclarent une qualité de relation supérieure à ce qu'on observait autrefois. Ceux qui n'y parviennent pas sont plus insatisfaits qu'ils ne l'auraient été avec des attentes plus modestes — parce qu'ils échouent selon un critère plus exigeant.
 
@@ -391,7 +391,7 @@ Quatre scripts, tellement répétés qu'ils passent pour des évidences.
 
 **L'insistance qui finit par payer.** Un script narratif extrêmement répandu, où le refus initial n'est qu'une étape avant la conquête. C'est un apprentissage du non-respect du refus, exactement le signal décrit au chapitre 7 du guide [La rencontre](<../1 - Guides/La rencontre/README.md>).
 
-**La fin sur le baiser.** Les récits s'arrêtent au moment où la relation commence, ce qui laisse sans aucun modèle culturel pour la partie qui dure. On apprend à tomber amoureux, jamais à rester. Croire à une âme sœur prédestinée plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple face aux difficultés (source : Knee, « Implicit theories of relationships: assessment and prediction of romantic relationship initiation, coping, and longevity », *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
+**La fin sur le baiser.** Les récits s'arrêtent au moment où la relation commence, ce qui laisse sans aucun modèle culturel pour la partie qui dure. On apprend à tomber amoureux, jamais à rester. [Croire à une âme sœur prédestinée plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple face aux difficultés](https://www.researchgate.net/publication/232518767_Implicit_Theories_of_Relationships_Assessment_and_Prediction_of_Romantic_Relationship_Initiation_Coping_and_Longevity) (Knee, *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 
@@ -408,13 +408,13 @@ Quatre scripts, tellement répétés qu'ils passent pour des évidences.
 
 Gary Chapman, pasteur et conseiller conjugal, a proposé en 1992 l'idée que chacun exprime et reçoit l'affection selon un « langage » dominant : paroles valorisantes, moments de qualité, cadeaux, services rendus, contact physique. Le malentendu classique consisterait à donner dans son propre langage plutôt que dans celui de l'autre.
 
-Le succès a été considérable, et il mérite d'être expliqué : le modèle est simple, il donne des actions concrètes, et il transforme un reproche (« tu ne m'aimes pas ») en problème de traduction (« on ne parle pas la même langue »). Ce déplacement est réellement utile en couple. L'idée des cinq langages de l'amour a été proposée par le conseiller conjugal Gary Chapman (source : Chapman, *The Five Love Languages*, Northfield Publishing, 1992 ; vérification du 7 août 2026).
+Le succès a été considérable, et il mérite d'être expliqué : le modèle est simple, il donne des actions concrètes, et il transforme un reproche (« tu ne m'aimes pas ») en problème de traduction (« on ne parle pas la même langue »). Ce déplacement est réellement utile en couple. [L'idée des cinq langages de l'amour a été proposée par le conseiller conjugal Gary Chapman](https://search.worldcat.org/title/The-five-love-languages/oclc/26939980) (Chapman, *The Five Love Languages*, Northfield Publishing, 1992 ; vérification du 7 août 2026).
 
 ### 7.2 Ce que la recherche en dit, honnêtement
 
 Il faut être clair : **la théorie des cinq langages n'a pas de validation scientifique solide**. C'est un modèle issu de la pratique clinique d'un praticien, pas de la recherche.
 
-Les travaux qui l'ont testé aboutissent à des résultats mitigés. Les analyses des questionnaires ne retrouvent pas de façon nette cinq catégories distinctes, et surtout, l'hypothèse centrale — les couples qui « parlent le langage » de l'autre seraient plus satisfaits — n'est pas soutenue de façon convaincante. Une revue publiée en 2024 dans *Current Directions in Psychological Science* par Impett, Park et Muise conclut que la métaphore des langages de l'amour n'est pas étayée par les données empiriques disponibles (source : Impett, Park & Muise, 2024 ; vérification du 6 août 2026).
+Les travaux qui l'ont testé aboutissent à des résultats mitigés. Les analyses des questionnaires ne retrouvent pas de façon nette cinq catégories distinctes, et surtout, l'hypothèse centrale — les couples qui « parlent le langage » de l'autre seraient plus satisfaits — n'est pas soutenue de façon convaincante. [Une revue publiée en 2024 dans *Current Directions in Psychological Science* par Impett, Park et Muise conclut que la métaphore des langages de l'amour n'est pas étayée par les données empiriques disponibles](https://journals.sagepub.com/doi/10.1177/09637214231217663) (Impett, Park & Muise, 2024 ; vérification du 6 août 2026).
 
 Cela ne veut pas dire que le modèle est nuisible. Cela veut dire qu'il faut lui donner son vrai statut : **un outil de conversation utile, pas une description validée du fonctionnement humain**.
 
@@ -428,7 +428,7 @@ La recherche empirique sur ce qui prédit la satisfaction et la durée d'un coup
 
 **La capitalisation.** La façon dont on réagit aux **bonnes** nouvelles de l'autre prédit la satisfaction du couple au moins autant que la gestion des conflits. Une réaction active et enthousiaste à une réussite construit davantage qu'une réaction polie. C'est un résultat contre-intuitif et bien documenté (travaux de Shelly Gable et collègues).
 
-**Les quatre comportements destructeurs** identifiés par Gottman : la critique globale de la personne, le mépris (le plus toxique), la position défensive systématique, et le retrait. Le mépris est celui dont l'effet est le plus constamment retrouvé. Les comportements destructeurs les mieux documentés du couple ont été identifiés par observation directe d'échanges entre partenaires (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
+**Les quatre comportements destructeurs** identifiés par Gottman : la critique globale de la personne, le mépris (le plus toxique), la position défensive systématique, et le retrait. Le mépris est celui dont l'effet est le plus constamment retrouvé. [Les comportements destructeurs les mieux documentés du couple ont été identifiés par observation directe d'échanges entre partenaires](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 7.4 Comment utiliser l'idée sans se tromper
 
@@ -436,7 +436,7 @@ Le modèle des langages garde une utilité pratique si on le prend pour ce qu'il
 
 Ce qui fonctionne : demander à l'autre ce qui lui fait concrètement du bien, et le lui dire pour soi. Ce qui ne fonctionne pas : se déclarer d'un « type » et exiger que l'autre s'y conforme, ou s'en servir pour disqualifier ce qu'il fait (« tes cadeaux ne comptent pas, mon langage c'est le temps »).
 
-La question utile n'est pas « quel est ton langage ». C'est : **« cite-moi trois choses que j'ai faites cette année qui t'ont vraiment fait du bien. »** Elle donne des faits concrets, exploitables immédiatement, sans passer par une théorie. Une synthèse récente conclut que le modèle des cinq langages reste utile comme grille de conversation, sans validation empirique de son hypothèse centrale (source : Impett, Park & Muise, « Popular Psychology Through a Scientific Lens: Evaluating Love Languages », *Current Directions in Psychological Science*, 2024 ; vérification du 7 août 2026).
+La question utile n'est pas « quel est ton langage ». C'est : **« cite-moi trois choses que j'ai faites cette année qui t'ont vraiment fait du bien. »** Elle donne des faits concrets, exploitables immédiatement, sans passer par une théorie. [Une synthèse récente conclut que le modèle des cinq langages reste utile comme grille de conversation, sans validation empirique de son hypothèse centrale](https://journals.sagepub.com/doi/10.1177/09637214231217663) (Impett, Park & Muise, « Popular Psychology Through a Scientific Lens: Evaluating Love Languages », *Current Directions in Psychological Science*, 2024 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -460,7 +460,7 @@ Le modèle le plus utile sur cette question est le **modèle du double contrôle
 
 L'implication est décisive et va à l'encontre de tout ce que la culture raconte. Quand le désir baisse, le réflexe est d'ajouter de l'accélérateur : plus de séduction, plus de nouveauté, plus de propositions. Or dans la grande majorité des situations, le problème n'est pas un défaut d'accélérateur — **c'est un frein enfoncé**. Et appuyer sur l'accélérateur avec le frein serré n'avance à rien, tout en usant le moteur.
 
-Ce modèle est développé dans le guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), chapitre 9. Ce modèle a été développé à l'Institut Kinsey à partir de recherches sur la réponse sexuelle (source : Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
+Ce modèle est développé dans le guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), chapitre 9. [Ce modèle a été développé à l'Institut Kinsey à partir de recherches sur la réponse sexuelle](https://www.sciencedirect.com/science/article/abs/pii/S0149763400000245) (Bancroft & Janssen, *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
 
 ### 8.2 Désir spontané et désir réactif
 
@@ -468,7 +468,7 @@ Deuxième idée qui règle beaucoup de malentendus. Le **désir spontané** appa
 
 Les deux sont normaux. Le désir réactif est simplement moins représenté dans les récits culturels, où l'envie précède toujours l'acte. Résultat : beaucoup de personnes en désir réactif — statistiquement plus souvent des femmes, mais pas exclusivement — concluent qu'elles ont un problème, ou qu'elles n'aiment plus leur partenaire.
 
-L'erreur pratique qui en découle est fréquente : attendre d'avoir envie pour initier. Si votre désir est réactif, cette attente peut durer indéfiniment, parce que le déclencheur n'est pas censé venir en premier. Cette notion a sa propre page dans le projet : [Désir spontané et désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>). La distinction entre désir spontané et désir réactif a été proposée par Rosemary Basson à partir de l'observation clinique de la réponse sexuelle féminine (source : Basson, « The female sexual response: a different model », *Journal of Sex & Marital Therapy*, 2000 ; vérification du 7 août 2026).
+L'erreur pratique qui en découle est fréquente : attendre d'avoir envie pour initier. Si votre désir est réactif, cette attente peut durer indéfiniment, parce que le déclencheur n'est pas censé venir en premier. Cette notion a sa propre page dans le projet : [Désir spontané et désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>). [La distinction entre désir spontané et désir réactif a été proposée par Rosemary Basson à partir de l'observation clinique de la réponse sexuelle féminine](https://www.tandfonline.com/doi/abs/10.1080/009262300278641) (Basson, *Journal of Sex & Marital Therapy*, 2000 ; vérification du 7 août 2026).
 
 ### 8.3 Ce qui enfonce le frein, concrètement
 
@@ -482,7 +482,7 @@ La liste est banale, et c'est précisément ce qui la rend importante — on che
 
 **La peur de la déception.** Après plusieurs tentatives qui n'ont pas fonctionné, chaque nouvelle tentative porte un enjeu. L'enjeu est lui-même un frein — mécanisme central des troubles de l'érection dits situationnels, décrit dans [Pour Lui](<../1 - Guides/Pour Lui/README.md>).
 
-**La disparition du contact non sexuel.** Quand tout contact physique est interprété comme une initiative sexuelle, le couple cesse de se toucher pour éviter le malentendu — et supprime du même coup ce qui entretenait le lien. La charge mentale et la fatigue figurent parmi les freins les plus documentés du désir dans la littérature sur la sexothérapie (source : Basson, « The female sexual response: a different model », *Journal of Sex & Marital Therapy*, 2000 ; vérification du 7 août 2026).
+**La disparition du contact non sexuel.** Quand tout contact physique est interprété comme une initiative sexuelle, le couple cesse de se toucher pour éviter le malentendu — et supprime du même coup ce qui entretenait le lien. [La charge mentale et la fatigue figurent parmi les freins les plus documentés du désir dans la littérature sur la sexothérapie](https://www.tandfonline.com/doi/abs/10.1080/009262300278641) (Basson, *Journal of Sex & Marital Therapy*, 2000 ; vérification du 7 août 2026).
 
 ### 8.4 Ce qui fonctionne, d'après les données
 
@@ -492,7 +492,7 @@ Trois leviers, par ordre d'efficacité documentée.
 
 **Programmer plutôt qu'attendre.** Contre-intuitif et pourtant recommandé en thérapie sexuelle : décider d'un moment protégé, sans obligation de résultat. Cela paraît anti-romantique — mais l'attente du surgissement spontané ne fonctionne pas pour un désir réactif, et le temps non planifié est systématiquement colonisé par le reste.
 
-**La nouveauté partagée, hors du lit.** Les travaux d'Aron et collègues sur les activités nouvelles et stimulantes faites ensemble montrent un effet sur la qualité relationnelle et sur l'attirance. La nouveauté cherchée dans l'acte sexuel lui-même a un effet plus limité que la nouveauté cherchée dans la relation. La pratique d'activités nouvelles et stimulantes partagées à deux est associée à une meilleure qualité relationnelle dans plusieurs études expérimentales (source : Aron, Norman, Aron, McKenna & Heyman, « Couples' shared participation in novel and arousing activities », *Journal of Personality and Social Psychology*, 2000 ; vérification du 7 août 2026).
+**La nouveauté partagée, hors du lit.** Les travaux d'Aron et collègues sur les activités nouvelles et stimulantes faites ensemble montrent un effet sur la qualité relationnelle et sur l'attirance. La nouveauté cherchée dans l'acte sexuel lui-même a un effet plus limité que la nouveauté cherchée dans la relation. [La pratique d'activités nouvelles et stimulantes partagées à deux est associée à une meilleure qualité relationnelle dans plusieurs études expérimentales](https://pubmed.ncbi.nlm.nih.gov/10707334/) (Aron, Norman, Aron, McKenna & Heyman, *Journal of Personality and Social Psychology*, 2000 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -515,7 +515,7 @@ La formulation qui désamorce, à froid et hors de la chambre : **« je crois qu
 
 Parce que le sentiment n'a aucune existence juridique, mais que la vie commune, elle, en a une. Beaucoup de gens découvrent le cadre légal de leur relation au pire moment : à la séparation, au décès, ou devant un refus de la banque.
 
-Ce chapitre ne remplace pas un notaire. Il donne les notions minimales pour savoir **quelles questions poser**. L'absence de vocation successorale entre concubins ou partenaires de PACS sans testament est un fait juridique établi (source : code civil, livre III, titre Ier, des successions ; vérification du 7 août 2026).
+Ce chapitre ne remplace pas un notaire. Il donne les notions minimales pour savoir **quelles questions poser**. [L'absence de vocation successorale entre concubins ou partenaires de PACS sans testament est un fait juridique établi](https://www.justice.fr/fiche/mariage-pacs-concubinage-union-libre-differences) (code civil, livre III, titre Ier, des successions ; vérification du 7 août 2026).
 
 ### 9.2 Les trois statuts, en clair
 
@@ -525,7 +525,7 @@ Ce chapitre ne remplace pas un notaire. Il donne les notions minimales pour savo
 
 **Le mariage.** Le plus protecteur. Il crée un devoir de secours, une vocation successorale automatique, une protection du logement familial, des droits en matière de pension de réversion. Il se défait par une procédure judiciaire.
 
-Le choix du **régime matrimonial** compte souvent plus que le choix du mariage lui-même : en communauté réduite aux acquêts (le régime par défaut en France), ce qui est acquis pendant le mariage est commun ; en séparation de biens, chacun reste propriétaire de ce qu'il acquiert. Les régimes matrimoniaux et leurs effets sont fixés par le code civil (source : code civil, articles 1387 et suivants ; vérification du 7 août 2026).
+Le choix du **régime matrimonial** compte souvent plus que le choix du mariage lui-même : en communauté réduite aux acquêts (le régime par défaut en France), ce qui est acquis pendant le mariage est commun ; en séparation de biens, chacun reste propriétaire de ce qu'il acquiert. [Les régimes matrimoniaux et leurs effets sont fixés par le code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006439078) (code civil, articles 1387 et suivants ; vérification du 7 août 2026).
 
 ### 9.3 L'achat immobilier à deux, hors mariage
 
@@ -535,7 +535,7 @@ Deux personnes non mariées qui achètent ensemble sont en **indivision**. La r�
 
 Deuxième règle : « nul ne peut être contraint à demeurer dans l'indivision ». Chaque indivisaire peut provoquer la vente, ce qui peut obliger l'autre à vendre un logement qu'il occupe.
 
-La parade classique est la **convention d'indivision** rédigée chez le notaire, qui fixe les quotes-parts réelles, l'occupation, la répartition des charges, et peut organiser un droit de rachat prioritaire. Le régime de l'indivision et la possibilité d'en sortir à tout moment sont fixés par le code civil (source : code civil, article 815 ; vérification du 7 août 2026).
+La parade classique est la **convention d'indivision** rédigée chez le notaire, qui fixe les quotes-parts réelles, l'occupation, la répartition des charges, et peut organiser un droit de rachat prioritaire. [Le régime de l'indivision et la possibilité d'en sortir à tout moment sont fixés par le code civil](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432351) (code civil, article 815 ; vérification du 7 août 2026).
 
 ### 9.4 L'argent au quotidien : trois organisations
 
@@ -547,7 +547,7 @@ Aucune n'est meilleure en soi. Ce qui compte est que le choix soit explicite.
 
 **Le système mixte** — un compte commun alimenté **au prorata des revenus**, plus des comptes personnels. C'est celui qui, en pratique, produit le moins de conflits, parce qu'il traite l'inégalité de revenus sans supprimer l'autonomie.
 
-Un point rarement dit et pourtant central : **le contrôle de l'argent est un des leviers principaux du contrôle coercitif**. Ne pas avoir accès à un compte personnel, devoir justifier chaque dépense, ne pas connaître la situation financière du foyer : ce sont des marqueurs à prendre au sérieux, décrits au chapitre 7 du guide [La rencontre](<../1 - Guides/La rencontre/README.md>). Le désaccord sur l'argent est l'un des sujets de conflit les plus fortement associés au risque de séparation dans les études longitudinales sur le couple (source : Britt & Huston, « The role of money arguments in marriage », *Journal of Family and Economic Issues*, 2012 ; vérification du 7 août 2026).
+Un point rarement dit et pourtant central : **le contrôle de l'argent est un des leviers principaux du contrôle coercitif**. Ne pas avoir accès à un compte personnel, devoir justifier chaque dépense, ne pas connaître la situation financière du foyer : ce sont des marqueurs à prendre au sérieux, décrits au chapitre 7 du guide [La rencontre](<../1 - Guides/La rencontre/README.md>). [Le désaccord sur l'argent est l'un des sujets de conflit les plus fortement associés au risque de séparation dans les études longitudinales sur le couple](https://link.springer.com/article/10.1007/s10834-012-9304-5) (Britt & Huston, *Journal of Family and Economic Issues*, 2012 ; vérification du 7 août 2026).
 
 ### 9.5 Ce qu'il faut avoir écrit
 
@@ -556,7 +556,7 @@ Une liste courte, et le coût de l'omission.
 - **Un testament** si vous êtes pacsés ou en union libre. Sans lui, le PACS ne protège pas en cas de décès.
 - **Une convention d'indivision** en cas d'achat à deux hors mariage.
 - **La désignation du bénéficiaire** d'une assurance vie, à revérifier après chaque changement de situation.
-- **Une clause de la vie commune** si l'un des deux réduit ou arrête son activité : ce qui est financièrement compensé, et comment. Les statuts du couple et leurs conséquences patrimoniales sont détaillés par le service public français (source : service-public.fr, PACS, mariage, concubinage ; vérification du 7 août 2026).
+- **Une clause de la vie commune** si l'un des deux réduit ou arrête son activité : ce qui est financièrement compensé, et comment. [Les statuts du couple et leurs conséquences patrimoniales sont détaillés par le service public français](https://www.justice.fr/fiche/mariage-pacs-concubinage-union-libre-differences) (justice.fr, PACS, mariage, concubinage ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # Pour Lui
 
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
+
 **Ce qui se passe à l'intérieur, et pourquoi ça ne se voit pas**
 
 Ce guide traite de la vie émotionnelle des hommes : comment elle se construit, pourquoi elle s'exprime si peu, à quoi ressemble une dépression masculine qui ne ressemble pas à une dépression, comment fonctionnent le corps et la sexualité masculine, et ce qui se joue dans les relations et les conflits.
@@ -17,8 +19,6 @@ Ce guide traite de la vie émotionnelle des hommes : comment elle se construit, 
 C'est le miroir exact du guide sur le cycle féminin. Là où l'un explique un corps aux personnes qui ne l'habitent pas, celui-ci explique un fonctionnement psychologique aux personnes qui le côtoient sans le comprendre. Il est utile aux femmes qui partagent la vie d'un homme, et tout autant aux hommes qui ne se sont jamais vu décrire de l'extérieur.
 
 Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une impression : [version intégrale](<../../0 - Guides complets/Pour Lui.md>).
-
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
 
 ## Chapitres
 
@@ -58,12 +58,6 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 Total : 63 993 mots, 31 chapitres.
 
-## Le guide jumeau
-
-Ce guide a un pendant : [Pour Elle](<../Pour Elle/README.md>). Les deux couvrent les mêmes grandes thématiques (corps, santé mentale, sexualité, contraception, couple, etc.), pour qu'on puisse lire un thème d'un côté puis de l'autre — mais chaque guide est numéroté dans son propre ordre de lecture, sans correspondance chapitre à chapitre.
-
-## Sources et mise à jour
-
-Sources vérifiées au 31 juillet 2026. Les chiffres et recommandations cités portent leur propre date de vérification dans le texte. Un chiffre sans date est un chiffre à revérifier.
+Ce guide a un pendant, [Pour Elle](<../Pour Elle/README.md>), pour le même thème vu de l'autre côté.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

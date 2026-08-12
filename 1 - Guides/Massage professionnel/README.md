@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # Massage professionnel
 
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, kinésithérapeute, ostéopathe, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
+
 **Le cadre, les gestes, les zones, les limites**
 
 Un guide pratique sur le massage : le cadre à poser avant de toucher quelqu'un, les grandes familles de techniques, les gestes fondamentaux, le découpage zone par zone du corps, les produits, et les contre-indications qui comptent vraiment.
@@ -17,8 +19,6 @@ Un guide pratique sur le massage : le cadre à poser avant de toucher quelqu'un,
 C'est le seul guide de la collection dont l'objet est un geste plutôt qu'une compréhension. Il reste dans la même logique : ce qui fait la différence n'est presque jamais la technique, c'est le cadre, le consentement et l'attention portée aux réactions de l'autre.
 
 Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une impression : [version intégrale](<../../0 - Guides complets/Massage professionnel.md>).
-
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier une contre-indication ou une douleur qui persiste, le recours à un professionnel (médecin, kinésithérapeute, ostéopathe) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
 
 ## Chapitres
 
@@ -39,9 +39,5 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 13 | [Sources vérifiables](<13 - Sources verifiables.md>) | repères | 705 |
 
 Total : 5 233 mots, 13 chapitres.
-
-## Sources et mise à jour
-
-Sources vérifiées au 8 août 2026, regroupées dans le chapitre [Sources vérifiables](<13 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise. Les chiffres et recommandations cités portent leur propre date de vérification dans le texte. Un chiffre sans date est un chiffre à revérifier.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

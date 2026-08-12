@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # L'amour
 
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
+
 **Ce que c'est vraiment, et comment le comprendre**
 
 Ce guide répond à une question qu'on pose rarement sérieusement : qu'est-ce que l'amour, concrètement ? Il l'aborde par quatre entrées — ce qu'en dit la biologie, ce que l'esprit en fait à partir de sa propre histoire, ce que la culture a ajouté par-dessus, et ce que ça engage réellement quand on vit à deux.
@@ -17,8 +19,6 @@ Ce guide répond à une question qu'on pose rarement sérieusement : qu'est-ce q
 Son fil conducteur : **l'amour n'est pas une chose mais trois**. Le désir, l'attirance romantique et l'attachement sont trois systèmes distincts, qui ne s'allument ni ensemble ni dans l'ordre. La plupart des inquiétudes amoureuses — « je ne ressens plus la même chose », « est-ce que c'est encore de l'amour » — deviennent traitables dès qu'on identifie de quel système on parle.
 
 Le guide dit aussi ce qui n'est **pas** validé. Les langages de l'amour, par exemple, sont utiles comme outil de conversation mais ne sont pas étayés empiriquement, et c'est écrit noir sur blanc plutôt que passé sous silence.
-
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
 
 ## Chapitres
 
@@ -50,9 +50,5 @@ Total : 9 770 mots, 10 chapitres.
 ## Autour de ce guide
 
 [La rencontre](<../La rencontre/README.md>) traite de ce qui précède : comment on choisit, et comment mieux choisir. [Pour Nous](<../Pour Nous/README.md>) traite de ce qui suit : bâtir des projets communs, y compris avec des traumas ou des appréhensions.
-
-## Sources et mise à jour
-
-Sources vérifiées au 6 août 2026, regroupées dans le chapitre [Sources vérifiables](<10 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

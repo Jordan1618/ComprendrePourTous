@@ -13,7 +13,9 @@ Sources du guide [Les nouvelles compositions familiales](<../1 - Guides/Les nouv
 
 | Référence | Ce qu'elle appuie | Chapitre |
 |---|---|---|
-| [Insee — Ménages, couples et familles, France, portrait social](https://www.insee.fr/fr/statistiques/8612510?sommaire=8612596) | Proportion d'enfants en famille recomposée | 1 |
+| [Insee — Ménages, couples et familles, France, portrait social](https://www.insee.fr/fr/statistiques/8612510?sommaire=8612596) | Proportion d'enfants en famille recomposée, à un instant donné | 1 |
+| Bumpass, L., Raley, K. & Sweet, J. (1995), [The Changing Character of Stepfamilies](https://read.dukeupress.edu/demography/article/32/3/425/170979/The-Changing-Character-of-Stepfamilies), *Demography* | Prévalence cumulée sur l'enfance (États-Unis, étude classique) | 1 |
+| Pew Research Center (2011), [A Portrait of Stepfamilies](https://www.pewresearch.org/social-trends/2011/01/13/a-portrait-of-stepfamilies/) | Part des adultes ayant un proche « en beau » | 1 |
 | [Les limites de la coparentalité, 2houses](https://www.2houses.com/fr/blog/les-limites-de-la-coparentalite-comment-les-depasser) | Cadre légal de la résidence alternée | 1, 2 |
 
 ## Recherche mobilisée

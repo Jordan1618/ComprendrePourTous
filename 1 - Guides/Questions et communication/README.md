@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # Questions et communication
 
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — psychologue, thérapeute de couple, médiateur, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
+
 **Ce qu'une question fait, lesquelles comptent, lesquelles changent une vie**
 
 Une question est l'outil relationnel le plus puissant qui existe, et c'est aussi le plus mal utilisé. On apprend à parler, à argumenter, à convaincre. Personne n'apprend à demander. Résultat, la plupart des gens passent leur vie à côté d'informations que leur entourage leur aurait données volontiers, et meurent avec un stock de questions non posées qui n'intéressaient qu'eux.
@@ -19,8 +21,6 @@ Ce guide traite trois choses. Ce qu'une question produit réellement, chez celui
 Un mot de cadrage, une seule fois. Rien ici n'est une technique de manipulation conversationnelle. Une question posée pour obtenir quelque chose se sent, et elle produit l'inverse de son objectif. Tout ce qui suit suppose l'envie réelle de savoir : sans elle, mieux vaut ne pas poser la question.
 
 Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une impression : [version intégrale](<../../0 - Guides complets/Questions et communication.md>).
-
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (psychologue, thérapeute de couple, médiateur) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
 
 ## Chapitres
 
@@ -38,9 +38,5 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 10 | [Sources vérifiables](<10 - Sources verifiables.md>) | repères | 1 036 |
 
 Total : 8 737 mots, 10 chapitres.
-
-## Sources et mise à jour
-
-Sources vérifiées au 8 août 2026, regroupées dans le chapitre [Sources vérifiables](<10 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Nous"
 sujet: "commun"
 chapitres: 12
-mots: 13598
+mots: 13717
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Nous"
@@ -16,6 +16,8 @@ genere_le: 2026-08-12
 
 ---
 
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
+
 **Traverser à deux les étapes de la vie, des plus simples aux plus dures**
 
 Ce guide est le pendant à deux de [Pour Elle](<../1 - Guides/Pour Elle/README.md>) et [Pour Lui](<../1 - Guides/Pour Lui/README.md>). Il porte sur la partie dont les récits ne parlent jamais : ce qui vient après la rencontre. Comment on décide ensemble, comment on tient dans la durée, et comment on continue à construire quand la vie s'en mêle.
@@ -23,8 +25,6 @@ Ce guide est le pendant à deux de [Pour Elle](<../1 - Guides/Pour Elle/README.m
 Il s'adresse à **tous les couples et à toutes les énergies**, pas seulement à ceux qui traversent quelque chose de lourd. Les chapitres sur le trauma et l'appréhension sont là parce qu'ils concernent beaucoup de monde et qu'on en parle mal — pas parce qu'il faudrait aller mal pour être concerné. Décider d'un projet commun, répartir la charge du quotidien ou traverser un deuil sont des sujets de couple ordinaires.
 
 Le guide distingue nettement ce qui **explique** un comportement de ce qui l'**excuse**. Une histoire difficile explique une réaction ; elle n'autorise pas à blesser quelqu'un. Cette ligne est tracée explicitement au chapitre 4.
-
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
 
 ## Sommaire
 
@@ -584,7 +584,7 @@ Le retournement qui protège tient en une phrase, à se dire explicitement : **�
 
 Source de conflit la plus fréquente après l'argent, et celle où les erreurs sont les plus prévisibles.
 
-**La règle qui règle presque tout : chacun parle à sa propre famille.** Une remarque déplacée d'un parent se traite par son propre enfant, pas par le conjoint. Quand c'est le conjoint qui monte au front, deux choses arrivent : il devient le méchant pour la famille, et son partenaire se retrouve pris entre deux loyautés.
+**Un repère qui aide dans beaucoup de familles, pas une règle universelle : chacun parle en priorité à sa propre famille.** Dans les familles où l'expression est difficile ou où une remarque déplacée risque de rester sans suite si l'enfant ne la relaie pas, faire porter le message par son propre parent évite deux écueils fréquents : que le conjoint devienne le méchant aux yeux de la famille, et qu'il se retrouve pris entre deux loyautés. Mais ce n'est qu'un des équilibres possibles, pas un absolu : certaines familles ont un espace d'expression assez libre pour que n'importe qui, y compris le conjoint, puisse dire les choses directement sans que ça abîme rien — et dans ce cas, ce repère par défaut n'a pas lieu d'être appliqué. Ce qui compte n'est jamais la personne qui parle, c'est que le couple ait décidé ensemble, à l'avance, qui prend la parole et sur quoi.
 
 **Le partenaire n'est pas un arbitre.** Demander de choisir entre sa mère et son conjoint est une impasse. La question utile n'est pas « qui a raison » mais « qu'est-ce qu'on décide, nous, sur ce point précis ».
 
@@ -627,7 +627,7 @@ Ce n'est pas de l'évitement. C'est le maintien d'un espace où la relation exis
 **Bons réflexes**
 
 - Rappelez à voix haute que l'adversaire est la situation. Cette phrase répositionne une dispute en quelques secondes.
-- Chacun gère sa propre famille. C'est la règle qui évite le plus de dégâts.
+- Chacun gère sa propre famille par défaut, sauf si votre couple fonctionne bien autrement : c'est le repère qui évite le plus de dégâts dans la majorité des configurations, pas une règle à appliquer sans y réfléchir.
 - Face à un partenaire en difficulté, demandez ce dont il a besoin plutôt que de proposer des solutions : **« tu veux qu'on cherche des solutions, ou tu veux juste que je t'écoute ? »**
 - Regardez le sommeil avant les explications relationnelles, surtout avec de jeunes enfants.
 - Protégez un temps sans le sujet. Une crise qui occupe cent pour cent de la relation la remplace.

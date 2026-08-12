@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # Pour Nous
 
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
+
 **Traverser à deux les étapes de la vie, des plus simples aux plus dures**
 
 Ce guide est le pendant à deux de [Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>). Il porte sur la partie dont les récits ne parlent jamais : ce qui vient après la rencontre. Comment on décide ensemble, comment on tient dans la durée, et comment on continue à construire quand la vie s'en mêle.
@@ -17,8 +19,6 @@ Ce guide est le pendant à deux de [Pour Elle](<../Pour Elle/README.md>) et [Pou
 Il s'adresse à **tous les couples et à toutes les énergies**, pas seulement à ceux qui traversent quelque chose de lourd. Les chapitres sur le trauma et l'appréhension sont là parce qu'ils concernent beaucoup de monde et qu'on en parle mal — pas parce qu'il faudrait aller mal pour être concerné. Décider d'un projet commun, répartir la charge du quotidien ou traverser un deuil sont des sujets de couple ordinaires.
 
 Le guide distingue nettement ce qui **explique** un comportement de ce qui l'**excuse**. Une histoire difficile explique une réaction ; elle n'autorise pas à blesser quelqu'un. Cette ligne est tracée explicitement au chapitre 4.
-
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
 
 ## Chapitres
 
@@ -55,9 +55,5 @@ Si un comportement relève du contrôle coercitif ou de la violence, son origine
 ## Autour de ce guide
 
 [La rencontre](<../La rencontre/README.md>) traite du choix initial, [L'amour](<../L amour/README.md>) de ce qu'est l'amour et de ce qu'il devient. [Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>) traitent chacun d'un versant du corps et des émotions.
-
-## Sources et mise à jour
-
-Sources vérifiées au 6 août 2026, regroupées dans le chapitre [Sources vérifiables](<12 - Sources verifiables.md>), qui signale aussi les affirmations pour lesquelles je n'ai pas trouvé de source précise.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

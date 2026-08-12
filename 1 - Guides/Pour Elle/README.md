@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # Pour Elle
 
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
+
 **Le cycle, la contraception, les pathologies, la sexualité, la grossesse**
 
 Ce guide couvre le fonctionnement du cycle menstruel, la contraception hormonale, le panorama des troubles et pathologies qui touchent le cycle, la sexualité, la grossesse et le post-partum. Il est écrit pour deux publics à la fois : les femmes qui veulent comprendre ce qui se passe dans leur propre corps, et les personnes qui veulent comprendre celui de leur partenaire.
@@ -17,8 +19,6 @@ Ce guide couvre le fonctionnement du cycle menstruel, la contraception hormonale
 Sa particularité est de ne jamais s'arrêter au mécanisme biologique. Chaque pathologie ou situation importante est suivie d'une partie **Dans le couple**, qui explique ce que ça change concrètement à deux, et de **Bons réflexes**, qui donne des actions ou des formulations précises plutôt que des conseils généraux. Savoir ce qu'est l'endométriose ne sert pas à grand-chose si on ne sait pas quoi faire quand quelqu'un autour de soi en souffre.
 
 Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une impression : [version intégrale](<../../0 - Guides complets/Pour Elle.md>).
-
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
 
 ## Chapitres
 
@@ -62,12 +62,6 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 Total : 75 916 mots, 35 chapitres.
 
-## Le guide jumeau
-
-Ce guide a un pendant : [Pour Lui](<../Pour Lui/README.md>). Les deux couvrent les mêmes grandes thématiques (cycle, santé mentale, sexualité, contraception, etc.), pour qu'on puisse lire un thème d'un côté puis de l'autre — mais chaque guide est numéroté dans son propre ordre de lecture, sans correspondance chapitre à chapitre.
-
-## Sources et mise à jour
-
-Sources vérifiées au 27 juillet 2026. Les chiffres et recommandations cités portent leur propre date de vérification dans le texte. Un chiffre sans date est un chiffre à revérifier.
+Ce guide a un pendant, [Pour Lui](<../Pour Lui/README.md>), pour le même thème vu de l'autre côté.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

@@ -16,6 +16,8 @@ genere_le: 2026-08-12
 
 ---
 
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions. Des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit et disponible en permanence, y compris pour un proche inquiet.
+
 **Comment elles se fabriquent, d'où elles viennent, et quoi en faire**
 
 Ce guide traite les émotions comme un mécanisme, pas comme un mystère. Il suit un ordre précis : comment une émotion se fabrique dans le corps, d'où viennent nos façons de les vivre, comment les reconnaître et les nommer, comment les décoder, comment les réguler, et à quel moment il faut passer la main.
@@ -25,8 +27,6 @@ Deux partis pris le distinguent des contenus habituels sur le sujet.
 **Il sépare ce qui est établi de ce qui ne l'est pas.** Le débat entre émotions « de base » et émotions construites n'est pas tranché, et c'est écrit ainsi. La catharsis, la pensée positive et les cinq étapes du deuil sont présentées pour ce qu'elles sont : des idées répandues que les données ne soutiennent pas.
 
 **Il place le corps avant la psyché.** Le chapitre 7 liste ce qu'il faut écarter médicalement avant de conclure au psychologique — une thyroïde, une carence en fer ou une apnée du sommeil imitent très bien un tableau dépressif, et se dépistent en un bilan.
-
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision. Des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit et disponible en permanence, y compris pour un proche inquiet.
 
 ## Sommaire
 

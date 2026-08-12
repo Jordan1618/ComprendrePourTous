@@ -10,11 +10,11 @@ licence: "CC BY 4.0"
 
 # Les nouvelles compositions familiales
 
-**Une famille sur dix, un rôle à trouver, un temps à respecter**
+> ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-Ce guide s'adresse à qui vit ou traverse une recomposition familiale — comme parent, comme nouveau ou nouvelle partenaire, comme enfant. Il part d'un constat simple : la famille recomposée n'est pas une anomalie à gérer dans l'urgence, c'est une configuration familiale stable et répandue, avec des dynamiques connues et des repères qui existent déjà.
+**Une configuration familiale répandue, un rôle à trouver, un temps à respecter**
 
-**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
+Ce guide s'adresse à qui vit ou traverse une recomposition familiale — comme parent, comme nouveau ou nouvelle partenaire, comme enfant. Il part d'un constat simple : la famille recomposée n'est pas une anomalie à gérer dans l'urgence, c'est une configuration familiale stable et très répandue aujourd'hui, avec des dynamiques connues et des repères qui existent déjà.
 
 ## Chapitres
 
@@ -30,9 +30,5 @@ Total : 4 979 mots, 4 chapitres.
 ## Autour de ce guide
 
 [Pour Nous](<../Pour Nous/README.md>) traite de la vie de couple au sens large — décisions communes, charge du quotidien, épreuves. [Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>) traitent chacun d'un versant du corps et des émotions, avec un chapitre dédié aux parents célibataires.
-
-## Sources et mise à jour
-
-Sources vérifiées au 11 août 2026, citées directement dans chaque chapitre.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).
