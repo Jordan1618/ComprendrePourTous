@@ -17,13 +17,13 @@ La syphilis ("Treponema pallidum") évolue en stades bien définis si elle n'est
 - **Syphilis secondaire** : quelques semaines à mois plus tard, une éruption cutanée diffuse (souvent sur la paume des mains et la plante des pieds, signe assez caractéristique), parfois fièvre, fatigue, ganglions.
 - **Syphilis tertiaire** (des années plus tard, en l'absence de traitement) : atteinte cardiovasculaire, neurologique, les formes les plus graves, aujourd'hui rares grâce au dépistage mais pas éradiquées.
 
-Cette évolution en trois stades, avec des phases de latence entre chacun, est la description clinique de référence de la maladie (source : Peeling, R. W. et coll., « Syphilis », *Nature Reviews Disease Primers*, 2017 ; vérification du 8 août 2026).
+[Cette évolution en trois stades, avec des phases de latence entre chacun, est la description clinique de référence de la maladie](https://pubmed.ncbi.nlm.nih.gov/29022569/) (Peeling et coll., *Nature Reviews Disease Primers*, 2017 ; vérification du 8 août 2026).
 
 Imagine la syphilis comme un signal d'alarme qui sonne une fois puis s'éteint tout seul, alors que le feu couve toujours derrière, le chancre qui disparaît n'est pas une guérison, c'est juste que le corps est passé à la phase suivante.
 
 ### 3.2 Pourquoi elle revient
 
-Hausse de 34 % des cas en Europe entre les dernières années observées, et de 42 % rien qu'en médecine générale en France entre 2020 et 2021 (source : ECDC ; ICI/Dr Kierzek ; vérification du 27 juillet 2026). Comme pour la gonorrhée, le relâchement du réflexe préservatif et l'augmentation du nombre de partenaires au fil d'une vie sont les explications les plus citées.
+[Hausse de 34 % du taux de notification en Europe entre 2021 et 2022 (41 % depuis 2018)](https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2022) (ECDC, rapport épidémiologique annuel 2022 ; vérification du 27 juillet 2026), et de 42 % rien qu'en médecine générale en France entre 2020 et 2021 (source : ICI/Dr Kierzek ; vérification du 27 juillet 2026, source secondaire non retrouvée avec un lien direct). Comme pour la gonorrhée, le relâchement du réflexe préservatif et l'augmentation du nombre de partenaires au fil d'une vie sont les explications les plus citées.
 
 **Traitement** : une injection de pénicilline (parfois plusieurs selon le stade) suffit à guérir, l'un des traitements les plus simples et les plus anciens de toute la médecine moderne, ce qui rend sa résurgence d'autant plus évitable.
 

@@ -26,7 +26,7 @@ Le retournement qui protège tient en une phrase, à se dire explicitement : **�
 
 Source de conflit la plus fréquente après l'argent, et celle où les erreurs sont les plus prévisibles.
 
-**La règle qui règle presque tout : chacun parle à sa propre famille.** Une remarque déplacée d'un parent se traite par son propre enfant, pas par le conjoint. Quand c'est le conjoint qui monte au front, deux choses arrivent : il devient le méchant pour la famille, et son partenaire se retrouve pris entre deux loyautés.
+**Un repère qui aide dans beaucoup de familles, pas une règle universelle : chacun parle en priorité à sa propre famille.** Dans les familles où l'expression est difficile ou où une remarque déplacée risque de rester sans suite si l'enfant ne la relaie pas, faire porter le message par son propre parent évite deux écueils fréquents : que le conjoint devienne le méchant aux yeux de la famille, et qu'il se retrouve pris entre deux loyautés. Mais ce n'est qu'un des équilibres possibles, pas un absolu : certaines familles ont un espace d'expression assez libre pour que n'importe qui, y compris le conjoint, puisse dire les choses directement sans que ça abîme rien — et dans ce cas, ce repère par défaut n'a pas lieu d'être appliqué. Ce qui compte n'est jamais la personne qui parle, c'est que le couple ait décidé ensemble, à l'avance, qui prend la parole et sur quoi.
 
 **Le partenaire n'est pas un arbitre.** Demander de choisir entre sa mère et son conjoint est une impasse. La question utile n'est pas « qui a raison » mais « qu'est-ce qu'on décide, nous, sur ce point précis ».
 
@@ -69,7 +69,7 @@ Ce n'est pas de l'évitement. C'est le maintien d'un espace où la relation exis
 **Bons réflexes**
 
 - Rappelez à voix haute que l'adversaire est la situation. Cette phrase répositionne une dispute en quelques secondes.
-- Chacun gère sa propre famille. C'est la règle qui évite le plus de dégâts.
+- Chacun gère sa propre famille par défaut, sauf si votre couple fonctionne bien autrement : c'est le repère qui évite le plus de dégâts dans la majorité des configurations, pas une règle à appliquer sans y réfléchir.
 - Face à un partenaire en difficulté, demandez ce dont il a besoin plutôt que de proposer des solutions : **« tu veux qu'on cherche des solutions, ou tu veux juste que je t'écoute ? »**
 - Regardez le sommeil avant les explications relationnelles, surtout avec de jeunes enfants.
 - Protégez un temps sans le sujet. Une crise qui occupe cent pour cent de la relation la remplace.
