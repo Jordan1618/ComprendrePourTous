@@ -17,8 +17,8 @@ Toutes les références de la collection, **une page par guide**, chacune class�
 | [L'amour](<../1 - Guides/L amour/README.md>) | [Sources — L'amour](<L amour.md>) | [oui](<../1 - Guides/L amour/10 - Sources verifiables.md>) |
 | [Les émotions](<../1 - Guides/Les emotions/README.md>) | [Sources — Les émotions](<Les emotions.md>) | [oui](<../1 - Guides/Les emotions/11 - Sources verifiables.md>) |
 | [Pour Nous](<../1 - Guides/Pour Nous/README.md>) | [Sources — Pour Nous](<Pour Nous.md>) | [oui](<../1 - Guides/Pour Nous/12 - Sources verifiables.md>) |
-| [Pour Elle](<../1 - Guides/Pour Elle/README.md>) | [Sources — Pour Elle](<Pour Elle.md>) | [oui](<../1 - Guides/Pour Elle/18 - Sources verifiables.md>) |
-| [Pour Lui](<../1 - Guides/Pour Lui/README.md>) | [Sources — Pour Lui](<Pour Lui.md>) | [oui](<../1 - Guides/Pour Lui/22 - Sources verifiables.md>) |
+| [Pour Elle](<../1 - Guides/Pour Elle/README.md>) | [Sources — Pour Elle](<Pour Elle.md>) | [oui](<../1 - Guides/Pour Elle/35 - Sources verifiables.md>) |
+| [Pour Lui](<../1 - Guides/Pour Lui/README.md>) | [Sources — Pour Lui](<Pour Lui.md>) | [oui](<../1 - Guides/Pour Lui/31 - Sources verifiables.md>) |
 | [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | [Sources — IST, dépistage et prévention](<IST, depistage et prevention.md>) | [oui](<../1 - Guides/IST, depistage et prevention/07 - Sources verifiables.md>) |
 | [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | [Sources — Massage professionnel](<Massage professionnel.md>) | [oui](<../1 - Guides/Massage professionnel/13 - Sources verifiables.md>) |
 | [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | [Sources — Questions et communication](<Questions et communication.md>) | [oui](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>) |

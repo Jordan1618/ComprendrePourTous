@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — Pour Lui
 
-Sources du guide [Pour Lui](<../1 - Guides/Pour Lui/README.md>). Le chapitre [Sources vérifiables](<../1 - Guides/Pour Lui/22 - Sources verifiables.md>) précise ce que chaque référence appuie. Les références institutionnelles à surveiller en priorité sont regroupées ici.
+Sources du guide [Pour Lui](<../1 - Guides/Pour Lui/README.md>). Le chapitre [Sources vérifiables](<../1 - Guides/Pour Lui/31 - Sources verifiables.md>) précise ce que chaque référence appuie. Les références institutionnelles à surveiller en priorité sont regroupées ici.
 
 ## Santé publique et mortalité
 

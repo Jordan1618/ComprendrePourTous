@@ -14,5 +14,5 @@ L'image qui le rend clair : un feu qui s'allume seul, contre un feu qu'il faut d
 Pourquoi ça compte : un fonctionnement en désir réactif est souvent vécu comme un problème par les deux partenaires alors qu'il n'en est pas un. Le modèle vient des travaux de Rosemary Basson.
 
 **Où c'est développé**
-- [Sexualité féminine](<../1 - Guides/Pour Elle/08 - Sexualité féminine.md>), sections 8.2 et 8.3.
+- [Sexualité féminine](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>), sections 8.2 et 8.3.
 - [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/11 - La sexualité comme langage émotionnel.md>).

@@ -16,7 +16,7 @@ Le modèle le plus utile sur cette question est le **modèle du double contrôle
 
 L'implication est décisive et va à l'encontre de tout ce que la culture raconte. Quand le désir baisse, le réflexe est d'ajouter de l'accélérateur : plus de séduction, plus de nouveauté, plus de propositions. Or dans la grande majorité des situations, le problème n'est pas un défaut d'accélérateur — **c'est un frein enfoncé**. Et appuyer sur l'accélérateur avec le frein serré n'avance à rien, tout en usant le moteur.
 
-Ce modèle est développé dans le guide [Pour Elle](<../Pour Elle/README.md>), chapitre 8. Ce modèle a été développé à l'Institut Kinsey à partir de recherches sur la réponse sexuelle (source : Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
+Ce modèle est développé dans le guide [Pour Elle](<../Pour Elle/README.md>), chapitre 9. Ce modèle a été développé à l'Institut Kinsey à partir de recherches sur la réponse sexuelle (source : Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
 
 ### 8.2 Désir spontané et désir réactif
 

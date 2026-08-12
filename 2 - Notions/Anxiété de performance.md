@@ -15,6 +15,6 @@ D'où le principe de sortie, contre-intuitif : on ne traite pas cette boucle en 
 
 **Où c'est développé**
 - [La sexualité masculine](<../1 - Guides/Pour Lui/10 - La sexualite masculine.md>), sur les troubles de l'érection.
-- [Sexualité féminine](<../1 - Guides/Pour Elle/08 - Sexualité féminine.md>).
+- [Sexualité féminine](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>).
 
 **Voir aussi** [Modèle du double contrôle](<Modèle du double contrôle.md>).

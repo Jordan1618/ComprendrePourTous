@@ -14,4 +14,4 @@ Ce qui le rend concret plutôt que théorique : demander plutôt que deviner, su
 **Où c'est développé**
 - [Intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>), sur le consentement continu et réévaluable.
 - [Le cadre général](<../1 - Guides/Massage professionnel/01 - Le cadre général.md>), sur ce qui se pose avant tout geste.
-- [Sexualité féminine](<../1 - Guides/Pour Elle/08 - Sexualité féminine.md>), sur la communication qui relie l'ensemble.
+- [Sexualité féminine](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>), sur la communication qui relie l'ensemble.

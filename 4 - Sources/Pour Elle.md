@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — Pour Elle
 
-Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/Pour Elle/18 - Sources verifiables.md>) précise ce que chaque référence appuie et liste ce qui reste sans source. Les références institutionnelles à surveiller en priorité sont regroupées ici.
+Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/Pour Elle/35 - Sources verifiables.md>) précise ce que chaque référence appuie et liste ce qui reste sans source. Les références institutionnelles à surveiller en priorité sont regroupées ici.
 
 ## Autorités de santé françaises
 

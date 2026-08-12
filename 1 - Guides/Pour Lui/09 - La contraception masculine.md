@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Dans un déménagement, si une seule personne porte systématiquement tous les cartons, la question n'est jamais de savoir si elle en est capable : elle l'est, elle le prouve chaque fois. La vraie question est de savoir pourquoi personne, de l'autre côté, n'a jamais pensé à proposer de prendre l'autre côté du carton.
 
-La contraception est dans cette situation depuis soixante ans. Elle est presque entièrement portée par les femmes, avec des effets indésirables réels, un suivi médical, un coût mental et parfois financier. Ce chapitre est le pendant du chapitre 6 de [Pour Elle](<../Pour Elle/06 - Contraception hormonale.md>), et il part d'un constat simple : **la plupart des hommes ignorent ce qui existe de leur côté.** Le déséquilibre de la charge contraceptive entre les sexes, et la perception qu'en ont les hommes, sont documentés dans une enquête dédiée (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
+La contraception est dans cette situation depuis soixante ans. Elle est presque entièrement portée par les femmes, avec des effets indésirables réels, un suivi médical, un coût mental et parfois financier. Ce chapitre est le pendant du chapitre 7 de [Pour Elle](<../Pour Elle/07 - Contraception hormonale.md>), et il part d'un constat simple : **la plupart des hommes ignorent ce qui existe de leur côté.** Le déséquilibre de la charge contraceptive entre les sexes, et la perception qu'en ont les hommes, sont documentés dans une enquête dédiée (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
 
 ### 9.2 Ce qui existe aujourd'hui, sans exagérer
 
@@ -47,7 +47,7 @@ Il faut le dire sans ambiguïté, parce que ces croyances persistent.
 
 **Le retrait n'est pas une méthode fiable.** Son taux d'échec en usage courant est élevé, et il ne protège d'aucune IST.
 
-**Les calculs de dates ne protègent pas** l'homme davantage que la femme : la date d'ovulation varie d'un cycle à l'autre. Voir le chapitre 11 de [Pour Elle](<../Pour Elle/11 - Les pieges de la modernite.md>) sur les applications de suivi.
+**Les calculs de dates ne protègent pas** l'homme davantage que la femme : la date d'ovulation varie d'un cycle à l'autre. Voir le chapitre 12 de [Pour Elle](<../Pour Elle/12 - Les pieges de la modernite.md>) sur les applications de suivi.
 
 **« Elle gère »** n'est pas une méthode, c'est une délégation. Elle peut être un choix commun assumé ; elle n'en est une que si elle a été discutée. L'inefficacité du retrait et des méthodes de calcul comme contraception fiable est documentée dans les recommandations de santé reproductive (source : OMS, *Family planning/contraception methods* ; vérification du 7 août 2026).
 

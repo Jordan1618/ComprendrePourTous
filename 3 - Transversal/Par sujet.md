@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sujet"
-mis_a_jour_le: 2026-08-11
+mis_a_jour_le: 2026-08-12
 licence: "CC BY 4.0"
 ---
 
@@ -15,41 +15,41 @@ Ce qui concerne le corps et le fonctionnement féminins. À lire pour se compren
 
 **Pour Elle**
 
-- [Le cycle menstruel : anatomie et physiologie de base](<../1 - Guides/Pour Elle/01 - Le cycle menstruel.md>)  `physiologie`
-- [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<../1 - Guides/Pour Elle/02 - Pourquoi les humains menstruent.md>)  `physiologie`
-- [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<../1 - Guides/Pour Elle/03 - La sante emotionnelle feminine.md>)  `psychologie`
-- [La dépression féminine : le visage qu'elle prend](<../1 - Guides/Pour Elle/04 - La depression feminine.md>)  `psychologie`
-- [Anxiété, stress et corps : quand la plainte n'est pas entendue](<../1 - Guides/Pour Elle/05 - Anxiete stress et corps.md>)  `psychologie`
-- [La pilule et la contraception hormonale : raisonnement étape par étape](<../1 - Guides/Pour Elle/06 - Contraception hormonale.md>)  `prévention`
-- [Panorama complet des troubles et pathologies du cycle](<../1 - Guides/Pour Elle/07 - Troubles et pathologies du cycle.md>)  `physiologie`
-- [La sexualité féminine : anatomie, réponse sexuelle, troubles](<../1 - Guides/Pour Elle/08 - Sexualité féminine.md>)  `relation`
-- [La grossesse : physiologie et complications](<../1 - Guides/Pour Elle/09 - La grossesse.md>)  `physiologie`
-- [L'accouchement et le post-partum](<../1 - Guides/Pour Elle/10 - Accouchement et post-partum.md>)  `physiologie`
-- [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<../1 - Guides/Pour Elle/11 - Les pieges de la modernite.md>)  `prévention`
-- [Les peurs : lesquelles sont fondées, et comment avancer](<../1 - Guides/Pour Elle/12 - Les peurs rationnelles ou non.md>)  `prévention`
-- [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Elle/13 - La recherche en 2026.md>)  `repères`
-- [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Pour Elle/14 - Conseils pratiques généraux.md>)  `pratique`
-- [Foire aux questions rapides](<../1 - Guides/Pour Elle/15 - Foire aux questions.md>)  `pratique`
-- [Ressources et associations utiles](<../1 - Guides/Pour Elle/16 - Ressources et associations.md>)  `repères`
-- [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/17 - Glossaire des termes médicaux.md>)  `repères`
-- [Sources vérifiables](<../1 - Guides/Pour Elle/18 - Sources verifiables.md>)  `repères`
-- [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Elle/19 - Le decor ce que disent les chiffres.md>)  `repères`
-- [Les grands profils féminins](<../1 - Guides/Pour Elle/20 - Les grands profils feminins.md>)  `psychologie`
-- [Le corps féminin : ce qu'il est utile de savoir](<../1 - Guides/Pour Elle/21 - Le corps feminin ce qu il est utile de savoir.md>)  `physiologie`
-- [Les âges de la vie féminine](<../1 - Guides/Pour Elle/22 - Les ages de la vie feminine.md>)  `psychologie`
-- [Le désert relationnel féminin : soutenir tout le monde, être soutenue par personne](<../1 - Guides/Pour Elle/23 - Le desert relationnel feminin.md>)  `relation`
-- [La boîte à outils de couple](<../1 - Guides/Pour Elle/24 - La boite a outils de couple.md>)  `relation`
-- [Les limites : ce qui n'est pas à toi de porter](<../1 - Guides/Pour Elle/25 - Les limites.md>)  `relation`
-- [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Elle/26 - La sante sur le long terme.md>)  `prévention`
-- [Ce que les femmes attendent des femmes](<../1 - Guides/Pour Elle/27 - Ce que les femmes attendent des femmes.md>)  `relation`
-- [Ce que les femmes attendent des hommes](<../1 - Guides/Pour Elle/28 - Ce que les femmes attendent des hommes.md>)  `relation`
-- [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Elle/29 - Ce qui leur fait peur chez les femmes.md>)  `relation`
-- [Ce qui leur fait peur chez les hommes](<../1 - Guides/Pour Elle/30 - Ce qui leur fait peur chez les hommes.md>)  `relation`
-- [Ce qui compte vraiment chez les femmes, en amitié et en amour](<../1 - Guides/Pour Elle/31 - Ce qui compte vraiment chez les femmes.md>)  `relation`
-- [Ce qui compte vraiment chez les hommes](<../1 - Guides/Pour Elle/32 - Ce qui compte vraiment chez les hommes.md>)  `relation`
-- [Comment expriment-elles leur amour](<../1 - Guides/Pour Elle/33 - Comment expriment-elles leur amour.md>)  `relation`
-- [Comment sont-elles vues et existent-elles dans la famille](<../1 - Guides/Pour Elle/34 - Comment sont-elles vues et existent-elles dans la famille.md>)  `relation`
-- [Mères célibataires aujourd'hui](<../1 - Guides/Pour Elle/35 - Meres celibataires aujourd hui.md>)  `relation`
+- [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Elle/01 - Le decor ce que disent les chiffres.md>)  `repères`
+- [Le cycle menstruel : anatomie et physiologie de base](<../1 - Guides/Pour Elle/02 - Le cycle menstruel.md>)  `physiologie`
+- [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<../1 - Guides/Pour Elle/03 - Pourquoi les humains menstruent.md>)  `physiologie`
+- [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<../1 - Guides/Pour Elle/04 - La sante emotionnelle feminine.md>)  `psychologie`
+- [La dépression féminine : le visage qu'elle prend](<../1 - Guides/Pour Elle/05 - La depression feminine.md>)  `psychologie`
+- [Anxiété, stress et corps : quand la plainte n'est pas entendue](<../1 - Guides/Pour Elle/06 - Anxiete stress et corps.md>)  `psychologie`
+- [La pilule et la contraception hormonale : raisonnement étape par étape](<../1 - Guides/Pour Elle/07 - Contraception hormonale.md>)  `prévention`
+- [Panorama complet des troubles et pathologies du cycle](<../1 - Guides/Pour Elle/08 - Troubles et pathologies du cycle.md>)  `physiologie`
+- [La sexualité féminine : anatomie, réponse sexuelle, troubles](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>)  `relation`
+- [La grossesse : physiologie et complications](<../1 - Guides/Pour Elle/10 - La grossesse.md>)  `physiologie`
+- [L'accouchement et le post-partum](<../1 - Guides/Pour Elle/11 - Accouchement et post-partum.md>)  `physiologie`
+- [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<../1 - Guides/Pour Elle/12 - Les pieges de la modernite.md>)  `prévention`
+- [Les peurs : lesquelles sont fondées, et comment avancer](<../1 - Guides/Pour Elle/13 - Les peurs rationnelles ou non.md>)  `prévention`
+- [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Elle/14 - La recherche en 2026.md>)  `repères`
+- [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Pour Elle/15 - Conseils pratiques généraux.md>)  `pratique`
+- [Les grands profils féminins](<../1 - Guides/Pour Elle/16 - Les grands profils feminins.md>)  `psychologie`
+- [Le corps féminin : ce qu'il est utile de savoir](<../1 - Guides/Pour Elle/17 - Le corps feminin ce qu il est utile de savoir.md>)  `physiologie`
+- [Les âges de la vie féminine](<../1 - Guides/Pour Elle/18 - Les ages de la vie feminine.md>)  `psychologie`
+- [Le désert relationnel féminin : soutenir tout le monde, être soutenue par personne](<../1 - Guides/Pour Elle/19 - Le desert relationnel feminin.md>)  `relation`
+- [La boîte à outils de couple](<../1 - Guides/Pour Elle/20 - La boite a outils de couple.md>)  `relation`
+- [Les limites : ce qui n'est pas à toi de porter](<../1 - Guides/Pour Elle/21 - Les limites.md>)  `relation`
+- [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Elle/22 - La sante sur le long terme.md>)  `prévention`
+- [Ce que les femmes attendent des femmes](<../1 - Guides/Pour Elle/23 - Ce que les femmes attendent des femmes.md>)  `relation`
+- [Ce que les femmes attendent des hommes](<../1 - Guides/Pour Elle/24 - Ce que les femmes attendent des hommes.md>)  `relation`
+- [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Elle/25 - Ce qui leur fait peur chez les femmes.md>)  `relation`
+- [Ce qui leur fait peur chez les hommes](<../1 - Guides/Pour Elle/26 - Ce qui leur fait peur chez les hommes.md>)  `relation`
+- [Ce qui compte vraiment chez les femmes, en amitié et en amour](<../1 - Guides/Pour Elle/27 - Ce qui compte vraiment chez les femmes.md>)  `relation`
+- [Ce qui compte vraiment chez les hommes](<../1 - Guides/Pour Elle/28 - Ce qui compte vraiment chez les hommes.md>)  `relation`
+- [Comment expriment-elles leur amour](<../1 - Guides/Pour Elle/29 - Comment expriment-elles leur amour.md>)  `relation`
+- [Comment sont-elles vues et existent-elles dans la famille](<../1 - Guides/Pour Elle/30 - Comment sont-elles vues et existent-elles dans la famille.md>)  `relation`
+- [Mères célibataires aujourd'hui](<../1 - Guides/Pour Elle/31 - Meres celibataires aujourd hui.md>)  `relation`
+- [Foire aux questions rapides](<../1 - Guides/Pour Elle/32 - Foire aux questions.md>)  `pratique`
+- [Ressources et associations utiles](<../1 - Guides/Pour Elle/33 - Ressources et associations.md>)  `repères`
+- [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/34 - Glossaire des termes médicaux.md>)  `repères`
+- [Sources vérifiables](<../1 - Guides/Pour Elle/35 - Sources verifiables.md>)  `repères`
 
 ## Corps masculin
 
@@ -77,17 +77,17 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [Le dilemme masculin contemporain](<../1 - Guides/Pour Lui/18 - Le dilemme masculin contemporain.md>)  `psychologie`
 - [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Pour Lui/19 - Les limites.md>)  `relation`
 - [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>)  `prévention`
-- [Aide-mémoire](<../1 - Guides/Pour Lui/21 - Aide-mémoire.md>)  `repères`
-- [Sources vérifiables](<../1 - Guides/Pour Lui/22 - Sources verifiables.md>)  `repères`
-- [Ce que les hommes attendent des hommes](<../1 - Guides/Pour Lui/23 - Ce que les hommes attendent des hommes.md>)  `relation`
-- [Ce que les hommes attendent des femmes](<../1 - Guides/Pour Lui/24 - Ce que les hommes attendent des femmes.md>)  `relation`
-- [Ce qui leur fait peur chez les hommes](<../1 - Guides/Pour Lui/25 - Ce qui leur fait peur chez les hommes.md>)  `relation`
-- [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Lui/26 - Ce qui leur fait peur chez les femmes.md>)  `relation`
-- [Ce qui compte vraiment chez les hommes](<../1 - Guides/Pour Lui/27 - Ce qui compte vraiment chez les hommes.md>)  `relation`
-- [Ce qui compte vraiment chez les femmes](<../1 - Guides/Pour Lui/28 - Ce qui compte vraiment chez les femmes.md>)  `relation`
-- [Comment expriment-ils leur amour](<../1 - Guides/Pour Lui/29 - Comment expriment-ils leur amour.md>)  `relation`
-- [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/30 - Comment sont-ils vus et existent-ils dans la famille.md>)  `relation`
-- [Pères célibataires aujourd'hui](<../1 - Guides/Pour Lui/31 - Peres celibataires aujourd hui.md>)  `relation`
+- [Ce que les hommes attendent des hommes](<../1 - Guides/Pour Lui/21 - Ce que les hommes attendent des hommes.md>)  `relation`
+- [Ce que les hommes attendent des femmes](<../1 - Guides/Pour Lui/22 - Ce que les hommes attendent des femmes.md>)  `relation`
+- [Ce qui leur fait peur chez les hommes](<../1 - Guides/Pour Lui/23 - Ce qui leur fait peur chez les hommes.md>)  `relation`
+- [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Lui/24 - Ce qui leur fait peur chez les femmes.md>)  `relation`
+- [Ce qui compte vraiment chez les hommes](<../1 - Guides/Pour Lui/25 - Ce qui compte vraiment chez les hommes.md>)  `relation`
+- [Ce qui compte vraiment chez les femmes](<../1 - Guides/Pour Lui/26 - Ce qui compte vraiment chez les femmes.md>)  `relation`
+- [Comment expriment-ils leur amour](<../1 - Guides/Pour Lui/27 - Comment expriment-ils leur amour.md>)  `relation`
+- [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/28 - Comment sont-ils vus et existent-ils dans la famille.md>)  `relation`
+- [Pères célibataires aujourd'hui](<../1 - Guides/Pour Lui/29 - Peres celibataires aujourd hui.md>)  `relation`
+- [Aide-mémoire](<../1 - Guides/Pour Lui/30 - Aide-mémoire.md>)  `repères`
+- [Sources vérifiables](<../1 - Guides/Pour Lui/31 - Sources verifiables.md>)  `repères`
 
 ## Commun
 

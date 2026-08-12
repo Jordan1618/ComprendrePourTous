@@ -12,11 +12,11 @@ Travail invisible qui consiste à maintenir les liens familiaux et amicaux : ret
 Ce rôle échoit très majoritairement aux femmes, y compris quand le reste des tâches est réparti de façon équilibrée. Sa particularité : il rend le réseau relationnel visible et large sans garantir que la personne qui l'entretient en soit elle-même bénéficiaire — on peut être objectivement bien entourée tout en étant celle qui entretient chaque lien, sans que personne n'entretienne le sien en retour.
 
 **Où c'est développé**
-- [Le désert relationnel féminin](<../1 - Guides/Pour Elle/23 - Le desert relationnel feminin.md>).
-- [Les grands profils féminins](<../1 - Guides/Pour Elle/20 - Les grands profils feminins.md>), profil de la donneuse de soin.
-- [Comment sont-elles vues et existent-elles dans la famille](<../1 - Guides/Pour Elle/34 - Comment sont-elles vues et existent-elles dans la famille.md>), sa saisonnalité autour des fêtes et son lien avec la charge mentale.
+- [Le désert relationnel féminin](<../1 - Guides/Pour Elle/19 - Le desert relationnel feminin.md>).
+- [Les grands profils féminins](<../1 - Guides/Pour Elle/16 - Les grands profils feminins.md>), profil de la donneuse de soin.
+- [Comment sont-elles vues et existent-elles dans la famille](<../1 - Guides/Pour Elle/30 - Comment sont-elles vues et existent-elles dans la famille.md>), sa saisonnalité autour des fêtes et son lien avec la charge mentale.
 
 **Voir aussi** [Désert relationnel](<Désert relationnel.md>) — le mécanisme masculin correspondant, structurellement différent : pas une absence de réseau, mais son entretien à sens unique.
 
 **Où c'est développé (miroir masculin)**
-- [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/30 - Comment sont-ils vus et existent-ils dans la famille.md>), sur le gatekeeping maternel comme mécanisme parallèle du côté paternel.
+- [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/28 - Comment sont-ils vus et existent-ils dans la famille.md>), sur le gatekeeping maternel comme mécanisme parallèle du côté paternel.

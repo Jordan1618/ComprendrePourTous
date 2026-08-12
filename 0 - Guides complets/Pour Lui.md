@@ -7,7 +7,7 @@ mots: 63993
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
-genere_le: 2026-08-11
+genere_le: 2026-08-12
 ---
 
 # Pour Lui
@@ -44,17 +44,17 @@ C'est le miroir exact du guide sur le cycle féminin. Là où l'un explique un c
 - **18.** Le dilemme masculin contemporain
 - **19.** Les limites : ce qui n'est pas à soi de porter
 - **20.** La santé sur vingt ans : ce qui compte et quand
-- **21.** Aide-mémoire
-- **22.** Sources vérifiables
-- **23.** Ce que les hommes attendent des hommes
-- **24.** Ce que les hommes attendent des femmes
-- **25.** Ce qui leur fait peur chez les hommes
-- **26.** Ce qui leur fait peur chez les femmes
-- **27.** Ce qui compte vraiment chez les hommes
-- **28.** Ce qui compte vraiment chez les femmes
-- **29.** Comment expriment-ils leur amour
-- **30.** Comment sont-ils vus et existent-ils dans la famille
-- **31.** Pères célibataires aujourd'hui
+- **21.** Ce que les hommes attendent des hommes
+- **22.** Ce que les hommes attendent des femmes
+- **23.** Ce qui leur fait peur chez les hommes
+- **24.** Ce qui leur fait peur chez les femmes
+- **25.** Ce qui compte vraiment chez les hommes
+- **26.** Ce qui compte vraiment chez les femmes
+- **27.** Comment expriment-ils leur amour
+- **28.** Comment sont-ils vus et existent-ils dans la famille
+- **29.** Pères célibataires aujourd'hui
+- **30.** Aide-mémoire
+- **31.** Sources vérifiables
 
 ---
 
@@ -985,7 +985,7 @@ Ce que ce chapitre a cherché à établir, presque section par section, c'est qu
 
 Dans un déménagement, si une seule personne porte systématiquement tous les cartons, la question n'est jamais de savoir si elle en est capable : elle l'est, elle le prouve chaque fois. La vraie question est de savoir pourquoi personne, de l'autre côté, n'a jamais pensé à proposer de prendre l'autre côté du carton.
 
-La contraception est dans cette situation depuis soixante ans. Elle est presque entièrement portée par les femmes, avec des effets indésirables réels, un suivi médical, un coût mental et parfois financier. Ce chapitre est le pendant du chapitre 6 de [Pour Elle](<../1 - Guides/Pour Elle/06 - Contraception hormonale.md>), et il part d'un constat simple : **la plupart des hommes ignorent ce qui existe de leur côté.** Le déséquilibre de la charge contraceptive entre les sexes, et la perception qu'en ont les hommes, sont documentés dans une enquête dédiée (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
+La contraception est dans cette situation depuis soixante ans. Elle est presque entièrement portée par les femmes, avec des effets indésirables réels, un suivi médical, un coût mental et parfois financier. Ce chapitre est le pendant du chapitre 7 de [Pour Elle](<../1 - Guides/Pour Elle/07 - Contraception hormonale.md>), et il part d'un constat simple : **la plupart des hommes ignorent ce qui existe de leur côté.** Le déséquilibre de la charge contraceptive entre les sexes, et la perception qu'en ont les hommes, sont documentés dans une enquête dédiée (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
 
 ### 9.2 Ce qui existe aujourd'hui, sans exagérer
 
@@ -1018,7 +1018,7 @@ Il faut le dire sans ambiguïté, parce que ces croyances persistent.
 
 **Le retrait n'est pas une méthode fiable.** Son taux d'échec en usage courant est élevé, et il ne protège d'aucune IST.
 
-**Les calculs de dates ne protègent pas** l'homme davantage que la femme : la date d'ovulation varie d'un cycle à l'autre. Voir le chapitre 11 de [Pour Elle](<../1 - Guides/Pour Elle/11 - Les pieges de la modernite.md>) sur les applications de suivi.
+**Les calculs de dates ne protègent pas** l'homme davantage que la femme : la date d'ovulation varie d'un cycle à l'autre. Voir le chapitre 12 de [Pour Elle](<../1 - Guides/Pour Elle/12 - Les pieges de la modernite.md>) sur les applications de suivi.
 
 **« Elle gère »** n'est pas une méthode, c'est une délégation. Elle peut être un choix commun assumé ; elle n'en est une que si elle a été discutée. L'inefficacité du retrait et des méthodes de calcul comme contraception fiable est documentée dans les recommandations de santé reproductive (source : OMS, *Family planning/contraception methods* ; vérification du 7 août 2026).
 
@@ -1079,7 +1079,7 @@ Le chapitre 11 de ce guide décrit la sexualité comme langage émotionnel à pa
 
 C'est vrai, et pris seul, c'est un cliché qui dessert. Il laisse entendre que la sexualité masculine ne serait qu'un substitut émotionnel, ce qui est doublement faux : elle a une physiologie propre, qui se dérègle et se soigne comme le reste du corps, et elle a une valeur en elle-même, pas seulement comme véhicule d'autre chose.
 
-Ce chapitre traite le versant physiologique, en pendant du chapitre 8 de [Pour Elle](<../1 - Guides/Pour Elle/08 - Sexualité féminine.md>). Les deux ensemble, avec le 11 et le 12, forment le tableau complet. Réduire la sexualité masculine à un langage émotionnel occulte sa physiologie propre, documentée indépendamment dans la littérature urologique (source : Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
+Ce chapitre traite le versant physiologique, en pendant du chapitre 9 de [Pour Elle](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>). Les deux ensemble, avec le 11 et le 12, forment le tableau complet. Réduire la sexualité masculine à un langage émotionnel occulte sa physiologie propre, documentée indépendamment dans la littérature urologique (source : Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
 
 ### 10.2 Ce qui se passe réellement pendant une érection
 
@@ -2162,131 +2162,7 @@ Ce dernier point mérite d'être développé une phrase de plus : ce n'est pas u
 
 ---
 
-## 21. Aide-mémoire
-
-### 21.1 Les dix idées à retenir
-
-1. La différence n'est pas dans le ressenti, elle est dans le circuit de sortie.
-2. "Je ne sais pas" est souvent une information exacte, pas une esquive ([alexithymie](<../2 - Notions/Alexithymie.md>), 4.1).
-3. L'émotion arrive avec un délai. Repose la question trois jours plus tard (4.2).
-4. Sous la colère, cherche la honte, la peur ou l'impuissance (4.3).
-5. La honte porte sur ce qu'il est, la culpabilité sur ce qu'il a fait. Vise toujours la seconde (4.4).
-6. La dépression masculine ressemble à de l'irritabilité, de l'hyperactivité et de l'alcool, pas à de la tristesse (6.2).
-7. Poser la question du suicide directement n'induit rien et ouvre tout. Le 3114 existe (6.4).
-8. Il parle mieux côte à côte, les mains occupées, sans annonce préalable (4.7).
-9. Tu es peut-être sa seule confidente. Ce n'est pas tenable, pour lui comme pour toi (14.3).
-10. Comprendre n'est pas porter, et certaines choses ne sont jamais de la maladresse émotionnelle (19.4). Ce condensé reprend les références détaillées dans les chapitres correspondants, en particulier sur l'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
-
-### 21.1 bis Les dix idées ajoutées en version 2
-
-1. La biologie ne produit pas les comportements masculins, elle produit des pentes légères que la socialisation transforme en autoroutes (3.2).
-2. L'alexithymie masculine est normative, pas pathologique : c'est un état par défaut produit par une éducation, pas un trouble (3.3).
-3. Le carré du blocage : pas de mots, pas de droit, pas de lieu, pas de modèle. Retirer un seul des quatre ouvre le système (3.7).
-4. Le statut est l'organisateur central : d'où l'utilité conditionnelle, la difficulté à recevoir, et l'envie interdite entre hommes (3.5).
-5. La double injonction contemporaine produit de la paralysie, pas de la révolte, et c'est la porte d'entrée du ressentiment (3.6 et 18.3).
-6. Un reproche récurrent est presque toujours vrai dans le constat et faux dans l'attribution de cause (17).
-7. Affirmer n'est pas agresser, et se taire n'est pas respecter. La confusion des deux paralyse une génération (18.2).
-8. Valider la souffrance et valider l'explication sont deux opérations distinctes. Confondre les deux est l'erreur centrale face au ressentiment (18.3).
-9. Ce qui fait tomber un homme amoureux, en premier : être vu correctement, et ne pas être regardé différemment après avoir été vu en difficulté (12.4).
-10. La qualité d'une relation dépend beaucoup moins de qui est le partenaire que de ce qui s'installe entre les deux. Chercher la bonne personne est moins efficace que construire les bonnes dynamiques (12.6). Ce second condensé reprend les références détaillées dans les chapitres ajoutés sur le substrat socio-neuro-psychologique et les profils masculins (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
-
-### 21.2 Les numéros
-
-- **3114** : numéro national de prévention du suicide. Gratuit, 24 h/24, 7 j/7. Accessible aussi pour un proche inquiet.
-- **15** : urgence médicale, y compris urgence psychiatrique.
-- **3919** : violences faites aux femmes. Anonyme et gratuit.
-- **114** : urgences par SMS.
-- **0 800 23 13 13** : Drogues info service.
-- **0 980 980 930** : Alcool info service. Ces numéros et leurs conditions d'accès sont publiés par les autorités de santé publique françaises (source : Santé publique France, *Suicide et tentatives de suicide* ; vérification du 7 août 2026).
-
-### 21.3 Les quatre jauges à surveiller
-
-Sommeil, alcool, libido, humeur au réveil. Si trois des quatre se dégradent en même temps et pendant plus de trois semaines, ce n'est pas une mauvaise passe. Ces quatre paramètres — sommeil, alcool, libido, humeur — recoupent les facteurs de vulnérabilité les mieux documentés pour la santé émotionnelle masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
-
-### 21.4 Sources principales
-
-- Santé publique France, bulletin de surveillance des conduites suicidaires, bilan 2024, publié le 10 octobre 2025.
-- Observatoire national du suicide (DREES), 6e rapport, février 2025.
-- Baromètre santé mentale 2024, Santé publique France, novembre 2025.
-- Assurance Maladie, bilan du dispositif Mon soutien psy, février 2026.
-- Insee, bilan démographique 2025 et enquête SRCV 2022.
-- Société Française d'Endocrinologie, item 124, andropause et déficit androgénique lié à l'âge.
-- La Revue du Praticien, dysfonction érectile, juin 2026.
-- Pew Research Center 2025 et Community Life Survey UK 2024 sur les réseaux de soutien masculins.
-- Littérature sur l'alexithymie (échelle TAS-20), synthèses 2010 à 2025.
-
-Sources ajoutées en version 2 :
-
-- Joel S., Eastwick P. W. et al., Machine learning uncovers the most robust self-report predictors of relationship quality across 43 longitudinal couples studies, PNAS, 2020.
-- Étude Ipsos / Dating Lab 2025 sur la lassitude face à la rencontre en ligne.
-- Insee et ministère de la Justice, données de divortialité 2025, environ 45 divorces pour 100 mariages.
-- Rapport suisse Wanner 2025 sur la mortalité par état matrimonial, et littérature associée (Manzoli et al., 2007).
-- Observatoire national du suicide, données sur situation conjugale et risque suicidaire, reprises en janvier 2026.
-- Travaux de John Gottman sur l'inondation physiologique en situation de conflit conjugal.
-- William Pollack, sur l'alexithymie masculine normative.
-- Littérature sur l'attachement adulte et la [sécurité acquise](<../2 - Notions/Sécurité acquise.md>).
-- Travaux d'imagerie sur la mosaïque cérébrale et le recouvrement des distributions entre sexes.
-
-Toutes les sources ci-dessus ont été vérifiées le 31 juillet 2026.
-
----
-
-## 22. Sources vérifiables
-
-Cette page regroupe les sources introduites lors du passage à une source par sous-partie. Le chapitre [Aide-mémoire](<../1 - Guides/Pour Lui/21 - Aide-mémoire.md>) liste par ailleurs les sources principales rassemblées à la version 1 et 2 de ce guide, que cette page complète plutôt qu'elle ne remplace.
-
-## Recherche et recommandations cliniques
-
-| Ce que ça appuie | Référence | Vérifié le |
-|---|---|---|
-| Recours à l'aide et socialisation masculine (1.5, 3.7, 17.6, 17.7, 10.1, 10.3, 20.5) | Addis, M. & Mahalik, J., *Men, masculinity, and the contexts of help seeking*, American Psychologist, 2003 | 7 août 2026 |
-| Rythme circadien de la testostérone (2.1, 2.2) | Diver, M. et coll., *Diurnal rhythms of serum testosterone and other hormones in men*, Clinical Endocrinology, 2003 | 7 août 2026 |
-| Critique du concept d'andropause (2.3, 2.5) | Handelsman, D., *Andropause: invention, prevention, rejuvenation*, Trends in Endocrinology & Metabolism, 2005 | 7 août 2026 |
-| Sommeil et testostérone (2.4) | Leproult, R. & Van Cauter, E., *Effect of 1 week of sleep restriction on testosterone levels in young healthy men*, JAMA, 2011 | 7 août 2026 |
-| Modèle biopsychosocial (3.1) | Engel, G., *The need for a new medical model: a challenge for biomedicine*, Science, 1977 | 7 août 2026 |
-| Neuroendocrinologie sociale (3.2) | van Anders, S. & Watson, N., *Social neuroendocrinology: effects of social contexts and behaviors on sex steroids in humans*, Human Nature, 2006 | 7 août 2026 |
-| Alexithymie masculine normative (3.3, 3.6, 4.5, 4.8, 11.1, 17.1, 17.3, 18.1) | Levant, R., *Toward the reconstruction of masculinity*, Journal of Family Psychology, 1992 | 7 août 2026 |
-| Attachement adulte (3.4, 5.5, 5.6, 5.8, 17.5, 12.5) | Mikulincer, M. & Shaver, P., *Attachment in Adulthood*, Guilford Press, 2007 | 7 août 2026 |
-| Hiérarchies de dominance et de prestige (3.5, 15.1, 15.2, 15.5, 17.11) | Cheng, J. et coll., *Two ways to the top*, Journal of Personality and Social Psychology, 2013 | 7 août 2026 |
-| Inventaire de conformité aux normes masculines (5.1, 5.2, 5.3, 5.9, 17.13, 18.4) | Mahalik, J. et coll., *Development of the Conformity to Masculine Norms Inventory*, Psychology of Men & Masculinity, 2003 | 7 août 2026 |
-| Masculinité précaire (5.7, 15.6, 15.7, 17.4, 17.9, 18.2) | Vandello, J. & Bosson, J., *Hard won and easily lost: a review and synthesis of theory and research on precarious manhood*, Psychology of Men & Masculinity, 2013 | 7 août 2026 |
-| Dépression masculine, présentation clinique (6.1, 6.2, 6.3) | Cochran, S. & Rabinowitz, F., *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 | 7 août 2026 |
-| Deux voies de traitement de la menace (4.2) | LeDoux, J., *The Emotional Brain*, Simon & Schuster, 1996 | 7 août 2026 |
-| Émotion primaire et secondaire en thérapie centrée sur l'émotion (4.3, 16.4) | Greenberg, L. & Paivio, S., *Working with Emotions in Psychotherapy*, Guilford Press, 1997 | 7 août 2026 |
-| Honte contre culpabilité (4.4) | Brown, B., *Daring Greatly*, Gotham Books, 2012 | 7 août 2026 |
-| Modèle de régulation émotionnelle (4.6) | Gross, J., *The emerging field of emotion regulation: an integrative review*, Review of General Psychology, 1998 | 7 août 2026 |
-| Amitiés masculines, mode côte à côte (4.7, 13.2, 14.2, 15.3, 15.8, 17.12) | Wright, P., *Men's friendships, women's friendships and the alleged inferiority of the former*, Sex Roles, 1982 | 7 août 2026 |
-| Stress psychosocial et risque cardiovasculaire (7.2) | Rosengren, A. et coll., *Association of psychosocial risk factors with risk of acute myocardial infarction (INTERHEART)*, The Lancet, 2004 | 7 août 2026 |
-| Sommeil et réactivité émotionnelle (7.3) | Goldstein, A. & Walker, M., *The role of sleep in emotional brain function*, Annual Review of Clinical Psychology, 2014 | 7 août 2026 |
-| Fardeau mondial des facteurs de risque (8.5, 20.2) | GBD 2019 Risk Factors Collaborators, *Global burden of 87 risk factors*, The Lancet, 2020 | 7 août 2026 |
-| Perception masculine de la charge contraceptive (16.1, 16.4, 16.5) | Grady, W. et coll., *Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US*, Perspectives on Sexual and Reproductive Health, 1996 | 7 août 2026 |
-| Physiologie de l'érection et troubles associés (10.1, 10.2, 10.6, 11.2) | Lue, T., *Erectile dysfunction*, New England Journal of Medicine, 2000 | 7 août 2026 |
-| Modèle du double contrôle développé sur des hommes (10.3, 11.3) | Bancroft, J. & Janssen, E., *The dual control model of male sexual response*, Neuroscience & Biobehavioral Reviews, 2000 | 7 août 2026 |
-| Prévalence des troubles sexuels masculins (10.4) | Laumann, E. et coll., *Sexual dysfunction in the United States: prevalence and predictors*, JAMA, 1999 | 7 août 2026 |
-| Pornographie et dysfonctions sexuelles, débat clinique (10.5, 11.4) | Park, B. et coll., *Is Internet Pornography Causing Sexual Dysfunctions?*, Behavioral Sciences, 2016 | 7 août 2026 |
-| Mémoire corporelle du trauma (11.5) | van der Kolk, B., *The Body Keeps the Score*, Viking, 2014 | 7 août 2026 |
-| Théories implicites de la relation (12.7) | Knee, C. R., *Implicit theories of relationships*, Journal of Personality and Social Psychology, 1998 | 7 août 2026 |
-| Comparaison sociale sur les réseaux (13.1) | Fardouly, J. & Vartanian, L., *Social media and body image concerns*, Current Opinion in Psychology, 2016 | 7 août 2026 |
-| Développement adulte masculin par étapes (13.3) | Levinson, D., *The Seasons of a Man's Life*, Knopf, 1978 | 7 août 2026 |
-| Transition psychologique vers la paternité (13.5) | Genesoni, L. & Tallandini, M., *Men's Psychological Transition to Fatherhood*, Birth, 2009 | 7 août 2026 |
-| Isolement social et mortalité (14.3, 14.4) | Holt-Lunstad, J. et coll., *Loneliness and social isolation as risk factors for mortality*, Perspectives on Psychological Science, 2015 | 7 août 2026 |
-| Relation père-fils (15.4) | Diamond, M., *My Father Before Me*, Simon & Schuster, 2007 | 7 août 2026 |
-| Amitiés homme-femme (17.12) | Bleske-Rechek, A. & Buss, D., *Opposite-sex friendship: sex differences and similarities in initiation, selection, and dissolution*, Personality and Social Psychology Bulletin, 2001 | 7 août 2026 |
-| Patron demande-retrait dans le conflit conjugal (16.1, 17.8) | Christensen, A. & Heavey, C., *Gender and social structure in the demand/withdraw pattern of marital conflict*, Journal of Personality and Social Psychology, 1990 | 7 août 2026 |
-| Comportements prédictifs de la rupture conjugale (16.2, 18.3) | Gottman, J. & Levenson, R., *Marital processes predictive of later dissolution*, Journal of Personality and Social Psychology, 1992 | 7 août 2026 |
-| Communication non violente (16.3, 16.5) | Rosenberg, M., *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 | 7 août 2026 |
-| Distinction expliquer / excuser en thérapie de couple (19.1) | Johnson, S., *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 | 7 août 2026 |
-| Travail cognitif domestique (19.2, 17.2) | Daminger, A., *The Cognitive Dimension of Household Labor*, American Sociological Review, 2019 | 7 août 2026 |
-| Fardeau du proche aidant (19.3, 19.5) | Pearlin, L. et coll., *Caregiving and the stress process*, The Gerontologist, 1990 | 7 août 2026 |
-| Épidémiologie de la dépression (19.4) | Kessler, R. et coll., *The epidemiology of major depressive disorder*, JAMA, 2003 | 7 août 2026 |
-| Alexithymie, définition clinique (17.10) | Taylor, G., Bagby, R. & Parker, J., *Disorders of Affect Regulation*, Cambridge University Press, 1997 | 7 août 2026 |
-| Réponse amoureuse naissante (12.2, 12.4) | Fisher, H. et coll. ; Reis, H. & Shaver, P., *Romantic love: an fMRI study ; Intimacy as an interpersonal process*, Journal of Comparative Neurology, 2005 ; Handbook of Personal Relationships, 1988 | 7 août 2026 |
-
-Retour au [guide Pour Lui](<../1 - Guides/Pour Lui/README.md>).
-
----
-
-## 23. Ce que les hommes attendent des hommes
+## 21. Ce que les hommes attendent des hommes
 
 Ce chapitre ouvre une série consacrée à ce que les hommes attendent, redoutent et valorisent dans leurs relations aux autres — en miroir direct de la série équivalente du guide Pour Elle. Il commence là où la donnée est la plus alarmante et la moins discutée ouvertement : l'état réel des amitiés masculines aujourd'hui.
 
@@ -2363,7 +2239,7 @@ Ce que ce chapitre montre, à travers des données qui se recoupent depuis trent
 
 ---
 
-## 24. Ce que les hommes attendent des femmes
+## 22. Ce que les hommes attendent des femmes
 
 Après les attentes entre hommes, ce chapitre se tourne vers ce que la recherche montre sur ce qui compte réellement pour les hommes dans leur relation à une partenaire — au-delà des clichés sur ce qu'ils rechercheraient superficiellement.
 
@@ -2441,7 +2317,7 @@ Aucune de ces attentes — le respect, la reconnaissance de sa contribution, le 
 
 ---
 
-## 25. Ce qui leur fait peur chez les hommes
+## 23. Ce qui leur fait peur chez les hommes
 
 Ce chapitre parle d'une peur rarement mise en mots, précisément parce que l'admettre semble contredire l'image que beaucoup d'hommes pensent devoir renvoyer. Elle mérite d'être posée sans détour, avec ce que la recherche en dit et ce qui permet de la traverser. Comme pour le chapitre équivalent côté féminin de ce projet, nommer une peur avec précision n'est jamais ce qui l'aggrave — c'est, la plupart du temps, ce qui commence à la désamorcer.
 
@@ -2513,7 +2389,7 @@ Rien de ce qui est décrit dans ce chapitre n'est une fatalité biologique ou un
 
 ---
 
-## 26. Ce qui leur fait peur chez les femmes
+## 24. Ce qui leur fait peur chez les femmes
 
 Ce chapitre nomme directement des peurs que beaucoup d'hommes portent sans jamais les formuler à voix haute — par pudeur, par crainte d'être mal compris, ou parce que les mettre en mots semble d'emblée suspect. Elles méritent d'être posées avec précision, avec ce que la recherche en dit, et surtout avec ce qui permet de les traverser sans tomber dans la méfiance généralisée envers les femmes, qui ne protège de rien et abîme tout.
 
@@ -2585,7 +2461,7 @@ Ce chapitre a délibérément traité ensemble des peurs de nature très différ
 
 ---
 
-## 27. Ce qui compte vraiment chez les hommes
+## 25. Ce qui compte vraiment chez les hommes
 
 Ce chapitre se distingue de ceux consacrés aux attentes concrètes du quotidien : il va chercher ce qui, au fond, prédit une relation masculine — amicale ou amoureuse — qui tient dans la durée, et ce que sa perte révèle sur ce qu'elle valait vraiment.
 
@@ -2656,7 +2532,7 @@ Ce que ce chapitre montre, en creux, est que les mécanismes qui font qu'une rel
 
 ---
 
-## 28. Ce qui compte vraiment chez les femmes
+## 26. Ce qui compte vraiment chez les femmes
 
 Après les attentes concrètes du quotidien déjà traitées dans ce guide, ce chapitre va chercher ce qui, chez une femme, est le plus souvent identifié par la recherche comme fondement d'une relation qui dure — au-delà des critères superficiels ou changeants. Comme pour le chapitre équivalent déjà écrit côté féminin sur ce qui compte vraiment chez les hommes, l'objectif n'est jamais de réduire une personne à une liste de qualités, mais de dégager ce qui, statistiquement, distingue une relation qui traverse le temps d'une relation qui s'essouffle.
 
@@ -2726,7 +2602,7 @@ Ce chapitre confirme, une fois de plus, un résultat qui traverse presque tout c
 
 ---
 
-## 29. Comment expriment-ils leur amour
+## 27. Comment expriment-ils leur amour
 
 Ce chapitre fait le miroir direct de celui déjà écrit côté féminin dans ce projet, avec la même mise en garde en ouverture : la théorie des cinq langages de l'amour, largement popularisée, [ne tient pas la route scientifique, aucune des dix études empiriques disponibles ne soutenant les affirmations de son auteur](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say). Ce qui suit décrit donc ce que la recherche montre réellement sur l'expression masculine de l'amour, pas un cadre figé à appliquer mécaniquement.
 
@@ -2801,7 +2677,7 @@ Ce chapitre rejoint directement ce qui a déjà été établi dans ce guide sur 
 
 ---
 
-## 30. Comment sont-ils vus et existent-ils dans la famille
+## 28. Comment sont-ils vus et existent-ils dans la famille
 
 Ce chapitre fait le miroir de celui déjà écrit côté féminin dans ce projet, en explorant cette fois comment un homme est perçu et existe concrètement au sein de sa famille — un rôle en pleine mutation, souvent tiraillé entre une image ancienne et une réalité vécue déjà bien différente. Comme pour le chapitre équivalent côté féminin, la question posée n'est pas seulement ce qu'un homme fait dans sa famille, mais ce que cette famille voit et reconnaît réellement de lui.
 
@@ -2877,7 +2753,7 @@ Ce mouvement reste réel, mais encore loin d'être stabilisé : l'image du père
 
 ---
 
-## 31. Pères célibataires aujourd'hui
+## 29. Pères célibataires aujourd'hui
 
 Ce chapitre fait le miroir direct de celui déjà écrit côté féminin dans ce projet sur les mères célibataires — une réalité moins fréquente statistiquement, mais tout aussi réelle, et qui mérite d'être traitée avec la même rigueur plutôt que d'être traitée comme une simple note de bas de page du sujet plus large de la monoparentalité. Les données disponibles sur les pères célibataires restent moins abondantes que celles sur les mères célibataires — un déséquilibre documenté en lui-même, qui n'enlève rien à la réalité et à la légitimité de ce que vivent les pères concernés.
 
@@ -2953,3 +2829,127 @@ Ce chapitre a montré que ce qui protège le mieux un enfant n'est jamais le sac
 - [Being One in a World of Twos: Experiences and Consequences of Single Parenting](https://www.researchgate.net/publication/359120723_Being_One_in_a_World_of_Twos_Experiences_and_Consequences_of_Single_Parenting) ; vérification du 11 août 2026.
 - [American Journal of Humanities and Social Sciences Research, 2024](https://www.ajhssr.com/wp-content/uploads/2024/09/ZA24809310333.pdf) ; vérification du 11 août 2026.
 - [Being Raised by a Single Parent Who Dates: How It May be Affecting the Children](https://www.communicatingpsychologicalscience.com/blog/being-raised-by-a-single-parent-who-dates-how-it-may-be-affecting-the-children), Communicating Psychological Science ; vérification du 11 août 2026.
+
+---
+
+## 30. Aide-mémoire
+
+### 30.1 Les dix idées à retenir
+
+1. La différence n'est pas dans le ressenti, elle est dans le circuit de sortie.
+2. "Je ne sais pas" est souvent une information exacte, pas une esquive ([alexithymie](<../2 - Notions/Alexithymie.md>), 4.1).
+3. L'émotion arrive avec un délai. Repose la question trois jours plus tard (4.2).
+4. Sous la colère, cherche la honte, la peur ou l'impuissance (4.3).
+5. La honte porte sur ce qu'il est, la culpabilité sur ce qu'il a fait. Vise toujours la seconde (4.4).
+6. La dépression masculine ressemble à de l'irritabilité, de l'hyperactivité et de l'alcool, pas à de la tristesse (6.2).
+7. Poser la question du suicide directement n'induit rien et ouvre tout. Le 3114 existe (6.4).
+8. Il parle mieux côte à côte, les mains occupées, sans annonce préalable (4.7).
+9. Tu es peut-être sa seule confidente. Ce n'est pas tenable, pour lui comme pour toi (14.3).
+10. Comprendre n'est pas porter, et certaines choses ne sont jamais de la maladresse émotionnelle (19.4). Ce condensé reprend les références détaillées dans les chapitres correspondants, en particulier sur l'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+
+### 30.1 bis Les dix idées ajoutées en version 2
+
+1. La biologie ne produit pas les comportements masculins, elle produit des pentes légères que la socialisation transforme en autoroutes (3.2).
+2. L'alexithymie masculine est normative, pas pathologique : c'est un état par défaut produit par une éducation, pas un trouble (3.3).
+3. Le carré du blocage : pas de mots, pas de droit, pas de lieu, pas de modèle. Retirer un seul des quatre ouvre le système (3.7).
+4. Le statut est l'organisateur central : d'où l'utilité conditionnelle, la difficulté à recevoir, et l'envie interdite entre hommes (3.5).
+5. La double injonction contemporaine produit de la paralysie, pas de la révolte, et c'est la porte d'entrée du ressentiment (3.6 et 18.3).
+6. Un reproche récurrent est presque toujours vrai dans le constat et faux dans l'attribution de cause (17).
+7. Affirmer n'est pas agresser, et se taire n'est pas respecter. La confusion des deux paralyse une génération (18.2).
+8. Valider la souffrance et valider l'explication sont deux opérations distinctes. Confondre les deux est l'erreur centrale face au ressentiment (18.3).
+9. Ce qui fait tomber un homme amoureux, en premier : être vu correctement, et ne pas être regardé différemment après avoir été vu en difficulté (12.4).
+10. La qualité d'une relation dépend beaucoup moins de qui est le partenaire que de ce qui s'installe entre les deux. Chercher la bonne personne est moins efficace que construire les bonnes dynamiques (12.6). Ce second condensé reprend les références détaillées dans les chapitres ajoutés sur le substrat socio-neuro-psychologique et les profils masculins (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
+
+### 30.2 Les numéros
+
+- **3114** : numéro national de prévention du suicide. Gratuit, 24 h/24, 7 j/7. Accessible aussi pour un proche inquiet.
+- **15** : urgence médicale, y compris urgence psychiatrique.
+- **3919** : violences faites aux femmes. Anonyme et gratuit.
+- **114** : urgences par SMS.
+- **0 800 23 13 13** : Drogues info service.
+- **0 980 980 930** : Alcool info service. Ces numéros et leurs conditions d'accès sont publiés par les autorités de santé publique françaises (source : Santé publique France, *Suicide et tentatives de suicide* ; vérification du 7 août 2026).
+
+### 30.3 Les quatre jauges à surveiller
+
+Sommeil, alcool, libido, humeur au réveil. Si trois des quatre se dégradent en même temps et pendant plus de trois semaines, ce n'est pas une mauvaise passe. Ces quatre paramètres — sommeil, alcool, libido, humeur — recoupent les facteurs de vulnérabilité les mieux documentés pour la santé émotionnelle masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
+
+### 30.4 Sources principales
+
+- Santé publique France, bulletin de surveillance des conduites suicidaires, bilan 2024, publié le 10 octobre 2025.
+- Observatoire national du suicide (DREES), 6e rapport, février 2025.
+- Baromètre santé mentale 2024, Santé publique France, novembre 2025.
+- Assurance Maladie, bilan du dispositif Mon soutien psy, février 2026.
+- Insee, bilan démographique 2025 et enquête SRCV 2022.
+- Société Française d'Endocrinologie, item 124, andropause et déficit androgénique lié à l'âge.
+- La Revue du Praticien, dysfonction érectile, juin 2026.
+- Pew Research Center 2025 et Community Life Survey UK 2024 sur les réseaux de soutien masculins.
+- Littérature sur l'alexithymie (échelle TAS-20), synthèses 2010 à 2025.
+
+Sources ajoutées en version 2 :
+
+- Joel S., Eastwick P. W. et al., Machine learning uncovers the most robust self-report predictors of relationship quality across 43 longitudinal couples studies, PNAS, 2020.
+- Étude Ipsos / Dating Lab 2025 sur la lassitude face à la rencontre en ligne.
+- Insee et ministère de la Justice, données de divortialité 2025, environ 45 divorces pour 100 mariages.
+- Rapport suisse Wanner 2025 sur la mortalité par état matrimonial, et littérature associée (Manzoli et al., 2007).
+- Observatoire national du suicide, données sur situation conjugale et risque suicidaire, reprises en janvier 2026.
+- Travaux de John Gottman sur l'inondation physiologique en situation de conflit conjugal.
+- William Pollack, sur l'alexithymie masculine normative.
+- Littérature sur l'attachement adulte et la [sécurité acquise](<../2 - Notions/Sécurité acquise.md>).
+- Travaux d'imagerie sur la mosaïque cérébrale et le recouvrement des distributions entre sexes.
+
+Toutes les sources ci-dessus ont été vérifiées le 31 juillet 2026.
+
+---
+
+## 31. Sources vérifiables
+
+Cette page regroupe les sources introduites lors du passage à une source par sous-partie. Le chapitre [Aide-mémoire](<../1 - Guides/Pour Lui/30 - Aide-mémoire.md>) liste par ailleurs les sources principales rassemblées à la version 1 et 2 de ce guide, que cette page complète plutôt qu'elle ne remplace.
+
+## Recherche et recommandations cliniques
+
+| Ce que ça appuie | Référence | Vérifié le |
+|---|---|---|
+| Recours à l'aide et socialisation masculine (1.5, 3.7, 17.6, 17.7, 10.1, 10.3, 20.5) | Addis, M. & Mahalik, J., *Men, masculinity, and the contexts of help seeking*, American Psychologist, 2003 | 7 août 2026 |
+| Rythme circadien de la testostérone (2.1, 2.2) | Diver, M. et coll., *Diurnal rhythms of serum testosterone and other hormones in men*, Clinical Endocrinology, 2003 | 7 août 2026 |
+| Critique du concept d'andropause (2.3, 2.5) | Handelsman, D., *Andropause: invention, prevention, rejuvenation*, Trends in Endocrinology & Metabolism, 2005 | 7 août 2026 |
+| Sommeil et testostérone (2.4) | Leproult, R. & Van Cauter, E., *Effect of 1 week of sleep restriction on testosterone levels in young healthy men*, JAMA, 2011 | 7 août 2026 |
+| Modèle biopsychosocial (3.1) | Engel, G., *The need for a new medical model: a challenge for biomedicine*, Science, 1977 | 7 août 2026 |
+| Neuroendocrinologie sociale (3.2) | van Anders, S. & Watson, N., *Social neuroendocrinology: effects of social contexts and behaviors on sex steroids in humans*, Human Nature, 2006 | 7 août 2026 |
+| Alexithymie masculine normative (3.3, 3.6, 4.5, 4.8, 11.1, 17.1, 17.3, 18.1) | Levant, R., *Toward the reconstruction of masculinity*, Journal of Family Psychology, 1992 | 7 août 2026 |
+| Attachement adulte (3.4, 5.5, 5.6, 5.8, 17.5, 12.5) | Mikulincer, M. & Shaver, P., *Attachment in Adulthood*, Guilford Press, 2007 | 7 août 2026 |
+| Hiérarchies de dominance et de prestige (3.5, 15.1, 15.2, 15.5, 17.11) | Cheng, J. et coll., *Two ways to the top*, Journal of Personality and Social Psychology, 2013 | 7 août 2026 |
+| Inventaire de conformité aux normes masculines (5.1, 5.2, 5.3, 5.9, 17.13, 18.4) | Mahalik, J. et coll., *Development of the Conformity to Masculine Norms Inventory*, Psychology of Men & Masculinity, 2003 | 7 août 2026 |
+| Masculinité précaire (5.7, 15.6, 15.7, 17.4, 17.9, 18.2) | Vandello, J. & Bosson, J., *Hard won and easily lost: a review and synthesis of theory and research on precarious manhood*, Psychology of Men & Masculinity, 2013 | 7 août 2026 |
+| Dépression masculine, présentation clinique (6.1, 6.2, 6.3) | Cochran, S. & Rabinowitz, F., *Men and Depression: Clinical and Empirical Perspectives*, Academic Press, 2000 | 7 août 2026 |
+| Deux voies de traitement de la menace (4.2) | LeDoux, J., *The Emotional Brain*, Simon & Schuster, 1996 | 7 août 2026 |
+| Émotion primaire et secondaire en thérapie centrée sur l'émotion (4.3, 16.4) | Greenberg, L. & Paivio, S., *Working with Emotions in Psychotherapy*, Guilford Press, 1997 | 7 août 2026 |
+| Honte contre culpabilité (4.4) | Brown, B., *Daring Greatly*, Gotham Books, 2012 | 7 août 2026 |
+| Modèle de régulation émotionnelle (4.6) | Gross, J., *The emerging field of emotion regulation: an integrative review*, Review of General Psychology, 1998 | 7 août 2026 |
+| Amitiés masculines, mode côte à côte (4.7, 13.2, 14.2, 15.3, 15.8, 17.12) | Wright, P., *Men's friendships, women's friendships and the alleged inferiority of the former*, Sex Roles, 1982 | 7 août 2026 |
+| Stress psychosocial et risque cardiovasculaire (7.2) | Rosengren, A. et coll., *Association of psychosocial risk factors with risk of acute myocardial infarction (INTERHEART)*, The Lancet, 2004 | 7 août 2026 |
+| Sommeil et réactivité émotionnelle (7.3) | Goldstein, A. & Walker, M., *The role of sleep in emotional brain function*, Annual Review of Clinical Psychology, 2014 | 7 août 2026 |
+| Fardeau mondial des facteurs de risque (8.5, 20.2) | GBD 2019 Risk Factors Collaborators, *Global burden of 87 risk factors*, The Lancet, 2020 | 7 août 2026 |
+| Perception masculine de la charge contraceptive (16.1, 16.4, 16.5) | Grady, W. et coll., *Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US*, Perspectives on Sexual and Reproductive Health, 1996 | 7 août 2026 |
+| Physiologie de l'érection et troubles associés (10.1, 10.2, 10.6, 11.2) | Lue, T., *Erectile dysfunction*, New England Journal of Medicine, 2000 | 7 août 2026 |
+| Modèle du double contrôle développé sur des hommes (10.3, 11.3) | Bancroft, J. & Janssen, E., *The dual control model of male sexual response*, Neuroscience & Biobehavioral Reviews, 2000 | 7 août 2026 |
+| Prévalence des troubles sexuels masculins (10.4) | Laumann, E. et coll., *Sexual dysfunction in the United States: prevalence and predictors*, JAMA, 1999 | 7 août 2026 |
+| Pornographie et dysfonctions sexuelles, débat clinique (10.5, 11.4) | Park, B. et coll., *Is Internet Pornography Causing Sexual Dysfunctions?*, Behavioral Sciences, 2016 | 7 août 2026 |
+| Mémoire corporelle du trauma (11.5) | van der Kolk, B., *The Body Keeps the Score*, Viking, 2014 | 7 août 2026 |
+| Théories implicites de la relation (12.7) | Knee, C. R., *Implicit theories of relationships*, Journal of Personality and Social Psychology, 1998 | 7 août 2026 |
+| Comparaison sociale sur les réseaux (13.1) | Fardouly, J. & Vartanian, L., *Social media and body image concerns*, Current Opinion in Psychology, 2016 | 7 août 2026 |
+| Développement adulte masculin par étapes (13.3) | Levinson, D., *The Seasons of a Man's Life*, Knopf, 1978 | 7 août 2026 |
+| Transition psychologique vers la paternité (13.5) | Genesoni, L. & Tallandini, M., *Men's Psychological Transition to Fatherhood*, Birth, 2009 | 7 août 2026 |
+| Isolement social et mortalité (14.3, 14.4) | Holt-Lunstad, J. et coll., *Loneliness and social isolation as risk factors for mortality*, Perspectives on Psychological Science, 2015 | 7 août 2026 |
+| Relation père-fils (15.4) | Diamond, M., *My Father Before Me*, Simon & Schuster, 2007 | 7 août 2026 |
+| Amitiés homme-femme (17.12) | Bleske-Rechek, A. & Buss, D., *Opposite-sex friendship: sex differences and similarities in initiation, selection, and dissolution*, Personality and Social Psychology Bulletin, 2001 | 7 août 2026 |
+| Patron demande-retrait dans le conflit conjugal (16.1, 17.8) | Christensen, A. & Heavey, C., *Gender and social structure in the demand/withdraw pattern of marital conflict*, Journal of Personality and Social Psychology, 1990 | 7 août 2026 |
+| Comportements prédictifs de la rupture conjugale (16.2, 18.3) | Gottman, J. & Levenson, R., *Marital processes predictive of later dissolution*, Journal of Personality and Social Psychology, 1992 | 7 août 2026 |
+| Communication non violente (16.3, 16.5) | Rosenberg, M., *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 | 7 août 2026 |
+| Distinction expliquer / excuser en thérapie de couple (19.1) | Johnson, S., *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 | 7 août 2026 |
+| Travail cognitif domestique (19.2, 17.2) | Daminger, A., *The Cognitive Dimension of Household Labor*, American Sociological Review, 2019 | 7 août 2026 |
+| Fardeau du proche aidant (19.3, 19.5) | Pearlin, L. et coll., *Caregiving and the stress process*, The Gerontologist, 1990 | 7 août 2026 |
+| Épidémiologie de la dépression (19.4) | Kessler, R. et coll., *The epidemiology of major depressive disorder*, JAMA, 2003 | 7 août 2026 |
+| Alexithymie, définition clinique (17.10) | Taylor, G., Bagby, R. & Parker, J., *Disorders of Affect Regulation*, Cambridge University Press, 1997 | 7 août 2026 |
+| Réponse amoureuse naissante (12.2, 12.4) | Fisher, H. et coll. ; Reis, H. & Shaver, P., *Romantic love: an fMRI study ; Intimacy as an interpersonal process*, Journal of Comparative Neurology, 2005 ; Handbook of Personal Relationships, 1988 | 7 août 2026 |
+
+Retour au [guide Pour Lui](<../1 - Guides/Pour Lui/README.md>).

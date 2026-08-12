@@ -16,7 +16,7 @@ Le chapitre 11 de ce guide décrit la sexualité comme langage émotionnel à pa
 
 C'est vrai, et pris seul, c'est un cliché qui dessert. Il laisse entendre que la sexualité masculine ne serait qu'un substitut émotionnel, ce qui est doublement faux : elle a une physiologie propre, qui se dérègle et se soigne comme le reste du corps, et elle a une valeur en elle-même, pas seulement comme véhicule d'autre chose.
 
-Ce chapitre traite le versant physiologique, en pendant du chapitre 8 de [Pour Elle](<../Pour Elle/08 - Sexualité féminine.md>). Les deux ensemble, avec le 11 et le 12, forment le tableau complet. Réduire la sexualité masculine à un langage émotionnel occulte sa physiologie propre, documentée indépendamment dans la littérature urologique (source : Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
+Ce chapitre traite le versant physiologique, en pendant du chapitre 9 de [Pour Elle](<../Pour Elle/09 - Sexualité féminine.md>). Les deux ensemble, avec le 11 et le 12, forment le tableau complet. Réduire la sexualité masculine à un langage émotionnel occulte sa physiologie propre, documentée indépendamment dans la littérature urologique (source : Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
 
 ### 10.2 Ce qui se passe réellement pendant une érection
 

@@ -42,17 +42,17 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 18 | [Le dilemme masculin contemporain](<18 - Le dilemme masculin contemporain.md>) | psychologie | 2 186 |
 | 19 | [Les limites : ce qui n'est pas à soi de porter](<19 - Les limites.md>) | relation | 2 000 |
 | 20 | [La santé sur vingt ans : ce qui compte et quand](<20 - La sante sur le long terme.md>) | prévention | 2 004 |
-| 21 | [Aide-mémoire](<21 - Aide-mémoire.md>) | repères | 949 |
-| 22 | [Sources vérifiables](<22 - Sources verifiables.md>) | repères | 1 352 |
-| 23 | [Ce que les hommes attendent des hommes](<23 - Ce que les hommes attendent des hommes.md>) | relation | 2 026 |
-| 24 | [Ce que les hommes attendent des femmes](<24 - Ce que les hommes attendent des femmes.md>) | relation | 2 007 |
-| 25 | [Ce qui leur fait peur chez les hommes](<25 - Ce qui leur fait peur chez les hommes.md>) | relation | 2 001 |
-| 26 | [Ce qui leur fait peur chez les femmes](<26 - Ce qui leur fait peur chez les femmes.md>) | relation | 2 002 |
-| 27 | [Ce qui compte vraiment chez les hommes](<27 - Ce qui compte vraiment chez les hommes.md>) | relation | 2 016 |
-| 28 | [Ce qui compte vraiment chez les femmes](<28 - Ce qui compte vraiment chez les femmes.md>) | relation | 2 022 |
-| 29 | [Comment expriment-ils leur amour](<29 - Comment expriment-ils leur amour.md>) | relation | 2 006 |
-| 30 | [Comment sont-ils vus et existent-ils dans la famille](<30 - Comment sont-ils vus et existent-ils dans la famille.md>) | relation | 2 022 |
-| 31 | [Pères célibataires aujourd'hui](<31 - Peres celibataires aujourd hui.md>) | relation | 2 008 |
+| 21 | [Ce que les hommes attendent des hommes](<21 - Ce que les hommes attendent des hommes.md>) | relation | 2 026 |
+| 22 | [Ce que les hommes attendent des femmes](<22 - Ce que les hommes attendent des femmes.md>) | relation | 2 007 |
+| 23 | [Ce qui leur fait peur chez les hommes](<23 - Ce qui leur fait peur chez les hommes.md>) | relation | 2 001 |
+| 24 | [Ce qui leur fait peur chez les femmes](<24 - Ce qui leur fait peur chez les femmes.md>) | relation | 2 002 |
+| 25 | [Ce qui compte vraiment chez les hommes](<25 - Ce qui compte vraiment chez les hommes.md>) | relation | 2 016 |
+| 26 | [Ce qui compte vraiment chez les femmes](<26 - Ce qui compte vraiment chez les femmes.md>) | relation | 2 022 |
+| 27 | [Comment expriment-ils leur amour](<27 - Comment expriment-ils leur amour.md>) | relation | 2 006 |
+| 28 | [Comment sont-ils vus et existent-ils dans la famille](<28 - Comment sont-ils vus et existent-ils dans la famille.md>) | relation | 2 022 |
+| 29 | [Pères célibataires aujourd'hui](<29 - Peres celibataires aujourd hui.md>) | relation | 2 008 |
+| 30 | [Aide-mémoire](<30 - Aide-mémoire.md>) | repères | 949 |
+| 31 | [Sources vérifiables](<31 - Sources verifiables.md>) | repères | 1 352 |
 
 Total : 63 993 mots, 31 chapitres.
 
