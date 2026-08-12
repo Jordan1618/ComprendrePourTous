@@ -22,11 +22,11 @@ licence: "CC BY 4.0"
 
 **Nb : sur les huiles essentielles.** Elles ajoutent un parfum et parfois un effet (lavande = apaisant, menthe poivrée = tonifiant), mais elles sont des concentrés puissants :
 - Jamais pures sur la peau, toujours diluées dans une huile végétale.
-- **À proscrire pendant la grossesse** sans avis d'un professionnel formé en aromathérapie prénatale (beaucoup d'huiles essentielles sont contre-indiquées, notamment celles à cétones ou emménagogues) (source : Tiran, D., « Aromatherapy in midwifery: benefits and risks », *Complementary Therapies in Nursing and Midwifery*, 1996 ; vérification du 8 août 2026).
+- [À proscrire pendant la grossesse sans avis d'un professionnel formé en aromathérapie prénatale](https://pubmed.ncbi.nlm.nih.gov/9439282/) (beaucoup d'huiles essentielles sont contre-indiquées, notamment celles à cétones ou emménagogues ; Tiran, *Complementary Therapies in Nursing and Midwifery*, 1996 ; vérification du 8 août 2026).
 - Vérifier systématiquement les allergies avant emploi.
 
 ### 4.2 Autres outils
 - **Pierres chaudes** (basalte, volcaniques) : chauffées à 45-55°C, jamais posées directement sans test sur l'avant-bras du praticien d'abord. Contre-indiqué en cas de troubles de la sensibilité (diabète avancé) ou de problèmes circulatoires.
-- **Ventouses (cupping)** : créent une dépression qui décolle les tissus. Laissent des marques circulaires (ecchymoses bénignes) qui peuvent durer plusieurs jours, à annoncer avant la séance (source : Cramer, H. et coll., « Systematic review and meta-analysis of the effects of cupping therapy », *PLOS ONE*, 2020 ; vérification du 8 août 2026).
+- **Ventouses (cupping)** : créent une dépression qui décolle les tissus. [Laissent des marques circulaires (ecchymoses bénignes) qui peuvent durer plusieurs jours](https://pubmed.ncbi.nlm.nih.gov/31982686/), à annoncer avant la séance (Cramer et coll., « Cupping for patients with chronic pain: a systematic review and meta-analysis », *The Journal of Pain*, 2020 ; vérification du 8 août 2026).
 - **Gua sha / racloir** : petit outil plat (pierre ou corne) pour des raclages doux, surtout visage et nuque.
 - **Rouleaux en mousse / balles de massage** : auto-massage, complément entre deux séances.

@@ -12,7 +12,7 @@ licence: "CC BY 4.0"
 
 Ce sont les briques de base, communes à presque toutes les écoles :
 
-- **Effleurage** : glissé long et léger, en début et fin de séance, pour "présenter" la zone et faire le lien entre deux gestes plus intenses. Toujours dans le sens du retour veineux (vers le cœur) sur les membres, une orientation qui facilite mécaniquement le retour du sang veineux et lymphatique vers le centre (source : Moyer, C. A., Rounds, J. & Hannum, J. W., « A meta-analysis of massage therapy research », *Psychological Bulletin*, 2004 ; vérification du 8 août 2026).
+- **Effleurage** : glissé long et léger, en début et fin de séance, pour "présenter" la zone et faire le lien entre deux gestes plus intenses. Toujours dans le sens du retour veineux (vers le cœur) sur les membres, une orientation qui suit le sens naturel de la circulation veineuse et lymphatique de retour vers le centre du corps — un principe d'anatomie de base, pas une découverte de recherche récente.
 - **Pétrissage** : on saisit le muscle entre les doigts et la paume, comme on pétrirait une pâte. Cible les muscles volumineux (mollets, cuisses, trapèzes, dos).
 - **Friction** : petits mouvements circulaires avec les pouces ou les doigts, sur une zone précise et restreinte. Utile sur les nœuds musculaires localisés.
 - **Tapotement / percussions** : gestes rythmés et rapides (tranchant de la main, poings légers, doigts en "pluie"). Stimulant, utilisé en fin de massage sportif ou sur le dos.
