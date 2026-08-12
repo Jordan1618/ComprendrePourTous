@@ -14,7 +14,9 @@ licence: "CC BY 4.0"
 
 C'est la catégorie où le stock de non-dit est le plus grand, et où le temps disponible diminue.
 
-Trois obstacles spécifiques. Le rôle : un parent a l'habitude d'être parent, pas d'être quelqu'un avec une histoire. La génération : beaucoup n'ont jamais eu ces conversations et n'ont pas les mots, ce qui se confond facilement avec un refus. Et la peur réciproque du jugement. Les échanges intergénérationnels sont structurés par des normes de rôle et de communication propres à chaque génération, qui peuvent freiner l'auto-divulgation même en présence d'affection réelle (source : Vangelisti, A. L. (dir.), *Handbook of Family Communication*, Lawrence Erlbaum Associates, 2004 ; vérification du 8 août 2026).
+Trois obstacles spécifiques. Le rôle : un parent a l'habitude d'être parent, pas d'être quelqu'un avec une histoire. La génération : beaucoup n'ont jamais eu ces conversations et n'ont pas les mots, ce qui se confond facilement avec un refus. Et la peur réciproque du jugement. [Les échanges intergénérationnels sont structurés par des normes de rôle et de communication propres à chaque génération, qui peuvent freiner l'auto-divulgation même en présence d'affection réelle](https://psycnet.apa.org/record/2004-00165-000) (Vangelisti (dir.), *Handbook of Family Communication*, Lawrence Erlbaum Associates, 2004 ; vérification du 8 août 2026).
+
+Ces trois obstacles ne sont pas une fatalité universelle : certaines familles ont cultivé, parfois sur plusieurs générations, un espace où l'on se parle librement et où ces conversations n'ont jamais été un problème. Là où c'est le cas, la difficulté n'est pas de trouver les mots mais simplement de prendre le temps.
 
 La séquence qui marche : commencer par leur jeunesse, ce qui est un terrain neutre et souvent agréable, puis leur couple, puis leur parcours, et seulement en dernier vous deux. Le dernier bloc est le plus lourd et il ne s'ouvre presque jamais en premier.
 
@@ -24,7 +26,7 @@ La séquence qui marche : commencer par leur jeunesse, ce qui est un terrain neu
 
 ### 7.2 Les gens qu'on connaît depuis longtemps
 
-Le piège est l'illusion de connaissance. Avec un ami de dix ans, on croit que toutes les questions ont été posées. En réalité, la plupart des amitiés longues sont construites sur des faits partagés et très peu de questions de sens. La durée d'une relation n'est pas corrélée à la profondeur de l'auto-divulgation, deux dimensions que la théorie de la pénétration sociale traite comme distinctes (source : Altman, I. & Taylor, D. A., *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart & Winston, 1973 ; vérification du 8 août 2026).
+Le piège est l'illusion de connaissance. Avec un ami de dix ans, on croit que toutes les questions ont été posées. En réalité, la plupart des amitiés longues sont construites sur des faits partagés et très peu de questions de sens. [La durée d'une relation n'est pas corrélée à la profondeur de l'auto-divulgation, deux dimensions que la théorie de la pénétration sociale traite comme distinctes](https://archive.org/details/socialpenetratio00altm) (Altman & Taylor, *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart & Winston, 1973 ; vérification du 8 août 2026).
 
 La question qui ouvre le mieux ce terrain-là : qu'est-ce que tu ne m'as jamais raconté.
 
@@ -32,6 +34,6 @@ La question qui ouvre le mieux ce terrain-là : qu'est-ce que tu ne m'as jamais 
 
 Ici, la question sert de réparation, et elle a une forme précise.
 
-La mauvaise forme est celle qui cherche l'absolution : tu m'en veux encore ? Elle demande à l'autre de te soulager, ce qui est une charge supplémentaire. Une démarche de réparation centrée sur le vécu de la personne blessée, plutôt que sur le besoin d'être rassuré de l'offenseur, est associée à une réconciliation plus authentique (source : Weger, H., Bell, G. C., Minei, E. M. & Robinson, M. C., « The relative effectiveness of active listening in initial interactions », *International Journal of Listening*, 2014 ; vérification du 8 août 2026).
+La mauvaise forme est celle qui cherche l'absolution : tu m'en veux encore ? Elle demande à l'autre de te soulager, ce qui est une charge supplémentaire. [Une démarche de réparation centrée sur le vécu de la personne blessée, plutôt que sur le besoin d'être rassuré de l'offenseur, est associée à une réconciliation plus authentique](https://www.tandfonline.com/doi/full/10.1080/10904018.2013.813234) (Weger, Bell, Minei & Robinson, *International Journal of Listening*, 2014 ; vérification du 8 août 2026).
 
 La bonne forme demande l'information : qu'est-ce que ça t'a fait, sur le moment. Ou : qu'est-ce que j'ai pas compris, à l'époque. Elle ne demande rien pour toi, elle offre une place à ce qui n'a pas été dit.

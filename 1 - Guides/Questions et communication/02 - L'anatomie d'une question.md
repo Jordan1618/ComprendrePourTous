@@ -16,7 +16,7 @@ La distinction est connue : une question fermée appelle oui, non, ou un fait un
 
 Le malentendu, c'est de croire que l'ouverte est toujours meilleure. Faux. Une question ouverte posée trop tôt met la pression : raconte-moi ton enfance, à quelqu'un qui vient de s'asseoir, est une demande de travail. Une question fermée bien placée est un point d'appui : elle est facile à répondre, elle engage peu, et elle ouvre une porte que l'autre peut franchir s'il le veut.
 
-La bonne séquence est presque toujours fermée puis ouverte. Tu vois encore ton frère ? Puis, si la réponse ouvre quelque chose, vous vous êtes rapprochés ou c'est resté pareil ? Cette séquence fermé-puis-ouvert est une technique classique d'entretien, où les questions fermées cadrent le terrain avant que les questions ouvertes ne le développent, sans le biaiser (source : Fisher, R. P. & Geiselman, R. E., *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 ; vérification du 8 août 2026).
+La bonne séquence est presque toujours fermée puis ouverte. Tu vois encore ton frère ? Puis, si la réponse ouvre quelque chose, vous vous êtes rapprochés ou c'est resté pareil ? [Cette séquence fermé-puis-ouvert est une technique classique d'entretien, où les questions fermées cadrent le terrain avant que les questions ouvertes ne le développent, sans le biaiser](https://books.google.com/books/about/MEMORY_ENHANCING_TECHNIQUES_FOR_INVESTIG.html?id=W0_YCQAAQBAJ) (Fisher & Geiselman, *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 ; vérification du 8 août 2026).
 
 **Bons réflexes.** Utiliser le fermé pour ouvrir un dossier, l'ouvert pour l'explorer. Et ne jamais poser deux questions dans la même phrase : l'autre répond à la plus facile des deux et l'autre est perdue.
 
@@ -32,7 +32,7 @@ Une même question existe à trois étages, et l'écart entre les trois est tout
 
 **Étage 3, le sens.** Qu'est-ce que ça t'a fait, ou qu'est-ce que ça change pour toi. C'est là que la réponse n'existe pas encore et qu'elle doit être fabriquée.
 
-La plupart des conversations restent bloquées à l'étage 1 toute une vie, entre des gens qui s'apprécient sincèrement. Ce n'est pas un manque d'affection, c'est un manque de vocabulaire de requête. Ce passage du fait au vécu puis au sens correspond à la progression décrite par le modèle du processus d'intimité, où l'auto-divulgation et la réactivité du partenaire s'approfondissent par paliers (source : Reis, H. T. & Shaver, P., « Intimacy as an interpersonal process », dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 8 août 2026).
+La plupart des conversations restent bloquées à l'étage 1 toute une vie, entre des gens qui s'apprécient sincèrement. Ce n'est pas un manque d'affection, c'est un manque de vocabulaire de requête. [Ce passage du fait au vécu puis au sens correspond à la progression décrite par le modèle du processus d'intimité, où l'auto-divulgation et la réactivité du partenaire s'approfondissent par paliers](https://www.researchgate.net/publication/347687013_Intimacy_as_an_interpersonal_process) (Reis & Shaver, dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 8 août 2026).
 
 **Bons réflexes.** Une conversation par jour où tu montes d'un étage. Pas trois, un. Le passage du 1 au 2 se fait avec c'était comment ou tu l'as vécu comment. Le passage du 2 au 3 se fait avec qu'est-ce que ça t'a fait ou t'en as retenu quoi.
 
@@ -42,7 +42,7 @@ C'est le point technique le plus rentable du document.
 
 Une question de suivi porte sur ce que l'autre vient de dire. Elle s'oppose à la question de bascule, qui change de sujet. La différence est invisible sur le moment et énorme dans l'effet : la question de suivi prouve que tu as écouté, la question de bascule prouve que tu avais préparé la suivante pendant qu'il parlait.
 
-Les données montrent que ce sont les questions de suivi, qui signalent la réceptivité au partenaire, qui augmentent le plus l'appréciation de celui qui pose (source : Yeomans, Brooks, Huang, Minson et Gino, Journal of Personality and Social Psychology, 2019 ; vérification du 4 août 2026).
+[Les données montrent que ce sont les questions de suivi, qui signalent la réceptivité au partenaire, qui augmentent le plus l'appréciation de celui qui pose](https://pubmed.ncbi.nlm.nih.gov/31714109/) (Yeomans, Brooks, Huang, Minson et Gino, Journal of Personality and Social Psychology, 2019 ; vérification du 4 août 2026).
 
 Le test est simple. Après avoir posé une question, si ta phrase suivante commence par un sujet différent, tu n'écoutais pas.
 
@@ -54,7 +54,7 @@ Les trois formes de suivi qui marchent presque toujours : c'est-à-dire, dis-m'e
 
 Pourquoi est la question la plus intuitive et la plus piégeuse. Elle a deux usages qui n'ont rien à voir.
 
-Sur un système, elle est neutre : pourquoi ce service tombe. Sur une personne, elle demande une justification. Pourquoi tu as fait ça met l'autre en position de se défendre, même quand ce n'est pas l'intention. La réponse spontanée à un pourquoi personnel est presque toujours une rationalisation, c'est-à-dire une reconstruction après coup, pas la vraie raison, un phénomène documenté par les travaux classiques sur l'accès limité aux véritables processus mentaux (source : Nisbett, R. E. & Wilson, T. D., « Telling more than we can know: Verbal reports on mental processes », *Psychological Review*, 1977 ; vérification du 8 août 2026).
+Sur un système, elle est neutre : pourquoi ce service tombe. Sur une personne, elle demande une justification. Pourquoi tu as fait ça met l'autre en position de se défendre, même quand ce n'est pas l'intention. [La réponse spontanée à un pourquoi personnel est presque toujours une rationalisation, c'est-à-dire une reconstruction après coup, pas la vraie raison](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf), un phénomène documenté par les travaux classiques sur l'accès limité aux véritables processus mentaux (Nisbett & Wilson, *Psychological Review*, 1977 ; vérification du 8 août 2026).
 
 Les remplacements qui donnent de meilleures réponses : qu'est-ce qui t'a fait faire ça, comment tu en es arrivé là, il s'est passé quoi avant. Toutes trois demandent un récit au lieu d'une justification, et le récit est plus honnête que la justification.
 
@@ -66,7 +66,7 @@ Cinq formes à repérer, parce qu'elles ont l'apparence de questions et n'en son
 
 **La question à réponse implicite.** Tu ne trouves pas que c'était un peu abusé ? Ce n'est pas une question, c'est une affirmation déguisée qui demande une ratification. Elle ne produit aucune information.
 
-**La question-reproche.** Tu comptais me le dire quand ? C'est une accusation avec un point d'interrogation. Elle appelle une défense, jamais une réponse. La critique déguisée en question est l'un des quatre comportements les plus prédictifs de la dégradation d'une relation observés en laboratoire (source : Gottman, J. & Levenson, R., « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 8 août 2026).
+**La question-reproche.** Tu comptais me le dire quand ? C'est une accusation avec un point d'interrogation. Elle appelle une défense, jamais une réponse. [La critique déguisée en question est l'un des quatre comportements les plus prédictifs de la dégradation d'une relation observés en laboratoire](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, *Journal of Personality and Social Psychology*, 1992 ; vérification du 8 août 2026).
 
 **La question qui contient la réponse.** Ça a dû être dur, non ? Tu as fourni l'émotion, il ne reste qu'à confirmer. Si l'autre ressentait autre chose, il faudrait maintenant qu'il te contredise, ce que la plupart des gens ne feront pas.
 
