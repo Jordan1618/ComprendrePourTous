@@ -16,7 +16,7 @@ Il faut séparer deux choses qu'on mélange en permanence.
 
 **Le sentiment amoureux** est ancien et très largement partagé entre cultures. Jankowiak et Fischer en ont trouvé des traces dans l'immense majorité des sociétés étudiées (*Ethnology*, 1992). Il n'est pas une invention occidentale.
 
-**Le fait de fonder le mariage sur ce sentiment**, en revanche, est récent et localisé. Pendant l'essentiel de l'histoire humaine, le mariage a été une affaire d'alliance entre familles, de transmission de patrimoine et d'organisation du travail. L'amour pouvait exister, avant ou après, mais il n'était pas le critère de la décision. L'historienne Stephanie Coontz a documenté ce basculement : l'idée que le mariage devrait reposer sur l'amour s'est imposée en Occident à partir de la fin du XVIIIe siècle, et s'est généralisée au XXe (source : Coontz, *Marriage, a History*, 2005 ; vérification du 6 août 2026).
+**Le fait de fonder le mariage sur ce sentiment**, en revanche, est récent et localisé. Pendant l'essentiel de l'histoire humaine, le mariage a été une affaire d'alliance entre familles, de transmission de patrimoine et d'organisation du travail. L'amour pouvait exister, avant ou après, mais il n'était pas le critère de la décision. [L'historienne Stephanie Coontz a documenté ce basculement](https://www.powells.com/book/marriage-a-history-how-love-conquered-marriage-9780143036678) : l'idée que le mariage devrait reposer sur l'amour s'est imposée en Occident à partir de la fin du XVIIIe siècle, et s'est généralisée au XXe (Coontz, *Marriage, a History*, 2005 ; vérification du 6 août 2026).
 
 ### 6.2 Pourquoi ce basculement rend le couple plus fragile — et plus intense
 
@@ -26,11 +26,11 @@ Tant que le mariage repose sur l'économie et l'alliance, il est **solide** : le
 
 Dès lors qu'il repose sur l'amour, il devient **beaucoup plus désirable et beaucoup plus fragile**. Si la raison d'être ensemble est un sentiment, la disparition du sentiment dissout la raison. Coontz formule le paradoxe ainsi : les conditions qui ont rendu le mariage plus satisfaisant que jamais l'ont, dans le même mouvement, rendu plus optionnel et plus instable.
 
-Ce n'est donc pas que « les gens ne savent plus s'engager ». C'est que le critère de l'engagement a changé, et que ce critère est par nature variable. Stephanie Coontz a montré que le passage à un mariage fondé sur l'amour l'a rendu à la fois plus désirable et plus instable, la disparition du sentiment dissolvant désormais sa raison d'être (source : Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
+Ce n'est donc pas que « les gens ne savent plus s'engager ». C'est que le critère de l'engagement a changé, et que ce critère est par nature variable. [Stephanie Coontz a montré que le passage à un mariage fondé sur l'amour l'a rendu à la fois plus désirable et plus instable](https://www.powells.com/book/marriage-a-history-how-love-conquered-marriage-9780143036678), la disparition du sentiment dissolvant désormais sa raison d'être (Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
 
 ### 6.3 L'attente devenue démesurée
 
-Le psychologue Eli Finkel a décrit ce qu'il appelle le mariage « tout ou rien » : à mesure que les fonctions matérielles du couple se sont allégées, les attentes se sont déplacées vers le haut — épanouissement personnel, réalisation de soi, croissance mutuelle (source : Finkel, *The All-or-Nothing Marriage*, 2017 ; vérification du 6 août 2026).
+[Le psychologue Eli Finkel a décrit ce qu'il appelle le mariage « tout ou rien »](https://www.penguinrandomhouse.com/books/318510/the-all-or-nothing-marriage-by-eli-j-finkel/) : à mesure que les fonctions matérielles du couple se sont allégées, les attentes se sont déplacées vers le haut — épanouissement personnel, réalisation de soi, croissance mutuelle (Finkel, *The All-or-Nothing Marriage*, 2017 ; vérification du 6 août 2026).
 
 Le constat est double, et les deux moitiés comptent. Les couples qui parviennent à satisfaire ces attentes hautes déclarent une qualité de relation supérieure à ce qu'on observait autrefois. Ceux qui n'y parviennent pas sont plus insatisfaits qu'ils ne l'auraient été avec des attentes plus modestes — parce qu'ils échouent selon un critère plus exigeant.
 
@@ -48,7 +48,7 @@ Quatre scripts, tellement répétés qu'ils passent pour des évidences.
 
 **L'insistance qui finit par payer.** Un script narratif extrêmement répandu, où le refus initial n'est qu'une étape avant la conquête. C'est un apprentissage du non-respect du refus, exactement le signal décrit au chapitre 7 du guide [La rencontre](<../La rencontre/README.md>).
 
-**La fin sur le baiser.** Les récits s'arrêtent au moment où la relation commence, ce qui laisse sans aucun modèle culturel pour la partie qui dure. On apprend à tomber amoureux, jamais à rester. Croire à une âme sœur prédestinée plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple face aux difficultés (source : Knee, « Implicit theories of relationships: assessment and prediction of romantic relationship initiation, coping, and longevity », *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
+**La fin sur le baiser.** Les récits s'arrêtent au moment où la relation commence, ce qui laisse sans aucun modèle culturel pour la partie qui dure. On apprend à tomber amoureux, jamais à rester. [Croire à une âme sœur prédestinée plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple face aux difficultés](https://www.researchgate.net/publication/232518767_Implicit_Theories_of_Relationships_Assessment_and_Prediction_of_Romantic_Relationship_Initiation_Coping_and_Longevity) (Knee, *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
 
 **Bons réflexes**
 

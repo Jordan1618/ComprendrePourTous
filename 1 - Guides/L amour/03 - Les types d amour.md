@@ -16,7 +16,7 @@ On raconte souvent que certaines langues du Grand Nord disposent de dizaines de 
 
 Le français n'a qu'un mot pour l'amour. Un seul, pour ce qu'on éprouve envers un enfant, un ami de vingt ans, un amant de trois semaines, un pays, un métier, soi-même. Cette pauvreté n'est pas anodine : elle produit des questions insolubles. « Est-ce que je l'aime encore ? » n'a pas de réponse, parce qu'elle ne précise pas de quel amour on parle.
 
-Le grec ancien, lui, disposait de plusieurs mots. Ce chapitre les reprend — non par curiosité érudite, mais parce que ce vocabulaire est **l'outil de diagnostic le plus simple qui existe** pour savoir ce qu'on vit réellement. Une analyse lexicale comparative a recensé, à travers plusieurs langues, un nombre bien plus grand de mots liés à l'amour que ce que le français distingue habituellement (source : Lomas, « The flavours of love: A cross-cultural lexical analysis », *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
+Le grec ancien, lui, disposait de plusieurs mots. Ce chapitre les reprend — non par curiosité érudite, mais parce que ce vocabulaire est **l'outil de diagnostic le plus simple qui existe** pour savoir ce qu'on vit réellement. [Une analyse lexicale comparative a recensé, à travers plusieurs langues, un nombre bien plus grand de mots liés à l'amour que ce que le français distingue habituellement](https://onlinelibrary.wiley.com/doi/10.1111/jtsb.12158) (Lomas, *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
 
 ### 3.2 Les six mots grecs, et ce qu'ils désignent
 
@@ -34,7 +34,7 @@ Une précaution d'abord, souvent absente des vulgarisations. Ces mots n'étaient
 
 **Philautia** — l'amour de soi. Aristote la sépare nettement en deux. Le mauvais amour de soi cherche pour soi les honneurs, l'argent, les plaisirs, aux dépens des autres. Le bon consiste à vouloir pour soi ce qui est réellement bon, et c'est **la condition des autres amours** : on ne peut pas offrir à autrui un rapport qu'on ne s'accorde pas à soi-même.
 
-À ces six, on ajoute souvent **mania**, l'amour obsessionnel et possessif, et **pragma**, l'amour mûr et pragmatique de ceux qui durent. Ces deux-là viennent en réalité d'une autre grille, présentée plus bas. La distinction entre éros, philia et agapè est développée respectivement dans *Le Banquet* de Platon et l'*Éthique à Nicomaque* d'Aristote, livres VIII et IX (source : Platon, *Le Banquet* ; Aristote, *Éthique à Nicomaque* ; vérification du 7 août 2026).
+À ces six, on ajoute souvent **mania**, l'amour obsessionnel et possessif, et **pragma**, l'amour mûr et pragmatique de ceux qui durent. Ces deux-là viennent en réalité d'une autre grille, présentée plus bas. La distinction entre éros, philia et agapè est développée respectivement dans [*Le Banquet*](https://fr.wikisource.org/wiki/Le_Banquet_(trad._Cousin)) de Platon et l'[*Éthique à Nicomaque*](https://fr.wikisource.org/wiki/Morale_%C3%A0_Nicomaque/Texte_entier) d'Aristote, livres VIII et IX (vérification du 7 août 2026).
 
 ### 3.3 Pourquoi cette grille est un outil, pas une culture générale
 
@@ -50,7 +50,7 @@ Reprenez les inquiétudes les plus courantes, et regardez comme elles changent d
 - « Je ne pense qu'à lui et j'en souffre » → mania plutôt qu'amour, souvent nourrie par l'incertitude plutôt que par la personne. Voir le chapitre 1 sur la dopamine.
 - « Je donne tout et je ne reçois rien » → agapè sans réciprocité. Elle est admirable dans certains contextes — un parent, un proche malade — et elle est intenable comme base d'un couple.
 
-**La question utile n'est donc pas « est-ce que je l'aime ? » mais « lequel de ces liens est présent, lequel manque, et lequel me manque ? »** La première question est un verdict, la seconde est un diagnostic. L'utilité pratique d'un vocabulaire élargi pour les états affectifs est cohérente avec les travaux sur la diversité lexicale de l'amour selon les cultures (source : Lomas, « The flavours of love: A cross-cultural lexical analysis », *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
+**La question utile n'est donc pas « est-ce que je l'aime ? » mais « lequel de ces liens est présent, lequel manque, et lequel me manque ? »** La première question est un verdict, la seconde est un diagnostic. [L'utilité pratique d'un vocabulaire élargi pour les états affectifs est cohérente avec les travaux sur la diversité lexicale de l'amour selon les cultures](https://onlinelibrary.wiley.com/doi/10.1111/jtsb.12158) (Lomas, *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
 
 ### 3.4 Ce que la philosophie a ajouté après les Grecs
 
@@ -62,7 +62,7 @@ Trois apports qui déplacent réellement quelque chose, sans faire l'histoire co
 
 **Fromm et l'amour comme art.** Dans *L'art d'aimer* (1956), Erich Fromm attaque une croyance centrale de notre époque : on croit que le problème de l'amour est d'**être aimé**, ou de **trouver** le bon objet, alors qu'il est d'abord une **capacité** à développer. Personne ne s'attend à savoir jouer du piano sans apprendre ; tout le monde s'attend à savoir aimer sans rien apprendre. Fromm identifie quatre composantes de l'amour mûr : le souci de l'autre, la responsabilité, le respect, et la connaissance. Aucune n'est un sentiment ; toutes sont des pratiques.
 
-Ce déplacement — de « trouver la bonne personne » à « développer une capacité » — est cohérent avec ce que la recherche montre sur les théories implicites de la relation : croire qu'une relation se construit prédit une meilleure traversée des difficultés que croire à l'âme sœur prédestinée (voir chapitre 6.4). Ces trois apports viennent respectivement de Platon (*Le Banquet*), Spinoza (*Éthique*, livre III) et Erich Fromm (source : Fromm, *The Art of Loving*, Harper & Row, 1956 ; vérification du 7 août 2026).
+Ce déplacement — de « trouver la bonne personne » à « développer une capacité » — est cohérent avec ce que la recherche montre sur les théories implicites de la relation : croire qu'une relation se construit prédit une meilleure traversée des difficultés que croire à l'âme sœur prédestinée (voir chapitre 6.4). Ces trois apports viennent respectivement de Platon (*Le Banquet*), Spinoza (*Éthique*, livre III) et Erich Fromm ([*The Art of Loving*](https://en.wikipedia.org/wiki/The_Art_of_Loving), Harper & Row, 1956 ; vérification du 7 août 2026).
 
 ### 3.5 La grille de Lee : six styles amoureux, testés empiriquement
 
@@ -74,7 +74,7 @@ Les trois styles composites : **mania** (éros + ludus : possessif, jaloux, en m
 
 Ce que les données montrent, avec prudence sur l'ampleur des effets : les styles éros et agapè sont associés à une plus grande satisfaction relationnelle, tandis que ludus l'est négativement — ce qui est logique, ludus consistant précisément à ne pas s'engager. Mania est associée à davantage de détresse.
 
-L'usage juste de cette grille est le même que pour les mots grecs : **repérer un écart de style entre deux personnes**. Un pragma qui rencontre un éros ne vivra pas la même relation, et les deux risquent de mal interpréter l'autre — l'un trouvera l'autre froid et calculateur, l'autre le trouvera instable et irréaliste. Ce n'est pas un défaut d'amour, c'est une différence de style. Ces six styles ont été mesurés au moyen d'une échelle validée empiriquement (source : Hendrick & Hendrick, « A theory and method of love », *Journal of Personality and Social Psychology*, 1986 ; vérification du 7 août 2026).
+L'usage juste de cette grille est le même que pour les mots grecs : **repérer un écart de style entre deux personnes**. Un pragma qui rencontre un éros ne vivra pas la même relation, et les deux risquent de mal interpréter l'autre — l'un trouvera l'autre froid et calculateur, l'autre le trouvera instable et irréaliste. Ce n'est pas un défaut d'amour, c'est une différence de style. [Ces six styles ont été mesurés au moyen d'une échelle validée empiriquement](https://psycnet.apa.org/doi/10.1037/0022-3514.50.2.392) (Hendrick & Hendrick, *Journal of Personality and Social Psychology*, 1986 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -94,4 +94,4 @@ La conversation qui déplace vraiment quelque chose, à froid, tient en deux tem
 
 Il ne dit pas qu'il existerait un classement des amours, du plus bas au plus noble. Cette hiérarchie est une lecture tardive, souvent utilisée pour dévaloriser le désir, et elle ne résiste pas à l'examen : une relation sans éros ne tient pas mieux qu'une relation sans philia.
 
-Il ne dit pas non plus que ces catégories seraient des faits de nature. Ce sont des **outils de langage**. Leur seule vertu est de rendre discutable ce qui, faute de mots, restait un bloc indistinct sur lequel on ne pouvait que trancher par oui ou par non. Cette réserve méthodologique rejoint la mise en garde des chercheurs en lexicologie comparée contre une hiérarchisation implicite des formes d'amour selon les cultures (source : Lomas, « The flavours of love: A cross-cultural lexical analysis », *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
+Il ne dit pas non plus que ces catégories seraient des faits de nature. Ce sont des **outils de langage**. Leur seule vertu est de rendre discutable ce qui, faute de mots, restait un bloc indistinct sur lequel on ne pouvait que trancher par oui ou par non. [Cette réserve méthodologique rejoint la mise en garde des chercheurs en lexicologie comparée contre une hiérarchisation implicite des formes d'amour selon les cultures](https://onlinelibrary.wiley.com/doi/10.1111/jtsb.12158) (Lomas, *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).

@@ -14,11 +14,11 @@ licence: "CC BY 4.0"
 
 Imaginez un véhicule équipé de trois moteurs indépendants. Un moteur de traction brute, très puissant, qui démarre vite et consomme énormément. Un moteur de recherche, qui pousse vers un objectif précis et fonctionne à l'anticipation. Un moteur de croisière, discret, peu gourmand, capable de tenir des milliers de kilomètres.
 
-Ces trois moteurs peuvent tourner ensemble, séparément, ou dans le désordre. On dit « je l'aime » quand au moins l'un des trois est en marche, sans savoir lequel. D'où l'essentiel des malentendus sur ce sujet : deux personnes qui emploient le même mot ne parlent pas forcément du même moteur. Cette distinction en trois systèmes indépendants — désir, attirance, attachement — est celle proposée par Helen Fisher et ses collègues (source : Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
+Ces trois moteurs peuvent tourner ensemble, séparément, ou dans le désordre. On dit « je l'aime » quand au moins l'un des trois est en marche, sans savoir lequel. D'où l'essentiel des malentendus sur ce sujet : deux personnes qui emploient le même mot ne parlent pas forcément du même moteur. [Cette distinction en trois systèmes indépendants — désir, attirance, attachement — est celle proposée par Helen Fisher et ses collègues](https://pubmed.ncbi.nlm.nih.gov/16255001/) (Fisher, Aron & Brown, *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
 
 ### 1.2 Les trois systèmes, et pourquoi les distinguer change tout
 
-Helen Fisher et ses collègues ont proposé de distinguer trois systèmes cérébraux qui ont évolué séparément et remplissent des fonctions différentes (source : Fisher, Aron & Brown, *Journal of Comparative Neurology*, 2005 ; vérification du 6 août 2026).
+[Helen Fisher et ses collègues ont proposé de distinguer trois systèmes cérébraux qui ont évolué séparément et remplissent des fonctions différentes](https://pubmed.ncbi.nlm.nih.gov/16255001/) (Fisher, Aron & Brown, *Journal of Comparative Neurology*, 2005 ; vérification du 6 août 2026).
 
 **Le désir sexuel**, principalement lié aux androgènes et aux œstrogènes. Sa fonction : pousser vers l'accouplement, sans grande sélectivité. On peut désirer quelqu'un qu'on n'apprécie pas.
 
@@ -32,7 +32,7 @@ La conséquence pratique est considérable. **Un amour qui « s'éteint » est p
 
 Les études d'imagerie cérébrale sur des personnes récemment tombées amoureuses montrent une activation des régions riches en dopamine associées à la récompense et à la motivation, plutôt que des zones dites « émotionnelles ». Autrement dit : au niveau cérébral, l'amour naissant ressemble davantage à un **système de motivation** qu'à une émotion comme la joie ou la tristesse. C'est un état de poursuite d'un objectif.
 
-Une précaution s'impose ici. L'imagerie cérébrale est un outil précieux et régulièrement sur-interprété. « Telle zone s'allume » ne veut pas dire « telle zone est le siège de l'amour ». Les zones concernées s'activent aussi pour bien d'autres motivations. Ce que ces travaux établissent solidement, c'est la **parenté fonctionnelle** entre l'amour naissant et les systèmes de motivation — pas une localisation de l'amour. La première étude d'imagerie cérébrale sur l'amour romantique naissant a montré une activation des zones riches en dopamine associées à la récompense, plutôt que des zones dites émotionnelles (source : Bartels & Zeki, « The neural basis of romantic love », *NeuroReport*, 2000 ; vérification du 7 août 2026).
+Une précaution s'impose ici. L'imagerie cérébrale est un outil précieux et régulièrement sur-interprété. « Telle zone s'allume » ne veut pas dire « telle zone est le siège de l'amour ». Les zones concernées s'activent aussi pour bien d'autres motivations. Ce que ces travaux établissent solidement, c'est la **parenté fonctionnelle** entre l'amour naissant et les systèmes de motivation — pas une localisation de l'amour. [La première étude d'imagerie cérébrale sur l'amour romantique naissant a montré une activation des zones riches en dopamine associées à la récompense, plutôt que des zones dites émotionnelles](https://pubmed.ncbi.nlm.nih.gov/11117499/) (Bartels & Zeki, *NeuroReport*, 2000 ; vérification du 7 août 2026).
 
 ### 1.4 Pourquoi le début est si intense, et pourquoi ça ne dure pas
 
@@ -42,7 +42,7 @@ C'est exactement la trajectoire d'une relation. Au début, tout est incertain : 
 
 **Ce ralentissement n'est pas une panne. C'est le fonctionnement normal du système.** Le confondre avec la fin de l'amour est probablement l'erreur d'interprétation la plus coûteuse en matière de vie amoureuse. Elle conduit à quitter des relations solides pour retrouver une intensité qui, par construction, se dégradera de la même façon à chaque fois.
 
-La baisse de sérotonine observée dans la phase d'attirance intense, rapprochée par certains travaux des profils observés dans les troubles obsessionnels, éclaire l'aspect envahissant de cette période : penser à quelqu'un des heures par jour n'est pas un signe de la qualité du lien, c'est un état neurochimique transitoire. Le signal dopaminergique code une erreur de prédiction de récompense, maximale en situation d'incertitude et non de gain acquis (source : Schultz, « Predictive reward signal of dopamine neurons », *Journal of Neurophysiology*, 1998 ; vérification du 7 août 2026).
+La baisse de sérotonine observée dans la phase d'attirance intense, rapprochée par certains travaux des profils observés dans les troubles obsessionnels, éclaire l'aspect envahissant de cette période : penser à quelqu'un des heures par jour n'est pas un signe de la qualité du lien, c'est un état neurochimique transitoire. [Le signal dopaminergique code une erreur de prédiction de récompense, maximale en situation d'incertitude et non de gain acquis](https://journals.physiology.org/doi/full/10.1152/jn.1998.80.1.1) (Schultz, *Journal of Neurophysiology*, 1998 ; vérification du 7 août 2026).
 
 ### 1.5 L'ocytocine, sans la légende
 
@@ -50,7 +50,7 @@ L'ocytocine est souvent présentée comme « l'hormone de l'amour ». C'est une 
 
 Ce qui est solide : elle est libérée lors du contact physique, de l'orgasme, de l'allaitement, et elle joue un rôle dans le lien social et la confiance.
 
-Ce qui l'est beaucoup moins : l'idée qu'elle produirait de l'amour ou de la confiance en général. Les travaux plus récents montrent qu'elle **renforce la saillance du lien de groupe**, ce qui inclut aussi le favoritisme envers les proches et parfois la méfiance envers les autres. Ce n'est pas une molécule de la bienveillance universelle. C'est un amplificateur de ce qui est déjà là. Une revue de synthèse souligne que les effets de l'ocytocine dépendent fortement du contexte et de la personne, et ne se résument pas à un effet universel de confiance (source : Bartz, Zaki, Bolger & Ochsner, « Social effects of oxytocin in humans: context and person matter », *Trends in Cognitive Sciences*, 2011 ; vérification du 7 août 2026).
+Ce qui l'est beaucoup moins : l'idée qu'elle produirait de l'amour ou de la confiance en général. Les travaux plus récents montrent qu'elle **renforce la saillance du lien de groupe**, ce qui inclut aussi le favoritisme envers les proches et parfois la méfiance envers les autres. Ce n'est pas une molécule de la bienveillance universelle. C'est un amplificateur de ce qui est déjà là. [Une revue de synthèse souligne que les effets de l'ocytocine dépendent fortement du contexte et de la personne, et ne se résument pas à un effet universel de confiance](https://pubmed.ncbi.nlm.nih.gov/21696997/) (Bartz, Zaki, Bolger & Ochsner, *Trends in Cognitive Sciences*, 2011 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
