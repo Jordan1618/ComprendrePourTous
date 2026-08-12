@@ -14,11 +14,11 @@ licence: "CC BY 4.0"
 
 On parle de « trouver quelqu'un » comme s'il s'agissait de reconnaître la bonne personne parmi toutes. En pratique, vous ne choisissez jamais parmi tous : vous choisissez parmi les quelques centaines de personnes que votre vie met physiquement ou numériquement sur votre route. Ce bassin-là est étroit, et il n'a rien d'aléatoire.
 
-Autrement dit : la question « quel type de personne je cherche » compte beaucoup moins que la question « dans quel bassin je passe mes semaines ». Changer de bassin change les résultats bien plus vite que d'affiner ses critères. L'homogamie sociale et son origine structurelle plutôt qu'individuelle sont documentées dans la sociologie du couple depuis plusieurs décennies (source : Kalmijn, « Intermarriage and Homogamy: Causes, Patterns, Trends », *Annual Review of Sociology*, 1998 ; vérification du 7 août 2026).
+Autrement dit : la question « quel type de personne je cherche » compte beaucoup moins que la question « dans quel bassin je passe mes semaines ». Changer de bassin change les résultats bien plus vite que d'affiner ses critères. [L'homogamie sociale et son origine structurelle plutôt qu'individuelle sont documentées dans la sociologie du couple depuis plusieurs décennies](https://www.annualreviews.org/content/journals/10.1146/annurev.soc.24.1.395) (Kalmijn, « Intermarriage and Homogamy: Causes, Patterns, Trends », *Annual Review of Sociology*, 1998 ; vérification du 7 août 2026).
 
 ### 4.2 Le grand basculement documenté
 
-C'est l'une des transformations sociales les mieux mesurées des trente dernières années. L'enquête longitudinale américaine *How Couples Meet and Stay Together*, menée par Michael Rosenfeld et Reuben Thomas (Stanford), montre un renversement net : les canaux traditionnels — amis communs, famille, voisinage, collègues, lieu de culte — ont décliné de façon continue, pendant que la rencontre en ligne passait de marginale à dominante. Dans leurs données états-uniennes, Internet est devenu le premier mode de rencontre des couples hétérosexuels, avec une bascule plus précoce encore chez les couples de même sexe (source : Rosenfeld, Thomas & Hausen, *PNAS*, 2019 ; vérification du 6 août 2026).
+C'est l'une des transformations sociales les mieux mesurées des trente dernières années. L'enquête longitudinale américaine *How Couples Meet and Stay Together*, menée par Michael Rosenfeld et Reuben Thomas (Stanford), montre un renversement net : les canaux traditionnels — amis communs, famille, voisinage, collègues, lieu de culte — ont décliné de façon continue, pendant que la rencontre en ligne passait de marginale à dominante. [Dans leurs données états-uniennes, Internet est devenu le premier mode de rencontre des couples hétérosexuels, avec une bascule plus précoce encore chez les couples de même sexe](https://www.pnas.org/doi/10.1073/pnas.1908630116) (Rosenfeld, Thomas & Hausen, *PNAS*, 2019 ; vérification du 6 août 2026).
 
 Deux précautions de lecture, importantes.
 
@@ -34,7 +34,7 @@ En France, les travaux de l'Ined et de l'Insee documentent cette homogamie de fa
 
 Ce qui est intéressant n'est pas le constat, mais **son mécanisme**. L'homogamie ne résulte pas principalement d'un choix conscient de sélectionner un semblable. Elle résulte du fait que les lieux où l'on passe sa vie — études, travail, quartier, loisirs — sont déjà socialement triés. Vous ne rejetez pas les personnes différentes : vous ne les croisez pas.
 
-C'est ce qui rend l'analyse actionnable. Un tri qui se produit **en amont**, par la structure du bassin, se corrige en changeant de bassin. Un tri qui se produirait dans les préférences profondes serait bien plus difficile à déplacer. Matthijs Kalmijn a montré, à travers plusieurs pays, que l'appariement par diplôme, origine sociale et proximité géographique reste la règle dominante de la formation des couples (source : Kalmijn, « Intermarriage and Homogamy: Causes, Patterns, Trends », *Annual Review of Sociology*, 1998 ; vérification du 7 août 2026).
+C'est ce qui rend l'analyse actionnable. Un tri qui se produit **en amont**, par la structure du bassin, se corrige en changeant de bassin. Un tri qui se produirait dans les préférences profondes serait bien plus difficile à déplacer. [Matthijs Kalmijn a montré, à travers plusieurs pays, que l'appariement par diplôme, origine sociale et proximité géographique reste la règle dominante de la formation des couples](https://www.annualreviews.org/content/journals/10.1146/annurev.soc.24.1.395) (Kalmijn, « Intermarriage and Homogamy: Causes, Patterns, Trends », *Annual Review of Sociology*, 1998 ; vérification du 7 août 2026).
 
 ### 4.4 Ce que change réellement le fait de sortir de son bassin
 
@@ -42,7 +42,7 @@ Il ne s'agit pas de prôner la différence pour elle-même. L'homogamie a des ef
 
 L'enjeu est ailleurs : beaucoup de gens **croient** choisir largement alors qu'ils choisissent dans un couloir très étroit, et attribuent ensuite à la rareté des bonnes personnes ce qui relève de l'étroitesse de leur exposition.
 
-Le test est simple. Sur les douze derniers mois, listez les contextes où vous avez rencontré quelqu'un de nouveau — pas un partenaire potentiel, juste quelqu'un de nouveau. Si la liste tient en deux lignes et qu'elles s'appellent « travail » et « applications », le problème n'est pas le marché. L'effet de simple exposition, documenté par Robert Zajonc, montre que la familiarité répétée augmente l'appréciation d'une personne ou d'un stimulus (source : Zajonc, « Attitudinal effects of mere exposure », *Journal of Personality and Social Psychology*, 1968 ; vérification du 7 août 2026).
+Le test est simple. Sur les douze derniers mois, listez les contextes où vous avez rencontré quelqu'un de nouveau — pas un partenaire potentiel, juste quelqu'un de nouveau. Si la liste tient en deux lignes et qu'elles s'appellent « travail » et « applications », le problème n'est pas le marché. [L'effet de simple exposition, documenté par Robert Zajonc, montre que la familiarité répétée augmente l'appréciation d'une personne ou d'un stimulus](https://www.psy.lmu.de/allg2/download/audriemmo/ws1011/mere_exposure_effect.pdf) (Zajonc, « Attitudinal effects of mere exposure », *Journal of Personality and Social Psychology*, 1968 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

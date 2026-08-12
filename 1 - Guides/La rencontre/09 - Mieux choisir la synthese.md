@@ -16,7 +16,7 @@ Pas trouver la bonne personne — cette formulation suppose qu'elle existe, uniq
 
 Mieux choisir signifie donc trois choses, et trois seulement.
 
-**Élargir le bassin**, parce qu'on ne choisit que parmi ce qu'on croise (chapitre 4). **Ralentir la décision**, parce que le tri automatique est rapide et peu fiable (chapitres 1 et 3). **Observer les bons signaux**, parce que ceux qui prédisent la suite ne sont pas ceux qui attirent l'attention (chapitres 2, 6 et 7). L'appariement entre personnes compatibles au sein d'un bassin donné, plutôt que la recherche d'une personne unique prédestinée, est cohérent avec les données de sociologie du couple (source : Kalmijn, « Intermarriage and Homogamy: Causes, Patterns, Trends », *Annual Review of Sociology*, 1998 ; vérification du 7 août 2026).
+**Élargir le bassin**, parce qu'on ne choisit que parmi ce qu'on croise (chapitre 4). **Ralentir la décision**, parce que le tri automatique est rapide et peu fiable (chapitres 1 et 3). **Observer les bons signaux**, parce que ceux qui prédisent la suite ne sont pas ceux qui attirent l'attention (chapitres 2, 6 et 7). [L'appariement entre personnes compatibles au sein d'un bassin donné, plutôt que la recherche d'une personne unique prédestinée, est cohérent avec les données de sociologie du couple](https://www.annualreviews.org/content/journals/10.1146/annurev.soc.24.1.395) (Kalmijn, « Intermarriage and Homogamy: Causes, Patterns, Trends », *Annual Review of Sociology*, 1998 ; vérification du 7 août 2026).
 
 ### 9.2 Ce qui prédit réellement la suite
 
@@ -32,7 +32,7 @@ Si vous ne deviez retenir qu'une chose de ce guide, ce serait ce classement. Il 
 
 **5. La façon de traiter les tiers**, en particulier ceux dont la personne n'a rien à attendre.
 
-Ce qui prédit **mal**, malgré la place que ça occupe : l'intensité du début, les goûts communs, la ressemblance des personnalités, et les critères déclarés — dont on sait qu'ils prédisent peu les attirances réelles (Eastwick & Finkel, 2008). La façon dont un désaccord est traité est l'un des meilleurs prédicteurs observés de la stabilité d'une relation (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
+Ce qui prédit **mal**, malgré la place que ça occupe : l'intensité du début, les goûts communs, la ressemblance des personnalités, et les critères déclarés — dont on sait qu'ils prédisent peu les attirances réelles (Eastwick & Finkel, 2008). [La façon dont un désaccord est traité est l'un des meilleurs prédicteurs observés de la stabilité d'une relation](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 9.3 Le calendrier : quoi observer, et quand
 
@@ -42,7 +42,7 @@ Ce qui prédit **mal**, malgré la place que ça occupe : l'intensité du début
 
 **Mois 2 à 4.** Le style d'attachement devient lisible (chapitre 2), et l'écart éventuel entre les mots et les actes est devenu mesurable. C'est aussi le moment où le système dopaminergique redescend : ne confondez pas cette redescente normale avec un signe d'échec.
 
-**Mois 4 à 6.** La question devient différente : non plus « est-ce que cette personne me plaît » mais **« est-ce que j'aime qui je suis quand je suis avec elle »**. C'est probablement la meilleure question de tout ce guide, parce qu'elle porte sur la seule chose que vous puissiez observer directement. Le calendrier proposé s'appuie sur la trajectoire connue du système dopaminergique de l'attirance romantique, décrite comme transitoire par nature (source : Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
+**Mois 4 à 6.** La question devient différente : non plus « est-ce que cette personne me plaît » mais **« est-ce que j'aime qui je suis quand je suis avec elle »**. C'est probablement la meilleure question de tout ce guide, parce qu'elle porte sur la seule chose que vous puissiez observer directement. [Le calendrier proposé s'appuie sur la trajectoire connue du système dopaminergique de l'attirance romantique, décrite comme transitoire par nature](https://pubmed.ncbi.nlm.nih.gov/16255001/) (Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
 
 ### 9.4 Les six questions à se poser à soi-même
 
@@ -53,7 +53,7 @@ Aucune ne porte sur l'autre. Toutes portent sur vous, parce que c'est là que l'
 3. **Est-ce que je peux dire quelque chose qui va déplaire** sans calculer la formulation pendant deux jours ?
 4. **Si je rencontrais cette personne aujourd'hui**, en sachant ce que je sais, est-ce que je m'engagerais ?
 5. **Qu'est-ce que je sais d'elle en dehors de ce qu'elle me fait ressentir** ? La liste est-elle courte ?
-6. **Est-ce que je suis en train de choisir, ou d'être choisi** et de m'en accommoder ? Ces questions reprennent les dimensions centrales de la théorie de l'attachement adulte : sécurité, disponibilité, régulation mutuelle (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+6. **Est-ce que je suis en train de choisir, ou d'être choisi** et de m'en accommoder ? [Ces questions reprennent les dimensions centrales de la théorie de l'attachement adulte : sécurité, disponibilité, régulation mutuelle](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 9.5 Sur le fait de ne pas choisir
 
@@ -61,7 +61,7 @@ Une dernière chose, souvent absente de ce type de guide.
 
 Rester seul est un choix légitime, pas un échec par défaut. Les données sur la santé et le bien-être ne montrent pas que le couple protège en soi : c'est la **qualité** du lien qui protège, et un couple insatisfaisant est associé à de moins bons indicateurs qu'une vie célibataire avec un réseau social riche.
 
-La pression sociale à être en couple pousse à rester dans des relations médiocres et à en commencer de mauvaises. La reconnaître pour ce qu'elle est — une pression, pas une vérité — fait partie de « mieux choisir ». Bella DePaulo et Wendy Morris ont montré que le bien-être des personnes célibataires est largement sous-estimé dans la recherche comme dans la culture, au profit d'une survalorisation implicite du couple (source : DePaulo & Morris, « Singles in society and in science », *Psychological Inquiry*, 2005 ; vérification du 7 août 2026).
+La pression sociale à être en couple pousse à rester dans des relations médiocres et à en commencer de mauvaises. La reconnaître pour ce qu'elle est — une pression, pas une vérité — fait partie de « mieux choisir ». [Bella DePaulo et Wendy Morris ont montré que le bien-être des personnes célibataires est largement sous-estimé dans la recherche comme dans la culture, au profit d'une survalorisation implicite du couple](https://www.tandfonline.com/doi/abs/10.1080/1047840X.2005.9682918) (DePaulo & Morris, « Singles in society and in science », *Psychological Inquiry*, 2005 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

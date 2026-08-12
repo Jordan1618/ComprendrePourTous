@@ -33,7 +33,7 @@ Cette page regroupe l'ensemble des sources citées dans le guide, avec ce qu'ell
 | Ce que ça appuie | Référence | Vérifié le |
 |---|---|---|
 | Harcèlement au sein du couple, y compris sans violence physique (7.2) | Code pénal, article 222-33-2-1 | 6 août 2026 |
-| Inscription explicite du non-consentement dans la définition du viol (8.4) | Loi du 28 mars 2025 | 6 août 2026 |
+| Inscription explicite du non-consentement dans la définition du viol (8.4) | Loi n° 2025-1057 du 6 novembre 2025 | 7 août 2026 |
 | Diffusion d'images intimes sans accord (8.4) | Code pénal, article 226-2-1 | 6 août 2026 |
 
 ## Numéros et dispositifs cités
@@ -64,7 +64,7 @@ Signalées ici plutôt qu'omises, conformément à la méthode du projet.
 | Synthèse critique de la rencontre en ligne (1.6, 5.3) | Finkel, E. et coll., *Online Dating: A Critical Analysis From the Perspective of Psychological Science*, Psychological Science in the Public Interest, 2012 | 7 août 2026 |
 | Théorie fondatrice de l'attachement (2.1) | Bowlby, J., *Attachment and Loss, vol. 1*, Basic Books, 1969 | 7 août 2026 |
 | Classification des styles d'attachement par la situation étrange (2.3) | Ainsworth, M. et coll., *Patterns of Attachment*, Erlbaum, 1978 | 7 août 2026 |
-| Stabilité et changement de l'attachement à l'âge adulte (2.6) | Fraley, R. C., *Attachment stability from infancy to adulthood*, Review of General Psychology, 2002 | 7 août 2026 |
+| Stabilité et changement de l'attachement à l'âge adulte (2.6) | Fraley, R. C., *Attachment stability from infancy to adulthood*, Personality and Social Psychology Review, 2002 | 7 août 2026 |
 | Heuristiques et biais de jugement (3.1) | Tversky, A. & Kahneman, D., *Judgment under uncertainty: heuristics and biases*, Science, 1974 | 7 août 2026 |
 | Biais de confirmation, revue de synthèse (3.3) | Nickerson, R., *Confirmation bias: a ubiquitous phenomenon in many guises*, Review of General Psychology, 1998 | 7 août 2026 |
 | Effet des coûts irrécupérables (3.5) | Arkes, H. & Blumer, C., *The psychology of sunk cost*, Organizational Behavior and Human Decision Processes, 1985 | 7 août 2026 |
@@ -79,7 +79,7 @@ Signalées ici plutôt qu'omises, conformément à la méthode du projet.
 | Distinction violence situationnelle / contrôle coercitif (7.3, 7.5) | Johnson, M. P., *Conflict and control: gender symmetry and asymmetry in domestic violence*, Violence Against Women, 2006 | 7 août 2026 |
 | Statistiques annuelles des violences en France (7.6) | SSMSI, *Insécurité et délinquance*, rapport annuel | 7 août 2026 |
 | Arnaques sentimentales et usurpation d'identité en ligne (8.2, 8.5) | Rege, A., *What's Love Got to Do with It? Exploring Online Dating Scams and Identity Fraud*, International Journal of Cyber Criminology, 2009 | 7 août 2026 |
-| Soumission chimique, revue de médecine légale (8.3) | Hall, J. & Moore, C., *Drug facilitated sexual assault — a review*, Journal of Clinical Forensic Medicine, 2008 | 7 août 2026 |
+| Soumission chimique, revue de médecine légale (8.3) | Hall, J. & Moore, C., *Drug facilitated sexual assault — a review*, Journal of Forensic and Legal Medicine, 2008 | 7 août 2026 |
 | Blâme de la victime dans les fraudes sentimentales (8.5) | Cross, C., *No laughing matter: blaming the victim of online fraud*, International Review of Victimology, 2015 | 7 août 2026 |
 | Bien-être des personnes célibataires, sous-estimé dans la recherche (9.5) | DePaulo, B. & Morris, W., *Singles in society and in science*, Psychological Inquiry, 2005 | 7 août 2026 |
 

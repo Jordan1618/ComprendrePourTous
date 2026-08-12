@@ -16,11 +16,11 @@ Une conversation qui crée du lien fonctionne comme un escalier de dévoilement.
 
 Deux façons de tomber. Monter quatre marches d'un coup : raconter son divorce ou sa dépression au bout de dix minutes met l'autre en position de témoin, pas de partenaire d'échange. Ne jamais monter : rester sur les rails du travail, de la météo et des séries, ce qui produit une conversation agréable dont personne ne ressort avec le sentiment d'avoir rencontré quelqu'un.
 
-Ce qui crée du lien, c'est **la réciprocité progressive**, pas l'intensité de ce qui est dit. Cette progression correspond à la théorie de la pénétration sociale d'Irwin Altman et Dalmas Taylor, selon laquelle l'intimité se construit par un dévoilement de soi progressif et réciproque (source : Altman & Taylor, *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart and Winston, 1973 ; vérification du 7 août 2026).
+Ce qui crée du lien, c'est **la réciprocité progressive**, pas l'intensité de ce qui est dit. [Cette progression correspond à la théorie de la pénétration sociale d'Irwin Altman et Dalmas Taylor, selon laquelle l'intimité se construit par un dévoilement de soi progressif et réciproque](https://archive.org/details/socialpenetratio00altm) (Altman & Taylor, *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart and Winston, 1973 ; vérification du 7 août 2026).
 
 ### 6.2 Le résultat le plus solide sur la question
 
-C'est l'un des rares protocoles expérimentaux à avoir produit un effet net sur la proximité entre inconnus. Arthur Aron et ses collègues ont fait échanger des paires d'inconnus pendant environ trois quarts d'heure autour d'une série de questions **progressivement plus personnelles**, en comparant à des paires ayant discuté de sujets superficiels. Le groupe à dévoilement croissant rapportait un sentiment de proximité nettement supérieur (source : Aron et coll., *Personality and Social Psychology Bulletin*, 1997 ; vérification du 6 août 2026).
+C'est l'un des rares protocoles expérimentaux à avoir produit un effet net sur la proximité entre inconnus. Arthur Aron et ses collègues ont fait échanger des paires d'inconnus pendant environ trois quarts d'heure autour d'une série de questions **progressivement plus personnelles**, en comparant à des paires ayant discuté de sujets superficiels. [Le groupe à dévoilement croissant rapportait un sentiment de proximité nettement supérieur](https://journals.sagepub.com/doi/10.1177/0146167297234003) (Aron et coll., *Personality and Social Psychology Bulletin*, 1997 ; vérification du 6 août 2026).
 
 Ce qu'il faut en retenir, et qui est souvent mal rapporté : **ce n'est pas la liste de questions qui est magique**. Ce sont deux ingrédients — la progression, et la réciprocité. Les mêmes questions posées unilatéralement, comme un entretien, ne produisent pas cet effet.
 
@@ -36,7 +36,7 @@ Cinq reformulations rendent presque n'importe quelle question exploitable.
 - **Le concret.** Au lieu de « tu aimes ton travail ? » : « c'était quoi, la dernière fois que tu as fini une journée content ? »
 - **Le chiffre.** Au lieu de « tu es proche de ta famille ? » : « sur dix, à quel point tu es proche de ta famille ? » — le chiffre lance ensuite le récit.
 - **Le différentiel.** Au lieu de « tu es comment en couple ? » : « qu'est-ce qui a changé chez toi entre ta première relation et la dernière ? »
-- **Le quand plutôt que le pourquoi.** Au lieu de « pourquoi vous vous êtes séparés ? » : « ça s'est passé sur combien de temps ? » — la chronologie se raconte, la justification se défend. Une méta-analyse sur le dévoilement de soi confirme que la réciprocité progressive augmente l'appréciation mutuelle davantage que l'intensité de ce qui est révélé (source : Collins & Miller, « Self-disclosure and liking: a meta-analytic review », *Psychological Bulletin*, 1994 ; vérification du 7 août 2026).
+- **Le quand plutôt que le pourquoi.** Au lieu de « pourquoi vous vous êtes séparés ? » : « ça s'est passé sur combien de temps ? » — la chronologie se raconte, la justification se défend. [Une méta-analyse sur le dévoilement de soi confirme que la réciprocité progressive augmente l'appréciation mutuelle davantage que l'intensité de ce qui est révélé](https://pubmed.ncbi.nlm.nih.gov/7809308/) (Collins & Miller, « Self-disclosure and liking: a meta-analytic review », *Psychological Bulletin*, 1994 ; vérification du 7 août 2026).
 
 ### 6.4 Écouter est une action visible, pas une attitude
 
@@ -46,7 +46,7 @@ Cinq reformulations rendent presque n'importe quelle question exploitable.
 
 **Poser la deuxième question.** La plupart des conversations changent de sujet après une réponse. Rester une question de plus sur le même sujet est ce qui distingue une conversation d'un échange d'informations.
 
-**Se souvenir et revenir.** Mentionner à la rencontre suivante quelque chose de mineur dit la fois d'avant produit un effet considérable, parce que c'est une preuve d'attention non simulable. La réactivité perçue — le fait de se sentir compris, validé et pris en compte — est un facteur central de la construction de l'intimité dans les échanges (source : Reis & Shaver, « Intimacy as an interpersonal process », dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 7 août 2026).
+**Se souvenir et revenir.** Mentionner à la rencontre suivante quelque chose de mineur dit la fois d'avant produit un effet considérable, parce que c'est une preuve d'attention non simulable. [La réactivité perçue — le fait de se sentir compris, validé et pris en compte — est un facteur central de la construction de l'intimité dans les échanges](https://www.researchgate.net/publication/347687013_Intimacy_as_an_interpersonal_process) (Reis & Shaver, « Intimacy as an interpersonal process », dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 7 août 2026).
 
 ### 6.5 Les signaux non verbaux, sans surinterprétation
 
@@ -54,7 +54,7 @@ Un avertissement d'abord, parce que ce domaine est saturé de contenus douteux q
 
 Ce qui est raisonnablement documenté : l'orientation du corps et des pieds vers l'interlocuteur accompagne l'engagement ; la synchronisation posturale spontanée accompagne l'affinité et ne se commande pas ; le sourire mobilisant les muscles autour des yeux (sourire de Duchenne) se distingue du sourire de politesse ; la dilatation pupillaire accompagne l'intérêt, mais dépend surtout de la lumière — ce qui la rend inexploitable en pratique.
 
-L'usage correct de ces informations n'est pas de décoder l'autre. C'est de **remarquer un changement et de le vérifier avec des mots** : « je te sens moins à l'aise depuis tout à l'heure, je me trompe ? ». Une vérification vaut mieux qu'une déduction. Paul Ekman a montré que le sourire authentique, mobilisant les muscles autour des yeux, se distingue mesurablement du sourire de politesse (source : Ekman, Davidson & Friesen, « The Duchenne smile: emotional expression and brain physiology II », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
+L'usage correct de ces informations n'est pas de décoder l'autre. C'est de **remarquer un changement et de le vérifier avec des mots** : « je te sens moins à l'aise depuis tout à l'heure, je me trompe ? ». Une vérification vaut mieux qu'une déduction. [Paul Ekman a montré que le sourire authentique, mobilisant les muscles autour des yeux, se distingue mesurablement du sourire de politesse](https://pubmed.ncbi.nlm.nih.gov/2319446/) (Ekman, Davidson & Friesen, « The Duchenne smile: emotional expression and brain physiology II », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
