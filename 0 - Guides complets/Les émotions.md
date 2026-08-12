@@ -26,7 +26,7 @@ Deux partis pris le distinguent des contenus habituels sur le sujet.
 
 **Il place le corps avant la psyché.** Le chapitre 7 liste ce qu'il faut écarter médicalement avant de conclure au psychologique — une thyroïde, une carence en fer ou une apnée du sommeil imitent très bien un tableau dépressif, et se dépistent en un bilan.
 
-**Rien ici n'est un avis individualisé.** C'est dit une fois, pas répété à chaque page. Des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit et disponible en permanence, y compris pour un proche inquiet.
+**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision. Des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit et disponible en permanence, y compris pour un proche inquiet.
 
 ## Sommaire
 

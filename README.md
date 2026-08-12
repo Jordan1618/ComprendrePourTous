@@ -84,11 +84,11 @@ Trois entrées possibles selon ce que vous cherchez :
 
 ## Comment c'est écrit
 
-Ce projet est écrit et maintenu par une seule personne, Jordan1618, c'est-à-dire moi. Mais je ne suis ni médecin, ni psychologue, ni sexologue, et je préfère le dire tout de suite plutôt que de vous le laisser deviner.
+Ce projet est le travail personnel d'un étudiant en informatique, Jordan1618, c'est-à-dire moi. Je ne suis ni médecin, ni psychologue, ni sexologue, et je préfère le dire tout de suite plutôt que de vous le laisser deviner. Ce que j'y engage, ce sont mes compétences de recherche, de synthèse et de vérification des sources — jamais mon avis personnel. L'objectif n'est pas de convaincre qui que ce soit d'une vision, la mienne ou une autre : c'est de mettre à disposition, pour tous, des éléments fondés sur la science récente, avec la même rigueur partout.
 
 Ma méthode est la suivante : rédaction assistée par intelligence artificielle, avec recherche de sources à chaque affirmation chiffrée, vérification datée, et relecture. Quand une donnée est incertaine ou débattue, je donne une fourchette et je le dis, plutôt que d'inventer une précision qui n'existe pas. Quand une source me manque, je signale l'absence au lieu de la passer sous silence.
 
-Ce que ça vaut : une synthèse honnête, sourcée et lisible, qui va nettement plus loin qu'une fiche grand public. Ce que ça ne vaut pas : l'avis d'un professionnel qui a examiné une personne réelle.
+Ce que ça vaut : une synthèse honnête, sourcée et lisible, qui va nettement plus loin qu'une fiche grand public — des éléments à valeur générale, pour comprendre et s'orienter, jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre étude. Ce que ça ne vaut pas : l'avis d'un professionnel qui a examiné une personne réelle. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable.
 
 Si vous trouvez une erreur, signalez-la moi : je la corrige. C'est le meilleur service à rendre à ce projet, et vous pouvez me joindre sur [GitHub](https://github.com/Jordan1618/ComprendrePourTous/issues) ou sur [LinkedIn](https://www.linkedin.com/in/jordan-p-77a697228).
 

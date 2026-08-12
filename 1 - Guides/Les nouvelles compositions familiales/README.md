@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Ce guide s'adresse à qui vit ou traverse une recomposition familiale — comme parent, comme nouveau ou nouvelle partenaire, comme enfant. Il part d'un constat simple : la famille recomposée n'est pas une anomalie à gérer dans l'urgence, c'est une configuration familiale stable et répandue, avec des dynamiques connues et des repères qui existent déjà.
 
-**Rien ici n'est un avis individualisé.** C'est dit une fois, pas répété à chaque page.
+**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
 
 ## Chapitres
 

@@ -22,6 +22,9 @@ Ce guide couvre le fonctionnement du cycle menstruel, la contraception hormonale
 
 Sa particularité est de ne jamais s'arrêter au mécanisme biologique. Chaque pathologie ou situation importante est suivie d'une partie **Dans le couple**, qui explique ce que ça change concrètement à deux, et de **Bons réflexes**, qui donne des actions ou des formulations précises plutôt que des conseils généraux. Savoir ce qu'est l'endométriose ne sert pas à grand-chose si on ne sait pas quoi faire quand quelqu'un autour de soi en souffre.
 
+
+**Un repère, pas une vérité à suivre.** Ce guide donne des éléments à valeur générale : de quoi comprendre, s'orienter, voir plus clair — jamais des vérités universelles à appliquer telles quelles. Chaque situation est particulière et mérite sa propre lecture, pas un mode d'emploi. Pour tout ce qui dépasse la compréhension générale, en particulier les situations complexes, le recours à un professionnel (médecin, psychologue, psychiatre, sexologue, thérapeute de couple, selon le sujet) reste irremplaçable. Ce projet est le travail personnel d'un étudiant en informatique : il engage mes compétences de recherche et de synthèse, jamais mon avis personnel — l'objectif est d'apporter, à qui en a besoin, des éléments fondés sur la science récente, pas de convaincre de ma propre vision.
+
 ## Sommaire
 
 - **1.** Le décor : ce que disent les chiffres
