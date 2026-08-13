@@ -49,8 +49,4 @@ Total : 9 628 mots, 11 chapitres.
 - **Vous vous demandez si ça relève d'un soin** : chapitres 8 et 9.
 - **Vous butez sur ce qui « ne se dit pas »** : chapitre 10.
 
-## Autour de ce guide
-
-[Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>) traitent chacun d'un versant du corps et des émotions. [Pour Nous](<../Pour Nous/README.md>) porte sur la vie à deux. [Questions et communication](<../Questions et communication/README.md>) donne la mécanique des formulations employées ici : transformer une question ouverte en question répondable.
-
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

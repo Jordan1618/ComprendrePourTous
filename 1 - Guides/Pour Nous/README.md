@@ -52,8 +52,4 @@ Total : 10 498 mots, 12 chapitres.
 
 Si un comportement relève du contrôle coercitif ou de la violence, son origine ne change rien à la priorité, qui devient la sécurité. Voir le chapitre 7 de [La rencontre](<../La rencontre/README.md>) et la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>). **3919** pour les violences ; **17** ou **114 par SMS** en danger immédiat ; **3114** pour la prévention du suicide.
 
-## Autour de ce guide
-
-[La rencontre](<../La rencontre/README.md>) traite du choix initial, [L'amour](<../L amour/README.md>) de ce qu'est l'amour et de ce qu'il devient. [Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>) traitent chacun d'un versant du corps et des émotions.
-
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

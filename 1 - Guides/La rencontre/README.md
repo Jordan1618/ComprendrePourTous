@@ -46,8 +46,4 @@ Total : 10 812 mots, 10 chapitres.
 - **Vous allez rencontrer quelqu'un vu en ligne** : chapitre 8.
 - **Vous voulez la version courte** : chapitre 9.
 
-## La suite
-
-Ce guide s'arrête là où la relation commence. Deux autres prennent le relais : [L'amour](<../L amour/README.md>) sur ce qu'est l'amour et ce qu'il devient quand l'intensité du début se transforme, et [Pour Nous](<../Pour Nous/README.md>) sur les projets communs, y compris avec des traumas ou des appréhensions.
-
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

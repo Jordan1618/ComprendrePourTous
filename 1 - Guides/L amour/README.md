@@ -47,8 +47,4 @@ Total : 9 770 mots, 10 chapitres.
 - **Le désir a baissé** : chapitre 8.
 - **Vous vivez à deux sans avoir réglé les questions de statut, d'argent ou de logement** : chapitre 9.
 
-## Autour de ce guide
-
-[La rencontre](<../La rencontre/README.md>) traite de ce qui précède : comment on choisit, et comment mieux choisir. [Pour Nous](<../Pour Nous/README.md>) traite de ce qui suit : bâtir des projets communs, y compris avec des traumas ou des appréhensions.
-
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

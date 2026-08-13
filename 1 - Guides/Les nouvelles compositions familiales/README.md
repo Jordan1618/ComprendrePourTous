@@ -27,8 +27,4 @@ Ce guide s'adresse à qui vit ou traverse une recomposition familiale — comme 
 
 Total : 4 979 mots, 4 chapitres.
 
-## Autour de ce guide
-
-[Pour Nous](<../Pour Nous/README.md>) traite de la vie de couple au sens large — décisions communes, charge du quotidien, épreuves. [Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>) traitent chacun d'un versant du corps et des émotions, avec un chapitre dédié aux parents célibataires.
-
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).
