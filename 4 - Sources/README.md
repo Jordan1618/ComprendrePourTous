@@ -22,7 +22,7 @@ Toutes les références de la collection, **une page par guide**, chacune class�
 | [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | [Sources — IST, dépistage et prévention](<IST, depistage et prevention.md>) | [oui](<../1 - Guides/IST, depistage et prevention/07 - Sources verifiables.md>) |
 | [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | [Sources — Massage professionnel](<Massage professionnel.md>) | [oui](<../1 - Guides/Massage professionnel/13 - Sources verifiables.md>) |
 | [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | [Sources — Questions et communication](<Questions et communication.md>) | [oui](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>) |
-| [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>) | [Sources — Les nouvelles compositions familiales](<Les nouvelles compositions familiales.md>) | [oui](<../1 - Guides/Les nouvelles compositions familiales/04 - Sources verifiables.md>) |
+| [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>) | [Sources — Les nouvelles compositions familiales](<Les nouvelles compositions familiales.md>) | [oui](<../1 - Guides/Les nouvelles compositions familiales/05 - Sources verifiables.md>) |
 
 ## Transversal
 

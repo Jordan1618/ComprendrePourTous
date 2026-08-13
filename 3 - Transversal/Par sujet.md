@@ -183,9 +183,10 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 **Les nouvelles compositions familiales**
 
 - [Les familles recomposées aujourd'hui](<../1 - Guides/Les nouvelles compositions familiales/01 - Les familles recomposees aujourd hui.md>)  `repères`
-- [Trouver sa place dedans](<../1 - Guides/Les nouvelles compositions familiales/02 - Trouver sa place dedans.md>)  `relation`
-- [Les bons principes à avoir](<../1 - Guides/Les nouvelles compositions familiales/03 - Les bons principes a avoir.md>)  `pratique`
-- [Sources vérifiables](<../1 - Guides/Les nouvelles compositions familiales/04 - Sources verifiables.md>)  `repères`
+- [D'autres modèles familiaux, tout aussi réels](<../1 - Guides/Les nouvelles compositions familiales/02 - D autres modeles familiaux tout aussi reels.md>)  `repères`
+- [Trouver sa place dedans](<../1 - Guides/Les nouvelles compositions familiales/03 - Trouver sa place dedans.md>)  `relation`
+- [Les bons principes à avoir](<../1 - Guides/Les nouvelles compositions familiales/04 - Les bons principes a avoir.md>)  `pratique`
+- [Sources vérifiables](<../1 - Guides/Les nouvelles compositions familiales/05 - Sources verifiables.md>)  `repères`
 
 ## Comment cet index est tenu
 

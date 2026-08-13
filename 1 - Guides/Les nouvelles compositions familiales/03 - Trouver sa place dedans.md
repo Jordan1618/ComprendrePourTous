@@ -1,6 +1,6 @@
 ---
 guide: "Les nouvelles compositions familiales"
-chapitre: "2"
+chapitre: "3"
 titre: "Trouver sa place dedans"
 sujet: "commun"
 angle: "relation"

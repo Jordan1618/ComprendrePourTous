@@ -1,6 +1,6 @@
 ---
 guide: "Les nouvelles compositions familiales"
-chapitre: "4"
+chapitre: "5"
 titre: "Sources vérifiables"
 sujet: "commun"
 angle: "repères"

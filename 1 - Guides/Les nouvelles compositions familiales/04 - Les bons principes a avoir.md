@@ -1,6 +1,6 @@
 ---
 guide: "Les nouvelles compositions familiales"
-chapitre: "3"
+chapitre: "4"
 titre: "Les bons principes à avoir"
 sujet: "commun"
 angle: "pratique"

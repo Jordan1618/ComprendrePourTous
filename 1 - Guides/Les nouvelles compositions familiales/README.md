@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Les nouvelles compositions familiales"
 sujet: "commun"
-chapitres: 4
-mots: 4979
+chapitres: 5
+mots: 6788
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -14,17 +14,18 @@ licence: "CC BY 4.0"
 
 **Une configuration familiale répandue, un rôle à trouver, un temps à respecter**
 
-Ce guide s'adresse à qui vit ou traverse une recomposition familiale — comme parent, comme nouveau ou nouvelle partenaire, comme enfant. Il part d'un constat simple : la famille recomposée n'est pas une anomalie à gérer dans l'urgence, c'est une configuration familiale stable et très répandue aujourd'hui, avec des dynamiques connues et des repères qui existent déjà.
+Ce guide s'adresse à qui vit ou traverse une recomposition familiale — comme parent, comme nouveau ou nouvelle partenaire, comme enfant. Il part d'un constat simple : la famille recomposée n'est pas une anomalie à gérer dans l'urgence, c'est une configuration familiale stable et très répandue aujourd'hui, avec des dynamiques connues et des repères qui existent déjà. Elle n'est elle-même qu'un modèle parmi d'autres : familles homoparentales, coparentalité choisie hors couple, familles d'accueil, recompositions successives — le chapitre 2 les nomme toutes, parce qu'aucune n'est plus « nouvelle » ou plus marginale que les autres.
 
 ## Chapitres
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Les familles recomposées aujourd'hui](<01 - Les familles recomposees aujourd hui.md>) | repères | 2 688 |
-| 2 | [Trouver sa place dedans](<02 - Trouver sa place dedans.md>) | relation | 1 364 |
-| 3 | [Les bons principes à avoir](<03 - Les bons principes a avoir.md>) | pratique | 731 |
-| 4 | [Sources vérifiables](<04 - Sources verifiables.md>) | repères | 196 |
+| 1 | [Les familles recomposées aujourd'hui](<01 - Les familles recomposees aujourd hui.md>) | repères | 2 988 |
+| 2 | [D'autres modèles familiaux, tout aussi réels](<02 - D autres modeles familiaux tout aussi reels.md>) | repères | 1 577 |
+| 3 | [Trouver sa place dedans](<03 - Trouver sa place dedans.md>) | relation | 1 318 |
+| 4 | [Les bons principes à avoir](<04 - Les bons principes a avoir.md>) | pratique | 713 |
+| 5 | [Sources vérifiables](<05 - Sources verifiables.md>) | repères | 192 |
 
-Total : 4 979 mots, 4 chapitres.
+Total : 6 788 mots, 5 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).
