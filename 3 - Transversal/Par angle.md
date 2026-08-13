@@ -78,6 +78,8 @@ Dépistage, protection, risque réel contre risque perçu.
 - [Herpès génital : la gestion à vie plutôt que la guérison](<../1 - Guides/IST, depistage et prevention/04 - Herpès génital.md>)  `commun` · IST, dépistage et prévention
 - [Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans](<../1 - Guides/IST, depistage et prevention/05 - Le VIH aujourd'hui.md>)  `commun` · IST, dépistage et prévention
 - [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<../1 - Guides/IST, depistage et prevention/06 - HPV et vaccination.md>)  `commun` · IST, dépistage et prévention
+- [Contraception et prévention des IST : ce qui protège de quoi](<../1 - Guides/IST, depistage et prevention/09 - Contraception et prevention des IST.md>)  `commun` · IST, dépistage et prévention
+- [La recherche en cours : vaccins, autotests, PrEP nouvelle génération](<../1 - Guides/IST, depistage et prevention/10 - La recherche en cours.md>)  `commun` · IST, dépistage et prévention
 - [Risques, contre-indications et signaux d'alerte](<../1 - Guides/Massage professionnel/09 - Risques et contre-indications.md>)  `commun` · Massage professionnel
 - [Cyberintimidation, modération et cadre légal](<../1 - Guides/Reseaux sociaux/08 - Cyberintimidation moderation et cadre legal.md>)  `commun` · Réseaux sociaux
 
@@ -124,6 +126,7 @@ Ce que ça change concrètement quand on est deux.
 - [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/07 - Les langages de l amour.md>)  `commun` · L'amour
 - [Le désir dans la durée](<../1 - Guides/L amour/08 - Le desir dans la duree.md>)  `commun` · L'amour
 - [Les tabous à démonter](<../1 - Guides/Les emotions/10 - Les tabous a demonter.md>)  `commun` · Les émotions
+- [En parler en couple : dépistage, nouveau partenaire, disclosure](<../1 - Guides/IST, depistage et prevention/08 - En parler en couple.md>)  `commun` · IST, dépistage et prévention
 - [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `commun` · Massage professionnel
 - [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `commun` · Questions et communication
 - [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `commun` · Questions et communication
@@ -146,6 +149,7 @@ Quoi faire, concrètement, avec des formulations et des gestes précis.
 - [Réguler : ce qui marche et ce qui ne marche pas](<../1 - Guides/Les emotions/05 - Reguler ce qui marche.md>)  `commun` · Les émotions
 - [Les bonnes pratiques au quotidien](<../1 - Guides/Les emotions/06 - Les bonnes pratiques au quotidien.md>)  `commun` · Les émotions
 - [Envisager un parcours de soin, seul ou à deux](<../1 - Guides/Les emotions/09 - Envisager un parcours de soin.md>)  `commun` · Les émotions
+- [Bonnes pratiques et réduction des risques](<../1 - Guides/IST, depistage et prevention/11 - Bonnes pratiques et reduction des risques.md>)  `commun` · IST, dépistage et prévention
 - [Le cadre général : ce qui précède la technique](<../1 - Guides/Massage professionnel/01 - Le cadre général.md>)  `commun` · Massage professionnel
 - [Les grandes familles de massage](<../1 - Guides/Massage professionnel/02 - Les grandes familles de massage.md>)  `commun` · Massage professionnel
 - [Les gestes techniques fondamentaux](<../1 - Guides/Massage professionnel/03 - Les gestes techniques fondamentaux.md>)  `commun` · Massage professionnel
@@ -174,6 +178,7 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Les applications : la logique derrière l'écran](<../1 - Guides/La rencontre/05 - Les applications de rencontre.md>)  `commun` · La rencontre
 - [Les types d'amour : ce que les Grecs avaient déjà démêlé](<../1 - Guides/L amour/03 - Les types d amour.md>)  `commun` · L'amour
 - [L'amour romantique, une invention récente](<../1 - Guides/L amour/06 - L amour romantique une invention recente.md>)  `commun` · L'amour
+- [IST ou MST ? Une histoire de mots](<../1 - Guides/IST, depistage et prevention/07 - IST ou MST.md>)  `commun` · IST, dépistage et prévention
 - [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `commun` · Massage professionnel
 - [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `commun` · Massage professionnel
 - [Les six familles de questions](<../1 - Guides/Questions et communication/03 - Les six familles de questions.md>)  `commun` · Questions et communication

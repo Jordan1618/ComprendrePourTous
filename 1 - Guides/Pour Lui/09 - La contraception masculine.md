@@ -79,7 +79,7 @@ Et la phrase qui déplace vraiment quelque chose : **« si on ne veut pas d'enfa
 
 - Renseignez-vous avant d'en parler, pour ne pas faire porter à l'autre l'explication de vos propres options.
 - Si votre projet familial est terminé, considérez sérieusement la vasectomie : c'est efficace, remboursé, sans effet sur la sexualité, et cela déleste durablement.
-- Le préservatif reste le seul moyen de protéger des IST. Voir [IST, dépistage et prévention](<../IST, depistage et prevention/README.md>).
+- Le préservatif reste le seul moyen de protéger des IST parmi toutes les méthodes citées ici. Voir [Contraception et prévention des IST : ce qui protège de quoi](<../IST, depistage et prevention/09 - Contraception et prevention des IST.md>).
 - Vérifiez la taille du préservatif. C'est banal à dire et c'est le premier facteur d'échec et d'abandon.
 - Ne considérez aucune méthode masculine comme acquise sans contrôle : la vasectomie comme la thermique se vérifient par spermogramme.
 

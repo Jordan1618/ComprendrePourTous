@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sources"
-mis_a_jour_le: 2026-08-06
+mis_a_jour_le: 2026-08-13
 licence: "CC BY 4.0"
 ---
 
@@ -19,7 +19,7 @@ Quand une donnée est débattue ou incertaine, le texte donne une fourchette et 
 |---|---|---|
 | [Pour Elle](<../1 - Guides/Pour Elle/README.md>) | 21 juillet 2026 | 27 juillet 2026 |
 | [Pour Lui](<../1 - Guides/Pour Lui/README.md>) | juillet 2026 | 31 juillet 2026 |
-| [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | 21 juillet 2026 | 27 juillet 2026 |
+| [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | 21 juillet 2026 | 13 août 2026 |
 | [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | 21 juillet 2026 | 21 juillet 2026 |
 | [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | 4 août 2026 | 4 août 2026 |
 | [La rencontre](<../1 - Guides/La rencontre/README.md>) | 6 août 2026 | 6 août 2026 |

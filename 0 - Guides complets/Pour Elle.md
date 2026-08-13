@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 34
-mots: 73593
+mots: 73614
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
@@ -623,7 +623,7 @@ Au-delà du seul risque de cancer, ce chapitre a déjà mentionné plus haut d'a
 
 - **Stérilet au cuivre (DIU)** : zéro hormone, efficace 5 à 10 ans, mais peut augmenter l'abondance des règles.
 - **Stérilet hormonal (lévonorgestrel)** : hormone locale à très faible dose systémique, réduit souvent fortement les règles.
-- **Préservatif** : seule méthode protégeant aussi des IST, un rappel simple mais qu'on oublie vite dans une relation de couple stable où la question ne se pose plus.
+- **Préservatif** : seule méthode protégeant aussi des IST, un rappel simple mais qu'on oublie vite dans une relation de couple stable où la question ne se pose plus. Voir [Contraception et prévention des IST : ce qui protège de quoi](<../1 - Guides/IST, depistage et prevention/09 - Contraception et prevention des IST.md>).
 - **Méthodes dites "naturelles" ou symptothermiques** (température + glaire), fiables **seulement** si suivies rigoureusement et avec une vraie formation, leur taux d'échec en usage courant est nettement supérieur à celui de la pilule ou du stérilet.
 - **Contraception masculine** : encore marginale (slip chauffant thermique, méthodes hormonales en essai clinique), preuve du sous-investissement historique évoqué plus haut, un sujet sur lequel un homme curieux peut légitimement se renseigner et éventuellement s'impliquer.
 

@@ -146,6 +146,11 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Herpès génital : la gestion à vie plutôt que la guérison](<../1 - Guides/IST, depistage et prevention/04 - Herpès génital.md>)  `prévention`
 - [Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans](<../1 - Guides/IST, depistage et prevention/05 - Le VIH aujourd'hui.md>)  `prévention`
 - [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<../1 - Guides/IST, depistage et prevention/06 - HPV et vaccination.md>)  `prévention`
+- [IST ou MST ? Une histoire de mots](<../1 - Guides/IST, depistage et prevention/07 - IST ou MST.md>)  `repères`
+- [En parler en couple : dépistage, nouveau partenaire, disclosure](<../1 - Guides/IST, depistage et prevention/08 - En parler en couple.md>)  `relation`
+- [Contraception et prévention des IST : ce qui protège de quoi](<../1 - Guides/IST, depistage et prevention/09 - Contraception et prevention des IST.md>)  `prévention`
+- [La recherche en cours : vaccins, autotests, PrEP nouvelle génération](<../1 - Guides/IST, depistage et prevention/10 - La recherche en cours.md>)  `prévention`
+- [Bonnes pratiques et réduction des risques](<../1 - Guides/IST, depistage et prevention/11 - Bonnes pratiques et reduction des risques.md>)  `pratique`
 **Massage professionnel**
 
 - [Le cadre général : ce qui précède la technique](<../1 - Guides/Massage professionnel/01 - Le cadre général.md>)  `pratique`
