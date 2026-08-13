@@ -16,7 +16,7 @@ Un détecteur de fumée réglé trop bas sonne pour un toast. Il n'est pas cass�
 
 L'anxiété fonctionne exactement ainsi, et ce chapitre traite les deux versants du problème à la fois : le seuil réglé trop bas, et l'habitude prise, par l'entourage comme par le corps médical, de ne plus écouter l'alarme du tout, même quand elle a raison.
 
-Il est le pendant direct du chapitre 7 de [Pour Lui](<../Pour Lui/07 - Anxiété, stress et corps.md>), avec les mêmes mécanismes de fond, mais des présentations et des biais de repérage qui diffèrent nettement selon le sexe. La prévalence des troubles anxieux, mesurée à grande échelle, est nettement plus élevée chez les femmes que chez les hommes (source : Kessler et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026).
+Il est le pendant direct du chapitre 7 de [Pour Lui](<../Pour Lui/07 - Anxiété, stress et corps.md>), avec les mêmes mécanismes de fond, mais des présentations et des biais de repérage qui diffèrent nettement selon le sexe. [La prévalence des troubles anxieux, mesurée à grande échelle, est nettement plus élevée chez les femmes que chez les hommes](https://doi.org/10.1001/archpsyc.62.6.593) (Kessler et coll., *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026).
 
 ### 6.2 Ce que dit la mesure
 
@@ -24,7 +24,7 @@ Les troubles anxieux sont diagnostiqués nettement plus souvent chez les femmes,
 
 Les explications avancées se cumulent plutôt qu'elles ne s'excluent : exposition plus forte à des facteurs de risque documentés, sensibilité hormonale aux transitions, différences de socialisation dans l'expression de la peur, et une composante de repérage — l'anxiété masculine s'exprimant plus souvent par l'irritabilité, l'alcool ou le repli, elle est moins souvent nommée comme telle.
 
-Ce qui compte pour vous : la fréquence n'est pas la normalité. Un trouble anxieux fréquent reste un trouble, et il fait partie de ceux qui répondent le mieux aux prises en charge — voir plus bas pour ce que ça signifie concrètement en termes de pronostic et de rétablissement. Cet écart de prévalence est retrouvé de façon stable selon les pays et les instruments de mesure (source : McLean et coll., « Gender differences in anxiety disorders », *Journal of Psychiatric Research*, 2011 ; vérification du 7 août 2026).
+Ce qui compte pour vous : la fréquence n'est pas la normalité. Un trouble anxieux fréquent reste un trouble, et il fait partie de ceux qui répondent le mieux aux prises en charge — voir plus bas pour ce que ça signifie concrètement en termes de pronostic et de rétablissement. [Cet écart de prévalence est retrouvé de façon stable selon les pays et les instruments de mesure](https://doi.org/10.1016/j.jpsychires.2011.03.006) (McLean et coll., *Journal of Psychiatric Research*, 2011 ; vérification du 7 août 2026).
 
 ### 6.3 Le corps parle, et il dit vrai
 
@@ -36,7 +36,7 @@ D'où deux erreurs symétriques, et il faut les tenir ensemble.
 
 **Attribuer à l'anxiété ce qui vient du corps.** C'est l'erreur documentée dans le sens qui concerne particulièrement les femmes. Plusieurs travaux décrivent une tendance à renvoyer plus rapidement des symptômes physiques féminins au stress, avec pour conséquences des délais de diagnostic allongés et des douleurs moins traitées. L'[endométriose](<../../2 - Notions/Endométriose.md>) en est l'exemple le plus documenté, avec un délai encore compté en années. Voir le chapitre 8.
 
-Le cas de l'infarctus mérite d'être isolé, parce qu'il peut coûter une vie : chez les femmes, il se présente plus souvent sous une forme atypique — fatigue intense, nausées, douleur dans la mâchoire, le dos ou l'estomac, essoufflement — plutôt que par la douleur thoracique irradiante classique. Ces tableaux sont plus souvent pris pour de l'anxiété. Voir le chapitre 13. Les symptômes physiques d'anxiété sont réels et mesurables, ce qui n'empêche pas leur attribution trop rapide au psychologique chez les patientes (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
+Le cas de l'infarctus mérite d'être isolé, parce qu'il peut coûter une vie : chez les femmes, il se présente plus souvent sous une forme atypique — fatigue intense, nausées, douleur dans la mâchoire, le dos ou l'estomac, essoufflement — plutôt que par la douleur thoracique irradiante classique. Ces tableaux sont plus souvent pris pour de l'anxiété. Voir le chapitre 13. [Les symptômes physiques d'anxiété sont réels et mesurables, ce qui n'empêche pas leur attribution trop rapide au psychologique chez les patientes](https://doi.org/10.1111/j.1748-720X.2001.tb00037.x) (Hoffmann & Tarzian, *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 6.4 Se faire entendre en consultation
 
@@ -50,7 +50,7 @@ Ce n'est pas une question de caractère mais de méthode. Quatre leviers concret
 
 **Faire tracer.** « Pouvez-vous noter dans le dossier que j'ai signalé ce symptôme et qu'il n'a pas été exploré ? » Cette phrase est légitime et change souvent la suite de la consultation.
 
-Un second avis est un droit, pas une défiance, et le demander n'a jamais besoin d'être justifié longuement. Et une consultation où vous repartez sans avoir dit l'essentiel est une consultation à refaire, sans attendre le prochain épisode aigu pour le faire. Demander explicitement qu'une cause organique soit écartée avant de conclure au stress est cohérent avec la littérature sur le biais diagnostique de genre (source : Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
+Un second avis est un droit, pas une défiance, et le demander n'a jamais besoin d'être justifié longuement. Et une consultation où vous repartez sans avoir dit l'essentiel est une consultation à refaire, sans attendre le prochain épisode aigu pour le faire. [Demander explicitement qu'une cause organique soit écartée avant de conclure au stress est cohérent avec la littérature sur le biais diagnostique de genre](https://doi.org/10.1111/j.1748-720X.2001.tb00037.x) (Hoffmann & Tarzian, *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 
 ### 6.5 Ce qui fonctionne sur l'anxiété elle-même
 
@@ -58,7 +58,7 @@ Les prises en charge de première intention sont bien établies, solidement éta
 
 Deux points de vigilance. Les **benzodiazépines** soulagent vite, exposent à une dépendance rapide, et ne sont pas un traitement de fond : leur usage doit rester court et encadré. Et la **vérification** — refaire des recherches, reconsulter, réexaminer — apaise quelques minutes et renforce la boucle : poser une limite explicite est une intervention en soi.
 
-Sur les leviers quotidiens — sommeil, activité physique, alcool, respiration lente, écriture — voir les chapitres 5 et 6 de [Les émotions](<../Les emotions/README.md>). Ils valent ici exactement comme ailleurs, et ils sont sous-utilisés parce qu'ils sont ennuyeux. Les thérapies cognitivo-comportementales sont recommandées en première intention pour les troubles anxieux dans les référentiels de bonne pratique (source : NICE, *Generalised anxiety disorder and panic disorder in adults*, CG113 ; vérification du 7 août 2026).
+Sur les leviers quotidiens — sommeil, activité physique, alcool, respiration lente, écriture — voir les chapitres 5 et 6 de [Les émotions](<../Les emotions/README.md>). Ils valent ici exactement comme ailleurs, et ils sont sous-utilisés parce qu'ils sont ennuyeux. [Les thérapies cognitivo-comportementales sont recommandées en première intention pour les troubles anxieux dans les référentiels de bonne pratique](https://www.nice.org.uk/guidance/cg113) (NICE, *Generalised anxiety disorder and panic disorder in adults*, CG113 ; vérification du 7 août 2026).
 
 ### 6.5 bis Une bonne nouvelle à connaître : l'anxiété est ce qui se soigne le mieux
 
@@ -91,10 +91,10 @@ Le fil qui relie tout ce chapitre tient en une phrase : l'anxiété dit presque 
 
 ## Sources vérifiables
 
-- Kessler, R. et coll., « Lifetime prevalence and age-of-onset distributions of DSM-IV disorders », *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026.
-- McLean, C. et coll., « Gender differences in anxiety disorders », *Journal of Psychiatric Research*, 2011 ; vérification du 7 août 2026.
-- Hoffmann, D. & Tarzian, A., « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026.
-- NICE, *Generalised anxiety disorder and panic disorder in adults*, CG113 ; vérification du 7 août 2026.
+- Kessler, R. et coll., [Lifetime prevalence and age-of-onset distributions of DSM-IV disorders](https://doi.org/10.1001/archpsyc.62.6.593), *Archives of General Psychiatry*, 2005 ; vérification du 7 août 2026.
+- McLean, C. et coll., [Gender differences in anxiety disorders](https://doi.org/10.1016/j.jpsychires.2011.03.006), *Journal of Psychiatric Research*, 2011 ; vérification du 7 août 2026.
+- Hoffmann, D. & Tarzian, A., [The girl who cried pain: a bias against women in the treatment of pain](https://doi.org/10.1111/j.1748-720X.2001.tb00037.x), *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026.
+- NICE, [Generalised anxiety disorder and panic disorder in adults](https://www.nice.org.uk/guidance/cg113), CG113 ; vérification du 7 août 2026.
 - [Efficacy of Cognitive Behavioral Therapy for Anxiety-Related Disorders: A Meta-Analysis of Recent Literature](https://link.springer.com/article/10.1007/s11920-022-01402-8), *Current Psychiatry Reports* ; vérification du 11 août 2026.
 - Bandura, A., repris dans [Self-Efficacy: Bandura's Theory Of Motivation In Psychology](https://www.simplypsychology.org/self-efficacy.html), Simply Psychology ; vérification du 11 août 2026.
 - [Albert Bandura's Self-Efficacy: 4 Sources & Why Your Beliefs Drive Behavior](https://www.psychologynoteshq.com/selfefficacy/) ; vérification du 11 août 2026.

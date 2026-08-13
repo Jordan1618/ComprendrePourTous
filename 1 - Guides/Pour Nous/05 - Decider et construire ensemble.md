@@ -54,7 +54,7 @@ Une appréhension n'est pas un veto, et elle n'est pas non plus un détail à su
 
 C'est contre-intuitif et c'est probablement le conseil le plus rentable de ce chapitre.
 
-Écrire n'est pas un signe de méfiance. C'est un moyen de constater qu'on n'avait pas compris la même chose — ce qui arrive systématiquement, y compris dans les couples les plus soudés. Une décision qu'on croit partagée révèle, à l'écriture, deux versions différentes.
+Écrire n'est pas un signe de méfiance. C'est un moyen de constater qu'on n'avait pas compris la même chose — ce qui arrive très souvent, y compris dans les couples les plus soudés. Une décision qu'on croit partagée révèle, à l'écriture, deux versions différentes.
 
 Le format minimal, en cinq lignes : ce qu'on décide, à partir de quand, qui fait quoi concrètement, ce qui se passe si l'un des deux veut revenir dessus, et quand on refait le point.
 

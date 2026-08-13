@@ -26,7 +26,7 @@ Une question profonde déclenche presque toujours la même séquence, dans cet o
 
 **Le soulagement ou l'exposition.** Selon ce qui sort. Quelqu'un qui dit une chose qu'il n'avait jamais dite ressent soit un allégement, soit le sentiment d'en avoir trop dit. Les deux arrivent, et ce qui se passe dans les minutes suivantes décide laquelle des deux reste. [Le bénéfice émotionnel de la divulgation d'une expérience non exprimée dépend fortement de l'accueil reçu immédiatement après](https://journals.sagepub.com/doi/10.1111/j.1467-9280.1997.tb00403.x) (Pennebaker, *Psychological Science*, 1997 ; vérification du 8 août 2026).
 
-**Bons réflexes.** Ce qui transforme l'exposition en soulagement est toujours la même chose : la réaction de celui qui a posé la question. Un accueil calme, sans commentaire, sans sursaut, sans jugement, sans conseil. Voir le chapitre 8.
+**Bons réflexes.** Ce qui transforme le plus souvent l'exposition en soulagement, c'est la réaction de celui qui a posé la question. Un accueil calme, sans commentaire, sans sursaut, sans jugement, sans conseil. Voir le chapitre 8.
 
 ### 5.2 Chez celui qui pose
 

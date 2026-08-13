@@ -58,7 +58,7 @@ Ces questions sont dangereuses au sens propre : elles peuvent ramener quelque ch
 
 **Première condition.** Tu dois vouloir la réponse, pas une confirmation. Si tu poses la question en espérant du positif, tu vas obtenir du positif, parce que l'autre le sentira, et tu n'auras rien appris.
 
-**Deuxième condition.** Tu dois pouvoir encaisser la réponse sans te défendre. Si tu argumentes après, tu apprends à l'autre que cette question était un piège, et il ne répondra plus jamais honnêtement à aucune.
+**Deuxième condition.** Tu dois pouvoir encaisser la réponse sans te défendre. Si tu argumentes après, tu risques d'apprendre à l'autre que cette question était un piège, et il y a de bonnes chances qu'il ne réponde plus aussi honnêtement aux suivantes.
 
 **Troisième condition.** Tu dois avoir prévu quoi faire du silence qui suit. Voir 5.3.
 

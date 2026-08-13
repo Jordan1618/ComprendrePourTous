@@ -34,7 +34,7 @@ Trois mécanismes qui n'ont rien à voir avec la mauvaise volonté.
 
 **L'incompétence acquise.** Si l'un fait moins bien, l'autre reprend. À force, le premier ne fait plus, et le second devient seul dépositaire du savoir-faire. La spirale s'installe sans que personne ne l'ait décidée.
 
-**Le standard implicite.** Chacun a un seuil différent — de propreté, d'organisation, d'anticipation. Celui qui a le seuil le plus haut agit toujours en premier, donc toujours. Le débat ne porte alors pas sur l'équité mais sur le standard, et il n'est jamais posé comme tel.
+**Le standard implicite.** Chacun a un seuil différent — de propreté, d'organisation, d'anticipation. Celui qui a le seuil le plus haut agit le plus souvent en premier — pas dans tous les couples, mais assez souvent pour que ce soit un schéma reconnaissable. Le débat ne porte alors pas sur l'équité mais sur le standard, et il est rarement posé comme tel.
 
 **La délégation qui n'en est pas une.** « Dis-moi ce que je dois faire » laisse la charge intacte : la personne qui doit dire reste celle qui pense. Déléguer une tâche sans déléguer la responsabilité de savoir qu'elle existe ne déleste de rien. [Le fardeau mental de la charge domestique est associé à une détresse psychologique plus élevée chez les mères, indépendamment du temps consacré aux tâches elles-mêmes](https://pubmed.ncbi.nlm.nih.gov/34177072/) (Ciciolla & Luthar, « Invisible Household Labor and Ramifications for Adjustment », *Sex Roles*, 2019 ; vérification du 7 août 2026).
 
@@ -58,7 +58,7 @@ Beaucoup de couples ne se disputent pas et s'épuisent quand même. Trois usures
 
 **La logistique qui remplace la relation.** Les seules conversations portent sur ce qu'il faut faire. Le couple devient une petite entreprise, efficace et vide.
 
-**L'asymétrie du temps libre.** Le temps résiduel n'est jamais également réparti, et personne ne le calcule. Un test simple et instructif : chacun note, pendant une semaine, ses heures réellement libres — libres, c'est-à-dire sans surveillance ni anticipation. L'écart surprend presque toujours. [La disparition des micro-sollicitations quotidiennes et de la réponse qu'elles reçoivent est l'un des signaux précoces de détérioration du couple observés par Gottman](https://archive.org/details/the-seven-principles-for-making-marriage-work) (Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
+**L'asymétrie du temps libre.** Le temps résiduel est rarement réparti à égalité, et personne ne le calcule. Un test simple et instructif : chacun note, pendant une semaine, ses heures réellement libres — libres, c'est-à-dire sans surveillance ni anticipation. L'écart surprend presque toujours. [La disparition des micro-sollicitations quotidiennes et de la réponse qu'elles reçoivent est l'un des signaux précoces de détérioration du couple observés par Gottman](https://archive.org/details/the-seven-principles-for-making-marriage-work) (Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

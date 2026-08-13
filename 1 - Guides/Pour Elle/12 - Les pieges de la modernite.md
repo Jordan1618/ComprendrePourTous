@@ -16,7 +16,7 @@ Une fête foraine installe des miroirs qui allongent ou écrasent la silhouette.
 
 Le problème contemporain est qu'on a remplacé les miroirs par des flux d'images qui déforment aussi, mais dont on a oublié qu'ils déforment — et surtout, dont on a oublié qu'ils peuvent tout autant être réglés dans l'autre sens, vers quelque chose de plus fidèle et de plus utile. Chaque image y est sélectionnée, cadrée, retouchée, et surtout **choisie parmi des centaines**. On compare son quotidien brut à un montage.
 
-Ce chapitre porte sur ces déformations modernes, sur l'industrie entière qui s'est installée et prospère dans l'écart qu'elles créent, et sur les leviers réels, positifs autant que défensifs, qui permettent de s'en protéger sans pour autant tout rejeter en bloc. La comparaison sociale ascendante déclenchée par les contenus centrés sur l'apparence est documentée dans la littérature sur les réseaux sociaux (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
+Ce chapitre porte sur ces déformations modernes, sur l'industrie entière qui s'est installée et prospère dans l'écart qu'elles créent, et sur les leviers réels, positifs autant que défensifs, qui permettent de s'en protéger sans pour autant tout rejeter en bloc. [La comparaison sociale ascendante déclenchée par les contenus centrés sur l'apparence est documentée dans la littérature sur les réseaux sociaux](https://www.sciencedirect.com/science/article/abs/pii/S2352250X15002249) (Fardouly & Vartanian, *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
 
 ### 12.2 Les réseaux sociaux et l'image du corps
 
@@ -26,7 +26,7 @@ Ce qui est établi : l'usage **passif** — faire défiler sans interagir — es
 
 Ce qui est débattu : l'ampleur de cet effet et son sens causal. Les travaux les plus solides décrivent des associations modérées, et il est probable qu'une partie du lien aille dans l'autre sens — se sentir mal conduit à consulter davantage. Les affirmations catastrophistes comme les affirmations rassurantes dépassent l'une et l'autre les données.
 
-Ce qui est actionnable : la distinction entre usage **passif** et usage **actif** (échanger, créer, discuter). Le second n'a pas les mêmes effets. Et le simple fait de se désabonner des comptes centrés sur l'apparence produit un changement mesurable de ce qui défile. L'usage passif des réseaux sociaux est associé à une insatisfaction corporelle plus marquée, en particulier chez les adolescentes et jeunes femmes (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
+Ce qui est actionnable : la distinction entre usage **passif** et usage **actif** (échanger, créer, discuter). Le second n'a pas les mêmes effets. Et le simple fait de se désabonner des comptes centrés sur l'apparence produit un changement mesurable de ce qui défile. [L'usage passif des réseaux sociaux est associé à une insatisfaction corporelle plus marquée, en particulier chez les adolescentes et jeunes femmes](https://www.sciencedirect.com/science/article/abs/pii/S2352250X15002249) (Fardouly & Vartanian, *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
 
 ### 12.2 bis Ce qui marche vraiment, dans l'autre sens
 
@@ -53,7 +53,7 @@ Trois motifs récurrents, et ce qu'ils valent.
 
 **Les compléments en cascade.** Certains sont utiles sur indication précise : fer en cas de carence documentée, folates avant et pendant la grossesse, vitamine D selon le contexte. Le reste, pris sans dosage préalable, est au mieux inutile. Certaines vitamines liposolubles sont même toxiques à haute dose.
 
-Le repère qui trie efficacement : **un produit qui promet de traiter beaucoup de choses à la fois n'en traite généralement aucune.** Une indication précise est un bon signe ; une liste de bienfaits est un mauvais signe. L'essor commercial des produits de bien-être sans fondement clinique établi est documenté par les autorités de protection des consommateurs (source : DGCCRF, *Compléments alimentaires : les tromperies* ; vérification du 7 août 2026).
+Le repère qui trie efficacement : **un produit qui promet de traiter beaucoup de choses à la fois n'en traite généralement aucune.** Une indication précise est un bon signe ; une liste de bienfaits est un mauvais signe. [L'essor commercial des produits de bien-être sans fondement clinique établi est documenté par les autorités de protection des consommateurs](https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/les-enquetes-et-les-controles/complements-alimentaires-des-anomalies-encore-trop-nombreuses) (DGCCRF, *Compléments alimentaires : des anomalies encore trop nombreuses* ; vérification du 7 août 2026).
 
 ### 12.4 Les applications de suivi de cycle
 
@@ -61,7 +61,7 @@ Utiles, et à manier avec deux précautions.
 
 **Sur l'usage.** Noter ses cycles apporte une information réelle, précieuse en consultation. En revanche, les prédictions d'ovulation fondées sur un calcul de moyenne sont peu fiables, parce que la date d'ovulation varie d'un cycle à l'autre chez la même personne. **Une application n'est pas un moyen de contraception**, sauf méthodes symptothermiques rigoureuses, apprises et appliquées avec discipline.
 
-**Sur les données.** Ce sont des données de santé, parmi les plus sensibles qui existent. Plusieurs applications ont été épinglées pour partage avec des tiers publicitaires. Deux réflexes : préférer une application qui stocke localement plutôt que sur ses serveurs, et lire ce qui est fait des données avant de saisir trois ans d'historique. Une enquête du Conseil norvégien des consommateurs a documenté le partage de données de santé par plusieurs applications de suivi avec des tiers publicitaires (source : Norwegian Consumer Council, *Out of Control*, rapport, 2020 ; vérification du 7 août 2026).
+**Sur les données.** Ce sont des données de santé, parmi les plus sensibles qui existent. Plusieurs applications ont été épinglées pour partage avec des tiers publicitaires. Deux réflexes : préférer une application qui stocke localement plutôt que sur ses serveurs, et lire ce qui est fait des données avant de saisir trois ans d'historique. [Une enquête du Conseil norvégien des consommateurs a documenté le partage de données de santé par plusieurs applications de suivi avec des tiers publicitaires](https://www.forbrukerradet.no/out-of-control/) (Norwegian Consumer Council, *Out of Control*, rapport, 2020 ; vérification du 7 août 2026).
 
 ### 12.5 L'injonction au bien-être elle-même
 
@@ -69,7 +69,7 @@ Le piège le plus discret de tous, précisément parce qu'il se présente comme 
 
 Résultat : une charge de plus, et une culpabilité de plus quand elle n'est pas tenue. Pour quelqu'un qui porte déjà une [charge mentale](<../../2 - Notions/Charge mentale.md>) importante, ajouter la gestion optimisée de son propre bien-être revient à ajouter un poste à un emploi du temps saturé.
 
-Le renversement utile, et sans doute le plus libérateur de tout ce chapitre : **le repos n'a pas à être productif.** Ne rien faire, vraiment rien, sans objectif ni bénéfice mesurable à en tirer, n'est jamais un échec de gestion de soi. Le glissement du bien-être personnel vers une injonction de performance supplémentaire est analysé dans un essai consacré au sujet (source : Cederström & Spicer, *The Wellness Syndrome*, Polity Press, 2015 ; vérification du 7 août 2026).
+Le renversement utile, et sans doute le plus libérateur de tout ce chapitre : **le repos n'a pas à être productif.** Ne rien faire, vraiment rien, sans objectif ni bénéfice mesurable à en tirer, n'est jamais un échec de gestion de soi. [Le glissement du bien-être personnel vers une injonction de performance supplémentaire est analysé dans un essai consacré au sujet](https://www.politybooks.com/bookdetail?book_slug=the-wellness-syndrome--9780745655604) (Cederström & Spicer, *The Wellness Syndrome*, Polity Press, 2015 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 

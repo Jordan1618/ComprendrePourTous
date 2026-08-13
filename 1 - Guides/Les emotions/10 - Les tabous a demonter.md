@@ -26,7 +26,7 @@ Le retentissement est mesurable. Les hommes consultent moins pour des motifs psy
 
 ### 10.3 « Une femme qui s'énerve est hystérique »
 
-Le tabou symétrique. La colère féminine est systématiquement requalifiée — en excès, en instabilité, en hormones. Le mot « hystérie » vient d'ailleurs du grec *hustera*, l'utérus : la langue elle-même porte l'histoire de cette disqualification.
+Le tabou symétrique. La colère féminine est encore très souvent requalifiée — en excès, en instabilité, en hormones — même si ce réflexe n'est pas systématique et recule selon les milieux. Le mot « hystérie » vient d'ailleurs du grec *hustera*, l'utérus : la langue elle-même porte l'histoire de cette disqualification.
 
 Deux conséquences. Beaucoup de femmes apprennent à convertir leur colère en tristesse ou en culpabilité, ce qui la rend inopérante — car la colère, elle, indique une limite franchie et appelle une action. Et dans le champ médical, ce préjugé produit un retard diagnostique documenté, des symptômes physiques étant attribués d'emblée à l'anxiété. Sujet développé dans [Pour Elle](<../Pour Elle/README.md>). [La requalification de la douleur ou de la colère féminine en excès émotionnel est documentée dans la littérature sur le biais de genre en médecine](https://pubmed.ncbi.nlm.nih.gov/11521267/) (Hoffmann & Tarzian, « The girl who cried pain: a bias against women in the treatment of pain », *Journal of Law, Medicine & Ethics*, 2001 ; vérification du 7 août 2026).
 

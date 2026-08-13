@@ -67,5 +67,5 @@ La phrase qui ouvre : **« hier, à quel moment exactement ça a basculé pour t
 
 - Passez toujours par le besoin avant l'action. Une action décidée sans avoir identifié le besoin rate sa cible.
 - Traitez la honte en la disant à quelqu'un de sûr. C'est la seule émotion dont le remède principal soit relationnel.
-- Ne cherchez pas à supprimer la colère : cherchez ce qu'elle indique. Une colère systématiquement écrasée revient sous forme de ressentiment, qui est bien plus corrosif.
+- Ne cherchez pas à supprimer la colère : cherchez ce qu'elle indique. Une colère systématiquement écrasée revient le plus souvent sous forme de ressentiment, qui est bien plus corrosif.
 - Face à l'anxiété diffuse, essayez de la transformer en peur concrète : **« de quoi précisément, et qu'est-ce qui se passerait alors ? »** Un objet identifié devient traitable.
