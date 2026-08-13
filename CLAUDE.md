@@ -5,7 +5,7 @@ Ce fichier est chargé automatiquement au début de chaque session dans ce dossi
 ## Avant de toucher au contenu
 
 - **Lire `MAINTENANCE.md` en entier** avant de modifier un guide existant.
-- **Invoquer `/Faiseur2Guide`** avant d'écrire un nouveau guide ou d'enrichir un guide existant — le skill impose l'inventaire du dépôt, la vérification de recoupement et l'élicitation des angles.
+- **Avant d'écrire un nouveau guide ou d'enrichir un guide existant, dérouler l'élicitation complète du skill `Faiseur2Guide` directement dans la conversation, jamais déléguée à un agent en arrière-plan** : présenter la grille des 10 familles en entier (pas une sélection), les angles déjà présents dans le dépôt, poser la question de recoupement, puis produire les deux exemples de 30 sous-thèmes une fois les angles choisis. Attendre la validation de l'interlocuteur avant d'écrire ou de faire écrire une seule ligne de contenu. Ne jamais résumer ou sauter cette étape même si la demande semble déjà assez précise.
 
 ## Règles non négociables (rappel — le détail et le "pourquoi" sont dans `MAINTENANCE.md`)
 
