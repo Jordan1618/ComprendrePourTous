@@ -85,6 +85,10 @@ Ma méthode : rédaction assistée par intelligence artificielle, avec recherche
 
 Si vous trouvez une erreur, signalez-la moi : je la corrige. C'est le meilleur service à rendre à ce projet, sur [GitHub](https://github.com/Jordan1618/ComprendrePourTous/issues) ou sur [LinkedIn](https://www.linkedin.com/in/jordan-p-77a697228).
 
+## Est-ce que c'est fiable ?
+
+Question légitime pour un contenu de cette ampleur produit par un étudiant. Une lecture de synthèse indépendante du corpus existe, pour qui veut se faire une idée rapide sans parcourir 200 000 mots : [Rapport d'analyse scientifique, épistémologique et structurelle](https://github.com/Jordan1618/ComprendrePourTous/blob/main/ANALYSE.md). Elle reste, comme le reste du projet, un repère à lire avec esprit critique, pas un tampon d'autorité.
+
 ## La stack technique
 
 Un projet statique, sans base de données ni serveur applicatif — par choix, pas par contrainte : c'est ce qui permet à n'importe qui de le cloner et de le faire tourner en local en trente secondes.
