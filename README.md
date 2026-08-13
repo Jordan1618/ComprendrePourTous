@@ -22,11 +22,9 @@ Site : https://www.comprendrepourtous.fr
 
 ## Pourquoi ce projet existe
 
-On entend parler de beaucoup de choses sans jamais savoir ce qu'elles sont vraiment. Endométriose, dépression masculine, IST, papillomavirus, post-partum. On connaît les mots, on en a une idée vague, et cette idée vague suffit à croire qu'on a compris. Elle ne suffit jamais le jour où ça concerne quelqu'un autour de soi.
+On connaît les mots — endométriose, dépression masculine, IST, post-partum — sans jamais vraiment savoir ce qu'ils recouvrent, jusqu'au jour où ça concerne quelqu'un autour de soi.
 
-Ce projet vise un kit de base : de quoi se comprendre soi-même — dans son corps, ses émotions, ses schémas — et comprendre l'autre, pour construire une relation saine plutôt que la subir. Se connaître n'est pas la finalité ; c'est ce qui rend possible de construire sans se cogner aux mêmes murs, seul ou à deux. Aucun niveau de départ supposé : ça marche aussi bien pour combler un vide total que pour corriger un angle mort précis.
-
-J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y reconnaître et évoluer par ce biais — celui sur le cycle féminin s'adresse autant aux femmes qui veulent comprendre leur propre corps qu'aux hommes qui veulent comprendre celui de leur partenaire, et l'inverse pour la vie masculine.
+Ce projet est un kit de base : de quoi se comprendre soi-même et comprendre l'autre, pour construire une relation saine plutôt que la subir. Chaque guide est écrit dans les deux sens, pour que femmes et hommes puissent s'y reconnaître.
 
 ## Les guides
 
@@ -63,36 +61,15 @@ Deux axes, portés par le frontmatter de chaque chapitre plutôt que par des dos
 
 Index correspondants : [Par sujet](<3 - Transversal/Par sujet.md>) et [Par angle](<3 - Transversal/Par angle.md>).
 
-## Comment naviguer
-
-```
-ComprendrePourTous/
-├── README.md                       cette page
-├── MAINTENANCE.md                  comment faire vivre le projet sans casser la structure
-├── 0 - Guides complets/             chaque guide en un seul fichier, pour lire d'une traite
-├── 1 - Guides/                      les mêmes guides découpés, un fichier par chapitre — source de vérité
-├── 2 - Notions/                     notes courtes par concept, avec liens vers les développements
-├── 3 - Transversal/                 index, glossaire, signaux d'alerte
-└── 4 - Sources/                     toutes les sources citées, classées par guide, avec lien vers l'original
-```
-
-**Les deux formats de guide contiennent exactement le même texte.** `1 - Guides/` est la source de vérité : c'est là qu'on corrige, chapitre par chapitre. `0 - Guides complets/` est généré à partir de lui par `build-guides-complets.py`, et ne doit jamais être édité à la main.
-
 ## Comment c'est écrit
 
-Ce projet est le travail personnel d'un étudiant en informatique, Jordan1618, c'est-à-dire moi. Je ne suis ni médecin, ni psychologue, ni sexologue, et je préfère le dire tout de suite plutôt que de vous le laisser deviner. Ce que j'y engage, ce sont mes compétences de recherche, de synthèse et de vérification des sources — jamais mon avis personnel.
+Travail personnel d'un étudiant en informatique, Jordan1618 — ni médecin, ni psychologue, ni sexologue. J'y engage mes compétences de recherche et de vérification des sources, jamais un avis personnel. Chaque affirmation chiffrée est sourcée par un hyperlien vers l'original, daté, et regroupée aussi dans `4 - Sources/`. Une donnée incertaine reste une fourchette assumée, pas une fausse précision ; une source manquante est signalée, pas passée sous silence.
 
-Ma méthode : rédaction assistée par intelligence artificielle, avec recherche d'une source réelle pour chaque affirmation chiffrée, vérification datée, et relecture. Chaque source citée est un hyperlien cliquable vers l'original, jamais une référence à recopier soi-même — et chaque source utilisée dans un guide existe aussi dans son dossier de sources correspondant, dans `4 - Sources/`. Quand une donnée est incertaine ou débattue, je donne une fourchette et je le dis, plutôt que d'inventer une précision qui n'existe pas. Quand une source me manque, je signale l'absence au lieu de la passer sous silence.
+Une erreur trouvée ? Signalez-la sur [GitHub](https://github.com/Jordan1618/ComprendrePourTous/issues) ou [LinkedIn](https://www.linkedin.com/in/jordan-p-77a697228), je corrige.
 
-Si vous trouvez une erreur, signalez-la moi : je la corrige. C'est le meilleur service à rendre à ce projet, sur [GitHub](https://github.com/Jordan1618/ComprendrePourTous/issues) ou sur [LinkedIn](https://www.linkedin.com/in/jordan-p-77a697228).
-
-## Est-ce que c'est fiable ?
-
-Question légitime pour un contenu de cette ampleur produit par un étudiant. Une lecture de synthèse indépendante du corpus existe, pour qui veut se faire une idée rapide sans parcourir 200 000 mots : [Rapport d'analyse scientifique, épistémologique et structurelle](https://github.com/Jordan1618/ComprendrePourTous/blob/main/ANALYSE.md). Elle reste, comme le reste du projet, un repère à lire avec esprit critique, pas un tampon d'autorité.
+**Est-ce que c'est fiable ?** Une lecture de synthèse indépendante existe pour qui veut se faire une idée sans parcourir 200 000 mots : [Rapport d'analyse](https://github.com/Jordan1618/ComprendrePourTous/blob/main/ANALYSE.md) — un repère de plus, pas un tampon d'autorité.
 
 ## La stack technique
-
-Un projet statique, sans base de données ni serveur applicatif — par choix, pas par contrainte : c'est ce qui permet à n'importe qui de le cloner et de le faire tourner en local en trente secondes.
 
 | Outil | Rôle | Maîtrise |
 |---|---|---|
@@ -104,18 +81,12 @@ Un projet statique, sans base de données ni serveur applicatif — par choix, p
 | OVHcloud | Nom de domaine (comprendrepourtous.fr) | ⭐⭐⭐☆☆ |
 | Claude (Anthropic) | Recherche de sources, rédaction assistée, orchestration d'agents en parallèle | ⭐⭐⭐⭐⭐ |
 
-Notation honnête, pas une carte de visite : elle reflète l'aisance réelle avec l'outil à ce stade du projet, pas une ambition affichée.
+Notation honnête, pas une carte de visite.
 
 ## Signaux d'alerte
 
-Certaines situations décrites dans ces guides nécessitent une réaction immédiate, pas une lecture. Elles sont rassemblées sur une page unique : [Signaux d'alerte](<3 - Transversal/Signaux d'alerte.md>).
+Certaines situations décrites dans ces guides demandent une réaction immédiate, pas une lecture : [Signaux d'alerte](<3 - Transversal/Signaux d'alerte.md>).
 
 ## Licence
 
-Textes publiés sous licence Creative Commons **CC BY 4.0**. Tout le monde peut utiliser, copier, traduire, modifier et rediffuser ce contenu, y compris à des fins commerciales. La seule condition est de citer le projet et son auteur, avec un lien vers la licence, et d'indiquer si des modifications ont été apportées.
-
-C'est un choix assumé : ce projet existe pour être utile, et une licence restrictive limiterait la seule chose qui compte ici, c'est-à-dire que l'information circule. Voir [LICENSE](<LICENSE.md>) pour la mention d'attribution à reprendre.
-
-## Suite
-
-Cette collection est faite pour grandir. Un guide de moins de 8 000 mots reste un fichier unique. Au-delà, il prend son propre dossier et se découpe par chapitre, comme les guides déjà éclatés.
+**CC BY 4.0** : utilisation, copie, traduction, modification et rediffusion libres, y compris commerciales, à condition de citer le projet et son auteur. Voir [LICENSE](<LICENSE.md>) pour la mention d'attribution.
