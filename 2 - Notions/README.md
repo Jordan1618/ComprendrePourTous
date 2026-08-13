@@ -63,3 +63,8 @@ La collection est jeune, cette liste est faite pour s'allonger.
 - [Trouble dysphorique prémenstruel](<Trouble dysphorique prémenstruel.md>)
 - [Dépression du post-partum](<Dépression du post-partum.md>)
 - [Alliance thérapeutique](<Alliance thérapeutique.md>)
+
+**Réseaux sociaux et vie numérique**
+- [Économie de l'attention](<Économie de l'attention.md>)
+- [Enfermement algorithmique](<Enfermement algorithmique.md>)
+- [Comparaison sociale ascendante](<Comparaison sociale ascendante.md>)

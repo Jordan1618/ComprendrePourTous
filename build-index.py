@@ -33,6 +33,8 @@ ORDRE_GUIDES = [
     "IST, depistage et prevention",
     "Massage professionnel",
     "Questions et communication",
+    "Les nouvelles compositions familiales",
+    "Reseaux sociaux",
 ]
 
 SUJETS = [

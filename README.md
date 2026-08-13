@@ -1,9 +1,9 @@
 ---
 projet: "Comprendre pour tous"
 type: "collection"
-guides: 10
-chapitres: 135
-mots: 204550
+guides: 11
+chapitres: 145
+mots: 219080
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-08-13
 licence: "CC BY 4.0"
@@ -42,8 +42,9 @@ J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y
 | [Les émotions](<1 - Guides/Les emotions/README.md>) | commun | 10 | Fabrication, origines, nommer, décoder, réguler, troubles, parcours de soin, tabous | [intégrale](<0 - Guides complets/Les émotions.md>) |
 | [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 6 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV | [intégrale](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [intégrale](<0 - Guides complets/Massage professionnel.md>) |
+| [Réseaux sociaux](<1 - Guides/Reseaux sociaux/README.md>) | commun | 10 | Histoire, conception, attention, algorithmes, image de soi, dérives amoureuses numériques, cyberharcèlement, cadre légal | [intégrale](<0 - Guides complets/Réseaux sociaux.md>) |
 
-Environ 204 500 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
+Environ 219 000 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
 
 ## Trois façons d'y entrer
 

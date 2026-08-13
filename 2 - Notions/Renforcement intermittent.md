@@ -16,3 +16,5 @@ D'où la confusion la plus coûteuse de la vie amoureuse : prendre l'intensité 
 **Où c'est développé**
 - [Ce que le cerveau décide avant vous](<../1 - Guides/La rencontre/01 - Ce que le cerveau decide avant vous.md>), sur la dopamine et l'incertitude.
 - [Les styles d'attachement](<../1 - Guides/La rencontre/02 - Les styles d attachement.md>), sur le cycle anxieux-évitant.
+- [Le cerveau face à l'écran](<../1 - Guides/Reseaux sociaux/03 - Le cerveau face a l ecran.md>), sur les likes et notifications comme récompense variable.
+- [Les nouvelles dérives amoureuses numériques](<../1 - Guides/Reseaux sociaux/07 - Les nouvelles derives amoureuses numeriques.md>), sur le breadcrumbing et le love bombing.

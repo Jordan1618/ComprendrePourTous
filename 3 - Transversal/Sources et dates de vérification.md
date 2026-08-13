@@ -26,6 +26,8 @@ Quand une donnée est débattue ou incertaine, le texte donne une fourchette et 
 | [L'amour](<../1 - Guides/L amour/README.md>) | 6 août 2026 | 6 août 2026 |
 | [Les émotions](<../1 - Guides/Les emotions/README.md>) | 6 août 2026 | 6 août 2026 |
 | [Pour Nous](<../1 - Guides/Pour Nous/README.md>) | 6 août 2026 | 6 août 2026 |
+| [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>) | 6 août 2026 | 6 août 2026 |
+| [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/README.md>) | 13 août 2026 | 13 août 2026 |
 
 ## Ce qui bouge vite et demande une surveillance
 

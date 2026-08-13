@@ -23,6 +23,7 @@ Toutes les références de la collection, **une page par guide**, chacune class�
 | [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | [Sources — Massage professionnel](<Massage professionnel.md>) |
 | [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | [Sources — Questions et communication](<Questions et communication.md>) |
 | [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>) | [Sources — Les nouvelles compositions familiales](<Les nouvelles compositions familiales.md>) |
+| [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/README.md>) | [Sources — Réseaux sociaux](<Reseaux sociaux.md>) |
 
 ## Transversal
 

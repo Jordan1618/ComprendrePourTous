@@ -20,6 +20,8 @@ Sa logique tient en une phrase : l'attirance se décide en un dixième de second
 
 Il est écrit pour tout le monde, quel que soit le genre et l'orientation. Les passages où les données diffèrent selon les situations le précisent explicitement.
 
+Pour tout ce qui touche spécifiquement aux dérives relationnelles nées des outils numériques, ghosting, breadcrumbing, love bombing, voir le chapitre 7 du guide [Réseaux sociaux](<../Reseaux sociaux/07 - Les nouvelles derives amoureuses numeriques.md>), qui complète ce guide sur ce point précis.
+
 ## Chapitres
 
 | # | Chapitre | Angle | Mots |

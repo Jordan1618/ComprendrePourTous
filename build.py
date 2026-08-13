@@ -81,6 +81,7 @@ GUIDE_ORDER = [
     "L amour",
     "Pour Nous",
     "Les nouvelles compositions familiales",
+    "Reseaux sociaux",
 ]
 
 # Ordre d'affichage des fichiers de "0 - Guides complets".
@@ -96,6 +97,7 @@ FULL_GUIDE_ORDER = [
     "L'amour",
     "Pour Nous",
     "Les nouvelles compositions familiales",
+    "Réseaux sociaux",
 ]
 
 # Fichiers de la racine qui ne sont pas publies comme pages.
@@ -133,6 +135,7 @@ GUIDE_HUE = {
     "l-amour": 348,
     "pour-nous": 196,
     "les-emotions": 48,
+    "reseaux-sociaux": 100,
 }
 
 # Illustrations : SVG en ligne, decoratifs, qui prennent la teinte de la
