@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Nous"
 sujet: "commun"
 chapitres: 12
-mots: 13612
+mots: 13615
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Nous"
@@ -132,7 +132,7 @@ La personne traumatisée cherche la sécurité. Elle la cherche par des moyens q
 
 Chacun se voit comme réagissant à l'autre. Aucun des deux ne voit la boucle. Et surtout : **chacun a raison de son point de vue**, ce qui rend la discussion insoluble tant qu'on reste sur les intentions.
 
-La sortie ne passe pas par la recherche du responsable. Elle passe par la description de la boucle elle-même — les deux personnes se plaçant du même côté, face au mécanisme. [Ce cycle correspond au patron demande-retrait, l'un des mieux répliqués de la recherche sur le couple](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict) (Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
+La sortie ne passe pas par la recherche du responsable. Elle passe par la description de la boucle elle-même — les deux personnes se plaçant du même côté, face au mécanisme. Ce cycle correspond au [schéma demande-retrait](<../2 - Notions/Schéma demande-retrait.md>), [l'un des mieux répliqués de la recherche sur le couple](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict) (Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
 
 ### 2.4 Ce qui aide, et ce qui n'aide pas
 

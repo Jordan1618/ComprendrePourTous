@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "notions"
-mis_a_jour_le: 2026-08-05
+mis_a_jour_le: 2026-08-13
 licence: "CC BY 4.0"
 ---
 
@@ -42,6 +42,8 @@ La collection est jeune, cette liste est faite pour s'allonger.
 - [Homogamie](<Homogamie.md>)
 - [Désert relationnel](<Désert relationnel.md>)
 - [Kinkeeping](<Kinkeeping.md>)
+- [Hiérarchies de dominance et de prestige](<Hiérarchies de dominance et de prestige.md>)
+- [Masculinité précaire](<Masculinité précaire.md>)
 
 **Désir et intimité**
 - [Modèle du double contrôle](<Modèle du double contrôle.md>)
@@ -53,9 +55,11 @@ La collection est jeune, cette liste est faite pour s'allonger.
 - [Contrôle coercitif](<Contrôle coercitif.md>)
 - [Hypervigilance](<Hypervigilance.md>)
 - [Indivision](<Indivision.md>)
+- [Schéma demande-retrait](<Schéma demande-retrait.md>)
 
 **Corps et santé**
 - [Endométriose](<Endométriose.md>)
 - [Périménopause](<Périménopause.md>)
 - [Trouble dysphorique prémenstruel](<Trouble dysphorique prémenstruel.md>)
 - [Dépression du post-partum](<Dépression du post-partum.md>)
+- [Alliance thérapeutique](<Alliance thérapeutique.md>)

@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 31
-mots: 63808
+mots: 63839
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
@@ -608,7 +608,7 @@ Dans sa tête à lui : « si je montre tout ce que je capte, je vais passer pour
 
 **Ce qui le fait tomber amoureux.** Une personne devant qui il n'a rien à prouver — l'expérience rare d'être valorisé sans avoir démontré quoi que ce soit au préalable.
 
-**Ce qui le casse.** [Une menace ressentie sur sa masculinité entraîne des prises de risque plus élevées, y compris financières, et une intolérance à la douleur plus faible qu'à l'ordinaire](https://www.sciencedirect.com/science/article/abs/pii/S0022103121000986) — le déclencheur est souvent minuscule en apparence : une remarque, une comparaison, un doute exprimé sur sa compétence. [La théorie de la masculinité précaire explique ce mécanisme : le statut d'homme, contrairement à celui de femme, est perçu comme devant être prouvé et pouvant être perdu](https://digitalcommons.usf.edu/psy_facpub/1161/), ce qui rend ce profil structurellement instable dans le temps.
+**Ce qui le casse.** [Une menace ressentie sur sa masculinité entraîne des prises de risque plus élevées, y compris financières, et une intolérance à la douleur plus faible qu'à l'ordinaire](https://www.sciencedirect.com/science/article/abs/pii/S0022103121000986) — le déclencheur est souvent minuscule en apparence : une remarque, une comparaison, un doute exprimé sur sa compétence. La théorie de la [masculinité précaire](<../2 - Notions/Masculinité précaire.md>) explique ce mécanisme : [le statut d'homme, contrairement à celui de femme, est perçu comme devant être prouvé et pouvant être perdu](https://digitalcommons.usf.edu/psy_facpub/1161/), ce qui rend ce profil structurellement instable dans le temps.
 
 **Vigilance en couple.** Douter publiquement de sa compétence, même en plaisantant, déclenche des réactions disproportionnées par rapport au contenu réel de la remarque — ce n'est pas de la susceptibilité, c'est un mécanisme documenté.
 
@@ -1535,7 +1535,7 @@ Trois conséquences pratiques :
 - **La perte de rang fait beaucoup plus mal que le gain ne fait plaisir.** Asymétrie classique, très marquée ici.
 - **La menace de rang se traite par l'action, jamais par la parole.** Un homme qui vient de perdre de la valeur dans un groupe va travailler plus, s'entraîner plus, dépenser, ou provoquer. Il ne va pas dire qu'il s'est senti diminué.
 
-**💑 Dans le couple.** Beaucoup de comportements incompréhensibles à la maison sont des conséquences directes d'un événement de rang à l'extérieur. Une humiliation en réunion produit une soirée insupportable, sans qu'aucun lien ne soit fait ni par lui ni par toi. [Les hiérarchies masculines s'organisent selon deux voies distinctes, la dominance et le prestige](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+**💑 Dans le couple.** Beaucoup de comportements incompréhensibles à la maison sont des conséquences directes d'un événement de rang à l'extérieur. Une humiliation en réunion produit une soirée insupportable, sans qu'aucun lien ne soit fait ni par lui ni par toi. Les [hiérarchies de dominance et de prestige](<../2 - Notions/Hiérarchies de dominance et de prestige.md>) expliquent en partie ce décalage : [les hiérarchies masculines s'organisent selon deux voies distinctes, la dominance et le prestige](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 15.2 Conflit vertical et conflit horizontal
 
@@ -1598,7 +1598,7 @@ Ce coût est souvent invisible de l'extérieur et systématiquement sous-estimé
 **Bons réflexes.**
 
 - Ne demande pas un héroïsme social permanent. Demande une position claire en privé et un désengagement progressif des groupes toxiques, ce qui est bien plus atteignable.
-- Le meilleur levier n'est pas la culpabilisation, c'est l'existence d'une alternative. Un homme quitte un groupe quand il en a un autre, pas quand on lui explique que le premier est mauvais. [Le concept de masculinité précaire, qui doit être sans cesse démontrée sous peine de sanction sociale, explique la pression à la conformité au groupe](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+- Le meilleur levier n'est pas la culpabilisation, c'est l'existence d'une alternative. Un homme quitte un groupe quand il en a un autre, pas quand on lui explique que le premier est mauvais. Le concept de [masculinité précaire](<../2 - Notions/Masculinité précaire.md>) explique la pression à la conformité au groupe : [ce statut doit être sans cesse démontré sous peine de sanction sociale](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 15.7 Les autres hommes autour de ton couple
 
@@ -1641,7 +1641,7 @@ Ce qui se passe de son côté : il ne trouve plus ses mots, il sait qu'il va dir
 - Instaurer une pause codifiée, décidée à froid, et non improvisée en pleine dispute. La règle qui fonctionne : n'importe lequel des deux peut demander une pause, la pause dure au minimum vingt minutes (temps physiologique de redescente), et celui qui l'a demandée s'engage explicitement à revenir. Ce dernier point est essentiel : sans engagement de retour, la pause est vécue comme un abandon.
 - Pendant la pause, ne pas ruminer l'argumentaire. Sortir, marcher, faire autre chose. Ruminer maintient l'activation.
 - Ne jamais poursuivre quelqu'un en retrait. Plus tu poursuis, plus il se ferme, et vous entrez dans le schéma poursuite-retrait qui est le motif de consultation numéro un en thérapie de couple.
-- Reprendre la conversation en la nommant : "on reprend là où on s'était arrêtés, calmement". Sans ce redémarrage explicite, le sujet reste ouvert et ressort trois semaines plus tard. [Le retrait sous conflit correspond au versant masculin du patron demande-retrait, documenté dans les observations de couples](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict) (Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
+- Reprendre la conversation en la nommant : "on reprend là où on s'était arrêtés, calmement". Sans ce redémarrage explicite, le sujet reste ouvert et ressort trois semaines plus tard. Le retrait sous conflit correspond au versant masculin du [schéma demande-retrait](<../2 - Notions/Schéma demande-retrait.md>), [documenté dans les observations de couples](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict) (Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
 
 ### 16.2 Le reproche et la demande
 

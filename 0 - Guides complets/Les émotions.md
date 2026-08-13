@@ -3,7 +3,7 @@ type: "guide-complet"
 guide: "Les émotions"
 sujet: "commun"
 chapitres: 11
-mots: 12078
+mots: 12081
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Les emotions"
@@ -599,7 +599,7 @@ Le point le plus utile de ce chapitre, parce que la confusion des titres fait pe
 
 ### 9.4 Choisir, et savoir que ça ne va pas
 
-Le meilleur prédicteur de résultat en psychothérapie, tous courants confondus, n'est pas la méthode : c'est l'**alliance thérapeutique**, c'est-à-dire la qualité du lien et l'accord sur les objectifs. Ce résultat est robuste et il a une conséquence directe : ne pas s'entendre avec un thérapeute n'est pas un échec, c'est une raison légitime d'en changer.
+Le meilleur prédicteur de résultat en psychothérapie, tous courants confondus, n'est pas la méthode : c'est l'[alliance thérapeutique](<../2 - Notions/Alliance thérapeutique.md>), c'est-à-dire la qualité du lien et l'accord sur les objectifs. Ce résultat est robuste et il a une conséquence directe : ne pas s'entendre avec un thérapeute n'est pas un échec, c'est une raison légitime d'en changer.
 
 Deux questions à poser au premier rendez-vous, et un praticien sérieux y répond sans se vexer : **quelle approche pratiquez-vous pour ce type de difficulté ?** et **sur quelle durée estimée travaille-t-on ?**
 

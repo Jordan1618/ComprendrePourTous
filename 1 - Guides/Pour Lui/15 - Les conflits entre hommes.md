@@ -24,7 +24,7 @@ Trois conséquences pratiques :
 - **La perte de rang fait beaucoup plus mal que le gain ne fait plaisir.** Asymétrie classique, très marquée ici.
 - **La menace de rang se traite par l'action, jamais par la parole.** Un homme qui vient de perdre de la valeur dans un groupe va travailler plus, s'entraîner plus, dépenser, ou provoquer. Il ne va pas dire qu'il s'est senti diminué.
 
-**💑 Dans le couple.** Beaucoup de comportements incompréhensibles à la maison sont des conséquences directes d'un événement de rang à l'extérieur. Une humiliation en réunion produit une soirée insupportable, sans qu'aucun lien ne soit fait ni par lui ni par toi. [Les hiérarchies masculines s'organisent selon deux voies distinctes, la dominance et le prestige](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+**💑 Dans le couple.** Beaucoup de comportements incompréhensibles à la maison sont des conséquences directes d'un événement de rang à l'extérieur. Une humiliation en réunion produit une soirée insupportable, sans qu'aucun lien ne soit fait ni par lui ni par toi. Les [hiérarchies de dominance et de prestige](<../../2 - Notions/Hiérarchies de dominance et de prestige.md>) expliquent en partie ce décalage : [les hiérarchies masculines s'organisent selon deux voies distinctes, la dominance et le prestige](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 15.2 Conflit vertical et conflit horizontal
 
@@ -87,7 +87,7 @@ Ce coût est souvent invisible de l'extérieur et systématiquement sous-estimé
 **Bons réflexes.**
 
 - Ne demande pas un héroïsme social permanent. Demande une position claire en privé et un désengagement progressif des groupes toxiques, ce qui est bien plus atteignable.
-- Le meilleur levier n'est pas la culpabilisation, c'est l'existence d'une alternative. Un homme quitte un groupe quand il en a un autre, pas quand on lui explique que le premier est mauvais. [Le concept de masculinité précaire, qui doit être sans cesse démontrée sous peine de sanction sociale, explique la pression à la conformité au groupe](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+- Le meilleur levier n'est pas la culpabilisation, c'est l'existence d'une alternative. Un homme quitte un groupe quand il en a un autre, pas quand on lui explique que le premier est mauvais. Le concept de [masculinité précaire](<../../2 - Notions/Masculinité précaire.md>) explique la pression à la conformité au groupe : [ce statut doit être sans cesse démontré sous peine de sanction sociale](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 15.7 Les autres hommes autour de ton couple
 
