@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
-chapitres: 35
-mots: 75916
+chapitres: 34
+mots: 73593
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -58,9 +58,8 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 32 | [Foire aux questions rapides](<32 - Foire aux questions.md>) | pratique | 471 |
 | 33 | [Ressources et associations utiles](<33 - Ressources et associations.md>) | repères | 275 |
 | 34 | [Glossaire complet des termes médicaux employés dans ce document](<34 - Glossaire des termes médicaux.md>) | repères | 489 |
-| 35 | [Sources vérifiables](<35 - Sources verifiables.md>) | repères | 1 729 |
 
-Total : 75 916 mots, 35 chapitres.
+Total : 73 593 mots, 34 chapitres.
 
 Ce guide a un pendant, [Pour Lui](<../Pour Lui/README.md>), pour le même thème vu de l'autre côté.
 

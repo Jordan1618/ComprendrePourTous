@@ -2,8 +2,8 @@
 projet: "Comprendre pour tous"
 type: "collection"
 guides: 11
-chapitres: 145
-mots: 219080
+chapitres: 144
+mots: 217359
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-08-13
 licence: "CC BY 4.0"
@@ -32,7 +32,7 @@ J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y
 
 | Guide | Sujet | Chapitres | Contenu | Lire |
 |---|---|---|---|---|
-| [Pour Elle](<1 - Guides/Pour Elle/README.md>) | corps féminin | 35 | Cycle, contraception, pathologies, sexualité, grossesse, profils psychologiques, âges de la vie, couple, limites, attentes et peurs relationnelles, mères célibataires | [intégrale](<0 - Guides complets/Pour Elle.md>) |
+| [Pour Elle](<1 - Guides/Pour Elle/README.md>) | corps féminin | 34 | Cycle, contraception, pathologies, sexualité, grossesse, profils psychologiques, âges de la vie, couple, limites, attentes et peurs relationnelles, mères célibataires | [intégrale](<0 - Guides complets/Pour Elle.md>) |
 | [Pour Lui](<1 - Guides/Pour Lui/README.md>) | corps masculin | 30 | Émotions, dépression, corps, cycle, contraception, sexualité, couple, santé long terme, attentes et peurs relationnelles, pères célibataires | [intégrale](<0 - Guides complets/Pour Lui.md>) |
 | [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 11 | Trauma, décisions communes, quotidien et charge, projets de vie, épreuves, deuil, histoire du couple | [intégrale](<0 - Guides complets/Pour Nous.md>) |
 | [Les nouvelles compositions familiales](<1 - Guides/Les nouvelles compositions familiales/README.md>) | commun | 4 | Panorama actuel, autres modèles familiaux (homoparentalité, coparentalité choisie, familles d'accueil), étapes réelles d'une recomposition, trouver sa place, bons principes | [intégrale](<0 - Guides complets/Les nouvelles compositions familiales.md>) |
@@ -44,7 +44,7 @@ J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [intégrale](<0 - Guides complets/Massage professionnel.md>) |
 | [Réseaux sociaux](<1 - Guides/Reseaux sociaux/README.md>) | commun | 10 | Histoire, conception, attention, algorithmes, image de soi, dérives amoureuses numériques, cyberharcèlement, cadre légal | [intégrale](<0 - Guides complets/Réseaux sociaux.md>) |
 
-Environ 219 000 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
+Environ 217 000 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
 
 ## Trois façons d'y entrer
 

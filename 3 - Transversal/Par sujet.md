@@ -49,7 +49,6 @@ Ce qui concerne le corps et le fonctionnement féminins. À lire pour se compren
 - [Foire aux questions rapides](<../1 - Guides/Pour Elle/32 - Foire aux questions.md>)  `pratique`
 - [Ressources et associations utiles](<../1 - Guides/Pour Elle/33 - Ressources et associations.md>)  `repères`
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/34 - Glossaire des termes médicaux.md>)  `repères`
-- [Sources vérifiables](<../1 - Guides/Pour Elle/35 - Sources verifiables.md>)  `repères`
 
 ## Corps masculin
 
