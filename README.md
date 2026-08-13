@@ -102,7 +102,7 @@ Un projet statique, sans base de données ni serveur applicatif — par choix, p
 | Git / GitHub | Versionnage, hébergement du code et Pages | ⭐⭐⭐⭐☆ |
 | GitHub Actions | Build et déploiement automatiques à chaque push | ⭐⭐⭐☆☆ |
 | OVHcloud | Nom de domaine (comprendrepourtous.fr) | ⭐⭐⭐☆☆ |
-| Claude (Anthropic) | Recherche de sources, rédaction assistée, revue | ⭐⭐⭐⭐☆ |
+| Claude (Anthropic) | Recherche de sources, rédaction assistée, orchestration d'agents en parallèle | ⭐⭐⭐⭐⭐ |
 
 Notation honnête, pas une carte de visite : elle reflète l'aisance réelle avec l'outil à ce stade du projet, pas une ambition affichée.
 
