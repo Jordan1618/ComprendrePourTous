@@ -2,8 +2,8 @@
 type: "guide"
 guide: "IST, dépistage et prévention"
 sujet: "commun"
-chapitres: 7
-mots: 4132
+chapitres: 6
+mots: 3459
 verifie_le: 2026-07-27
 licence: "CC BY 4.0"
 ---
@@ -30,8 +30,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 4 | [Herpès génital : la gestion à vie plutôt que la guérison](<04 - Herpès génital.md>) | prévention | 589 |
 | 5 | [Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans](<05 - Le VIH aujourd'hui.md>) | prévention | 624 |
 | 6 | [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<06 - HPV et vaccination.md>) | prévention | 538 |
-| 7 | [Sources vérifiables](<07 - Sources verifiables.md>) | repères | 673 |
 
-Total : 4 132 mots, 7 chapitres.
+Total : 3 459 mots, 6 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

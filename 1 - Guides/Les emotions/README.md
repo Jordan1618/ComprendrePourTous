@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Les émotions"
 sujet: "commun"
-chapitres: 11
-mots: 9628
+chapitres: 10
+mots: 8839
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
@@ -36,9 +36,8 @@ Deux partis pris le distinguent des contenus habituels sur le sujet.
 | 8 | [Les troubles psychiques : des repères, pas un diagnostic](<08 - Les troubles psychiques.md>) | prévention | 846 |
 | 9 | [Envisager un parcours de soin, seul ou à deux](<09 - Envisager un parcours de soin.md>) | pratique | 889 |
 | 10 | [Les tabous à démonter](<10 - Les tabous a demonter.md>) | relation | 848 |
-| 11 | [Sources vérifiables](<11 - Sources verifiables.md>) | repères | 789 |
 
-Total : 9 628 mots, 11 chapitres.
+Total : 8 839 mots, 10 chapitres.
 
 ## Par où commencer
 

@@ -123,6 +123,8 @@ Quand une donnée est débattue, donner une fourchette et le dire. Jamais de fau
 
 **Réciprocité obligatoire avec `4 - Sources/`.** Toute source hyperliée dans un chapitre doit aussi exister dans le fichier `4 - Sources/<Nom du guide>.md` correspondant, avec le même lien vérifié (jamais un lien de recherche Google Scholar générique quand un lien direct a été trouvé et utilisé dans le chapitre). Réciproquement, toute entrée de `4 - Sources/` doit se retrouver citée dans le guide. Après une conversion de citations, relire le fichier de sources du guide et remplacer les liens de recherche générique par les mêmes liens directs que ceux utilisés dans les chapitres.
 
+**Pas de chapitre « Sources vérifiables » dans le guide lui-même.** Chaque chapitre porte déjà ses sources en hyperliens directs dans le texte ; `4 - Sources/<Nom du guide>.md` en tient la liste consolidée. Un chapitre final qui reliste toutes les sources du guide ferait doublon avec les deux à la fois — ne pas en créer un pour un nouveau guide, et le retirer d'un guide existant si on en retrouve un (retirer le chapitre, pas renuméroter les autres puisqu'il est toujours en dernière position).
+
 Après toute conversion de citations dans un guide, contrôler qu'aucun lien n'est cassé (voir la commande plus bas), puis committer.
 
 Cadence de revue : tous les six mois, guide par guide, en ne touchant qu'aux chiffres et aux recommandations officielles. Voir `3 - Transversal/Sources et dates de vérification.md`.

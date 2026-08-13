@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Questions et communication"
 sujet: "commun"
-chapitres: 10
-mots: 8737
+chapitres: 9
+mots: 7701
 verifie_le: 2026-08-05
 licence: "CC BY 4.0"
 ---
@@ -35,8 +35,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 7 | [Les questions difficiles avec les proches](<07 - Les questions difficiles avec les proches.md>) | relation | 604 |
 | 8 | [Recevoir la réponse](<08 - Recevoir la réponse.md>) | relation | 606 |
 | 9 | [Boîte à outils](<09 - Boîte à outils.md>) | repères | 495 |
-| 10 | [Sources vérifiables](<10 - Sources verifiables.md>) | repères | 1 036 |
 
-Total : 8 737 mots, 10 chapitres.
+Total : 7 701 mots, 9 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

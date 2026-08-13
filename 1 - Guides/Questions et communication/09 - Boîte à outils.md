@@ -54,4 +54,4 @@ licence: "CC BY 4.0"
 
 Poser la question, puis se taire. [Le silence qui suit une question est le temps de traitement cognitif nécessaire à la construction d'une réponse, et le combler prématurément est l'erreur la plus documentée d'une conversation par ailleurs bien engagée](https://books.google.com/books/about/MEMORY_ENHANCING_TECHNIQUES_FOR_INVESTIG.html?id=W0_YCQAAQBAJ) (Fisher & Geiselman, *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 ; vérification du 8 août 2026).
 
-Les sources scientifiques citées dans ce guide sont regroupées dans le chapitre [Sources vérifiables](<10 - Sources verifiables.md>).
+Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../../4 - Sources/Questions et communication.md>).

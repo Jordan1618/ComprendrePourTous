@@ -2,8 +2,8 @@
 type: "guide-complet"
 guide: "Questions et communication"
 sujet: "commun"
-chapitres: 10
-mots: 8219
+chapitres: 9
+mots: 7214
 verifie_le: 2026-08-05
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Questions et communication"
@@ -37,7 +37,6 @@ Un mot de cadrage, une seule fois. Rien ici n'est une technique de manipulation 
 - **7.** Les questions difficiles avec les proches
 - **8.** Recevoir la réponse
 - **9.** Boîte à outils
-- **10.** Sources vérifiables
 
 ---
 
@@ -71,7 +70,7 @@ Parce qu'on se trompe sur ce que l'autre veut.
 
 Les gens sous-estiment systématiquement à quel point des inconnus se soucient de leurs révélations intimes et s'y intéressent, et cette mauvaise calibration crée une barrière psychologique aux conversations profondes. Les conversations entre inconnus se sont révélées moins embarrassantes et ont produit plus de connexion et de bonheur que ce que les participants avaient anticipé. Ils surestimaient particulièrement le malaise des conversations profondes par rapport aux conversations superficielles, et [se sont pourtant sentis plus proches de leur partenaire après une conversation profonde qu'après une conversation superficielle](https://pubmed.ncbi.nlm.nih.gov/34591541/) (Kardas, Kumar et Epley, Journal of Personality and Social Psychology, 2022 ; vérification du 4 août 2026).
 
-Traduction pratique. Ta peur que la question soit trop lourde, trop intrusive, mal reçue, est une erreur de prédiction documentée. La conversation profonde se passe presque toujours mieux que prévu, et la barrière n'est pas dans l'autre, elle est dans ton estimation de l'autre.
+Traduction pratique. Ta peur que la question soit trop lourde, trop intrusive, mal reçue, est une erreur de prédiction documentée. La conversation profonde se passe presque toujours mieux que prévu, et dans la majorité des cas, la barrière est moins dans l'autre que dans ton estimation de l'autre.
 
 Note bien la nuance de l'étude : la prédiction est plus juste avec les proches, dont on connaît réellement l'intérêt. C'est avec les gens moyennement proches, les collègues, les connaissances, la famille éloignée, que l'erreur est la plus grande. C'est exactement la zone où on ne pose jamais rien.
 
@@ -83,7 +82,7 @@ Une question n'est jamais neutre. Elle révèle trois choses en même temps : ce
 
 C'est pour ça qu'une question précise vaut dix compliments. Dire à quelqu'un qu'il est intéressant est une évaluation. Lui demander comment il a fini par bosser dans ce domaine après avoir commencé ailleurs prouve que tu as écouté, retenu, et relié. Le compliment se reçoit poliment. La question précise, elle, se ressent. [Ce mécanisme correspond à ce que la recherche appelle la réactivité perçue du partenaire, un facteur central de la qualité perçue d'une relation](https://www.sas.rochester.edu/psy/people/faculty/reis_harry/assets/pdf/ReisClarkHolmes_2004.pdf) (Reis, Clark & Holmes, dans *Handbook of Closeness and Intimacy*, 2004 ; vérification du 8 août 2026).
 
-**💑 Dans le couple.** La quantité de questions posées à son partenaire chute avec la durée de la relation, parce qu'on croit avoir fini de le découvrir. C'est faux et c'est une des façons les plus banales de s'éloigner. Une personne change en permanence, et celle qui vit avec toi depuis cinq ans n'a pas les mêmes réponses qu'il y a cinq ans. Arrêter de demander, c'est décider de vivre avec une version périmée de quelqu'un.
+**💑 Dans le couple.** Dans beaucoup de couples, la quantité de questions posées au partenaire chute avec la durée de la relation, parce qu'on croit avoir fini de le découvrir. C'est une erreur de calcul fréquente, et une des façons les plus banales de s'éloigner, même si certains couples entretiennent cette curiosité sans effort particulier. Une personne change en permanence, et celle qui vit avec toi depuis cinq ans n'a pas nécessairement les mêmes réponses qu'il y a cinq ans. Arrêter de demander, c'est prendre le risque de vivre avec une version périmée de quelqu'un.
 
 ---
 
@@ -261,7 +260,7 @@ Ces questions sont dangereuses au sens propre : elles peuvent ramener quelque ch
 
 **Première condition.** Tu dois vouloir la réponse, pas une confirmation. Si tu poses la question en espérant du positif, tu vas obtenir du positif, parce que l'autre le sentira, et tu n'auras rien appris.
 
-**Deuxième condition.** Tu dois pouvoir encaisser la réponse sans te défendre. Si tu argumentes après, tu apprends à l'autre que cette question était un piège, et il ne répondra plus jamais honnêtement à aucune.
+**Deuxième condition.** Tu dois pouvoir encaisser la réponse sans te défendre. Si tu argumentes après, tu risques d'apprendre à l'autre que cette question était un piège, et il y a de bonnes chances qu'il ne réponde plus aussi honnêtement aux suivantes.
 
 **Troisième condition.** Tu dois avoir prévu quoi faire du silence qui suit. Voir 5.3.
 
@@ -319,7 +318,7 @@ Une question profonde déclenche presque toujours la même séquence, dans cet o
 
 **Le soulagement ou l'exposition.** Selon ce qui sort. Quelqu'un qui dit une chose qu'il n'avait jamais dite ressent soit un allégement, soit le sentiment d'en avoir trop dit. Les deux arrivent, et ce qui se passe dans les minutes suivantes décide laquelle des deux reste. [Le bénéfice émotionnel de la divulgation d'une expérience non exprimée dépend fortement de l'accueil reçu immédiatement après](https://journals.sagepub.com/doi/10.1111/j.1467-9280.1997.tb00403.x) (Pennebaker, *Psychological Science*, 1997 ; vérification du 8 août 2026).
 
-**Bons réflexes.** Ce qui transforme l'exposition en soulagement est toujours la même chose : la réaction de celui qui a posé la question. Un accueil calme, sans commentaire, sans sursaut, sans jugement, sans conseil. Voir le chapitre 8.
+**Bons réflexes.** Ce qui transforme le plus souvent l'exposition en soulagement, c'est la réaction de celui qui a posé la question. Un accueil calme, sans commentaire, sans sursaut, sans jugement, sans conseil. Voir le chapitre 8.
 
 ### 5.2 Chez celui qui pose
 
@@ -509,45 +508,4 @@ Trois choses, dans cet ordre.
 
 Poser la question, puis se taire. [Le silence qui suit une question est le temps de traitement cognitif nécessaire à la construction d'une réponse, et le combler prématurément est l'erreur la plus documentée d'une conversation par ailleurs bien engagée](https://books.google.com/books/about/MEMORY_ENHANCING_TECHNIQUES_FOR_INVESTIG.html?id=W0_YCQAAQBAJ) (Fisher & Geiselman, *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 ; vérification du 8 août 2026).
 
-Les sources scientifiques citées dans ce guide sont regroupées dans le chapitre [Sources vérifiables](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>).
-
----
-
-## 10. Sources vérifiables
-
-Sources citées dans le guide, avec ce qu'elles appuient et leur date de vérification. Les affirmations sans source précise sont listées à la fin plutôt qu'omises.
-
-## Travaux de recherche cités
-
-| Ce que ça appuie | Source | Vérifié le |
-|---|---|---|
-| Normes de réciprocité et de profondeur progressive de l'auto-divulgation (1.1, 3.1, 7.2) | Altman, I. & Taylor, D. A., *Social Penetration: The Development of Interpersonal Relationships*, Holt, Rinehart & Winston, 1973 | 8 août 2026 |
-| L'auto-divulgation active le système de récompense et est intrinsèquement gratifiante (1.2) | Tamir, D. I. & Mitchell, J. P., « Disclosing information about the self is intrinsically rewarding », *PNAS*, 2012 | 4 août 2026 |
-| Poser des questions, en particulier de suivi, augmente l'appréciation de celui qui les pose (1.2, 8.2, 9.2) | Huang, K., Yeomans, M., Brooks, A. W., Minson, J. & Gino, F., « It doesn't hurt to ask: Question-asking increases liking », *Journal of Personality and Social Psychology*, 2017 | 4 août 2026 |
-| Les gens sous-estiment l'intérêt d'autrui pour une conversation profonde | Kardas, M., Kumar, A. & Epley, N., « Overly shallow?: Miscalibrated expectations create a barrier to deeper conversation », *Journal of Personality and Social Psychology*, 2022 | 4 août 2026 |
-| Réactivité perçue du partenaire comme facteur de qualité relationnelle (1.4, 3.2) | Reis, H. T., Clark, M. S. & Holmes, J. G., « Perceived partner responsiveness as an organizing construct in the study of intimacy and closeness », dans *Handbook of Closeness and Intimacy*, 2004 | 8 août 2026 |
-| Séquence fermé-puis-ouvert en technique d'entretien (2.1, 5.3, 6.1, 9.4) | Fisher, R. P. & Geiselman, R. E., *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 | 8 août 2026 |
-| Modèle du processus d'intimité par paliers (fait / vécu / sens) (2.2) | Reis, H. T. & Shaver, P., « Intimacy as an interpersonal process », dans *Handbook of Personal Relationships*, Wiley, 1988 | 8 août 2026 |
-| Les questions de suivi augmentent le plus l'appréciation de celui qui les pose (2.3) | Yeomans, M., Brooks, A. W., Huang, K., Minson, J. & Gino, F., « It helps to ask: The cumulative benefits of asking follow-up questions », *Journal of Personality and Social Psychology*, 2019 | 4 août 2026 |
-| Accès limité aux véritables processus mentaux, rationalisation après coup (2.4, 6.4) | Nisbett, R. E. & Wilson, T. D., « Telling more than we can know: Verbal reports on mental processes », *Psychological Review*, 1977 | 8 août 2026 |
-| La critique déguisée en question est prédictive de la dégradation d'une relation (2.5) | Gottman, J. & Levenson, R., « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 | 8 août 2026 |
-| Construction active de la mémoire autobiographique (3.3, 4.1, 4.2) | Conway, M. A. & Pleydell-Pearce, C. W., « The construction of autobiographical memories in the self-memory system », *Psychological Review*, 2000 | 8 août 2026 |
-| Effets bénéfiques de la revue de vie en gérontologie (3.4, 4.5) | Butler, R. N., « The life review: An interpretation of reminiscence in the aged », *Psychiatry*, 1963 | 8 août 2026 |
-| Effet de la verbalisation d'une intention personnelle devant autrui (3.5) | Gollwitzer, P. M., « Implementation intentions: Strong effects of simple plans », *American Psychologist*, 1999 | 8 août 2026 |
-| L'évaluation sociale directe comme déclencheur de stress documenté (3.6, 4.4) | Dickerson, S. S. & Kemeny, M. E., « Acute stressors and cortisol responses: a theoretical integration and synthesis of laboratory research », *Psychological Bulletin*, 2004 | 8 août 2026 |
-| La pensée contrefactuelle intensifie spécifiquement le regret (4.3, 4.6) | Roese, N. J., « Counterfactual thinking », *Psychological Bulletin*, 1997 | 8 août 2026 |
-| Protocole des 36 questions et escalade graduée de l'auto-divulgation (4.7, 6.3, 9.1) | Aron, A., Melinat, E., Aron, E. N., Vallone, R. D. & Bator, R. J., « The experimental generation of interpersonal closeness: A procedure and some preliminary findings », *Personality and Social Psychology Bulletin*, 1997 | 4 août 2026 |
-| La mise en mots d'une expérience non formulée est un travail cognitif et émotionnel actif (5.1) | Pennebaker, J. W., « Writing about emotional experiences as a therapeutic process », *Psychological Science*, 1997 | 8 août 2026 |
-| Fatigue de compassion chez les personnes qui recueillent des confidences (5.2) | Figley, C. R., « Compassion fatigue: Toward a new understanding of the costs of caring », dans *Secondary Traumatic Stress*, 1995 | 8 août 2026 |
-| Considération positive inconditionnelle face à une émotion forte (5.4) | Rogers, C. R., « The necessary and sufficient conditions of therapeutic personality change », *Journal of Consulting Psychology*, 1957 | 8 août 2026 |
-| Le regard direct facilite ou freine la remémoration selon qu'il est évité ou maintenu (6.2) | Glenberg, A. M., Schroeder, J. L. & Robertson, D. A., « Averting the gaze disengages the environment and facilitates remembering », *Memory & Cognition*, 1998 | 8 août 2026 |
-| Communication intergénérationnelle et normes de rôle familial (7.1) | Vangelisti, A. L. (dir.), *Handbook of Family Communication*, Lawrence Erlbaum Associates, 2004 | 8 août 2026 |
-| Efficacité de l'écoute active en interaction (5.3, 7.3, 8.1, 8.3, 9.3) | Weger, H., Bell, G. C., Minei, E. M. & Robinson, M. C., « The relative effectiveness of active listening in initial interactions », *International Journal of Listening*, 2014 | 8 août 2026 |
-
-## Affirmations sans source précise identifiée
-
-- **Répartition en quatre configurations parent-enfant (père-fils, père-fille, mère-fils, mère-fille)** (6.2, 7.1). Observation clinique et d'entretien reprise du guide *Pour Lui*, sans étude comparative dédiée identifiée à cette date.
-- **Les quinze questions de la boîte à outils et les cinq relances universelles** (9.1, 9.2). Formulations pratiques dérivées des mécanismes sourcés au chapitre 3 et 4, mais non testées elles-mêmes comme protocole isolé.
-- **Durée type du silence après une question profonde (deux à huit secondes)** (5.3). Ordre de grandeur d'observation clinique, sans étude de mesure systématique du temps de latence identifiée.
-
-Retour au [guide Questions et communication](<../1 - Guides/Questions et communication/README.md>).
+Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../4 - Sources/Questions et communication.md>).

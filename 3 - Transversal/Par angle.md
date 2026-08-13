@@ -162,25 +162,16 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Sources vérifiables](<../1 - Guides/Pour Elle/35 - Sources verifiables.md>)  `corps féminin` · Pour Elle
 - [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Lui/01 - Ce que disent les chiffres.md>)  `corps masculin` · Pour Lui
 - [Aide-mémoire](<../1 - Guides/Pour Lui/30 - Aide-mémoire.md>)  `corps masculin` · Pour Lui
-- [Sources vérifiables](<../1 - Guides/Pour Lui/31 - Sources verifiables.md>)  `corps masculin` · Pour Lui
 - [Le couple à travers les âges et les civilisations](<../1 - Guides/Pour Nous/11 - Le couple a travers les ages.md>)  `commun` · Pour Nous
-- [Sources vérifiables](<../1 - Guides/Pour Nous/12 - Sources verifiables.md>)  `commun` · Pour Nous
 - [Où les gens se rencontrent vraiment](<../1 - Guides/La rencontre/04 - Ou les gens se rencontrent vraiment.md>)  `commun` · La rencontre
 - [Les applications : la logique derrière l'écran](<../1 - Guides/La rencontre/05 - Les applications de rencontre.md>)  `commun` · La rencontre
-- [Sources vérifiables](<../1 - Guides/La rencontre/10 - Sources verifiables.md>)  `commun` · La rencontre
 - [Les types d'amour : ce que les Grecs avaient déjà démêlé](<../1 - Guides/L amour/03 - Les types d amour.md>)  `commun` · L'amour
 - [L'amour romantique, une invention récente](<../1 - Guides/L amour/06 - L amour romantique une invention recente.md>)  `commun` · L'amour
-- [Sources vérifiables](<../1 - Guides/L amour/10 - Sources verifiables.md>)  `commun` · L'amour
-- [Sources vérifiables](<../1 - Guides/Les emotions/11 - Sources verifiables.md>)  `commun` · Les émotions
-- [Sources vérifiables](<../1 - Guides/IST, depistage et prevention/07 - Sources verifiables.md>)  `commun` · IST, dépistage et prévention
 - [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `commun` · Massage professionnel
 - [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `commun` · Massage professionnel
-- [Sources vérifiables](<../1 - Guides/Massage professionnel/13 - Sources verifiables.md>)  `commun` · Massage professionnel
 - [Les six familles de questions](<../1 - Guides/Questions et communication/03 - Les six familles de questions.md>)  `commun` · Questions et communication
 - [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `commun` · Questions et communication
-- [Sources vérifiables](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>)  `commun` · Questions et communication
 - [Les familles recomposées aujourd'hui](<../1 - Guides/Les nouvelles compositions familiales/01 - Les familles recomposees aujourd hui.md>)  `commun` · Les nouvelles compositions familiales
 - [D'autres modèles familiaux, tout aussi réels](<../1 - Guides/Les nouvelles compositions familiales/02 - D autres modeles familiaux tout aussi reels.md>)  `commun` · Les nouvelles compositions familiales
-- [Sources vérifiables](<../1 - Guides/Les nouvelles compositions familiales/05 - Sources verifiables.md>)  `commun` · Les nouvelles compositions familiales
 
 Retour à [l'accueil de Comprendre pour tous](<../README.md>).

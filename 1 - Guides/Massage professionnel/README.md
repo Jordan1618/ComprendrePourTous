@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Massage professionnel"
 sujet: "commun"
-chapitres: 13
-mots: 5233
+chapitres: 12
+mots: 4528
 verifie_le: 2026-07-21
 licence: "CC BY 4.0"
 ---
@@ -36,8 +36,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 10 | [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<10 - Orient et Occident.md>) | repères | 213 |
 | 11 | [Le volet intimité de couple](<11 - Intimité de couple.md>) | relation | 460 |
 | 12 | [Pour aller plus loin](<12 - Pour aller plus loin.md>) | repères | 173 |
-| 13 | [Sources vérifiables](<13 - Sources verifiables.md>) | repères | 705 |
 
-Total : 5 233 mots, 13 chapitres.
+Total : 4 528 mots, 12 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

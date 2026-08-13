@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — Pour Nous
 
-Sources du guide [Pour Nous](<../1 - Guides/Pour Nous/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/Pour Nous/12 - Sources verifiables.md>) précise ce que chaque référence appuie.
+Sources du guide [Pour Nous](<../1 - Guides/Pour Nous/README.md>), classées par thème et citées directement dans le texte de chaque chapitre.
 
 ## Trauma et prise en charge
 

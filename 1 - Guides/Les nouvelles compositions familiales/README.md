@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Les nouvelles compositions familiales"
 sujet: "commun"
-chapitres: 5
-mots: 6788
+chapitres: 4
+mots: 6596
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -24,8 +24,7 @@ Ce guide s'adresse à qui vit ou traverse une recomposition familiale — comme 
 | 2 | [D'autres modèles familiaux, tout aussi réels](<02 - D autres modeles familiaux tout aussi reels.md>) | repères | 1 577 |
 | 3 | [Trouver sa place dedans](<03 - Trouver sa place dedans.md>) | relation | 1 318 |
 | 4 | [Les bons principes à avoir](<04 - Les bons principes a avoir.md>) | pratique | 713 |
-| 5 | [Sources vérifiables](<05 - Sources verifiables.md>) | repères | 192 |
 
-Total : 6 788 mots, 5 chapitres.
+Total : 6 596 mots, 4 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

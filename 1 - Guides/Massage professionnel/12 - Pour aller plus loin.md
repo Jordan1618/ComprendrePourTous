@@ -14,6 +14,6 @@ licence: "CC BY 4.0"
 - Garde toujours en tête la hiérarchie : **sécurité > consentement > technique**. Un praticien qui maîtrise dix techniques mais qui ne sait pas lire le corps de la personne en face de lui reste moins bon qu'un praticien qui maîtrise trois gestes mais qui écoute parfaitement.
 - Ce document peut servir de base si tu veux, plus tard, construire ta propre fiche de suivi (zones travaillées, retours de la personne, préférences), un peu comme tu structures déjà tes autres projets.
 
-Les sources scientifiques et institutionnelles citées dans ce guide sont regroupées dans le chapitre [Sources vérifiables](<13 - Sources verifiables.md>).
+Les sources scientifiques et institutionnelles citées dans ce guide sont regroupées dans [4 - Sources — Massage professionnel](<../../4 - Sources/Massage professionnel.md>).
 
 "Note : ce document est informatif et ne remplace ni une formation certifiante en massothérapie, ni un avis médical."

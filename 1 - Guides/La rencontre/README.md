@@ -2,8 +2,8 @@
 type: "guide"
 guide: "La rencontre"
 sujet: "commun"
-chapitres: 10
-mots: 10812
+chapitres: 9
+mots: 10075
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
@@ -33,9 +33,8 @@ Il est écrit pour tout le monde, quel que soit le genre et l'orientation. Les p
 | 7 | [Les signaux d'alerte documentés](<07 - Les signaux d alerte documentes.md>) | prévention | 1 176 |
 | 8 | [Sécurité pratique et cadre légal](<08 - Securite et cadre legal.md>) | prévention | 947 |
 | 9 | [Mieux choisir : la synthèse actionnable](<09 - Mieux choisir la synthese.md>) | pratique | 916 |
-| 10 | [Sources vérifiables](<10 - Sources verifiables.md>) | repères | 737 |
 
-Total : 10 812 mots, 10 chapitres.
+Total : 10 075 mots, 9 chapitres.
 
 ## Par où commencer
 

@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — IST, dépistage et prévention
 
-Sources du guide [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/IST, depistage et prevention/07 - Sources verifiables.md>) précise ce que chaque référence appuie et liste ce qui reste sans source.
+Sources du guide [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>), classées par thème et citées directement dans le texte de chaque chapitre.
 
 ## Panorama et transmission
 

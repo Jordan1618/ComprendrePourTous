@@ -2,8 +2,8 @@
 type: "guide-complet"
 guide: "Les nouvelles compositions familiales"
 sujet: "commun"
-chapitres: 5
-mots: 7026
+chapitres: 4
+mots: 6829
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Les nouvelles compositions familiales"
@@ -28,7 +28,6 @@ Ce guide s'adresse à qui vit ou traverse une recomposition familiale — comme 
 - **2.** D'autres modèles familiaux, tout aussi réels
 - **3.** Trouver sa place dedans
 - **4.** Les bons principes à avoir
-- **5.** Sources vérifiables
 
 ---
 
@@ -306,18 +305,3 @@ Un principe trop souvent oublié dans une liste de bons réflexes centrée sur l
 - Papernow, P., [modèle des étapes de développement des familles recomposées](https://couplestherapymelbourne.com.au/stepfamily-stages-of-development/) ; vérification du 11 août 2026.
 - Gottman Institute, [Navigating Different Parenting Styles in Blended Families](https://www.gottman.com/blog/navigating-different-parenting-styles-in-blended-families/) ; vérification du 11 août 2026.
 - [Famille recomposée : comment gérer les conflits et l'ex trop présent(e) ?](https://www.mamaste.fr/famille-recomposee-conflits-ex/) ; vérification du 11 août 2026.
-
----
-
-## 5. Sources vérifiables
-
-Toutes les sources citées dans ce guide, regroupées ici avec ce qu'elles appuient et leur date de vérification.
-
-- [Insee, Ménages, couples et familles — France, portrait social](https://www.insee.fr/fr/statistiques/8612510?sommaire=8612596) : proportion d'enfants vivant en famille recomposée (10 %, 1,47 million d'enfants) ; vérification du 11 août 2026.
-- [Les limites de la coparentalité, 2houses](https://www.2houses.com/fr/blog/les-limites-de-la-coparentalite-comment-les-depasser) : cadre légal de la résidence alternée (article 373-2-9 du Code civil) ; vérification du 11 août 2026.
-- Papernow, P., [modèle des étapes de développement des familles recomposées](https://couplestherapymelbourne.com.au/stepfamily-stages-of-development/) : durée moyenne de stabilisation (4 à 7 ans), phases traversées ; vérification du 11 août 2026.
-- [Disciplining dilemma: The role of the stepparent](https://www.canr.msu.edu/news/disciplining_dilemma_the_role_of_the_stepparent), Michigan State University Extension : connexion avant correction, autorité empruntée au parent biologique ; vérification du 11 août 2026.
-- Gottman Institute, [Navigating Different Parenting Styles in Blended Families](https://www.gottman.com/blog/navigating-different-parenting-styles-in-blended-families/) : rôle du parent biologique dans la discipline, alignement entre adultes ; vérification du 11 août 2026.
-- [Famille recomposée : comment gérer les conflits et l'ex trop présent(e) ?](https://www.mamaste.fr/famille-recomposee-conflits-ex/) : place du nouveau partenaire face à l'ex-conjoint ; vérification du 11 août 2026.
-
-Aucune affirmation de ce guide n'est restée sans source identifiée à ce stade.

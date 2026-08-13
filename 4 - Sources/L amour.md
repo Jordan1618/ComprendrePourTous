@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — L'amour
 
-Sources du guide [L'amour](<../1 - Guides/L amour/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/L amour/10 - Sources verifiables.md>) précise ce que chaque référence appuie.
+Sources du guide [L'amour](<../1 - Guides/L amour/README.md>), classées par thème et citées directement dans le texte de chaque chapitre.
 
 ## Biologie de l'amour
 

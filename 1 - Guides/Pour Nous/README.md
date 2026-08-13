@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Pour Nous"
 sujet: "commun"
-chapitres: 12
-mots: 10498
+chapitres: 11
+mots: 9907
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
@@ -35,9 +35,8 @@ Le guide distingue nettement ce qui **explique** un comportement de ce qui l'**e
 | 9 | [Faire face aux épreuves qui viennent de l'extérieur](<09 - Faire face aux epreuves.md>) | relation | 884 |
 | 10 | [Le deuil, seul et à deux](<10 - Le deuil.md>) | relation | 865 |
 | 11 | [Le couple à travers les âges et les civilisations](<11 - Le couple a travers les ages.md>) | repères | 933 |
-| 12 | [Sources vérifiables](<12 - Sources verifiables.md>) | repères | 591 |
 
-Total : 10 498 mots, 12 chapitres.
+Total : 9 907 mots, 11 chapitres.
 
 ## Par où commencer
 

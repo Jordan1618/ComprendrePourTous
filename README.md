@@ -2,8 +2,8 @@
 projet: "Comprendre pour tous"
 type: "collection"
 guides: 10
-chapitres: 143
-mots: 213756
+chapitres: 135
+mots: 204550
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-08-13
 licence: "CC BY 4.0"
@@ -33,17 +33,17 @@ J'écris chaque guide dans les deux sens, pour que femmes et hommes puissent s'y
 | Guide | Sujet | Chapitres | Contenu | Lire |
 |---|---|---|---|---|
 | [Pour Elle](<1 - Guides/Pour Elle/README.md>) | corps féminin | 35 | Cycle, contraception, pathologies, sexualité, grossesse, profils psychologiques, âges de la vie, couple, limites, attentes et peurs relationnelles, mères célibataires | [intégrale](<0 - Guides complets/Pour Elle.md>) |
-| [Pour Lui](<1 - Guides/Pour Lui/README.md>) | corps masculin | 31 | Émotions, dépression, corps, cycle, contraception, sexualité, couple, santé long terme, attentes et peurs relationnelles, pères célibataires | [intégrale](<0 - Guides complets/Pour Lui.md>) |
-| [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 12 | Trauma, décisions communes, quotidien et charge, projets de vie, épreuves, deuil, histoire du couple | [intégrale](<0 - Guides complets/Pour Nous.md>) |
-| [Les nouvelles compositions familiales](<1 - Guides/Les nouvelles compositions familiales/README.md>) | commun | 5 | Panorama actuel, autres modèles familiaux (homoparentalité, coparentalité choisie, familles d'accueil), étapes réelles d'une recomposition, trouver sa place, bons principes | [intégrale](<0 - Guides complets/Les nouvelles compositions familiales.md>) |
-| [La rencontre](<1 - Guides/La rencontre/README.md>) | commun | 10 | Attirance, attachement, biais de choix, applications, signaux d'alerte, sécurité | [intégrale](<0 - Guides complets/La rencontre.md>) |
-| [L'amour](<1 - Guides/L amour/README.md>) | commun | 10 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir dans la durée, engagement | [intégrale](<0 - Guides complets/L'amour.md>) |
-| [Questions et communication](<1 - Guides/Questions et communication/README.md>) | commun | 10 | Ce qu'une question fait, comment elles se classent, celles qui changent une vie | [intégrale](<0 - Guides complets/Questions et communication.md>) |
-| [Les émotions](<1 - Guides/Les emotions/README.md>) | commun | 11 | Fabrication, origines, nommer, décoder, réguler, troubles, parcours de soin, tabous | [intégrale](<0 - Guides complets/Les émotions.md>) |
-| [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 7 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV | [intégrale](<0 - Guides complets/IST, dépistage et prévention.md>) |
-| [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 13 | Cadre, techniques, zones du corps, produits, contre-indications | [intégrale](<0 - Guides complets/Massage professionnel.md>) |
+| [Pour Lui](<1 - Guides/Pour Lui/README.md>) | corps masculin | 30 | Émotions, dépression, corps, cycle, contraception, sexualité, couple, santé long terme, attentes et peurs relationnelles, pères célibataires | [intégrale](<0 - Guides complets/Pour Lui.md>) |
+| [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 11 | Trauma, décisions communes, quotidien et charge, projets de vie, épreuves, deuil, histoire du couple | [intégrale](<0 - Guides complets/Pour Nous.md>) |
+| [Les nouvelles compositions familiales](<1 - Guides/Les nouvelles compositions familiales/README.md>) | commun | 4 | Panorama actuel, autres modèles familiaux (homoparentalité, coparentalité choisie, familles d'accueil), étapes réelles d'une recomposition, trouver sa place, bons principes | [intégrale](<0 - Guides complets/Les nouvelles compositions familiales.md>) |
+| [La rencontre](<1 - Guides/La rencontre/README.md>) | commun | 9 | Attirance, attachement, biais de choix, applications, signaux d'alerte, sécurité | [intégrale](<0 - Guides complets/La rencontre.md>) |
+| [L'amour](<1 - Guides/L amour/README.md>) | commun | 9 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir dans la durée, engagement | [intégrale](<0 - Guides complets/L'amour.md>) |
+| [Questions et communication](<1 - Guides/Questions et communication/README.md>) | commun | 9 | Ce qu'une question fait, comment elles se classent, celles qui changent une vie | [intégrale](<0 - Guides complets/Questions et communication.md>) |
+| [Les émotions](<1 - Guides/Les emotions/README.md>) | commun | 10 | Fabrication, origines, nommer, décoder, réguler, troubles, parcours de soin, tabous | [intégrale](<0 - Guides complets/Les émotions.md>) |
+| [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 6 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV | [intégrale](<0 - Guides complets/IST, dépistage et prévention.md>) |
+| [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [intégrale](<0 - Guides complets/Massage professionnel.md>) |
 
-Environ 213 800 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
+Environ 204 500 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
 
 ## Trois façons d'y entrer
 

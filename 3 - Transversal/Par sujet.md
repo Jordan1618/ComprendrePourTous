@@ -87,7 +87,6 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/28 - Comment sont-ils vus et existent-ils dans la famille.md>)  `relation`
 - [Pères célibataires aujourd'hui](<../1 - Guides/Pour Lui/29 - Peres celibataires aujourd hui.md>)  `relation`
 - [Aide-mémoire](<../1 - Guides/Pour Lui/30 - Aide-mémoire.md>)  `repères`
-- [Sources vérifiables](<../1 - Guides/Pour Lui/31 - Sources verifiables.md>)  `repères`
 
 ## Commun
 
@@ -106,7 +105,6 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Faire face aux épreuves qui viennent de l'extérieur](<../1 - Guides/Pour Nous/09 - Faire face aux epreuves.md>)  `relation`
 - [Le deuil, seul et à deux](<../1 - Guides/Pour Nous/10 - Le deuil.md>)  `relation`
 - [Le couple à travers les âges et les civilisations](<../1 - Guides/Pour Nous/11 - Le couple a travers les ages.md>)  `repères`
-- [Sources vérifiables](<../1 - Guides/Pour Nous/12 - Sources verifiables.md>)  `repères`
 **La rencontre**
 
 - [Ce que le cerveau décide avant vous](<../1 - Guides/La rencontre/01 - Ce que le cerveau decide avant vous.md>)  `physiologie`
@@ -118,7 +116,6 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Les signaux d'alerte documentés](<../1 - Guides/La rencontre/07 - Les signaux d alerte documentes.md>)  `prévention`
 - [Sécurité pratique et cadre légal](<../1 - Guides/La rencontre/08 - Securite et cadre legal.md>)  `prévention`
 - [Mieux choisir : la synthèse actionnable](<../1 - Guides/La rencontre/09 - Mieux choisir la synthese.md>)  `pratique`
-- [Sources vérifiables](<../1 - Guides/La rencontre/10 - Sources verifiables.md>)  `repères`
 **L'amour**
 
 - [Ce que le cerveau appelle amour](<../1 - Guides/L amour/01 - Ce que le cerveau appelle amour.md>)  `physiologie`
@@ -130,7 +127,6 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/07 - Les langages de l amour.md>)  `relation`
 - [Le désir dans la durée](<../1 - Guides/L amour/08 - Le desir dans la duree.md>)  `relation`
 - [Ce que l'amour engage concrètement](<../1 - Guides/L amour/09 - Ce que l amour engage.md>)  `pratique`
-- [Sources vérifiables](<../1 - Guides/L amour/10 - Sources verifiables.md>)  `repères`
 **Les émotions**
 
 - [Comment une émotion se fabrique](<../1 - Guides/Les emotions/01 - Comment une emotion se fabrique.md>)  `physiologie`
@@ -143,7 +139,6 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Les troubles psychiques : des repères, pas un diagnostic](<../1 - Guides/Les emotions/08 - Les troubles psychiques.md>)  `prévention`
 - [Envisager un parcours de soin, seul ou à deux](<../1 - Guides/Les emotions/09 - Envisager un parcours de soin.md>)  `pratique`
 - [Les tabous à démonter](<../1 - Guides/Les emotions/10 - Les tabous a demonter.md>)  `relation`
-- [Sources vérifiables](<../1 - Guides/Les emotions/11 - Sources verifiables.md>)  `repères`
 **IST, dépistage et prévention**
 
 - [Comprendre les IST : panorama et transmission](<../1 - Guides/IST, depistage et prevention/01 - Panorama et transmission.md>)  `prévention`
@@ -152,7 +147,6 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Herpès génital : la gestion à vie plutôt que la guérison](<../1 - Guides/IST, depistage et prevention/04 - Herpès génital.md>)  `prévention`
 - [Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans](<../1 - Guides/IST, depistage et prevention/05 - Le VIH aujourd'hui.md>)  `prévention`
 - [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<../1 - Guides/IST, depistage et prevention/06 - HPV et vaccination.md>)  `prévention`
-- [Sources vérifiables](<../1 - Guides/IST, depistage et prevention/07 - Sources verifiables.md>)  `repères`
 **Massage professionnel**
 
 - [Le cadre général : ce qui précède la technique](<../1 - Guides/Massage professionnel/01 - Le cadre général.md>)  `pratique`
@@ -167,7 +161,6 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `repères`
 - [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `relation`
 - [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `repères`
-- [Sources vérifiables](<../1 - Guides/Massage professionnel/13 - Sources verifiables.md>)  `repères`
 **Questions et communication**
 
 - [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `psychologie`
@@ -179,14 +172,12 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `relation`
 - [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `relation`
 - [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `repères`
-- [Sources vérifiables](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>)  `repères`
 **Les nouvelles compositions familiales**
 
 - [Les familles recomposées aujourd'hui](<../1 - Guides/Les nouvelles compositions familiales/01 - Les familles recomposees aujourd hui.md>)  `repères`
 - [D'autres modèles familiaux, tout aussi réels](<../1 - Guides/Les nouvelles compositions familiales/02 - D autres modeles familiaux tout aussi reels.md>)  `repères`
 - [Trouver sa place dedans](<../1 - Guides/Les nouvelles compositions familiales/03 - Trouver sa place dedans.md>)  `relation`
 - [Les bons principes à avoir](<../1 - Guides/Les nouvelles compositions familiales/04 - Les bons principes a avoir.md>)  `pratique`
-- [Sources vérifiables](<../1 - Guides/Les nouvelles compositions familiales/05 - Sources verifiables.md>)  `repères`
 
 ## Comment cet index est tenu
 

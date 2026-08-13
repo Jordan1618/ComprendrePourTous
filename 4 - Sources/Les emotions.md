@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — Les émotions
 
-Sources du guide [Les émotions](<../1 - Guides/Les emotions/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/Les emotions/11 - Sources verifiables.md>) précise ce que chaque référence appuie et liste ce qui reste sans source.
+Sources du guide [Les émotions](<../1 - Guides/Les emotions/README.md>), classées par thème et citées directement dans le texte de chaque chapitre.
 
 ## Fabrication d'une émotion
 

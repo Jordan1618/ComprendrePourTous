@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — Questions et communication
 
-Sources du guide [Questions et communication](<../1 - Guides/Questions et communication/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>) précise ce que chaque référence appuie et liste ce qui reste sans source.
+Sources du guide [Questions et communication](<../1 - Guides/Questions et communication/README.md>), classées par thème et citées directement dans le texte de chaque chapitre.
 
 ## Auto-divulgation et proximité
 

@@ -2,8 +2,8 @@
 type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
-chapitres: 31
-mots: 63993
+chapitres: 30
+mots: 62641
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -54,9 +54,8 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 28 | [Comment sont-ils vus et existent-ils dans la famille](<28 - Comment sont-ils vus et existent-ils dans la famille.md>) | relation | 2 022 |
 | 29 | [Pères célibataires aujourd'hui](<29 - Peres celibataires aujourd hui.md>) | relation | 2 008 |
 | 30 | [Aide-mémoire](<30 - Aide-mémoire.md>) | repères | 949 |
-| 31 | [Sources vérifiables](<31 - Sources verifiables.md>) | repères | 1 352 |
 
-Total : 63 993 mots, 31 chapitres.
+Total : 62 641 mots, 30 chapitres.
 
 Ce guide a un pendant, [Pour Elle](<../Pour Elle/README.md>), pour le même thème vu de l'autre côté.
 

@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — La rencontre
 
-Sources du guide [La rencontre](<../1 - Guides/La rencontre/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/La rencontre/10 - Sources verifiables.md>) du guide précise en plus ce que chaque référence appuie et signale les affirmations sans source identifiée.
+Sources du guide [La rencontre](<../1 - Guides/La rencontre/README.md>), classées par thème et citées directement dans le texte de chaque chapitre.
 
 ## Attirance et première impression
 

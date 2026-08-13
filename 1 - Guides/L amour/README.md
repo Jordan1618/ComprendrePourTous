@@ -2,8 +2,8 @@
 type: "guide"
 guide: "L'amour"
 sujet: "commun"
-chapitres: 10
-mots: 9770
+chapitres: 9
+mots: 8900
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
@@ -33,9 +33,8 @@ Le guide dit aussi ce qui n'est **pas** validé. Les langages de l'amour, par ex
 | 7 | [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<07 - Les langages de l amour.md>) | relation | 844 |
 | 8 | [Le désir dans la durée](<08 - Le desir dans la duree.md>) | relation | 890 |
 | 9 | [Ce que l'amour engage concrètement](<09 - Ce que l amour engage.md>) | pratique | 862 |
-| 10 | [Sources vérifiables](<10 - Sources verifiables.md>) | repères | 870 |
 
-Total : 9 770 mots, 10 chapitres.
+Total : 8 900 mots, 9 chapitres.
 
 ## Par où commencer
 

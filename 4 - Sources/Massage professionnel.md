@@ -7,7 +7,7 @@ licence: "CC BY 4.0"
 
 # Sources — Massage professionnel
 
-Sources du guide [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>), classées par thème. Le chapitre [Sources vérifiables](<../1 - Guides/Massage professionnel/13 - Sources verifiables.md>) précise ce que chaque référence appuie et liste ce qui reste sans source.
+Sources du guide [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>), classées par thème et citées directement dans le texte de chaque chapitre.
 
 ## Cadre et efficacité générale du massage
 

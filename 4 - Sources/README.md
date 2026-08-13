@@ -1,28 +1,28 @@
 ---
 type: "index"
 axe: "sources"
-mis_a_jour_le: 2026-08-07
+mis_a_jour_le: 2026-08-13
 licence: "CC BY 4.0"
 ---
 
 # Les sources
 
-Toutes les références de la collection, **une page par guide**, chacune classée par thème. Chaque entrée indique ce qu'elle appuie et dans quel chapitre elle est mobilisée.
+Toutes les références de la collection, **une page par guide**, chacune classée par thème. Chaque entrée indique ce qu'elle appuie et dans quel chapitre elle est mobilisée. Cette page est la seule liste consolidée par guide : dans le texte des chapitres, chaque affirmation sourcée est déjà un hyperlien direct vers l'original, sans liste récapitulative redondante en fin de chapitre.
 
 ## Par guide
 
-| Guide | Sources | Chapitre de sources dans le guide |
-|---|---|---|
-| [La rencontre](<../1 - Guides/La rencontre/README.md>) | [Sources — La rencontre](<La rencontre.md>) | [oui](<../1 - Guides/La rencontre/10 - Sources verifiables.md>) |
-| [L'amour](<../1 - Guides/L amour/README.md>) | [Sources — L'amour](<L amour.md>) | [oui](<../1 - Guides/L amour/10 - Sources verifiables.md>) |
-| [Les émotions](<../1 - Guides/Les emotions/README.md>) | [Sources — Les émotions](<Les emotions.md>) | [oui](<../1 - Guides/Les emotions/11 - Sources verifiables.md>) |
-| [Pour Nous](<../1 - Guides/Pour Nous/README.md>) | [Sources — Pour Nous](<Pour Nous.md>) | [oui](<../1 - Guides/Pour Nous/12 - Sources verifiables.md>) |
-| [Pour Elle](<../1 - Guides/Pour Elle/README.md>) | [Sources — Pour Elle](<Pour Elle.md>) | [oui](<../1 - Guides/Pour Elle/35 - Sources verifiables.md>) |
-| [Pour Lui](<../1 - Guides/Pour Lui/README.md>) | [Sources — Pour Lui](<Pour Lui.md>) | [oui](<../1 - Guides/Pour Lui/31 - Sources verifiables.md>) |
-| [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | [Sources — IST, dépistage et prévention](<IST, depistage et prevention.md>) | [oui](<../1 - Guides/IST, depistage et prevention/07 - Sources verifiables.md>) |
-| [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | [Sources — Massage professionnel](<Massage professionnel.md>) | [oui](<../1 - Guides/Massage professionnel/13 - Sources verifiables.md>) |
-| [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | [Sources — Questions et communication](<Questions et communication.md>) | [oui](<../1 - Guides/Questions et communication/10 - Sources verifiables.md>) |
-| [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>) | [Sources — Les nouvelles compositions familiales](<Les nouvelles compositions familiales.md>) | [oui](<../1 - Guides/Les nouvelles compositions familiales/05 - Sources verifiables.md>) |
+| Guide | Sources |
+|---|---|
+| [La rencontre](<../1 - Guides/La rencontre/README.md>) | [Sources — La rencontre](<La rencontre.md>) |
+| [L'amour](<../1 - Guides/L amour/README.md>) | [Sources — L'amour](<L amour.md>) |
+| [Les émotions](<../1 - Guides/Les emotions/README.md>) | [Sources — Les émotions](<Les emotions.md>) |
+| [Pour Nous](<../1 - Guides/Pour Nous/README.md>) | [Sources — Pour Nous](<Pour Nous.md>) |
+| [Pour Elle](<../1 - Guides/Pour Elle/README.md>) | [Sources — Pour Elle](<Pour Elle.md>) |
+| [Pour Lui](<../1 - Guides/Pour Lui/README.md>) | [Sources — Pour Lui](<Pour Lui.md>) |
+| [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) | [Sources — IST, dépistage et prévention](<IST, depistage et prevention.md>) |
+| [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) | [Sources — Massage professionnel](<Massage professionnel.md>) |
+| [Questions et communication](<../1 - Guides/Questions et communication/README.md>) | [Sources — Questions et communication](<Questions et communication.md>) |
+| [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>) | [Sources — Les nouvelles compositions familiales](<Les nouvelles compositions familiales.md>) |
 
 ## Transversal
 
