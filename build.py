@@ -1072,8 +1072,18 @@ def render_guide(guide, by_url, nav):
                     '<strong>%s</strong>%s</a></li>'
                     % (p.url, n, esc(p.title), chips))
     body.append('<ol class="chapters">%s</ol>' % "".join(rows))
-    body.append('<p class="source"><a href="%s" target="_blank" rel="noopener">'
-                'Voir ce dossier sur GitHub</a></p>' % gh_tree(guide.folder))
+    if guide.children:
+        body.append('<p class="start-guide"><a class="btn" href="%s">'
+                    'Commencer au premier chapitre</a></p>' % guide.children[0].url)
+    sources_url = "/sources/%s/" % slugify(Path(guide.folder).name)
+    if sources_url in by_url:
+        body.append('<p class="source"><a href="%s">Toutes les sources sont ici</a> '
+                    '&middot; <a href="%s" target="_blank" rel="noopener">'
+                    'Voir ce dossier sur GitHub</a></p>'
+                    % (sources_url, gh_tree(guide.folder)))
+    else:
+        body.append('<p class="source"><a href="%s" target="_blank" rel="noopener">'
+                    'Voir ce dossier sur GitHub</a></p>' % gh_tree(guide.folder))
     body.append("</article>")
     body.append(avis_block(guide.title, guide.url))
     body.append(feedback_block(guide.title, guide.url))
@@ -1482,6 +1492,9 @@ def main():
         if p.kind == "home":
             # la table des guides fait doublon avec les cartes de l'accueil
             body = re.sub(r"\n## Les guides\n.*?(?=\n## )", "\n", body, flags=re.DOTALL)
+        if p.kind == "guide":
+            # le tableau des chapitres fait doublon avec la liste generee automatiquement
+            body = re.sub(r"\n## Chapitres\n.*?(?=\n## |\Z)", "\n", body, flags=re.DOTALL)
         p.html = md.convert(body)
         p.headings = md.headings
         p.text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", p.html)).strip()
