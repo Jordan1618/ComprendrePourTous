@@ -21,7 +21,7 @@ licence: "CC BY 4.0"
 7. Poser la question du suicide directement n'induit rien et ouvre tout. Le 3114 existe (6.4).
 8. Il parle mieux côte à côte, les mains occupées, sans annonce préalable (4.7).
 9. Tu es peut-être sa seule confidente. Ce n'est pas tenable, pour lui comme pour toi (14.3).
-10. Comprendre n'est pas porter, et certaines choses ne sont jamais de la maladresse émotionnelle (19.4). Ce condensé reprend les références détaillées dans les chapitres correspondants, en particulier sur l'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+10. Comprendre n'est pas porter, et certaines choses ne sont jamais de la maladresse émotionnelle (19.4). [Ce condensé reprend les références détaillées dans les chapitres correspondants, en particulier sur l'alexithymie masculine normative](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 30.1 bis Les dix idées ajoutées en version 2
 
@@ -34,7 +34,7 @@ licence: "CC BY 4.0"
 7. Affirmer n'est pas agresser, et se taire n'est pas respecter. La confusion des deux paralyse une génération (18.2).
 8. Valider la souffrance et valider l'explication sont deux opérations distinctes. Confondre les deux est l'erreur centrale face au ressentiment (18.3).
 9. Ce qui fait tomber un homme amoureux, en premier : être vu correctement, et ne pas être regardé différemment après avoir été vu en difficulté (12.4).
-10. La qualité d'une relation dépend beaucoup moins de qui est le partenaire que de ce qui s'installe entre les deux. Chercher la bonne personne est moins efficace que construire les bonnes dynamiques (12.6). Ce second condensé reprend les références détaillées dans les chapitres ajoutés sur le substrat socio-neuro-psychologique et les profils masculins (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
+10. La qualité d'une relation dépend beaucoup moins de qui est le partenaire que de ce qui s'installe entre les deux. Chercher la bonne personne est moins efficace que construire les bonnes dynamiques (12.6). [Ce second condensé reprend les références détaillées dans les chapitres ajoutés sur le substrat socio-neuro-psychologique et les profils masculins](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ### 30.2 Les numéros
 
@@ -43,11 +43,11 @@ licence: "CC BY 4.0"
 - **3919** : violences faites aux femmes. Anonyme et gratuit.
 - **114** : urgences par SMS.
 - **0 800 23 13 13** : Drogues info service.
-- **0 980 980 930** : Alcool info service. Ces numéros et leurs conditions d'accès sont publiés par les autorités de santé publique françaises (source : Santé publique France, *Suicide et tentatives de suicide* ; vérification du 7 août 2026).
+- **0 980 980 930** : Alcool info service. Ces numéros et leurs conditions d'accès sont publiés par les autorités de santé publique françaises (Santé publique France, *Suicide et tentatives de suicide* ; vérification du 7 août 2026).
 
 ### 30.3 Les quatre jauges à surveiller
 
-Sommeil, alcool, libido, humeur au réveil. Si trois des quatre se dégradent en même temps et pendant plus de trois semaines, ce n'est pas une mauvaise passe. Ces quatre paramètres — sommeil, alcool, libido, humeur — recoupent les facteurs de vulnérabilité les mieux documentés pour la santé émotionnelle masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
+Sommeil, alcool, libido, humeur au réveil. Si trois des quatre se dégradent en même temps et pendant plus de trois semaines, ce n'est pas une mauvaise passe. [Ces quatre paramètres — sommeil, alcool, libido, humeur — recoupent les facteurs de vulnérabilité les mieux documentés pour la santé émotionnelle masculine](https://scispace.com/pdf/men-masculinity-and-the-contexts-of-help-seeking-39yqubxun4.pdf) (Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 ### 30.4 Sources principales
 

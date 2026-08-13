@@ -24,7 +24,7 @@ Cela explique une chose qui déroute souvent les femmes : la demande sexuelle d'
 
 - Casser le cercle passe par le contact non sexuel régulier et non ambigu. Beaucoup d'hommes ne sont jamais touchés sans que ce soit un préliminaire, ce qui rend chaque contact chargé d'enjeu. Une main dans le dos, une tête sur l'épaule, sans suite, désature la prise multiple.
 - Séparer explicitement les demandes aide énormément. "J'ai envie d'un câlin, pas de sexe" dit par toi lui donne le droit de le dire aussi.
-- Si le refus est nécessaire, refuser l'acte sans refuser la personne. "Pas ce soir, mais viens là" est vécu très différemment de "non". La différence n'est pas cosmétique : elle évite d'atterrir en zone de honte, cf. 4.4. La sexualité comme principal canal d'expression émotionnelle autorisé chez l'homme découle du concept d'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+- Si le refus est nécessaire, refuser l'acte sans refuser la personne. "Pas ce soir, mais viens là" est vécu très différemment de "non". La différence n'est pas cosmétique : elle évite d'atterrir en zone de honte, cf. 4.4. [La sexualité comme principal canal d'expression émotionnelle autorisé chez l'homme découle du concept d'alexithymie masculine normative](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 11.2 La panne : ce qui se joue vraiment
 
@@ -37,7 +37,7 @@ Sur le plan émotionnel, c'est autre chose. Pour un homme, une panne n'est pas u
 - Ta réaction dans les trente secondes qui suivent détermine largement la suite. La pire chose n'est pas la moquerie, qui est rare, c'est l'excès de sollicitude : "c'est pas grave, tu sais, ça arrive, ne t'inquiète pas" en insistant transmet exactement le message inverse, à savoir que c'est un sujet.
 - Le mieux est de ne pas traiter l'événement comme un événement. Continuer autre chose, rester dans le contact, garder de la légèreté. Le message implicite est : il ne s'est rien passé de notable.
 - Ne pas relancer le sujet à froid le lendemain. S'il veut en parler, il en parlera.
-- Si la situation se répète sur plusieurs semaines, en parler alors une fois, calmement, sur un angle santé plutôt que sur un angle couple : "tu devrais en parler à ton médecin, c'est souvent un truc de tension ou de sommeil". C'est vrai, et ça préserve la porte de sortie. L'anxiété de performance, qui aggrave mécaniquement la difficulté qu'elle redoute, est documentée dans la littérature clinique sur les troubles de l'érection (source : Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
+- Si la situation se répète sur plusieurs semaines, en parler alors une fois, calmement, sur un angle santé plutôt que sur un angle couple : "tu devrais en parler à ton médecin, c'est souvent un truc de tension ou de sommeil". C'est vrai, et ça préserve la porte de sortie. [L'anxiété de performance, qui aggrave mécaniquement la difficulté qu'elle redoute, est documentée dans la littérature clinique sur les troubles de l'érection](https://pubmed.ncbi.nlm.nih.gov/10853004/) (Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
 
 ### 11.3 Le désir asymétrique
 
@@ -51,7 +51,7 @@ Les causes d'une baisse de désir masculine, dans l'ordre de fréquence réelle 
 
 - Poser la question sans enjeu et hors du lit : "on est où, nous deux, sur ce sujet ?".
 - Chercher la cause dans le chapitre 6 avant de la chercher dans la relation. Un homme en épisode dépressif n'a pas de libido, et ça n'a rien à voir avec toi.
-- Éviter absolument la comparaison avec avant, qui atterrit en zone de honte. Le désir réactif, longtemps décrit comme spécifiquement féminin, concerne aussi les hommes selon le modèle du double contrôle (source : Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
+- Éviter absolument la comparaison avec avant, qui atterrit en zone de honte. [Le désir réactif, longtemps décrit comme spécifiquement féminin, concerne aussi les hommes selon le modèle du double contrôle](https://www.sciencedirect.com/science/article/abs/pii/S0149763400000245) (Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
 
 ### 11.4 La pornographie
 
@@ -65,7 +65,7 @@ Ce qui compte n'est pas la quantité brute, c'est la fonction. Un homme qui rega
 
 - Aborder l'usage comme un symptôme, pas comme une trahison, quand les signaux d'usage compensatoire sont là.
 - Éviter l'ultimatum, qui produit de la dissimulation et pas de l'arrêt.
-- Distinguer nettement ce qui relève de ton accord de couple (les règles, c'est à vous de les poser) de ce qui relève d'un mécanisme de régulation émotionnelle (là, c'est un sujet de soin). Les effets de la pornographie sur les attentes et les conditions d'excitation restent débattus dans la littérature clinique (source : Park et coll., « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences*, 2016 ; vérification du 7 août 2026).
+- Distinguer nettement ce qui relève de ton accord de couple (les règles, c'est à vous de les poser) de ce qui relève d'un mécanisme de régulation émotionnelle (là, c'est un sujet de soin). [Les effets de la pornographie sur les attentes et les conditions d'excitation restent débattus dans la littérature clinique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/) (Park et coll., « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences*, 2016 ; vérification du 7 août 2026).
 
 ### 11.4 bis Ce qui améliore vraiment les choses : en parler, explicitement
 
@@ -84,16 +84,16 @@ Un point pratique précis mérite d'être retenu : [les discussions sur les pré
 
 Un point contre-intuitif mais très courant : beaucoup d'hommes ont une poussée de désir dans les périodes de deuil, d'angoisse ou de stress majeur. Ce n'est pas de l'indécence. La sexualité est, chez eux, une des rares voies d'accès à la décharge et au réconfort corporel. Un homme qui vient de perdre son père et qui a besoin de faire l'amour n'est pas insensible, il est en train d'utiliser le seul canal qui lui est ouvert.
 
-Ce n'est pas pour autant une obligation pour toi. Le savoir sert à ne pas mal l'interpréter, pas à te contraindre. L'effet d'un événement difficile sur la sexualité est cohérent avec la façon dont le corps garde la mémoire d'un vécu traumatique (source : van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
+Ce n'est pas pour autant une obligation pour toi. Le savoir sert à ne pas mal l'interpréter, pas à te contraindre. [L'effet d'un événement difficile sur la sexualité est cohérent avec la façon dont le corps garde la mémoire d'un vécu traumatique](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952) (van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
 
 Le point à retenir dépasse le seul cas du deuil : à peu près tous les mécanismes décrits dans ce chapitre partagent la même racine, celle d'un canal unique surchargé de significations qu'aucun autre espace ne peut accueillir. Élargir progressivement ce répertoire — la parole, le contact non sexuel, l'expression directe d'un besoin — ne retire rien à la sexualité elle-même. Ça lui retire seulement le poids de devoir tout porter à elle seule, ce qui, la plupart du temps, la rend plus légère et plus disponible, pas moins présente.
 
 ## Sources vérifiables
 
-- Levant, R. (1992), « Toward the reconstruction of masculinity », *Journal of Family Psychology* ; vérification du 7 août 2026.
-- Lue, T. (2000), « Erectile dysfunction », *New England Journal of Medicine* ; vérification du 7 août 2026.
-- Bancroft, J. & Janssen, E. (2000), « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews* ; vérification du 7 août 2026.
-- Park, B. et coll. (2016), « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences* ; vérification du 7 août 2026.
-- van der Kolk, B. (2014), *The Body Keeps the Score*, Viking ; vérification du 7 août 2026.
+- Levant, R. (1992), [Toward the reconstruction of masculinity](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7), *Journal of Family Psychology* ; vérification du 7 août 2026.
+- Lue, T. (2000), [Erectile dysfunction](https://pubmed.ncbi.nlm.nih.gov/10853004/), *New England Journal of Medicine* ; vérification du 7 août 2026.
+- Bancroft, J. & Janssen, E. (2000), [The dual control model of male sexual response](https://www.sciencedirect.com/science/article/abs/pii/S0149763400000245), *Neuroscience & Biobehavioral Reviews* ; vérification du 7 août 2026.
+- Park, B. et coll. (2016), [Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/), *Behavioral Sciences* ; vérification du 7 août 2026.
+- van der Kolk, B. (2014), [The Body Keeps the Score](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952), Viking ; vérification du 7 août 2026.
 - [The Role of Sexual Communication in Committed Relationships](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6032&context=etd) ; vérification du 11 août 2026.
 - [The mediating role of sexual and nonsexual communication](https://scholars.uky.edu/en/publications/the-mediating-role-of-sexual-and-nonsexual-communication-between-/), University of Kentucky ; vérification du 11 août 2026.

@@ -3,11 +3,11 @@ type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
 chapitres: 31
-mots: 63993
+mots: 63808
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
-genere_le: 2026-08-12
+genere_le: 2026-08-13
 ---
 
 # Pour Lui
@@ -368,7 +368,7 @@ Trois composantes, que tu peux repérer séparément :
 2. **La difficulté à décrire** ses émotions à quelqu'un d'autre, même quand il les a identifiées.
 3. **Une pensée tournée vers l'extérieur** : parler des faits, des événements, du concret, plutôt que du vécu interne. Tu lui demandes comment il a vécu son entretien, il te raconte le trajet et la salle d'attente.
 
-**Les chiffres.** La prévalence de l'alexithymie en population générale est estimée entre 8 % et 23 % selon les études et les seuils retenus, avec une revue systématique récente situant les adultes autour de 9 à 17 % chez les hommes et 5 à 10 % chez les femmes (sources : revues de littérature sur l'échelle TAS-20, synthèse 2025 ; vérification du 31 juillet 2026). Attention : la différence hommes-femmes n'est pas retrouvée dans toutes les études. Une étude française multicentrique sur 767 témoins ne trouvait aucune différence significative entre 19,7 % chez les femmes et 22,3 % chez les hommes (source : réseau Dépendance, Speranza et al. ; vérification du 31 juillet 2026). Prends donc cette donnée pour ce qu'elle est : un écart probable mais modéré, pas un gouffre.
+**Les chiffres.** La prévalence de l'alexithymie en population générale est estimée entre 8 % et 23 % selon les études et les seuils retenus, avec des synthèses récentes situant les adultes autour de 9 à 17 % chez les hommes et 5 à 10 % chez les femmes (revues de littérature sur l'échelle TAS-20 ; vérification du 31 juillet 2026). Attention : la différence hommes-femmes n'est pas retrouvée dans toutes les études. [Une étude française multicentrique sur 767 témoins, menée par le réseau de recherche clinique Dépendance, trouvait une prévalence de 20,7 % dans cette population témoin, sans différence significative marquée entre les sexes](https://www.researchgate.net/publication/246563574_L'alexithymie_dans_les_conduites_de_dependance_et_chez_le_sujet_sain_valeur_en_population_francaise_et_francophone) (Farges, Corcos & Speranza et al., réseau Dépendance ; vérification du 31 juillet 2026). Prends donc cette donnée pour ce qu'elle est : un écart probable mais modéré, pas un gouffre.
 
 Ce qui est en revanche solidement établi, c'est le lien entre alexithymie et addictions : la prévalence grimpe massivement chez les personnes présentant des conduites de dépendance (alcool, drogues, troubles alimentaires). Un homme qui n'accède pas à ses émotions a besoin d'un régulateur externe. C'est le point d'articulation entre ce chapitre et le chapitre 3.
 
@@ -916,7 +916,7 @@ Ce chapitre est plus factuel que les précédents. Il sert de socle au chapitre 
 
 La testostérone influe sur la libido, la masse musculaire, la densité osseuse, la répartition des graisses, la pilosité, et probablement certaines fonctions cognitives et thymiques. Elle n'est pas l'hormone de l'agressivité, et la relation entre testostérone et comportement est beaucoup plus faible et bidirectionnelle que le discours courant ne le laisse croire.
 
-Le taux baisse progressivement avec l'âge, d'environ 1 % par an à partir de 30 à 40 ans (source : consensus urologique, cité notamment par la Société Française d'Endocrinologie ; vérification du 31 juillet 2026). Ce déclin est lent, progressif, et n'a rien à voir avec la ménopause : il n'y a pas d'arrêt brutal de fonction, et la spermatogenèse persiste.
+Le taux baisse progressivement avec l'âge, d'environ 1 % par an à partir de 30 à 40 ans (ordre de grandeur cohérent avec plusieurs synthèses cliniques sur le vieillissement hormonal masculin, sans source institutionnelle unique vérifiée à ce jour ; vérification du 31 juillet 2026). Ce déclin est lent, progressif, et n'a rien à voir avec la ménopause : il n'y a pas d'arrêt brutal de fonction, et la spermatogenèse persiste.
 
 Ce qui fait beaucoup plus baisser la testostérone que l'âge, en pratique : le surpoids, l'alcool, le manque de sommeil, le stress chronique, la sédentarité, le diabète. Ce sont des leviers actionnables, contrairement à l'âge.
 
@@ -924,7 +924,7 @@ Ce qui fait beaucoup plus baisser la testostérone que l'âge, en pratique : le 
 
 Le déficit androgénique lié à l'âge (DALA), improprement appelé andropause, est un vrai syndrome mais nettement plus rare que ne le prétend le marketing des compléments alimentaires.
 
-Une baisse cliniquement significative de la testostérone ne concerne qu'une minorité d'hommes. [Dans l'étude européenne de référence EMAS, quand le déficit androgénique lié à l'âge est défini par au moins trois symptômes sexuels associés à un taux bas de testostérone confirmé biologiquement, la prévalence globale s'élève à 2,1 % des hommes étudiés, avec une progression nette par tranche d'âge : 0,1 % entre 40 et 49 ans, 0,6 % entre 50 et 59 ans, 3,2 % entre 60 et 69 ans, et 5,1 % entre 70 et 79 ans](https://www.nejm.org/doi/full/10.1056/NEJMoa0911101). D'autres sources retiennent des chiffres plus larges, autour de 5 % à 50 ans et 26 % à 80 ans (source : RecoMédicales, avril 2026 ; vérification du 31 juillet 2026), l'écart venant des seuils et critères retenus. Retiens la fourchette et l'idée générale plutôt qu'un chiffre unique : c'est minoritaire avant 60 ans, ça devient significatif après 70.
+Une baisse cliniquement significative de la testostérone ne concerne qu'une minorité d'hommes. [Dans l'étude européenne de référence EMAS, quand le déficit androgénique lié à l'âge est défini par au moins trois symptômes sexuels associés à un taux bas de testostérone confirmé biologiquement, la prévalence globale s'élève à 2,1 % des hommes étudiés, avec une progression nette par tranche d'âge : 0,1 % entre 40 et 49 ans, 0,6 % entre 50 et 59 ans, 3,2 % entre 60 et 69 ans, et 5,1 % entre 70 et 79 ans](https://www.nejm.org/doi/full/10.1056/NEJMoa0911101). D'autres sources retiennent des chiffres plus larges, autour de 5 % à 50 ans et 26 % à 80 ans (RecoMédicales, avril 2026, sans lien direct vérifié à ce jour ; vérification du 31 juillet 2026), l'écart venant des seuils et critères retenus. Retiens la fourchette et l'idée générale plutôt qu'un chiffre unique : c'est minoritaire avant 60 ans, ça devient significatif après 70.
 
 Le diagnostic exige à la fois des symptômes (baisse des érections matinales, raréfaction des pensées sexuelles, baisse de qualité des érections, fatigue, symptômes dépressifs) et un taux biologiquement bas confirmé sur deux prélèvements matinaux. Un homme fatigué avec une testostérone normale n'a pas un DALA, il a autre chose, et ce quelque chose est très souvent au chapitre 6.
 
@@ -936,7 +936,7 @@ Pour la minorité d'hommes chez qui un vrai déficit est diagnostiqué, une bonn
 
 C'est une confusion extrêmement fréquente, et elle cause beaucoup de dégâts inutiles dans les couples comme dans la tête des hommes concernés. L'érection est un phénomène vasculaire, le désir est un phénomène central qui se joue essentiellement dans le cerveau, et l'éjaculation est un réflexe médullaire, presque automatique une fois déclenché. Les trois systèmes, bien que souvent confondus dans le langage courant, peuvent parfaitement fonctionner de façon désynchronisée les uns par rapport aux autres. Un homme peut avoir une érection sans désir, du désir sans érection, et éjaculer sans plaisir marqué.
 
-**Les chiffres de la dysfonction érectile.** La prévalence augmente régulièrement avec l'âge : de l'ordre de 1 à 9 % entre 18 et 39 ans, 2 à 30 % entre 40 et 59 ans, 20 à 40 % entre 60 et 69 ans, et 50 à 75 % au-delà de 70 ans (source : La Revue du Praticien, juin 2026 ; vérification du 31 juillet 2026). Les fourchettes sont larges parce que les définitions et les seuils varient beaucoup d'une étude à l'autre. En France, la prévalence moyenne tous âges après 40 ans tourne autour de 31 % (source : Giuliano, données françaises reprises par l'Association Française d'Urologie ; vérification du 31 juillet 2026).
+**Les chiffres de la dysfonction érectile.** La prévalence augmente régulièrement avec l'âge : de l'ordre de 1 à 9 % entre 18 et 39 ans, 2 à 30 % entre 40 et 59 ans, 20 à 40 % entre 60 et 69 ans, et 50 à 75 % au-delà de 70 ans (fourchettes reprises de synthèses cliniques publiées dans La Revue du Praticien, sans lien direct vérifié à ce jour ; vérification du 31 juillet 2026). Les fourchettes sont larges parce que les définitions et les seuils varient beaucoup d'une étude à l'autre. En France, la prévalence moyenne tous âges après 40 ans tourne autour de 31 % (données françaises attribuées à Giuliano et reprises par l'Association Française d'Urologie, sans lien direct vérifié à ce jour ; vérification du 31 juillet 2026).
 
 Deux points essentiels :
 
@@ -987,7 +987,7 @@ Ce que ce chapitre a cherché à établir, presque section par section, c'est qu
 
 Dans un déménagement, si une seule personne porte systématiquement tous les cartons, la question n'est jamais de savoir si elle en est capable : elle l'est, elle le prouve chaque fois. La vraie question est de savoir pourquoi personne, de l'autre côté, n'a jamais pensé à proposer de prendre l'autre côté du carton.
 
-La contraception est dans cette situation depuis soixante ans. Elle est presque entièrement portée par les femmes, avec des effets indésirables réels, un suivi médical, un coût mental et parfois financier. Ce chapitre est le pendant du chapitre 7 de [Pour Elle](<../1 - Guides/Pour Elle/07 - Contraception hormonale.md>), et il part d'un constat simple : **la plupart des hommes ignorent ce qui existe de leur côté.** Le déséquilibre de la charge contraceptive entre les sexes, et la perception qu'en ont les hommes, sont documentés dans une enquête dédiée (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
+La contraception est dans cette situation depuis soixante ans. Elle est presque entièrement portée par les femmes, avec des effets indésirables réels, un suivi médical, un coût mental et parfois financier. Ce chapitre est le pendant du chapitre 7 de [Pour Elle](<../1 - Guides/Pour Elle/07 - Contraception hormonale.md>), et il part d'un constat simple : **la plupart des hommes ignorent ce qui existe de leur côté.** [Le déséquilibre de la charge contraceptive entre les sexes, et la perception qu'en ont les hommes, sont documentés dans une enquête dédiée](https://www.guttmacher.org/journals/psrh/1996/09/mens-perceptions-their-roles-and-responsibilities-regarding-sex-contraception) (Grady, Tanfer, Billy & Lincoln-Hanson, « Men's Perceptions of Their Roles and Responsibilities Regarding Sex, Contraception and Childrearing », *Family Planning Perspectives*, 1996 ; vérification du 7 août 2026).
 
 ### 9.2 Ce qui existe aujourd'hui, sans exagérer
 
@@ -999,7 +999,7 @@ Quatre méthodes, avec ce qu'elles valent réellement.
 
 **La contraception thermique.** Elle repose sur un principe établi : la spermatogenèse est perturbée par une élévation de la température testiculaire. Des dispositifs remontant les testicules dans le canal inguinal existent, portés plusieurs heures par jour. Le recul et le niveau de preuve restent limités par rapport aux méthodes précédentes, et un contrôle par spermogramme est indispensable. Je préfère l'écrire ainsi que de la présenter comme une option équivalente aux deux premières.
 
-**La contraception hormonale masculine.** Elle fonctionne — des essais ont montré une suppression efficace de la spermatogenèse — mais aucune n'est aujourd'hui disponible en pharmacie de façon courante. Des protocoles injectables existent dans un cadre médical restreint, et plusieurs candidats, dont des gels, sont en essais cliniques. À ce jour, ce n'est pas une option de routine. Les méthodes de contraception masculine disponibles et leur efficacité respective sont détaillées par l'Organisation mondiale de la santé (source : OMS, *Family planning/contraception methods* ; vérification du 7 août 2026).
+**La contraception hormonale masculine.** Elle fonctionne — des essais ont montré une suppression efficace de la spermatogenèse — mais aucune n'est aujourd'hui disponible en pharmacie de façon courante. Des protocoles injectables existent dans un cadre médical restreint, et plusieurs candidats, dont des gels, sont en essais cliniques. À ce jour, ce n'est pas une option de routine. [Les méthodes de contraception masculine disponibles et leur efficacité respective sont détaillées par l'Organisation mondiale de la santé](https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception) (OMS, *Family planning/contraception methods* ; vérification du 7 août 2026).
 
 ### 9.2 bis Ce qui arrive vraiment, et c'est une bonne nouvelle
 
@@ -1022,7 +1022,7 @@ Il faut le dire sans ambiguïté, parce que ces croyances persistent.
 
 **Les calculs de dates ne protègent pas** l'homme davantage que la femme : la date d'ovulation varie d'un cycle à l'autre. Voir le chapitre 12 de [Pour Elle](<../1 - Guides/Pour Elle/12 - Les pieges de la modernite.md>) sur les applications de suivi.
 
-**« Elle gère »** n'est pas une méthode, c'est une délégation. Elle peut être un choix commun assumé ; elle n'en est une que si elle a été discutée. L'inefficacité du retrait et des méthodes de calcul comme contraception fiable est documentée dans les recommandations de santé reproductive (source : OMS, *Family planning/contraception methods* ; vérification du 7 août 2026).
+**« Elle gère »** n'est pas une méthode, c'est une délégation. Elle peut être un choix commun assumé ; elle n'en est une que si elle a été discutée. [L'inefficacité du retrait et des méthodes de calcul comme contraception fiable est documentée dans les recommandations de santé reproductive](https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception) (OMS, *Family planning/contraception methods* ; vérification du 7 août 2026).
 
 ### 9.4 Pourquoi si peu d'hommes s'en saisissent
 
@@ -1032,7 +1032,7 @@ Trois raisons reviennent, et aucune n'est de la mauvaise volonté pure.
 
 **La confusion entre fertilité et virilité.** Une association ancienne, sans fondement physiologique : la vasectomie ne modifie ni la testostérone, ni l'érection, ni le plaisir. Ce qu'elle interrompt, c'est le passage des spermatozoïdes, rien d'autre.
 
-**L'absence de demande explicite.** La contraception n'est presque jamais posée comme une question de couple. Elle est traitée comme une affaire féminine, y compris par des hommes qui se considèrent comme égalitaires par ailleurs. Le manque d'information des hommes sur leurs propres options contraceptives est un facteur documenté du déséquilibre de la charge contraceptive (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
+**L'absence de demande explicite.** La contraception n'est presque jamais posée comme une question de couple. Elle est traitée comme une affaire féminine, y compris par des hommes qui se considèrent comme égalitaires par ailleurs. [Le manque d'information des hommes sur leurs propres options contraceptives est un facteur documenté du déséquilibre de la charge contraceptive](https://www.guttmacher.org/journals/psrh/1996/09/mens-perceptions-their-roles-and-responsibilities-regarding-sex-contraception) (Grady, Tanfer, Billy & Lincoln-Hanson, « Men's Perceptions of Their Roles and Responsibilities Regarding Sex, Contraception and Childrearing », *Family Planning Perspectives*, 1996 ; vérification du 7 août 2026).
 
 ### 9.5 La conversation à avoir
 
@@ -1040,7 +1040,7 @@ Elle se tient à froid, hors du lit, et elle porte sur une répartition et non s
 
 Trois questions, dans cet ordre. Qui porte la contraception aujourd'hui, et à quel coût — effets indésirables, suivi, [charge mentale](<../2 - Notions/Charge mentale.md>), argent ? Est-ce que cela nous convient à tous les deux, explicitement ? Et si nous ne voulons pas d'enfant, ou plus d'enfant, qu'est-ce qui justifie que cela repose sur une seule personne ?
 
-Une précision qui compte : proposer de prendre la contraception en charge n'est pas un service rendu. C'est le partage d'une charge qui concernait les deux depuis le début. Rendre explicite la répartition de la charge contraceptive est cohérent avec les recommandations issues de cette même enquête (source : Grady, Klepinger, Billy & Cubbins, « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health*, 1996 ; vérification du 7 août 2026).
+Une précision qui compte : proposer de prendre la contraception en charge n'est pas un service rendu. C'est le partage d'une charge qui concernait les deux depuis le début. [Rendre explicite la répartition de la charge contraceptive est cohérent avec les recommandations issues de cette même enquête](https://www.guttmacher.org/journals/psrh/1996/09/mens-perceptions-their-roles-and-responsibilities-regarding-sex-contraception) (Grady, Tanfer, Billy & Lincoln-Hanson, « Men's Perceptions of Their Roles and Responsibilities Regarding Sex, Contraception and Childrearing », *Family Planning Perspectives*, 1996 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -1064,8 +1064,8 @@ Ce que ce chapitre a essayé de faire, c'est de combler ce manque une bonne fois
 
 ## Sources vérifiables
 
-- Grady, W., Klepinger, D., Billy, J. & Cubbins, L. (1996), « Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US », *Perspectives on Sexual and Reproductive Health* ; vérification du 7 août 2026.
-- Organisation mondiale de la santé, *Family planning/contraception methods* ; vérification du 7 août 2026.
+- Grady, W., Tanfer, K., Billy, J. & Lincoln-Hanson, J. (1996), [Men's Perceptions of Their Roles and Responsibilities Regarding Sex, Contraception and Childrearing](https://www.guttmacher.org/journals/psrh/1996/09/mens-perceptions-their-roles-and-responsibilities-regarding-sex-contraception), *Family Planning Perspectives* ; vérification du 7 août 2026.
+- Organisation mondiale de la santé, [Family planning/contraception methods](https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception) ; vérification du 7 août 2026.
 - [Hormonal contraceptive gel for men suppresses sperm production by week 8](https://www.healio.com/news/endocrinology/20240603/hormonal-contraceptive-gel-for-men-suppresses-sperm-production-by-week-8), Healio ; vérification du 11 août 2026.
 - ["Encouraging" Early Results in Male Contraceptive Gel Trial](https://www.medcentral.com/endocrinology/male-contraceptive-gel-is-safe-effective-and-easy), MedCentral ; vérification du 11 août 2026.
 - [Do Men Regret Vasectomy? Facts & Research Explained](https://vasec.org/do-men-regret-vasectomy-what-the-research-really-says/), Vasec ; vérification du 11 août 2026.
@@ -1081,7 +1081,7 @@ Le chapitre 11 de ce guide décrit la sexualité comme langage émotionnel à pa
 
 C'est vrai, et pris seul, c'est un cliché qui dessert. Il laisse entendre que la sexualité masculine ne serait qu'un substitut émotionnel, ce qui est doublement faux : elle a une physiologie propre, qui se dérègle et se soigne comme le reste du corps, et elle a une valeur en elle-même, pas seulement comme véhicule d'autre chose.
 
-Ce chapitre traite le versant physiologique, en pendant du chapitre 9 de [Pour Elle](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>). Les deux ensemble, avec le 11 et le 12, forment le tableau complet. Réduire la sexualité masculine à un langage émotionnel occulte sa physiologie propre, documentée indépendamment dans la littérature urologique (source : Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
+Ce chapitre traite le versant physiologique, en pendant du chapitre 9 de [Pour Elle](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>). Les deux ensemble, avec le 11 et le 12, forment le tableau complet. [Réduire la sexualité masculine à un langage émotionnel occulte sa physiologie propre, documentée indépendamment dans la littérature urologique](https://pubmed.ncbi.nlm.nih.gov/10853004/) (Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
 
 ### 10.2 Ce qui se passe réellement pendant une érection
 
@@ -1095,7 +1095,7 @@ Trois conséquences pratiques découlent de ce mécanisme.
 
 **Elle dépend de l'état vasculaire général.** Les artères péniennes sont de petit calibre. Elles sont donc atteintes **avant** les coronaires en cas de maladie vasculaire — d'où le point du chapitre 20 : un trouble de l'érection est parfois le premier signe d'une atteinte cardiovasculaire, plusieurs années avant tout autre symptôme.
 
-**Le stress la bloque directement.** L'activation sympathique — celle de l'alerte — s'oppose au mécanisme de l'érection, qui demande un état parasympathique. C'est physiologique, pas psychologique au sens vague : la peur de ne pas y arriver produit exactement l'état corporel qui empêche d'y arriver. Le mécanisme vasculaire de l'érection, sous contrôle du système nerveux autonome, est détaillé dans cette revue de référence (source : Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
+**Le stress la bloque directement.** L'activation sympathique — celle de l'alerte — s'oppose au mécanisme de l'érection, qui demande un état parasympathique. C'est physiologique, pas psychologique au sens vague : la peur de ne pas y arriver produit exactement l'état corporel qui empêche d'y arriver. [Le mécanisme vasculaire de l'érection, sous contrôle du système nerveux autonome, est détaillé dans cette revue de référence](https://pubmed.ncbi.nlm.nih.gov/10853004/) (Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
 
 ### 10.3 Le double contrôle vaut aussi pour les hommes
 
@@ -1103,7 +1103,7 @@ Le modèle de l'accélérateur et du frein, souvent présenté comme féminin, s
 
 L'implication est la même : quand quelque chose ne fonctionne pas, le réflexe est d'ajouter de l'accélérateur — plus de stimulation, plus de nouveauté. Or dans la majorité des cas, il s'agit d'un frein enfoncé : fatigue, alcool, inquiétude de performance, conflit non réglé, charge professionnelle.
 
-Un point mal connu : le **[désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>)** existe aussi chez les hommes. La culture affirme que le désir masculin est toujours spontané et disponible, ce qui laisse beaucoup d'hommes sans mots quand ce n'est pas le cas — et leur partenaire sans grille pour l'interpréter autrement que par un rejet. Le modèle du double contrôle a été développé à l'origine à partir de recherches sur la réponse sexuelle masculine (source : Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
+Un point mal connu : le **[désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>)** existe aussi chez les hommes. La culture affirme que le désir masculin est toujours spontané et disponible, ce qui laisse beaucoup d'hommes sans mots quand ce n'est pas le cas — et leur partenaire sans grille pour l'interpréter autrement que par un rejet. [Le modèle du double contrôle a été développé à l'origine à partir de recherches sur la réponse sexuelle masculine](https://www.sciencedirect.com/science/article/abs/pii/S0149763400000245) (Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
 
 ### 10.4 Les troubles, par ordre de fréquence
 
@@ -1115,7 +1115,7 @@ Un point mal connu : le **[désir réactif](<../2 - Notions/Désir spontané et 
 
 **L'éjaculation retardée ou absente.** Moins fréquente, souvent liée à des médicaments, à l'alcool, ou à un décalage entre les conditions d'excitation habituelles et la situation réelle.
 
-**La douleur.** Elle existe chez l'homme et est très peu documentée : maladie de Lapeyronie, phimosis, prostatite, douleurs pelviennes chroniques. Une douleur sexuelle n'est jamais à supporter en silence. La prévalence des différents troubles sexuels masculins a été mesurée à grande échelle aux États-Unis (source : Laumann, Paik & Rosen, « Sexual dysfunction in the United States: prevalence and predictors », *JAMA*, 1999 ; vérification du 7 août 2026).
+**La douleur.** Elle existe chez l'homme et est très peu documentée : maladie de Lapeyronie, phimosis, prostatite, douleurs pelviennes chroniques. Une douleur sexuelle n'est jamais à supporter en silence. [La prévalence des différents troubles sexuels masculins a été mesurée à grande échelle aux États-Unis](https://www.cirp.org/library/general/laumann2/index.php) (Laumann, Paik & Rosen, « Sexual dysfunction in the United States: prevalence and predictors », *JAMA*, 1999 ; vérification du 7 août 2026).
 
 ### 10.4 bis Ce que ça vaut de savoir : les troubles cités se traitent, et bien
 
@@ -1138,13 +1138,13 @@ Sans diabolisation ni minimisation, trois effets documentés ou solidement décr
 
 **Le conditionnement des conditions d'excitation.** Une stimulation très spécifique et très répétée peut rendre l'excitation plus difficile dans d'autres conditions. Le mécanisme est plausible et décrit cliniquement ; l'ampleur du phénomène en population reste débattue, et les affirmations catastrophistes dépassent les données.
 
-**L'absence de modèle de communication.** Le principal manque n'est pas anatomique : aucun contenu ne montre deux personnes qui se demandent ce qu'elles veulent. C'est exactement ce que traite le chapitre 12. Les effets de la consommation de pornographie sur la fonction sexuelle font l'objet d'un débat documenté dans la littérature clinique (source : Park et coll., « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences*, 2016 ; vérification du 7 août 2026).
+**L'absence de modèle de communication.** Le principal manque n'est pas anatomique : aucun contenu ne montre deux personnes qui se demandent ce qu'elles veulent. C'est exactement ce que traite le chapitre 12. [Les effets de la consommation de pornographie sur la fonction sexuelle font l'objet d'un débat documenté dans la littérature clinique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/) (Park et coll., « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences*, 2016 ; vérification du 7 août 2026).
 
 ### 10.6 Quand consulter, et qui
 
 Trois motifs sans attendre : une disparition des érections nocturnes, une douleur, une courbure douloureuse ou d'apparition récente.
 
-Pour le reste, le repère est la **durée et le retentissement** : quelques semaines difficiles font partie de la vie, plusieurs mois qui pèsent sur la relation ou sur l'estime de soi justifient une consultation. Le médecin généraliste est une entrée valable ; le sexologue et l'urologue sont les spécialistes concernés. Les critères de consultation en cas de trouble sexuel masculin sont détaillés dans cette revue de référence (source : Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
+Pour le reste, le repère est la **durée et le retentissement** : quelques semaines difficiles font partie de la vie, plusieurs mois qui pèsent sur la relation ou sur l'estime de soi justifient une consultation. Le médecin généraliste est une entrée valable ; le sexologue et l'urologue sont les spécialistes concernés. [Les critères de consultation en cas de trouble sexuel masculin sont détaillés dans cette revue de référence](https://pubmed.ncbi.nlm.nih.gov/10853004/) (Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -1164,10 +1164,10 @@ Un dernier point mérite d'être répété une fois, à la fin, parce qu'il rés
 
 ## Sources vérifiables
 
-- Lue, T. (2000), « Erectile dysfunction », *New England Journal of Medicine* ; vérification du 7 août 2026.
-- Bancroft, J. & Janssen, E. (2000), « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews* ; vérification du 7 août 2026.
-- Laumann, E., Paik, A. & Rosen, R. (1999), « Sexual dysfunction in the United States: prevalence and predictors », *JAMA* ; vérification du 7 août 2026.
-- Park, B. et coll. (2016), « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences* ; vérification du 7 août 2026.
+- Lue, T. (2000), [Erectile dysfunction](https://pubmed.ncbi.nlm.nih.gov/10853004/), *New England Journal of Medicine* ; vérification du 7 août 2026.
+- Bancroft, J. & Janssen, E. (2000), [The dual control model of male sexual response](https://www.sciencedirect.com/science/article/abs/pii/S0149763400000245), *Neuroscience & Biobehavioral Reviews* ; vérification du 7 août 2026.
+- Laumann, E., Paik, A. & Rosen, R. (1999), [Sexual dysfunction in the United States: prevalence and predictors](https://www.cirp.org/library/general/laumann2/index.php), *JAMA* ; vérification du 7 août 2026.
+- Park, B. et coll. (2016), [Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/), *Behavioral Sciences* ; vérification du 7 août 2026.
 - [Phosphodiesterase-5 (PDE5) Inhibitors In the Management of Erectile Dysfunction](https://pmc.ncbi.nlm.nih.gov/articles/PMC3776492/), *PMC* ; vérification du 11 août 2026.
 - [Efficacy of PDE-5-inhibitors for erectile dysfunction](https://www.nature.com/articles/3901395), *International Journal of Impotence Research* ; vérification du 11 août 2026.
 - [Phosphodiesterase type 5 inhibitors as a treatment for erectile dysfunction: Current information and new horizons](https://www.tandfonline.com/doi/full/10.1016/j.aju.2013.07.009), *Arab Journal of Urology* ; vérification du 11 août 2026.
@@ -1191,7 +1191,7 @@ Cela explique une chose qui déroute souvent les femmes : la demande sexuelle d'
 
 - Casser le cercle passe par le contact non sexuel régulier et non ambigu. Beaucoup d'hommes ne sont jamais touchés sans que ce soit un préliminaire, ce qui rend chaque contact chargé d'enjeu. Une main dans le dos, une tête sur l'épaule, sans suite, désature la prise multiple.
 - Séparer explicitement les demandes aide énormément. "J'ai envie d'un câlin, pas de sexe" dit par toi lui donne le droit de le dire aussi.
-- Si le refus est nécessaire, refuser l'acte sans refuser la personne. "Pas ce soir, mais viens là" est vécu très différemment de "non". La différence n'est pas cosmétique : elle évite d'atterrir en zone de honte, cf. 4.4. La sexualité comme principal canal d'expression émotionnelle autorisé chez l'homme découle du concept d'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+- Si le refus est nécessaire, refuser l'acte sans refuser la personne. "Pas ce soir, mais viens là" est vécu très différemment de "non". La différence n'est pas cosmétique : elle évite d'atterrir en zone de honte, cf. 4.4. [La sexualité comme principal canal d'expression émotionnelle autorisé chez l'homme découle du concept d'alexithymie masculine normative](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 11.2 La panne : ce qui se joue vraiment
 
@@ -1204,7 +1204,7 @@ Sur le plan émotionnel, c'est autre chose. Pour un homme, une panne n'est pas u
 - Ta réaction dans les trente secondes qui suivent détermine largement la suite. La pire chose n'est pas la moquerie, qui est rare, c'est l'excès de sollicitude : "c'est pas grave, tu sais, ça arrive, ne t'inquiète pas" en insistant transmet exactement le message inverse, à savoir que c'est un sujet.
 - Le mieux est de ne pas traiter l'événement comme un événement. Continuer autre chose, rester dans le contact, garder de la légèreté. Le message implicite est : il ne s'est rien passé de notable.
 - Ne pas relancer le sujet à froid le lendemain. S'il veut en parler, il en parlera.
-- Si la situation se répète sur plusieurs semaines, en parler alors une fois, calmement, sur un angle santé plutôt que sur un angle couple : "tu devrais en parler à ton médecin, c'est souvent un truc de tension ou de sommeil". C'est vrai, et ça préserve la porte de sortie. L'anxiété de performance, qui aggrave mécaniquement la difficulté qu'elle redoute, est documentée dans la littérature clinique sur les troubles de l'érection (source : Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
+- Si la situation se répète sur plusieurs semaines, en parler alors une fois, calmement, sur un angle santé plutôt que sur un angle couple : "tu devrais en parler à ton médecin, c'est souvent un truc de tension ou de sommeil". C'est vrai, et ça préserve la porte de sortie. [L'anxiété de performance, qui aggrave mécaniquement la difficulté qu'elle redoute, est documentée dans la littérature clinique sur les troubles de l'érection](https://pubmed.ncbi.nlm.nih.gov/10853004/) (Lue, « Erectile dysfunction », *New England Journal of Medicine*, 2000 ; vérification du 7 août 2026).
 
 ### 11.3 Le désir asymétrique
 
@@ -1218,7 +1218,7 @@ Les causes d'une baisse de désir masculine, dans l'ordre de fréquence réelle 
 
 - Poser la question sans enjeu et hors du lit : "on est où, nous deux, sur ce sujet ?".
 - Chercher la cause dans le chapitre 6 avant de la chercher dans la relation. Un homme en épisode dépressif n'a pas de libido, et ça n'a rien à voir avec toi.
-- Éviter absolument la comparaison avec avant, qui atterrit en zone de honte. Le désir réactif, longtemps décrit comme spécifiquement féminin, concerne aussi les hommes selon le modèle du double contrôle (source : Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
+- Éviter absolument la comparaison avec avant, qui atterrit en zone de honte. [Le désir réactif, longtemps décrit comme spécifiquement féminin, concerne aussi les hommes selon le modèle du double contrôle](https://www.sciencedirect.com/science/article/abs/pii/S0149763400000245) (Bancroft & Janssen, « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews*, 2000 ; vérification du 7 août 2026).
 
 ### 11.4 La pornographie
 
@@ -1232,7 +1232,7 @@ Ce qui compte n'est pas la quantité brute, c'est la fonction. Un homme qui rega
 
 - Aborder l'usage comme un symptôme, pas comme une trahison, quand les signaux d'usage compensatoire sont là.
 - Éviter l'ultimatum, qui produit de la dissimulation et pas de l'arrêt.
-- Distinguer nettement ce qui relève de ton accord de couple (les règles, c'est à vous de les poser) de ce qui relève d'un mécanisme de régulation émotionnelle (là, c'est un sujet de soin). Les effets de la pornographie sur les attentes et les conditions d'excitation restent débattus dans la littérature clinique (source : Park et coll., « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences*, 2016 ; vérification du 7 août 2026).
+- Distinguer nettement ce qui relève de ton accord de couple (les règles, c'est à vous de les poser) de ce qui relève d'un mécanisme de régulation émotionnelle (là, c'est un sujet de soin). [Les effets de la pornographie sur les attentes et les conditions d'excitation restent débattus dans la littérature clinique](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/) (Park et coll., « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences*, 2016 ; vérification du 7 août 2026).
 
 ### 11.4 bis Ce qui améliore vraiment les choses : en parler, explicitement
 
@@ -1251,17 +1251,17 @@ Un point pratique précis mérite d'être retenu : [les discussions sur les pré
 
 Un point contre-intuitif mais très courant : beaucoup d'hommes ont une poussée de désir dans les périodes de deuil, d'angoisse ou de stress majeur. Ce n'est pas de l'indécence. La sexualité est, chez eux, une des rares voies d'accès à la décharge et au réconfort corporel. Un homme qui vient de perdre son père et qui a besoin de faire l'amour n'est pas insensible, il est en train d'utiliser le seul canal qui lui est ouvert.
 
-Ce n'est pas pour autant une obligation pour toi. Le savoir sert à ne pas mal l'interpréter, pas à te contraindre. L'effet d'un événement difficile sur la sexualité est cohérent avec la façon dont le corps garde la mémoire d'un vécu traumatique (source : van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
+Ce n'est pas pour autant une obligation pour toi. Le savoir sert à ne pas mal l'interpréter, pas à te contraindre. [L'effet d'un événement difficile sur la sexualité est cohérent avec la façon dont le corps garde la mémoire d'un vécu traumatique](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952) (van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
 
 Le point à retenir dépasse le seul cas du deuil : à peu près tous les mécanismes décrits dans ce chapitre partagent la même racine, celle d'un canal unique surchargé de significations qu'aucun autre espace ne peut accueillir. Élargir progressivement ce répertoire — la parole, le contact non sexuel, l'expression directe d'un besoin — ne retire rien à la sexualité elle-même. Ça lui retire seulement le poids de devoir tout porter à elle seule, ce qui, la plupart du temps, la rend plus légère et plus disponible, pas moins présente.
 
 ## Sources vérifiables
 
-- Levant, R. (1992), « Toward the reconstruction of masculinity », *Journal of Family Psychology* ; vérification du 7 août 2026.
-- Lue, T. (2000), « Erectile dysfunction », *New England Journal of Medicine* ; vérification du 7 août 2026.
-- Bancroft, J. & Janssen, E. (2000), « The dual control model of male sexual response », *Neuroscience & Biobehavioral Reviews* ; vérification du 7 août 2026.
-- Park, B. et coll. (2016), « Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports », *Behavioral Sciences* ; vérification du 7 août 2026.
-- van der Kolk, B. (2014), *The Body Keeps the Score*, Viking ; vérification du 7 août 2026.
+- Levant, R. (1992), [Toward the reconstruction of masculinity](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7), *Journal of Family Psychology* ; vérification du 7 août 2026.
+- Lue, T. (2000), [Erectile dysfunction](https://pubmed.ncbi.nlm.nih.gov/10853004/), *New England Journal of Medicine* ; vérification du 7 août 2026.
+- Bancroft, J. & Janssen, E. (2000), [The dual control model of male sexual response](https://www.sciencedirect.com/science/article/abs/pii/S0149763400000245), *Neuroscience & Biobehavioral Reviews* ; vérification du 7 août 2026.
+- Park, B. et coll. (2016), [Is Internet Pornography Causing Sexual Dysfunctions? A Review with Clinical Reports](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5039517/), *Behavioral Sciences* ; vérification du 7 août 2026.
+- van der Kolk, B. (2014), [The Body Keeps the Score](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952), Viking ; vérification du 7 août 2026.
 - [The Role of Sexual Communication in Committed Relationships](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6032&context=etd) ; vérification du 11 août 2026.
 - [The mediating role of sexual and nonsexual communication](https://scholars.uky.edu/en/publications/the-mediating-role-of-sexual-and-nonsexual-communication-between-/), University of Kentucky ; vérification du 11 août 2026.
 
@@ -1273,7 +1273,7 @@ Le point à retenir dépasse le seul cas du deuil : à peu près tous les mécan
 
 Quand un homme dit qu'il cherche quelqu'un, il désigne rarement ce qu'il cherche vraiment. Voici ce qui se trouve derrière, par ordre d'importance décroissante dans la plupart des cas.
 
-1. **La régulation.** C'est la fonction principale et la moins avouée. Le chapitre 14 l'a établi : pour beaucoup d'hommes, la partenaire est le seul lieu où la vie intérieure peut se déposer. Environ 74 % des hommes se tournent d'abord vers leur conjointe pour un soutien émotionnel (source : Pew Research Center, 2025 ; vérification du 31 juillet 2026). Ce n'est pas une préférence, c'est souvent une absence d'alternative.
+1. **La régulation.** C'est la fonction principale et la moins avouée. Le chapitre 14 l'a établi : pour beaucoup d'hommes, la partenaire est le seul lieu où la vie intérieure peut se déposer. Environ 74 % des hommes se tournent d'abord vers leur conjointe pour un soutien émotionnel (Pew Research Center, 2025 ; vérification du 31 juillet 2026). Ce n'est pas une préférence, c'est souvent une absence d'alternative.
 2. **Le témoin.** Avoir quelqu'un qui voit sa vie. Personne d'autre ne sait ce qu'il fait de ses journées, ce qu'il a réussi, ce qu'il a encaissé. Un homme sans témoin a le sentiment que sa vie ne s'inscrit nulle part.
 3. **La légitimité.** Être en couple valide socialement, y compris dans le classement du 3.5. C'est une fonction peu glorieuse et très réelle, particulièrement forte entre vingt et trente ans.
 4. **La sexualité.** Réelle, importante, et systématiquement citée en premier alors qu'elle vient rarement en premier dans le poids réel.
@@ -1291,13 +1291,13 @@ Ce calcul bascule vers le retrait quand trois conditions se réunissent :
 - L'effort demandé est perçu comme croissant et le retour comme décroissant.
 - Une explication est disponible qui rend l'échec extérieur et donc supportable.
 
-Les trois conditions ensemble produisent le désengagement. Une ou deux seulement produisent de la fatigue passagère. Le basculement de l'intensité passionnelle vers un attachement plus stable suit la trajectoire décrite pour le système dopaminergique de l'attirance romantique (source : Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
+Les trois conditions ensemble produisent le désengagement. Une ou deux seulement produisent de la fatigue passagère. [Le basculement de l'intensité passionnelle vers un attachement plus stable suit la trajectoire décrite pour le système dopaminergique de l'attirance romantique](https://pubmed.ncbi.nlm.nih.gov/16255001/) (Fisher, Aron & Brown, « Romantic love: an fMRI study of a neural mechanism for mate choice », *Journal of Comparative Neurology*, 2005 ; vérification du 7 août 2026).
 
 ### 12.3 Pourquoi il n'en veut plus
 
 Sept raisons, très différentes les unes des autres, souvent confondues par l'entourage.
 
-1. **L'épuisement de la recherche.** Ce n'est pas un renoncement à l'amour, c'est un abandon du dispositif. Il n'en peut plus des applications, des échanges qui n'aboutissent pas, de l'effort permanent sans résultat. La lassitude face à la rencontre en ligne concerne 49 % des célibataires et 61 % des utilisateurs réguliers d'applications (source : étude Ipsos / Dating Lab 2025 ; vérification du 31 juillet 2026). C'est la raison la plus fréquente et la plus réversible.
+1. **L'épuisement de la recherche.** Ce n'est pas un renoncement à l'amour, c'est un abandon du dispositif. Il n'en peut plus des applications, des échanges qui n'aboutissent pas, de l'effort permanent sans résultat. La lassitude face à la rencontre en ligne concerne 49 % des célibataires et 61 % des utilisateurs réguliers d'applications (étude Ipsos / Dating Lab 2025 ; vérification du 31 juillet 2026). C'est la raison la plus fréquente et la plus réversible.
 2. **La peur, déguisée en préférence.** "Je suis très bien seul" est parfois vrai et parfois une rationalisation d'un attachement évitant (6.4).
 3. **Le deuil non fait.** Une rupture ancienne jamais traitée, souvent parce qu'elle n'a jamais été verbalisée nulle part (chapitre 14).
 4. **Le coût perçu.** Divorce parental traumatique, entourage qui a mal divorcé, peur des conséquences matérielles et de la séparation d'avec les enfants.
@@ -1305,7 +1305,7 @@ Sept raisons, très différentes les unes des autres, souvent confondues par l'e
 6. **La blessure convertie en théorie.** Le profil du 5.6.
 7. **La saturation par surcharge de vie.** Travail, études, projets, argent. Chercher quelqu'un demande une ressource attentionnelle qui n'existe plus. Souvent temporaire, et souvent confondu avec un renoncement de fond.
 
-**Ce qu'il faut savoir sur la durabilité.** Vivre en couple est associé, chez les hommes, à un risque de mortalité nettement réduit, avec un effet protecteur plus marqué que chez les femmes (sources : littérature démographique sur la mortalité par état matrimonial, dont un rapport suisse de 2025 ; vérification du 31 juillet 2026). Et vivre sans partenaire, que ce soit par célibat, séparation ou veuvage, est associé à un taux de suicide plus élevé, avec là encore un effet plus fort chez les hommes (source : Observatoire national du suicide, données reprises en janvier 2026 ; vérification du 31 juillet 2026).
+**Ce qu'il faut savoir sur la durabilité.** Vivre en couple est associé, chez les hommes, à un risque de mortalité nettement réduit, avec un effet protecteur plus marqué que chez les femmes (littérature démographique sur la mortalité par état matrimonial, dont un rapport suisse de 2025 ; vérification du 31 juillet 2026). Et vivre sans partenaire, que ce soit par célibat, séparation ou veuvage, est associé à un taux de suicide plus élevé, avec là encore un effet plus fort chez les hommes (Observatoire national du suicide, données reprises en janvier 2026 ; vérification du 31 juillet 2026).
 
 Ces chiffres ne signifient pas qu'il faut être en couple à tout prix, et une mauvaise relation est pire que la solitude. Ils signifient qu'un homme qui se retire durablement du lien retire aussi un facteur de protection important, et qu'il le fait presque toujours sans le savoir.
 
@@ -1324,7 +1324,7 @@ Il faut distinguer nettement l'attirance initiale, qui est rapide, superficielle
 7. **La compétence.** Voir quelqu'un être vraiment bon dans quelque chose, quoi que ce soit, produit de l'attachement. C'est symétrique et souvent négligé dans un sens.
 8. **L'accès à sa propre douceur.** Beaucoup d'hommes s'attachent à la personne avec laquelle ils découvrent une version d'eux-mêmes qu'ils ne connaissaient pas. Ce n'est pas seulement elle qu'il aime, c'est ce qu'il devient à côté d'elle, et il ne veut pas perdre cet accès.
 
-**Le facteur transversal : la vulnérabilité réciproque.** L'attachement se construit par des allers-retours d'exposition. L'un se découvre un peu, l'autre répond sans profiter de l'ouverture, puis s'expose à son tour. Chaque cycle réussi consolide. Un cycle raté, une confidence moquée ou utilisée plus tard dans une dispute, ferme le circuit pour longtemps. Le fait de se sentir vu et compris est documenté comme un facteur central de l'attachement amoureux naissant (source : Reis & Shaver, « Intimacy as an interpersonal process », dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 7 août 2026).
+**Le facteur transversal : la vulnérabilité réciproque.** L'attachement se construit par des allers-retours d'exposition. L'un se découvre un peu, l'autre répond sans profiter de l'ouverture, puis s'expose à son tour. Chaque cycle réussi consolide. Un cycle raté, une confidence moquée ou utilisée plus tard dans une dispute, ferme le circuit pour longtemps. [Le fait de se sentir vu et compris est documenté comme un facteur central de l'attachement amoureux naissant](https://www.researchgate.net/publication/347687013_Intimacy_as_an_interpersonal_process) (Reis & Shaver, « Intimacy as an interpersonal process », dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 7 août 2026).
 
 ### 12.5 Ce qui l'empêche de tomber
 
@@ -1335,13 +1335,13 @@ Six verrous, par fréquence.
 3. **Le deuil non fait d'une relation précédente.** Le plus fréquent chez les hommes de vingt-cinq à quarante ans.
 4. **L'absence de modèle.** N'avoir jamais vu un couple qui fonctionne rend l'engagement abstrait et effrayant.
 5. **Le sentiment d'être en dette.** Une relation où il reçoit plus qu'il ne donne, ou le croit, devient inconfortable et il en sort. Conséquence directe du 3.5.
-6. **La comparaison avec l'idéal.** Le perfectionnisme relationnel, souvent alimenté par une exposition permanente à des versions montées de la vie des autres. L'évitement de l'engagement, décrit dans la littérature sur l'attachement adulte, freine ce basculement (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+6. **La comparaison avec l'idéal.** Le perfectionnisme relationnel, souvent alimenté par une exposition permanente à des versions montées de la vie des autres. [L'évitement de l'engagement, décrit dans la littérature sur l'attachement adulte, freine ce basculement](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 12.6 Ce qui le fait rester, ce qui le fait partir
 
 Ici, les données sont bonnes, réellement rassurantes, et elles méritent d'être connues aussi largement que possible, parce qu'elles contredisent la plupart des intuitions répandues sur ce qui ferait durer ou échouer une relation.
 
-L'étude la plus solide sur le sujet a analysé 43 jeux de données longitudinales portant sur plus de 11 000 couples. Les cinq facteurs qui prédisent le mieux la qualité d'une relation sont, dans l'ordre : la perception que le partenaire est engagé, l'appréciation ressentie envers le partenaire, la satisfaction sexuelle, la perception que le partenaire est satisfait, et le faible niveau de conflit. Ces variables relationnelles expliquent jusqu'à 45 % de la variance, tandis que les caractéristiques individuelles des partenaires n'en expliquent qu'environ 21 % (source : Joel, Eastwick et al., PNAS, 2020 ; vérification du 31 juillet 2026).
+L'étude la plus solide sur le sujet a analysé 43 jeux de données longitudinales portant sur plus de 11 000 couples. Les cinq facteurs qui prédisent le mieux la qualité d'une relation sont, dans l'ordre : la perception que le partenaire est engagé, l'appréciation ressentie envers le partenaire, la satisfaction sexuelle, la perception que le partenaire est satisfait, et le faible niveau de conflit. Ces variables relationnelles expliquent jusqu'à 45 % de la variance, tandis que les caractéristiques individuelles des partenaires n'en expliquent qu'environ 21 % (Joel, Eastwick et al., *PNAS*, 2020 ; vérification du 31 juillet 2026).
 
 Le résultat le plus important, et sans doute le plus libérateur de tout ce guide, est celui-ci : les caractéristiques propres du partenaire n'expliquent qu'environ 5 % de la satisfaction de l'autre. Autrement dit, la qualité d'une relation dépend beaucoup moins de qui est la personne que de ce qui se construit, jour après jour, entre les deux.
 
@@ -1359,7 +1359,7 @@ L'idée que la relation se joue au début, dans une phase de séduction où il f
 
 Les données du 12.6 disent l'inverse : ce qui compte n'est pas ce que tu montres, c'est ce qui s'installe. La séduction ne prédit à peu près rien. La façon dont vous vous parlez le mardi soir de la troisième année prédit à peu près tout.
 
-Et pour un homme en particulier, cette bascule est profondément libératrice à entendre. Il ne s'agit pas de devenir quelqu'un d'autre pour être choisi. Il s'agit d'apprendre à faire fonctionner quelque chose à deux, ce qui est une vraie compétence concrète, ce qui s'apprend avec le temps, et ce qui ne dépend qu'en partie de qui il est vraiment. Croire à une conquête ponctuelle plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple (source : Knee, « Implicit theories of relationships: assessment and prediction of romantic relationship initiation, coping, and longevity », *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
+Et pour un homme en particulier, cette bascule est profondément libératrice à entendre. Il ne s'agit pas de devenir quelqu'un d'autre pour être choisi. Il s'agit d'apprendre à faire fonctionner quelque chose à deux, ce qui est une vraie compétence concrète, ce qui s'apprend avec le temps, et ce qui ne dépend qu'en partie de qui il est vraiment. [Croire à une conquête ponctuelle plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple](https://www.researchgate.net/publication/232518767_Implicit_Theories_of_Relationships_Assessment_and_Prediction_of_Romantic_Relationship_Initiation_Coping_and_Longevity) (Knee, « Implicit theories of relationships: assessment and prediction of romantic relationship initiation, coping, and longevity », *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
 
 ---
 
@@ -1371,7 +1371,7 @@ C'est la période où la règle 4 du code viril (ne pas être classé défavorab
 
 Les fragilités typiques : [anxiété de performance](<../2 - Notions/Anxiété de performance.md>), dysmorphophobie (rapport pathologique à son image corporelle, très sous-repérée chez les garçons), consommations, sentiment d'imposture, difficulté à formuler un désir propre distinct des attentes extérieures.
 
-**💑 Dans le couple.** À cet âge, la valorisation ne fonctionne que si elle est spécifique. "Tu es génial" glisse, "j'ai trouvé ta manière de gérer ce truc très solide" atterrit. La comparaison sociale permanente, amplifiée par les réseaux sociaux, affecte particulièrement les jeunes adultes (source : Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
+**💑 Dans le couple.** À cet âge, la valorisation ne fonctionne que si elle est spécifique. "Tu es génial" glisse, "j'ai trouvé ta manière de gérer ce truc très solide" atterrit. [La comparaison sociale permanente, amplifiée par les réseaux sociaux, affecte particulièrement les jeunes adultes](https://www.sciencedirect.com/science/article/abs/pii/S2352250X15002249) (Fardouly & Vartanian, « Social media and body image concerns », *Current Opinion in Psychology*, 2016 ; vérification du 7 août 2026).
 
 ### 13.2 De 25 à 35 ans : le pic de charge et le début du désert relationnel
 
@@ -1379,7 +1379,7 @@ Période de construction professionnelle intense, souvent d'installation en coup
 
 Le chiffre à retenir, du chapitre 14 : à ce moment-là, un homme sur deux environ voit sa partenaire devenir sa seule vraie confidente.
 
-Les fragilités typiques : surinvestissement professionnel, épuisement silencieux, perte des espaces de décompression, difficulté à demander de l'aide (règle 3), sentiment de ne plus s'appartenir. Le rétrécissement du réseau amical masculin après les études est documenté dans la littérature sur les amitiés masculines (source : Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
+Les fragilités typiques : surinvestissement professionnel, épuisement silencieux, perte des espaces de décompression, difficulté à demander de l'aide (règle 3), sentiment de ne plus s'appartenir. [Le rétrécissement du réseau amical masculin après les études est documenté dans la littérature sur les amitiés masculines](https://link.springer.com/article/10.1007/BF00287670) (Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
 
 ### 13.3 De 35 à 50 ans : le bilan, pas la crise
 
@@ -1392,7 +1392,7 @@ C'est aussi statistiquement une période à risque dépressif élevé, et le sen
 **Bons réflexes.**
 
 - Traiter la question du sens comme un sujet légitime, pas comme une lubie. "Tu ferais quoi si tu pouvais tout changer ?" posé sans menace ouvre parfois des conversations que dix ans de vie commune n'avaient pas ouvertes.
-- Distinguer le questionnement du passage à l'acte. Le premier est sain et doit pouvoir se dire. Le second arrive surtout quand le premier n'a pas eu de place. Cette période de bilan correspond à une phase de transition décrite dans les travaux fondateurs sur le développement adulte masculin (source : Levinson, *The Seasons of a Man's Life*, Knopf, 1978 ; vérification du 7 août 2026).
+- Distinguer le questionnement du passage à l'acte. Le premier est sain et doit pouvoir se dire. Le second arrive surtout quand le premier n'a pas eu de place. [Cette période de bilan correspond à une phase de transition décrite dans les travaux fondateurs sur le développement adulte masculin](https://archive.org/details/seasonsofmanslif00levirich) (Levinson, *The Seasons of a Man's Life*, Knopf, 1978 ; vérification du 7 août 2026).
 
 ### 13.3 bis La bonne nouvelle statistique sur le creux de la quarantaine
 
@@ -1408,7 +1408,7 @@ Un résultat spécifique aux hommes mérite d'être connu, parce qu'il confirme 
 
 Trois transitions se cumulent : les modifications corporelles réelles (récupération, force, érection, sommeil), le rapport au travail qui change, et pour beaucoup la retraite, qui est probablement l'événement le plus sous-estimé de la vie émotionnelle masculine.
 
-La retraite retire d'un coup ce qui, dans le système décrit au 4.5, tenait lieu de justification d'existence : l'utilité. Un homme qui n'a jamais construit d'identité en dehors du travail se retrouve sans réponse à la question de ce qu'il est. Ajoute à cela l'effondrement du réseau social, qui était souvent professionnel, et tu as le tableau qui explique le chiffre le plus dur de ce guide : 76 décès par suicide pour 100 000 chez les hommes de 85 ans et plus (source : Santé publique France, octobre 2025 ; vérification du 31 juillet 2026).
+La retraite retire d'un coup ce qui, dans le système décrit au 4.5, tenait lieu de justification d'existence : l'utilité. Un homme qui n'a jamais construit d'identité en dehors du travail se retrouve sans réponse à la question de ce qu'il est. Ajoute à cela l'effondrement du réseau social, qui était souvent professionnel, et tu as le tableau qui explique le chiffre le plus dur de ce guide : 76 décès par suicide pour 100 000 chez les hommes de 85 ans et plus (Santé publique France, octobre 2025 ; vérification du 31 juillet 2026).
 
 **Bons réflexes.**
 
@@ -1429,7 +1429,7 @@ La retraite retire d'un coup ce qui, dans le système décrit au 4.5, tenait lie
 
 - Lui confier des tâches où il est seul responsable, plutôt que des tâches où il assiste. La compétence se construit par l'exclusivité, pas par l'assistance.
 - Ne pas corriger systématiquement sa manière de faire. Un père corrigé dix fois devient un père qui n'essaie plus, et le couple se retrouve avec un déséquilibre qui durera quinze ans.
-- Nommer explicitement sa place. "Elle a besoin de toi autant que de moi, juste différemment" est une phrase qui vaut cher au troisième mois. La transition psychologique vers la paternité est décrite dans une revue de la littérature dédiée (source : Genesoni & Tallandini, « Men's Psychological Transition to Fatherhood: An Analysis of the Literature, 1989–2008 », *Birth*, 2009 ; vérification du 7 août 2026).
+- Nommer explicitement sa place. "Elle a besoin de toi autant que de moi, juste différemment" est une phrase qui vaut cher au troisième mois. [La transition psychologique vers la paternité est décrite dans une revue de la littérature dédiée](https://pubmed.ncbi.nlm.nih.gov/20002423/) (Genesoni & Tallandini, « Men's Psychological Transition to Fatherhood: An Analysis of the Literature, 1989–2008 », *Birth*, 2009 ; vérification du 7 août 2026).
 
 ### 13.6 Ce que cette traversée par âges donne à voir, une fois assemblée
 
@@ -1439,11 +1439,11 @@ Le fil qui relie ces âges entre eux n'est donc pas tant la difficulté elle-mê
 
 ## Sources vérifiables
 
-- Fardouly, J. & Vartanian, L. (2016), « Social media and body image concerns », *Current Opinion in Psychology* ; vérification du 7 août 2026.
-- Wright, P. (1982), « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles* ; vérification du 7 août 2026.
-- Levinson, D. (1978), *The Seasons of a Man's Life*, Knopf ; vérification du 7 août 2026.
+- Fardouly, J. & Vartanian, L. (2016), [Social media and body image concerns](https://www.sciencedirect.com/science/article/abs/pii/S2352250X15002249), *Current Opinion in Psychology* ; vérification du 7 août 2026.
+- Wright, P. (1982), [Men's friendships, women's friendships and the alleged inferiority of the former](https://link.springer.com/article/10.1007/BF00287670), *Sex Roles* ; vérification du 7 août 2026.
+- Levinson, D. (1978), [The Seasons of a Man's Life](https://archive.org/details/seasonsofmanslif00levirich), Knopf ; vérification du 7 août 2026.
 - Santé publique France, octobre 2025 ; vérification du 31 juillet 2026.
-- Genesoni, L. & Tallandini, M. (2009), « Men's Psychological Transition to Fatherhood: An Analysis of the Literature, 1989–2008 », *Birth* ; vérification du 7 août 2026.
+- Genesoni, L. & Tallandini, M. (2009), [Men's Psychological Transition to Fatherhood: An Analysis of the Literature, 1989–2008](https://pubmed.ncbi.nlm.nih.gov/20002423/), *Birth* ; vérification du 7 août 2026.
 - [Happiness Across the Life Span: Not a Slippery Slope after all](https://dornsife.usc.edu/news/stories/people-get-happier-as-they-age/), USC Dornsife ; vérification du 11 août 2026.
 - [The U-Curve of Happiness Revisited](https://link.springer.com/article/10.1007/s10902-022-00569-4), *Journal of Happiness Studies* ; vérification du 11 août 2026.
 - [How Dads bond with toddlers: Brain scans link oxytocin to paternal nurturing](https://www.sciencedaily.com/releases/2017/02/170217095925.htm), *ScienceDaily* ; vérification du 11 août 2026.
@@ -1457,9 +1457,9 @@ Le fil qui relie ces âges entre eux n'est donc pas tant la difficulté elle-mê
 
 C'est probablement le point le plus important du guide après le chapitre 3, et le moins connu.
 
-Les hommes ont, en moyenne, des réseaux de soutien émotionnel nettement plus étroits que les femmes. Les enquêtes convergent : environ 20 % des hommes au Royaume-Uni déclarent n'avoir aucun ami proche, contre 12 % des femmes, et les hommes sont significativement moins susceptibles que les femmes de se tourner vers des amis, de la famille ou un professionnel de santé mentale en cas de difficulté (sources : Community Life Survey UK 2024, Pew Research Center 2025 ; vérification du 31 juillet 2026). En France, les données de l'Insee montrent le même sens : 81 % des femmes ont des contacts hebdomadaires avec leur famille contre 70 % des hommes (source : Insee, enquête SRCV 2022 ; vérification du 31 juillet 2026).
+Les hommes ont, en moyenne, des réseaux de soutien émotionnel nettement plus étroits que les femmes. Les enquêtes convergent : environ 20 % des hommes au Royaume-Uni déclarent n'avoir aucun ami proche, contre 12 % des femmes, et les hommes sont significativement moins susceptibles que les femmes de se tourner vers des amis, de la famille ou un professionnel de santé mentale en cas de difficulté (Community Life Survey UK 2024, Pew Research Center 2025 ; vérification du 31 juillet 2026). En France, les données de l'Insee montrent le même sens : 81 % des femmes ont des contacts hebdomadaires avec leur famille contre 70 % des hommes (Insee, enquête SRCV 2022 ; vérification du 31 juillet 2026).
 
-Le chiffre qui te concerne directement : environ 74 % des hommes se tourneraient en premier vers leur conjoint ou partenaire pour un soutien émotionnel (source : Pew Research Center, 2025 ; vérification du 31 juillet 2026). Pour les femmes, le soutien est réparti sur plusieurs personnes.
+Le chiffre qui te concerne directement : environ 74 % des hommes se tourneraient en premier vers leur conjoint ou partenaire pour un soutien émotionnel (Pew Research Center, 2025 ; vérification du 31 juillet 2026). Pour les femmes, le soutien est réparti sur plusieurs personnes.
 
 Traduction concrète, et il vaut la peine de la répéter parce qu'elle résume tout le chapitre : dans beaucoup de couples hétérosexuels, elle a un réseau entier de soutien réparti sur plusieurs personnes, et lui a elle — une seule personne, sans redondance, sans relais possible en cas d'indisponibilité, de fatigue ou de conflit direct entre eux deux.
 
@@ -1467,7 +1467,7 @@ Traduction concrète, et il vaut la peine de la répéter parce qu'elle résume 
 
 Ce n'est jamais un défaut de capacité relationnelle, contrairement à ce que suggère parfois une lecture rapide et un peu méprisante du phénomène. Les études sur l'amitié masculine montrent que les hommes construisent une intimité tout aussi réelle que celle des femmes, mais par un autre chemin : l'activité partagée plutôt que la conversation frontale et explicite (voir 4.7). Le problème n'est donc pas la profondeur de ces liens, mais leur solidité structurelle : ce format reste fragile, parce qu'il dépend presque entièrement d'un contexte extérieur pour se maintenir dans le temps. Quand ce contexte disparaît — fin des études, déménagement, changement d'emploi, arrivée d'un enfant, simple éloignement géographique progressif — il ne reste rien de concret pour maintenir activement le lien, précisément parce que rien de ce lien n'avait jamais été verbalisé ni nommé comme important en tant que tel, seulement vécu à travers l'activité qui le portait.
 
-À cela s'ajoute une norme sociale explicite, presque jamais formulée mais partout active : la Community Life Survey britannique de 2024 relève que les hommes sous-déclarent systématiquement la solitude ressentie dans les enquêtes, précisément parce que les normes de masculinité intériorisées découragent l'aveu même de cette vulnérabilité, y compris de façon anonyme dans un questionnaire. Le chiffre réel est donc très probablement pire que le chiffre mesuré, ce qui n'est pas une nuance mineure : cela signifie que le problème décrit dans ce chapitre est vraisemblablement plus répandu encore que ne le suggèrent déjà des statistiques pourtant déjà préoccupantes. L'atrophie des amitiés masculines après les études et l'entrée dans la vie professionnelle est documentée dans la littérature sur les réseaux de soutien masculins (source : Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
+À cela s'ajoute une norme sociale explicite, presque jamais formulée mais partout active : la Community Life Survey britannique de 2024 relève que les hommes sous-déclarent systématiquement la solitude ressentie dans les enquêtes, précisément parce que les normes de masculinité intériorisées découragent l'aveu même de cette vulnérabilité, y compris de façon anonyme dans un questionnaire. Le chiffre réel est donc très probablement pire que le chiffre mesuré, ce qui n'est pas une nuance mineure : cela signifie que le problème décrit dans ce chapitre est vraisemblablement plus répandu encore que ne le suggèrent déjà des statistiques pourtant déjà préoccupantes. [L'atrophie des amitiés masculines après les études et l'entrée dans la vie professionnelle est documentée dans la littérature sur les réseaux de soutien masculins](https://link.springer.com/article/10.1007/BF00287670) (Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
 
 ### 14.3 Ce que ça produit pour toi
 
@@ -1475,7 +1475,7 @@ Trois conséquences, qu'il vaut mieux voir arriver.
 
 1. **La charge de confidente unique.** Tu reçois l'intégralité de sa vie émotionnelle, sans relais, sans relève, sans possibilité de dire que tu n'as pas la capacité ce soir sans que ça laisse un vide total plutôt qu'un simple report. C'est épuisant sur la durée, et c'est presque toujours resté totalement silencieux, jamais nommé explicitement dans le couple.
 2. **Le double rôle incompatible.** Tu ne peux pas être à la fois sa partenaire et sa thérapeute, ces deux positions demandant une distance émotionnelle incompatible l'une avec l'autre. Le jour où le conflit porte précisément sur vous deux, il n'a alors plus personne du tout vers qui se tourner. Et toi, dans ce moment précis, tu ne peux pas être à la fois partie prenante du conflit et espace neutre d'accueil de ce même conflit.
-3. **La vulnérabilité de la rupture.** Un homme dont toute la vie affective repose sur une seule personne ne perd jamais seulement une relation en cas de séparation : il perd, du même coup et sans transition, son unique canal d'expression émotionnelle disponible. C'est l'une des explications des décompensations violentes post-rupture chez certains hommes, et l'une des raisons pour lesquelles le taux de suicide masculin explose dans l'année qui suit une séparation. L'isolement social est associé à une surmortalité comparable à celle d'autres facteurs de risque majeurs (source : Holt-Lunstad, Smith, Baker, Harris & Stephenson, « Loneliness and social isolation as risk factors for mortality », *Perspectives on Psychological Science*, 2015 ; vérification du 7 août 2026).
+3. **La vulnérabilité de la rupture.** Un homme dont toute la vie affective repose sur une seule personne ne perd jamais seulement une relation en cas de séparation : il perd, du même coup et sans transition, son unique canal d'expression émotionnelle disponible. C'est l'une des explications des décompensations violentes post-rupture chez certains hommes, et l'une des raisons pour lesquelles le taux de suicide masculin explose dans l'année qui suit une séparation. [L'isolement social est associé à une surmortalité comparable à celle d'autres facteurs de risque majeurs](https://journals.sagepub.com/doi/full/10.1177/1745691614568352) (Holt-Lunstad, Smith, Baker, Harris & Stephenson, « Loneliness and social isolation as risk factors for mortality », *Perspectives on Psychological Science*, 2015 ; vérification du 7 août 2026).
 
 ### 14.3 bis Ce qui fonctionne concrètement ailleurs, et pourrait fonctionner ici
 
@@ -1500,7 +1500,7 @@ Sur ce que ça change concrètement, un seul lien suffit souvent à faire une di
 - **Privilégier les formats à activité.** Proposer un week-end entre potes, un sport, une pratique régulière, plutôt que "tu devrais appeler ton ami". L'activité est le véhicule.
 - **Ne pas être le seul organisateur de sa vie sociale.** Si tu prends en charge ses relations, tu ajoutes une dépendance au lieu d'en retirer une. Suggérer une fois, puis laisser.
 - **Nommer ta limite avant d'être vidée.** "Je veux qu'on en parle, mais pas ce soir, je n'ai plus rien" est une phrase saine et pas un abandon.
-- **Pousser vers un tiers professionnel, non pas comme un recours de crise, mais comme un espace normal.** L'argument qui fonctionne le mieux auprès des hommes réticents n'est pas "ça te ferait du bien", c'est "c'est quelqu'un dont c'est le métier, et il n'est pas impliqué, donc il peut dire des choses que je ne peux pas dire". Le maintien de liens sociaux réguliers figure parmi les facteurs protecteurs les mieux établis face à l'isolement (source : Holt-Lunstad, Smith, Baker, Harris & Stephenson, « Loneliness and social isolation as risk factors for mortality », *Perspectives on Psychological Science*, 2015 ; vérification du 7 août 2026).
+- **Pousser vers un tiers professionnel, non pas comme un recours de crise, mais comme un espace normal.** L'argument qui fonctionne le mieux auprès des hommes réticents n'est pas "ça te ferait du bien", c'est "c'est quelqu'un dont c'est le métier, et il n'est pas impliqué, donc il peut dire des choses que je ne peux pas dire". [Le maintien de liens sociaux réguliers figure parmi les facteurs protecteurs les mieux établis face à l'isolement](https://journals.sagepub.com/doi/full/10.1177/1745691614568352) (Holt-Lunstad, Smith, Baker, Harris & Stephenson, « Loneliness and social isolation as risk factors for mortality », *Perspectives on Psychological Science*, 2015 ; vérification du 7 août 2026).
 
 ### 14.5 Ce que ce chapitre change concrètement, une fois su
 
@@ -1512,8 +1512,8 @@ Le paradoxe qui traverse tout ce chapitre, une fois qu'on prend le temps de le v
 
 ## Sources vérifiables
 
-- Wright, P. (1982), « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles* ; vérification du 7 août 2026.
-- Holt-Lunstad, J., Smith, T., Baker, M., Harris, T. & Stephenson, D. (2015), « Loneliness and social isolation as risk factors for mortality », *Perspectives on Psychological Science* ; vérification du 7 août 2026.
+- Wright, P. (1982), [Men's friendships, women's friendships and the alleged inferiority of the former](https://link.springer.com/article/10.1007/BF00287670), *Sex Roles* ; vérification du 7 août 2026.
+- Holt-Lunstad, J., Smith, T., Baker, M., Harris, T. & Stephenson, D. (2015), [Loneliness and social isolation as risk factors for mortality](https://journals.sagepub.com/doi/full/10.1177/1745691614568352), *Perspectives on Psychological Science* ; vérification du 7 août 2026.
 - [The Men's Shed Movement: Highlighting Friendship](https://menssheds.ie/wp-content/uploads/2020/04/Mens-Shed-Movement-and-Friendship-A-McGrath-2020.pdf), Men's Sheds Ireland ; vérification du 11 août 2026.
 - [You've Got a Friend in Me: The Importance of a Confidant](https://www.ijmsc.org/view/importance-of-confidant-among-women-with-multiple-sclerosis), *International Journal of MS Care* ; vérification du 11 août 2026.
 
@@ -1535,7 +1535,7 @@ Trois conséquences pratiques :
 - **La perte de rang fait beaucoup plus mal que le gain ne fait plaisir.** Asymétrie classique, très marquée ici.
 - **La menace de rang se traite par l'action, jamais par la parole.** Un homme qui vient de perdre de la valeur dans un groupe va travailler plus, s'entraîner plus, dépenser, ou provoquer. Il ne va pas dire qu'il s'est senti diminué.
 
-**💑 Dans le couple.** Beaucoup de comportements incompréhensibles à la maison sont des conséquences directes d'un événement de rang à l'extérieur. Une humiliation en réunion produit une soirée insupportable, sans qu'aucun lien ne soit fait ni par lui ni par toi. Les hiérarchies masculines s'organisent selon deux voies distinctes, la dominance et le prestige (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+**💑 Dans le couple.** Beaucoup de comportements incompréhensibles à la maison sont des conséquences directes d'un événement de rang à l'extérieur. Une humiliation en réunion produit une soirée insupportable, sans qu'aucun lien ne soit fait ni par lui ni par toi. [Les hiérarchies masculines s'organisent selon deux voies distinctes, la dominance et le prestige](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 15.2 Conflit vertical et conflit horizontal
 
@@ -1548,7 +1548,7 @@ Deux types de conflits, qui ne se traitent pas du tout de la même façon.
 **Bons réflexes.**
 
 - Ne t'inquiète pas trop d'une engueulade verticale. Elle est bruyante et sans conséquence.
-- Inquiète-toi d'un silence horizontal. Quand un homme cesse simplement de parler d'un ami sans rien dire, quelque chose de grave s'est produit, et il n'en parlera pas spontanément. La distinction entre conflit vertical, lié au rang, et conflit horizontal, entre pairs, découle de ce même cadre théorique (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+- Inquiète-toi d'un silence horizontal. Quand un homme cesse simplement de parler d'un ami sans rien dire, quelque chose de grave s'est produit, et il n'en parlera pas spontanément. [La distinction entre conflit vertical, lié au rang, et conflit horizontal, entre pairs, découle de ce même cadre théorique](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 15.3 Pourquoi ils se réconcilient sans parler
 
@@ -1558,7 +1558,7 @@ Ce n'est ni supérieur ni inférieur au mode verbal. C'est efficace pour les con
 
 **💑 Dans le couple.** C'est exactement ce mode qu'il essaie d'appliquer avec toi après une dispute : proposer une sortie, faire un geste, revenir comme si de rien n'était. De son point de vue, c'est une réconciliation en bonne et due forme. De ton point de vue, c'est un évitement du sujet. Les deux lectures sont sincères.
 
-Le compromis qui fonctionne : accepter le geste comme signal de réconciliation, et poser la conversation ensuite, à froid, en la nommant comme un complément et non comme une remise en cause du geste. La réconciliation sans verbalisation explicite est cohérente avec le mode d'interaction côte à côte documenté chez les hommes (source : Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
+Le compromis qui fonctionne : accepter le geste comme signal de réconciliation, et poser la conversation ensuite, à froid, en la nommant comme un complément et non comme une remise en cause du geste. [La réconciliation sans verbalisation explicite est cohérente avec le mode d'interaction côte à côte documenté chez les hommes](https://link.springer.com/article/10.1007/BF00287670) (Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
 
 ### 15.4 Le père et le fils
 
@@ -1576,7 +1576,7 @@ Le point commun des trois : la relation au père se rejoue dans les relations à
 
 - La question "il était comment, ton père, quand tu avais dix ans" est l'une des plus productives qui existent, à condition d'être posée en configuration côte à côte et sans enjeu.
 - Ne compare jamais un homme à son père, dans aucun sens. En négatif c'est une insulte majeure, et en positif c'est un piège, parce que la relation est presque toujours ambivalente.
-- La naissance d'un enfant, la maladie ou la mort du père rouvrent ce dossier avec une violence que personne n'anticipe. La relation père-fils comme terrain de transmission et de rivalité masculine est documentée dans un ouvrage de référence sur le sujet (source : Diamond, *My Father Before Me*, Simon & Schuster, 2007 ; vérification du 7 août 2026).
+- La naissance d'un enfant, la maladie ou la mort du père rouvrent ce dossier avec une violence que personne n'anticipe. [La relation père-fils comme terrain de transmission et de rivalité masculine est documentée dans un ouvrage de référence sur le sujet](https://archive.org/details/myfatherbeforeme00diam) (Diamond, *My Father Before Me*, W. W. Norton, 2007 ; vérification du 7 août 2026).
 
 ### 15.5 L'ami qui réussit
 
@@ -1587,7 +1587,7 @@ Ce mécanisme explique un phénomène très courant et rarement compris : les am
 **Bons réflexes.**
 
 - Si un ami proche s'éloigne au moment où lui-même réussit, ou l'inverse, l'hypothèse à retenir est presque toujours celle-là.
-- Nommer le mécanisme, une fois, sans insister, peut aider : "c'est peut-être plus compliqué pour lui que pour toi en ce moment". C'est le genre de phrase qu'un homme n'aurait jamais formulée seul et qui débloque parfois quelque chose. La réussite d'un pair active des mécanismes de comparaison de statut documentés dans les hiérarchies masculines (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+- Nommer le mécanisme, une fois, sans insister, peut aider : "c'est peut-être plus compliqué pour lui que pour toi en ce moment". C'est le genre de phrase qu'un homme n'aurait jamais formulée seul et qui débloque parfois quelque chose. [La réussite d'un pair active des mécanismes de comparaison de statut documentés dans les hiérarchies masculines](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 15.6 La meute et le prix de la déviation
 
@@ -1598,7 +1598,7 @@ Ce coût est souvent invisible de l'extérieur et systématiquement sous-estimé
 **Bons réflexes.**
 
 - Ne demande pas un héroïsme social permanent. Demande une position claire en privé et un désengagement progressif des groupes toxiques, ce qui est bien plus atteignable.
-- Le meilleur levier n'est pas la culpabilisation, c'est l'existence d'une alternative. Un homme quitte un groupe quand il en a un autre, pas quand on lui explique que le premier est mauvais. Le concept de masculinité précaire, qui doit être sans cesse démontrée sous peine de sanction sociale, explique la pression à la conformité au groupe (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+- Le meilleur levier n'est pas la culpabilisation, c'est l'existence d'une alternative. Un homme quitte un groupe quand il en a un autre, pas quand on lui explique que le premier est mauvais. [Le concept de masculinité précaire, qui doit être sans cesse démontrée sous peine de sanction sociale, explique la pression à la conformité au groupe](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 15.7 Les autres hommes autour de ton couple
 
@@ -1607,7 +1607,7 @@ Quelques configurations classiques, à connaître pour ne pas se tromper d'inter
 - **Ton ex.** Le problème n'est presque jamais la jalousie sexuelle. C'est le classement : il se demande où il se situe par rapport à lui, sur des critères qu'il n'avouera jamais.
 - **Ton père.** Il y a un enjeu de validation par une figure de rang supérieur, même chez un homme de quarante ans. Une phrase méprisante de ton père pèse très lourd et sera rarement rapportée.
 - **Un collègue ou un supérieur.** Une humiliation professionnelle entre hommes est vécue avec une intensité qui paraît disproportionnée de l'extérieur. Elle ne l'est pas de l'intérieur.
-- **Un ami trop proche de toi.** Question de loyauté horizontale, pas de propriété. Le conflit potentiel est avec l'ami, pas avec toi. Cette même précarité de la masculinité éclaire la façon dont le regard des autres hommes pèse sur un couple (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+- **Un ami trop proche de toi.** Question de loyauté horizontale, pas de propriété. Le conflit potentiel est avec l'ami, pas avec toi. [Cette même précarité de la masculinité éclaire la façon dont le regard des autres hommes pèse sur un couple](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 15.8 Ce dont les hommes parlent réellement entre eux
 
@@ -1618,7 +1618,7 @@ La conversation masculine ordinaire porte massivement sur des objets extérieurs
 Deux corrections importantes :
 
 - **Non, ils ne passent pas leur temps à parler de sexe ou des femmes de façon crue.** Ce registre existe, il est très variable selon les milieux et les âges, et il est très largement surestimé.
-- **Non, ils ne se confient pas les uns aux autres comme tu te confies à tes amies.** Une amitié masculine de quinze ans peut ne contenir aucune conversation approfondie sur la vie intérieure de l'un ou de l'autre. Ce n'est pas de la superficialité, c'est un autre format, décrit en 4.7 et 14.2. Mais c'est un format qui protège mal en cas de coup dur, et c'est tout le problème du chapitre 14. Le contenu réel des échanges entre hommes, souvent sous-estimé, est documenté dans la littérature sur les amitiés masculines (source : Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
+- **Non, ils ne se confient pas les uns aux autres comme tu te confies à tes amies.** Une amitié masculine de quinze ans peut ne contenir aucune conversation approfondie sur la vie intérieure de l'un ou de l'autre. Ce n'est pas de la superficialité, c'est un autre format, décrit en 4.7 et 14.2. Mais c'est un format qui protège mal en cas de coup dur, et c'est tout le problème du chapitre 14. [Le contenu réel des échanges entre hommes, souvent sous-estimé, est documenté dans la littérature sur les amitiés masculines](https://link.springer.com/article/10.1007/BF00287670) (Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
 
 Comprendre ce format, plutôt que de le juger à l'aune d'un autre, change la lecture qu'on en fait : ce n'est pas un déficit de proximité, c'est une proximité qui se construit et se prouve autrement, par la présence répétée plutôt que par la parole. Les deux formats ont leur utilité propre, et le mieux qui puisse arriver à un homme est d'avoir accès aux deux à la fois, plutôt que d'en être réduit à un seul.
 
@@ -1641,7 +1641,7 @@ Ce qui se passe de son côté : il ne trouve plus ses mots, il sait qu'il va dir
 - Instaurer une pause codifiée, décidée à froid, et non improvisée en pleine dispute. La règle qui fonctionne : n'importe lequel des deux peut demander une pause, la pause dure au minimum vingt minutes (temps physiologique de redescente), et celui qui l'a demandée s'engage explicitement à revenir. Ce dernier point est essentiel : sans engagement de retour, la pause est vécue comme un abandon.
 - Pendant la pause, ne pas ruminer l'argumentaire. Sortir, marcher, faire autre chose. Ruminer maintient l'activation.
 - Ne jamais poursuivre quelqu'un en retrait. Plus tu poursuis, plus il se ferme, et vous entrez dans le schéma poursuite-retrait qui est le motif de consultation numéro un en thérapie de couple.
-- Reprendre la conversation en la nommant : "on reprend là où on s'était arrêtés, calmement". Sans ce redémarrage explicite, le sujet reste ouvert et ressort trois semaines plus tard. Le retrait sous conflit correspond au versant masculin du patron demande-retrait, documenté dans les observations de couples (source : Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
+- Reprendre la conversation en la nommant : "on reprend là où on s'était arrêtés, calmement". Sans ce redémarrage explicite, le sujet reste ouvert et ressort trois semaines plus tard. [Le retrait sous conflit correspond au versant masculin du patron demande-retrait, documenté dans les observations de couples](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict) (Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
 
 ### 16.2 Le reproche et la demande
 
@@ -1655,7 +1655,7 @@ Comparaison directe :
 
 La structure qui fonctionne le mieux, dans l'ordre : le fait observable, ce que ça te fait, la demande concrète. Trois phrases, pas plus. Ce n'est pas de la technique de communication creuse, c'est la seule forme qui ne déclenche pas la défense automatique.
 
-Une précision importante : ce n'est pas à toi de porter seule cet effort de formulation. Un couple où une seule personne fait le travail de traduction est un couple déséquilibré. Le chapitre 19 y revient. La façon dont un reproche est formulé prédit davantage la réaction de l'autre que son contenu, un résultat observé sur de nombreux couples (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
+Une précision importante : ce n'est pas à toi de porter seule cet effort de formulation. Un couple où une seule personne fait le travail de traduction est un couple déséquilibré. Le chapitre 19 y revient. [La façon dont un reproche est formulé prédit davantage la réaction de l'autre que son contenu, un résultat observé sur de nombreux couples](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 16.3 Les questions qui ouvrent, et celles qui ferment
 
@@ -1674,7 +1674,7 @@ Une précision importante : ce n'est pas à toi de porter seule cet effort de fo
 - "Tu veux que je t'écoute ou que je t'aide à trouver une solution ?"
 - "Qu'est-ce qui te ferait du bien, là, maintenant ?"
 - "Je me trompe peut-être, mais j'ai l'impression que quelque chose te pèse depuis un moment."
-- Et parfois, la meilleure : rien du tout. Se poser à côté, en silence, sans agenda. Beaucoup d'hommes parlent au bout de dix minutes de silence partagé, jamais au bout de dix questions. Ces reformulations reprennent le principe de la communication non violente : décrire un fait et un besoin plutôt qu'exiger ou juger (source : Rosenberg, *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 ; vérification du 7 août 2026).
+- Et parfois, la meilleure : rien du tout. Se poser à côté, en silence, sans agenda. Beaucoup d'hommes parlent au bout de dix minutes de silence partagé, jamais au bout de dix questions. [Ces reformulations reprennent le principe de la communication non violente : décrire un fait et un besoin plutôt qu'exiger ou juger](https://search.worldcat.org/title/Nonviolent-communication-:-a-language-of-life/oclc/52312674) (Rosenberg, *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 ; vérification du 7 août 2026).
 
 ### 16.4 Le décodage : ce qu'il dit, ce que ça peut vouloir dire
 
@@ -1687,7 +1687,7 @@ Un tableau de traduction complémentaire de celui du 4.8, orienté couple. À ma
 - **Il travaille tard alors que rien ne l'y oblige.** Traduction probable : évitement (6.2), ou reconstruction d'un sentiment d'utilité mis à mal ailleurs.
 - **Il minimise un événement grave.** Traduction probable : décalage temporel (4.2). Repose la question dans trois jours.
 - **Il s'énerve quand tu l'aides.** Traduction probable : l'aide non demandée est reçue comme un constat d'incompétence.
-- **Il dit "fais comme tu veux" sur tout depuis un mois.** Traduction probable : épuisement décisionnel, souvent un signe précoce de 6.2. Ce décodage reprend la distinction entre émotion primaire et émotion secondaire de la thérapie centrée sur l'émotion (source : Greenberg & Paivio, *Working with Emotions in Psychotherapy*, Guilford Press, 1997 ; vérification du 7 août 2026).
+- **Il dit "fais comme tu veux" sur tout depuis un mois.** Traduction probable : épuisement décisionnel, souvent un signe précoce de 6.2. [Ce décodage reprend la distinction entre émotion primaire et émotion secondaire de la thérapie centrée sur l'émotion](https://www.abebooks.com/9781572302433/Working-Emotions-Psychotherapy-Greenberg-Leslie-1572302437/plp) (Greenberg & Paivio, *Working with Emotions in Psychotherapy*, Guilford Press, 1997 ; vérification du 7 août 2026).
 
 ### 16.4 bis Le démarrage en douceur et les tentatives de réparation
 
@@ -1711,7 +1711,7 @@ Quatre phrases qui fonctionnent presque partout et qui ne coûtent rien :
 - "Ce que tu ressens a du sens."
 - "Ça ne change rien à ce que je pense de toi."
 
-La dernière est spécifiquement l'antidote de la honte, et c'est probablement la phrase la plus utile de tout ce guide. Elle vaut après une panne, après un licenciement, après un aveu difficile, après une erreur. Elle dit exactement ce que la honte prétend impossible. Ces formulations reprennent le même principe de communication non violente appliqué à un moment de blocage (source : Rosenberg, *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 ; vérification du 7 août 2026).
+La dernière est spécifiquement l'antidote de la honte, et c'est probablement la phrase la plus utile de tout ce guide. Elle vaut après une panne, après un licenciement, après un aveu difficile, après une erreur. Elle dit exactement ce que la honte prétend impossible. [Ces formulations reprennent le même principe de communication non violente appliqué à un moment de blocage](https://search.worldcat.org/title/Nonviolent-communication-:-a-language-of-life/oclc/52312674) (Rosenberg, *Nonviolent Communication: A Language of Life*, PuddleDancer Press, 2003 ; vérification du 7 août 2026).
 
 ### 16.5 bis La structure d'une excuse qui répare vraiment
 
@@ -1728,10 +1728,10 @@ Aucun de ces outils ne demande un talent particulier ni une transformation de pe
 
 ## Sources vérifiables
 
-- Christensen, A. & Heavey, C. (1990), « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
-- Gottman, J. & Levenson, R. (1992), « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
-- Rosenberg, M. (2003), *Nonviolent Communication: A Language of Life*, PuddleDancer Press ; vérification du 7 août 2026.
-- Greenberg, L. & Paivio, S. (1997), *Working with Emotions in Psychotherapy*, Guilford Press ; vérification du 7 août 2026.
+- Christensen, A. & Heavey, C. (1990), [Gender and social structure in the demand/withdraw pattern of marital conflict](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict), *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
+- Gottman, J. & Levenson, R. (1992), [Marital processes predictive of later dissolution](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf), *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
+- Rosenberg, M. (2003), [Nonviolent Communication: A Language of Life](https://search.worldcat.org/title/Nonviolent-communication-:-a-language-of-life/oclc/52312674), PuddleDancer Press ; vérification du 7 août 2026.
+- Greenberg, L. & Paivio, S. (1997), [Working with Emotions in Psychotherapy](https://www.abebooks.com/9781572302433/Working-Emotions-Psychotherapy-Greenberg-Leslie-1572302437/plp), Guilford Press ; vérification du 7 août 2026.
 - [What Is the Soft Startup?](https://empathi.com/blog/what-is-the-soft-startup/), Figs O'Sullivan Couples Therapy ; vérification du 11 août 2026.
 - [Gottman Conflict Resolution: Softened Startup](https://naturalstatecounselingcenters.com/wp-content/uploads/2024/07/Gottman-Conflict-Softened-Startup-R-FRY.pdf) ; vérification du 11 août 2026.
 - [Gottman Repair Attempts](https://couplestherapyinc.com/gottman-repair-attempts/), Couples Therapy Inc. ; vérification du 11 août 2026.
@@ -1755,7 +1755,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La reformulation.** "Je ne te demande pas d'être à l'aise, je te demande d'essayer même quand c'est maladroit." Cette phrase retire l'exigence de performance, qui est ce qui bloque le plus. Beaucoup d'hommes ne parlent pas parce qu'ils pensent devoir bien parler.
 
-**Ce qui reste de sa responsabilité.** Un adulte de trente ans qui refuse toute tentative pendant des années, qui refuse tout accompagnement, et qui laisse sa partenaire porter seule la vie émotionnelle du couple, n'est pas mal outillé. Il est passif. La différence est visible : celui qui manque d'outils essaie mal, celui qui refuse n'essaie pas. Ce reproche recoupe le concept d'alexithymie masculine normative, produite par la socialisation plutôt que par un refus de communiquer (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+**Ce qui reste de sa responsabilité.** Un adulte de trente ans qui refuse toute tentative pendant des années, qui refuse tout accompagnement, et qui laisse sa partenaire porter seule la vie émotionnelle du couple, n'est pas mal outillé. Il est passif. La différence est visible : celui qui manque d'outils essaie mal, celui qui refuse n'essaie pas. [Ce reproche recoupe le concept d'alexithymie masculine normative, produite par la socialisation plutôt que par un refus de communiquer](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 17.2 "Il ne prend pas sa part de la charge mentale"
 
@@ -1767,7 +1767,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La reformulation.** Transférer des domaines entiers, jamais des tâches. "Tu prends les courses, entièrement : la liste, la fréquence, le budget, le stock" fonctionne. "Tu peux passer au supermarché" entretient le problème. Le mot clé est la propriété du domaine, pas l'aide.
 
-**Ce qui reste de sa responsabilité.** Tout, une fois le domaine transféré. Un homme qui accepte un domaine puis attend qu'on lui rappelle a repris le mode exécutant. Le déséquilibre du travail cognitif domestique est documenté indépendamment de la répartition des tâches elles-mêmes (source : Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
+**Ce qui reste de sa responsabilité.** Tout, une fois le domaine transféré. Un homme qui accepte un domaine puis attend qu'on lui rappelle a repris le mode exécutant. [Le déséquilibre du travail cognitif domestique est documenté indépendamment de la répartition des tâches elles-mêmes](https://journals.sagepub.com/doi/10.1177/0003122419859007) (Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
 
 ### 17.3 "Il ne pense qu'au sexe"
 
@@ -1779,7 +1779,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La reformulation.** "Est-ce que ce que tu veux, c'est du sexe ou c'est qu'on soit proches ?" Posée sincèrement et sans piège, cette question produit chez beaucoup d'hommes un moment de flottement révélateur, parce qu'ils ne se l'étaient jamais posée.
 
-**Ce qui reste de sa responsabilité.** L'insistance après un refus clair n'est pas un malentendu de canal, c'est un problème de respect du non. Aucun mécanisme de ce guide ne s'applique là. La sexualité comme principal canal d'expression émotionnelle autorisé découle du même mécanisme de socialisation (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+**Ce qui reste de sa responsabilité.** L'insistance après un refus clair n'est pas un malentendu de canal, c'est un problème de respect du non. Aucun mécanisme de ce guide ne s'applique là. [La sexualité comme principal canal d'expression émotionnelle autorisé découle du même mécanisme de socialisation](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 17.4 "Il est immature"
 
@@ -1789,7 +1789,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La mécanique.** Ce qu'on appelle immaturité recouvre en réalité trois choses différentes : l'évitement du conflit, l'incapacité à se projeter, et la difficulté à supporter la frustration. Elles ont trois causes différentes et trois traitements différents.
 
-**La reformulation.** Nommer le comportement précis. "Quand il y a un problème, tu changes de sujet" est traitable. "Tu es immature" ne l'est pas. La prise de risque et l'évitement des comportements jugés peu virils sont documentés comme des stratégies de démonstration de la masculinité (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+**La reformulation.** Nommer le comportement précis. "Quand il y a un problème, tu changes de sujet" est traitable. "Tu es immature" ne l'est pas. [La prise de risque et l'évitement des comportements jugés peu virils sont documentés comme des stratégies de démonstration de la masculinité](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 17.5 "Il fuit l'engagement"
 
@@ -1801,7 +1801,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La reformulation.** Passer du "où on va" au concret et au borné. "Est-ce que tu te vois vivre avec moi dans un an, oui ou non" obtient une réponse. "Tu ne veux pas t'engager" obtient une justification.
 
-**Ce qui reste de sa responsabilité.** Le flou entretenu. Un homme qui ne sait pas peut le dire, et une non-réponse répétée sur des années est une réponse. Voir 5.7. La fuite de l'engagement recoupe le style d'attachement évitant décrit dans la littérature sur l'attachement adulte (source : Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+**Ce qui reste de sa responsabilité.** Le flou entretenu. Un homme qui ne sait pas peut le dire, et une non-réponse répétée sur des années est une réponse. Voir 5.7. [La fuite de l'engagement recoupe le style d'attachement évitant décrit dans la littérature sur l'attachement adulte](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 17.6 "Il ne sait pas s'occuper de lui"
 
@@ -1811,7 +1811,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La mécanique.** L'utilité conditionnelle. On entretient un outil pour qu'il serve, on ne le soigne pas pour lui-même.
 
-**La reformulation.** Passer par l'utilité, faute de mieux. "J'ai besoin que tu sois là longtemps" fonctionne mieux que "occupe-toi de toi". Ce n'est pas idéal, c'est efficace. Le moindre recours à l'aide pour soi-même est documenté comme un trait stable de la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
+**La reformulation.** Passer par l'utilité, faute de mieux. "J'ai besoin que tu sois là longtemps" fonctionne mieux que "occupe-toi de toi". Ce n'est pas idéal, c'est efficace. [Le moindre recours à l'aide pour soi-même est documenté comme un trait stable de la socialisation masculine](https://scispace.com/pdf/men-masculinity-and-the-contexts-of-help-seeking-39yqubxun4.pdf) (Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 ### 17.7 "Il ne consulte jamais"
 
@@ -1819,7 +1819,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** L'idée qu'il s'en fiche. Les freins identifiés sont le coût, la peur du regard, et le manque d'information. Ajoute la règle 3 du code viril, et le fait que la démarche entière est un obstacle quand l'énergie est basse.
 
-**La reformulation.** Voir 6.5. Le contournement par le généraliste et le corps fonctionne dans une majorité de cas. L'attaque frontale ne fonctionne presque jamais. Le moindre recours à la consultation médicale et psychologique suit le même mécanisme documenté (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
+**La reformulation.** Voir 6.5. Le contournement par le généraliste et le corps fonctionne dans une majorité de cas. L'attaque frontale ne fonctionne presque jamais. [Le moindre recours à la consultation médicale et psychologique suit le même mécanisme documenté](https://scispace.com/pdf/men-masculinity-and-the-contexts-of-help-seeking-39yqubxun4.pdf) (Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 ### 17.8 "Il ne prend l'initiative que quand ça l'arrange"
 
@@ -1827,7 +1827,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** L'intention de profiter. Dans la plupart des cas, c'est un effet de la répartition installée : quelqu'un le fait déjà, et bien, donc le besoin ne se fait jamais sentir. Le mécanisme est le même qu'en 17.2.
 
-**La reformulation.** Créer un vide plutôt que de demander. Cesser d'organiser un domaine pendant deux mois produit plus de changement que dix conversations, à condition d'accepter que le domaine soit d'abord mal tenu. C'est le prix du transfert. Ce schéma d'initiative sélective est cohérent avec le patron demande-retrait observé dans le conflit conjugal (source : Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
+**La reformulation.** Créer un vide plutôt que de demander. Cesser d'organiser un domaine pendant deux mois produit plus de changement que dix conversations, à condition d'accepter que le domaine soit d'abord mal tenu. C'est le prix du transfert. [Ce schéma d'initiative sélective est cohérent avec le patron demande-retrait observé dans le conflit conjugal](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict) (Christensen & Heavey, « Gender and social structure in the demand/withdraw pattern of marital conflict », *Journal of Personality and Social Psychology*, 1990 ; vérification du 7 août 2026).
 
 ### 17.9 "Il ne s'excuse jamais vraiment"
 
@@ -1837,7 +1837,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **La mécanique.** Honte contre culpabilité (4.4). Une excuse pour un acte est faisable, une excuse qui implique d'être quelqu'un de mauvais est refusée en bloc.
 
-**La reformulation.** Demander une excuse pour un fait précis et pas une reconnaissance globale. "J'aimerais que tu me dises que tu regrettes de m'avoir coupé la parole devant tout le monde" est obtenable. "J'aimerais que tu reconnaisses que tu me manques de respect" ne l'est pas, même si c'est plus vrai. La difficulté à reconnaître un tort sans le justifier est cohérente avec la précarité de la masculinité, qui rend un aveu d'erreur coûteux (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+**La reformulation.** Demander une excuse pour un fait précis et pas une reconnaissance globale. "J'aimerais que tu me dises que tu regrettes de m'avoir coupé la parole devant tout le monde" est obtenable. "J'aimerais que tu reconnaisses que tu me manques de respect" ne l'est pas, même si c'est plus vrai. [La difficulté à reconnaître un tort sans le justifier est cohérente avec la précarité de la masculinité, qui rend un aveu d'erreur coûteux](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 17.10 "Il ne voit rien"
 
@@ -1845,7 +1845,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** Qu'il fasse semblant. Une partie de l'écart est un effet d'entraînement : on apprend à voir ce qu'on a été chargé de gérer. L'autre partie est une différence de seuil réelle, ni supérieure ni inférieure, mais qui a des conséquences quand la charge n'est pas partagée.
 
-**La reformulation.** Le rendre responsable d'un périmètre de détection, et non de la détection en général. "La salle de bain, c'est ton domaine, à toi de juger quand elle a besoin d'être faite" produit un apprentissage. "Tu pourrais voir que c'est sale" n'en produit aucun. Cette difficulté à percevoir les signaux émotionnels d'autrui est documentée comme une composante de l'alexithymie (source : Taylor, Bagby & Parker, *Disorders of Affect Regulation*, Cambridge University Press, 1997 ; vérification du 7 août 2026).
+**La reformulation.** Le rendre responsable d'un périmètre de détection, et non de la détection en général. "La salle de bain, c'est ton domaine, à toi de juger quand elle a besoin d'être faite" produit un apprentissage. "Tu pourrais voir que c'est sale" n'en produit aucun. [Cette difficulté à percevoir les signaux émotionnels d'autrui est documentée comme une composante de l'alexithymie](https://archive.org/details/disordersofaffec0000tayl) (Taylor, Bagby & Parker, *Disorders of Affect Regulation*, Cambridge University Press, 1997 ; vérification du 7 août 2026).
 
 ### 17.11 "Il a toujours besoin de validation"
 
@@ -1853,7 +1853,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** Qu'il s'agisse d'ego. C'est l'inverse : un homme dont la valeur intérieure est conditionnelle (3.5) a besoin d'une confirmation extérieure permanente, précisément parce qu'il n'a pas de réserve interne.
 
-**La reformulation.** Donner de la reconnaissance spontanément, spécifiquement, et surtout hors des moments de réussite. Une reconnaissance qui n'arrive qu'après une performance renforce le système. Une reconnaissance donnée un jour où il n'a rien fait de particulier le déstabilise, puis le change. Le besoin de validation par le statut est documenté dans la littérature sur les hiérarchies masculines (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+**La reformulation.** Donner de la reconnaissance spontanément, spécifiquement, et surtout hors des moments de réussite. Une reconnaissance qui n'arrive qu'après une performance renforce le système. Une reconnaissance donnée un jour où il n'a rien fait de particulier le déstabilise, puis le change. [Le besoin de validation par le statut est documenté dans la littérature sur les hiérarchies masculines](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 17.12 "Il ne sait pas être ami avec une femme"
 
@@ -1861,7 +1861,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** L'idée d'une incapacité de principe. Le vrai problème est le déficit du chapitre 14 : quand un homme dispose de très peu d'espaces où une conversation intime est possible, toute relation où elle devient possible prend une charge disproportionnée. Ce n'est pas de l'attirance qui déborde, c'est de l'intimité qui n'a nulle part d'autre où aller.
 
-**La reformulation.** Le remède est structurel, pas moral. Un homme qui a trois amis proches et un thérapeute ne surinvestit pas ses amitiés féminines. Les amitiés entre hommes et femmes présentent des dynamiques spécifiques, documentées dans une étude dédiée à leur formation et à leur rupture (source : Bleske-Rechek & Buss, « Opposite-sex friendship: sex differences and similarities in initiation, selection, and dissolution », *Personality and Social Psychology Bulletin*, 2001 ; vérification du 7 août 2026).
+**La reformulation.** Le remède est structurel, pas moral. Un homme qui a trois amis proches et un thérapeute ne surinvestit pas ses amitiés féminines. [Les amitiés entre hommes et femmes présentent des dynamiques spécifiques, documentées dans une étude dédiée à leur formation et à leur rupture](https://labs.la.utexas.edu/buss/files/2015/09/opposite_sex_friendship2001.pdf) (Bleske-Rechek & Buss, « Opposite-sex friendship: sex differences and similarities in initiation, selection, and dissolution », *Personality and Social Psychology Bulletin*, 2001 ; vérification du 7 août 2026).
 
 ### 17.13 Les reproches que les hommes se font entre eux
 
@@ -1873,7 +1873,7 @@ Ceux-là ne circulent jamais dans les conversations de couple, et ils pèsent po
 - **"Tu n'as pas su tenir."** Adressé après une rupture, souvent implicitement.
 - **"Tu es trop gentil."** Voir 18.2.
 
-Savoir que ces phrases existent aide à comprendre certaines réactions de repli. Un homme qui vient de passer une soirée avec ses amis peut rentrer avec une vision du couple nettement plus sombre qu'en partant, sans qu'aucun événement ne se soit produit. Les reproches que les hommes se font entre eux recoupent les mêmes normes de masculinité mesurées par les instruments de recherche sur le sujet (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
+Savoir que ces phrases existent aide à comprendre certaines réactions de repli. Un homme qui vient de passer une soirée avec ses amis peut rentrer avec une vision du couple nettement plus sombre qu'en partant, sans qu'aucun événement ne se soit produit. [Les reproches que les hommes se font entre eux recoupent les mêmes normes de masculinité mesurées par les instruments de recherche sur le sujet](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ---
 
@@ -1885,7 +1885,7 @@ Le modèle traditionnel offrait un contrat lisible : des devoirs lourds (pourvoi
 
 Ce modèle a été démantelé, à juste titre, sans qu'un modèle de remplacement complet soit proposé. Ce qui a été transmis aux hommes nés après 1990, ce n'est pas un nouveau contrat, c'est une liste de choses à ne plus faire. La partie négative du message est passée très bien. La partie positive, ce qu'un homme peut être et faire aujourd'hui qui soit désirable, valorisé et tenable, n'a jamais été formulée avec la même clarté.
 
-Cela crée un vide, et les vides se remplissent. C'est le point de départ du 18.3. La coexistence de deux modèles masculins contradictoires est décrite dans les travaux sur la reconstruction de la masculinité contemporaine (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+Cela crée un vide, et les vides se remplissent. C'est le point de départ du 18.3. [La coexistence de deux modèles masculins contradictoires est décrite dans les travaux sur la reconstruction de la masculinité contemporaine](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 18.2 Le paradoxe de celui qui a bien écouté
 
@@ -1903,7 +1903,7 @@ Il en tire l'une des trois conclusions suivantes :
 
 **Ce qui est faux dans son constat.** L'inférence que la brutalité fonctionnerait. Elle produit des débuts rapides et des relations courtes, ce qui est très visible de l'extérieur et très peu représentatif. L'échantillon qu'il observe est biaisé : il voit les débuts et jamais les fins.
 
-**La correction utile.** Le couple qui fonctionne est fait de deux personnes qui affirment ce qu'elles veulent et respectent celui de l'autre. Affirmer n'est pas imposer, et se taire n'est pas respecter. C'est la seule reformulation qui sort de l'impasse, et elle mérite d'être dite explicitement, parce que personne ne la lui a dite. Ce paradoxe rejoint la précarité de la masculinité, où l'ajustement au nouveau modèle peut être vécu comme une perte de repères sans garantie de reconnaissance (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+**La correction utile.** Le couple qui fonctionne est fait de deux personnes qui affirment ce qu'elles veulent et respectent celui de l'autre. Affirmer n'est pas imposer, et se taire n'est pas respecter. C'est la seule reformulation qui sort de l'impasse, et elle mérite d'être dite explicitement, parce que personne ne la lui a dite. [Ce paradoxe rejoint la précarité de la masculinité, où l'ajustement au nouveau modèle peut être vécu comme une perte de repères sans garantie de reconnaissance](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 18.3 La bascule dans le ressentiment
 
@@ -1926,7 +1926,7 @@ Il faut décrire ce mécanisme précisément, parce qu'il concerne un nombre cro
 - Valider la souffrance sans valider l'explication. Ce sont deux opérations distinctes, et confondre les deux est l'erreur la plus fréquente.
 - Ne jamais argumenter sur le terrain idéologique. Personne n'a jamais quitté un système d'explication totale par un débat.
 - Traiter la cause réelle : l'isolement. Un homme qui a des amis, une activité, une vie qui avance et une relation qui fonctionne perd l'usage du ressentiment.
-- Poser une limite ferme sur ce qui est dit. Comprendre le mécanisme n'oblige à tolérer aucun propos. La bascule d'une frustration diffuse vers un ressentiment stable est cohérente avec les mécanismes de détérioration du couple documentés par l'observation directe (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
+- Poser une limite ferme sur ce qui est dit. Comprendre le mécanisme n'oblige à tolérer aucun propos. [La bascule d'une frustration diffuse vers un ressentiment stable est cohérente avec les mécanismes de détérioration du couple documentés par l'observation directe](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 18.4 Les vérités à remettre en place
 
@@ -1943,7 +1943,7 @@ Douze corrections, applicables des deux côtés. Ce sont les affirmations qui, q
 9. **Les hommes ne sont pas privés d'émotions, ils sont privés de destinataires.** C'est un problème d'infrastructure sociale, pas de nature.
 10. **L'intensité n'est pas l'amour.** Le chaos, la jalousie et les montagnes russes ne sont pas des preuves de sentiment. C'est vrai dans les deux sens.
 11. **Le sexe n'est pas un dû, et le refus n'est pas un rejet de la personne.** Deux vérités simultanées, souvent tenues séparément par chacun des deux membres du couple.
-12. **La plupart des hommes vont bien.** Ce guide décrit des mécanismes et des risques. Il ne décrit pas une pathologie généralisée, et lire chaque comportement à travers cette grille serait aussi faux que de ne rien voir du tout. Ces clarifications reprennent le cadre de l'inventaire de conformité aux normes masculines, qui distingue plusieurs dimensions indépendantes plutôt qu'un bloc uniforme (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
+12. **La plupart des hommes vont bien.** Ce guide décrit des mécanismes et des risques. Il ne décrit pas une pathologie généralisée, et lire chaque comportement à travers cette grille serait aussi faux que de ne rien voir du tout. [Ces clarifications reprennent le cadre de l'inventaire de conformité aux normes masculines, qui distingue plusieurs dimensions indépendantes plutôt qu'un bloc uniforme](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ### 18.5 Ce qui fonctionne pour de bon
 
@@ -1965,10 +1965,10 @@ Tout ce chapitre a décrit un vide et ses pièges. Il faut dire aussi ce qui le 
 
 ## Sources vérifiables
 
-- Levant, R. (1992), « Toward the reconstruction of masculinity », *Journal of Family Psychology* ; vérification du 7 août 2026.
-- Vandello, J. & Bosson, J. (2013), « Hard won and easily lost », *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
-- Gottman, J. & Levenson, R. (1992), « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
-- Mahalik, J. et coll. (2003), « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
+- Levant, R. (1992), [Toward the reconstruction of masculinity](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7), *Journal of Family Psychology* ; vérification du 7 août 2026.
+- Vandello, J. & Bosson, J. (2013), [Hard won and easily lost](https://www.apa.org/pubs/journals/features/men-a0029826.pdf), *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
+- Gottman, J. & Levenson, R. (1992), [Marital processes predictive of later dissolution](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf), *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
+- Mahalik, J. et coll. (2003), [Development of the Conformity to Masculine Norms Inventory](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory), *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
 - [Wong, Y. J., Ho, M.-H. R., Wang, S.-Y. & Miller, I. S. K. (2017), « Meta-Analyses of the Relationship Between Conformity to Masculine Norms and Mental Health-Related Outcomes », *Journal of Counseling Psychology*](https://pubmed.ncbi.nlm.nih.gov/27869454/) ; vérification du 11 août 2026.
 - [Wilson, M., Gwyther, K., Swann, R., Casey, K., Featherston, R., Oliffe, J. L., Englar-Carlson, M. & Rice, S. M. (2022), « Operationalizing positive masculinity: a theoretical synthesis and school-based framework to engage boys and young men », *Health Promotion International*](https://academic.oup.com/heapro/article/37/1/daab031/6220389) ; vérification du 11 août 2026.
 
@@ -1982,7 +1982,7 @@ Ce chapitre est aussi important que tous les autres, sinon davantage. Un guide q
 
 Tout ce document explique des mécanismes. Aucun de ces mécanismes ne constitue une justification. Le décalage temporel explique une réaction disproportionnée, il ne la rend pas acceptable. L'[alexithymie](<../2 - Notions/Alexithymie.md>) explique une difficulté à parler, elle ne dispense pas de faire l'effort. Le code viril explique la réticence à consulter, elle ne rend pas la consultation facultative quand la situation l'exige.
 
-La ligne est simple : comprendre sert à ne pas mal interpréter et à choisir la bonne approche. Ça ne sert pas à accepter indéfiniment. La distinction entre comprendre un comportement par son origine et l'excuser est centrale dans les approches thérapeutiques centrées sur l'attachement (source : Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
+La ligne est simple : comprendre sert à ne pas mal interpréter et à choisir la bonne approche. Ça ne sert pas à accepter indéfiniment. [La distinction entre comprendre un comportement par son origine et l'excuser est centrale dans les approches thérapeutiques centrées sur l'attachement](https://archive.org/details/practiceofemotio0000john) (Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
 
 Une façon concrète de tenir cette ligne au quotidien : se poser la question "est-ce que je suis en train d'expliquer, ou en train d'attendre que ça passe tout seul parce que je comprends d'où ça vient". Ce sont deux usages très différents de la même compréhension. Le premier permet d'ajuster l'approche et de continuer à demander un changement. Le second se transforme, sans qu'on s'en rende toujours compte sur le moment, en tolérance indéfinie de quelque chose qui n'a jamais été traité. Ce guide a été écrit pour permettre le premier usage, jamais le second, et cette limite reste vraie quel que soit le chapitre auquel elle s'applique.
 
@@ -2001,7 +2001,7 @@ Les signes que tu es allée trop loin dans ce rôle :
 - Tu as arrêté d'exprimer certaines choses parce que ce serait trop lourd pour lui en ce moment, et que ce moment dure depuis un an.
 - Tu es épuisée et tu n'as personne à qui le dire.
 
-Si plusieurs de ces points sont vrais, ce n'est pas un problème de communication de couple. C'est un déséquilibre structurel, et il se traite avec un tiers, pas avec plus d'efforts de ta part. Traduire en continu l'état émotionnel de l'autre relève du même travail cognitif invisible documenté pour la charge mentale domestique (source : Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
+Si plusieurs de ces points sont vrais, ce n'est pas un problème de communication de couple. C'est un déséquilibre structurel, et il se traite avec un tiers, pas avec plus d'efforts de ta part. [Traduire en continu l'état émotionnel de l'autre relève du même travail cognitif invisible documenté pour la charge mentale domestique](https://journals.sagepub.com/doi/10.1177/0003122419859007) (Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
 
 Un repère simple pour distinguer un ajustement normal d'un déséquilibre installé : est-ce que ce travail de traduction circule dans les deux sens, à des moments différents, sur des sujets différents, ou est-ce qu'il ne circule que dans un seul sens depuis que la relation existe. Le premier cas est la vie normale d'un couple. Le second est le signal qui doit alerter, quelle que soit la bonne volonté des deux personnes.
 
@@ -2025,7 +2025,7 @@ Trois situations où l'intervention professionnelle n'est pas une option parmi d
 
 - **Les idées suicidaires**, même formulées de manière détournée. Voir 6.4. Ce n'est pas à toi de gérer ça seule, et essayer de le faire est dangereux pour vous deux.
 - **Une addiction installée.** Aucune volonté de partenaire n'a jamais soigné une addiction. Ton rôle possible est de ne pas la faciliter, pas de la traiter.
-- **Un trouble psychiatrique caractérisé** : dépression sévère, trouble bipolaire, psychose, trouble anxieux invalidant. Ces choses se soignent, bien, et pas à la maison. Le glissement vers un rôle de soignant, et son coût, suivent le modèle du stress de l'aidant décrit dans la littérature sur le fardeau du proche aidant (source : Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
+- **Un trouble psychiatrique caractérisé** : dépression sévère, trouble bipolaire, psychose, trouble anxieux invalidant. Ces choses se soignent, bien, et pas à la maison. [Le glissement vers un rôle de soignant, et son coût, suivent le modèle du stress de l'aidant décrit dans la littérature sur le fardeau du proche aidant](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 Le point commun aux trois situations, et il vaut la peine d'être répété : ton rôle possible est d'accompagner vers le soin, pas de te substituer au soin. Accompagner veut dire aider à trouver le bon professionnel, proposer d'appeler ensemble, se rendre disponible pour le premier rendez-vous s'il le souhaite, et continuer à vivre ta vie en parallèle plutôt que de mettre la tienne entre parenthèses en attendant que la situation se résolve. Se substituer au soin veut dire devenir toi-même le thérapeute, le sponsor, le psychiatre officieux — un rôle qu'aucun partenaire, aussi aimant soit-il, n'est équipé pour tenir, et qui finit presque toujours par épuiser la relation elle-même avant même que le problème de fond ne soit traité.
 
@@ -2046,7 +2046,7 @@ Un homme en difficulté émotionnelle se ferme, se tait, s'énerve, s'isole, con
 
 **Ressources.** Le 3919 est le numéro national d'écoute pour les violences faites aux femmes, anonyme et gratuit. Le 17 pour une urgence. Le 114 par SMS si tu ne peux pas parler.
 
-Rien dans ce guide, aucun mécanisme, aucune explication, ne s'applique à ces situations. Les mettre sur le compte de la maladresse émotionnelle masculine serait la pire lecture possible de ce document. Ces signes recoupent les critères diagnostiques employés dans les grandes enquêtes épidémiologiques sur la dépression et l'anxiété (source : Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
+Rien dans ce guide, aucun mécanisme, aucune explication, ne s'applique à ces situations. Les mettre sur le compte de la maladresse émotionnelle masculine serait la pire lecture possible de ce document. [Ces signes recoupent les critères diagnostiques employés dans les grandes enquêtes épidémiologiques sur la dépression et l'anxiété](https://pubmed.ncbi.nlm.nih.gov/12813115/) (Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
 
 Un repère pour ne pas se tromper de diagnostic soi-même : un mécanisme décrit dans ce guide explique une difficulté à faire quelque chose — parler, exprimer, demander de l'aide. Un signal d'alarme décrit ici concerne, à l'inverse, quelque chose qui est activement fait à toi — contrôler, isoler, menacer, frapper. La différence n'est pas subtile une fois qu'elle est posée clairement, mais elle est facile à brouiller de l'intérieur d'une relation, surtout quand la personne qui contrôle est elle-même quelqu'un qui, par ailleurs, correspond à certains des mécanismes plus haut dans le guide. Les deux peuvent coexister chez la même personne ; l'un n'excuse jamais l'autre, et le second prime toujours sur le premier dans la décision à prendre.
 
@@ -2054,16 +2054,16 @@ Un repère pour ne pas se tromper de diagnostic soi-même : un mécanisme décri
 
 Dernier point, et il compte. Vivre avec quelqu'un qui exprime peu demande une vigilance permanente, et cette vigilance fatigue même quand tout va bien. Tu as le droit d'avoir tes propres besoins non couverts par cette relation, tes propres confidents, ton propre espace thérapeutique si tu en veux un.
 
-Un couple où une personne est en permanence l'aidante et l'autre l'aidé n'est pas un couple, c'est un service. La réciprocité n'a pas besoin d'être symétrique dans la forme, elle a besoin d'exister. Préserver sa propre santé émotionnelle est un facteur protecteur documenté chez les proches aidants (source : Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
+Un couple où une personne est en permanence l'aidante et l'autre l'aidé n'est pas un couple, c'est un service. La réciprocité n'a pas besoin d'être symétrique dans la forme, elle a besoin d'exister. [Préserver sa propre santé émotionnelle est un facteur protecteur documenté chez les proches aidants](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 Ce dernier point rejoint directement le 19.6 : une personne qui prend soin de ses propres besoins n'est pas égoïste, elle entretient la seule ressource qui lui permettra de continuer à être présente pour l'autre sur la durée. Ce n'est pas un renoncement au couple, c'est une condition de sa tenue dans le temps.
 
 ## Sources vérifiables
 
-- Johnson, S. (2004), *The Practice of Emotionally Focused Couple Therapy*, Routledge ; vérification du 7 août 2026.
-- Daminger, A. (2019), « The Cognitive Dimension of Household Labor », *American Sociological Review* ; vérification du 7 août 2026.
-- Pearlin, L. et coll. (1990), « Caregiving and the stress process », *The Gerontologist* ; vérification du 7 août 2026.
-- Kessler, R. et coll. (2003), « The epidemiology of major depressive disorder », *JAMA* ; vérification du 7 août 2026.
+- Johnson, S. (2004), [The Practice of Emotionally Focused Couple Therapy](https://archive.org/details/practiceofemotio0000john), Routledge ; vérification du 7 août 2026.
+- Daminger, A. (2019), [The Cognitive Dimension of Household Labor](https://journals.sagepub.com/doi/10.1177/0003122419859007), *American Sociological Review* ; vérification du 7 août 2026.
+- Pearlin, L. et coll. (1990), [Caregiving and the stress process](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941), *The Gerontologist* ; vérification du 7 août 2026.
+- Kessler, R. et coll. (2003), [The epidemiology of major depressive disorder](https://pubmed.ncbi.nlm.nih.gov/12813115/), *JAMA* ; vérification du 7 août 2026.
 - [Reis, H., Clark, M. & Holmes, J. (2004), « Perceived Partner Responsiveness as an Organizing Construct for the Study of Intimacy and Closeness »](https://www.sas.rochester.edu/psy/people/faculty/reis_harry/assets/pdf/ReisClarkHolmes_2004.pdf) ; vérification du 11 août 2026.
 
 ---
@@ -2074,7 +2074,7 @@ Ce dernier point rejoint directement le 19.6 : une personne qui prend soin de se
 
 Les hommes vivent en moyenne moins longtemps que les femmes, dans tous les pays. Une part de cet écart est biologique ; une part importante ne l'est pas. Elle tient à des comportements et à un rapport au soin : tabac, alcool, conduites à risque, moindre recours au médecin, retard à consulter.
 
-C'est une bonne nouvelle mal formulée. **La partie modifiable est grande, et elle l'est de plus en plus au fil des décennies**, à mesure que les traitements s'améliorent et que le dépistage progresse. Ce chapitre liste ce qui compte réellement, par ordre d'impact, et à quel moment s'en occuper. L'écart d'espérance de vie entre hommes et femmes est mesuré chaque année par l'institut national de la statistique (source : Insee, *Espérance de vie, mortalité et causes de décès* ; vérification du 7 août 2026).
+C'est une bonne nouvelle mal formulée. **La partie modifiable est grande, et elle l'est de plus en plus au fil des décennies**, à mesure que les traitements s'améliorent et que le dépistage progresse. Ce chapitre liste ce qui compte réellement, par ordre d'impact, et à quel moment s'en occuper. L'écart d'espérance de vie entre hommes et femmes est mesuré chaque année par l'institut national de la statistique (Insee, *Espérance de vie, mortalité et causes de décès* ; vérification du 7 août 2026).
 
 ### 20.2 Le classement par impact réel
 
@@ -2090,7 +2090,7 @@ Dans l'ordre, du plus au moins déterminant.
 
 **5. La santé mentale.** Développée plus bas, et systématiquement absente des bilans de santé.
 
-**6. Les dépistages spécifiques.** Utiles, mais après les cinq précédents en termes d'impact. Le classement des facteurs de risque par impact sur la mortalité s'appuie sur l'étude mondiale de référence sur le fardeau des maladies (source : GBD 2019 Risk Factors Collaborators, « Global burden of 87 risk factors », *The Lancet*, 2020 ; vérification du 7 août 2026).
+**6. Les dépistages spécifiques.** Utiles, mais après les cinq précédents en termes d'impact. [Le classement des facteurs de risque par impact sur la mortalité s'appuie sur l'étude mondiale de référence sur le fardeau des maladies](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30752-2/fulltext) (GBD 2019 Risk Factors Collaborators, « Global burden of 87 risk factors », *The Lancet*, 2020 ; vérification du 7 août 2026).
 
 ### 20.3 Ce qu'il faut surveiller, par décennie
 
@@ -2100,7 +2100,7 @@ Dans l'ordre, du plus au moins déterminant.
 
 **Quarante à cinquante ans.** Suivi cardiovasculaire régulier. Discussion sur le dépistage du cancer de la prostate — voir plus bas. Troubles de l'érection : à ne pas traiter comme un sujet gênant mais comme un **signal vasculaire précoce**, parfois révélateur d'une atteinte cardiovasculaire avant tout autre symptôme. Voir le chapitre 8 de ce guide.
 
-**Cinquante ans et au-delà.** Dépistage organisé du cancer colorectal, par test immunologique, tous les deux ans dans la tranche d'âge concernée : simple, à faire chez soi, et très largement sous-utilisé. Poursuite du suivi cardiovasculaire. Audition et vision. Densité osseuse en cas de facteurs de risque — l'ostéoporose masculine existe et est très sous-diagnostiquée. Les dépistages recommandés par décennie suivent les recommandations de la Haute Autorité de santé (source : Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026).
+**Cinquante ans et au-delà.** Dépistage organisé du cancer colorectal, par test immunologique, tous les deux ans dans la tranche d'âge concernée : simple, à faire chez soi, et très largement sous-utilisé. Poursuite du suivi cardiovasculaire. Audition et vision. Densité osseuse en cas de facteurs de risque — l'ostéoporose masculine existe et est très sous-diagnostiquée. [Les dépistages recommandés par décennie suivent les recommandations de la Haute Autorité de santé](https://www.has-sante.fr/) (Haute Autorité de santé ; vérification du 7 août 2026).
 
 ### 20.4 La prostate, sans simplifier
 
@@ -2108,7 +2108,7 @@ Sujet où l'information circulante est particulièrement confuse.
 
 Le dépistage par dosage du PSA **ne fait pas l'objet d'un consensus**. Il détecte des cancers qui n'auraient jamais évolué, conduisant à des biopsies et des traitements dont les effets indésirables — troubles de l'érection, incontinence — sont fréquents et durables. En France, les autorités de santé ne recommandent pas de dépistage systématique en population générale, tout en reconnaissant la place d'une décision individuelle informée.
 
-Ce que cela signifie en pratique : ce n'est pas « faites-le » ni « ne le faites pas », c'est **une discussion à avoir avec un médecin**, en tenant compte des antécédents familiaux et de l'origine, deux facteurs qui modifient le risque. Une consultation dédiée vaut mieux qu'une décision prise seul à partir d'un article. L'absence de consensus sur le dépistage systématique du cancer de la prostate est explicitée par les autorités de santé françaises (source : Haute Autorité de santé, *Dépistage du cancer de la prostate* ; vérification du 7 août 2026).
+Ce que cela signifie en pratique : ce n'est pas « faites-le » ni « ne le faites pas », c'est **une discussion à avoir avec un médecin**, en tenant compte des antécédents familiaux et de l'origine, deux facteurs qui modifient le risque. Une consultation dédiée vaut mieux qu'une décision prise seul à partir d'un article. [L'absence de consensus sur le dépistage systématique du cancer de la prostate est explicitée par les autorités de santé françaises](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate) (Haute Autorité de santé, *Détection précoce du cancer de la prostate* ; vérification du 7 août 2026).
 
 ### 20.5 La santé mentale sur la durée
 
@@ -2118,7 +2118,7 @@ Les hommes consultent moins pour des motifs psychiques et représentent la nette
 
 Trois moments de bascule reviennent : une rupture ou un divorce, la perte d'un emploi, le départ à la retraite. Ils partagent une caractéristique — ils suppriment d'un coup un rôle et un réseau, deux choses qui tiennent souvent lieu de vie sociale entière chez les hommes. C'est le « [désert relationnel](<../2 - Notions/Désert relationnel.md>) » décrit au chapitre 14.
 
-**Signal d'alerte, pas clause de style** : des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit, en permanence, accessible aussi à un proche inquiet. Le moindre recours aux soins psychiques chez les hommes, et son lien avec la surmortalité par suicide, sont documentés dans la littérature sur la socialisation masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
+**Signal d'alerte, pas clause de style** : des idées suicidaires, même vagues, justifient d'appeler le **3114**, gratuit, en permanence, accessible aussi à un proche inquiet. [Le moindre recours aux soins psychiques chez les hommes, et son lien avec la surmortalité par suicide, sont documentés dans la littérature sur la socialisation masculine](https://scispace.com/pdf/men-masculinity-and-the-contexts-of-help-seeking-39yqubxun4.pdf) (Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -2154,9 +2154,9 @@ Ce chapitre a listé ce qu'il faut surveiller et quand. Il faut dire aussi, trè
 
 - Insee, *Espérance de vie, mortalité et causes de décès* ; vérification du 7 août 2026.
 - GBD 2019 Risk Factors Collaborators (2020), « Global burden of 87 risk factors », *The Lancet* ; vérification du 7 août 2026.
-- Haute Autorité de santé, *Rechercher une recommandation* ; vérification du 7 août 2026.
-- Haute Autorité de santé, *Dépistage du cancer de la prostate* ; vérification du 7 août 2026.
-- Addis, M. & Mahalik, J. (2003), « Men, masculinity, and the contexts of help seeking », *American Psychologist* ; vérification du 7 août 2026.
+- Haute Autorité de santé ; vérification du 7 août 2026.
+- Haute Autorité de santé, [Détection précoce du cancer de la prostate](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate) ; vérification du 7 août 2026.
+- Addis, M. & Mahalik, J. (2003), [Men, masculinity, and the contexts of help seeking](https://scispace.com/pdf/men-masculinity-and-the-contexts-of-help-seeking-39yqubxun4.pdf), *American Psychologist* ; vérification du 7 août 2026.
 - [Blood Pressure Lowering Treatment Trialists' Collaboration (2021), « Pharmacological blood pressure lowering for primary and secondary prevention of cardiovascular disease across different levels of blood pressure », *The Lancet*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00590-0/fulltext) ; vérification du 11 août 2026.
 - [Santé publique France, *Cancer colorectal : données de dépistage*](https://www.santepubliquefrance.fr/en/cancer-du-colon-rectum/data) ; vérification du 11 août 2026.
 
@@ -2847,7 +2847,7 @@ Ce chapitre a montré que ce qui protège le mieux un enfant n'est jamais le sac
 7. Poser la question du suicide directement n'induit rien et ouvre tout. Le 3114 existe (6.4).
 8. Il parle mieux côte à côte, les mains occupées, sans annonce préalable (4.7).
 9. Tu es peut-être sa seule confidente. Ce n'est pas tenable, pour lui comme pour toi (14.3).
-10. Comprendre n'est pas porter, et certaines choses ne sont jamais de la maladresse émotionnelle (19.4). Ce condensé reprend les références détaillées dans les chapitres correspondants, en particulier sur l'alexithymie masculine normative (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+10. Comprendre n'est pas porter, et certaines choses ne sont jamais de la maladresse émotionnelle (19.4). [Ce condensé reprend les références détaillées dans les chapitres correspondants, en particulier sur l'alexithymie masculine normative](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 30.1 bis Les dix idées ajoutées en version 2
 
@@ -2860,7 +2860,7 @@ Ce chapitre a montré que ce qui protège le mieux un enfant n'est jamais le sac
 7. Affirmer n'est pas agresser, et se taire n'est pas respecter. La confusion des deux paralyse une génération (18.2).
 8. Valider la souffrance et valider l'explication sont deux opérations distinctes. Confondre les deux est l'erreur centrale face au ressentiment (18.3).
 9. Ce qui fait tomber un homme amoureux, en premier : être vu correctement, et ne pas être regardé différemment après avoir été vu en difficulté (12.4).
-10. La qualité d'une relation dépend beaucoup moins de qui est le partenaire que de ce qui s'installe entre les deux. Chercher la bonne personne est moins efficace que construire les bonnes dynamiques (12.6). Ce second condensé reprend les références détaillées dans les chapitres ajoutés sur le substrat socio-neuro-psychologique et les profils masculins (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
+10. La qualité d'une relation dépend beaucoup moins de qui est le partenaire que de ce qui s'installe entre les deux. Chercher la bonne personne est moins efficace que construire les bonnes dynamiques (12.6). [Ce second condensé reprend les références détaillées dans les chapitres ajoutés sur le substrat socio-neuro-psychologique et les profils masculins](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ### 30.2 Les numéros
 
@@ -2869,11 +2869,11 @@ Ce chapitre a montré que ce qui protège le mieux un enfant n'est jamais le sac
 - **3919** : violences faites aux femmes. Anonyme et gratuit.
 - **114** : urgences par SMS.
 - **0 800 23 13 13** : Drogues info service.
-- **0 980 980 930** : Alcool info service. Ces numéros et leurs conditions d'accès sont publiés par les autorités de santé publique françaises (source : Santé publique France, *Suicide et tentatives de suicide* ; vérification du 7 août 2026).
+- **0 980 980 930** : Alcool info service. Ces numéros et leurs conditions d'accès sont publiés par les autorités de santé publique françaises (Santé publique France, *Suicide et tentatives de suicide* ; vérification du 7 août 2026).
 
 ### 30.3 Les quatre jauges à surveiller
 
-Sommeil, alcool, libido, humeur au réveil. Si trois des quatre se dégradent en même temps et pendant plus de trois semaines, ce n'est pas une mauvaise passe. Ces quatre paramètres — sommeil, alcool, libido, humeur — recoupent les facteurs de vulnérabilité les mieux documentés pour la santé émotionnelle masculine (source : Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
+Sommeil, alcool, libido, humeur au réveil. Si trois des quatre se dégradent en même temps et pendant plus de trois semaines, ce n'est pas une mauvaise passe. [Ces quatre paramètres — sommeil, alcool, libido, humeur — recoupent les facteurs de vulnérabilité les mieux documentés pour la santé émotionnelle masculine](https://scispace.com/pdf/men-masculinity-and-the-contexts-of-help-seeking-39yqubxun4.pdf) (Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 ### 30.4 Sources principales
 
@@ -2931,7 +2931,7 @@ Cette page regroupe les sources introduites lors du passage à une source par so
 | Stress psychosocial et risque cardiovasculaire (7.2) | Rosengren, A. et coll., *Association of psychosocial risk factors with risk of acute myocardial infarction (INTERHEART)*, The Lancet, 2004 | 7 août 2026 |
 | Sommeil et réactivité émotionnelle (7.3) | Goldstein, A. & Walker, M., *The role of sleep in emotional brain function*, Annual Review of Clinical Psychology, 2014 | 7 août 2026 |
 | Fardeau mondial des facteurs de risque (8.5, 20.2) | GBD 2019 Risk Factors Collaborators, *Global burden of 87 risk factors*, The Lancet, 2020 | 7 août 2026 |
-| Perception masculine de la charge contraceptive (16.1, 16.4, 16.5) | Grady, W. et coll., *Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US*, Perspectives on Sexual and Reproductive Health, 1996 | 7 août 2026 |
+| Perception masculine de la charge contraceptive (16.1, 16.4, 16.5) | Grady, W., Tanfer, K., Billy, J. & Lincoln-Hanson, J., *Men's Perceptions of Their Roles and Responsibilities Regarding Sex, Contraception and Childrearing*, Family Planning Perspectives, 1996 | 7 août 2026 |
 | Physiologie de l'érection et troubles associés (10.1, 10.2, 10.6, 11.2) | Lue, T., *Erectile dysfunction*, New England Journal of Medicine, 2000 | 7 août 2026 |
 | Modèle du double contrôle développé sur des hommes (10.3, 11.3) | Bancroft, J. & Janssen, E., *The dual control model of male sexual response*, Neuroscience & Biobehavioral Reviews, 2000 | 7 août 2026 |
 | Prévalence des troubles sexuels masculins (10.4) | Laumann, E. et coll., *Sexual dysfunction in the United States: prevalence and predictors*, JAMA, 1999 | 7 août 2026 |
@@ -2942,7 +2942,7 @@ Cette page regroupe les sources introduites lors du passage à une source par so
 | Développement adulte masculin par étapes (13.3) | Levinson, D., *The Seasons of a Man's Life*, Knopf, 1978 | 7 août 2026 |
 | Transition psychologique vers la paternité (13.5) | Genesoni, L. & Tallandini, M., *Men's Psychological Transition to Fatherhood*, Birth, 2009 | 7 août 2026 |
 | Isolement social et mortalité (14.3, 14.4) | Holt-Lunstad, J. et coll., *Loneliness and social isolation as risk factors for mortality*, Perspectives on Psychological Science, 2015 | 7 août 2026 |
-| Relation père-fils (15.4) | Diamond, M., *My Father Before Me*, Simon & Schuster, 2007 | 7 août 2026 |
+| Relation père-fils (15.4) | Diamond, M., *My Father Before Me*, W. W. Norton, 2007 | 7 août 2026 |
 | Amitiés homme-femme (17.12) | Bleske-Rechek, A. & Buss, D., *Opposite-sex friendship: sex differences and similarities in initiation, selection, and dissolution*, Personality and Social Psychology Bulletin, 2001 | 7 août 2026 |
 | Patron demande-retrait dans le conflit conjugal (16.1, 17.8) | Christensen, A. & Heavey, C., *Gender and social structure in the demand/withdraw pattern of marital conflict*, Journal of Personality and Social Psychology, 1990 | 7 août 2026 |
 | Comportements prédictifs de la rupture conjugale (16.2, 18.3) | Gottman, J. & Levenson, R., *Marital processes predictive of later dissolution*, Journal of Personality and Social Psychology, 1992 | 7 août 2026 |

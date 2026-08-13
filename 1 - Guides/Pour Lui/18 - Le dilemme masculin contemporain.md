@@ -16,7 +16,7 @@ Le modèle traditionnel offrait un contrat lisible : des devoirs lourds (pourvoi
 
 Ce modèle a été démantelé, à juste titre, sans qu'un modèle de remplacement complet soit proposé. Ce qui a été transmis aux hommes nés après 1990, ce n'est pas un nouveau contrat, c'est une liste de choses à ne plus faire. La partie négative du message est passée très bien. La partie positive, ce qu'un homme peut être et faire aujourd'hui qui soit désirable, valorisé et tenable, n'a jamais été formulée avec la même clarté.
 
-Cela crée un vide, et les vides se remplissent. C'est le point de départ du 18.3. La coexistence de deux modèles masculins contradictoires est décrite dans les travaux sur la reconstruction de la masculinité contemporaine (source : Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+Cela crée un vide, et les vides se remplissent. C'est le point de départ du 18.3. [La coexistence de deux modèles masculins contradictoires est décrite dans les travaux sur la reconstruction de la masculinité contemporaine](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 18.2 Le paradoxe de celui qui a bien écouté
 
@@ -34,7 +34,7 @@ Il en tire l'une des trois conclusions suivantes :
 
 **Ce qui est faux dans son constat.** L'inférence que la brutalité fonctionnerait. Elle produit des débuts rapides et des relations courtes, ce qui est très visible de l'extérieur et très peu représentatif. L'échantillon qu'il observe est biaisé : il voit les débuts et jamais les fins.
 
-**La correction utile.** Le couple qui fonctionne est fait de deux personnes qui affirment ce qu'elles veulent et respectent celui de l'autre. Affirmer n'est pas imposer, et se taire n'est pas respecter. C'est la seule reformulation qui sort de l'impasse, et elle mérite d'être dite explicitement, parce que personne ne la lui a dite. Ce paradoxe rejoint la précarité de la masculinité, où l'ajustement au nouveau modèle peut être vécu comme une perte de repères sans garantie de reconnaissance (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+**La correction utile.** Le couple qui fonctionne est fait de deux personnes qui affirment ce qu'elles veulent et respectent celui de l'autre. Affirmer n'est pas imposer, et se taire n'est pas respecter. C'est la seule reformulation qui sort de l'impasse, et elle mérite d'être dite explicitement, parce que personne ne la lui a dite. [Ce paradoxe rejoint la précarité de la masculinité, où l'ajustement au nouveau modèle peut être vécu comme une perte de repères sans garantie de reconnaissance](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 18.3 La bascule dans le ressentiment
 
@@ -57,7 +57,7 @@ Il faut décrire ce mécanisme précisément, parce qu'il concerne un nombre cro
 - Valider la souffrance sans valider l'explication. Ce sont deux opérations distinctes, et confondre les deux est l'erreur la plus fréquente.
 - Ne jamais argumenter sur le terrain idéologique. Personne n'a jamais quitté un système d'explication totale par un débat.
 - Traiter la cause réelle : l'isolement. Un homme qui a des amis, une activité, une vie qui avance et une relation qui fonctionne perd l'usage du ressentiment.
-- Poser une limite ferme sur ce qui est dit. Comprendre le mécanisme n'oblige à tolérer aucun propos. La bascule d'une frustration diffuse vers un ressentiment stable est cohérente avec les mécanismes de détérioration du couple documentés par l'observation directe (source : Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
+- Poser une limite ferme sur ce qui est dit. Comprendre le mécanisme n'oblige à tolérer aucun propos. [La bascule d'une frustration diffuse vers un ressentiment stable est cohérente avec les mécanismes de détérioration du couple documentés par l'observation directe](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 18.4 Les vérités à remettre en place
 
@@ -74,7 +74,7 @@ Douze corrections, applicables des deux côtés. Ce sont les affirmations qui, q
 9. **Les hommes ne sont pas privés d'émotions, ils sont privés de destinataires.** C'est un problème d'infrastructure sociale, pas de nature.
 10. **L'intensité n'est pas l'amour.** Le chaos, la jalousie et les montagnes russes ne sont pas des preuves de sentiment. C'est vrai dans les deux sens.
 11. **Le sexe n'est pas un dû, et le refus n'est pas un rejet de la personne.** Deux vérités simultanées, souvent tenues séparément par chacun des deux membres du couple.
-12. **La plupart des hommes vont bien.** Ce guide décrit des mécanismes et des risques. Il ne décrit pas une pathologie généralisée, et lire chaque comportement à travers cette grille serait aussi faux que de ne rien voir du tout. Ces clarifications reprennent le cadre de l'inventaire de conformité aux normes masculines, qui distingue plusieurs dimensions indépendantes plutôt qu'un bloc uniforme (source : Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
+12. **La plupart des hommes vont bien.** Ce guide décrit des mécanismes et des risques. Il ne décrit pas une pathologie généralisée, et lire chaque comportement à travers cette grille serait aussi faux que de ne rien voir du tout. [Ces clarifications reprennent le cadre de l'inventaire de conformité aux normes masculines, qui distingue plusieurs dimensions indépendantes plutôt qu'un bloc uniforme](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ### 18.5 Ce qui fonctionne pour de bon
 
@@ -96,9 +96,9 @@ Tout ce chapitre a décrit un vide et ses pièges. Il faut dire aussi ce qui le 
 
 ## Sources vérifiables
 
-- Levant, R. (1992), « Toward the reconstruction of masculinity », *Journal of Family Psychology* ; vérification du 7 août 2026.
-- Vandello, J. & Bosson, J. (2013), « Hard won and easily lost », *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
-- Gottman, J. & Levenson, R. (1992), « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
-- Mahalik, J. et coll. (2003), « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
+- Levant, R. (1992), [Toward the reconstruction of masculinity](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7), *Journal of Family Psychology* ; vérification du 7 août 2026.
+- Vandello, J. & Bosson, J. (2013), [Hard won and easily lost](https://www.apa.org/pubs/journals/features/men-a0029826.pdf), *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
+- Gottman, J. & Levenson, R. (1992), [Marital processes predictive of later dissolution](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf), *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.
+- Mahalik, J. et coll. (2003), [Development of the Conformity to Masculine Norms Inventory](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory), *Psychology of Men & Masculinity* ; vérification du 7 août 2026.
 - [Wong, Y. J., Ho, M.-H. R., Wang, S.-Y. & Miller, I. S. K. (2017), « Meta-Analyses of the Relationship Between Conformity to Masculine Norms and Mental Health-Related Outcomes », *Journal of Counseling Psychology*](https://pubmed.ncbi.nlm.nih.gov/27869454/) ; vérification du 11 août 2026.
 - [Wilson, M., Gwyther, K., Swann, R., Casey, K., Featherston, R., Oliffe, J. L., Englar-Carlson, M. & Rice, S. M. (2022), « Operationalizing positive masculinity: a theoretical synthesis and school-based framework to engage boys and young men », *Health Promotion International*](https://academic.oup.com/heapro/article/37/1/daab031/6220389) ; vérification du 11 août 2026.

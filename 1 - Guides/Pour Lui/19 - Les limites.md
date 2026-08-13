@@ -16,7 +16,7 @@ Ce chapitre est aussi important que tous les autres, sinon davantage. Un guide q
 
 Tout ce document explique des mécanismes. Aucun de ces mécanismes ne constitue une justification. Le décalage temporel explique une réaction disproportionnée, il ne la rend pas acceptable. L'[alexithymie](<../../2 - Notions/Alexithymie.md>) explique une difficulté à parler, elle ne dispense pas de faire l'effort. Le code viril explique la réticence à consulter, elle ne rend pas la consultation facultative quand la situation l'exige.
 
-La ligne est simple : comprendre sert à ne pas mal interpréter et à choisir la bonne approche. Ça ne sert pas à accepter indéfiniment. La distinction entre comprendre un comportement par son origine et l'excuser est centrale dans les approches thérapeutiques centrées sur l'attachement (source : Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
+La ligne est simple : comprendre sert à ne pas mal interpréter et à choisir la bonne approche. Ça ne sert pas à accepter indéfiniment. [La distinction entre comprendre un comportement par son origine et l'excuser est centrale dans les approches thérapeutiques centrées sur l'attachement](https://archive.org/details/practiceofemotio0000john) (Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
 
 Une façon concrète de tenir cette ligne au quotidien : se poser la question "est-ce que je suis en train d'expliquer, ou en train d'attendre que ça passe tout seul parce que je comprends d'où ça vient". Ce sont deux usages très différents de la même compréhension. Le premier permet d'ajuster l'approche et de continuer à demander un changement. Le second se transforme, sans qu'on s'en rende toujours compte sur le moment, en tolérance indéfinie de quelque chose qui n'a jamais été traité. Ce guide a été écrit pour permettre le premier usage, jamais le second, et cette limite reste vraie quel que soit le chapitre auquel elle s'applique.
 
@@ -35,7 +35,7 @@ Les signes que tu es allée trop loin dans ce rôle :
 - Tu as arrêté d'exprimer certaines choses parce que ce serait trop lourd pour lui en ce moment, et que ce moment dure depuis un an.
 - Tu es épuisée et tu n'as personne à qui le dire.
 
-Si plusieurs de ces points sont vrais, ce n'est pas un problème de communication de couple. C'est un déséquilibre structurel, et il se traite avec un tiers, pas avec plus d'efforts de ta part. Traduire en continu l'état émotionnel de l'autre relève du même travail cognitif invisible documenté pour la charge mentale domestique (source : Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
+Si plusieurs de ces points sont vrais, ce n'est pas un problème de communication de couple. C'est un déséquilibre structurel, et il se traite avec un tiers, pas avec plus d'efforts de ta part. [Traduire en continu l'état émotionnel de l'autre relève du même travail cognitif invisible documenté pour la charge mentale domestique](https://journals.sagepub.com/doi/10.1177/0003122419859007) (Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
 
 Un repère simple pour distinguer un ajustement normal d'un déséquilibre installé : est-ce que ce travail de traduction circule dans les deux sens, à des moments différents, sur des sujets différents, ou est-ce qu'il ne circule que dans un seul sens depuis que la relation existe. Le premier cas est la vie normale d'un couple. Le second est le signal qui doit alerter, quelle que soit la bonne volonté des deux personnes.
 
@@ -59,7 +59,7 @@ Trois situations où l'intervention professionnelle n'est pas une option parmi d
 
 - **Les idées suicidaires**, même formulées de manière détournée. Voir 6.4. Ce n'est pas à toi de gérer ça seule, et essayer de le faire est dangereux pour vous deux.
 - **Une addiction installée.** Aucune volonté de partenaire n'a jamais soigné une addiction. Ton rôle possible est de ne pas la faciliter, pas de la traiter.
-- **Un trouble psychiatrique caractérisé** : dépression sévère, trouble bipolaire, psychose, trouble anxieux invalidant. Ces choses se soignent, bien, et pas à la maison. Le glissement vers un rôle de soignant, et son coût, suivent le modèle du stress de l'aidant décrit dans la littérature sur le fardeau du proche aidant (source : Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
+- **Un trouble psychiatrique caractérisé** : dépression sévère, trouble bipolaire, psychose, trouble anxieux invalidant. Ces choses se soignent, bien, et pas à la maison. [Le glissement vers un rôle de soignant, et son coût, suivent le modèle du stress de l'aidant décrit dans la littérature sur le fardeau du proche aidant](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 Le point commun aux trois situations, et il vaut la peine d'être répété : ton rôle possible est d'accompagner vers le soin, pas de te substituer au soin. Accompagner veut dire aider à trouver le bon professionnel, proposer d'appeler ensemble, se rendre disponible pour le premier rendez-vous s'il le souhaite, et continuer à vivre ta vie en parallèle plutôt que de mettre la tienne entre parenthèses en attendant que la situation se résolve. Se substituer au soin veut dire devenir toi-même le thérapeute, le sponsor, le psychiatre officieux — un rôle qu'aucun partenaire, aussi aimant soit-il, n'est équipé pour tenir, et qui finit presque toujours par épuiser la relation elle-même avant même que le problème de fond ne soit traité.
 
@@ -80,7 +80,7 @@ Un homme en difficulté émotionnelle se ferme, se tait, s'énerve, s'isole, con
 
 **Ressources.** Le 3919 est le numéro national d'écoute pour les violences faites aux femmes, anonyme et gratuit. Le 17 pour une urgence. Le 114 par SMS si tu ne peux pas parler.
 
-Rien dans ce guide, aucun mécanisme, aucune explication, ne s'applique à ces situations. Les mettre sur le compte de la maladresse émotionnelle masculine serait la pire lecture possible de ce document. Ces signes recoupent les critères diagnostiques employés dans les grandes enquêtes épidémiologiques sur la dépression et l'anxiété (source : Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
+Rien dans ce guide, aucun mécanisme, aucune explication, ne s'applique à ces situations. Les mettre sur le compte de la maladresse émotionnelle masculine serait la pire lecture possible de ce document. [Ces signes recoupent les critères diagnostiques employés dans les grandes enquêtes épidémiologiques sur la dépression et l'anxiété](https://pubmed.ncbi.nlm.nih.gov/12813115/) (Kessler et coll., « The epidemiology of major depressive disorder », *JAMA*, 2003 ; vérification du 7 août 2026).
 
 Un repère pour ne pas se tromper de diagnostic soi-même : un mécanisme décrit dans ce guide explique une difficulté à faire quelque chose — parler, exprimer, demander de l'aide. Un signal d'alarme décrit ici concerne, à l'inverse, quelque chose qui est activement fait à toi — contrôler, isoler, menacer, frapper. La différence n'est pas subtile une fois qu'elle est posée clairement, mais elle est facile à brouiller de l'intérieur d'une relation, surtout quand la personne qui contrôle est elle-même quelqu'un qui, par ailleurs, correspond à certains des mécanismes plus haut dans le guide. Les deux peuvent coexister chez la même personne ; l'un n'excuse jamais l'autre, et le second prime toujours sur le premier dans la décision à prendre.
 
@@ -88,14 +88,14 @@ Un repère pour ne pas se tromper de diagnostic soi-même : un mécanisme décri
 
 Dernier point, et il compte. Vivre avec quelqu'un qui exprime peu demande une vigilance permanente, et cette vigilance fatigue même quand tout va bien. Tu as le droit d'avoir tes propres besoins non couverts par cette relation, tes propres confidents, ton propre espace thérapeutique si tu en veux un.
 
-Un couple où une personne est en permanence l'aidante et l'autre l'aidé n'est pas un couple, c'est un service. La réciprocité n'a pas besoin d'être symétrique dans la forme, elle a besoin d'exister. Préserver sa propre santé émotionnelle est un facteur protecteur documenté chez les proches aidants (source : Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
+Un couple où une personne est en permanence l'aidante et l'autre l'aidé n'est pas un couple, c'est un service. La réciprocité n'a pas besoin d'être symétrique dans la forme, elle a besoin d'exister. [Préserver sa propre santé émotionnelle est un facteur protecteur documenté chez les proches aidants](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 Ce dernier point rejoint directement le 19.6 : une personne qui prend soin de ses propres besoins n'est pas égoïste, elle entretient la seule ressource qui lui permettra de continuer à être présente pour l'autre sur la durée. Ce n'est pas un renoncement au couple, c'est une condition de sa tenue dans le temps.
 
 ## Sources vérifiables
 
-- Johnson, S. (2004), *The Practice of Emotionally Focused Couple Therapy*, Routledge ; vérification du 7 août 2026.
-- Daminger, A. (2019), « The Cognitive Dimension of Household Labor », *American Sociological Review* ; vérification du 7 août 2026.
-- Pearlin, L. et coll. (1990), « Caregiving and the stress process », *The Gerontologist* ; vérification du 7 août 2026.
-- Kessler, R. et coll. (2003), « The epidemiology of major depressive disorder », *JAMA* ; vérification du 7 août 2026.
+- Johnson, S. (2004), [The Practice of Emotionally Focused Couple Therapy](https://archive.org/details/practiceofemotio0000john), Routledge ; vérification du 7 août 2026.
+- Daminger, A. (2019), [The Cognitive Dimension of Household Labor](https://journals.sagepub.com/doi/10.1177/0003122419859007), *American Sociological Review* ; vérification du 7 août 2026.
+- Pearlin, L. et coll. (1990), [Caregiving and the stress process](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941), *The Gerontologist* ; vérification du 7 août 2026.
+- Kessler, R. et coll. (2003), [The epidemiology of major depressive disorder](https://pubmed.ncbi.nlm.nih.gov/12813115/), *JAMA* ; vérification du 7 août 2026.
 - [Reis, H., Clark, M. & Holmes, J. (2004), « Perceived Partner Responsiveness as an Organizing Construct for the Study of Intimacy and Closeness »](https://www.sas.rochester.edu/psy/people/faculty/reis_harry/assets/pdf/ReisClarkHolmes_2004.pdf) ; vérification du 11 août 2026.

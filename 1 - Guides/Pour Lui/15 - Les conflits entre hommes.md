@@ -24,7 +24,7 @@ Trois conséquences pratiques :
 - **La perte de rang fait beaucoup plus mal que le gain ne fait plaisir.** Asymétrie classique, très marquée ici.
 - **La menace de rang se traite par l'action, jamais par la parole.** Un homme qui vient de perdre de la valeur dans un groupe va travailler plus, s'entraîner plus, dépenser, ou provoquer. Il ne va pas dire qu'il s'est senti diminué.
 
-**💑 Dans le couple.** Beaucoup de comportements incompréhensibles à la maison sont des conséquences directes d'un événement de rang à l'extérieur. Une humiliation en réunion produit une soirée insupportable, sans qu'aucun lien ne soit fait ni par lui ni par toi. Les hiérarchies masculines s'organisent selon deux voies distinctes, la dominance et le prestige (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+**💑 Dans le couple.** Beaucoup de comportements incompréhensibles à la maison sont des conséquences directes d'un événement de rang à l'extérieur. Une humiliation en réunion produit une soirée insupportable, sans qu'aucun lien ne soit fait ni par lui ni par toi. [Les hiérarchies masculines s'organisent selon deux voies distinctes, la dominance et le prestige](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 15.2 Conflit vertical et conflit horizontal
 
@@ -37,7 +37,7 @@ Deux types de conflits, qui ne se traitent pas du tout de la même façon.
 **Bons réflexes.**
 
 - Ne t'inquiète pas trop d'une engueulade verticale. Elle est bruyante et sans conséquence.
-- Inquiète-toi d'un silence horizontal. Quand un homme cesse simplement de parler d'un ami sans rien dire, quelque chose de grave s'est produit, et il n'en parlera pas spontanément. La distinction entre conflit vertical, lié au rang, et conflit horizontal, entre pairs, découle de ce même cadre théorique (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+- Inquiète-toi d'un silence horizontal. Quand un homme cesse simplement de parler d'un ami sans rien dire, quelque chose de grave s'est produit, et il n'en parlera pas spontanément. [La distinction entre conflit vertical, lié au rang, et conflit horizontal, entre pairs, découle de ce même cadre théorique](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 15.3 Pourquoi ils se réconcilient sans parler
 
@@ -47,7 +47,7 @@ Ce n'est ni supérieur ni inférieur au mode verbal. C'est efficace pour les con
 
 **💑 Dans le couple.** C'est exactement ce mode qu'il essaie d'appliquer avec toi après une dispute : proposer une sortie, faire un geste, revenir comme si de rien n'était. De son point de vue, c'est une réconciliation en bonne et due forme. De ton point de vue, c'est un évitement du sujet. Les deux lectures sont sincères.
 
-Le compromis qui fonctionne : accepter le geste comme signal de réconciliation, et poser la conversation ensuite, à froid, en la nommant comme un complément et non comme une remise en cause du geste. La réconciliation sans verbalisation explicite est cohérente avec le mode d'interaction côte à côte documenté chez les hommes (source : Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
+Le compromis qui fonctionne : accepter le geste comme signal de réconciliation, et poser la conversation ensuite, à froid, en la nommant comme un complément et non comme une remise en cause du geste. [La réconciliation sans verbalisation explicite est cohérente avec le mode d'interaction côte à côte documenté chez les hommes](https://link.springer.com/article/10.1007/BF00287670) (Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
 
 ### 15.4 Le père et le fils
 
@@ -65,7 +65,7 @@ Le point commun des trois : la relation au père se rejoue dans les relations à
 
 - La question "il était comment, ton père, quand tu avais dix ans" est l'une des plus productives qui existent, à condition d'être posée en configuration côte à côte et sans enjeu.
 - Ne compare jamais un homme à son père, dans aucun sens. En négatif c'est une insulte majeure, et en positif c'est un piège, parce que la relation est presque toujours ambivalente.
-- La naissance d'un enfant, la maladie ou la mort du père rouvrent ce dossier avec une violence que personne n'anticipe. La relation père-fils comme terrain de transmission et de rivalité masculine est documentée dans un ouvrage de référence sur le sujet (source : Diamond, *My Father Before Me*, Simon & Schuster, 2007 ; vérification du 7 août 2026).
+- La naissance d'un enfant, la maladie ou la mort du père rouvrent ce dossier avec une violence que personne n'anticipe. [La relation père-fils comme terrain de transmission et de rivalité masculine est documentée dans un ouvrage de référence sur le sujet](https://archive.org/details/myfatherbeforeme00diam) (Diamond, *My Father Before Me*, W. W. Norton, 2007 ; vérification du 7 août 2026).
 
 ### 15.5 L'ami qui réussit
 
@@ -76,7 +76,7 @@ Ce mécanisme explique un phénomène très courant et rarement compris : les am
 **Bons réflexes.**
 
 - Si un ami proche s'éloigne au moment où lui-même réussit, ou l'inverse, l'hypothèse à retenir est presque toujours celle-là.
-- Nommer le mécanisme, une fois, sans insister, peut aider : "c'est peut-être plus compliqué pour lui que pour toi en ce moment". C'est le genre de phrase qu'un homme n'aurait jamais formulée seul et qui débloque parfois quelque chose. La réussite d'un pair active des mécanismes de comparaison de statut documentés dans les hiérarchies masculines (source : Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
+- Nommer le mécanisme, une fois, sans insister, peut aider : "c'est peut-être plus compliqué pour lui que pour toi en ce moment". C'est le genre de phrase qu'un homme n'aurait jamais formulée seul et qui débloque parfois quelque chose. [La réussite d'un pair active des mécanismes de comparaison de statut documentés dans les hiérarchies masculines](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
 ### 15.6 La meute et le prix de la déviation
 
@@ -87,7 +87,7 @@ Ce coût est souvent invisible de l'extérieur et systématiquement sous-estimé
 **Bons réflexes.**
 
 - Ne demande pas un héroïsme social permanent. Demande une position claire en privé et un désengagement progressif des groupes toxiques, ce qui est bien plus atteignable.
-- Le meilleur levier n'est pas la culpabilisation, c'est l'existence d'une alternative. Un homme quitte un groupe quand il en a un autre, pas quand on lui explique que le premier est mauvais. Le concept de masculinité précaire, qui doit être sans cesse démontrée sous peine de sanction sociale, explique la pression à la conformité au groupe (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+- Le meilleur levier n'est pas la culpabilisation, c'est l'existence d'une alternative. Un homme quitte un groupe quand il en a un autre, pas quand on lui explique que le premier est mauvais. [Le concept de masculinité précaire, qui doit être sans cesse démontrée sous peine de sanction sociale, explique la pression à la conformité au groupe](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 15.7 Les autres hommes autour de ton couple
 
@@ -96,7 +96,7 @@ Quelques configurations classiques, à connaître pour ne pas se tromper d'inter
 - **Ton ex.** Le problème n'est presque jamais la jalousie sexuelle. C'est le classement : il se demande où il se situe par rapport à lui, sur des critères qu'il n'avouera jamais.
 - **Ton père.** Il y a un enjeu de validation par une figure de rang supérieur, même chez un homme de quarante ans. Une phrase méprisante de ton père pèse très lourd et sera rarement rapportée.
 - **Un collègue ou un supérieur.** Une humiliation professionnelle entre hommes est vécue avec une intensité qui paraît disproportionnée de l'extérieur. Elle ne l'est pas de l'intérieur.
-- **Un ami trop proche de toi.** Question de loyauté horizontale, pas de propriété. Le conflit potentiel est avec l'ami, pas avec toi. Cette même précarité de la masculinité éclaire la façon dont le regard des autres hommes pèse sur un couple (source : Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
+- **Un ami trop proche de toi.** Question de loyauté horizontale, pas de propriété. Le conflit potentiel est avec l'ami, pas avec toi. [Cette même précarité de la masculinité éclaire la façon dont le regard des autres hommes pèse sur un couple](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
 ### 15.8 Ce dont les hommes parlent réellement entre eux
 
@@ -107,6 +107,6 @@ La conversation masculine ordinaire porte massivement sur des objets extérieurs
 Deux corrections importantes :
 
 - **Non, ils ne passent pas leur temps à parler de sexe ou des femmes de façon crue.** Ce registre existe, il est très variable selon les milieux et les âges, et il est très largement surestimé.
-- **Non, ils ne se confient pas les uns aux autres comme tu te confies à tes amies.** Une amitié masculine de quinze ans peut ne contenir aucune conversation approfondie sur la vie intérieure de l'un ou de l'autre. Ce n'est pas de la superficialité, c'est un autre format, décrit en 4.7 et 14.2. Mais c'est un format qui protège mal en cas de coup dur, et c'est tout le problème du chapitre 14. Le contenu réel des échanges entre hommes, souvent sous-estimé, est documenté dans la littérature sur les amitiés masculines (source : Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
+- **Non, ils ne se confient pas les uns aux autres comme tu te confies à tes amies.** Une amitié masculine de quinze ans peut ne contenir aucune conversation approfondie sur la vie intérieure de l'un ou de l'autre. Ce n'est pas de la superficialité, c'est un autre format, décrit en 4.7 et 14.2. Mais c'est un format qui protège mal en cas de coup dur, et c'est tout le problème du chapitre 14. [Le contenu réel des échanges entre hommes, souvent sous-estimé, est documenté dans la littérature sur les amitiés masculines](https://link.springer.com/article/10.1007/BF00287670) (Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
 
 Comprendre ce format, plutôt que de le juger à l'aune d'un autre, change la lecture qu'on en fait : ce n'est pas un déficit de proximité, c'est une proximité qui se construit et se prouve autrement, par la présence répétée plutôt que par la parole. Les deux formats ont leur utilité propre, et le mieux qui puisse arriver à un homme est d'avoir accès aux deux à la fois, plutôt que d'en être réduit à un seul.

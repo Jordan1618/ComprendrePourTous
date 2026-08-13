@@ -36,7 +36,7 @@ Cette page regroupe les sources introduites lors du passage à une source par so
 | Stress psychosocial et risque cardiovasculaire (7.2) | Rosengren, A. et coll., *Association of psychosocial risk factors with risk of acute myocardial infarction (INTERHEART)*, The Lancet, 2004 | 7 août 2026 |
 | Sommeil et réactivité émotionnelle (7.3) | Goldstein, A. & Walker, M., *The role of sleep in emotional brain function*, Annual Review of Clinical Psychology, 2014 | 7 août 2026 |
 | Fardeau mondial des facteurs de risque (8.5, 20.2) | GBD 2019 Risk Factors Collaborators, *Global burden of 87 risk factors*, The Lancet, 2020 | 7 août 2026 |
-| Perception masculine de la charge contraceptive (16.1, 16.4, 16.5) | Grady, W. et coll., *Men's Perceptions of Their Roles and Responsibilities Regarding Contraception in the US*, Perspectives on Sexual and Reproductive Health, 1996 | 7 août 2026 |
+| Perception masculine de la charge contraceptive (16.1, 16.4, 16.5) | Grady, W., Tanfer, K., Billy, J. & Lincoln-Hanson, J., *Men's Perceptions of Their Roles and Responsibilities Regarding Sex, Contraception and Childrearing*, Family Planning Perspectives, 1996 | 7 août 2026 |
 | Physiologie de l'érection et troubles associés (10.1, 10.2, 10.6, 11.2) | Lue, T., *Erectile dysfunction*, New England Journal of Medicine, 2000 | 7 août 2026 |
 | Modèle du double contrôle développé sur des hommes (10.3, 11.3) | Bancroft, J. & Janssen, E., *The dual control model of male sexual response*, Neuroscience & Biobehavioral Reviews, 2000 | 7 août 2026 |
 | Prévalence des troubles sexuels masculins (10.4) | Laumann, E. et coll., *Sexual dysfunction in the United States: prevalence and predictors*, JAMA, 1999 | 7 août 2026 |
@@ -47,7 +47,7 @@ Cette page regroupe les sources introduites lors du passage à une source par so
 | Développement adulte masculin par étapes (13.3) | Levinson, D., *The Seasons of a Man's Life*, Knopf, 1978 | 7 août 2026 |
 | Transition psychologique vers la paternité (13.5) | Genesoni, L. & Tallandini, M., *Men's Psychological Transition to Fatherhood*, Birth, 2009 | 7 août 2026 |
 | Isolement social et mortalité (14.3, 14.4) | Holt-Lunstad, J. et coll., *Loneliness and social isolation as risk factors for mortality*, Perspectives on Psychological Science, 2015 | 7 août 2026 |
-| Relation père-fils (15.4) | Diamond, M., *My Father Before Me*, Simon & Schuster, 2007 | 7 août 2026 |
+| Relation père-fils (15.4) | Diamond, M., *My Father Before Me*, W. W. Norton, 2007 | 7 août 2026 |
 | Amitiés homme-femme (17.12) | Bleske-Rechek, A. & Buss, D., *Opposite-sex friendship: sex differences and similarities in initiation, selection, and dissolution*, Personality and Social Psychology Bulletin, 2001 | 7 août 2026 |
 | Patron demande-retrait dans le conflit conjugal (16.1, 17.8) | Christensen, A. & Heavey, C., *Gender and social structure in the demand/withdraw pattern of marital conflict*, Journal of Personality and Social Psychology, 1990 | 7 août 2026 |
 | Comportements prédictifs de la rupture conjugale (16.2, 18.3) | Gottman, J. & Levenson, R., *Marital processes predictive of later dissolution*, Journal of Personality and Social Psychology, 1992 | 7 août 2026 |
