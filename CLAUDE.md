@@ -42,6 +42,10 @@ Ne committer que sur demande explicite. Message de commit en français, descript
 Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 ```
 
+## Historique des demandes
+
+Après chaque demande de l'utilisateur (chaque message qui déclenche du travail, pas les accusés de réception automatiques), ajouter une ligne à `5 - Notes Internes/Historique des demandes.md` : numéro suivant, date, heure, un contexte en une phrase, et le texte de la demande. Ce fichier n'est jamais publié. Ne pas attendre une relance explicite pour le faire — c'est systématique, comme une règle de fond, pas une tâche ponctuelle.
+
 ## Travail en parallèle
 
 Pour une tâche volumineuse et indépendante (nouveau guide, passe de nuance sur des guides différents de ceux déjà en cours), il est possible de paralléliser via plusieurs agents en arrière-plan. Toujours vérifier `git status` avant de committer pour ne pas écraser ou dupliquer le travail d'un autre agent en cours, et se limiter aux fichiers réellement concernés par sa propre tâche plutôt que de tout stager en aveugle.
