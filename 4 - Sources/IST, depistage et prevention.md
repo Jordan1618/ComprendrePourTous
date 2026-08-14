@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "IST, dépistage et prévention"
-mis_a_jour_le: 2026-08-13
+mis_a_jour_le: 2026-08-14
 licence: "CC BY 4.0"
 ---
 
@@ -13,27 +13,27 @@ Sources du guide [IST, dépistage et prévention](<../1 - Guides/IST, depistage 
 
 | Référence | Ce qu'elle appuie | Chapitre |
 |---|---|---|
-| Farley, T. A., Cohen, D. A. & Elkins, W. (2003), [Asymptomatic sexually transmitted diseases: the case for screening](https://scholar.google.com/scholar?q=%22Asymptomatic+sexually+transmitted+diseases%3A+the+case+for+screening%22), *Preventive Medicine* | Le caractère majoritairement asymptomatique des IST justifie le dépistage | 1 |
-| Rowley, J. et coll. (2019), [Chlamydia, gonorrhoea, trichomoniasis and syphilis: global prevalence and incidence estimates, 2016](https://scholar.google.com/scholar?q=%22Chlamydia%2C+gonorrhoea%2C+trichomoniasis+and+syphilis%3A+global+prevalence+and+incidence+estimates%2C+2016%22), *Bulletin of the World Health Organization* | Estimations mondiales de prévalence des quatre IST curables les plus fréquentes | 1 |
-| Workowski, K. & Bachmann, L. (2021), [Sexually Transmitted Infections Treatment Guidelines](https://scholar.google.com/scholar?q=%22Sexually+Transmitted+Infections+Treatment+Guidelines%2C+2021%22), *MMWR Recommendations and Reports*, CDC | Voies de transmission, distinction IST curables / IST gérées, antiviraux suppressifs de l'herpès | 1, 4 |
+| Farley, T. A., Cohen, D. A. & Elkins, W. (2003), [Asymptomatic sexually transmitted diseases: the case for screening](https://pubmed.ncbi.nlm.nih.gov/12649059/), *Preventive Medicine* | Le caractère majoritairement asymptomatique des IST justifie le dépistage | 1 |
+| Rowley, J. et coll. (2019), [Chlamydia, gonorrhoea, trichomoniasis and syphilis: global prevalence and incidence estimates, 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6653813/), *Bulletin of the World Health Organization* | Estimations mondiales de prévalence des quatre IST curables les plus fréquentes | 1 |
+| Workowski, K. & Bachmann, L. (2021), [Sexually Transmitted Infections Treatment Guidelines](https://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf), *MMWR Recommendations and Reports*, CDC | Voies de transmission, distinction IST curables / IST gérées, antiviraux suppressifs de l'herpès | 1, 4 |
 
 ## Bactéries et parasites
 
 | Référence | Ce qu'elle appuie | Chapitre |
 |---|---|---|
-| Unemo, M. & Shafer, W. M. (2014), [Antimicrobial resistance in Neisseria gonorrhoeae in the 21st century](https://scholar.google.com/scholar?q=%22Antimicrobial+resistance+in+Neisseria+gonorrhoeae+in+the+21st+century%22), *Clinical Microbiology Reviews* | Émergence de souches de gonocoque résistantes aux antibiotiques | 2 |
-| Peeling, R. W. et coll. (2017), [Syphilis](https://scholar.google.com/scholar?q=%22Syphilis%22+Peeling+Nature+Reviews), *Nature Reviews Disease Primers* | Description clinique des trois stades de la syphilis | 3 |
+| Unemo, M. & Shafer, W. M. (2014), [Antimicrobial resistance in Neisseria gonorrhoeae in the 21st century](https://pubmed.ncbi.nlm.nih.gov/24982323/), *Clinical Microbiology Reviews* | Émergence de souches de gonocoque résistantes aux antibiotiques | 2 |
+| Peeling, R. W. et coll. (2017), [Syphilis](https://pubmed.ncbi.nlm.nih.gov/29022569/), *Nature Reviews Disease Primers* | Description clinique des trois stades de la syphilis | 3 |
 
 ## Virus
 
 | Référence | Ce qu'elle appuie | Chapitre |
 |---|---|---|
-| Tronstein, E. et coll. (2011), [Genital shedding of herpes simplex virus among symptomatic and asymptomatic persons with HSV-2 infection](https://scholar.google.com/scholar?q=%22Genital+shedding+of+herpes+simplex+virus+among+symptomatic+and+asymptomatic+persons+with+HSV-2+infection%22), *JAMA* | Excrétion virale asymptomatique du HSV | 4 |
-| Looker, K. J. et coll. (2015), [Global and regional estimates of prevalent and incident herpes simplex virus type 2 infections in 2012](https://scholar.google.com/scholar?q=%22Global+and+regional+estimates+of+prevalent+and+incident+herpes+simplex+virus+type+2+infections+in+2012%22), *PLOS ONE* | Prévalence mondiale de l'infection à HSV-2 | 4 |
-| Rodger, A. J. et coll. (2019), [Risk of HIV transmission through condomless sex in serodifferent gay couples (PARTNER2)](https://scholar.google.com/scholar?q=%22Risk+of+HIV+transmission+through+condomless+sex+in+serodifferent+gay+couples%22), *The Lancet* | Principe U=U, absence de transmission sous traitement suppressif | 5 |
-| Molina, J.-M. et coll. (2015), [On-Demand Preexposure Prophylaxis in Men at High Risk for HIV-1 Infection](https://scholar.google.com/scholar?q=%22On-Demand+Preexposure+Prophylaxis+in+Men+at+High+Risk+for+HIV-1+Infection%22), *New England Journal of Medicine* | Efficacité de la PrEP en prévention du VIH | 5 |
-| Cardo, D. M. et coll. (1997), [A case-control study of HIV seroconversion in health care workers after percutaneous exposure](https://scholar.google.com/scholar?q=%22A+case-control+study+of+HIV+seroconversion+in+health+care+workers+after+percutaneous+exposure%22), *New England Journal of Medicine* | Efficacité du traitement post-exposition | 5 |
-| Bruni, L. et coll. (2023), [Global and regional estimates of genital human papillomavirus prevalence among men and women in 2000-18](https://scholar.google.com/scholar?q=%22Global+and+regional+estimates+of+genital+human+papillomavirus+prevalence+among+men+and+women+in+2000-18%22), *The Lancet Global Health* | Prévalence mondiale du HPV et poids des cancers associés | 6 |
+| Tronstein, E. et coll. (2011), [Genital shedding of herpes simplex virus among symptomatic and asymptomatic persons with HSV-2 infection](https://pubmed.ncbi.nlm.nih.gov/21486977/), *JAMA* | Excrétion virale asymptomatique du HSV | 4 |
+| Looker, K. J. et coll. (2015), [Global and regional estimates of prevalent and incident herpes simplex virus type 2 infections in 2012](https://pmc.ncbi.nlm.nih.gov/articles/PMC4301914/), *PLOS ONE* | Prévalence mondiale de l'infection à HSV-2 | 4 |
+| Rodger, A. J. et coll. (2019), [Risk of HIV transmission through condomless sex in serodifferent gay couples (PARTNER2)](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30418-0/fulltext), *The Lancet* | Principe U=U, absence de transmission sous traitement suppressif | 5 |
+| Molina, J.-M. et coll. (2015), [On-Demand Preexposure Prophylaxis in Men at High Risk for HIV-1 Infection](https://www.nejm.org/doi/full/10.1056/NEJMoa1506273), *New England Journal of Medicine* | Efficacité de la PrEP en prévention du VIH | 5 |
+| Cardo, D. M. et coll. (1997), [A case-control study of HIV seroconversion in health care workers after percutaneous exposure](https://www.nejm.org/doi/full/10.1056/NEJM199711203372101), *New England Journal of Medicine* | Efficacité du traitement post-exposition | 5 |
+| Bruni, L. et coll. (2023), [Global and regional estimates of genital human papillomavirus prevalence among men and women in 2000-18](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext), *The Lancet Global Health* | Prévalence mondiale du HPV et poids des cancers associés | 6 |
 
 ## Institutions et santé publique
 
