@@ -4,7 +4,7 @@ chapitre: "2"
 titre: "D'où viennent les émotions : famille, société, institutions"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-08-06
+verifie_le: 2026-08-14
 licence: "CC BY 4.0"
 ---
 
@@ -60,6 +60,30 @@ Trois profils reviennent, décrits par leur mécanisme plutôt que par une étiq
 
 Aucun de ces profils n'est un défaut de caractère. Ce sont des **stratégies apprises**, qui ont eu leur utilité, et qui se déplacent — plus lentement qu'on ne le voudrait, mais réellement. [Ces profils rejoignent la définition clinique de l'alexithymie comme difficulté acquise à identifier et décrire ses états internes](https://archive.org/details/disordersofaffec0000tayl) (Taylor, Bagby & Parker, *Disorders of Affect Regulation*, Cambridge University Press, 1997 ; vérification du 7 août 2026).
 
+### 2.6 Les règles d'affichage, culture par culture
+
+Le genre n'est qu'une des variables qui façonnent les règles d'affichage. La culture au sens large — nationale, régionale, religieuse — en est une autre, tout aussi documentée, et les deux se superposent plutôt qu'elles ne s'excluent.
+
+[David Matsumoto et ses collègues ont fait remplir un même inventaire de règles d'affichage à plus de cinq mille personnes dans trente-deux pays, et ont montré que les cultures individualistes tendent à valoriser l'expression franche des émotions négatives envers les proches, tandis que les cultures plus collectivistes tendent à en amortir l'expression pour préserver l'harmonie du groupe](https://journals.sagepub.com/doi/10.1177/0022022107311854) (Matsumoto, Yoo & Fontaine, « Mapping expressive differences around the world », *Journal of Cross-Cultural Psychology*, 2008 ; vérification du 14 août 2026). Ce n'est pas une règle universelle : à l'intérieur d'un même pays, les écarts entre familles et entre générations sont souvent aussi importants que les écarts moyens entre pays.
+
+Un même geste change de sens selon le contexte. Le sourire, par exemple, ne signale pas partout la joie : dans plusieurs cultures d'Asie de l'Est, il peut aussi servir à masquer la gêne ou le désaccord devant un supérieur, précisément parce que montrer l'émotion brute y coûterait plus cher socialement que la dissimuler. Un Français qui interprète ce sourire comme un accord franc, ou un visiteur qui prend le silence poli pour de l'indifférence, se trompe sur un signal dont le code lui est simplement étranger — pas sur la présence ou l'absence d'émotion chez son interlocuteur.
+
+### 2.7 L'école, au-delà du contrôle
+
+Le chapitre 2.4 pointait ce que l'école enseigne sans le vouloir : rester assis, ne pas déborder. Il existe un contrepoint utile, qui montre que ce n'est pas une fatalité pédagogique mais un choix de programme.
+
+[Une méta-analyse portant sur plus de deux cent programmes scolaires d'apprentissage socio-émotionnel, réunissant environ 270 000 élèves du primaire au lycée, a montré que les élèves ayant suivi ce type de programme progressaient significativement en compétences émotionnelles et sociales, en comportement, et affichaient en moyenne un gain de performance académique de l'ordre de 11 points de percentile par rapport aux groupes témoins](https://files.casel.org/impact-enhancing-students-social-emotional-learning-meta-analysis-school-based-universal-interventions.pdf) (Durlak, Weissberg et coll., « The impact of enhancing students' social and emotional learning », *Child Development*, 2011 ; vérification du 14 août 2026).
+
+Ce résultat déplace la question. L'école qui « enseigne le contrôle plutôt que l'expression » n'est pas l'école en général : c'est une école qui n'a pas fait le choix, ou n'a pas eu les moyens, d'enseigner explicitement le vocabulaire et la régulation émotionnels au même titre que la lecture ou le calcul. Là où ce choix a été fait, l'effet est mesurable et n'entre pas en concurrence avec les apprentissages scolaires classiques — il les soutient.
+
+### 2.8 Ce qui a changé entre les générations
+
+Les normes d'expression émotionnelle ne sont pas figées : elles se déplacent, y compris sur une seule vie humaine, et le mouvement est en partie mesurable.
+
+[Une étude menée dans huit pays, comparant les déclarations de parents à environ dix ans d'intervalle, a montré une baisse du recours déclaré aux punitions corporelles et de la conviction qu'elles seraient nécessaires à l'éducation, avec des trajectoires différentes selon les pays et l'existence ou non d'une interdiction légale](https://pmc.ncbi.nlm.nih.gov/articles/PMC5407940/) (Lansford et coll., « Change over time in parents' beliefs about and reported use of corporal punishment in eight countries with and without legal bans », *Child Abuse & Neglect*, 2016 ; vérification du 14 août 2026).
+
+Ce déplacement se prolonge dans la façon de nommer les émotions plus largement. Beaucoup de grands-parents ont grandi avec une consigne implicite de silence — « ça ne se dit pas », « on ne pleure pas devant les autres » — sans que cela signale une froideur personnelle : c'était la norme transmise, au même titre qu'une politesse. Beaucoup de parents actuels cherchent à transmettre l'inverse — nommer, valider, accueillir — parfois sans avoir eux-mêmes reçu ce vocabulaire, ce qui rend l'exercice sincère mais parfois maladroit. Aucune des deux générations n'a tort dans l'absolu : elles répondent à des normes différentes, apprises dans des contextes différents, et le reproche silencieux qui traverse parfois les familles sur ce sujet gagne à être nommé comme un écart de génération plutôt que comme un défaut de caractère.
+
 💑 **Dans le couple**
 
 Deux personnes n'ont jamais le même accent émotionnel, et chacune prend le sien pour la norme. D'où des reproches en miroir : « tu ne ressens rien » contre « tu dramatises tout ».
@@ -72,3 +96,14 @@ La conversation qui déplace quelque chose, à froid, tient en une question : **
 - Distinguez validation et approbation. « Je comprends que tu sois en colère » n'est pas « tu as raison d'être en colère ».
 - Si vous êtes parent, sachez que le mécanisme le plus puissant n'est pas ce que vous dites des émotions, mais ce que vous faites des vôtres devant l'enfant.
 - Regardez la charge émotionnelle de votre travail comme une charge réelle. Devoir afficher l'inverse de ce qu'on ressent, tous les jours, use — ce n'est pas une fragilité personnelle.
+- Face à un écart générationnel dans votre famille, nommez-le comme tel plutôt que comme un jugement de valeur : **« je crois qu'on n'a pas appris la même chose sur ce qu'on a le droit de montrer »** ouvre plus qu'un reproche.
+
+## Sources vérifiables
+
+- Les règles d'affichage émotionnel, propres à chaque culture : [Paul Ekman & Wallace Friesen, « Constants across cultures in the face and emotion »](https://www.researchgate.net/publication/17640481_Constants_across_cultures_in_the_face_and_emotion), *Journal of Personality and Social Psychology*, 1971 ; vérification du 7 août 2026.
+- La philosophie méta-émotionnelle des parents et la régulation émotionnelle de l'enfant : [John Gottman, Lynn Katz & Carole Hooven, « Parental meta-emotion philosophy and the emotional life of families »](https://www.researchgate.net/publication/232602696_Parental_Meta-Emotion_Philosophy_and_the_Emotional_Life_of_Families_Theoretical_Models_and_Preliminary_Data), *Journal of Family Psychology*, 1996 ; vérification du 7 août 2026.
+- Le travail émotionnel au travail : [Arlie Hochschild, *The Managed Heart*](https://archive.org/details/managedheart00arli), 1983 ; vérification du 6 août 2026.
+- La définition clinique de l'alexithymie : [Graeme Taylor, R. Michael Bagby & James Parker, *Disorders of Affect Regulation*](https://archive.org/details/disordersofaffec0000tayl), Cambridge University Press, 1997 ; vérification du 7 août 2026.
+- Les règles d'affichage comparées dans trente-deux pays, et le lien avec individualisme et collectivisme : [David Matsumoto, Seung Hee Yoo & Johnny Fontaine, « Mapping expressive differences around the world »](https://journals.sagepub.com/doi/10.1177/0022022107311854), *Journal of Cross-Cultural Psychology*, 2008 ; vérification du 14 août 2026.
+- L'effet des programmes scolaires d'apprentissage socio-émotionnel : [Joseph Durlak, Roger Weissberg et coll., « The impact of enhancing students' social and emotional learning »](https://files.casel.org/impact-enhancing-students-social-emotional-learning-meta-analysis-school-based-universal-interventions.pdf), *Child Development*, 2011 ; vérification du 14 août 2026.
+- L'évolution des croyances et pratiques parentales sur la punition corporelle dans huit pays : [Jennifer Lansford et coll., « Change over time in parents' beliefs about and reported use of corporal punishment in eight countries with and without legal bans »](https://pmc.ncbi.nlm.nih.gov/articles/PMC5407940/), *Child Abuse & Neglect*, 2016 ; vérification du 14 août 2026.
