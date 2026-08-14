@@ -46,6 +46,10 @@ Co-Authored-By: Claude Sonnet 5 <noreply@anthropic.com>
 
 Après chaque demande de l'utilisateur (chaque message qui déclenche du travail, pas les accusés de réception automatiques), ajouter une ligne à `5 - Notes Internes/Historique des demandes.md` : numéro suivant, date, heure, un contexte en une phrase, et le texte de la demande. Ce fichier n'est jamais publié. Ne pas attendre une relance explicite pour le faire — c'est systématique, comme une règle de fond, pas une tâche ponctuelle.
 
+## Portabilité vers une autre session
+
+Pour toute tâche volumineuse en plusieurs étapes (un chantier multi-guides, une refonte en plusieurs agents), tenir à jour un fichier de suivi dans `5 - Notes Internes/` (voir `5 - Notes Internes/Chantier - Refonte des guides transversaux.md` comme modèle) : la demande d'origine reformulée pour quelqu'un qui n'a pas cette conversation, les règles à respecter, un tableau d'état par sous-tâche, et comment reprendre. Le mettre à jour avant chaque commit final d'une sous-tâche — pas seulement à la toute fin du chantier entier — pour qu'une autre instance Claude, sur une autre machine, puisse reprendre à tout moment sans avoir accès à cette conversation.
+
 ## Travail en parallèle
 
 Pour une tâche volumineuse et indépendante (nouveau guide, passe de nuance sur des guides différents de ceux déjà en cours), il est possible de paralléliser via plusieurs agents en arrière-plan. Toujours vérifier `git status` avant de committer pour ne pas écraser ou dupliquer le travail d'un autre agent en cours, et se limiter aux fichiers réellement concernés par sa propre tâche plutôt que de tout stager en aveugle.
