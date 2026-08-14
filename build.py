@@ -126,17 +126,21 @@ SECTION_HUE = {
     "sources": 96,
 }
 GUIDE_HUE = {
-    "pour-elle": 338,
-    "pour-lui": 212,
-    "ist-depistage-et-prevention": 265,
-    "massage-professionnel": 18,
-    "questions-et-communication": 152,
-    "la-rencontre": 8,
-    "l-amour": 348,
-    "pour-nous": 196,
-    "les-emotions": 48,
-    "reseaux-sociaux": 100,
+    # Palette curatee, espacee d'au moins ~22 degres pour eviter les paires
+    # quasi identiques (l'ancienne version avait deux roses a 10 deg d'ecart
+    # et deux bleus a 16 deg) : terracotta -> ambre -> mousse -> sauge ->
+    # sarcelle -> bleu ardoise -> bleu -> indigo -> violet -> prune -> rose.
+    "la-rencontre": 18,
+    "les-emotions": 42,
+    "massage-professionnel": 75,
+    "questions-et-communication": 130,
+    "pour-nous": 172,
+    "reseaux-sociaux": 198,
+    "pour-lui": 220,
+    "ist-depistage-et-prevention": 245,
+    "l-amour": 268,
     "les-nouvelles-compositions-familiales": 300,
+    "pour-elle": 340,
 }
 
 # Illustrations : SVG en ligne, decoratifs, qui prennent la teinte de la

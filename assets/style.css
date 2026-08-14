@@ -237,8 +237,8 @@ main { flex: 1; min-width: 0; padding: 2.4rem 2.5rem 5rem; }
   padding: 1.1rem 1.25rem;
   border-radius: var(--radius);
   text-decoration: none; color: var(--text);
-  background: hsl(var(--hue) 58% 93%);
-  border: 1px solid hsl(var(--hue) 45% 82%);
+  background: hsl(var(--hue) 48% 94%);
+  border: 1px solid hsl(var(--hue) 38% 84%);
   transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease;
 }
 .guide-tile:hover { transform: translateY(-3px); box-shadow: var(--shadow); color: var(--text); border-color: hsl(var(--hue) 55% 62%); }
