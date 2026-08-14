@@ -7,7 +7,7 @@ mots: 8220
 verifie_le: 2026-08-13
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/IST, depistage et prevention"
-genere_le: 2026-08-13
+genere_le: 2026-08-14
 ---
 
 # IST, dépistage et prévention

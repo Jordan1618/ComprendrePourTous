@@ -7,7 +7,7 @@ mots: 6829
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Les nouvelles compositions familiales"
-genere_le: 2026-08-13
+genere_le: 2026-08-14
 ---
 
 # Les nouvelles compositions familiales

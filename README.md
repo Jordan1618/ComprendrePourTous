@@ -2,10 +2,10 @@
 projet: "Comprendre pour tous"
 type: "collection"
 guides: 11
-chapitres: 149
-mots: 222337
+chapitres: 163
+mots: 236333
 cree_le: 2026-07-21
-mis_a_jour_le: 2026-08-13
+mis_a_jour_le: 2026-08-14
 licence: "CC BY 4.0"
 auteur: "Jordan1618"
 depot: "https://github.com/Jordan1618/ComprendrePourTous"
@@ -36,13 +36,13 @@ Ce projet est un kit de base : de quoi se comprendre soi-même et comprendre l'a
 | [Les nouvelles compositions familiales](<1 - Guides/Les nouvelles compositions familiales/README.md>) | commun | 4 | Panorama actuel, autres modèles familiaux (homoparentalité, coparentalité choisie, familles d'accueil), étapes réelles d'une recomposition, trouver sa place, bons principes | [intégrale](<0 - Guides complets/Les nouvelles compositions familiales.md>) |
 | [La rencontre](<1 - Guides/La rencontre/README.md>) | commun | 9 | Attirance, attachement, biais de choix, applications, signaux d'alerte, sécurité | [intégrale](<0 - Guides complets/La rencontre.md>) |
 | [L'amour](<1 - Guides/L amour/README.md>) | commun | 9 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir dans la durée, engagement | [intégrale](<0 - Guides complets/L'amour.md>) |
-| [Questions et communication](<1 - Guides/Questions et communication/README.md>) | commun | 9 | Ce qu'une question fait, comment elles se classent, celles qui changent une vie | [intégrale](<0 - Guides complets/Questions et communication.md>) |
+| [Questions et communication](<1 - Guides/Questions et communication/README.md>) | commun | 23 | Ce qu'une question fait, science de la communication, travail et négociation, histoire, corps et non-verbal, storytelling, messages privés, désamorçage, introspection, développement personnel | [intégrale](<0 - Guides complets/Questions et communication.md>) |
 | [Les émotions](<1 - Guides/Les emotions/README.md>) | commun | 10 | Fabrication, origines, nommer, décoder, réguler, troubles, parcours de soin, tabous | [intégrale](<0 - Guides complets/Les émotions.md>) |
 | [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 11 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV, vocabulaire IST/MST, en parler en couple, contraception et prévention combinée, recherche en cours, réduction des risques | [intégrale](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [intégrale](<0 - Guides complets/Massage professionnel.md>) |
 | [Réseaux sociaux](<1 - Guides/Reseaux sociaux/README.md>) | commun | 10 | Histoire, conception, attention, algorithmes, image de soi, dérives amoureuses numériques, cyberharcèlement, cadre légal | [intégrale](<0 - Guides complets/Réseaux sociaux.md>) |
 
-Environ 222 000 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
+Environ 236 000 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
 
 ## Trois façons d'y entrer
 

@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "notions"
-mis_a_jour_le: 2026-08-13
+mis_a_jour_le: 2026-08-14
 licence: "CC BY 4.0"
 ---
 
@@ -31,6 +31,7 @@ Un concept mérite sa note quand il **traverse au moins deux guides**, ou quand 
 - [Désir spontané et désir réactif](<Désir spontané et désir réactif.md>)
 - [Côte à côte](<Côte à côte.md>)
 - [Granularité émotionnelle](<Granularité émotionnelle.md>)
+- [Rumination](<Rumination.md>)
 
 La collection est jeune, cette liste est faite pour s'allonger.
 
