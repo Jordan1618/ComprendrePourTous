@@ -3,7 +3,7 @@ type: "guide"
 guide: "Réseaux sociaux"
 sujet: "commun"
 chapitres: 10
-mots: 14524
+mots: 14514
 verifie_le: 2026-08-13
 licence: "CC BY 4.0"
 ---

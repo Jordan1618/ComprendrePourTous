@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
 chapitres: 34
-mots: 73593
+mots: 73580
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 ---
@@ -25,21 +25,21 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
 | 1 | [Le décor : ce que disent les chiffres](<01 - Le decor ce que disent les chiffres.md>) | repères | 2 000 |
-| 2 | [Le cycle menstruel : anatomie et physiologie de base](<02 - Le cycle menstruel.md>) | physiologie | 2 493 |
-| 3 | [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<03 - Pourquoi les humains menstruent.md>) | physiologie | 2 173 |
-| 4 | [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<04 - La sante emotionnelle feminine.md>) | psychologie | 2 003 |
-| 5 | [La dépression féminine : le visage qu'elle prend](<05 - La depression feminine.md>) | psychologie | 2 127 |
-| 6 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<06 - Anxiete stress et corps.md>) | psychologie | 2 042 |
-| 7 | [La pilule et la contraception hormonale : raisonnement étape par étape](<07 - Contraception hormonale.md>) | prévention | 2 139 |
-| 8 | [Panorama complet des troubles et pathologies du cycle](<08 - Troubles et pathologies du cycle.md>) | physiologie | 5 951 |
-| 9 | [La sexualité féminine : anatomie, réponse sexuelle, troubles](<09 - Sexualité féminine.md>) | relation | 4 819 |
-| 10 | [La grossesse : physiologie et complications](<10 - La grossesse.md>) | physiologie | 2 499 |
-| 11 | [L'accouchement et le post-partum](<11 - Accouchement et post-partum.md>) | physiologie | 2 132 |
-| 12 | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<12 - Les pieges de la modernite.md>) | prévention | 2 021 |
-| 13 | [Les peurs : lesquelles sont fondées, et comment avancer](<13 - Les peurs rationnelles ou non.md>) | prévention | 2 003 |
-| 14 | [Les figures de la recherche en 2026 : qui fait avancer quoi](<14 - La recherche en 2026.md>) | repères | 2 077 |
-| 15 | [Conseils pratiques généraux, au-delà du cas par cas](<15 - Conseils pratiques généraux.md>) | pratique | 2 013 |
-| 16 | [Les grands profils féminins](<16 - Les grands profils feminins.md>) | psychologie | 3 866 |
+| 2 | [Le cycle menstruel : anatomie et physiologie de base](<02 - Le cycle menstruel.md>) | physiologie | 2 448 |
+| 3 | [Pourquoi les humains menstruent : ce que dit vraiment la biologie évolutive](<03 - Pourquoi les humains menstruent.md>) | physiologie | 2 148 |
+| 4 | [La santé émotionnelle : ce qu'on attribue trop vite aux hormones](<04 - La sante emotionnelle feminine.md>) | psychologie | 1 968 |
+| 5 | [La dépression féminine : le visage qu'elle prend](<05 - La depression feminine.md>) | psychologie | 2 056 |
+| 6 | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<06 - Anxiete stress et corps.md>) | psychologie | 1 977 |
+| 7 | [La pilule et la contraception hormonale : raisonnement étape par étape](<07 - Contraception hormonale.md>) | prévention | 2 228 |
+| 8 | [Panorama complet des troubles et pathologies du cycle](<08 - Troubles et pathologies du cycle.md>) | physiologie | 5 730 |
+| 9 | [La sexualité féminine : anatomie, réponse sexuelle, troubles](<09 - Sexualité féminine.md>) | relation | 4 803 |
+| 10 | [La grossesse : physiologie et complications](<10 - La grossesse.md>) | physiologie | 2 515 |
+| 11 | [L'accouchement et le post-partum](<11 - Accouchement et post-partum.md>) | physiologie | 2 113 |
+| 12 | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<12 - Les pieges de la modernite.md>) | prévention | 1 998 |
+| 13 | [Les peurs : lesquelles sont fondées, et comment avancer](<13 - Les peurs rationnelles ou non.md>) | prévention | 1 970 |
+| 14 | [Les figures de la recherche en 2026 : qui fait avancer quoi](<14 - La recherche en 2026.md>) | repères | 2 024 |
+| 15 | [Conseils pratiques généraux, au-delà du cas par cas](<15 - Conseils pratiques généraux.md>) | pratique | 1 934 |
+| 16 | [Les grands profils féminins](<16 - Les grands profils feminins.md>) | psychologie | 4 030 |
 | 17 | [Le corps féminin : ce qu'il est utile de savoir](<17 - Le corps feminin ce qu il est utile de savoir.md>) | physiologie | 2 002 |
 | 18 | [Les âges de la vie féminine](<18 - Les ages de la vie feminine.md>) | psychologie | 2 000 |
 | 19 | [Le désert relationnel féminin](<19 - Le desert relationnel feminin.md>) | relation | 2 003 |
@@ -59,7 +59,7 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 33 | [Ressources et associations utiles](<33 - Ressources et associations.md>) | repères | 275 |
 | 34 | [Glossaire complet des termes médicaux employés dans ce document](<34 - Glossaire des termes médicaux.md>) | repères | 489 |
 
-Total : 73 593 mots, 34 chapitres.
+Total : 73 580 mots, 34 chapitres.
 
 Ce guide a un pendant, [Pour Lui](<../Pour Lui/README.md>), pour le même thème vu de l'autre côté.
 

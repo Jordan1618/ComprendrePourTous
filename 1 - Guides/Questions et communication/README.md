@@ -3,7 +3,7 @@ type: "guide"
 guide: "Questions et communication"
 sujet: "commun"
 chapitres: 23
-mots: 21210
+mots: 21187
 verifie_le: 2026-08-14
 licence: "CC BY 4.0"
 ---
@@ -26,30 +26,30 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Ce qu'une question fait vraiment](<01 - Ce qu'une question fait vraiment.md>) | psychologie | 1 046 |
-| 2 | [L'anatomie d'une question](<02 - L'anatomie d'une question.md>) | pratique | 1 176 |
-| 3 | [Les six familles de questions](<03 - Les six familles de questions.md>) | repères | 734 |
-| 4 | [Les questions qui changent une vie](<04 - Les questions qui changent une vie.md>) | relation | 1 289 |
-| 5 | [Les émotions en jeu](<05 - Les émotions en jeu.md>) | psychologie | 1 000 |
-| 6 | [Le cadre](<06 - Le cadre.md>) | pratique | 751 |
-| 7 | [Les questions difficiles avec les proches](<07 - Les questions difficiles avec les proches.md>) | relation | 604 |
-| 8 | [Recevoir la réponse](<08 - Recevoir la réponse.md>) | relation | 606 |
-| 9 | [Boîte à outils](<09 - Boîte à outils.md>) | repères | 495 |
-| 10 | [Pourquoi on communique : la science derrière](<10 - Pourquoi on communique, la science derrière.md>) | physiologie | 986 |
-| 11 | [Communiquer pour se développer, soi-même et les autres](<11 - Communiquer pour se developper, soi-meme et les autres.md>) | psychologie | 970 |
-| 12 | [Motivation, travail, négociation et réussite](<12 - Motivation, travail, negociation et reussite.md>) | pratique | 991 |
-| 13 | [Une histoire courte : pourquoi la communication est devenue si centrale](<13 - Une histoire courte, pourquoi la communication est devenue si centrale.md>) | repères | 1 143 |
-| 14 | [Le corps, base de toute communication](<14 - Le corps, base de toute communication.md>) | physiologie | 1 015 |
-| 15 | [Transmettre : linguistique, storytelling et l'art de se faire comprendre](<15 - Transmettre, linguistique, storytelling et l'art de se faire comprendre.md>) | pratique | 1 071 |
-| 16 | [La communication dans la culture](<16 - La communication dans la culture.md>) | repères | 990 |
-| 17 | [Bien communiquer par message : les conversations privées à l'ère numérique](<17 - Bien communiquer par message, les conversations privees a l'ere numerique.md>) | pratique | 1 065 |
-| 18 | [L'écart entre la formule et l'intention](<18 - L'ecart entre la formule et l'intention.md>) | psychologie | 924 |
-| 19 | [Désamorcer et écouter vraiment](<19 - Desamorcer et ecouter vraiment.md>) | pratique | 1 066 |
-| 20 | [Se poser des questions à soi-même : une histoire de l'introspection](<20 - Se poser des questions a soi-meme, une histoire de l'introspection.md>) | repères | 937 |
-| 21 | [Les questions qu'on évite, et ce qu'elles révèlent](<21 - Les questions qu'on evite, et ce qu'elles revelent.md>) | psychologie | 850 |
-| 22 | [Rumination ou introspection, et les âges des questions](<22 - Rumination ou introspection, et les ages des questions.md>) | pratique | 847 |
-| 23 | [Vrai développement personnel ou marketing bien-être ?](<23 - Vrai developpement personnel ou marketing bien-etre.md>) | repères | 904 |
+| 1 | [Ce qu'une question fait vraiment](<01 - Ce qu'une question fait vraiment.md>) | psychologie | 1 034 |
+| 2 | [L'anatomie d'une question](<02 - L'anatomie d'une question.md>) | pratique | 1 122 |
+| 3 | [Les six familles de questions](<03 - Les six familles de questions.md>) | repères | 637 |
+| 4 | [Les questions qui changent une vie](<04 - Les questions qui changent une vie.md>) | relation | 1 205 |
+| 5 | [Les émotions en jeu](<05 - Les émotions en jeu.md>) | psychologie | 931 |
+| 6 | [Le cadre](<06 - Le cadre.md>) | pratique | 689 |
+| 7 | [Les questions difficiles avec les proches](<07 - Les questions difficiles avec les proches.md>) | relation | 628 |
+| 8 | [Recevoir la réponse](<08 - Recevoir la réponse.md>) | relation | 527 |
+| 9 | [Boîte à outils](<09 - Boîte à outils.md>) | repères | 432 |
+| 10 | [Pourquoi on communique : la science derrière](<10 - Pourquoi on communique, la science derrière.md>) | physiologie | 1 000 |
+| 11 | [Communiquer pour se développer, soi-même et les autres](<11 - Communiquer pour se developper, soi-meme et les autres.md>) | psychologie | 987 |
+| 12 | [Motivation, travail, négociation et réussite](<12 - Motivation, travail, negociation et reussite.md>) | pratique | 1 004 |
+| 13 | [Une histoire courte : pourquoi la communication est devenue si centrale](<13 - Une histoire courte, pourquoi la communication est devenue si centrale.md>) | repères | 1 157 |
+| 14 | [Le corps, base de toute communication](<14 - Le corps, base de toute communication.md>) | physiologie | 1 029 |
+| 15 | [Transmettre : linguistique, storytelling et l'art de se faire comprendre](<15 - Transmettre, linguistique, storytelling et l'art de se faire comprendre.md>) | pratique | 1 081 |
+| 16 | [La communication dans la culture](<16 - La communication dans la culture.md>) | repères | 1 006 |
+| 17 | [Bien communiquer par message : les conversations privées à l'ère numérique](<17 - Bien communiquer par message, les conversations privees a l'ere numerique.md>) | pratique | 1 085 |
+| 18 | [L'écart entre la formule et l'intention](<18 - L'ecart entre la formule et l'intention.md>) | psychologie | 943 |
+| 19 | [Désamorcer et écouter vraiment](<19 - Desamorcer et ecouter vraiment.md>) | pratique | 1 085 |
+| 20 | [Se poser des questions à soi-même : une histoire de l'introspection](<20 - Se poser des questions a soi-meme, une histoire de l'introspection.md>) | repères | 959 |
+| 21 | [Les questions qu'on évite, et ce qu'elles révèlent](<21 - Les questions qu'on evite, et ce qu'elles revelent.md>) | psychologie | 866 |
+| 22 | [Rumination ou introspection, et les âges des questions](<22 - Rumination ou introspection, et les ages des questions.md>) | pratique | 863 |
+| 23 | [Vrai développement personnel ou marketing bien-être ?](<23 - Vrai developpement personnel ou marketing bien-etre.md>) | repères | 917 |
 
-Total : 21 210 mots, 23 chapitres.
+Total : 21 187 mots, 23 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

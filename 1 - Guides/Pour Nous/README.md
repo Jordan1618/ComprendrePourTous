@@ -3,7 +3,7 @@ type: "guide"
 guide: "Pour Nous"
 sujet: "commun"
 chapitres: 11
-mots: 9907
+mots: 12285
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
@@ -24,19 +24,19 @@ Le guide distingue nettement ce qui **explique** un comportement de ce qui l'**e
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Ce qu'un trauma fait au corps](<01 - Ce qu un trauma fait au corps.md>) | physiologie | 817 |
-| 2 | [Hypervigilance et évitement : ce que ça donne à deux](<02 - Hypervigilance et evitement en couple.md>) | relation | 861 |
-| 3 | [Ce qui se répare vraiment : les prises en charge qui ont des preuves](<03 - Ce qui se repare vraiment.md>) | prévention | 951 |
-| 4 | [En parler à son partenaire : les formulations qui passent](<04 - En parler a son partenaire.md>) | relation | 926 |
-| 5 | [Décider et construire ensemble](<05 - Decider et construire ensemble.md>) | pratique | 935 |
-| 6 | [Traverser les crises et tenir dans la durée](<06 - Traverser les crises.md>) | relation | 949 |
-| 7 | [Le quotidien et sa charge](<07 - Le quotidien et sa charge.md>) | relation | 879 |
-| 8 | [Les projets de vie : enfant, lieu, travail](<08 - Les projets de vie.md>) | pratique | 907 |
-| 9 | [Faire face aux épreuves qui viennent de l'extérieur](<09 - Faire face aux epreuves.md>) | relation | 884 |
-| 10 | [Le deuil, seul et à deux](<10 - Le deuil.md>) | relation | 865 |
-| 11 | [Le couple à travers les âges et les civilisations](<11 - Le couple a travers les ages.md>) | repères | 933 |
+| 1 | [Ce qu'un trauma fait au corps](<01 - Ce qu un trauma fait au corps.md>) | physiologie | 989 |
+| 2 | [Hypervigilance et évitement : ce que ça donne à deux](<02 - Hypervigilance et evitement en couple.md>) | relation | 1 013 |
+| 3 | [Ce qui se répare vraiment : les prises en charge qui ont des preuves](<03 - Ce qui se repare vraiment.md>) | prévention | 1 153 |
+| 4 | [En parler à son partenaire : les formulations qui passent](<04 - En parler a son partenaire.md>) | relation | 1 136 |
+| 5 | [Décider et construire ensemble](<05 - Decider et construire ensemble.md>) | pratique | 1 109 |
+| 6 | [Traverser les crises et tenir dans la durée](<06 - Traverser les crises.md>) | relation | 1 154 |
+| 7 | [Le quotidien et sa charge](<07 - Le quotidien et sa charge.md>) | relation | 1 108 |
+| 8 | [Les projets de vie : enfant, lieu, travail](<08 - Les projets de vie.md>) | pratique | 1 130 |
+| 9 | [Faire face aux épreuves qui viennent de l'extérieur](<09 - Faire face aux epreuves.md>) | relation | 1 301 |
+| 10 | [Le deuil, seul et à deux](<10 - Le deuil.md>) | relation | 1 081 |
+| 11 | [Le couple à travers les âges et les civilisations](<11 - Le couple a travers les ages.md>) | repères | 1 111 |
 
-Total : 9 907 mots, 11 chapitres.
+Total : 12 285 mots, 11 chapitres.
 
 ## Par où commencer
 

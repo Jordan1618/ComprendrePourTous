@@ -3,7 +3,7 @@ type: "guide"
 guide: "La rencontre"
 sujet: "commun"
 chapitres: 9
-mots: 10075
+mots: 11856
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
@@ -26,17 +26,17 @@ Pour tout ce qui touche spécifiquement aux dérives relationnelles nées des ou
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Ce que le cerveau décide avant vous](<01 - Ce que le cerveau decide avant vous.md>) | physiologie | 1 416 |
-| 2 | [Les styles d'attachement : la grille qui explique le plus](<02 - Les styles d attachement.md>) | psychologie | 1 355 |
-| 3 | [Les biais qui font choisir de travers](<03 - Les biais qui font choisir de travers.md>) | psychologie | 1 435 |
-| 4 | [Où les gens se rencontrent vraiment](<04 - Ou les gens se rencontrent vraiment.md>) | repères | 904 |
-| 5 | [Les applications : la logique derrière l'écran](<05 - Les applications de rencontre.md>) | repères | 874 |
-| 6 | [Les premiers échanges : ce qui se joue vraiment](<06 - Les premiers echanges.md>) | relation | 1 052 |
-| 7 | [Les signaux d'alerte documentés](<07 - Les signaux d alerte documentes.md>) | prévention | 1 176 |
-| 8 | [Sécurité pratique et cadre légal](<08 - Securite et cadre legal.md>) | prévention | 947 |
-| 9 | [Mieux choisir : la synthèse actionnable](<09 - Mieux choisir la synthese.md>) | pratique | 916 |
+| 1 | [Ce que le cerveau décide avant vous](<01 - Ce que le cerveau decide avant vous.md>) | physiologie | 1 546 |
+| 2 | [Les styles d'attachement : la grille qui explique le plus](<02 - Les styles d attachement.md>) | psychologie | 1 549 |
+| 3 | [Les biais qui font choisir de travers](<03 - Les biais qui font choisir de travers.md>) | psychologie | 1 686 |
+| 4 | [Où les gens se rencontrent vraiment](<04 - Ou les gens se rencontrent vraiment.md>) | repères | 1 027 |
+| 5 | [Les applications : la logique derrière l'écran](<05 - Les applications de rencontre.md>) | repères | 1 110 |
+| 6 | [Les premiers échanges : ce qui se joue vraiment](<06 - Les premiers echanges.md>) | relation | 1 242 |
+| 7 | [Les signaux d'alerte documentés](<07 - Les signaux d alerte documentes.md>) | prévention | 1 385 |
+| 8 | [Sécurité pratique et cadre légal](<08 - Securite et cadre legal.md>) | prévention | 1 179 |
+| 9 | [Mieux choisir : la synthèse actionnable](<09 - Mieux choisir la synthese.md>) | pratique | 1 132 |
 
-Total : 10 075 mots, 9 chapitres.
+Total : 11 856 mots, 9 chapitres.
 
 ## Par où commencer
 

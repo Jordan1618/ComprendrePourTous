@@ -3,7 +3,7 @@ type: "guide"
 guide: "L'amour"
 sujet: "commun"
 chapitres: 9
-mots: 8900
+mots: 10119
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 ---
@@ -24,17 +24,17 @@ Le guide dit aussi ce qui n'est **pas** validé. Les langages de l'amour, par ex
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Ce que le cerveau appelle amour](<01 - Ce que le cerveau appelle amour.md>) | physiologie | 970 |
-| 2 | [Passion et attachement : deux temps, deux logiques](<02 - Passion et attachement.md>) | physiologie | 808 |
-| 3 | [Les types d'amour : ce que les Grecs avaient déjà démêlé](<03 - Les types d amour.md>) | repères | 1 940 |
-| 4 | [Pourquoi l'amour existe : l'angle évolutionniste](<04 - Pourquoi l amour existe.md>) | physiologie | 795 |
-| 5 | [Ce qu'on rejoue de son histoire](<05 - Ce qu on rejoue de son histoire.md>) | psychologie | 947 |
-| 6 | [L'amour romantique, une invention récente](<06 - L amour romantique une invention recente.md>) | repères | 844 |
-| 7 | [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<07 - Les langages de l amour.md>) | relation | 844 |
-| 8 | [Le désir dans la durée](<08 - Le desir dans la duree.md>) | relation | 890 |
-| 9 | [Ce que l'amour engage concrètement](<09 - Ce que l amour engage.md>) | pratique | 862 |
+| 1 | [Ce que le cerveau appelle amour](<01 - Ce que le cerveau appelle amour.md>) | physiologie | 1 117 |
+| 2 | [Passion et attachement : deux temps, deux logiques](<02 - Passion et attachement.md>) | physiologie | 921 |
+| 3 | [Les types d'amour : ce que les Grecs avaient déjà démêlé](<03 - Les types d amour.md>) | repères | 2 145 |
+| 4 | [Pourquoi l'amour existe : l'angle évolutionniste](<04 - Pourquoi l amour existe.md>) | physiologie | 906 |
+| 5 | [Ce qu'on rejoue de son histoire](<05 - Ce qu on rejoue de son histoire.md>) | psychologie | 1 110 |
+| 6 | [L'amour romantique, une invention récente](<06 - L amour romantique une invention recente.md>) | repères | 923 |
+| 7 | [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<07 - Les langages de l amour.md>) | relation | 954 |
+| 8 | [Le désir dans la durée](<08 - Le desir dans la duree.md>) | relation | 1 032 |
+| 9 | [Ce que l'amour engage concrètement](<09 - Ce que l amour engage.md>) | pratique | 1 011 |
 
-Total : 8 900 mots, 9 chapitres.
+Total : 10 119 mots, 9 chapitres.
 
 ## Par où commencer
 
