@@ -220,6 +220,40 @@ main { flex: 1; min-width: 0; padding: 2.4rem 2.5rem 5rem; }
 
 .hero-stats { font-size: .89rem; color: var(--faint); margin: 0; }
 
+/* ------------------------------------------------------------- mosaïque */
+
+.home-subhead {
+  font-family: var(--serif); font-size: 1.28rem; letter-spacing: -.01em;
+  margin: 0 0 1rem;
+}
+
+.guide-mosaic {
+  display: grid; gap: .85rem;
+  grid-template-columns: repeat(auto-fit, minmax(228px, 1fr));
+  margin: 0 0 2.6rem;
+}
+.guide-tile {
+  display: flex; flex-direction: column; gap: .55rem;
+  padding: 1.1rem 1.25rem;
+  border-radius: var(--radius);
+  text-decoration: none; color: var(--text);
+  background: hsl(var(--hue) 58% 93%);
+  border: 1px solid hsl(var(--hue) 45% 82%);
+  transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease;
+}
+.guide-tile:hover { transform: translateY(-3px); box-shadow: var(--shadow); color: var(--text); border-color: hsl(var(--hue) 55% 62%); }
+.guide-tile-top { display: flex; flex-direction: column; gap: .2rem; }
+.guide-tile-top strong { font-family: var(--serif); font-size: 1.1rem; letter-spacing: -.01em; color: var(--accent-ink); }
+.guide-tile-meta { font-size: .74rem; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.guide-tile-desc { font-size: .87rem; color: var(--text); opacity: .82; line-height: 1.42; }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .guide-tile { background: hsl(var(--hue) 38% 19%); border-color: hsl(var(--hue) 32% 30%); }
+  :root:not([data-theme="light"]) .guide-tile:hover { border-color: hsl(var(--hue) 45% 48%); }
+}
+:root[data-theme="dark"] .guide-tile { background: hsl(var(--hue) 38% 19%); border-color: hsl(var(--hue) 32% 30%); }
+:root[data-theme="dark"] .guide-tile:hover { border-color: hsl(var(--hue) 45% 48%); }
+
 /* ---------------------------------------------------------------- cards */
 
 .cards {

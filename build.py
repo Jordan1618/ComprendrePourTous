@@ -136,6 +136,7 @@ GUIDE_HUE = {
     "pour-nous": 196,
     "les-emotions": 48,
     "reseaux-sociaux": 100,
+    "les-nouvelles-compositions-familiales": 300,
 }
 
 # Illustrations : SVG en ligne, decoratifs, qui prennent la teinte de la
@@ -895,6 +896,8 @@ def meta_bar(page):
     if words > 200:
         bits.append('<span class="chip chip-ghost">%s mots</span>'
                     % "{:,}".format(words).replace(",", " "))
+        minutes = max(1, round(words / 200))
+        bits.append('<span class="chip chip-ghost">%d min de lecture</span>' % minutes)
     date = page.fm.get("verifie_le") or page.fm.get("mis_a_jour_le")
     if date:
         bits.append('<span class="chip chip-ghost">Vérifié le %s</span>'
@@ -998,6 +1001,20 @@ def render_home(home, pages, by_url, nav):
             % (sec.url, sec.hue, illo(sec.section), esc(sec.title),
                esc(sec.description), count, label))
 
+    guide_pages = sorted([p for p in pages if p.kind == "guide"], key=lambda p: p.weight)
+    guide_cards = []
+    for g in guide_pages:
+        n_chap = len(g.children)
+        n_words = sum(len(c.body.split()) for c in g.children)
+        desc = excerpt(g.html, 92) if g.html else ""
+        guide_cards.append(
+            '<a class="guide-tile" href="%s" style="--hue: %d">'
+            '<span class="guide-tile-top"><strong>%s</strong>'
+            '<span class="guide-tile-meta">%d ch. · %s mots</span></span>'
+            '<span class="guide-tile-desc">%s</span></a>'
+            % (g.url, g.hue, esc(g.title), n_chap,
+               "{:,}".format(n_words).replace(",", " "), esc(desc)))
+
     body = ['<div class="hero">']
     body.append("<h1>%s</h1>" % esc(SITE_TITLE))
     body.append('<p class="lead">%s</p>' % esc(TAGLINE))
@@ -1007,6 +1024,9 @@ def render_home(home, pages, by_url, nav):
     body.append('<p class="hero-stats">%d guides · %d chapitres · %s mots · sources datées</p>'
                 % (guides, chapters, "{:,}".format(words).replace(",", " ")))
     body.append("</div>")
+    body.append('<h2 class="home-subhead">Les guides, en un coup d\'œil</h2>')
+    body.append('<div class="guide-mosaic">%s</div>' % "".join(guide_cards))
+    body.append('<h2 class="home-subhead">Explorer autrement</h2>')
     body.append('<div class="cards">%s%s</div>' % ("".join(cards), top_pages_card()))
     body.append('<div class="prose home-prose">%s</div>' % home.html)
     body.append(source_link(home))
