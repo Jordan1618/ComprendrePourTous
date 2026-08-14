@@ -1006,7 +1006,8 @@ def render_home(home, pages, by_url, nav):
     for g in guide_pages:
         n_chap = len(g.children)
         n_words = sum(len(c.body.split()) for c in g.children)
-        desc = excerpt(g.html, 92) if g.html else ""
+        m = re.search(r"^\*\*(.+)\*\*\s*$", g.body or "", flags=re.MULTILINE)
+        desc = m.group(1).strip() if m else excerpt(g.html, 92)
         guide_cards.append(
             '<a class="guide-tile" href="%s" style="--hue: %d">'
             '<span class="guide-tile-top"><strong>%s</strong>'
