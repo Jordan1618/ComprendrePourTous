@@ -38,13 +38,14 @@ def asset_version(name):
 
 CSS_VERSION = asset_version("style.css")
 JS_VERSION = asset_version("app.js")
+FAVICON_VERSION = asset_version("favicon.svg")
 
 REPO = "https://github.com/Jordan1618/ComprendrePourTous"
 BLOB = REPO + "/blob/main"
 TREE = REPO + "/tree/main"
 
 DOMAIN = "www.comprendrepourtous.fr"
-SITE_TITLE = "Comprendre pour tous"
+SITE_TITLE = "Comprendre Pour Tous"
 TAGLINE = "Le corps, les émotions et la relation, expliqués pour de vrai."
 
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
@@ -733,7 +734,7 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
 <meta property="og:type" content="website">
 <meta property="og:url" content="%(canonical)s">
 <link rel="stylesheet" href="/assets/style.css?v=%(cssv)s">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>&#128218;</text></svg>">
+<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg?v=%(faviconv)s">
 <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
 %(extra_head)s
 </head>
@@ -784,6 +785,7 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
         "hue": hue,
         "cssv": CSS_VERSION,
         "jsv": JS_VERSION,
+        "faviconv": FAVICON_VERSION,
         "nav": nav,
         "body": body,
         "extra_head": extra_head,
@@ -981,6 +983,11 @@ def write(url, html):
 
 
 def excerpt(text, n=180):
+    # Le bandeau d'avertissement obligatoire ouvre le HTML de chaque guide
+    # (MAINTENANCE.md) : on l'ignore pour que les extraits (cartes, meta
+    # description, index de recherche) montrent le vrai debut du guide.
+    text = re.sub(r"^\s*<blockquote>.*?Un rep.re, pas une v.rit.*?</blockquote>",
+                  "", text, count=1, flags=re.S)
     text = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", text)).strip()
     return text[:n].rstrip() + ("…" if len(text) > n else "")
 
