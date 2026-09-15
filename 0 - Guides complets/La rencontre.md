@@ -3,11 +3,11 @@ type: "guide-complet"
 guide: "La rencontre"
 sujet: "commun"
 chapitres: 9
-mots: 11865
+mots: 11873
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/La rencontre"
-genere_le: 2026-08-14
+genere_le: 2026-09-15
 ---
 
 # La rencontre
@@ -593,7 +593,7 @@ Ce qui prédit **mal**, malgré la place que ça occupe : l'intensité du début
 
 ### 9.3 Le calendrier : quoi observer, et quand
 
-**Semaines 1 à 2.** Ne concluez rien. Tout le monde est présentable. Une seule chose à faire : passer à la voix et au réel vite, pour éviter l'idéalisation (3.6).
+**Semaines 1 à 2.** Ne concluez rien. Tout le monde est présentable. Une seule chose à faire : passer à la voix et au réel vite, pour éviter l'idéalisation ([3.6](<../1 - Guides/La rencontre/03 - Les biais qui font choisir de travers.md#3-6-l-idealisation-a-distance-plus-on-ecrit-plus-on-invente>)).
 
 **Semaines 3 à 6.** C'est la fenêtre la plus informative. Cherchez la première friction — elle arrivera seule, inutile de la provoquer. Un rendez-vous annulé, un désaccord, un retard. Observez la réponse, pas l'incident.
 

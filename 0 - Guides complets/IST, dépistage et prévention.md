@@ -3,11 +3,11 @@ type: "guide-complet"
 guide: "IST, dépistage et prévention"
 sujet: "commun"
 chapitres: 11
-mots: 8220
+mots: 8224
 verifie_le: 2026-08-13
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/IST, depistage et prevention"
-genere_le: 2026-08-14
+genere_le: 2026-09-15
 ---
 
 # IST, dépistage et prévention
@@ -165,7 +165,7 @@ Le fait le plus mal connu du grand public sur le VIH aujourd'hui (7 Français su
 
 Imagine la charge virale indétectable comme un feu qui a été si bien éteint qu'il ne reste plus une seule braise capable d'en rallumer un autre, même en contact direct, le "feu" existe toujours quelque part dans l'histoire de la personne, mais il n'y a plus rien qui puisse se propager.
 
-**Nuance importante** : le TasP protège uniquement du VIH, pas des autres IST, le préservatif garde son rôle pour tout le reste (voir 1.4).
+**Nuance importante** : le TasP protège uniquement du VIH, pas des autres IST, le préservatif garde son rôle pour tout le reste (voir [1.4](<../1 - Guides/IST, depistage et prevention/01 - Panorama et transmission.md#1-4-curable-ne-veut-pas-dire-anodin-incurable-ne-veut-pas-dire-grave-au-quotidien>)).
 
 ### 5.2 La PrEP : se protéger avant l'exposition
 
@@ -398,7 +398,7 @@ Le poids psychologique d'un diagnostic d'IST dépasse souvent largement sa gravi
 ### 11.5 La checklist de réduction des risques
 
 - Utiliser un préservatif (externe ou interne) pour tout rapport avec un·e partenaire dont le statut de dépistage n'est pas connu, y compris pour les rapports oraux et anaux.
-- Se faire dépister régulièrement selon son profil de risque (11.2), sans attendre un symptôme.
+- Se faire dépister régulièrement selon son profil de risque ([11.2](<#11-2-frequence-de-depistage-selon-le-profil-de-risque>)), sans attendre un symptôme.
 - Parler du dépistage avant d'arrêter le préservatif dans une relation qui devient exclusive (chapitre 8.1).
 - Traiter la contraception et la prévention des IST comme deux sujets distincts, jamais l'un à la place de l'autre (chapitre 9).
 - En cas de diagnostic, prévenir les partenaires récents, au besoin via une notification anonyme proposée par les centres de dépistage (chapitre 8.4).

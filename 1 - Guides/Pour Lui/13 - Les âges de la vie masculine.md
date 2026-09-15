@@ -22,7 +22,7 @@ Les fragilités typiques : [anxiété de performance](<../../2 - Notions/Anxiét
 
 Période de construction professionnelle intense, souvent d'installation en couple et d'arrivée des enfants. C'est aussi statistiquement la période où le réseau amical masculin commence à s'effondrer : les amitiés qui reposaient sur une proximité de contexte (études, colocation, sport) ne survivent pas au déménagement et à la charge.
 
-Le chiffre à retenir, du chapitre 14 : à ce moment-là, un homme sur deux environ voit sa partenaire devenir sa seule vraie confidente.
+Le chiffre à retenir, du chapitre 14 : à ce moment-là, un homme sur deux environ voit son ou sa partenaire devenir la seule personne à qui il se confie vraiment.
 
 Les fragilités typiques : surinvestissement professionnel, épuisement silencieux, perte des espaces de décompression, difficulté à demander de l'aide (règle 3), sentiment de ne plus s'appartenir. [Le rétrécissement du réseau amical masculin après les études est documenté dans la littérature sur les amitiés masculines](https://link.springer.com/article/10.1007/BF00287670) (Wright, « Men's friendships, women's friendships and the alleged inferiority of the former », *Sex Roles*, 1982 ; vérification du 7 août 2026).
 

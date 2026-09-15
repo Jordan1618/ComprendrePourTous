@@ -137,12 +137,12 @@ Un domaine transversal à toujours renforcer, dans n'importe quel guide : l'impo
 
 ## Chantiers ouverts
 
-1. **Finir la conversion des citations en hyperliens sur Pour Elle** (le seul guide encore au format ancien à cette date).
-2. **Revérification des chiffres.** Prioritaire avant toute diffusion large. Commencer par le guide IST, le plus exposé aux données périmées.
-3. **Dégenrer le guide sur la santé émotionnelle masculine.** Certains passages présupposent encore une lectrice en couple avec un homme.
-4. **Convertir les renvois internes** du type "voir 4.4" en liens cliquables. Plusieurs centaines, scriptable, à faire une fois le contenu stabilisé.
-5. **Étoffer les notions.** La liste s'est déjà allongée, mais chaque nouveau guide introduit des concepts (masculinité précaire, alliance thérapeutique, homogamie...) qui méritent d'être vérifiés contre `2 - Notions/` et complétés si absents.
-6. **Passe de nuance globale.** Relire les guides déjà terminés pour repérer les formulations encore trop absolues et les assouplir, à la manière de la correction faite dans Pour Nous (chapitre sur la belle-famille).
+1. **Revérification des chiffres.** Prioritaire avant toute diffusion large. Commencer par le guide IST, le plus exposé aux données périmées.
+2. **Étoffer les notions.** La liste s'est déjà allongée, mais chaque nouveau guide introduit des concepts (masculinité précaire, alliance thérapeutique, homogamie...) qui méritent d'être vérifiés contre `2 - Notions/` et complétés si absents.
+3. **Passe de nuance globale.** Relire les guides déjà terminés pour repérer les formulations encore trop absolues et les assouplir, à la manière de la correction faite dans Pour Nous (chapitre sur la belle-famille).
+4. **Étoffer les émotions positives dans le guide Les émotions.** Les 18 chapitres actuels penchent fortement vers les troubles, les tabous et les difficultés ; la joie, le plaisir et la gratitude n'ont pas de place dédiée.
+
+Fait depuis la dernière relecture de ce fichier (13 août 2026) : la conversion des citations de Pour Elle en hyperliens (plus aucun guide au format ancien), le dégenrage partiel de Pour Lui (accords féminins neutralisés dans les passages qui s'adressent à "toi" comme partenaire ; la structure "toi = partenaire" elle-même n'a pas été réécrite, choix assumé), et la conversion de tous les renvois internes du type "voir 4.4" en liens cliquables sur l'ensemble des guides.
 
 ## Licence
 

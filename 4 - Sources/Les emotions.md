@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Les émotions"
-mis_a_jour_le: 2026-08-07
+mis_a_jour_le: 2026-09-15
 licence: "CC BY 4.0"
 ---
 
@@ -76,6 +76,29 @@ Sources du guide [Les émotions](<../1 - Guides/Les emotions/README.md>), class�
 | Serretti, A. & Chiesa, A. (2009), [Treatment-emergent sexual dysfunction related to antidepressants](https://doi.org/10.1097/JCP.0b013e3181a5233f), *Journal of Clinical Psychopharmacology* | Effets sexuels des antidépresseurs | 7.3 |
 | Taylor, G., Bagby, R. & Parker, J. (1997), [Disorders of Affect Regulation](https://archive.org/details/disordersofaffec0000tayl), *Cambridge University Press* | Alexithymie, définition clinique | 2.5, 3.4 |
 | Verduyn, P. et coll. (2015), [Passive Facebook usage undermines affective well-being](https://doi.org/10.1037/xge0000057), *Journal of Experimental Psychology: General* | Usage passif des réseaux sociaux et bien-être | 6.4 |
+
+## Émotions positives
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Fredrickson, B. L. (2001), [The Role of Positive Emotions in Positive Psychology: The Broaden-and-Build Theory of Positive Emotions](https://pubmed.ncbi.nlm.nih.gov/11315248/), *American Psychologist* | Fonction des émotions positives, théorie de l'élargissement et de la construction | 19.1 |
+| Ryff, C. D. (1989), [Happiness Is Everything, or Is It? Explorations on the Meaning of Psychological Well-Being](https://psycnet.apa.org/record/1990-12288-001), *Journal of Personality and Social Psychology* | Distinction hédonie/eudaimonie | 19.2 |
+| Brickman, P., Coates, D. & Janoff-Bulman, R. (1978), [Lottery Winners and Accident Victims: Is Happiness Relative?](https://psycnet.apa.org/doiLanding?doi=10.1037%2F0022-3514.36.8.917), *Journal of Personality and Social Psychology* | Adaptation hédonique | 19.3 |
+| Lyubomirsky, S., Sheldon, K. M. & Schkade, D. (2005), [Pursuing Happiness: The Architecture of Sustainable Change](https://journals.sagepub.com/doi/10.1037/1089-2680.9.2.111), *Review of General Psychology* | Ce qui ralentit l'adaptation hédonique | 19.4 |
+| Emmons, R. A. & McCullough, M. E. (2003), [Counting Blessings Versus Burdens](https://pubmed.ncbi.nlm.nih.gov/12585811/), *Journal of Personality and Social Psychology* | Efficacité mesurée de la pratique de gratitude | 19.5 |
+| Synthèse sur la théorie et la recherche du savouring (2021), [Current Progress and Future Directions for Theory and Research on Savoring](https://pmc.ncbi.nlm.nih.gov/articles/PMC8712667/), revue de littérature | Mécanisme et techniques de savourer | 19.6 |
+| Keltner, D. & Haidt, J. (2003), [Approaching Awe, a Moral, Spiritual, and Aesthetic Emotion](https://www.tandfonline.com/doi/abs/10.1080/02699930302297), *Cognition and Emotion* | Mécanisme de l'émerveillement | 19.7 |
+| Held, B. S. (2002), [The Tyranny of the Positive Attitude in America](https://pubmed.ncbi.nlm.nih.gov/12209859/), *Journal of Clinical Psychology* | Critique de la positivité forcée | 19.8 |
+
+## Bonheur, sociétés et philosophies
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| World Happiness Report, [rapport annuel](https://www.worldhappiness.report/) | Méthode de comparaison internationale du bien-être | 20.1 |
+| Gouvernement du Bhoutan, [Gross National Happiness](https://www.mfa.gov.bt/rbedelhi/bhutan-at-glance/gross-national-happiness/) | Indice officiel du bonheur national brut | 20.2 |
+| OCDE, [Better Life Index](https://www.oecd.org/en/data/tools/oecd-better-life-index.html) | Indicateurs alternatifs au PIB | 20.3 |
+| Krasnova, H., Wenninger, H., Widjaja, T. & Buxmann, P. (2013), [Envy on Facebook: A Hidden Threat to Users' Life Satisfaction?](https://www.semanticscholar.org/paper/Envy-on-Facebook:-A-Hidden-Threat-to-Users'-Life-Krasnova-Wenninger/49d54fe906f52ad6f04527ab2347b855c19877b7), actes de conférence | Effet de la comparaison sociale sur les réseaux sociaux | 20.4 |
+| [Epicurus](https://plato.stanford.edu/entries/epicurus/), *Stanford Encyclopedia of Philosophy* | Philosophie épicurienne du plaisir modéré | 20.6 |
 
 ---
 

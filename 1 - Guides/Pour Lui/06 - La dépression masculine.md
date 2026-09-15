@@ -56,7 +56,7 @@ Ce passage n'est pas un avertissement de forme. C'est de l'information de sécur
 
 - **Poser la question directement.** "Est-ce que tu as des idées suicidaires ?" ou "est-ce que tu penses à en finir ?". C'est le point le plus important de ce chapitre. Poser la question n'induit pas l'idée, c'est une croyance fausse et documentée comme telle. Poser la question ouvre au contraire la seule porte disponible, et le soulagement est souvent immédiat.
 - **Ne pas argumenter, ne pas minimiser, ne pas culpabiliser.** Pas de "pense à tes enfants", qui ajoute de la honte à la détresse. Reste sur : je suis là, je ne te laisse pas, on va chercher de l'aide ensemble.
-- **Appeler le 3114**, numéro national de prévention du suicide, gratuit, 24 h/24 et 7 j/7, accessible aussi bien pour la personne concernée que pour un proche inquiet. Tu peux appeler toi-même pour être conseillée sur quoi faire.
+- **Appeler le 3114**, numéro national de prévention du suicide, gratuit, 24 h/24 et 7 j/7, accessible aussi bien pour la personne concernée que pour un proche inquiet. Tu peux appeler toi-même pour être conseillé sur quoi faire.
 - **En cas de danger immédiat, appeler le 15.** Un passage à l'acte imminent est une urgence médicale, pas une question de couple.
 - **Réduire l'accès aux moyens.** Si tu sais qu'il y a chez vous quelque chose de dangereux et accessible, éloigne-le, sans en faire un sujet de négociation.
 

@@ -87,7 +87,7 @@ Le signe qu'une remarque a touché la honte plutôt que la culpabilité : la ré
 
 **Bons réflexes.**
 
-- Sépare systématiquement le comportement de la personne. "Ce que tu as fait m'a blessée" et non "tu es quelqu'un qui blesse".
+- Sépare systématiquement le comportement de la personne. "Ce que tu as fait m'a blessé" et non "tu es quelqu'un qui blesse".
 - Sur les zones à vif connues (travail, argent, sexe), passe par la demande et jamais par le constat. "J'aimerais qu'on regarde le budget ensemble" plutôt que "tu ne gères pas".
 - Quand tu vois de la honte, ajoute explicitement la sortie. "Ça arrive à tout le monde, et ça ne change rien à ce que je pense de toi" n'est pas une politesse creuse, c'est la porte qu'il ne trouve pas seul.
 - Ne moque jamais, même gentiment, même devant des amis, sur une zone de honte. La blague publique sur un sujet sensible est ce qui abîme le plus durablement. [La distinction entre honte, qui porte sur l'identité, et culpabilité, qui porte sur un acte, est développée dans les travaux de la chercheuse Brené Brown sur la vulnérabilité](https://en.wikipedia.org/wiki/Daring_Greatly).
@@ -103,7 +103,7 @@ Il n'y a pas de manuel, mais il y a un règlement. La plupart des hommes l'ont i
 
 Ces règles ne sont pas des opinions qu'il aurait choisies. Ce sont des réflexes conditionnés, aussi automatiques que retirer sa main d'une plaque chaude. Un homme peut être parfaitement féministe, intellectuellement convaincu que ces règles sont absurdes, et les subir quand même dans son corps.
 
-**💑 Dans le couple.** La règle 2 explique pourquoi il propose des solutions quand tu veux juste être écoutée : dans son système, être utile est la façon d'aimer, et écouter sans agir revient à ne rien faire. La règle 3 explique pourquoi il ne consulte pas. La règle 4 explique des réactions apparemment absurdes face à ton ex, à ton collègue, ou à un ami qui réussit.
+**💑 Dans le couple.** La règle 2 explique pourquoi il propose des solutions quand tu veux juste être écouté : dans son système, être utile est la façon d'aimer, et écouter sans agir revient à ne rien faire. La règle 3 explique pourquoi il ne consulte pas. La règle 4 explique des réactions apparemment absurdes face à ton ex, à ton collègue, ou à un ami qui réussit.
 
 **Bons réflexes.**
 

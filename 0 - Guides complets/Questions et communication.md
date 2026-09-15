@@ -3,11 +3,11 @@ type: "guide-complet"
 guide: "Questions et communication"
 sujet: "commun"
 chapitres: 23
-mots: 21210
+mots: 21259
 verifie_le: 2026-08-14
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Questions et communication"
-genere_le: 2026-08-14
+genere_le: 2026-09-15
 ---
 
 # Questions et communication
@@ -276,7 +276,7 @@ Ces questions sont dangereuses au sens propre : elles peuvent ramener quelque ch
 
 **Deuxième condition.** Tu dois pouvoir encaisser la réponse sans te défendre. Si tu argumentes après, tu risques d'apprendre à l'autre que cette question était un piège, et il y a de bonnes chances qu'il ne réponde plus aussi honnêtement aux suivantes.
 
-**Troisième condition.** Tu dois avoir prévu quoi faire du silence qui suit. Voir 5.3.
+**Troisième condition.** Tu dois avoir prévu quoi faire du silence qui suit. Voir [5.3](<../1 - Guides/Questions et communication/05 - Les émotions en jeu.md#5-3-le-silence-apres-la-question>).
 
 ### 4.5 Les questions de bilan
 
@@ -422,7 +422,7 @@ La séquence qui marche : commencer par leur jeunesse, ce qui est un terrain neu
 
 **Bons réflexes.** Prévoir plusieurs conversations, pas une. Et si la réponse est courte ou évasive, ne pas conclure au refus. Beaucoup de gens ont besoin de plusieurs jours pour formuler une réponse à une question qu'on ne leur avait jamais posée, et il arrive qu'ils y reviennent d'eux-mêmes des semaines plus tard.
 
-**Les quatre configurations.** Père-fils, père-fille, mère-fils, mère-fille ne partent pas du même point. Un père parle plus souvent par le faire que par le dire, ce qui rend le côte à côte (6.2) presque obligatoire plutôt qu'optionnel avec lui. Une mère a plus souvent les mots, mais aussi plus souvent le réflexe de protéger en taisant, ce qui demande d'insister une fois de plus sans forcer. Avec un fils, la difficulté vient fréquemment d'un silence transmis d'une génération à l'autre, qu'il faut nommer sans reproche. Avec une fille, le rôle qui lui est confié par défaut est souvent celui d'aller chercher l'information que personne n'offre spontanément, un rôle qu'il vaut mieux alléger que renforcer en posant soi-même la question en premier.
+**Les quatre configurations.** Père-fils, père-fille, mère-fils, mère-fille ne partent pas du même point. Un père parle plus souvent par le faire que par le dire, ce qui rend le côte à côte ([6.2](<../1 - Guides/Questions et communication/06 - Le cadre.md#6-2-le-cote-a-cote>)) presque obligatoire plutôt qu'optionnel avec lui. Une mère a plus souvent les mots, mais aussi plus souvent le réflexe de protéger en taisant, ce qui demande d'insister une fois de plus sans forcer. Avec un fils, la difficulté vient fréquemment d'un silence transmis d'une génération à l'autre, qu'il faut nommer sans reproche. Avec une fille, le rôle qui lui est confié par défaut est souvent celui d'aller chercher l'information que personne n'offre spontanément, un rôle qu'il vaut mieux alléger que renforcer en posant soi-même la question en premier.
 
 ### 7.2 Les gens qu'on connaît depuis longtemps
 
@@ -454,7 +454,7 @@ Ce n'est pas de la gentillesse, c'est de l'évitement de son propre malaise. Le 
 
 Deuxième réflexe, presque aussi fréquent. Quelqu'un raconte quelque chose, et on enchaîne avec moi c'est pareil, moi aussi j'ai vécu ça.
 
-L'intention est bonne, l'effet est de reprendre le micro. Il existe un moment pour la réciprocité, elle est même nécessaire (voir 4.7), mais elle vient après, pas immédiatement. La règle est simple : laisser l'autre finir complètement, poser au moins une question de suivi, et seulement ensuite éventuellement donner ta version. [Basculer prématurément la conversation sur soi est perçu comme un manque de réceptivité, même quand l'intention est de créer du lien par la ressemblance](https://pubmed.ncbi.nlm.nih.gov/28447835/) (Huang, Yeomans, Brooks, Minson & Gino, *Journal of Personality and Social Psychology*, 2017 ; vérification du 8 août 2026).
+L'intention est bonne, l'effet est de reprendre le micro. Il existe un moment pour la réciprocité, elle est même nécessaire (voir [4.7](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md#4-7-sur-les-36-questions-d-aron>)), mais elle vient après, pas immédiatement. La règle est simple : laisser l'autre finir complètement, poser au moins une question de suivi, et seulement ensuite éventuellement donner ta version. [Basculer prématurément la conversation sur soi est perçu comme un manque de réceptivité, même quand l'intention est de créer du lien par la ressemblance](https://pubmed.ncbi.nlm.nih.gov/28447835/) (Huang, Yeomans, Brooks, Minson & Gino, *Journal of Personality and Social Psychology*, 2017 ; vérification du 8 août 2026).
 
 ### 8.3 Ne pas conseiller
 
@@ -1001,7 +1001,7 @@ Quand vient le moment d'y répondre, la structure compte davantage que la sincé
 
 - Mécanisme de la suppression de pensée et effet sur la perception biaisée d'autrui (projection défensive) : Newman, Duff & Baumeister, *Journal of Personality and Social Psychology*, 1997. https://pubmed.ncbi.nlm.nih.gov/9150580/ (vérification du 13 août 2026).
 
-Aucune source vérifiable supplémentaire n'a été identifiée pour les critères comportementaux précis de repérage d'une question évitée (21.3) au-delà du cadre clinique général : ce point reste une observation de bon sens plutôt qu'un résultat statistique établi, il est présenté comme tel dans le texte.
+Aucune source vérifiable supplémentaire n'a été identifiée pour les critères comportementaux précis de repérage d'une question évitée ([21.3](<#21-3-reperer-une-question-qu-on-evite>)) au-delà du cadre clinique général : ce point reste une observation de bon sens plutôt qu'un résultat statistique établi, il est présenté comme tel dans le texte.
 
 ---
 
@@ -1067,7 +1067,7 @@ La suite de la recherche a apporté une nuance importante à ce premier constat,
 
 À côté de ces effets réels mais modestes, une partie de l'offre commerciale du bien-être n'a tout simplement jamais été testée. La proportion de livres et de programmes de développement personnel qui font l'objet d'une évaluation scientifique publiée reste très faible, ce qui n'empêche pas une large partie d'entre eux d'afficher des promesses de résultats précis et rapides.
 
-[Une revue sur l'efficacité des livres de développement personnel a souligné que moins de 1 % d'entre eux ont fait l'objet d'un test empirique, alors même qu'une majorité de thérapeutes en recommandent régulièrement à leurs patients, ce qui crée un écart entre l'usage réel, souvent utile en pratique clinique encadrée, et la validation scientifique du contenu pris isolément](https://link.springer.com/article/10.1007/s10902-006-9041-2) (revue de la littérature sur l'auto-assistance publiée dans le *Journal of Happiness Studies* ; vérification du 13 août 2026). Un signal simple pour repérer le marketing pur : une promesse de transformation totale, une méthode présentée comme fonctionnant pour tout le monde de la même façon, et l'absence de toute mention des limites ou des cas où ça ne marche pas. Le développement personnel qui tient la route, à l'inverse, admet ses propres limites, précise pour qui et dans quelles conditions un effet a été observé, et ne prétend jamais remplacer un accompagnement professionnel quand la difficulté dépasse le cadre d'un exercice d'introspection.
+[Une revue sur l'efficacité des livres de développement personnel a souligné que moins de 1 % d'entre eux ont fait l'objet d'un test empirique, alors même qu'une majorité de thérapeutes en recommandent régulièrement à leurs patients, ce qui crée un écart entre l'usage réel, souvent utile en pratique clinique encadrée, et la validation scientifique du contenu pris isolément](https://link.springer.com/article/10.1007/s10902-006-9041-2) (revue de la littérature sur l'auto-assistance publiée dans le *Journal of Happiness Studies* ; vérification du 13 août 2026). Un signal simple pour repérer le marketing pur : une promesse de transformation totale, une méthode présentée comme fonctionnant pour tout le monde de la même façon, et l'absence de toute mention des limites ou des cas où ça ne marche pas. Le développement personnel qui tient la route, à l'inverse, admet ses propres limites, précise pour qui et dans quelles conditions un effet a été observé, et ne prétend jamais remplacer un accompagnement professionnel quand la difficulté dépasse le cadre d'un exercice d'introspection. Le guide sur les [émotions positives](<../1 - Guides/Les emotions/19 - Les emotions positives.md#19-8-le-piege-de-la-positivite-forcee>) documente le revers spécifique de cette injonction : la positivité imposée comme substitut à une émotion négative légitime plutôt que comme un ajout.
 
 ### 23.4 Une synthèse sans cynisme ni leçon de morale
 

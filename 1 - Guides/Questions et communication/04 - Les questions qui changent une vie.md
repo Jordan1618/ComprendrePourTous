@@ -60,7 +60,7 @@ Ces questions sont dangereuses au sens propre : elles peuvent ramener quelque ch
 
 **Deuxième condition.** Tu dois pouvoir encaisser la réponse sans te défendre. Si tu argumentes après, tu risques d'apprendre à l'autre que cette question était un piège, et il y a de bonnes chances qu'il ne réponde plus aussi honnêtement aux suivantes.
 
-**Troisième condition.** Tu dois avoir prévu quoi faire du silence qui suit. Voir 5.3.
+**Troisième condition.** Tu dois avoir prévu quoi faire du silence qui suit. Voir [5.3](<05 - Les émotions en jeu.md#5-3-le-silence-apres-la-question>).
 
 ### 4.5 Les questions de bilan
 

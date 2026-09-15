@@ -13,28 +13,28 @@ licence: "CC BY 4.0"
 ### 30.1 Les dix idées à retenir
 
 1. La différence n'est pas dans le ressenti, elle est dans le circuit de sortie.
-2. "Je ne sais pas" est souvent une information exacte, pas une esquive ([alexithymie](<../../2 - Notions/Alexithymie.md>), 4.1).
-3. L'émotion arrive avec un délai. Repose la question trois jours plus tard (4.2).
-4. Sous la colère, cherche la honte, la peur ou l'impuissance (4.3).
-5. La honte porte sur ce qu'il est, la culpabilité sur ce qu'il a fait. Vise toujours la seconde (4.4).
-6. La dépression masculine ressemble à de l'irritabilité, de l'hyperactivité et de l'alcool, pas à de la tristesse (6.2).
-7. Poser la question du suicide directement n'induit rien et ouvre tout. Le 3114 existe (6.4).
-8. Il parle mieux côte à côte, les mains occupées, sans annonce préalable (4.7).
-9. Tu es peut-être sa seule confidente. Ce n'est pas tenable, pour lui comme pour toi (14.3).
-10. Comprendre n'est pas porter, et certaines choses ne sont jamais de la maladresse émotionnelle (19.4). [Ce condensé reprend les références détaillées dans les chapitres correspondants, en particulier sur l'alexithymie masculine normative](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
+2. "Je ne sais pas" est souvent une information exacte, pas une esquive ([alexithymie](<../../2 - Notions/Alexithymie.md>), [4.1](<04 - L'architecture émotionnelle.md#4-1-l-alexithymie-ou-le-daltonisme-emotionnel>)).
+3. L'émotion arrive avec un délai. Repose la question trois jours plus tard ([4.2](<04 - L'architecture émotionnelle.md#4-2-le-decalage-temporel-ou-le-tonnerre-apres-l-eclair>)).
+4. Sous la colère, cherche la honte, la peur ou l'impuissance ([4.3](<04 - L'architecture émotionnelle.md#4-3-la-colere-comme-emotion-parapluie>)).
+5. La honte porte sur ce qu'il est, la culpabilité sur ce qu'il a fait. Vise toujours la seconde ([4.4](<04 - L'architecture émotionnelle.md#4-4-honte-et-culpabilite-la-tache-et-l-acte>)).
+6. La dépression masculine ressemble à de l'irritabilité, de l'hyperactivité et de l'alcool, pas à de la tristesse ([6.2](<06 - La dépression masculine.md#6-2-le-tableau-atypique-symptome-par-symptome>)).
+7. Poser la question du suicide directement n'induit rien et ouvre tout. Le 3114 existe ([6.4](<06 - La dépression masculine.md#6-4-bis-ce-qui-fonctionne-une-fois-la-porte-ouverte>)).
+8. Il parle mieux côte à côte, les mains occupées, sans annonce préalable ([4.7](<04 - L'architecture émotionnelle.md#4-7-cote-a-cote-plutot-que-face-a-face>)).
+9. Tu es peut-être son seul confident. Ce n'est pas tenable, pour lui comme pour toi ([14.3](<14 - Le désert relationnel.md#14-3-bis-ce-qui-fonctionne-concretement-ailleurs-et-pourrait-fonctionner-ici>)).
+10. Comprendre n'est pas porter, et certaines choses ne sont jamais de la maladresse émotionnelle ([19.4](<19 - Les limites.md#19-4-les-vraies-alarmes-quand-ce-n-est-plus-de-la-sante-emotionnelle>)). [Ce condensé reprend les références détaillées dans les chapitres correspondants, en particulier sur l'alexithymie masculine normative](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7) (Levant, « Toward the reconstruction of masculinity », *Journal of Family Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 30.1 bis Les dix idées ajoutées en version 2
 
-1. La biologie ne produit pas les comportements masculins, elle produit des pentes légères que la socialisation transforme en autoroutes (3.2).
-2. L'alexithymie masculine est normative, pas pathologique : c'est un état par défaut produit par une éducation, pas un trouble (3.3).
-3. Le carré du blocage : pas de mots, pas de droit, pas de lieu, pas de modèle. Retirer un seul des quatre ouvre le système (3.7).
-4. Le statut est l'organisateur central : d'où l'utilité conditionnelle, la difficulté à recevoir, et l'envie interdite entre hommes (3.5).
-5. La double injonction contemporaine produit de la paralysie, pas de la révolte, et c'est la porte d'entrée du ressentiment (3.6 et 18.3).
-6. Un reproche récurrent est presque toujours vrai dans le constat et faux dans l'attribution de cause (17).
-7. Affirmer n'est pas agresser, et se taire n'est pas respecter. La confusion des deux paralyse une génération (18.2).
-8. Valider la souffrance et valider l'explication sont deux opérations distinctes. Confondre les deux est l'erreur centrale face au ressentiment (18.3).
-9. Ce qui fait tomber un homme amoureux, en premier : être vu correctement, et ne pas être regardé différemment après avoir été vu en difficulté (12.4).
-10. La qualité d'une relation dépend beaucoup moins de qui est le partenaire que de ce qui s'installe entre les deux. Chercher la bonne personne est moins efficace que construire les bonnes dynamiques (12.6). [Ce second condensé reprend les références détaillées dans les chapitres ajoutés sur le substrat socio-neuro-psychologique et les profils masculins](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
+1. La biologie ne produit pas les comportements masculins, elle produit des pentes légères que la socialisation transforme en autoroutes ([3.2](<03 - Le substrat socio-neuro-psychologique.md#3-2-ce-que-la-neurobiologie-dit-vraiment>)).
+2. L'alexithymie masculine est normative, pas pathologique : c'est un état par défaut produit par une éducation, pas un trouble ([3.3](<03 - Le substrat socio-neuro-psychologique.md#3-3-la-socialisation-comment-on-fabrique-un-homme>)).
+3. Le carré du blocage : pas de mots, pas de droit, pas de lieu, pas de modèle. Retirer un seul des quatre ouvre le système ([3.7](<03 - Le substrat socio-neuro-psychologique.md#3-7-le-carre-du-blocage>)).
+4. Le statut est l'organisateur central : d'où l'utilité conditionnelle, la difficulté à recevoir, et l'envie interdite entre hommes ([3.5](<03 - Le substrat socio-neuro-psychologique.md#3-5-le-statut-comme-organisateur-central>)).
+5. La double injonction contemporaine produit de la paralysie, pas de la révolte, et c'est la porte d'entrée du ressentiment ([3.6](<03 - Le substrat socio-neuro-psychologique.md#3-6-la-double-injonction-contemporaine>) et [18.3](<18 - Le dilemme masculin contemporain.md#18-3-la-bascule-dans-le-ressentiment>)).
+6. Un reproche récurrent est presque toujours vrai dans le constat et faux dans l'attribution de cause ([chapitre 17](<17 - Les reproches récurrents.md>)).
+7. Affirmer n'est pas agresser, et se taire n'est pas respecter. La confusion des deux paralyse une génération ([18.2](<18 - Le dilemme masculin contemporain.md#18-2-le-paradoxe-de-celui-qui-a-bien-ecoute>)).
+8. Valider la souffrance et valider l'explication sont deux opérations distinctes. Confondre les deux est l'erreur centrale face au ressentiment ([18.3](<18 - Le dilemme masculin contemporain.md#18-3-la-bascule-dans-le-ressentiment>)).
+9. Ce qui fait tomber un homme amoureux, en premier : être vu correctement, et ne pas être regardé différemment après avoir été vu en difficulté ([12.4](<12 - Le désir dans la durée.md#12-4-ce-qui-fait-tomber-un-homme-amoureux>)).
+10. La qualité d'une relation dépend beaucoup moins de qui est le partenaire que de ce qui s'installe entre les deux. Chercher la bonne personne est moins efficace que construire les bonnes dynamiques ([12.6](<12 - Le désir dans la durée.md#12-6-ce-qui-le-fait-rester-ce-qui-le-fait-partir>)). [Ce second condensé reprend les références détaillées dans les chapitres ajoutés sur le substrat socio-neuro-psychologique et les profils masculins](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ### 30.2 Les numéros
 

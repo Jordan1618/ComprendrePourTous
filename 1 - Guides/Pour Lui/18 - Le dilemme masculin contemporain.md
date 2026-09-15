@@ -65,7 +65,7 @@ Douze corrections, applicables des deux côtés. Ce sont les affirmations qui, q
 
 1. **Le déficit d'expression masculin n'est pas une différence de sensibilité.** Le ressenti est équivalent, c'est la sortie qui est bouchée.
 2. **Ce n'est pas naturel, donc c'est modifiable.** Un homme de quarante ans peut apprendre à nommer ce qu'il ressent. Ça prend des mois, pas des années.
-3. **Comprendre un mécanisme n'excuse pas le comportement.** Voir 19.1. C'est une explication, jamais une dispense.
+3. **Comprendre un mécanisme n'excuse pas le comportement.** Voir [19.1](<19 - Les limites.md#19-1-comprendre-n-est-pas-excuser>). C'est une explication, jamais une dispense.
 4. **La partenaire n'est pas responsable de la santé émotionnelle de son compagnon.** Elle peut aider, elle ne peut pas faire à sa place, et elle n'a pas à s'y épuiser.
 5. **Un homme n'est pas un projet.** Si la relation repose sur l'idée qu'il changera, ce n'est pas une relation, c'est un pari.
 6. **Affirmer n'est pas agresser, et se taire n'est pas respecter.** La confusion des deux paralyse une génération entière.

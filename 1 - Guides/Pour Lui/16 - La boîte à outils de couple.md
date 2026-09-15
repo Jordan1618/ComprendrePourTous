@@ -29,7 +29,7 @@ Ce qui se passe de son côté : il ne trouve plus ses mots, il sait qu'il va dir
 
 ### 16.2 Le reproche et la demande
 
-Le reproche porte sur le passé et sur la personne. La demande porte sur le futur et sur le comportement. Le premier atterrit systématiquement en zone de honte (4.4) et déclenche la défense. Le second est actionnable.
+Le reproche porte sur le passé et sur la personne. La demande porte sur le futur et sur le comportement. Le premier atterrit systématiquement en zone de honte ([4.4](<04 - L'architecture émotionnelle.md#4-4-honte-et-culpabilite-la-tache-et-l-acte>)) et déclenche la défense. Le second est actionnable.
 
 Comparaison directe :
 
@@ -39,13 +39,13 @@ Comparaison directe :
 
 La structure qui fonctionne le mieux, dans l'ordre : le fait observable, ce que ça te fait, la demande concrète. Trois phrases, pas plus. Ce n'est pas de la technique de communication creuse, c'est la seule forme qui ne déclenche pas la défense automatique.
 
-Une précision importante : ce n'est pas à toi de porter seule cet effort de formulation. Un couple où une seule personne fait le travail de traduction est un couple déséquilibré. Le chapitre 19 y revient. [La façon dont un reproche est formulé prédit davantage la réaction de l'autre que son contenu, un résultat observé sur de nombreux couples](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
+Une précision importante : ce n'est pas à toi de porter seul cet effort de formulation. Un couple où une seule personne fait le travail de traduction est un couple déséquilibré. Le chapitre 19 y revient. [La façon dont un reproche est formulé prédit davantage la réaction de l'autre que son contenu, un résultat observé sur de nombreux couples](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
 ### 16.3 Les questions qui ouvrent, et celles qui ferment
 
 **Ferment presque toujours :**
 
-- "Qu'est-ce que tu ressens ?" (voir 4.1)
+- "Qu'est-ce que tu ressens ?" (voir [4.1](<04 - L'architecture émotionnelle.md#4-1-l-alexithymie-ou-le-daltonisme-emotionnel>))
 - "Pourquoi tu as fait ça ?" Le pourquoi appelle une justification, donc une défense.
 - "Il faut qu'on parle." Huit heures d'anxiété avant la conversation.
 - "Ça va ? Tu es sûr ? Vraiment sûr ?" L'insistance triple ferme définitivement.
@@ -64,12 +64,12 @@ Une précision importante : ce n'est pas à toi de porter seule cet effort de fo
 
 Un tableau de traduction complémentaire de celui du 4.8, orienté couple. À manier avec prudence : ce sont des hypothèses de travail, pas des certitudes.
 
-- **Il propose des solutions alors que tu voulais être écoutée.** Traduction probable : c'est ma façon de te montrer que je tiens à toi. Réponse utile : nommer le mode voulu à l'avance.
-- **Il se met en colère pour un détail domestique.** Traduction probable : le réservoir est plein (4.6), le détail n'a aucun rapport.
-- **Il devient silencieux au milieu d'une dispute.** Traduction probable : disjoncteur (16.1), pas mépris.
+- **Il propose des solutions alors que tu voulais être écouté.** Traduction probable : c'est ma façon de te montrer que je tiens à toi. Réponse utile : nommer le mode voulu à l'avance.
+- **Il se met en colère pour un détail domestique.** Traduction probable : le réservoir est plein ([4.6](<04 - L'architecture émotionnelle.md#4-6-le-reservoir-pourquoi-il-deborde-d-un-coup>)), le détail n'a aucun rapport.
+- **Il devient silencieux au milieu d'une dispute.** Traduction probable : disjoncteur ([16.1](<#16-1-le-retrait-ou-pourquoi-il-se-fige-au-pire-moment>)), pas mépris.
 - **Il refuse d'aller chez le médecin.** Traduction probable : règle 3 du code viril, ou peur du diagnostic, et cette peur est rarement avouée.
-- **Il travaille tard alors que rien ne l'y oblige.** Traduction probable : évitement (6.2), ou reconstruction d'un sentiment d'utilité mis à mal ailleurs.
-- **Il minimise un événement grave.** Traduction probable : décalage temporel (4.2). Repose la question dans trois jours.
+- **Il travaille tard alors que rien ne l'y oblige.** Traduction probable : évitement ([6.2](<06 - La dépression masculine.md#6-2-le-tableau-atypique-symptome-par-symptome>)), ou reconstruction d'un sentiment d'utilité mis à mal ailleurs.
+- **Il minimise un événement grave.** Traduction probable : décalage temporel ([4.2](<04 - L'architecture émotionnelle.md#4-2-le-decalage-temporel-ou-le-tonnerre-apres-l-eclair>)). Repose la question dans trois jours.
 - **Il s'énerve quand tu l'aides.** Traduction probable : l'aide non demandée est reçue comme un constat d'incompétence.
 - **Il dit "fais comme tu veux" sur tout depuis un mois.** Traduction probable : épuisement décisionnel, souvent un signe précoce de 6.2. [Ce décodage reprend la distinction entre émotion primaire et émotion secondaire de la thérapie centrée sur l'émotion](https://www.abebooks.com/9781572302433/Working-Emotions-Psychotherapy-Greenberg-Leslie-1572302437/plp) (Greenberg & Paivio, *Working with Emotions in Psychotherapy*, Guilford Press, 1997 ; vérification du 7 août 2026).
 
@@ -101,7 +101,7 @@ La dernière est spécifiquement l'antidote de la honte, et c'est probablement l
 
 Un dernier outil, précis et directement actionnable, mérite de conclure ce chapitre. [Six éléments contribuent à l'efficacité d'une excuse, tous n'ayant pas le même poids : la reconnaissance de responsabilité — dire clairement que c'est sa faute et qu'une erreur a été commise — est l'élément le plus important, suivi d'une offre concrète de réparation](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/). [L'expression de regret et l'explication de ce qui s'est mal passé arrivent juste derrière, et l'élément le moins efficace de tous est, à l'inverse, la demande explicite de pardon](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/).
 
-Ce que ça donne, concrètement, à la place d'un « désolé » vague qui referme le sujet sans rien réparer : « j'ai eu tort de dire ça, je vois que ça t'a blessée, et la prochaine fois je vais faire différemment — voilà comment. » Une phrase courte, mais qui réunit à elle seule les trois éléments les plus déterminants identifiés par cette recherche.
+Ce que ça donne, concrètement, à la place d'un « désolé » vague qui referme le sujet sans rien réparer : « j'ai eu tort de dire ça, je vois que ça t'a blessé, et la prochaine fois je vais faire différemment — voilà comment. » Une phrase courte, mais qui réunit à elle seule les trois éléments les plus déterminants identifiés par cette recherche.
 
 **Bons réflexes.**
 - Commencer toujours par la reconnaissance de responsabilité, avant toute explication ou justification qui pourrait diluer l'excuse.

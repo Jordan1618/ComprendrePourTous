@@ -39,7 +39,7 @@ Les trois conditions ensemble produisent le désengagement. Une ou deux seulemen
 Sept raisons, très différentes les unes des autres, souvent confondues par l'entourage.
 
 1. **L'épuisement de la recherche.** Ce n'est pas un renoncement à l'amour, c'est un abandon du dispositif. Il n'en peut plus des applications, des échanges qui n'aboutissent pas, de l'effort permanent sans résultat. La lassitude face à la rencontre en ligne concerne 49 % des célibataires et 61 % des utilisateurs réguliers d'applications (étude Ipsos / Dating Lab 2025 ; vérification du 31 juillet 2026). C'est la raison la plus fréquente et la plus réversible.
-2. **La peur, déguisée en préférence.** "Je suis très bien seul" est parfois vrai et parfois une rationalisation d'un attachement évitant (6.4).
+2. **La peur, déguisée en préférence.** "Je suis très bien seul" est parfois vrai et parfois une rationalisation d'un attachement évitant ([6.4](<06 - La dépression masculine.md#6-4-bis-ce-qui-fonctionne-une-fois-la-porte-ouverte>)).
 3. **Le deuil non fait.** Une rupture ancienne jamais traitée, souvent parce qu'elle n'a jamais été verbalisée nulle part (chapitre 14).
 4. **Le coût perçu.** Divorce parental traumatique, entourage qui a mal divorcé, peur des conséquences matérielles et de la séparation d'avec les enfants.
 5. **Le confort.** Une vie solo bien organisée est réellement agréable, et l'inertie fait le reste. C'est la raison la plus banale et la moins dramatique.
@@ -56,8 +56,8 @@ Il faut distinguer nettement l'attirance initiale, qui est rapide, superficielle
 
 **Les huit facteurs qui reviennent le plus.**
 
-1. **Être vu correctement.** Le premier de la liste, et de loin. Quelqu'un qui remarque ce qu'il n'a pas dit, qui identifie un état qu'il n'a pas nommé, qui comprend un silence. Pour un homme qui a passé vingt ans à masquer (6.3), l'expérience d'être lu sans avoir eu à parler est bouleversante et rarement vécue ailleurs.
-2. **La sécurité en cas de faiblesse.** Le moment décisif de beaucoup de relations n'est pas un moment de séduction, c'est la première fois qu'il est vu en difficulté et que la personne ne change pas de regard. Voir 5.2. C'est le facteur le plus déterminant, et le moins contrôlable, parce qu'il dépend d'une occasion.
+1. **Être vu correctement.** Le premier de la liste, et de loin. Quelqu'un qui remarque ce qu'il n'a pas dit, qui identifie un état qu'il n'a pas nommé, qui comprend un silence. Pour un homme qui a passé vingt ans à masquer ([6.3](<06 - La dépression masculine.md#6-3-le-facteur-declenchant-typique>)), l'expérience d'être lu sans avoir eu à parler est bouleversante et rarement vécue ailleurs.
+2. **La sécurité en cas de faiblesse.** Le moment décisif de beaucoup de relations n'est pas un moment de séduction, c'est la première fois qu'il est vu en difficulté et que la personne ne change pas de regard. Voir [5.2](<05 - Les grands profils masculins.md#5-2-le-stoique>). C'est le facteur le plus déterminant, et le moins contrôlable, parce qu'il dépend d'une occasion.
 3. **L'admiration réciproque.** Pas de l'admiration à sens unique, qui flatte trois semaines et pèse ensuite. Le fait de trouver l'autre remarquable sur un terrain qui n'est pas le sien.
 4. **La constance.** Un comportement prévisible, une personne qui ne disparaît pas, qui ne teste pas, qui ne punit pas par le silence. Sur un profil évitant, c'est le seul levier qui fonctionne.
 5. **Le désir manifesté.** Être désiré explicitement compte énormément et est très rarement dit aux hommes. Beaucoup traversent des relations entières sans jamais avoir entendu qu'ils étaient désirables.

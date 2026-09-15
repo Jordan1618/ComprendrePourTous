@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sujet"
-mis_a_jour_le: 2026-08-14
+mis_a_jour_le: 2026-09-15
 licence: "CC BY 4.0"
 ---
 
@@ -138,6 +138,16 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Les troubles psychiques : des repères, pas un diagnostic](<../1 - Guides/Les emotions/08 - Les troubles psychiques.md>)  `prévention`
 - [Envisager un parcours de soin, seul ou à deux](<../1 - Guides/Les emotions/09 - Envisager un parcours de soin.md>)  `pratique`
 - [Les tabous à démonter](<../1 - Guides/Les emotions/10 - Les tabous a demonter.md>)  `relation`
+- [Une histoire des émotions, des stoïciens aux neurosciences affectives](<../1 - Guides/Les emotions/11 - Une histoire des emotions.md>)  `histoire`
+- [Les émotions à travers les cultures](<../1 - Guides/Les emotions/12 - Les emotions a travers les cultures.md>)  `culture`
+- [Ce que l'art, la musique et le cinéma font à nos émotions](<../1 - Guides/Les emotions/13 - L art la musique et le cinema.md>)  `culture`
+- [Le travail émotionnel : ce que ça coûte de sourire au travail](<../1 - Guides/Les emotions/14 - Le travail emotionnel.md>)  `travail`
+- [Émotions collectives : foule, contagion, indignation numérique](<../1 - Guides/Les emotions/15 - Emotions collectives.md>)  `relation`
+- [Les émotions de l'argent, du pouvoir et de la politique](<../1 - Guides/Les emotions/16 - Emotions argent pouvoir et politique.md>)  `société`
+- [L'éco-anxiété et les émotions des grandes transitions](<../1 - Guides/Les emotions/17 - L eco-anxiete.md>)  `environnement`
+- [Émotions, corps et performance](<../1 - Guides/Les emotions/18 - Emotions corps et performance.md>)  `sport`
+- [Les émotions positives : joie, plaisir et gratitude](<../1 - Guides/Les emotions/19 - Les emotions positives.md>)  `psychologie`
+- [Le bonheur à travers les sociétés et les philosophies](<../1 - Guides/Les emotions/20 - Le bonheur a travers les societes.md>)  `culture`
 **IST, dépistage et prévention**
 
 - [Comprendre les IST : panorama et transmission](<../1 - Guides/IST, depistage et prevention/01 - Panorama et transmission.md>)  `prévention`

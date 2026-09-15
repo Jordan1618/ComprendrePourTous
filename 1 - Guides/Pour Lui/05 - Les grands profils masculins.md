@@ -183,7 +183,7 @@ Dans sa tête à lui : « je n'ai jamais ressenti ça aussi fort, ça doit être
 
 **Ce qui le casse.** Le fait de recommencer à espérer, puis d'être déçu à nouveau. La deuxième déception coûte beaucoup plus cher que la première.
 
-**Vigilance en couple.** Il teste, souvent sans le savoir. Le piège est de prendre le test pour la personne. Le second piège, symétrique, est de rester indéfiniment à essayer de prouver quelque chose à quelqu'un qui a besoin d'être déçu pour avoir raison. Voir 19.2. [Ce profil rejoint le style d'attachement évitant décrit dans la même littérature](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change).
+**Vigilance en couple.** Il teste, souvent sans le savoir. Le piège est de prendre le test pour la personne. Le second piège, symétrique, est de rester indéfiniment à essayer de prouver quelque chose à quelqu'un qui a besoin d'être déçu pour avoir raison. Voir [19.2](<19 - Les limites.md#19-2-la-charge-de-traduction>). [Ce profil rejoint le style d'attachement évitant décrit dans la même littérature](https://www.researchgate.net/publication/225775660_Mario_Mikulincer_Phillip_R_Shaver_Attachment_in_Adulthood_Structure_Dynamics_and_Change).
 
 **Bons réflexes.**
 - Tenir une parole donnée sur un point mineur, de façon répétée, plutôt que de chercher à convaincre par le discours.

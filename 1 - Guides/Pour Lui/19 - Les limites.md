@@ -24,7 +24,7 @@ Une façon concrète de tenir cette ligne au quotidien : se poser la question "e
 
 Il y a un travail invisible qui consiste à décoder en permanence quelqu'un qui ne s'exprime pas, à anticiper ses états, à choisir le moment, à formuler autrement, à surveiller les signaux. Ce travail a un coût réel, cognitif et émotionnel, et il est presque toujours porté par les femmes dans les couples hétérosexuels.
 
-Ce guide t'aide à le faire mieux. Il ne dit pas que tu dois le faire seule et indéfiniment. Un homme adulte est responsable de développer son propre vocabulaire émotionnel. Tu peux ouvrir la porte, tu ne peux pas franchir le seuil à sa place.
+Ce guide t'aide à le faire mieux. Il ne dit pas que tu dois le faire seul et indéfiniment. Un homme adulte est responsable de développer son propre vocabulaire émotionnel. Tu peux ouvrir la porte, tu ne peux pas franchir le seuil à sa place.
 
 Les signes que tu es allée trop loin dans ce rôle :
 
@@ -57,7 +57,7 @@ Ce chapitre a surtout parlé de charge, de déséquilibre et de limites à poser
 
 Trois situations où l'intervention professionnelle n'est pas une option parmi d'autres :
 
-- **Les idées suicidaires**, même formulées de manière détournée. Voir 6.4. Ce n'est pas à toi de gérer ça seule, et essayer de le faire est dangereux pour vous deux.
+- **Les idées suicidaires**, même formulées de manière détournée. Voir [6.4](<06 - La dépression masculine.md#6-4-bis-ce-qui-fonctionne-une-fois-la-porte-ouverte>). Ce n'est pas à toi de gérer ça seul, et essayer de le faire est dangereux pour vous deux.
 - **Une addiction installée.** Aucune volonté de partenaire n'a jamais soigné une addiction. Ton rôle possible est de ne pas la faciliter, pas de la traiter.
 - **Un trouble psychiatrique caractérisé** : dépression sévère, trouble bipolaire, psychose, trouble anxieux invalidant. Ces choses se soignent, bien, et pas à la maison. [Le glissement vers un rôle de soignant, et son coût, suivent le modèle du stress de l'aidant décrit dans la littérature sur le fardeau du proche aidant](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 

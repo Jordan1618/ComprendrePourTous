@@ -3,11 +3,11 @@ type: "guide-complet"
 guide: "Réseaux sociaux"
 sujet: "commun"
 chapitres: 10
-mots: 14524
+mots: 14559
 verifie_le: 2026-08-13
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Reseaux sociaux"
-genere_le: 2026-08-14
+genere_le: 2026-09-15
 ---
 
 # Réseaux sociaux
@@ -264,7 +264,7 @@ Ce cas est spectaculaire, mais le mécanisme qu'il illustre est ordinaire et per
 
 La théorie de la comparaison sociale, formulée en 1954 par le psychologue Leon Festinger, part d'une observation simple : en l'absence de repère objectif pour évaluer ses propres capacités ou opinions, on se compare aux autres. [Festinger distingue la comparaison vers le bas, qui rassure, de la comparaison vers le haut, qui peut motiver ou, selon le degré perçu d'atteignabilité de l'écart, déprimer](https://thedecisionlab.com/reference-guide/psychology/social-comparison-theory) (Festinger, "A Theory of Social Comparison Processes", *Human Relations*, 1954 ; vérification du 13 août 2026).
 
-Ce que les réseaux sociaux changent n'est pas le mécanisme mais son échelle et sa sélectivité : au lieu de se comparer à quelques dizaines de personnes réellement côtoyées, on se compare en continu à des centaines de profils soigneusement choisis pour leur version la plus flatteuse, ce qui déplace presque systématiquement la comparaison vers le haut. La fréquence et l'intensité de cette comparaison augmentent dans des proportions que Festinger, en 1954, n'avait aucun moyen d'anticiper.
+Ce que les réseaux sociaux changent n'est pas le mécanisme mais son échelle et sa sélectivité : au lieu de se comparer à quelques dizaines de personnes réellement côtoyées, on se compare en continu à des centaines de profils soigneusement choisis pour leur version la plus flatteuse, ce qui déplace presque systématiquement la comparaison vers le haut. La fréquence et l'intensité de cette comparaison augmentent dans des proportions que Festinger, en 1954, n'avait aucun moyen d'anticiper. Le guide sur les [émotions](<../1 - Guides/Les emotions/20 - Le bonheur a travers les societes.md#20-4-joie-affichee-joie-vecue-ce-que-les-reseaux-sociaux-changent>) documente précisément cet effet sur la satisfaction de vie déclarée.
 
 ### 5.2 La présentation sélective : un "highlight reel" pris pour une moyenne
 
@@ -400,7 +400,7 @@ Le signal d'alerte le plus fiable n'est pas l'intensité en elle-même, mais sa 
 
 ### 7.6 Un dénominateur commun : la friction retirée, des deux côtés
 
-Les cinq comportements de ce chapitre partagent une racine structurelle commune, déjà annoncée au chapitre 6 (voir 6.6) : les canaux numériques suppriment la friction qui, dans une interaction en face à face, obligeait à assumer directement l'effet de ses propres choix relationnels sur l'autre. Ghoster quelqu'un en personne demande de supporter sa réaction immédiate ; ghoster par écrit ne demande rien de tel. Entretenir plusieurs intérêts en parallèle (cushioning) était matériellement plus coûteux à organiser avant la messagerie instantanée. Le love bombing lui-même profite de la vitesse d'écriture, qui permet d'envoyer en quelques minutes des déclarations qu'il aurait fallu, hors ligne, formuler en face de quelqu'un.
+Les cinq comportements de ce chapitre partagent une racine structurelle commune, déjà annoncée au chapitre 6 (voir [6.6](<../1 - Guides/Reseaux sociaux/06 - Ce que ca change dans le couple et les liens reels.md#6-6-l-evitement-de-la-friction-sociale-rompre-refuser-desaccorder-sans-jamais-l-exprimer-en-direct>)) : les canaux numériques suppriment la friction qui, dans une interaction en face à face, obligeait à assumer directement l'effet de ses propres choix relationnels sur l'autre. Ghoster quelqu'un en personne demande de supporter sa réaction immédiate ; ghoster par écrit ne demande rien de tel. Entretenir plusieurs intérêts en parallèle (cushioning) était matériellement plus coûteux à organiser avant la messagerie instantanée. Le love bombing lui-même profite de la vitesse d'écriture, qui permet d'envoyer en quelques minutes des déclarations qu'il aurait fallu, hors ligne, formuler en face de quelqu'un.
 
 Cette lecture structurelle ne dédouane personne : elle explique pourquoi ces comportements se sont banalisés à cette échelle précise, sans les présenter comme une fatalité technologique inévitable. La friction retirée facilite le passage à l'acte, elle ne le rend pas obligatoire.
 
@@ -466,7 +466,7 @@ En France, le harcèlement moral, y compris exercé en ligne, est sanctionné pa
 
 Au-delà de la sanction du harcèlement, une partie du droit récent cherche à agir en amont, sur l'accès lui-même. [La loi n° 2023-566 du 7 juillet 2023 instaure en France une majorité numérique fixée à 15 ans : en dessous de cet âge, l'inscription sur un réseau social nécessite l'autorisation d'un parent ou titulaire de l'autorité parentale, avec une application progressive prévue pour les nouveaux comptes à partir de septembre 2026 et pour les comptes existants à partir de janvier 2027, sous réserve de dispositifs de vérification d'âge respectueux de la vie privée](https://www.economie.gouv.fr/daj/lettre-de-la-daj-la-loi-ndeg2023-566-du-7-juillet-2023-cree-une-majorite-numerique-fixee-15-ans) (Ministère de l'Économie, Lettre de la DAJ sur la loi n° 2023-566 du 7 juillet 2023 ; vérification du 13 août 2026). Ce seuil de 15 ans est nettement plus élevé que l'âge minimal de 13 ans fixé par la plupart des plateformes dans leurs conditions d'utilisation, aligné sur la loi américaine de référence en matière de protection des mineurs en ligne (COPPA).
 
-Cette loi illustre une tension pratique difficile à résoudre : vérifier l'âge d'un utilisateur de façon fiable suppose de collecter une preuve d'identité, ce qui entre potentiellement en friction avec les principes de minimisation des données du RGPD (8.4). Le texte français prévoit explicitement que les dispositifs de vérification devront respecter la vie privée, sans que la solution technique fasse encore consensus au moment de la rédaction de ce chapitre.
+Cette loi illustre une tension pratique difficile à résoudre : vérifier l'âge d'un utilisateur de façon fiable suppose de collecter une preuve d'identité, ce qui entre potentiellement en friction avec les principes de minimisation des données du RGPD ([8.4](<#8-4-le-rgpd-le-cadre-europeen-de-protection-des-donnees-personnelles>)). Le texte français prévoit explicitement que les dispositifs de vérification devront respecter la vie privée, sans que la solution technique fasse encore consensus au moment de la rédaction de ce chapitre.
 
 **Nuance nécessaire.** Un cadre légal solide ne se traduit pas automatiquement par une application effective : le dépôt de plainte, la caractérisation juridique des faits et l'identification de l'auteur en cas d'anonymat restent des obstacles réels pour une victime, en particulier mineure. La loi fixe un cadre de sanction, elle ne remplace pas l'accompagnement humain nécessaire dans les cas concrets.
 

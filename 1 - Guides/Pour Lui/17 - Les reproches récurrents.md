@@ -18,7 +18,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est vrai.** Le déficit d'expression verbale est réel, mesurable, et il a des conséquences lourdes sur la relation. Ce n'est pas une invention.
 
-**Ce qui est faux.** Que ce soit un choix, une rétention volontaire, ou un manque d'intérêt pour toi. C'est un déficit d'outillage (4.1) doublé d'un interdit appris (3.3).
+**Ce qui est faux.** Que ce soit un choix, une rétention volontaire, ou un manque d'intérêt pour toi. C'est un déficit d'outillage ([4.1](<04 - L'architecture émotionnelle.md#4-1-l-alexithymie-ou-le-daltonisme-emotionnel>)) doublé d'un interdit appris ([3.3](<03 - Le substrat socio-neuro-psychologique.md#3-3-la-socialisation-comment-on-fabrique-un-homme>)).
 
 **La mécanique.** Pas de mots, pas de droit, pas de lieu, pas de modèle. Le carré du 3.7.
 
@@ -42,7 +42,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est vrai.** La fréquence de la demande peut être réellement plus élevée, et l'insistance existe.
 
-**Ce qui est faux.** L'interprétation. Voir 11.1 : la demande sexuelle masculine est très souvent une demande composite, où le sexe est le canal et pas le contenu. Un homme qui insiste après une dispute ne cherche pas une performance, il cherche à vérifier que le lien est intact.
+**Ce qui est faux.** L'interprétation. Voir [11.1](<11 - La sexualité comme langage émotionnel.md#11-1-pourquoi-le-sexe-porte-autant-de-charge>) : la demande sexuelle masculine est très souvent une demande composite, où le sexe est le canal et pas le contenu. Un homme qui insiste après une dispute ne cherche pas une performance, il cherche à vérifier que le lien est intact.
 
 **La mécanique.** La prise multiple du 11.1. Un seul canal pour six besoins.
 
@@ -54,7 +54,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est vrai.** Il existe un décalage moyen dans l'acquisition de certaines compétences relationnelles, essentiellement parce qu'elles ont été moins enseignées et moins exigées.
 
-**Ce qui est faux.** Le mot lui-même, qui est un jugement global et pas une description. "Immature" ne désigne rien de précis et fonctionne exactement comme une attaque d'identité, donc en zone de honte (4.4). Il produit de la fermeture, à peu près systématiquement.
+**Ce qui est faux.** Le mot lui-même, qui est un jugement global et pas une description. "Immature" ne désigne rien de précis et fonctionne exactement comme une attaque d'identité, donc en zone de honte ([4.4](<04 - L'architecture émotionnelle.md#4-4-honte-et-culpabilite-la-tache-et-l-acte>)). Il produit de la fermeture, à peu près systématiquement.
 
 **La mécanique.** Ce qu'on appelle immaturité recouvre en réalité trois choses différentes : l'évitement du conflit, l'incapacité à se projeter, et la difficulté à supporter la frustration. Elles ont trois causes différentes et trois traitements différents.
 
@@ -66,11 +66,11 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** Que ce soit toujours de la peur de la fidélité ou du désir de garder des options. Dans une part importante des cas, c'est de la peur de mal faire : peur d'échouer dans un rôle qu'il ne se sent pas capable de tenir, peur de reproduire ce qu'il a vu chez ses parents, peur de la responsabilité financière et matérielle.
 
-**La mécanique.** Attachement évitant (3.4) chez certains, paralysie de la double injonction (3.6) chez d'autres, et parfois simplement l'absence de tout modèle de couple qui fonctionne dans son entourage.
+**La mécanique.** Attachement évitant ([3.4](<03 - Le substrat socio-neuro-psychologique.md#3-4-l-attachement-version-masculine>)) chez certains, paralysie de la double injonction ([3.6](<03 - Le substrat socio-neuro-psychologique.md#3-6-la-double-injonction-contemporaine>)) chez d'autres, et parfois simplement l'absence de tout modèle de couple qui fonctionne dans son entourage.
 
 **La reformulation.** Passer du "où on va" au concret et au borné. "Est-ce que tu te vois vivre avec moi dans un an, oui ou non" obtient une réponse. "Tu ne veux pas t'engager" obtient une justification.
 
-**Ce qui reste de sa responsabilité.** Le flou entretenu. Un homme qui ne sait pas peut le dire, et une non-réponse répétée sur des années est une réponse. Voir 5.7. [La fuite de l'engagement recoupe le style d'attachement évitant décrit dans la littérature sur l'attachement adulte](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+**Ce qui reste de sa responsabilité.** Le flou entretenu. Un homme qui ne sait pas peut le dire, et une non-réponse répétée sur des années est une réponse. Voir [5.7](<05 - Les grands profils masculins.md#5-7-l-affame-de-contact>). [La fuite de l'engagement recoupe le style d'attachement évitant décrit dans la littérature sur l'attachement adulte](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
 ### 17.6 "Il ne sait pas s'occuper de lui"
 
@@ -88,7 +88,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est faux.** L'idée qu'il s'en fiche. Les freins identifiés sont le coût, la peur du regard, et le manque d'information. Ajoute la règle 3 du code viril, et le fait que la démarche entière est un obstacle quand l'énergie est basse.
 
-**La reformulation.** Voir 6.5. Le contournement par le généraliste et le corps fonctionne dans une majorité de cas. L'attaque frontale ne fonctionne presque jamais. [Le moindre recours à la consultation médicale et psychologique suit le même mécanisme documenté](https://scispace.com/pdf/men-masculinity-and-the-contexts-of-help-seeking-39yqubxun4.pdf) (Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
+**La reformulation.** Voir [6.5](<06 - La dépression masculine.md#6-5-comment-ouvrir-la-porte-sans-la-forcer>). Le contournement par le généraliste et le corps fonctionne dans une majorité de cas. L'attaque frontale ne fonctionne presque jamais. [Le moindre recours à la consultation médicale et psychologique suit le même mécanisme documenté](https://scispace.com/pdf/men-masculinity-and-the-contexts-of-help-seeking-39yqubxun4.pdf) (Addis & Mahalik, « Men, masculinity, and the contexts of help seeking », *American Psychologist*, 2003 ; vérification du 7 août 2026).
 
 ### 17.8 "Il ne prend l'initiative que quand ça l'arrange"
 
@@ -100,11 +100,11 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 ### 17.9 "Il ne s'excuse jamais vraiment"
 
-**Ce qui est vrai.** Les excuses masculines sont souvent partielles, différées, ou remplacées par un geste (voir 15.3).
+**Ce qui est vrai.** Les excuses masculines sont souvent partielles, différées, ou remplacées par un geste (voir [15.3](<15 - Les conflits entre hommes.md#15-3-pourquoi-ils-se-reconcilient-sans-parler>)).
 
 **Ce qui est faux.** Qu'il ne regrette pas. L'excuse explicite est un aveu d'infériorité momentanée dans le classement du 3.5, et c'est ce qui coûte, pas le fait de reconnaître le tort.
 
-**La mécanique.** Honte contre culpabilité (4.4). Une excuse pour un acte est faisable, une excuse qui implique d'être quelqu'un de mauvais est refusée en bloc.
+**La mécanique.** Honte contre culpabilité ([4.4](<04 - L'architecture émotionnelle.md#4-4-honte-et-culpabilite-la-tache-et-l-acte>)). Une excuse pour un acte est faisable, une excuse qui implique d'être quelqu'un de mauvais est refusée en bloc.
 
 **La reformulation.** Demander une excuse pour un fait précis et pas une reconnaissance globale. "J'aimerais que tu me dises que tu regrettes de m'avoir coupé la parole devant tout le monde" est obtenable. "J'aimerais que tu reconnaisses que tu me manques de respect" ne l'est pas, même si c'est plus vrai. [La difficulté à reconnaître un tort sans le justifier est cohérente avec la précarité de la masculinité, qui rend un aveu d'erreur coûteux](https://www.apa.org/pubs/journals/features/men-a0029826.pdf) (Vandello & Bosson, « Hard won and easily lost », *Psychology of Men & Masculinity*, 2013 ; vérification du 7 août 2026).
 
@@ -120,7 +120,7 @@ Le principe de lecture : un reproche récurrent est presque toujours vrai dans l
 
 **Ce qui est vrai.** Le besoin de reconnaissance est fort, et sa forme est parfois lourde.
 
-**Ce qui est faux.** Qu'il s'agisse d'ego. C'est l'inverse : un homme dont la valeur intérieure est conditionnelle (3.5) a besoin d'une confirmation extérieure permanente, précisément parce qu'il n'a pas de réserve interne.
+**Ce qui est faux.** Qu'il s'agisse d'ego. C'est l'inverse : un homme dont la valeur intérieure est conditionnelle ([3.5](<03 - Le substrat socio-neuro-psychologique.md#3-5-le-statut-comme-organisateur-central>)) a besoin d'une confirmation extérieure permanente, précisément parce qu'il n'a pas de réserve interne.
 
 **La reformulation.** Donner de la reconnaissance spontanément, spécifiquement, et surtout hors des moments de réussite. Une reconnaissance qui n'arrive qu'après une performance renforce le système. Une reconnaissance donnée un jour où il n'a rien fait de particulier le déstabilise, puis le change. [Le besoin de validation par le statut est documenté dans la littérature sur les hiérarchies masculines](https://www2.psych.ubc.ca/~henrich/pdfs/Cheng%20et%20al.%20(2013)%20-%20Two%20Ways%20to%20the%20Top.pdf) (Cheng, Tracy, Foulsham, Kingstone & Henrich, « Two ways to the top », *Journal of Personality and Social Psychology*, 2013 ; vérification du 7 août 2026).
 
@@ -140,6 +140,6 @@ Ceux-là ne circulent jamais dans les conversations de couple, et ils pèsent po
 - **"Tu te laisses aller."** Physique, ambition, statut.
 - **"Tu as disparu."** Adressé à celui qui privilégie son couple, avec un fond réel de perte d'ami.
 - **"Tu n'as pas su tenir."** Adressé après une rupture, souvent implicitement.
-- **"Tu es trop gentil."** Voir 18.2.
+- **"Tu es trop gentil."** Voir [18.2](<18 - Le dilemme masculin contemporain.md#18-2-le-paradoxe-de-celui-qui-a-bien-ecoute>).
 
 Savoir que ces phrases existent aide à comprendre certaines réactions de repli. Un homme qui vient de passer une soirée avec ses amis peut rentrer avec une vision du couple nettement plus sombre qu'en partant, sans qu'aucun événement ne se soit produit. [Les reproches que les hommes se font entre eux recoupent les mêmes normes de masculinité mesurées par les instruments de recherche sur le sujet](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).

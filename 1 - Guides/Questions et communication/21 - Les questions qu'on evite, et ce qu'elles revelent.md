@@ -40,4 +40,4 @@ Quand vient le moment d'y répondre, la structure compte davantage que la sincé
 
 - Mécanisme de la suppression de pensée et effet sur la perception biaisée d'autrui (projection défensive) : Newman, Duff & Baumeister, *Journal of Personality and Social Psychology*, 1997. https://pubmed.ncbi.nlm.nih.gov/9150580/ (vérification du 13 août 2026).
 
-Aucune source vérifiable supplémentaire n'a été identifiée pour les critères comportementaux précis de repérage d'une question évitée (21.3) au-delà du cadre clinique général : ce point reste une observation de bon sens plutôt qu'un résultat statistique établi, il est présenté comme tel dans le texte.
+Aucune source vérifiable supplémentaire n'a été identifiée pour les critères comportementaux précis de repérage d'une question évitée ([21.3](<#21-3-reperer-une-question-qu-on-evite>)) au-delà du cadre clinique général : ce point reste une observation de bon sens plutôt qu'un résultat statistique établi, il est présenté comme tel dans le texte.

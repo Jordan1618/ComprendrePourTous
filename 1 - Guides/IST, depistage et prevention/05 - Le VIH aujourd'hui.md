@@ -16,7 +16,7 @@ Le fait le plus mal connu du grand public sur le VIH aujourd'hui (7 Français su
 
 Imagine la charge virale indétectable comme un feu qui a été si bien éteint qu'il ne reste plus une seule braise capable d'en rallumer un autre, même en contact direct, le "feu" existe toujours quelque part dans l'histoire de la personne, mais il n'y a plus rien qui puisse se propager.
 
-**Nuance importante** : le TasP protège uniquement du VIH, pas des autres IST, le préservatif garde son rôle pour tout le reste (voir 1.4).
+**Nuance importante** : le TasP protège uniquement du VIH, pas des autres IST, le préservatif garde son rôle pour tout le reste (voir [1.4](<01 - Panorama et transmission.md#1-4-curable-ne-veut-pas-dire-anodin-incurable-ne-veut-pas-dire-grave-au-quotidien>)).
 
 ### 5.2 La PrEP : se protéger avant l'exposition
 

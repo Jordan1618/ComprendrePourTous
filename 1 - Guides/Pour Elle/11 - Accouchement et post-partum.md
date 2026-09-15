@@ -28,7 +28,7 @@ La **[dépression du post-partum](<../../2 - Notions/Dépression du post-partum.
 - Poser la question directement et régulièrement, sans attendre qu'elle vienne "avouer" qu'elle ne va pas bien : "comment tu te sens, vraiment, pas juste en surface ?"
 - Si elle évoque des pensées effrayantes ou intrusives, ne pas paniquer ni la juger, ces pensées, aussi terrifiantes soient-elles à entendre, sont un symptôme fréquent de la DPP et ne prédisent presque jamais un passage à l'acte ; elles doivent en revanche être rapportées à un professionnel rapidement.
 - Si des idées suicidaires sont évoquées, même de façon détournée, ne jamais minimiser ni attendre : contacter le médecin traitant, la sage-femme, ou en urgence le 15 (SAMU) ou le 3114 (numéro national de prévention du suicide) est la bonne réaction immédiate.
-- Se renseigner soi-même, en amont de la naissance si possible, sur les signes de la DPP et de la psychose du post-partum (voir 11.3) permet d'être capable de les repérer même si elle-même n'a pas les mots ce jour-là.
+- Se renseigner soi-même, en amont de la naissance si possible, sur les signes de la DPP et de la psychose du post-partum (voir [11.3](<#11-3-psychose-du-post-partum>)) permet d'être capable de les repérer même si elle-même n'a pas les mots ce jour-là.
 
 ### 11.2 Anxiété du post-partum
 

@@ -70,3 +70,13 @@ Fait le 8 août 2026 : les neuf guides ont désormais chacun un chapitre « Sour
 
 - Vérifier après chaque ajout que les notions récentes sont citées par les guides anciens (voir `MAINTENANCE.md`).
 - `comprendrepourtous.fr` sans `www` : bascule DNS chez OVH vers les 4 A de GitHub Pages pour obtenir le HTTPS sur le domaine nu et débloquer « Enforce HTTPS ».
+
+## 5. Idées de guides ou de chapitres — recherche non occidentale
+
+Repéré en discutant du biais culturel des sources (majoritairement anglophones/occidentales) : quelques angles où une littérature de recherche non occidentale existe réellement et mérite un chapitre ou un guide dédié, plutôt qu'une refonte générale de tous les guides existants.
+
+- Le hikikomori (retrait social prolongé) au Japon : littérature psychiatrique japonaise spécifique, distincte de l'isolement social occidental.
+- La charge mentale et la pression parentale liées à la politique de l'enfant unique en Chine : recherche chinoise sur la génération concernée, aujourd'hui adulte.
+- Les mariages arrangés et le couple en Inde : recherche indienne sur la satisfaction conjugale et la négociation familiale, à comparer aux modèles occidentaux de choix du partenaire déjà traités dans « La rencontre ».
+
+À traiter comme un chantier ciblé, sujet par sujet (traduction et vérification des sources demandent un vrai travail, pas un simple changement de mots-clés de recherche), pas comme une priorité immédiate.

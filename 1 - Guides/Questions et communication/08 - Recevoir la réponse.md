@@ -22,7 +22,7 @@ Ce n'est pas de la gentillesse, c'est de l'évitement de son propre malaise. Le 
 
 Deuxième réflexe, presque aussi fréquent. Quelqu'un raconte quelque chose, et on enchaîne avec moi c'est pareil, moi aussi j'ai vécu ça.
 
-L'intention est bonne, l'effet est de reprendre le micro. Il existe un moment pour la réciprocité, elle est même nécessaire (voir 4.7), mais elle vient après, pas immédiatement. La règle est simple : laisser l'autre finir complètement, poser au moins une question de suivi, et seulement ensuite éventuellement donner ta version. [Basculer prématurément la conversation sur soi est perçu comme un manque de réceptivité, même quand l'intention est de créer du lien par la ressemblance](https://pubmed.ncbi.nlm.nih.gov/28447835/) (Huang, Yeomans, Brooks, Minson & Gino, *Journal of Personality and Social Psychology*, 2017 ; vérification du 8 août 2026).
+L'intention est bonne, l'effet est de reprendre le micro. Il existe un moment pour la réciprocité, elle est même nécessaire (voir [4.7](<04 - Les questions qui changent une vie.md#4-7-sur-les-36-questions-d-aron>)), mais elle vient après, pas immédiatement. La règle est simple : laisser l'autre finir complètement, poser au moins une question de suivi, et seulement ensuite éventuellement donner ta version. [Basculer prématurément la conversation sur soi est perçu comme un manque de réceptivité, même quand l'intention est de créer du lien par la ressemblance](https://pubmed.ncbi.nlm.nih.gov/28447835/) (Huang, Yeomans, Brooks, Minson & Gino, *Journal of Personality and Social Psychology*, 2017 ; vérification du 8 août 2026).
 
 ### 8.3 Ne pas conseiller
 

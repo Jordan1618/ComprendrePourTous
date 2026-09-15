@@ -46,7 +46,7 @@ Le poids psychologique d'un diagnostic d'IST dépasse souvent largement sa gravi
 ### 11.5 La checklist de réduction des risques
 
 - Utiliser un préservatif (externe ou interne) pour tout rapport avec un·e partenaire dont le statut de dépistage n'est pas connu, y compris pour les rapports oraux et anaux.
-- Se faire dépister régulièrement selon son profil de risque (11.2), sans attendre un symptôme.
+- Se faire dépister régulièrement selon son profil de risque ([11.2](<#11-2-frequence-de-depistage-selon-le-profil-de-risque>)), sans attendre un symptôme.
 - Parler du dépistage avant d'arrêter le préservatif dans une relation qui devient exclusive (chapitre 8.1).
 - Traiter la contraception et la prévention des IST comme deux sujets distincts, jamais l'un à la place de l'autre (chapitre 9).
 - En cas de diagnostic, prévenir les partenaires récents, au besoin via une notification anonyme proposée par les centres de dépistage (chapitre 8.4).

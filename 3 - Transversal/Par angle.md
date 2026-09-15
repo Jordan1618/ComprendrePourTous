@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "angle"
-mis_a_jour_le: 2026-08-14
+mis_a_jour_le: 2026-09-15
 licence: "CC BY 4.0"
 ---
 
@@ -53,6 +53,7 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [Ce qu'on rejoue de son histoire](<../1 - Guides/L amour/05 - Ce qu on rejoue de son histoire.md>)  `commun` · L'amour
 - [D'où viennent les émotions : famille, société, institutions](<../1 - Guides/Les emotions/02 - D ou viennent les emotions.md>)  `commun` · Les émotions
 - [Reconnaître et nommer : la granularité émotionnelle](<../1 - Guides/Les emotions/03 - Reconnaitre et nommer.md>)  `commun` · Les émotions
+- [Les émotions positives : joie, plaisir et gratitude](<../1 - Guides/Les emotions/19 - Les emotions positives.md>)  `commun` · Les émotions
 - [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `commun` · Questions et communication
 - [Les émotions en jeu](<../1 - Guides/Questions et communication/05 - Les émotions en jeu.md>)  `commun` · Questions et communication
 - [Communiquer pour se développer, soi-même et les autres](<../1 - Guides/Questions et communication/11 - Communiquer pour se developper, soi-meme et les autres.md>)  `commun` · Questions et communication
@@ -131,6 +132,7 @@ Ce que ça change concrètement quand on est deux.
 - [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/07 - Les langages de l amour.md>)  `commun` · L'amour
 - [Le désir dans la durée](<../1 - Guides/L amour/08 - Le desir dans la duree.md>)  `commun` · L'amour
 - [Les tabous à démonter](<../1 - Guides/Les emotions/10 - Les tabous a demonter.md>)  `commun` · Les émotions
+- [Émotions collectives : foule, contagion, indignation numérique](<../1 - Guides/Les emotions/15 - Emotions collectives.md>)  `commun` · Les émotions
 - [En parler en couple : dépistage, nouveau partenaire, disclosure](<../1 - Guides/IST, depistage et prevention/08 - En parler en couple.md>)  `commun` · IST, dépistage et prévention
 - [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `commun` · Massage professionnel
 - [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `commun` · Questions et communication
@@ -201,5 +203,18 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [D'autres modèles familiaux, tout aussi réels](<../1 - Guides/Les nouvelles compositions familiales/02 - D autres modeles familiaux tout aussi reels.md>)  `commun` · Les nouvelles compositions familiales
 - [Une histoire courte mais dense](<../1 - Guides/Reseaux sociaux/01 - Une histoire courte mais dense.md>)  `commun` · Réseaux sociaux
 - [Comment c'est fabriqué, et pourquoi](<../1 - Guides/Reseaux sociaux/02 - Comment c est fabrique et pourquoi.md>)  `commun` · Réseaux sociaux
+
+## Angles non répertoriés
+
+Ces chapitres portent un angle absent de la liste officielle. Soit l'angle est à ajouter, soit le frontmatter est à corriger.
+
+- [Une histoire des émotions, des stoïciens aux neurosciences affectives](<../1 - Guides/Les emotions/11 - Une histoire des emotions.md>)  `histoire` · Les émotions
+- [Les émotions à travers les cultures](<../1 - Guides/Les emotions/12 - Les emotions a travers les cultures.md>)  `culture` · Les émotions
+- [Ce que l'art, la musique et le cinéma font à nos émotions](<../1 - Guides/Les emotions/13 - L art la musique et le cinema.md>)  `culture` · Les émotions
+- [Le travail émotionnel : ce que ça coûte de sourire au travail](<../1 - Guides/Les emotions/14 - Le travail emotionnel.md>)  `travail` · Les émotions
+- [Les émotions de l'argent, du pouvoir et de la politique](<../1 - Guides/Les emotions/16 - Emotions argent pouvoir et politique.md>)  `société` · Les émotions
+- [L'éco-anxiété et les émotions des grandes transitions](<../1 - Guides/Les emotions/17 - L eco-anxiete.md>)  `environnement` · Les émotions
+- [Émotions, corps et performance](<../1 - Guides/Les emotions/18 - Emotions corps et performance.md>)  `sport` · Les émotions
+- [Le bonheur à travers les sociétés et les philosophies](<../1 - Guides/Les emotions/20 - Le bonheur a travers les societes.md>)  `culture` · Les émotions
 
 Retour à [l'accueil de Comprendre pour tous](<../README.md>).
