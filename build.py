@@ -46,7 +46,8 @@ TREE = REPO + "/tree/main"
 
 DOMAIN = "www.comprendrepourtous.fr"
 SITE_TITLE = "Comprendre Pour Tous"
-TAGLINE = "Le corps, les émotions et la relation, expliqués pour de vrai."
+TAGLINE = ("Des guides gratuits et sourcés sur le corps, les émotions et les "
+           "relations, pour mieux se comprendre soi-même et comprendre l'autre.")
 
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
