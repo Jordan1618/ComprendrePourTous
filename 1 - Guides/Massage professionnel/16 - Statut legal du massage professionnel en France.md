@@ -28,6 +28,24 @@ Le massage tantrique illustre bien cette zone grise. [Un massage tantrique thér
 - Pour un praticien : définir et annoncer clairement le cadre de sa pratique dès la prise de rendez-vous, sans ambiguïté sur ce que la séance comporte et ne comporte pas.
 - Pour un client : se méfier de toute offre en ligne de "massage tantrique" qui insiste sur des critères physiques du praticien plutôt que sur sa formation, un signal fréquent de prestation déguisée plutôt que thérapeutique.
 
+### 16.3 Ce que "non réglementé" implique concrètement pour la responsabilité
+
+L'absence de diplôme obligatoire ne signifie pas absence de responsabilité en cas de dommage causé à un client. Un praticien, même non diplômé, reste juridiquement responsable des conséquences de ses actes dans le cadre du droit commun de la responsabilité civile : une blessure causée par une pression inadaptée, une contre-indication non respectée (voir chapitre 9), ou un manquement au cadre professionnel de base engagent sa responsabilité au même titre que n'importe quel prestataire de service, diplômé ou non. C'est précisément ce qui rend l'assurance professionnelle, détaillée au chapitre 17.2, aussi importante malgré l'absence d'obligation légale de la souscrire.
+
+**Nuance nécessaire.** Cette absence de diplôme obligatoire distingue clairement le massage bien-être d'une profession de santé réglementée comme la kinésithérapie, où l'acte lui-même est encadré par un code de déontologie opposable et un ordre professionnel. Le praticien bien-être évolue dans un cadre plus souple, ce qui donne davantage de liberté d'installation, mais reporte une part plus grande de la responsabilité de la qualité de service sur le choix individuel de formation, plutôt que sur un filtre institutionnel préalable.
+
+**Bons réflexes.**
+- Ne jamais présenter son activité comme "réglementée" ou "encadrée par un ordre professionnel" si ce n'est pas le cas : cette affirmation inexacte relèverait elle-même d'une pratique commerciale trompeuse (chapitre 18.1).
+- Conserver une trace écrite de sa formation et de ses éventuelles certifications, utile en cas de litige pour démontrer une diligence raisonnable, même en l'absence d'obligation légale de diplôme.
+
+### 16.4 Les évolutions récentes du cadre à surveiller
+
+Un cadre légal non réglementé n'est pas un cadre figé pour autant : les débats sur une éventuelle réglementation renforcée du secteur du bien-être reviennent périodiquement en France, portés notamment par certaines fédérations professionnelles qui y voient un moyen de renforcer la crédibilité du métier face aux dérives évoquées au chapitre 18. À ce jour, aucune réforme d'ensemble n'a abouti, mais un praticien sérieux gagne à suivre l'actualité de son secteur plutôt que de considérer le cadre actuel comme définitivement acquis.
+
+**Bons réflexes.**
+- S'inscrire à la newsletter ou suivre les publications d'une fédération professionnelle reconnue du secteur, une source fiable pour être informé de toute évolution réglementaire à venir.
+- Anticiper qu'une réglementation renforcée, si elle survient un jour, valoriserait probablement les praticiens déjà formés sérieusement (voir chapitre 17.1) plutôt que de les pénaliser : se former au-delà du minimum légal actuel reste un investissement rentable sur le long terme, quel que soit le cadre futur.
+
 ## Sources vérifiables
 
 - Portail auto-entrepreneur, [Massage bien-être en Auto-Entrepreneur](https://www.portail-autoentrepreneur.fr/academie/fiches-metiers/sante-bien-etre/massage-bien-etre) — statut réglementaire de la profession ; vérification du 16 septembre 2026.

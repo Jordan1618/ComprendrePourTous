@@ -30,6 +30,20 @@ Le mécanisme ne s'arrête pas au cerveau. [Des recherches récentes montrent qu
 - Privilégier des mouvements lents et continus en début de séance : c'est précisément la vitesse à laquelle les fibres C-tactiles répondent le mieux, plus efficace pour installer la confiance qu'une entrée en matière rapide.
 - Ne jamais négliger l'installation initiale (température, confort, explication de ce qui va se passer) : c'est elle qui détermine si le contact sera perçu comme positif, condition sine qua non de l'effet neurobiologique recherché.
 
+### 13.4 Ce que ce mécanisme explique dans la vie de tous les jours, au-delà de la table de massage
+
+Le circuit décrit dans ce chapitre n'est pas propre à la séance professionnelle : il s'active de la même façon lors de toute forme de toucher lent perçu comme sûr, une accolade, une main posée sur l'épaule, un massage entre partenaires (voir le chapitre 11.1). C'est ce qui explique une observation que beaucoup font sans la relier à un mécanisme précis : un contact physique bref mais sincère peut apaiser une personne en détresse là où des mots, seuls, échoueraient. Le système nerveux répond au toucher affectif indépendamment du contexte social exact dans lequel il se produit, professionnel ou personnel.
+
+**Analogie utile.** Le circuit des fibres C-tactiles fonctionne un peu comme un système d'alarme domestique réglé pour ne se déclencher que face à un mouvement lent et reconnu, tout en restant silencieux face aux mouvements brusques qu'il attribue à une autre catégorie de signal (l'urgence, traitée par un système nerveux différent). Cette spécialisation explique pourquoi deux gestes physiquement proches, une caresse lente et une tape rapide, produisent des effets ressentis radicalement différents alors que la surface de peau stimulée peut être identique.
+
+### 13.5 Les limites de ce que la science explique aujourd'hui
+
+**Nuance nécessaire.** La recherche sur les fibres C-tactiles et l'ocytocine reste un domaine actif, avec des découvertes encore récentes (le mécanisme spinal détaillé en 13.2 provient d'une publication de 2026). Ça signifie que la compréhension scientifique complète du toucher affectif continue d'évoluer, et qu'une partie des mécanismes fins (pourquoi certaines personnes répondent plus fortement que d'autres au même toucher, par exemple) reste encore mal comprise à ce jour. Présenter ce chapitre comme une explication définitive et complète du "pourquoi le massage fait du bien" serait une erreur : c'est une pièce du puzzle, solidement documentée, pas la totalité de la réponse.
+
+**Bons réflexes.**
+- Utiliser ce mécanisme pour expliquer à un client curieux pourquoi la lenteur du geste compte autant que sa précision technique, un argument concret plutôt qu'une simple affirmation de bon sens.
+- Rester honnête sur les limites de cette explication face à un client qui poserait une question plus précise que ce que la recherche actuelle permet de répondre : dire "ce n'est pas encore totalement élucidé" reste plus juste qu'une réponse inventée pour paraître exhaustif.
+
 ## Sources vérifiables
 
 - [C-Tactile Afferents: Cutaneous mediators of oxytocin release](https://e-space.mmu.ac.uk/618306/3/Walker%20et%20alCTs,OxytocinRevised_Manuscript%20(1).pdf) — mécanisme des fibres C-tactiles et libération d'ocytocine ; vérification du 16 septembre 2026.

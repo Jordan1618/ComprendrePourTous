@@ -79,6 +79,33 @@ Sources du guide [Massage professionnel](<../1 - Guides/Massage professionnel/RE
 | [Masseur homme - les préjugés et la réalité du métier](https://massagelazarus.fr/masseur-homme/) | Discrimination de genre dans la profession, taux de refus client | 21.2 |
 | [How to Avoid Feeling Self-Conscious During a Massage](https://www.oasisbodywork.com/how-to-avoid-being-self-conscious-at-a-massage/) | Gêne corporelle côté client | 21.3 |
 
+## Techniques, hygiène et matériel (passe d'approfondissement)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [Standard of Practice: Infection Prevention and Control](https://www.cmto.com/wp-content/uploads/2021/12/CMTO-Standards-of-Practice-2022-IPAC-Mar-4-2022.pdf) | Normes d'hygiène des mains et de désinfection du matériel | 1.1 |
+| [Swedish Massage vs. Deep Tissue](https://www.healthline.com/health/swedish-massage-vs-deep-tissue) | Différences de technique entre suédois et deep tissue | 2.3 |
+| [Hot Stone Massage: The Thermotherapy Science, Techniques & Full-Body Benefits](https://fountainsdayspa.com/hot-stone-massage-benefits-science-techniques/) | Mécanisme et preuves de la thermothérapie | 2.4, 4.3 |
+| [Thai massage: 5 benefits and side effects](https://www.medicalnewstoday.com/articles/323687) | Études cliniques sur le massage thaïlandais | 2.5 |
+| [Acupressure, Shiatsu, Tuina](https://www.healthyplace.com/alternative-mental-health/treatments/acupressure-shiatsu-tuina) | Principes et techniques comparées | 2.6 |
+| [The evidence for Shiatsu: a systematic review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3200172/) | Niveau de preuve du shiatsu et de l'acupression | 2.6 |
+| Wikipédia, [Effleurage](https://en.wikipedia.org/wiki/Effleurage) | Définition et fonction du geste d'effleurage | 3.1 |
+| [Swedish Massage Petrissage](https://theprofessionalmassageacademy.com/2019/11/21/beginners-guide-to-swedish-massage-petrissage/) | Définition et technique du pétrissage | 3.1 |
+| [What is Swedish Massage? The Complete Guide](https://www.aicm.edu/blog/2018/2/25/swedish-massage-expect) | Origine historique de la codification des gestes | 3.1 |
+| [Massage Stroke Techniques, Movement & Purpose](https://study.com/academy/lesson/types-of-strokes-in-massage-therapy.html) | Définition et fonction de la friction | 3.2 |
+| [Carrier Oil: Types, Use, and More](https://www.healthline.com/health/carrier-oil) | Propriétés comparées des huiles de massage | 4.2 |
+| [Cupping Therapy: Behind Those Circular Bruises](https://foothillsrehab.com/blog/cupping-therapy-behind-those-circular-bruises/) | Mécanisme des marques de cupping | 4.4 |
+| [Overview of Sex and Gender Differences in Human Pain](https://pmc.ncbi.nlm.nih.gov/articles/PMC3690315/) | Différences de sensibilité à la douleur entre les sexes | 6.8, 7.2 |
+| [Prenatal Massage in the First Trimester: Safety & Guidelines](https://arcrehabphysio.ca/en/prenatal-massage-first-trimester-safety/) | Véritable motif de prudence au premier trimestre | 8.1 |
+| [Where NOT to Massage During Pregnancy](https://circlewellnessmd.com/where-not-to-massage-during-pregnancy-a-therapists-guide/) | Positionnement, zones à éviter, contre-indications | 8.2, 8.3, 8.4 |
+| [Massage Regulations In Different Countries](http://davetaylortraining.blogspot.com/2016/01/massage-regulation-through-world.html) | Comparatif international des cadres réglementaires | 10.1 |
+| [Affectionate Touch and Relational, Mental, and Physical Well-Being in Older Couples](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6845267/) | Toucher affectueux et bien-être relationnel à long terme | 11.1 |
+| Kinsey Institute, [The power of touch](https://news.iu.edu/kinseyinstitute/live/news/45752-the-power-of-touch-physical-affection-is-important-in-) | Toucher et satisfaction relationnelle | 11.1 |
+| [Research connects affection, attachment style and marriage satisfaction](https://www.binghamton.edu/news/story/2391/hugs-and-kisses-research-connects-affection-attachment-style-and-marriage-satisfaction) | Effet du contact physique pendant un conflit conjugal | 11.2 |
+| DGCCRF, [Pratiques commerciales trompeuses](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/pratiques-commerciales-trompeuses-les-cles-pour-les-reconnaitre-et-sen-premunir) | Définition légale des pratiques trompeuses | 18.1 |
+| [Signaler une arnaque à la DGCCRF via SignalConso](https://www.smart-legal.fr/signaler-arnaque-dgccrf-signal-conso-procedure/) | Procédure de signalement | 18.3 |
+| American Massage Therapy Association, [Preventing Burnout in Massage Therapists](https://www.amtamassage.org/publications/massage-therapy-journal/massage-therapy-and-burnout/) | Épuisement professionnel du métier | 20.3 |
+
 ---
 
 Retour à l'[index des sources](<README.md>) · [Massage professionnel](<../1 - Guides/Massage professionnel/README.md>) · [Accueil](<../README.md>)

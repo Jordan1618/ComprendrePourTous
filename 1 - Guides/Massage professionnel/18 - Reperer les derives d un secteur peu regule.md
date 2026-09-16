@@ -30,6 +30,26 @@ Trois signaux concrets méritent une vigilance particulière avant de réserver 
 - Vérifier la formation annoncée par un praticien avant de réserver, en demandant explicitement le nom de l'école ou de la fédération professionnelle, une question légitime à laquelle un praticien sérieux répond sans détour.
 - Signaler une pratique commerciale trompeuse constatée sur SignalConso plutôt que de se contenter d'un avis négatif isolé, qui a moins de portée réelle sur la structure concernée.
 
+### 18.4 Les faux avis clients, un phénomène particulièrement présent dans le secteur du bien-être
+
+Le secteur du bien-être se prête particulièrement bien à la manipulation des avis en ligne, pour une raison simple : l'expérience vécue reste largement subjective, ce qui rend plus difficile pour un client potentiel de distinguer un avis sincère d'un avis fabriqué ou incité. Un établissement qui affiche uniquement des avis dithyrambiques, sans aucune nuance ni avis moyen, mérite une attention particulière : l'absence totale de variabilité dans les retours reste statistiquement improbable pour n'importe quel service rendu à un public large.
+
+**Bons réflexes.**
+- Se méfier d'un profil d'avis trop uniformément excellent, sans aucune critique même mineure, un signal souvent associé à des avis achetés ou incités plutôt que spontanés.
+- Croiser les avis d'une plateforme avec ceux d'une autre plutôt que de se fier à une seule source, les pratiques de manipulation ciblant généralement une plateforme à la fois plutôt que toutes simultanément.
+
+### 18.5 Ce qui distingue une dérive commerciale d'une dérive plus grave
+
+**Nuance nécessaire.** Toutes les dérives évoquées dans ce chapitre ne se situent pas au même niveau de gravité. Une pratique commerciale trompeuse (faux avis, promesse exagérée) relève du droit de la consommation et se traite par SignalConso, comme détaillé au chapitre 18.3. La dérive vers une prestation à caractère sexuel déguisée, traitée en détail au chapitre 16.2, relève elle d'un cadre pénal entièrement différent. Confondre ces deux niveaux conduirait soit à minimiser une infraction pénale réelle en la traitant comme un simple litige commercial, soit à l'inverse à sur-dramatiser une pratique commerciale trompeuse ordinaire en la traitant comme une affaire pénale, ce qui n'aide ni le client lésé ni la bonne réputation du secteur dans son ensemble.
+
+### 18.6 Ce qu'un praticien sérieux gagne à faire pour se démarquer
+
+Face à un secteur qui souffre collectivement de la mauvaise réputation causée par une minorité de dérives, un praticien qui applique rigoureusement les principes de ce guide (chapitre 1 sur le cadre, chapitre 9 sur les contre-indications, chapitre 20 sur le consentement) gagne à le rendre visible plutôt qu'implicite. Beaucoup de clients potentiels n'ont aucun moyen de distinguer, avant leur première séance, un praticien sérieux d'un praticien improvisé : rendre visibles sa formation, son affiliation à une fédération professionnelle et son cadre déontologique devient alors un vrai argument différenciant, pas une simple formalité administrative.
+
+**Bons réflexes.**
+- Afficher clairement sa formation et ses certifications sur son site ou sa fiche professionnelle, plutôt que de considérer que "le travail parle de lui-même" une fois sur place.
+- Encourager les clients satisfaits à laisser un avis authentique et détaillé plutôt que générique, ce qui contribue à distinguer un profil de confiance des faux avis évoqués au chapitre 18.4.
+
 ## Sources vérifiables
 
 - DGCCRF, [Pratiques commerciales trompeuses : les clés pour les reconnaître et s'en prémunir](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/pratiques-commerciales-trompeuses-les-cles-pour-les-reconnaitre-et-sen-premunir) — définition légale des pratiques commerciales trompeuses ; vérification du 16 septembre 2026.

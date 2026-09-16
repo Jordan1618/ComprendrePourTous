@@ -3,7 +3,7 @@ type: "guide"
 guide: "Massage professionnel"
 sujet: "commun"
 chapitres: 21
-mots: 10316
+mots: 22778
 verifie_le: 2026-09-16
 licence: "CC BY 4.0"
 ---
@@ -24,28 +24,28 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Le cadre général : ce qui précède la technique](<01 - Le cadre général.md>) | pratique | 483 |
-| 2 | [Les grandes familles de massage](<02 - Les grandes familles de massage.md>) | pratique | 595 |
-| 3 | [Les gestes techniques fondamentaux](<03 - Les gestes techniques fondamentaux.md>) | pratique | 302 |
-| 4 | [Outils et produits](<04 - Outils et produits.md>) | pratique | 348 |
-| 5 | [Astuces de pro : ce qui fait la différence](<05 - Astuces de pro.md>) | pratique | 315 |
-| 6 | [Découpage complet par zone du corps](<06 - Découpage par zone du corps.md>) | pratique | 700 |
-| 7 | [Différences hommes / femmes : ce qu'il faut vraiment retenir](<07 - Différences hommes et femmes.md>) | pratique | 175 |
-| 8 | [Femme enceinte : ce qui change vraiment](<08 - Femme enceinte.md>) | pratique | 238 |
-| 9 | [Risques, contre-indications et signaux d'alerte](<09 - Risques et contre-indications.md>) | prévention | 377 |
-| 10 | [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<10 - Orient et Occident.md>) | repères | 211 |
-| 11 | [Le volet intimité de couple](<11 - Intimité de couple.md>) | relation | 445 |
-| 12 | [Pour aller plus loin](<12 - Pour aller plus loin.md>) | repères | 173 |
-| 13 | [La neurobiologie du toucher](<13 - La neurobiologie du toucher.md>) | physiologie | 515 |
-| 14 | [Ce que la recherche valide vraiment, pathologie par pathologie](<14 - Ce que la recherche valide vraiment.md>) | prévention | 1 017 |
-| 15 | [Auto-massage : ce qui est validé, ce qui ne l'est pas](<15 - Auto-massage ce qui est valide.md>) | pratique | 389 |
-| 16 | [Statut légal du massage professionnel en France](<16 - Statut legal du massage professionnel en France.md>) | repères | 555 |
-| 17 | [Devenir praticien : formations, assurance, réalités économiques](<17 - Devenir praticien.md>) | repères | 583 |
-| 18 | [Repérer les dérives d'un secteur peu régulé](<18 - Reperer les derives d un secteur peu regule.md>) | prévention | 517 |
-| 19 | [Histoire et sociologie du massage, des traditions à la spa culture contemporaine](<19 - Histoire et sociologie du massage.md>) | histoire | 677 |
-| 20 | [Éthique professionnelle et gestion du consentement](<20 - Ethique professionnelle et consentement.md>) | relation | 574 |
-| 21 | [Accepter de faire son premier massage, qu'on soit un homme ou une femme](<21 - Accepter de faire son premier massage.md>) | psychologie | 1 007 |
+| 1 | [Le cadre général : ce qui précède la technique](<01 - Le cadre général.md>) | pratique | 1 450 |
+| 2 | [Les grandes familles de massage](<02 - Les grandes familles de massage.md>) | pratique | 1 567 |
+| 3 | [Les gestes techniques fondamentaux](<03 - Les gestes techniques fondamentaux.md>) | pratique | 1 313 |
+| 4 | [Outils et produits](<04 - Outils et produits.md>) | pratique | 1 206 |
+| 5 | [Astuces de pro : ce qui fait la différence](<05 - Astuces de pro.md>) | pratique | 1 174 |
+| 6 | [Découpage complet par zone du corps](<06 - Découpage par zone du corps.md>) | pratique | 1 277 |
+| 7 | [Différences hommes / femmes : ce qu'il faut vraiment retenir](<07 - Différences hommes et femmes.md>) | pratique | 956 |
+| 8 | [Femme enceinte : ce qui change vraiment](<08 - Femme enceinte.md>) | pratique | 981 |
+| 9 | [Risques, contre-indications et signaux d'alerte](<09 - Risques et contre-indications.md>) | prévention | 1 189 |
+| 10 | [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<10 - Orient et Occident.md>) | repères | 862 |
+| 11 | [Le volet intimité de couple](<11 - Intimité de couple.md>) | relation | 1 056 |
+| 12 | [Pour aller plus loin](<12 - Pour aller plus loin.md>) | repères | 729 |
+| 13 | [La neurobiologie du toucher](<13 - La neurobiologie du toucher.md>) | physiologie | 907 |
+| 14 | [Ce que la recherche valide vraiment, pathologie par pathologie](<14 - Ce que la recherche valide vraiment.md>) | prévention | 1 189 |
+| 15 | [Auto-massage : ce qui est validé, ce qui ne l'est pas](<15 - Auto-massage ce qui est valide.md>) | pratique | 842 |
+| 16 | [Statut légal du massage professionnel en France](<16 - Statut legal du massage professionnel en France.md>) | repères | 973 |
+| 17 | [Devenir praticien : formations, assurance, réalités économiques](<17 - Devenir praticien.md>) | repères | 899 |
+| 18 | [Repérer les dérives d'un secteur peu régulé](<18 - Reperer les derives d un secteur peu regule.md>) | prévention | 974 |
+| 19 | [Histoire et sociologie du massage, des traditions à la spa culture contemporaine](<19 - Histoire et sociologie du massage.md>) | histoire | 959 |
+| 20 | [Éthique professionnelle et gestion du consentement](<20 - Ethique professionnelle et consentement.md>) | relation | 993 |
+| 21 | [Accepter de faire son premier massage, qu'on soit un homme ou une femme](<21 - Accepter de faire son premier massage.md>) | psychologie | 1 261 |
 
-Total : 10 316 mots, 21 chapitres.
+Total : 22 778 mots, 21 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

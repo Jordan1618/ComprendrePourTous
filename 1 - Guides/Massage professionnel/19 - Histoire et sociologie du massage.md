@@ -34,6 +34,16 @@ Cette légitimation progressive a ouvert la voie à ce que le chapitre 17.3 a d�
 - Resituer, pour un client curieux, la technique reçue dans son histoire réelle plutôt que dans un folklore approximatif : ça renforce la crédibilité du praticien et évite les approximations culturelles (voir aussi le chapitre 10 sur ce qui est reconnu aujourd'hui).
 - Se rappeler que la méthode suédoise, souvent présentée comme "la base", est elle-même une redécouverte du 19e siècle, pas une tradition ininterrompue depuis l'Antiquité occidentale.
 
+### 19.4 Ce que cette histoire longue change dans le regard porté sur le métier aujourd'hui
+
+Connaître cette histoire n'est pas un exercice de culture générale déconnecté de la pratique quotidienne. Elle éclaire directement une tension encore présente aujourd'hui, déjà évoquée au chapitre 17.5 : le massage oscille en permanence entre statut de soin médical sérieux (son statut chez Hippocrate et Galien, et de nouveau depuis le 20e siècle en médecine du sport) et statut de loisir de bien-être (son statut pendant une bonne partie de son histoire occidentale récente, et encore aujourd'hui dans la perception d'une partie du public). Cette oscillation historique n'est pas résolue, elle continue de se rejouer dans le statut légal actuel détaillé au chapitre 16, à mi-chemin entre acte médical réglementé pour le kinésithérapeute et activité de bien-être non réglementée pour les autres praticiens.
+
+**Analogie utile.** L'histoire du massage ressemble à un pendule qui n'a jamais fini d'osciller entre deux pôles, la légitimité médicale et le loisir de confort, sans jamais se stabiliser définitivement d'un côté. Un praticien qui comprend cette oscillation historique comprend aussi mieux pourquoi son métier continue, aujourd'hui encore, à devoir constamment justifier sa légitimité, un combat qui ne date pas d'hier.
+
+**Bons réflexes.**
+- Utiliser cette perspective historique face à un client sceptique sur la légitimité du massage bien-être : rappeler que la méthode suédoise elle-même, aujourd'hui perçue comme la référence classique, était une innovation controversée en son temps.
+- Ne jamais présenter une technique comme "millénaire et donc forcément efficace" : l'ancienneté d'une pratique, comme le rappelle le chapitre 2.6 sur le shiatsu et le tuina, ne constitue jamais à elle seule une preuve d'efficacité au sens où la recherche moderne l'entend.
+
 ## Sources vérifiables
 
 - [History of Massage Therapy: Natural Healers since 5000 Years](https://florida-academy.edu/history-of-massage-therapy/) — origines antiques, déclin et renaissance du massage en Occident ; vérification du 16 septembre 2026.

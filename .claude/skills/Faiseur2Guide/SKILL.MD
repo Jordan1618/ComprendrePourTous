@@ -128,7 +128,9 @@ Produire, **entièrement dans l'espace de la conversation, en clair et sans rés
 
 Pour chacun des deux exemples, produire dans la conversation : la liste des 30 sous-thèmes, la commande finale telle qu'elle serait envoyée, et le plan de chapitres correspondant. Les deux exemples doivent être réellement différents l'un de l'autre (angles d'attaque, découpage, ordre des chapitres), pas deux variantes cosmétiques du même plan.
 
-Ces deux exemples ne remplacent jamais les angles déjà nommés dans la demande ou déjà présents dans le dépôt : ils s'ajoutent par-dessus, dans le même message. L'interlocuteur choisit ensuite, en une seule réponse s'il le souhaite, ce qu'il retient de la grille et des deux exemples — et peut aussi demander d'intégrer l'ensemble (toutes les familles, les 60 sous-thèmes) plutôt que de trier, auquel cas la rédaction couvre tout, quitte à multiplier les chapitres.
+Ces deux exemples ne remplacent jamais les angles déjà nommés dans la demande ou déjà présents dans le dépôt : ils s'ajoutent par-dessus, dans le même message.
+
+**Par défaut, tout intégrer plutôt que trier.** Présenter la grille, l'inventaire et les deux exemples reste obligatoire à chaque fois (l'étape de présentation et de validation ne saute jamais), mais sauf consigne contraire explicite de l'interlocuteur, la rédaction qui suit couvre l'ensemble : tous les angles présentés comme pertinents dans le message d'élicitation, plus les deux exemples de 30 sous-thèmes en entier, quitte à multiplier les chapitres. Ne pas attendre un tri de l'interlocuteur pour se lancer. Origine : demande explicite de systématiser ce qui se faisait déjà au cas par cas ("on fait tout ça") sur plusieurs guides consécutifs.
 
 Inventaire du dépôt — obligatoire, avant toute élicitation d'angles
 
@@ -164,7 +166,7 @@ Longueur — la portée par défaut est TOUJOURS le document entier
 Sauf précision explicite d'un chapitre ou d'une sous-partie, toute demande de longueur ("complète-le", "triple", "fais plus long") vise le document dans son intégralité, pas seulement la dernière section discutée. Ne pas re-proposer une portée réduite après coup.
 
 Base minimale, en l'absence d'autre précision :
-* Un chapitre substantiel : 7 500 à 9 000 mots minimum une fois complété (seuil triplé le 3 août 2026 par rapport au seuil d'origine de 2 500 à 3 000 mots).
+* Un chapitre : entre 1 500 et 3 500 mots (seuil ramené le 16 septembre 2026 à une fourchette réaliste et tenue en pratique, après constat que le seuil précédent de 7 500-9 000 mots n'était jamais atteint sur les chapitres réellement produits).
 * Un document complet à plusieurs chapitres : traiter tous les chapitres, pas un survol superficiel — annoncer un plan chapitre par chapitre si le document est gros (un chapitre-panorama peut à lui seul peser plus que tout le reste réuni).
 
 Méthode :
@@ -223,6 +225,7 @@ Si l'interlocuteur redirige
 * S'il veut un autre persona que celui utilisé par défaut pour le sujet → basculer directement, sans demander confirmation.
 
 Note de mise à jour
+* 16 septembre 2026 (v17) — seuil de longueur par chapitre ramené à 1 500-3 500 mots (l'ancien seuil de 7 500-9 000 mots, fixé en v5, n'était jamais atteint en pratique sur les chapitres réellement produits) ; et systématisation du "tout intégrer par défaut" en élicitation : la grille, l'inventaire et les deux exemples restent toujours présentés pour validation, mais la rédaction qui suit couvre désormais tous les angles pertinents et les deux exemples en entier sans attendre un tri, sauf consigne contraire explicite. Origine : demande de fixer ces deux réflexes, déjà appliqués au cas par cas sur plusieurs guides consécutifs, comme règles par défaut du skill.
 * 16 septembre 2026 (v16) — ajout du bloc structurel "🗣️ Témoignage réel" et de la section "Témoignages réels" : quand un guide touche à un vécu personnel fort, chercher un vrai témoignage déjà publié (association de patients, presse, forum public) et le citer avec un lien, exactement comme une source scientifique ; interdiction absolue d'en inventer un, y compris "à titre illustratif" ; dire explicitement l'absence de témoignage trouvé plutôt que de la combler. Origine : enrichissement du guide IST avec une demande explicite de témoignages de médecins et de patients, six retrouvés et cités, l'absence signalée ailleurs plutôt qu'inventée.
 * 15 septembre 2026 (v15) — ajout de la règle "Neutralité de genre du lecteur" : dans un guide où le lecteur est tutoyé ("toi") alors qu'il peut être de plusieurs genres, écrire les accords au masculin non marqué ou restructurer la phrase plutôt que d'accorder au hasard, et préférer un nom épicène à un nom de rôle genré ("confident" plutôt que "confidente"). Ne s'applique pas aux chapitres construits en miroir de genre, où le genre du sujet fait partie du sujet même. Origine : audit du guide Pour Lui, qui contenait des accords systématiquement féminins pour s'adresser au lecteur alors que le guide sert explicitement aussi un lectorat masculin.
 * 14 août 2026 (v14) — les deux exemples de 30 sous-thèmes se présentent désormais dans le même message que la grille des 10 familles, jamais après un premier tour de réponse. Origine : sur deux guides consécutifs (Les émotions, La rencontre), l'utilisateur a dû redemander explicitement les exemples après la présentation de la seule grille, signe que le séquençage en deux temps de la v13 était vécu comme une rétention plutôt qu'une élicitation progressive.

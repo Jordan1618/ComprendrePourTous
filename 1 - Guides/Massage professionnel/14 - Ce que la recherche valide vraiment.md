@@ -40,6 +40,14 @@ Le terme "fascia" revient souvent dans le discours des praticiens. [La recherche
 - Parler du fascia comme d'un mécanisme plausible et documenté en partie, pas comme d'une certitude scientifique complète : la nuance protège autant la crédibilité du praticien que l'honnêteté envers le client.
 - Ne jamais promettre un résultat garanti sur la base du seul mot "fascia", un vocabulaire technique qui impressionne mais qui ne remplace pas une preuve solide.
 
+### 14.5 Ce que cette prudence méthodologique signifie concrètement pour un praticien
+
+Ce chapitre a délibérément insisté sur les limites méthodologiques de chaque domaine étudié, pas pour minimiser l'intérêt du massage, mais parce qu'un praticien honnête doit savoir distinguer un bénéfice bien établi d'un bénéfice plausible mais encore mal démontré. Cette distinction a une conséquence directe sur la façon de parler de sa pratique à un client : promettre un résultat que la recherche ne soutient qu'à un niveau de preuve faible expose à la fois à décevoir le client et à franchir, sans le vouloir, la ligne d'une pratique commerciale trompeuse déjà détaillée au chapitre 18.1.
+
+**Bons réflexes.**
+- Utiliser systématiquement un vocabulaire de probabilité plutôt que de certitude face à un client ("peut aider à", "est associé à une réduction de") plutôt que des formulations absolues ("soigne", "élimine").
+- Orienter vers un avis médical toute demande qui dépasse ce que la recherche valide, plutôt que de répondre par une promesse technique qui excède ce que le massage peut réellement garantir.
+
 ## Sources vérifiables
 
 - [Massage Therapy for Fibromyalgia: A Systematic Review and Meta-Analysis of Randomized Controlled Trials](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930706/) — effet du massage sur la fibromyalgie ; vérification du 16 septembre 2026.

@@ -34,6 +34,20 @@ Le secteur du bien-être connaît une croissance mondiale réelle et mesurable, 
 - Ne pas se baser sur les chiffres de croissance globale du secteur pour anticiper un revenu personnel rapide : la croissance du marché ne se traduit pas automatiquement par un flux de clientèle immédiat pour un praticien qui démarre.
 - Se rapprocher d'un réseau professionnel local (spa, cabinet partagé) en début d'activité, plutôt que de viser l'indépendance complète dès le premier jour, pour construire une clientèle avec moins de risque financier.
 
+### 17.4 Diversifier ses revenus plutôt que dépendre d'un seul canal
+
+Un praticien qui démarre gagne souvent à ne pas dépendre d'un seul canal de revenu. Travailler en partenariat avec un spa ou un institut établi, en parallèle d'une activité indépendante naissante, permet de bénéficier d'une clientèle déjà existante pendant que le bouche-à-oreille personnel se construit progressivement. Cette diversification réduit aussi le risque financier propre à toute activité indépendante : un mois plus calme en clientèle directe peut être compensé par des vacations régulières dans une structure partenaire.
+
+**Bons réflexes.**
+- Négocier, dès le départ, des conditions claires avec toute structure partenaire (pourcentage reversé, exclusivité ou non) plutôt que de découvrir ces détails après coup.
+- Garder une trace de ses revenus par canal (clientèle directe, structure partenaire, cours ou formations données) pour identifier rapidement quel canal mérite d'être développé en priorité.
+
+### 17.5 La question de la spécialisation : généraliste ou expert d'une niche
+
+Une décision structurante pour la trajectoire d'un praticien concerne le choix entre une pratique généraliste (offrir plusieurs écoles présentées au chapitre 2, pour toucher un public large) et une spécialisation ciblée (massage sportif uniquement, massage prénatal, ou une tradition orientale précise). Le chapitre 17.3 a montré que le marché du bien-être connaît une croissance globale forte, mais cette croissance profite différemment à un généraliste, qui capte un flux plus large mais plus dispersé, et à un spécialiste reconnu, qui capte moins de volume mais avec une clientèle plus fidèle et prête à payer davantage pour une expertise précise.
+
+**Nuance nécessaire.** Il n'existe pas de réponse universelle entre ces deux stratégies : le choix dépend du marché local (une grande ville permet une spécialisation viable, une petite commune demande souvent une offre plus généraliste pour atteindre une clientèle suffisante), de l'appétence personnelle du praticien, et du temps disponible pour se former en profondeur sur une seule technique plutôt que largement sur plusieurs.
+
 ## Sources vérifiables
 
 - [Quelle assurance professionnelle pour un praticien bien-être ?](https://reassurez-moi.fr/guide/pro/assurance-metiers/praticien-bien-etre) — nécessité pratique de la certification et de l'assurance ; vérification du 16 septembre 2026.

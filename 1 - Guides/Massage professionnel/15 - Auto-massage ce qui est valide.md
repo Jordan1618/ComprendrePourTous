@@ -30,6 +30,29 @@ Un auto-massage a un plafond mécanique que le massage par un tiers n'a pas : on
 - Éviter tout auto-massage profond et prolongé sur le cou ou le bas du dos sans connaissance anatomique suffisante : ce sont des zones où une mauvaise pression peut aggraver une tension plutôt que la soulager.
 - Respecter les mêmes contre-indications que celles listées au chapitre 9, même en auto-massage.
 
+### 15.3 Bien choisir son outil d'auto-massage selon l'objectif
+
+Le chapitre 4.5 a présenté les outils disponibles (rouleaux, balles, gua sha). Pour l'auto-massage myofascial spécifiquement, la taille et la dureté de l'outil comptent autant que le geste lui-même. Un rouleau de mousse large convient aux grandes masses musculaires (cuisses, dos), là où une balle plus petite et plus dure permet d'atteindre des zones précises et circonscrites (voûte plantaire, muscles profonds de l'épaule) qu'un rouleau ne peut pas cibler avec la même précision.
+
+**Analogie utile.** Utiliser un grand rouleau de mousse sur un point précis de tension revient à essayer de dessiner un détail fin avec un gros pinceau : l'outil n'est pas mauvais en soi, il est simplement mal adapté à la précision recherchée à cet endroit.
+
+### 15.4 Fréquence et durée : ce qui reste raisonnable
+
+Contrairement à une idée reçue selon laquelle "plus c'est souvent, mieux c'est", l'auto-massage myofascial gagne à rester modéré en fréquence et en durée. Une session de quelques minutes par groupe musculaire, plutôt qu'une pression prolongée sur la même zone pendant de longues minutes, reste la pratique la plus généralement recommandée, l'objectif étant de stimuler le tissu sans créer d'irritation par un usage excessif.
+
+**Bons réflexes.**
+- Limiter chaque passage sur une même zone à environ 30 à 60 secondes, en répétant plutôt qu'en prolongeant un seul passage continu.
+- Espacer les séances d'auto-massage myofascial intense d'au moins une journée sur une même zone, pour laisser le tissu récupérer entre deux sollicitations.
+- Arrêter immédiatement en cas de douleur vive plutôt que de "pousser à travers" la douleur, un réflexe erroné parfois véhiculé dans le milieu sportif amateur.
+
+### 15.5 Auto-massage et massage professionnel : deux pratiques complémentaires, pas concurrentes
+
+Une question revient souvent chez les praticiens débutants : l'auto-massage risque-t-il de réduire la demande pour des séances professionnelles ? La réalité observée dans le secteur va plutôt dans le sens inverse. Une personne qui pratique régulièrement l'auto-massage développe une meilleure connaissance de son propre corps, de ses zones de tension récurrentes, ce qui la rend souvent plus précise et plus à l'aise pour communiquer ses besoins lors d'une séance professionnelle, un client qui sait nommer précisément où et comment il a mal reste plus facile à masser efficacement qu'un client qui découvre son propre corps en même temps que le praticien le découvre.
+
+**Bons réflexes pour un praticien.**
+- Recommander l'auto-massage entre les séances plutôt que de le voir comme une concurrence : un client bien informé entre les rendez-vous reste, en pratique, un meilleur client sur la durée.
+- Profiter d'une question sur l'auto-massage pour ouvrir une conversation sur les zones de tension récurrentes du client, une information précieuse pour orienter la séance professionnelle suivante.
+
 ## Sources vérifiables
 
 - [Effects of Self-Myofascial Release on Athletes' Physical Performance: A Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10801590/) — bénéfices et limites du relâchement myofascial auto-administré ; vérification du 16 septembre 2026.
