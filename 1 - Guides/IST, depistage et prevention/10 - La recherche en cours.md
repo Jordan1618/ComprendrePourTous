@@ -22,7 +22,7 @@ Côté chlamydia, [un vaccin candidat à ARN messager développé par Sanofi a r
 
 Le dépistage à domicile n'est plus un projet de recherche mais une réalité en cours de déploiement. En France, [le dispositif "Mon test IST" permet, depuis juillet 2025, aux jeunes femmes de 18 à 25 ans de commander gratuitement un kit d'autoprélèvement pour la chlamydia et la gonorrhée, envoyé en enveloppe neutre, avec extension du dispositif aux jeunes hommes du même âge ainsi qu'aux personnes trans et non binaires depuis mai 2026](https://www.ameli.fr/assure/actualites/mon-test-ist-le-kit-de-depistage-domicile-desormais-disponible-pour-les-hommes-de-18-25-ans) (Assurance maladie, ameli.fr, 2025-2026 ; vérification du 13 août 2026). Le test rapide d'orientation diagnostique (TROD) pour le VIH reste par ailleurs disponible en pharmacie sans ordonnance, à un coût qui n'est pas pris en charge par l'Assurance maladie.
 
-**💑 Dans le couple** : ces kits à domicile abaissent nettement la barrière logistique qui retardait parfois le dépistage à deux évoqué au chapitre 8.1, ils ne dispensent pas d'un suivi médical en cas de résultat positif ou de symptôme.
+**💑 Dans le couple** : ces kits à domicile abaissent nettement la barrière logistique qui retardait parfois le dépistage à deux évoqué au chapitre 8.1, ils ne dispensent pas d'un suivi médical en cas de résultat positif ou de symptôme. Le chapitre 12 détaille le réseau CeGIDD (12.1), le volume réel de recours à ce dispositif (12.2) et la fiabilité comparée des autotests VIH en pharmacie (12.3).
 
 ### 10.3 PrEP et PEP : les nouvelles formes
 

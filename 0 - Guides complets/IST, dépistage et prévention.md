@@ -2,12 +2,12 @@
 type: "guide-complet"
 guide: "IST, dépistage et prévention"
 sujet: "commun"
-chapitres: 11
-mots: 8224
-verifie_le: 2026-08-13
+chapitres: 17
+mots: 13254
+verifie_le: 2026-09-16
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/IST, depistage et prevention"
-genere_le: 2026-09-15
+genere_le: 2026-09-16
 ---
 
 # IST, dépistage et prévention
@@ -20,7 +20,7 @@ genere_le: 2026-09-15
 
 **Comprendre, dépister, protéger, en parler**
 
-Un guide court et directement utile sur les infections sexuellement transmissibles : ce qu'elles sont, comment elles se transmettent, lesquelles sont silencieuses, comment on les dépiste et comment on s'en protège. Chlamydia, gonorrhée, syphilis, herpès génital, VIH et HPV sont traités un par un, avant d'élargir sur le vocabulaire, la conversation en couple, le croisement entre contraception et prévention des IST, la recherche en cours et les bonnes pratiques de réduction des risques.
+Un guide directement utile sur les infections sexuellement transmissibles : ce qu'elles sont, comment elles se transmettent, lesquelles sont silencieuses, comment on les dépiste et comment on s'en protège. Chlamydia, gonorrhée, syphilis, herpès génital, VIH et HPV sont traités un par un, avant d'élargir sur le vocabulaire, la conversation en couple, le croisement entre contraception et prévention des IST, la recherche en cours et les bonnes pratiques de réduction des risques. Le guide couvre aussi l'accès réel au dépistage aujourd'hui, la résistance aux antibiotiques, le quotidien de vivre avec une IST chronique, l'histoire de la stigmatisation, la sociologie du dépistage, et les populations que la prévention oublie trop souvent.
 
 C'est le guide le plus factuel de la collection, et sans doute le plus immédiatement actionnable. La plupart des idées reçues sur le sujet datent de trente ans et sont fausses aujourd'hui, en particulier sur le VIH.
 
@@ -37,6 +37,12 @@ C'est le guide le plus factuel de la collection, et sans doute le plus immédiat
 - **9.** Contraception et prévention des IST : ce qui protège de quoi
 - **10.** La recherche en cours : vaccins, autotests, PrEP nouvelle génération
 - **11.** Bonnes pratiques et réduction des risques
+- **12.** Le dépistage en pratique aujourd'hui
+- **13.** Résistance aux antibiotiques : l'urgence silencieuse des IST bactériennes
+- **14.** Vivre avec une IST chronique : le quotidien au long cours
+- **15.** Histoire de la stigmatisation : de la syphilis au sida
+- **16.** Sociologie du dépistage : qui se fait tester, et pourquoi
+- **17.** IST et populations invisibilisées : LGBTQ+ et personnes âgées
 
 ---
 
@@ -163,7 +169,7 @@ L'herpès génital porte une charge de stigmatisation sans commune mesure avec s
 
 Le fait le plus mal connu du grand public sur le VIH aujourd'hui (7 Français sur 10 n'en ont jamais entendu parler, selon Sida Info Service) : une personne séropositive sous traitement antirétroviral efficace, avec une **charge virale indétectable depuis au moins 6 mois** et un suivi médical régulier, **ne transmet plus le virus par voie sexuelle**, y compris sans préservatif. C'est le principe **U=U** (indétectable = intransmissible), ou TasP ("Treatment as Prevention") en anglais, confirmé par plusieurs grandes études (HPTN 052, PARTNER 1 et 2) qui [n'ont recensé aucune transmission dans ces conditions sur des milliers de couples suivis, y compris des couples sérodifférents ayant des rapports sans préservatif pendant des années](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30418-0/fulltext) (Rodger et coll., étude PARTNER, *The Lancet*, 2019 ; vérification du 27 juillet 2026).
 
-Imagine la charge virale indétectable comme un feu qui a été si bien éteint qu'il ne reste plus une seule braise capable d'en rallumer un autre, même en contact direct, le "feu" existe toujours quelque part dans l'histoire de la personne, mais il n'y a plus rien qui puisse se propager.
+Imagine la charge virale indétectable comme un feu qui a été si bien éteint qu'il ne reste plus une seule braise capable d'en rallumer un autre, même en contact direct, le "feu" existe toujours quelque part dans l'histoire de la personne, mais il n'y a plus rien qui puisse se propager. Le chapitre 14.1 revient sur l'écart, documenté, entre la connaissance de ce principe et son acceptation réelle une fois qu'il touche sa propre vie.
 
 **Nuance importante** : le TasP protège uniquement du VIH, pas des autres IST, le préservatif garde son rôle pour tout le reste (voir [1.4](<../1 - Guides/IST, depistage et prevention/01 - Panorama et transmission.md#1-4-curable-ne-veut-pas-dire-anodin-incurable-ne-veut-pas-dire-grave-au-quotidien>)).
 
@@ -256,7 +262,7 @@ La question du statut IST avec un nouveau partenaire est souvent repoussée par 
 
 C'est la conversation la plus redoutée du guide, souvent bien plus dans l'anticipation que dans la réalité une fois qu'elle a lieu. Deux principes réduisent la difficulté : la dire tôt, avant tout rapport à risque, et la dire avec de l'information factuelle plutôt qu'avec des excuses. [Accompagner l'annonce d'une information factuelle sur la prévalence de l'infection, ses modes de transmission et son traitement facilite la réception par le partenaire et réduit le sentiment de dramatisation de part et d'autre](https://www.yourdaye.com/en-us/vitals/cultural-musings/how-to-talk-to-your-partner-about-herpes/) (ressource de santé sexuelle consacrée à la disclosure de l'herpès ; vérification du 13 août 2026).
 
-Une formulation qui fonctionne pour l'herpès, en gardant le registre factuel du chapitre 4 de ce guide : "il faut que je te dise un truc avant qu'on aille plus loin, j'ai l'herpès génital, c'est très fréquent, ça se gère bien avec un traitement, et je peux t'expliquer les précautions qu'on prendrait ensemble." Pour le VIH, le point le plus important à transmettre n'est pas l'annonce elle-même mais l'information qui la rend supportable : une charge virale indétectable signifie une transmission sexuelle impossible (le principe U=U détaillé au chapitre 5), une donnée que la majorité du public ignore encore. Nommer U=U dans la même phrase que l'annonce change la nature de la conversation.
+Une formulation qui fonctionne pour l'herpès, en gardant le registre factuel du chapitre 4 de ce guide : "il faut que je te dise un truc avant qu'on aille plus loin, j'ai l'herpès génital, c'est très fréquent, ça se gère bien avec un traitement, et je peux t'expliquer les précautions qu'on prendrait ensemble." Pour le VIH, le point le plus important à transmettre n'est pas l'annonce elle-même mais l'information qui la rend supportable : une charge virale indétectable signifie une transmission sexuelle impossible (le principe U=U détaillé au chapitre 5), une donnée que la majorité du public ignore encore. Nommer U=U dans la même phrase que l'annonce change la nature de la conversation. Le chapitre 14.3 documente, au-delà de la formulation, ce que coûte psychologiquement le choix de ne pas divulguer, et pourquoi ce choix n'est jamais un manque de courage.
 
 **👁️ Vu de l'autre côté** : la personne qui reçoit l'annonce réagit souvent dans un premier réflexe de surprise ou d'inquiétude qui n'a rien à voir avec le jugement porté sur l'autre, elle a simplement besoin d'un temps pour intégrer une information nouvelle avant de pouvoir répondre calmement. Ce moment de flottement, si bref soit-il, est souvent mal interprété par la personne qui vient de faire l'annonce comme un rejet immédiat, alors que ce n'est, la plupart du temps, qu'un temps de traitement de l'information. Je me souviens très bien de ce silence de dix secondes, il m'a paru interminable, et il ne voulait rien dire d'autre que "laisse-moi une minute pour comprendre ce que tu viens de dire".
 
@@ -332,7 +338,7 @@ Côté chlamydia, [un vaccin candidat à ARN messager développé par Sanofi a r
 
 Le dépistage à domicile n'est plus un projet de recherche mais une réalité en cours de déploiement. En France, [le dispositif "Mon test IST" permet, depuis juillet 2025, aux jeunes femmes de 18 à 25 ans de commander gratuitement un kit d'autoprélèvement pour la chlamydia et la gonorrhée, envoyé en enveloppe neutre, avec extension du dispositif aux jeunes hommes du même âge ainsi qu'aux personnes trans et non binaires depuis mai 2026](https://www.ameli.fr/assure/actualites/mon-test-ist-le-kit-de-depistage-domicile-desormais-disponible-pour-les-hommes-de-18-25-ans) (Assurance maladie, ameli.fr, 2025-2026 ; vérification du 13 août 2026). Le test rapide d'orientation diagnostique (TROD) pour le VIH reste par ailleurs disponible en pharmacie sans ordonnance, à un coût qui n'est pas pris en charge par l'Assurance maladie.
 
-**💑 Dans le couple** : ces kits à domicile abaissent nettement la barrière logistique qui retardait parfois le dépistage à deux évoqué au chapitre 8.1, ils ne dispensent pas d'un suivi médical en cas de résultat positif ou de symptôme.
+**💑 Dans le couple** : ces kits à domicile abaissent nettement la barrière logistique qui retardait parfois le dépistage à deux évoqué au chapitre 8.1, ils ne dispensent pas d'un suivi médical en cas de résultat positif ou de symptôme. Le chapitre 12 détaille le réseau CeGIDD (12.1), le volume réel de recours à ce dispositif (12.2) et la fiabilité comparée des autotests VIH en pharmacie (12.3).
 
 ### 10.3 PrEP et PEP : les nouvelles formes
 
@@ -412,3 +418,214 @@ Le poids psychologique d'un diagnostic d'IST dépasse souvent largement sa gravi
 - [Pharyngeal Gonorrhoea: The Willingness of Australian Men Who Have Sex with Men to Change Current Sexual Practices to Reduce Their Risk of Transmission — A Qualitative Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5167548/), *PLOS ONE* ; vérification du 13 août 2026.
 - CDC, [How to Prevent STIs](https://www.cdc.gov/sti/prevention/index.html) ; vérification du 13 août 2026.
 - [Predictors of depression, anxiety, and overall psychological distress in people living with HIV/AIDS: analyses from the Stigma Index Brazil 2.0](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12600019/), 2025 ; vérification du 13 août 2026.
+
+---
+
+## 12. Le dépistage en pratique aujourd'hui
+
+### 12.1 Le réseau CeGIDD : gratuit, anonyme, sans ordonnance
+
+Le premier obstacle au dépistage n'est presque jamais la peur du résultat, c'est l'idée qu'il faut un motif sérieux, une ordonnance, ou de l'argent pour s'y présenter. Ce n'est pas le cas. [Les Centres gratuits d'information, de dépistage et de diagnostic (CeGIDD) proposent des consultations anonymes et gratuites de dépistage, de prise en charge et de traitement des IST, accessibles à tous sans prescription ni carte Vitale, avec plus de 400 centres répartis sur le territoire métropolitain et ultramarin](https://www.ameli.fr/assure/sante/themes/mst-ist/depistage) (Assurance Maladie, ameli.fr ; vérification du 16 septembre 2026).
+
+Concrètement, un CeGIDD ne demande ni identité ni justification. On peut s'y présenter pour "faire le point", sans qu'un rapport à risque précis ait eu lieu, et repartir avec un résultat sans qu'aucune trace administrative ne relie ce passage à un dossier médical consultable ailleurs. C'est une différence de taille avec un laboratoire classique, où le test est remboursé mais apparaît sur le relevé de l'Assurance Maladie.
+
+**Bons réflexes.**
+- Chercher "CeGIDD" suivi du nom de sa ville : la plupart des grandes agglomérations en comptent plusieurs, avec des horaires en soirée pour limiter l'obstacle du jour ouvré.
+- Ne pas attendre d'avoir un symptôme ou "une bonne raison" pour s'y rendre : c'est justement pensé pour l'absence de motif précis.
+
+### 12.2 Mon Test IST, en chiffres : la demande une fois l'obstacle du rendez-vous retiré
+
+Le chapitre 10.2 détaille le fonctionnement du dispositif "Mon Test IST" (kit d'autoprélèvement à domicile pour la chlamydia et le gonocoque). Un chiffre mérite d'y être ajouté pour mesurer l'ampleur réelle de la demande : [dès le premier mois de ce programme gratuit lancé en septembre 2024, environ 41 000 personnes en ont bénéficié](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf) (Santé publique France, Bulletin national VIH et IST bactériennes, 23 octobre 2025 ; vérification du 16 septembre 2026), un volume qui suggère que le principal frein au dépistage, pour une partie importante de la population concernée, n'était pas le refus de se tester mais la seule contrainte logistique du rendez-vous physique.
+
+**Nuance nécessaire.** Ce dispositif ne couvre, à ce jour, que deux IST bactériennes précises et une tranche d'âge délimitée. Pour le VIH, la syphilis, ou en dehors de cette tranche d'âge, le passage par un laboratoire ou un CeGIDD (voir 12.1) reste la voie de référence.
+
+### 12.3 Autotests VIH : fiables, mais pas interchangeables avec un test de laboratoire
+
+Le marché des autotests VIH en pharmacie existe depuis plus longtemps que Mon Test IST, avec un profil de fiabilité différent qu'il vaut mieux connaître avant de s'y fier à 100 %. [Les autotests VIH vendus en pharmacie sont pratiques d'usage, mais leur sensibilité reste inférieure à celle d'un test de laboratoire, et leur fiabilité dépend directement du respect du mode opératoire ainsi que du délai écoulé depuis l'exposition à risque](https://www.medecindirect.fr/blog/test-ist-ou-quand-comment-faire-un-depistage-efficace) (Médecin Direct, synthèse sur les modalités de dépistage ; vérification du 16 septembre 2026).
+
+Concrètement : un autotest fait trop tôt après une exposition (dans la fenêtre sérologique, avant que le corps ait produit assez d'anticorps détectables) peut rendre un résultat négatif alors que l'infection est déjà présente. Un autotest n'est donc pas un substitut au test de confirmation en laboratoire en cas de doute ou de résultat positif, c'est un outil de première intention, particulièrement utile pour répéter un dépistage régulier sans les contraintes d'un rendez-vous.
+
+**Bons réflexes.**
+- Respecter le délai indiqué sur la notice entre l'exposition à risque et le test : un résultat trop précoce n'est pas fiable, quel que soit l'outil utilisé.
+- Confirmer systématiquement un autotest positif par un test de laboratoire avant toute conclusion définitive.
+
+## Sources vérifiables
+
+- Assurance Maladie, [Dépister les IST](https://www.ameli.fr/assure/sante/themes/mst-ist/depistage) — réseau CeGIDD, gratuité et anonymat ; vérification du 16 septembre 2026.
+- [Dépistage des IST gratuit et anonyme : quelles sont vos options en France ?](https://www.biocentrelab.fr/depistage-des-ist-gratuit-et-anonyme-quelles-sont-vos-options-en-france) — dispositif Mon Test IST, extension 2025-2026 ; vérification du 16 septembre 2026.
+- Santé publique France, [Bulletin national VIH et IST bactériennes](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf), 23 octobre 2025 — chiffres de recours au dépistage 2024 ; vérification du 16 septembre 2026.
+- [Test IST : où, quand et comment faire un dépistage efficace ?](https://www.medecindirect.fr/blog/test-ist-ou-quand-comment-faire-un-depistage-efficace), Médecin Direct — fiabilité comparée des autotests et du dépistage en laboratoire ; vérification du 16 septembre 2026.
+
+---
+
+## 13. Résistance aux antibiotiques : l'urgence silencieuse des IST bactériennes
+
+### 13.1 La gonorrhée qui résiste : une course contre la montre documentée
+
+La chlamydia et la gonorrhée sont présentées, dans ce guide, comme des IST bactériennes qui se soignent simplement par antibiotiques. C'est vrai aujourd'hui, mais la marge de sécurité se réduit d'année en année pour la gonorrhée, et c'est un fait documenté à l'échelle mondiale, pas une inquiétude théorique. [Entre 2022 et 2024, la résistance de la bactérie responsable de la gonorrhée à la ceftriaxone et au céfixime, les deux antibiotiques de première intention, est passée respectivement de 0,8 % à 5 % et de 1,7 % à 11 %, avec des souches résistantes détectées dans un nombre croissant de pays, tandis que la résistance à la ciprofloxacine, un antibiotique plus ancien, atteint déjà 95 %](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea) (Organisation mondiale de la santé, Programme renforcé de surveillance antimicrobienne du gonocoque, 2025 ; vérification du 16 septembre 2026).
+
+**Analogie utile.** C'est le même mécanisme qu'un mot de passe réutilisé sur trop de comptes : plus un antibiotique est employé largement et longtemps, plus il devient probable qu'une variante de la bactérie apprenne à le contourner, jusqu'à ce que la clé ne fonctionne plus du tout pour personne.
+
+Ce n'est pas une raison de paniquer à l'idée de se faire traiter, la ceftriaxone reste efficace dans l'immense majorité des cas en 2026. C'est en revanche une raison de ne jamais interrompre un traitement en cours, même en cas d'amélioration rapide des symptômes : un traitement partiel est précisément le terreau qui sélectionne les souches résistantes, celles qui survivent à une dose insuffisante et se multiplient ensuite.
+
+### 13.2 Pourquoi la ciprofloxacine ne fonctionne quasiment plus
+
+Le cas de la ciprofloxacine, aujourd'hui résistante dans 95 % des cas testés, est un exemple concret de ce qui peut arriver à un antibiotique en quelques décennies d'usage répété. Ce médicament a longtemps été un traitement de référence contre la gonorrhée, avant d'être progressivement abandonné à mesure que les souches résistantes devenaient majoritaires plutôt qu'exceptionnelles. [L'expansion du programme de surveillance, qui comptait 4 pays participants en 2022 contre 12 en 2024 répartis sur trois régions de l'OMS, permet de mieux documenter ce basculement à mesure qu'il se produit](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea) (OMS, 2025 ; vérification du 16 septembre 2026).
+
+Le message retenu par l'OMS n'est pas alarmiste mais concret : renforcer la surveillance, améliorer les capacités diagnostiques, et garantir un accès équitable aux nouveaux traitements à mesure qu'ils sont développés, plutôt que de répéter la même erreur avec la prochaine génération de molécules.
+
+**Bons réflexes.**
+- Toujours terminer un traitement antibiotique prescrit pour une IST bactérienne jusqu'au bout, même si les symptômes disparaissent avant.
+- Refaire un test de contrôle après traitement en cas de gonorrhée, plutôt que de supposer la guérison sur la seule disparition des symptômes.
+
+### 13.3 Le microbiote comme facteur de vulnérabilité, pas seulement le comportement
+
+La résistance bactérienne n'est pas le seul facteur qui explique pourquoi certaines infections s'installent plus facilement que d'autres chez une personne donnée. L'équilibre du microbiote vaginal joue un rôle documenté dans la vulnérabilité à certaines IST, un facteur biologique qui n'a rien à voir avec le nombre de partenaires ou la prudence individuelle, contrairement à une association implicite fréquente. Ce sujet reste en cours d'exploration active dans la littérature scientifique récente ; à ce stade, aucune source suffisamment consolidée et vérifiable n'a été identifiée pour en détailler le mécanisme précis sans risquer une simplification trompeuse, et il vaut mieux le dire explicitement plutôt que d'avancer un mécanisme approximatif.
+
+## Sources vérifiables
+
+- Organisation mondiale de la santé, [Increasing resistance to key gonorrhea antibiotics raises alarm](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea), Programme renforcé de surveillance antimicrobienne du gonocoque, 2025 — données de résistance 2022-2024 ; vérification du 16 septembre 2026.
+
+Affirmation sans source précise identifiée à ce jour : le mécanisme détaillé du rôle du microbiote vaginal dans la vulnérabilité aux IST (13.3), volontairement laissé en l'état plutôt que simplifié à l'excès.
+
+---
+
+## 14. Vivre avec une IST chronique : le quotidien au long cours
+
+Le chapitre 8 traite de la conversation, ce qu'on dit et comment on le dit. Celui-ci va plus loin : ce qui se joue à l'intérieur, sur des années, quand une IST ne se guérit pas mais se gère.
+
+### 14.1 Quand la science a changé plus vite que la peur
+
+Le chapitre 5.1 a déjà posé le principe U=U (indétectable = intransmissible) et les études qui le confirment (HPTN 052, PARTNER 1 et 2). Ce qui manque à ce stade du guide, c'est ce qui se passe une fois que cette information est connue, mais pas encore crue dans le corps : le décalage entre le fait scientifique et le temps qu'il faut à la peur pour s'aligner dessus. [Une revue systématique et méta-analyse transpopulationnelle constate que la connaissance du principe U=U reste élevée chez les personnes séropositives, seulement modérée chez les hommes ayant des rapports avec des hommes et les professionnels de santé, et faible dans la population générale, et que même là où le principe est connu, son acceptation complète reste nettement plus basse que sa simple connaissance, en particulier hors des personnes directement concernées](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12298288/) (revue systématique et méta-analyse sur la connaissance et l'acceptation d'U=U ; vérification du 16 septembre 2026).
+
+👁️ **Vu de l'autre côté** Le partenaire séronégatif d'une personne séropositive sous traitement indétectable porte souvent une peur qui a une génération de retard sur la science : ce que la recherche établit avec un niveau de preuve désormais considéré comme solide, l'instinct continue parfois de le traiter comme un risque flou et permanent. Ce que beaucoup ne disent jamais à voix haute : ce n'est pas la logique qui manque, c'est que la peur du VIH a été apprise bien avant qu'on connaisse les chiffres, et elle ne se désapprend pas au même rythme qu'on les lit.
+
+Ce décalage n'est pas propre aux partenaires : il touche aussi, parfois, la personne séropositive elle-même, qui peut continuer à se sentir "dangereuse" longtemps après que sa charge virale soit devenue indétectable, simplement parce que l'image intérieure du diagnostic a mis plus de temps à changer que le résultat de la prise de sang.
+
+### 14.2 L'herpès génital : une gestion à vie, pas une urgence permanente
+
+Le chapitre 4 a déjà posé les bases médicales de l'herpès génital. Ce qui manque souvent, c'est la dimension du quotidien sur plusieurs années : la fréquence des poussées tend à diminuer avec le temps chez la majorité des personnes, l'anxiété initiale liée au diagnostic s'atténue généralement à mesure que la personne apprend à reconnaître les signes avant-coureurs d'une poussée (picotement, sensibilité localisée) et à s'organiser en conséquence, plutôt que de vivre dans l'appréhension continue d'un épisode imprévisible.
+
+**Bons réflexes.**
+- Tenir, les premiers mois, un carnet des poussées (déclencheurs possibles : stress, fatigue, exposition solaire, règles) pour repérer ses propres facteurs plutôt que de subir l'imprévisibilité.
+- Se rappeler qu'un diagnostic d'herpès n'est pas un jugement sur l'hygiène ou le comportement passé : le virus est extrêmement répandu, silencieux dans la majorité des cas, et son acquisition ne dit rien du nombre de partenaires ni de la prudence de la personne.
+
+### 14.3 Le poids psychologique de la non-divulgation
+
+Beaucoup de personnes vivant avec une IST chronique choisissent, au moins un temps, de ne pas en parler à un nouveau partenaire, et ce choix a un coût documenté qu'il vaut la peine de connaître avant de le faire soi-même ou de juger quelqu'un qui le fait. [Une étude qualitative récente identifie la peur de la stigmatisation comme l'obstacle psychologique le plus fréquemment cité à la divulgation du statut VIH à un partenaire sexuel, un système de perception du risque multidimensionnel mêlant crainte de la discrimination, de la rupture de la relation et de l'insécurité sociale](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1870907/full) (étude qualitative sur le processus psychologique de divulgation du VIH, *Frontiers in Public Health*, 2026 ; vérification du 16 septembre 2026). Dans une autre étude menée sur des personnes récemment diagnostiquées, [plus d'un cinquième des répondants rapportaient une interruption de traitement, et parmi les personnes n'ayant pas divulgué leur statut à leur partenaire, les sentiments les plus fréquemment cités étaient la culpabilité, la honte, le sentiment de ne rien valoir et de se sentir "sale"](https://pmc.ncbi.nlm.nih.gov/articles/PMC12507297/) (Stigma Index 2.0, étude sur la divulgation du statut VIH ; vérification du 16 septembre 2026).
+
+Ce n'est pas un plaidoyer pour taire un diagnostic : la non-divulgation est associée à une détresse psychologique plus grande et à des comportements de santé plus dégradés dans la durée (observance au traitement plus irrégulière, recours au soin retardé), tandis que la divulgation, quand elle est possible dans un contexte suffisamment sécurisant, est associée à une meilleure santé physique et psychologique. Le nœud du problème n'est donc pas la divulgation en elle-même, c'est la stigmatisation qui la rend si coûteuse à envisager.
+
+**Nuance nécessaire.** Ce constat ne culpabilise pas la personne qui retarde une divulgation : c'est une réponse rationnelle face à un risque social réel, pas un défaut de courage. Le levier qui change la donne n'est pas seulement individuel, c'est aussi collectif : moins une société stigmatise une IST chronique, moins la divulgation coûte cher à celui ou celle qui la fait.
+
+## Sources vérifiables
+
+- [Undetectable = Untransmittable: A Cross-Population Systematic Review and Meta-Analysis on Awareness and Acceptance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12298288/) — écart entre connaissance et acceptation d'U=U selon les populations ; vérification du 16 septembre 2026.
+- Étude qualitative sur le processus psychologique de divulgation du VIH, [The psychological process and support needs of HIV-positive individuals who disclose their status to sexual partners](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1870907/full), *Frontiers in Public Health*, 2026 — obstacles psychologiques à la divulgation ; vérification du 16 septembre 2026.
+- [Disclosing HIV status to sexual partner: Findings from a People Living with HIV Stigma Index 2.0 study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12507297/) — impact de la non-divulgation sur l'observance et le vécu émotionnel ; vérification du 16 septembre 2026.
+
+---
+
+## 15. Histoire de la stigmatisation : de la syphilis au sida
+
+Comprendre pourquoi les IST restent aujourd'hui plus taboues que d'autres maladies chroniques demande de remonter le fil de leur histoire : la honte qui les entoure n'est pas une réaction spontanée, elle s'est construite, épisode après épisode.
+
+### 15.1 La grande vérole : une épidémie qu'on a nommée d'après l'ennemi du moment
+
+La syphilis offre le premier exemple documenté d'un réflexe qui allait se répéter pendant des siècles : attribuer une maladie honteuse à l'étranger plutôt qu'à soi-même. [Lorsqu'une épidémie de cette nouvelle et terrible maladie éclate en 1495 parmi les soldats de Charles VIII lors de l'invasion de Naples, les Français l'appellent "la maladie napolitaine", tandis que les Anglais et les Italiens la nomment "la maladie française" ou "la vérole française", chaque nation la baptisant du nom d'un pays voisin plutôt que du sien](https://jmvh.org/article/syphilis-its-early-history-and-treatment-until-penicillin-and-the-debate-on-its-origins/) (histoire de la syphilis et de son traitement jusqu'à la pénicilline, *Journal of Military and Veterans' Health* ; vérification du 16 septembre 2026).
+
+**Analogie utile.** C'est le même mécanisme que celui qui pousse, aujourd'hui encore, à associer spontanément une IST à "quelqu'un d'autre", une catégorie de personnes qu'on imagine différente de soi : la maladie devient un marqueur d'altérité avant d'être reconnue comme un simple agent infectieux qui ne choisit personne en particulier.
+
+Le traitement disponible pendant des siècles était pire, par bien des aspects, que la maladie elle-même. [Les onctions et fumigations au mercure, seul traitement disponible pendant des siècles, étaient douloureuses et de nombreux patients mouraient d'un empoisonnement au mercure plutôt que de la syphilis elle-même](https://jmvh.org/article/syphilis-its-early-history-and-treatment-until-penicillin-and-the-debate-on-its-origins/) (vérification du 16 septembre 2026). Il faudra attendre 1910 pour le Salvarsan, premier traitement ciblé de l'histoire de la médecine, puis 1940 pour que la pénicilline, découverte par Alexander Fleming en 1928, s'impose enfin comme un traitement efficace et relativement sûr.
+
+### 15.2 Le sida des années 1980 : une épidémie aggravée par le silence institutionnel
+
+Un siècle plus tard, un scénario comparable se rejoue avec une intensité inédite. [Au milieu des années 1980, l'apparition soudaine du VIH/sida plonge les États-Unis dans une crise de santé publique majeure, touchant d'abord et de façon disproportionnée les hommes homosexuels, ce qui déclenche une hystérie collective et stigmatise davantage une population déjà engagée depuis des décennies dans une lutte contre l'homophobie ; l'absence de réaction rapide des pouvoirs publics pour informer et endiguer le virus a très probablement contribué à sa propagation](https://www.history.com/articles/act-up-aids-patient-rights) (HISTORY, sur les activistes du sida et les droits des patients ; vérification du 16 septembre 2026).
+
+C'est dans ce contexte de silence institutionnel que naît, en 1987 à New York, un mouvement qui allait changer durablement le rapport de force entre patients et institutions médicales. [L'AIDS Coalition to Unleash Power (Act Up), cofondée par l'activiste Larry Kramer, mobilise des tactiques de confrontation directe, manifestations à haute visibilité visant les laboratoires pharmaceutiques et les pouvoirs publics, pour exiger un accès abordable aux traitements ; le mouvement contribue à faire baisser le prix des médicaments, à transformer le processus d'approbation de la FDA, à inclure les patients séropositifs dans les essais cliniques de nouveaux traitements, et à réduire la stigmatisation sociale du sida](https://www.history.com/articles/act-up-aids-patient-rights) (vérification du 16 septembre 2026).
+
+En France, le mouvement équivalent, Act Up-Paris, mène le même combat dans les années 1990. [Le film "120 battements par minute", réalisé par Robin Campillo et sorti en 2017, retrace l'action d'Act Up-Paris au début des années 1990 pour combattre l'indifférence générale face à l'épidémie de sida, alors que le VIH ravage la communauté homosexuelle ; le film obtient le Grand Prix du jury et le prix FIPRESCI au Festival de Cannes 2017, six César en 2018, et dépasse 850 000 entrées en France](https://fr.wikipedia.org/wiki/120_Battements_par_minute) (Wikipédia, fiche du film ; vérification du 16 septembre 2026). Le titre du film, qui fait référence à un tempo de musique house plutôt qu'à un rythme cardiaque, évoque volontairement une époque à la fois festive et anxieuse, exactement à l'image de ce que vivait la communauté concernée.
+
+👁️ **Vu de l'autre côté** Une génération née après la trithérapie efficace, disponible depuis 1996, perçoit souvent le sida comme un chapitre historique clos, une crise réglée depuis longtemps. Ce que les survivants de cette période, et les militants qui l'ont traversée, ne disent pas toujours à voix haute face à cette lecture : la maladie a été vaincue médicalement bien avant que la honte qui l'accompagnait ne le soit socialement, et cette dette-là n'a jamais été soldée, seulement recouverte par le temps.
+
+### 15.3 Ce que cette histoire explique encore aujourd'hui
+
+Le lien entre ces deux épisodes, séparés de quatre siècles, n'est pas anecdotique : dans les deux cas, une infection transmissible sexuellement a été traitée comme un marqueur moral avant d'être traitée comme une maladie, avec un coût humain directement lié à ce détournement, retard de traitement, silence institutionnel, violence sociale envers les personnes atteintes.
+
+C'est ce même mécanisme, sous une forme atténuée, qui explique pourquoi une IST bénigne et facilement traitable aujourd'hui (chlamydia, herpès) continue de porter un poids émotionnel disproportionné par rapport à sa gravité médicale réelle : l'histoire de la stigmatisation a une inertie bien plus longue que celle du progrès médical.
+
+## Sources vérifiables
+
+- [Syphilis: Its Early History and Treatment until Penicillin and the Debate on its Origins](https://jmvh.org/article/syphilis-its-early-history-and-treatment-until-penicillin-and-the-debate-on-its-origins/), *Journal of Military and Veterans' Health* — histoire de la syphilis, nomenclature et traitements successifs ; vérification du 16 septembre 2026.
+- HISTORY, [How AIDS Activists Fought for Patients' Rights](https://www.history.com/articles/act-up-aids-patient-rights) — contexte de la crise du sida et fondation d'Act Up ; vérification du 16 septembre 2026.
+- Wikipédia, [120 Battements par minute](https://fr.wikipedia.org/wiki/120_Battements_par_minute) — représentation cinématographique d'Act Up-Paris ; vérification du 16 septembre 2026.
+
+---
+
+## 16. Sociologie du dépistage : qui se fait tester, et pourquoi
+
+Le dépistage n'est jamais réparti au hasard dans une population : l'âge, le milieu social, l'orientation, l'accès géographique et même l'usage d'une application de rencontre pèsent tous sur la probabilité qu'une personne se fasse tester, à risque égal.
+
+### 16.1 Les applications de rencontre : plus de dépistage, mais pas forcément moins de risque
+
+L'idée reçue veut que les applications de rencontre soient simplement responsables d'une hausse des IST. La réalité est plus nuancée, et plus intéressante. [Une étude publiée dans Frontiers in Reproductive Health a établi que les utilisateurs d'applications de rencontre étaient 1,8 fois plus susceptibles de recourir au dépistage IST dans les cliniques universitaires que les non-utilisateurs](https://scienceblog.com/dating-app-use-linked-to-higher-sexual-health-risks-among-college-students/) (étude sur les liens entre usage des applications de rencontre et risques pour la santé sexuelle, *Frontiers in Reproductive Health* ; vérification du 16 septembre 2026). Les mêmes recherches montrent aussi un usage plus fréquent de comportements à risque (davantage de partenaires, protection moins systématique) chez ces mêmes utilisateurs.
+
+**Nuance nécessaire.** Les chercheurs soulignent explicitement que la causalité va probablement dans les deux sens : les applications facilitent la rencontre de partenaires occasionnels, mais des personnes déjà engagées dans des comportements à risque plus élevés se tournent aussi, indépendamment, davantage vers ces applications. Ce n'est donc pas un verdict moral sur l'outil lui-même : c'est un facteur qui accélère à la fois l'exposition et, de façon positive, le réflexe de dépistage associé.
+
+### 16.2 Les inégalités d'accès, un facteur documenté au-delà du comportement individuel
+
+Se faire dépister suppose un accès réel à une structure de santé, un temps disponible, et l'absence de crainte du jugement dans le lieu où on se présente. Ces trois conditions ne sont pas réparties également. [Les disparités socio-économiques, telles que les inégalités de revenu et l'accès limité aux ressources de santé, se combinent aux appartenances raciales et ethniques pour aggraver les inégalités de santé dans les communautés marginalisées, les zones où l'écart de revenu entre groupes est le plus marqué étant aussi celles où les taux d'IST sont les plus élevés](https://pmc.ncbi.nlm.nih.gov/articles/PMC7799034/) (perspective de laboratoire sur les disparités raciales dans les infections sexuellement transmissibles ; vérification du 16 septembre 2026).
+
+Cette donnée est américaine, le contexte français diffère par la gratuité du réseau CeGIDD et de Mon Test IST (voir 12.1 et 12.2), qui réduit fortement la barrière financière directe. Le principe reste néanmoins transposable : un accès théoriquement gratuit n'efface pas à lui seul un écart d'information, de proximité géographique ou de confiance envers l'institution médicale, qui reste, lui, largement corrélé au niveau socio-économique et au territoire de vie.
+
+### 16.3 L'adolescence, la fenêtre où tout se joue et où presque rien ne se dit
+
+La sexualisation précoce des jeunes générations n'est ni plus ni moins forte qu'avant, mais l'accès à l'information s'est radicalement déplacé vers des canaux non institutionnels, réseaux sociaux, pornographie, pairs, bien avant tout cours d'éducation sexuelle structuré. Ce déplacement crée un vrai décalage : l'âge des premiers rapports n'a pas beaucoup changé depuis plusieurs décennies, mais l'âge auquel une information fiable sur le dépistage et la prévention atteint réellement chaque jeune, lui, reste très variable selon l'établissement scolaire, la famille et la région.
+
+**Bons réflexes.**
+- Pour un parent ou un proche, ne pas attendre qu'un adolescent pose la question pour aborder le dépistage : la plupart n'osent jamais la poser en premier.
+- Rappeler qu'un mineur peut se faire dépister et traiter pour une IST en CeGIDD sans autorisation parentale ni facturation qui remonterait à ses parents.
+
+## Sources vérifiables
+
+- [Study links dating app use to increased risk of STIs among college students](https://scienceblog.com/dating-app-use-linked-to-higher-sexual-health-risks-among-college-students/), *Frontiers in Reproductive Health* — lien entre usage des applications de rencontre et recours au dépistage ; vérification du 16 septembre 2026.
+- [Laboratory Perspective on Racial Disparities in Sexually Transmitted Infections](https://pmc.ncbi.nlm.nih.gov/articles/PMC7799034/) — inégalités socio-économiques d'accès au dépistage ; vérification du 16 septembre 2026.
+
+Affirmation sans source précise identifiée à ce jour : les données françaises précises sur l'âge médian d'accès à une information fiable de prévention selon le territoire (16.3), volontairement laissées en termes généraux plutôt que chiffrées sans base solide.
+
+---
+
+## 17. IST et populations invisibilisées : LGBTQ+ et personnes âgées
+
+Deux populations restent, chacune pour des raisons différentes, largement absentes des messages de prévention grand public : les hommes ayant des rapports sexuels avec des hommes, sur-représentés dans certaines IST sans que le dépistage suive toujours, et les personnes âgées, dont la vie sexuelle reste un impensé presque total des politiques de prévention.
+
+### 17.1 Hommes ayant des rapports avec des hommes : un dépistage plus fréquent nécessaire, pas un risque moral
+
+Les recommandations médicales sont, sur ce point, sans ambiguïté et strictement pratiques. [Les hommes ayant des rapports sexuels avec des hommes doivent bénéficier d'un dépistage régulier du VIH, des hépatites B et C, de la gonorrhée, de la chlamydia et de la syphilis, avec une vaccination proposée contre les hépatites A et B ainsi que contre le papillomavirus](https://www.aafp.org/afp/2024/0400/preventive-care-men-who-have-sex-with-men) (American Academy of Family Physicians, recommandations de soins préventifs ; vérification du 16 septembre 2026). [Les IST qui touchent de façon disproportionnée cette population incluent le VIH, le cancer anal lié au HPV et la syphilis, avec des disparités additionnelles en santé mentale, risque suicidaire, accès aux soins et état de santé perçu](https://www.aafp.org/afp/2024/0400/preventive-care-men-who-have-sex-with-men) (vérification du 16 septembre 2026).
+
+Ce n'est pas un hasard biologique isolé : [les freins à l'accès aux soins incluent l'absence d'un environnement clinique accueillant, une couverture santé insuffisante, et le stress minoritaire lié à l'orientation sexuelle, tandis que la stigmatisation sociale, les difficultés à accéder à des soins adaptés, une utilisation moins systématique du préservatif combinée à un nombre de partenaires plus élevé, et un déficit d'éducation sexuelle spécifique expliquent une part importante des taux plus élevés d'IST observés dans cette population](https://www.aafp.org/afp/2024/0400/preventive-care-men-who-have-sex-with-men) (vérification du 16 septembre 2026).
+
+**Bons réflexes.**
+- Pour un homme ayant des rapports avec des hommes, viser un rythme de dépistage plus rapproché (tous les trois à six mois en cas de partenaires multiples) plutôt que le rythme annuel généralement suffisant en population générale.
+- Chercher, si possible, un praticien ou un centre réputé pour son accueil sans jugement : la qualité de cet accueil influence directement la régularité réelle du suivi dans la durée, davantage qu'une simple recommandation théorique.
+
+### 17.2 Les personnes âgées : une population sexuellement active que la prévention oublie
+
+L'hypothèse implicite selon laquelle la sexualité s'arrête avec l'âge continue de structurer, en creux, les politiques de prévention, alors qu'elle est factuellement fausse. [Jusqu'aux deux tiers des adultes de plus de 60 ans restent sexuellement actifs, et environ 40 % des personnes de 65 à 80 ans le sont également, la majorité des personnes âgées se déclarant par ailleurs intéressées par la sexualité selon une enquête de l'AARP](https://www.ama-assn.org/public-health/population-health/stis-rise-among-older-adults-here-s-what-doctors-can-do) (American Medical Association, sur la hausse des IST chez les adultes plus âgés ; vérification du 16 septembre 2026).
+
+Cette réalité entre en collision frontale avec des pratiques de prévention pensées presque exclusivement pour les jeunes adultes. [Les taux de chlamydia, gonorrhée et syphilis ont plus que doublé en dix ans chez les personnes de 55 ans et plus aux États-Unis, avec des hausses de 383 % pour la gonorrhée, 200 % pour la chlamydia et 92 % pour le VIH entre 2010 et 2019 dans cette tranche d'âge](https://www.helpadvisor.com/community-health/senior-std-study) (analyse des taux d'IST chez les seniors américains ; vérification du 16 septembre 2026). Une part de cette hausse reflète une meilleure détection, mais une large part reflète aussi un relâchement réel de la prévention : la génération concernée n'a, pour beaucoup, jamais eu à envisager une grossesse comme risque principal après la ménopause ou une chirurgie, ce qui réduit d'autant le réflexe du préservatif, sans qu'aucune autre habitude de prévention ne prenne le relais.
+
+Le problème n'est pas seulement comportemental, il est aussi institutionnel. [Une large part des professionnels de santé n'aborde pas la vie sexuelle de leurs patients âgés ni ne les dépiste systématiquement pour les IST, ce sujet étant souvent négligé en soins primaires du fait d'une gêne du soignant lui-même face à la sexualité des personnes âgées, ce qui conduit à une possible mauvaise interprétation des symptômes, attribués à une autre pathologie plutôt qu'à une IST, sous l'hypothèse implicite d'une absence d'activité sexuelle](https://oasis.library.unlv.edu/cgi/viewcontent.cgi?article=5016&context=thesesdissertations) (thèse universitaire sur les IST et la population des 65 ans et plus ; vérification du 16 septembre 2026).
+
+💑 **Dans le couple.** Une nouvelle relation après un veuvage ou une séparation tardive, plus fréquente qu'on ne le pense passé 60 ans, s'accompagne rarement du réflexe de dépistage qui semblerait naturel à 25 ans. Nommer explicitement ce sujet avec un nouveau partenaire, à n'importe quel âge, reste la même conversation que celle décrite au chapitre 8, ni plus gênante ni moins nécessaire à cet âge qu'à un autre.
+
+**Bons réflexes.**
+- Pour un professionnel de santé comme pour un patient, ne jamais présumer de l'absence d'activité sexuelle du seul fait de l'âge : poser la question directement plutôt que de la contourner par gêne.
+- En cas de nouvelle relation après une longue période de vie en couple stable, envisager un dépistage complet plutôt que de considérer le préservatif comme un réflexe qui n'a plus lieu d'être.
+
+## Sources vérifiables
+
+- American Academy of Family Physicians, [Preventive Care for Men Who Have Sex With Men](https://www.aafp.org/afp/2024/0400/preventive-care-men-who-have-sex-with-men) — recommandations de dépistage, disparités et freins à l'accès aux soins ; vérification du 16 septembre 2026.
+- American Medical Association, [With STIs on rise among older adults, here's what doctors can do](https://www.ama-assn.org/public-health/population-health/stis-rise-among-older-adults-here-s-what-doctors-can-do) — sexualité active après 60 ans ; vérification du 16 septembre 2026.
+- [STD Rates Soar Among America's Older Adults](https://www.helpadvisor.com/community-health/senior-std-study) — évolution des taux d'IST chez les personnes de 55 ans et plus ; vérification du 16 septembre 2026.
+- [Sexually Transmitted Infections and the 65 and Older Population](https://oasis.library.unlv.edu/cgi/viewcontent.cgi?article=5016&context=thesesdissertations), thèse universitaire — sous-dépistage lié à la gêne des professionnels de santé ; vérification du 16 septembre 2026.

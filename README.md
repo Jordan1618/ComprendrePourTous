@@ -2,10 +2,10 @@
 projet: "Comprendre pour tous"
 type: "collection"
 guides: 11
-chapitres: 163
-mots: 236333
+chapitres: 179
+mots: 276222
 cree_le: 2026-07-21
-mis_a_jour_le: 2026-09-15
+mis_a_jour_le: 2026-09-16
 licence: "CC BY 4.0"
 auteur: "Jordan1618"
 depot: "https://github.com/Jordan1618/ComprendrePourTous"
@@ -13,7 +13,9 @@ depot: "https://github.com/Jordan1618/ComprendrePourTous"
 
 # Comprendre pour tous
 
-**Le corps, les émotions, l'esprit : construire et vivre ses relations pour de vrai.**
+Ce que je veux, avant tout le reste : que chacun puisse mieux se comprendre. Comprendre ce qu'il ressent et pourquoi, plutôt que de subir une émotion sans savoir la nommer. Voir plus clair dans sa propre vie, dans ses relations, dans ce qui s'y rejoue sans qu'on l'ait choisi. Apprendre à se mettre en sécurité, à repérer ce qui abîme avant que ça ne devienne trop tard. Savoir ce qui fait du bien, réellement, pas ce qu'on nous vend comme tel. Faire le point sur ce qui s'est passé, un traumatisme, une rupture, une relation qui a laissé des traces, sans se raconter d'histoire dessus. Et savoir, très concrètement, quand une difficulté dépasse ce qu'on peut porter seul, vers qui se tourner, et ce que la recherche a réellement établi sur ce qui aide et ce qui n'aide pas.
+
+Tout le reste, l'IA, le choix des sujets, la méthode, n'est qu'un moyen au service de ça.
 
 Dépôt : https://github.com/Jordan1618/ComprendrePourTous
 Site : https://www.comprendrepourtous.fr
@@ -22,9 +24,7 @@ Site : https://www.comprendrepourtous.fr
 
 ## Pourquoi ce projet
 
-Ce que je veux, avant tout le reste : que chacun puisse mieux se comprendre. Comprendre ce qu'il ressent et pourquoi, plutôt que de subir une émotion sans savoir la nommer. Voir plus clair dans sa propre vie, dans ses relations, dans ce qui s'y rejoue sans qu'on l'ait choisi. Apprendre à se mettre en sécurité, à repérer ce qui abîme avant que ça ne devienne trop tard. Savoir ce qui fait du bien, réellement, pas ce qu'on nous vend comme tel. Faire le point sur ce qui s'est passé, un traumatisme, une rupture, une relation qui a laissé des traces, sans se raconter d'histoire dessus. Et savoir, très concrètement, quand une difficulté dépasse ce qu'on peut porter seul, vers qui se tourner, et ce que la recherche a réellement établi sur ce qui aide et ce qui n'aide pas.
-
-Tout le reste, l'IA, le choix des sujets, la méthode, n'est qu'un moyen au service de ça.
+**Le corps, les émotions, l'esprit : construire et vivre ses relations pour de vrai.**
 
 Ce texte répond aux questions qu'on me pose le plus souvent sur ce projet : pourquoi l'IA, pourquoi ces sujets, comment je le vois, et ce qu'on peut légitimement lui reprocher. Il est en haut parce qu'un projet qui parle de transparence devrait commencer par être transparent sur lui-même.
 
@@ -92,7 +92,7 @@ Ce projet est un kit de base : de quoi se comprendre soi-même et comprendre l'a
 | [L'amour](<1 - Guides/L amour/README.md>) | commun | 9 | Les trois systèmes, ce qu'on rejoue, scripts culturels, désir dans la durée, engagement | [intégrale](<0 - Guides complets/L'amour.md>) |
 | [Questions et communication](<1 - Guides/Questions et communication/README.md>) | commun | 23 | Ce qu'une question fait, science de la communication, travail et négociation, histoire, corps et non-verbal, storytelling, messages privés, désamorçage, introspection, développement personnel | [intégrale](<0 - Guides complets/Questions et communication.md>) |
 | [Les émotions](<1 - Guides/Les emotions/README.md>) | commun | 20 | Fabrication, origines, nommer, décoder, réguler, troubles, parcours de soin, tabous, histoire, culture, société, émotions positives | [intégrale](<0 - Guides complets/Les émotions.md>) |
-| [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 11 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV, vocabulaire IST/MST, en parler en couple, contraception et prévention combinée, recherche en cours, réduction des risques | [intégrale](<0 - Guides complets/IST, dépistage et prévention.md>) |
+| [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 17 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV, vocabulaire IST/MST, en parler en couple, contraception et prévention combinée, recherche en cours, réduction des risques, dépistage en pratique, résistance aux antibiotiques, vivre avec une IST chronique, histoire de la stigmatisation, sociologie du dépistage, populations invisibilisées | [intégrale](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 12 | Cadre, techniques, zones du corps, produits, contre-indications | [intégrale](<0 - Guides complets/Massage professionnel.md>) |
 | [Réseaux sociaux](<1 - Guides/Reseaux sociaux/README.md>) | commun | 10 | Histoire, conception, attention, algorithmes, image de soi, dérives amoureuses numériques, cyberharcèlement, cadre légal | [intégrale](<0 - Guides complets/Réseaux sociaux.md>) |
 

@@ -137,12 +137,12 @@ Un domaine transversal à toujours renforcer, dans n'importe quel guide : l'impo
 
 ## Chantiers ouverts
 
-1. **Revérification des chiffres.** Prioritaire avant toute diffusion large. Commencer par le guide IST, le plus exposé aux données périmées.
-2. **Étoffer les notions.** La liste s'est déjà allongée, mais chaque nouveau guide introduit des concepts (masculinité précaire, alliance thérapeutique, homogamie...) qui méritent d'être vérifiés contre `2 - Notions/` et complétés si absents.
+1. **Revérification des chiffres des guides autres qu'IST.** Le guide IST a reçu une passe de données 2024-2026 le 16 septembre 2026 (épidémiologie française, résistance antibiotique, Mon Test IST) ; les autres guides n'ont pas eu cette revue.
+2. **Étoffer les notions.** La liste s'est déjà allongée, mais chaque nouveau guide introduit des concepts (masculinité précaire, alliance thérapeutique, homogamie, stigmatisation liée aux IST...) qui méritent d'être vérifiés contre `2 - Notions/` et complétés si absents.
 3. **Passe de nuance globale.** Relire les guides déjà terminés pour repérer les formulations encore trop absolues et les assouplir, à la manière de la correction faite dans Pour Nous (chapitre sur la belle-famille).
-4. **Étoffer les émotions positives dans le guide Les émotions.** Les 18 chapitres actuels penchent fortement vers les troubles, les tabous et les difficultés ; la joie, le plaisir et la gratitude n'ont pas de place dédiée.
+4. **Sources des chapitres 11 à 18 des guides autres qu'IST et Les émotions**, à vérifier une par une contre `4 - Sources/` : le même trou de réciprocité comblé sur Les émotions le 15 septembre 2026 peut exister ailleurs, non vérifié systématiquement à ce jour.
 
-Fait depuis la dernière relecture de ce fichier (13 août 2026) : la conversion des citations de Pour Elle en hyperliens (plus aucun guide au format ancien), le dégenrage partiel de Pour Lui (accords féminins neutralisés dans les passages qui s'adressent à "toi" comme partenaire ; la structure "toi = partenaire" elle-même n'a pas été réécrite, choix assumé), et la conversion de tous les renvois internes du type "voir 4.4" en liens cliquables sur l'ensemble des guides.
+Fait depuis la dernière relecture de ce fichier (13 août 2026) : la conversion des citations de Pour Elle en hyperliens (plus aucun guide au format ancien), le dégenrage partiel de Pour Lui (accords féminins neutralisés dans les passages qui s'adressent à "toi" comme partenaire ; la structure "toi = partenaire" elle-même n'a pas été réécrite, choix assumé), la conversion de tous les renvois internes du type "voir 4.4" en liens cliquables sur l'ensemble des guides, l'ajout de deux chapitres sur les émotions positives dans Les émotions, et l'enrichissement du guide IST de 11 à 17 chapitres (dépistage en pratique, résistance antibiotique, vivre avec une IST chronique, histoire de la stigmatisation, sociologie du dépistage, populations invisibilisées).
 
 ## Licence
 

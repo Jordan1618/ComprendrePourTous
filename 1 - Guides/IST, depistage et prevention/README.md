@@ -2,9 +2,9 @@
 type: "guide"
 guide: "IST, dépistage et prévention"
 sujet: "commun"
-chapitres: 11
-mots: 8209
-verifie_le: 2026-08-13
+chapitres: 17
+mots: 13254
+verifie_le: 2026-09-16
 licence: "CC BY 4.0"
 ---
 
@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 **Comprendre, dépister, protéger, en parler**
 
-Un guide court et directement utile sur les infections sexuellement transmissibles : ce qu'elles sont, comment elles se transmettent, lesquelles sont silencieuses, comment on les dépiste et comment on s'en protège. Chlamydia, gonorrhée, syphilis, herpès génital, VIH et HPV sont traités un par un, avant d'élargir sur le vocabulaire, la conversation en couple, le croisement entre contraception et prévention des IST, la recherche en cours et les bonnes pratiques de réduction des risques.
+Un guide directement utile sur les infections sexuellement transmissibles : ce qu'elles sont, comment elles se transmettent, lesquelles sont silencieuses, comment on les dépiste et comment on s'en protège. Chlamydia, gonorrhée, syphilis, herpès génital, VIH et HPV sont traités un par un, avant d'élargir sur le vocabulaire, la conversation en couple, le croisement entre contraception et prévention des IST, la recherche en cours et les bonnes pratiques de réduction des risques. Le guide couvre aussi l'accès réel au dépistage aujourd'hui, la résistance aux antibiotiques, le quotidien de vivre avec une IST chronique, l'histoire de la stigmatisation, la sociologie du dépistage, et les populations que la prévention oublie trop souvent.
 
 C'est le guide le plus factuel de la collection, et sans doute le plus immédiatement actionnable. La plupart des idées reçues sur le sujet datent de trente ans et sont fausses aujourd'hui, en particulier sur le VIH.
 
@@ -35,7 +35,13 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 9 | [Contraception et prévention des IST : ce qui protège de quoi](<09 - Contraception et prevention des IST.md>) | prévention | 1 030 |
 | 10 | [La recherche en cours : vaccins, autotests, PrEP nouvelle génération](<10 - La recherche en cours.md>) | prévention | 1 073 |
 | 11 | [Bonnes pratiques et réduction des risques](<11 - Bonnes pratiques et reduction des risques.md>) | pratique | 1 151 |
+| 12 | [Le dépistage en pratique aujourd'hui](<12 - Le depistage en pratique aujourd hui.md>) | prévention | 727 |
+| 13 | [Résistance aux antibiotiques : l'urgence silencieuse des IST bactériennes](<13 - Resistance aux antibiotiques.md>) | prévention | 667 |
+| 14 | [Vivre avec une IST chronique : le quotidien au long cours](<14 - Vivre avec une IST chronique.md>) | psychologie | 990 |
+| 15 | [Histoire de la stigmatisation : de la syphilis au sida](<15 - Histoire de la stigmatisation.md>) | histoire | 949 |
+| 16 | [Sociologie du dépistage : qui se fait tester, et pourquoi](<16 - Sociologie du depistage.md>) | société | 705 |
+| 17 | [IST et populations invisibilisées : LGBTQ+ et personnes âgées](<17 - IST et populations invisibilisees.md>) | société | 968 |
 
-Total : 8 209 mots, 11 chapitres.
+Total : 13 254 mots, 17 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "angle"
-mis_a_jour_le: 2026-09-15
+mis_a_jour_le: 2026-09-16
 licence: "CC BY 4.0"
 ---
 
@@ -54,6 +54,7 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [D'où viennent les émotions : famille, société, institutions](<../1 - Guides/Les emotions/02 - D ou viennent les emotions.md>)  `commun` · Les émotions
 - [Reconnaître et nommer : la granularité émotionnelle](<../1 - Guides/Les emotions/03 - Reconnaitre et nommer.md>)  `commun` · Les émotions
 - [Les émotions positives : joie, plaisir et gratitude](<../1 - Guides/Les emotions/19 - Les emotions positives.md>)  `commun` · Les émotions
+- [Vivre avec une IST chronique : le quotidien au long cours](<../1 - Guides/IST, depistage et prevention/14 - Vivre avec une IST chronique.md>)  `commun` · IST, dépistage et prévention
 - [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `commun` · Questions et communication
 - [Les émotions en jeu](<../1 - Guides/Questions et communication/05 - Les émotions en jeu.md>)  `commun` · Questions et communication
 - [Communiquer pour se développer, soi-même et les autres](<../1 - Guides/Questions et communication/11 - Communiquer pour se developper, soi-meme et les autres.md>)  `commun` · Questions et communication
@@ -86,6 +87,8 @@ Dépistage, protection, risque réel contre risque perçu.
 - [HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable](<../1 - Guides/IST, depistage et prevention/06 - HPV et vaccination.md>)  `commun` · IST, dépistage et prévention
 - [Contraception et prévention des IST : ce qui protège de quoi](<../1 - Guides/IST, depistage et prevention/09 - Contraception et prevention des IST.md>)  `commun` · IST, dépistage et prévention
 - [La recherche en cours : vaccins, autotests, PrEP nouvelle génération](<../1 - Guides/IST, depistage et prevention/10 - La recherche en cours.md>)  `commun` · IST, dépistage et prévention
+- [Le dépistage en pratique aujourd'hui](<../1 - Guides/IST, depistage et prevention/12 - Le depistage en pratique aujourd hui.md>)  `commun` · IST, dépistage et prévention
+- [Résistance aux antibiotiques : l'urgence silencieuse des IST bactériennes](<../1 - Guides/IST, depistage et prevention/13 - Resistance aux antibiotiques.md>)  `commun` · IST, dépistage et prévention
 - [Risques, contre-indications et signaux d'alerte](<../1 - Guides/Massage professionnel/09 - Risques et contre-indications.md>)  `commun` · Massage professionnel
 - [Cyberintimidation, modération et cadre légal](<../1 - Guides/Reseaux sociaux/08 - Cyberintimidation moderation et cadre legal.md>)  `commun` · Réseaux sociaux
 
@@ -216,5 +219,8 @@ Ces chapitres portent un angle absent de la liste officielle. Soit l'angle est �
 - [L'éco-anxiété et les émotions des grandes transitions](<../1 - Guides/Les emotions/17 - L eco-anxiete.md>)  `environnement` · Les émotions
 - [Émotions, corps et performance](<../1 - Guides/Les emotions/18 - Emotions corps et performance.md>)  `sport` · Les émotions
 - [Le bonheur à travers les sociétés et les philosophies](<../1 - Guides/Les emotions/20 - Le bonheur a travers les societes.md>)  `culture` · Les émotions
+- [Histoire de la stigmatisation : de la syphilis au sida](<../1 - Guides/IST, depistage et prevention/15 - Histoire de la stigmatisation.md>)  `histoire` · IST, dépistage et prévention
+- [Sociologie du dépistage : qui se fait tester, et pourquoi](<../1 - Guides/IST, depistage et prevention/16 - Sociologie du depistage.md>)  `société` · IST, dépistage et prévention
+- [IST et populations invisibilisées : LGBTQ+ et personnes âgées](<../1 - Guides/IST, depistage et prevention/17 - IST et populations invisibilisees.md>)  `société` · IST, dépistage et prévention
 
 Retour à [l'accueil de Comprendre pour tous](<../README.md>).

@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "IST, dépistage et prévention"
-mis_a_jour_le: 2026-08-14
+mis_a_jour_le: 2026-09-16
 licence: "CC BY 4.0"
 ---
 
@@ -70,6 +70,38 @@ Sources du guide [IST, dépistage et prévention](<../1 - Guides/IST, depistage 
 | Bachmann, L. H. et coll. (2024), [CDC Clinical Guidelines on the Use of Doxycycline Postexposure Prophylaxis for Bacterial Sexually Transmitted Infection Prevention, United States, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11166373/), *MMWR Recommendations and Reports* | Efficacité et recommandations d'usage du doxyPEP | 10 |
 | [Pharyngeal Gonorrhoea: The Willingness of Australian Men Who Have Sex with Men to Change Current Sexual Practices to Reduce Their Risk of Transmission — A Qualitative Study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5167548/) | Caractère silencieux et sous-dépisté de la gonorrhée pharyngée | 11 |
 | [Predictors of depression, anxiety, and overall psychological distress in people living with HIV/AIDS: analyses from the Stigma Index Brazil 2.0](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12600019/), 2025 | Lien entre stigmatisation intériorisée et santé mentale chez les personnes vivant avec une IST | 11 |
+
+## Dépistage en pratique et résistance antibiotique
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Assurance Maladie, [Dépister les IST](https://www.ameli.fr/assure/sante/themes/mst-ist/depistage) | Réseau CeGIDD, gratuité et anonymat | 12.1 |
+| [Dépistage des IST gratuit et anonyme : quelles sont vos options en France ?](https://www.biocentrelab.fr/depistage-des-ist-gratuit-et-anonyme-quelles-sont-vos-options-en-france) | Extension du dispositif Mon Test IST 2025-2026 | 12.2 |
+| Santé publique France, [Bulletin national VIH et IST bactériennes](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf), 23 octobre 2025 | Volume de recours au dépistage à domicile en 2024 | 12.2 |
+| [Test IST : où, quand et comment faire un dépistage efficace ?](https://www.medecindirect.fr/blog/test-ist-ou-quand-comment-faire-un-depistage-efficace), Médecin Direct | Fiabilité comparée des autotests VIH et du dépistage en laboratoire | 12.3 |
+| Organisation mondiale de la santé, [Increasing resistance to key gonorrhea antibiotics raises alarm](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea), Programme EGASP, 2025 | Résistance croissante du gonocoque aux antibiotiques de référence | 13.1, 13.2 |
+
+## Vivre avec une IST chronique et disclosure
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [Undetectable = Untransmittable: A Cross-Population Systematic Review and Meta-Analysis on Awareness and Acceptance](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12298288/) | Écart entre connaissance et acceptation d'U=U selon les populations | 14.1 |
+| Étude qualitative sur le processus psychologique de divulgation du VIH, [The psychological process and support needs of HIV-positive individuals who disclose their status to sexual partners](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1870907/full), *Frontiers in Public Health*, 2026 | Obstacles psychologiques à la divulgation | 14.3 |
+| [Disclosing HIV status to sexual partner: Findings from a People Living with HIV Stigma Index 2.0 study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12507297/) | Impact de la non-divulgation sur l'observance et le vécu émotionnel | 14.3 |
+
+## Histoire, sociologie et populations spécifiques
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [Syphilis: Its Early History and Treatment until Penicillin and the Debate on its Origins](https://jmvh.org/article/syphilis-its-early-history-and-treatment-until-penicillin-and-the-debate-on-its-origins/), *Journal of Military and Veterans' Health* | Histoire de la syphilis, nomenclature et traitements successifs | 15.1 |
+| HISTORY, [How AIDS Activists Fought for Patients' Rights](https://www.history.com/articles/act-up-aids-patient-rights) | Contexte de la crise du sida et fondation d'Act Up | 15.2 |
+| Wikipédia, [120 Battements par minute](https://fr.wikipedia.org/wiki/120_Battements_par_minute) | Représentation cinématographique d'Act Up-Paris | 15.2 |
+| [Study links dating app use to increased risk of STIs among college students](https://scienceblog.com/dating-app-use-linked-to-higher-sexual-health-risks-among-college-students/), *Frontiers in Reproductive Health* | Lien entre usage des applications de rencontre et recours au dépistage | 16.1 |
+| [Laboratory Perspective on Racial Disparities in Sexually Transmitted Infections](https://pmc.ncbi.nlm.nih.gov/articles/PMC7799034/) | Inégalités socio-économiques d'accès au dépistage | 16.2 |
+| American Academy of Family Physicians, [Preventive Care for Men Who Have Sex With Men](https://www.aafp.org/afp/2024/0400/preventive-care-men-who-have-sex-with-men) | Recommandations de dépistage et freins à l'accès aux soins pour les HSH | 17.1 |
+| American Medical Association, [With STIs on rise among older adults, here's what doctors can do](https://www.ama-assn.org/public-health/population-health/stis-rise-among-older-adults-here-s-what-doctors-can-do) | Sexualité active après 60 ans | 17.2 |
+| [STD Rates Soar Among America's Older Adults](https://www.helpadvisor.com/community-health/senior-std-study) | Évolution des taux d'IST chez les personnes de 55 ans et plus | 17.2 |
+| [Sexually Transmitted Infections and the 65 and Older Population](https://oasis.library.unlv.edu/cgi/viewcontent.cgi?article=5016&context=thesesdissertations), thèse universitaire | Sous-dépistage lié à la gêne des professionnels de santé | 17.2 |
 
 ---
 

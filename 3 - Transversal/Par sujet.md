@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sujet"
-mis_a_jour_le: 2026-09-15
+mis_a_jour_le: 2026-09-16
 licence: "CC BY 4.0"
 ---
 
@@ -161,6 +161,12 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Contraception et prévention des IST : ce qui protège de quoi](<../1 - Guides/IST, depistage et prevention/09 - Contraception et prevention des IST.md>)  `prévention`
 - [La recherche en cours : vaccins, autotests, PrEP nouvelle génération](<../1 - Guides/IST, depistage et prevention/10 - La recherche en cours.md>)  `prévention`
 - [Bonnes pratiques et réduction des risques](<../1 - Guides/IST, depistage et prevention/11 - Bonnes pratiques et reduction des risques.md>)  `pratique`
+- [Le dépistage en pratique aujourd'hui](<../1 - Guides/IST, depistage et prevention/12 - Le depistage en pratique aujourd hui.md>)  `prévention`
+- [Résistance aux antibiotiques : l'urgence silencieuse des IST bactériennes](<../1 - Guides/IST, depistage et prevention/13 - Resistance aux antibiotiques.md>)  `prévention`
+- [Vivre avec une IST chronique : le quotidien au long cours](<../1 - Guides/IST, depistage et prevention/14 - Vivre avec une IST chronique.md>)  `psychologie`
+- [Histoire de la stigmatisation : de la syphilis au sida](<../1 - Guides/IST, depistage et prevention/15 - Histoire de la stigmatisation.md>)  `histoire`
+- [Sociologie du dépistage : qui se fait tester, et pourquoi](<../1 - Guides/IST, depistage et prevention/16 - Sociologie du depistage.md>)  `société`
+- [IST et populations invisibilisées : LGBTQ+ et personnes âgées](<../1 - Guides/IST, depistage et prevention/17 - IST et populations invisibilisees.md>)  `société`
 **Massage professionnel**
 
 - [Le cadre général : ce qui précède la technique](<../1 - Guides/Massage professionnel/01 - Le cadre général.md>)  `pratique`

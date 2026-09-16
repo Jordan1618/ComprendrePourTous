@@ -1,7 +1,7 @@
 ---
 type: "note-interne"
 sujet: "maintenance"
-mis_a_jour_le: 2026-09-15
+mis_a_jour_le: 2026-09-16
 ---
 
 # Historique des demandes
@@ -155,3 +155,6 @@ Heures en UTC (heure du serveur d'enregistrement des sessions).
 | 141 | 15/09/2026 | 14:25 | Demande d'une démonstration concrète du fonctionnement multi-agent, puis feu vert pour rédiger le brouillon de la page. | tu sarais m'y expliquer de A à Z avec une démonstration pour que je me rende compte ? et oui pour le brouillobn |
 | 142 | 15/09/2026 | 14:30 | Corrections sur le brouillon (accent renforcé sur le cadre légal, mise en avant du but principal du projet en ouverture). | mets plus laccent sur la sécurité du cadre légal à la fin + mets en avant que mon but principal est surtout de permettre à chacun d'apprendre [...] |
 | 143 | 15/09/2026 | 14:36 | Validation finale de la page, à publier comme guide indépendant en tête de l'accueil, à la place de l'ancienne section « Pourquoi ce projet existe », avec commit et push. | ça me va, vasy fais le et push et commit, fais le sous forme d'un guide indépendant au début ou à la place de la section qui faisait ça avanbat |
+| 144 | 16/09/2026 | 06:30 | Trois demandes groupées : réorganiser l'ordre de deux paragraphes du README racine, corriger le trou de réciprocité des sources du guide Les émotions et auditer les guides à enrichir, puis enrichir un guide au niveau de Pour Elle/Pour Lui. | change sa place avec le petit paragraphue au dessus pour ce qu'on vient de faire [...] corrige les sources pour les émotions, dis moi aussi quels guides doivent être enrichi/mis à jour [...] fais le 4 également et enrichis le guide aussi puissament que le guide pour elle ou lui |
+| 145 | 16/09/2026 | 06:45 | Choix du guide à enrichir massivement parmi les trois candidats proposés : IST, dépistage et prévention. | IST, dépistage et prévention (réponse à la question de clarification) |
+| 146 | 16/09/2026 | 07:00 | Feu vert pour intégrer l'ensemble des deux angles d'élicitation (médical/technique et historique/social) sur le guide IST, plutôt que de trier. | fais tout ça |

@@ -7,7 +7,7 @@ mots: 73738
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Elle"
-genere_le: 2026-09-15
+genere_le: 2026-09-16
 ---
 
 # Pour Elle

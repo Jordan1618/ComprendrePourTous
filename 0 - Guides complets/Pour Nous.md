@@ -7,7 +7,7 @@ mots: 12296
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Nous"
-genere_le: 2026-09-15
+genere_le: 2026-09-16
 ---
 
 # Pour Nous
