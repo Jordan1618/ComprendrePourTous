@@ -762,6 +762,7 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
      <a href="%(linkedin)s" target="_blank" rel="noopener">LinkedIn</a>.</p>
   <nav class="footer-links" aria-label="Liens de bas de page">
     <a href="/licence/">Licence CC BY 4.0</a>
+    <a href="/a-propos/">À propos</a>
     <a href="/contact/">Contact</a>
     <a href="/mentions-legales/">Mentions légales</a>
     <a href="/confidentialite/">Confidentialité</a>
@@ -928,6 +929,50 @@ def toc_html(headings):
     return "".join(parts)
 
 
+def ldjson(obj):
+    """Bloc JSON-LD : donnees structurees lues par Google et les moteurs
+    d'IA (ChatGPT, Perplexity...) pour citer le site sans avoir a deviner
+    de quoi parle la page."""
+    return ('<script type="application/ld+json">%s</script>'
+            % json.dumps(obj, ensure_ascii=False).replace("</", "<\\/"))
+
+
+def page_schema(page, by_url):
+    """Article ou DefinedTerm selon la page, pour la faire citer par les
+    moteurs de recherche generatifs plutot que de rester une page anonyme."""
+    desc = excerpt(page.html, 300) or page.title
+    canonical = "https://%s%s" % (DOMAIN, page.url)
+    date = page.fm.get("mis_a_jour_le")
+    date = str(date) if date else None
+    if page.section == "notions":
+        obj = {
+            "@context": "https://schema.org",
+            "@type": "DefinedTerm",
+            "name": page.title,
+            "description": desc,
+            "url": canonical,
+            "inDefinedTermSet": "https://%s/notions/" % DOMAIN,
+        }
+    else:
+        obj = {
+            "@context": "https://schema.org",
+            "@type": "Article",
+            "headline": page.title,
+            "description": desc,
+            "url": canonical,
+            "inLanguage": "fr",
+            "isAccessibleForFree": True,
+            "isPartOf": {"@type": "WebSite", "name": SITE_TITLE,
+                        "url": "https://%s/" % DOMAIN},
+        }
+        if date:
+            obj["dateModified"] = date
+        guide = by_url.get(page.parent) if page.parent else None
+        if guide is not None and guide.kind == "guide":
+            obj["about"] = guide.title
+    return ldjson(obj)
+
+
 def source_link(page, by_url=None):
     """Bas de page : les sources du guide, puis le fichier d'origine."""
     liens = []
@@ -1043,7 +1088,25 @@ def render_home(home, pages, by_url, nav):
     body.append('<div class="prose home-prose">%s</div>' % home.html)
     body.append(source_link(home))
 
-    return layout(SITE_TITLE, TAGLINE, "".join(body), nav, "/")
+    home_schema = ldjson({
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": SITE_TITLE,
+        "description": TAGLINE,
+        "url": "https://%s/" % DOMAIN,
+        "inLanguage": "fr",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://%s/recherche/?q={search_term_string}" % DOMAIN,
+            "query-input": "required name=search_term_string",
+        },
+        "publisher": {
+            "@type": "Person",
+            "name": AUTEUR,
+        },
+    })
+    return layout(SITE_TITLE, TAGLINE, "".join(body), nav, "/",
+                  extra_head=home_schema)
 
 
 def render_section(sec, by_url, nav):
@@ -1136,7 +1199,8 @@ def render_page(page, by_url, nav):
     body.append(avis_block(page.title, page.url))
     body.append(feedback_block(page.title, page.url))
     return layout(page.title, excerpt(page.html) or page.title,
-                  "".join(body), nav, page.url, hue=page.hue)
+                  "".join(body), nav, page.url, hue=page.hue,
+                  extra_head=page_schema(page, by_url))
 
 
 def render_search(nav):
@@ -1185,6 +1249,62 @@ def render_index_az(pages, nav):
     body.append("</article>")
     return layout("Index alphabétique", "Toutes les pages classées par titre.",
                   "".join(body), nav, "/index-alphabetique/")
+
+
+def render_apropos(nav):
+    body = ['<article class="prose legal">']
+    body.append(breadcrumb_simple("À propos"))
+    body.append("<h1>À propos</h1>")
+    body.append("""
+<p class="lead">Ce projet est écrit et vérifié par une seule personne&nbsp;:
+Jordan. Pas de rédaction anonyme, pas de comité éditorial&nbsp;: une méthode
+que vous pouvez examiner, et un contact direct si quelque chose cloche.</p>
+
+<h2>Pourquoi ce site existe</h2>
+<p>Ce projet est gratuit, sans publicité et sans compte à créer, et le
+restera. Il n'a pas vocation à vendre quoi que ce soit&nbsp;: l'objectif est
+que l'information juste soit accessible à qui en a besoin, sans barrière.
+Tout le contenu est aussi <a href="/licence/">publié en licence libre</a>,
+pour que n'importe qui puisse le reprendre.</p>
+
+<h2>Qui écrit</h2>
+<p><strong>Jordan</strong>, en parallèle d'une formation en informatique.
+Ce projet est un travail personnel, pas une publication professionnelle de
+santé&nbsp;: c'est écrit noir sur blanc dans le bandeau qui ouvre chaque
+guide, et ça ne change pas selon la page sur laquelle vous arrivez. Code et
+contenu sur <a href="%(repo)s" target="_blank" rel="noopener">GitHub</a>,
+profil sur <a href="%(linkedin)s" target="_blank" rel="noopener">LinkedIn</a>.</p>
+
+<h2>La méthode</h2>
+<p>Chaque affirmation qui peut l'être s'appuie sur une source vérifiable,
+liée directement dans le texte où elle sert, et reprise dans
+<a href="/sources/">le dossier Sources</a>. Quand aucune source fiable n'a
+été trouvée sur un point, c'est écrit tel quel plutôt que comblé par une
+supposition ou une formule qui sonne bien.</p>
+<p>L'écriture s'appuie sur l'intelligence artificielle comme outil, au même
+titre qu'un traitement de texte ou un moteur de recherche&nbsp;: elle aide à
+structurer et à rédiger, mais chaque guide est relu, corrigé et complété à
+la main avant publication. Rien n'est publié sans passer par cette relecture.</p>
+<p>Aucun avis personnel n'est présenté comme un fait sur les sujets
+complexes&nbsp;: relation, santé, psychisme. Quand la recherche est
+partagée ou incertaine sur un point, le texte le dit plutôt que de trancher
+à sa place ou d'enjoliver.</p>
+
+<h2>Ce que ce site n'est pas</h2>
+<p>Ni un avis médical, ni un diagnostic, ni un mode d'emploi à suivre à la
+lettre. Pour tout ce qui est personnel ou complexe, rien ne remplace un
+professionnel&nbsp;: médecin, psychologue, psychiatre, sexologue, thérapeute
+de couple. Voir aussi <a href="/transversal/signaux-d-alerte/">les signaux
+d'alerte</a> à connaître et les numéros d'urgence utiles.</p>
+
+<h2>Une erreur, une question</h2>
+<p>Une erreur factuelle, une source à corriger, une précision à apporter&nbsp;:
+c'est la contribution la plus utile qu'on puisse faire à ce site, et j'y
+réponds. Voir <a href="/contact/">la page contact</a>.</p>
+""" % {"repo": REPO, "linkedin": LINKEDIN})
+    body.append("</article>")
+    return layout("À propos", "Qui écrit ce site, avec quelle méthode et quelles limites.",
+                  "".join(body), nav, "/a-propos/", hue=174)
 
 
 def render_contact(nav):
@@ -1550,6 +1670,7 @@ def main():
 
     write("/recherche/", render_search(nav_for("/recherche/")))
     write("/index-alphabetique/", render_index_az(pages, nav_for("/index-alphabetique/")))
+    write("/a-propos/", render_apropos(nav_for("/a-propos/")))
     write("/contact/", render_contact(nav_for("/contact/")))
     write("/mentions-legales/", render_mentions(nav_for("/mentions-legales/")))
     write("/confidentialite/", render_privacy(nav_for("/confidentialite/")))
@@ -1598,7 +1719,7 @@ def main():
         "User-agent: *\nAllow: /\nSitemap: https://%s/sitemap.xml\n" % DOMAIN,
         encoding="utf-8")
 
-    urls = ["/", "/recherche/", "/index-alphabetique/", "/contact/",
+    urls = ["/", "/recherche/", "/index-alphabetique/", "/a-propos/", "/contact/",
             "/mentions-legales/", "/confidentialite/"] + [
         p.url for p in pages if p.kind in ("section", "guide", "page")]
     sitemap = ['<?xml version="1.0" encoding="UTF-8"?>',
