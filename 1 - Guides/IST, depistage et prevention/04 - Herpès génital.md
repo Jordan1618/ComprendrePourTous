@@ -34,3 +34,5 @@ L'herpès génital porte une charge de stigmatisation sans commune mesure avec s
 - Éviter tout contact pendant une poussée active (de l'apparition des premiers picotements jusqu'à cicatrisation complète), c'est la période de contagiosité la plus élevée.
 - Le préservatif réduit mais n'élimine pas le risque, car le virus peut être présent sur une zone cutanée non couverte.
 - Un traitement antiviral suppressif au long cours est une option à discuter avec un médecin en cas de poussées fréquentes ou d'inquiétude de transmission à un partenaire séronégatif pour le virus.
+
+Le chapitre 14.2 prolonge ce sujet avec le témoignage de Rose, 30 ans de vie avec le virus, et ce que le quotidien change une fois passée la première année.

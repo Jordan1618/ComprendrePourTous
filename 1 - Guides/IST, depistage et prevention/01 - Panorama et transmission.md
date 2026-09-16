@@ -35,6 +35,8 @@ Imagine une infection comme un locataire silencieux dans un appartement : il peu
 
 Point de repère essentiel pour le reste du guide : sur les huit IST les plus fréquentes, seules quatre se **guérissent** avec un traitement (chlamydia, gonorrhée, syphilis, trichomonase, toutes bactériennes ou parasitaires, traitées par antibiotique). Les IST virales (herpès, VIH, HPV, hépatite B) ne se guérissent pas au sens strict, mais se **gèrent** très efficacement aujourd'hui, une personne bien suivie pour le VIH ou l'herpès mène une vie strictement normale, y compris sexuelle (voir chapitres 4 et 5). Les deux catégories demandent une attitude différente : réactivité et traitement rapide pour les premières, suivi et gestion au long cours pour les secondes. [Cette distinction entre IST curables par antibiotique et IST virales gérées au long cours structure l'ensemble des recommandations de prise en charge](https://www.cdc.gov/std/treatment-guidelines/STI-Guidelines-2021.pdf) (Workowski & Bachmann, *MMWR Recommendations and Reports*, CDC, 2021 ; vérification du 8 août 2026).
 
+Les chapitres 18 à 25 consacrent, pour chacune de ces infections (y compris l'hépatite C, la mycoplasma genitalium, absentes de cette liste des plus fréquentes mais bien réelles), un chapitre entier au vécu, à la honte, au témoignage et à la nécessité de consulter, au-delà du seul mécanisme médical posé ici.
+
 **💑 Dans le couple** : le simple fait de connaître cette distinction change la conversation, une IST bactérienne diagnostiquée n'est pas "pour la vie", et une IST virale gérée n'est pas une condamnation à une vie sexuelle dégradée. Les deux peuvent être abordées calmement.
 
 **Bons réflexes**

@@ -31,3 +31,5 @@ Imagine ces deux infections comme des squatteurs qui s'installent sans faire de 
 **Bons réflexes**
 - Un traitement de chlamydia ou gonorrhée implique presque toujours de traiter aussi le ou la partenaire, même sans symptôme chez cette personne, sinon, réinfection quasi automatique ("ping-pong" entre partenaires).
 - Éviter tout rapport pendant le traitement et jusqu'à la fin de la période de contagiosité indiquée par le médecin.
+
+Les chapitres 18 et 19 approfondissent respectivement le poids émotionnel de la chlamydia et celui de la gonorrhée, avec les données sur la stigmatisation et, pour la gonorrhée, les premiers cas de résistance extrême déjà documentés en France.

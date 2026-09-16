@@ -2,8 +2,8 @@
 type: "guide"
 guide: "IST, dépistage et prévention"
 sujet: "commun"
-chapitres: 17
-mots: 13254
+chapitres: 25
+mots: 18266
 verifie_le: 2026-09-16
 licence: "CC BY 4.0"
 ---
@@ -15,6 +15,8 @@ licence: "CC BY 4.0"
 **Comprendre, dépister, protéger, en parler**
 
 Un guide directement utile sur les infections sexuellement transmissibles : ce qu'elles sont, comment elles se transmettent, lesquelles sont silencieuses, comment on les dépiste et comment on s'en protège. Chlamydia, gonorrhée, syphilis, herpès génital, VIH et HPV sont traités un par un, avant d'élargir sur le vocabulaire, la conversation en couple, le croisement entre contraception et prévention des IST, la recherche en cours et les bonnes pratiques de réduction des risques. Le guide couvre aussi l'accès réel au dépistage aujourd'hui, la résistance aux antibiotiques, le quotidien de vivre avec une IST chronique, l'histoire de la stigmatisation, la sociologie du dépistage, et les populations que la prévention oublie trop souvent.
+
+Les chapitres 18 à 25 forment une section à part, une infection à la fois (chlamydia, gonorrhée, syphilis, HPV, hépatite B, hépatite C, trichomonase, mycoplasma genitalium) : le poids émotionnel réel, la honte documentée par la recherche, ce qui pousse ou retient de consulter, et pour plusieurs d'entre elles, un vrai témoignage publié, de patient ou de médecin, cité avec sa source.
 
 C'est le guide le plus factuel de la collection, et sans doute le plus immédiatement actionnable. La plupart des idées reçues sur le sujet datent de trente ans et sont fausses aujourd'hui, en particulier sur le VIH.
 
@@ -37,11 +39,19 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 11 | [Bonnes pratiques et réduction des risques](<11 - Bonnes pratiques et reduction des risques.md>) | pratique | 1 151 |
 | 12 | [Le dépistage en pratique aujourd'hui](<12 - Le depistage en pratique aujourd hui.md>) | prévention | 727 |
 | 13 | [Résistance aux antibiotiques : l'urgence silencieuse des IST bactériennes](<13 - Resistance aux antibiotiques.md>) | prévention | 667 |
-| 14 | [Vivre avec une IST chronique : le quotidien au long cours](<14 - Vivre avec une IST chronique.md>) | psychologie | 990 |
+| 14 | [Vivre avec une IST chronique : le quotidien au long cours](<14 - Vivre avec une IST chronique.md>) | psychologie | 1 433 |
 | 15 | [Histoire de la stigmatisation : de la syphilis au sida](<15 - Histoire de la stigmatisation.md>) | histoire | 949 |
 | 16 | [Sociologie du dépistage : qui se fait tester, et pourquoi](<16 - Sociologie du depistage.md>) | société | 705 |
 | 17 | [IST et populations invisibilisées : LGBTQ+ et personnes âgées](<17 - IST et populations invisibilisees.md>) | société | 968 |
+| 18 | [Chlamydia : le poids d'une infection silencieuse](<18 - Chlamydia le poids d une infection silencieuse.md>) | psychologie | 688 |
+| 19 | [Gonorrhée : ce que le silence coûte](<19 - Gonorrhee ce que le silence coute.md>) | psychologie | 624 |
+| 20 | [Syphilis : la honte d'une maladie qu'on croyait d'un autre temps](<20 - Syphilis la honte d une maladie du passe.md>) | psychologie | 526 |
+| 21 | [HPV : le virus le plus fréquent et le moins nommé](<21 - HPV le virus le plus frequent et le moins nomme.md>) | psychologie | 557 |
+| 22 | [Hépatite B : une IST qu'on oublie de nommer comme telle](<22 - Hepatite B une IST qu on oublie de nommer.md>) | prévention | 528 |
+| 23 | [Hépatite C : le silence d'une infection qui se transmet aussi sexuellement](<23 - Hepatite C le silence d une infection qui se transmet aussi sexuellement.md>) | psychologie | 485 |
+| 24 | [Trichomonase : l'IST la plus fréquente et la plus ignorée](<24 - Trichomonase l IST la plus frequente et la plus ignoree.md>) | prévention | 445 |
+| 25 | [Mycoplasma genitalium : l'infection que la médecine découvre encore](<25 - Mycoplasma genitalium l infection que la medecine decouvre encore.md>) | prévention | 527 |
 
-Total : 13 254 mots, 17 chapitres.
+Total : 18 266 mots, 25 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

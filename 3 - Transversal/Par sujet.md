@@ -167,6 +167,14 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Histoire de la stigmatisation : de la syphilis au sida](<../1 - Guides/IST, depistage et prevention/15 - Histoire de la stigmatisation.md>)  `histoire`
 - [Sociologie du dépistage : qui se fait tester, et pourquoi](<../1 - Guides/IST, depistage et prevention/16 - Sociologie du depistage.md>)  `société`
 - [IST et populations invisibilisées : LGBTQ+ et personnes âgées](<../1 - Guides/IST, depistage et prevention/17 - IST et populations invisibilisees.md>)  `société`
+- [Chlamydia : le poids d'une infection silencieuse](<../1 - Guides/IST, depistage et prevention/18 - Chlamydia le poids d une infection silencieuse.md>)  `psychologie`
+- [Gonorrhée : ce que le silence coûte](<../1 - Guides/IST, depistage et prevention/19 - Gonorrhee ce que le silence coute.md>)  `psychologie`
+- [Syphilis : la honte d'une maladie qu'on croyait d'un autre temps](<../1 - Guides/IST, depistage et prevention/20 - Syphilis la honte d une maladie du passe.md>)  `psychologie`
+- [HPV : le virus le plus fréquent et le moins nommé](<../1 - Guides/IST, depistage et prevention/21 - HPV le virus le plus frequent et le moins nomme.md>)  `psychologie`
+- [Hépatite B : une IST qu'on oublie de nommer comme telle](<../1 - Guides/IST, depistage et prevention/22 - Hepatite B une IST qu on oublie de nommer.md>)  `prévention`
+- [Hépatite C : le silence d'une infection qui se transmet aussi sexuellement](<../1 - Guides/IST, depistage et prevention/23 - Hepatite C le silence d une infection qui se transmet aussi sexuellement.md>)  `psychologie`
+- [Trichomonase : l'IST la plus fréquente et la plus ignorée](<../1 - Guides/IST, depistage et prevention/24 - Trichomonase l IST la plus frequente et la plus ignoree.md>)  `prévention`
+- [Mycoplasma genitalium : l'infection que la médecine découvre encore](<../1 - Guides/IST, depistage et prevention/25 - Mycoplasma genitalium l infection que la medecine decouvre encore.md>)  `prévention`
 **Massage professionnel**
 
 - [Le cadre général : ce qui précède la technique](<../1 - Guides/Massage professionnel/01 - Le cadre général.md>)  `pratique`

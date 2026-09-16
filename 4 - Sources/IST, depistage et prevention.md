@@ -103,6 +103,27 @@ Sources du guide [IST, dépistage et prévention](<../1 - Guides/IST, depistage 
 | [STD Rates Soar Among America's Older Adults](https://www.helpadvisor.com/community-health/senior-std-study) | Évolution des taux d'IST chez les personnes de 55 ans et plus | 17.2 |
 | [Sexually Transmitted Infections and the 65 and Older Population](https://oasis.library.unlv.edu/cgi/viewcontent.cgi?article=5016&context=thesesdissertations), thèse universitaire | Sous-dépistage lié à la gêne des professionnels de santé | 17.2 |
 
+## Une IST à la fois : poids émotionnel, honte et témoignages
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [The cross-cultural adaptation and psychometric evaluation of the Chinese version of the stigma scale for caring for individuals with sexually transmitted infections](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1858646/full), *Frontiers in Psychology*, 2026 | Vécu émotionnel et stigmatisation après un diagnostic d'IST | 18.1 |
+| [Shame and STIs: An Exploration of Emerging Adult Students' Felt Shame and Stigma towards Getting Tested for and Disclosing Sexually Transmitted Infections](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8297218/) | Lien entre honte ressentie et recours au dépistage | 18.3 |
+| Santé publique France, [Bulletin national VIH et IST bactériennes](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf), 23 octobre 2025 | Progression de la gonorrhée et chiffres de la syphilis en France | 19.1, 20.1 |
+| [Two cases of extensively drug-resistant (XDR) Neisseria gonorrhoeae infection combining ceftriaxone-resistance and high-level azithromycin resistance, France](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10687985/) | Cas de résistance extrême documentés en France | 19.2 |
+| [Stigma as a barrier to treatment of sexually transmitted infection in the American deep south](https://www.sciencedirect.com/science/article/abs/pii/S0277953603004192) | Mécanisme de la stigmatisation comme frein à la consultation | 19.3 |
+| [Syphilis : une recrudescence inquiétante](https://www.pourquoidocteur.fr/Articles/Question-d-actu/14392-Syphilis-une-recrudescence-inquietante), Pourquoi Docteur, 2015 | Témoignage du Dr Bruno Abraham sur la transmission et le dépistage | 20.1 |
+| [TÉMOIGNAGE. Papillomavirus. Une transmission invisible mais redoutable](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/temoignage-quand-on-me-demande-ou-est-mon-cancer-c-est-complique-elle-veut-briser-le-tabou-lie-aux-cancers-hpv-3035045.html), France 3 Nouvelle-Aquitaine, 2025 | Témoignage de Laure Roulle, cancer lié au HPV | 21.1, 21.2 |
+| SOS Hépatites, [L'histoire folle d'une hépatite B aiguë](https://soshepatites.org/lhistoire-folle-dune-hepatite-b-aigue/) | Récit clinique d'un hépatologue, transmission au sein du couple | 22.1 |
+| SOS Hépatites, [Les résultats des premiers États généraux de l'hépatite B](https://soshepatites.org/les-resultats-des-premiers-etats-generaux-de-lhepatite-b/) | Méconnaissance de l'infection avant diagnostic | 22.2 |
+| SOS Hépatites, [La parole des malades, témoignages du forum](https://soshepatites.org/la-parole-des-maldes-temoignage-du-forum/) | Vécu d'un dépistage d'hépatite C sans prise en charge active | 23.1 |
+| CDC, [Vital Signs: Hepatitis C Treatment Among Insured Adults](https://www.cdc.gov/mmwr/volumes/71/wr/mm7132e1.htm) | Taux de guérison des traitements antiviraux à action directe | 23.1 |
+| CDC, [About Trichomoniasis](https://www.cdc.gov/trichomoniasis/about/index.html) | Prévalence, symptômes et caractère largement asymptomatique | 24.1, 24.2 |
+| [Prevalence of Mycoplasma genitalium in different population groups: systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969327/) | Prévalence selon les populations | 25.1 |
+| [Mycoplasma genitalium: An Emerging Cause of Sexually Transmitted Disease in Women](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102684/) | Difficultés diagnostiques et sous-dépistage | 25.1 |
+| AIDES, [Médecin et séropositive, "je n'ai plus peur mais je me méfie"](https://www.aides.org/actualite/medecin-et-seropositive-je-nai-plus-peur-mais-je-me-mefie-2018-disance-vih) | Témoignage d'une médecin vivant avec le VIH depuis 23 ans | 14.1 |
+| PVSQ, [Rose vit depuis 30 ans avec le virus de l'herpès de type 2](https://pvsq.org/2019/rose-vit-depuis-30-ans-avec-le-virus-de-lherpes-de-type-2/) | Témoignage sur la vie au long cours avec l'herpès génital | 14.2 |
+
 ---
 
 Retour à l'[index des sources](<README.md>) · [IST, dépistage et prévention](<../1 - Guides/IST, depistage et prevention/README.md>) · [Accueil](<../README.md>)

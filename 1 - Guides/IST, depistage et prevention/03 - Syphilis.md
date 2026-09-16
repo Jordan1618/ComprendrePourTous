@@ -32,3 +32,5 @@ Imagine la syphilis comme un signal d'alarme qui sonne une fois puis s'éteint t
 **Bons réflexes**
 - Toute lésion génitale, même indolore et même si elle a disparu d'elle-même, mérite un dépistage plutôt qu'un haussement d'épaules.
 - La syphilis se dépiste par une simple prise de sang, incluse dans le bilan IST standard.
+
+Le chapitre 20 revient sur le témoignage d'un médecin confronté à cette résurgence, et sur pourquoi ce faux sentiment de guérison spontanée retarde tant le diagnostic.

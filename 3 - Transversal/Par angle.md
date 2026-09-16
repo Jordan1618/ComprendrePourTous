@@ -55,6 +55,11 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [Reconnaître et nommer : la granularité émotionnelle](<../1 - Guides/Les emotions/03 - Reconnaitre et nommer.md>)  `commun` · Les émotions
 - [Les émotions positives : joie, plaisir et gratitude](<../1 - Guides/Les emotions/19 - Les emotions positives.md>)  `commun` · Les émotions
 - [Vivre avec une IST chronique : le quotidien au long cours](<../1 - Guides/IST, depistage et prevention/14 - Vivre avec une IST chronique.md>)  `commun` · IST, dépistage et prévention
+- [Chlamydia : le poids d'une infection silencieuse](<../1 - Guides/IST, depistage et prevention/18 - Chlamydia le poids d une infection silencieuse.md>)  `commun` · IST, dépistage et prévention
+- [Gonorrhée : ce que le silence coûte](<../1 - Guides/IST, depistage et prevention/19 - Gonorrhee ce que le silence coute.md>)  `commun` · IST, dépistage et prévention
+- [Syphilis : la honte d'une maladie qu'on croyait d'un autre temps](<../1 - Guides/IST, depistage et prevention/20 - Syphilis la honte d une maladie du passe.md>)  `commun` · IST, dépistage et prévention
+- [HPV : le virus le plus fréquent et le moins nommé](<../1 - Guides/IST, depistage et prevention/21 - HPV le virus le plus frequent et le moins nomme.md>)  `commun` · IST, dépistage et prévention
+- [Hépatite C : le silence d'une infection qui se transmet aussi sexuellement](<../1 - Guides/IST, depistage et prevention/23 - Hepatite C le silence d une infection qui se transmet aussi sexuellement.md>)  `commun` · IST, dépistage et prévention
 - [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `commun` · Questions et communication
 - [Les émotions en jeu](<../1 - Guides/Questions et communication/05 - Les émotions en jeu.md>)  `commun` · Questions et communication
 - [Communiquer pour se développer, soi-même et les autres](<../1 - Guides/Questions et communication/11 - Communiquer pour se developper, soi-meme et les autres.md>)  `commun` · Questions et communication
@@ -89,6 +94,9 @@ Dépistage, protection, risque réel contre risque perçu.
 - [La recherche en cours : vaccins, autotests, PrEP nouvelle génération](<../1 - Guides/IST, depistage et prevention/10 - La recherche en cours.md>)  `commun` · IST, dépistage et prévention
 - [Le dépistage en pratique aujourd'hui](<../1 - Guides/IST, depistage et prevention/12 - Le depistage en pratique aujourd hui.md>)  `commun` · IST, dépistage et prévention
 - [Résistance aux antibiotiques : l'urgence silencieuse des IST bactériennes](<../1 - Guides/IST, depistage et prevention/13 - Resistance aux antibiotiques.md>)  `commun` · IST, dépistage et prévention
+- [Hépatite B : une IST qu'on oublie de nommer comme telle](<../1 - Guides/IST, depistage et prevention/22 - Hepatite B une IST qu on oublie de nommer.md>)  `commun` · IST, dépistage et prévention
+- [Trichomonase : l'IST la plus fréquente et la plus ignorée](<../1 - Guides/IST, depistage et prevention/24 - Trichomonase l IST la plus frequente et la plus ignoree.md>)  `commun` · IST, dépistage et prévention
+- [Mycoplasma genitalium : l'infection que la médecine découvre encore](<../1 - Guides/IST, depistage et prevention/25 - Mycoplasma genitalium l infection que la medecine decouvre encore.md>)  `commun` · IST, dépistage et prévention
 - [Risques, contre-indications et signaux d'alerte](<../1 - Guides/Massage professionnel/09 - Risques et contre-indications.md>)  `commun` · Massage professionnel
 - [Cyberintimidation, modération et cadre légal](<../1 - Guides/Reseaux sociaux/08 - Cyberintimidation moderation et cadre legal.md>)  `commun` · Réseaux sociaux
 
