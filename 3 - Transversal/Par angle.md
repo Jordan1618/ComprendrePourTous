@@ -28,6 +28,7 @@ Comment le corps fonctionne concrètement, mécanisme par mécanisme.
 - [Passion et attachement : deux temps, deux logiques](<../1 - Guides/L amour/02 - Passion et attachement.md>)  `commun` · L'amour
 - [Pourquoi l'amour existe : l'angle évolutionniste](<../1 - Guides/L amour/04 - Pourquoi l amour existe.md>)  `commun` · L'amour
 - [Comment une émotion se fabrique](<../1 - Guides/Les emotions/01 - Comment une emotion se fabrique.md>)  `commun` · Les émotions
+- [La neurobiologie du toucher](<../1 - Guides/Massage professionnel/13 - La neurobiologie du toucher.md>)  `commun` · Massage professionnel
 - [Pourquoi on communique, la science derrière](<../1 - Guides/Questions et communication/10 - Pourquoi on communique, la science derrière.md>)  `commun` · Questions et communication
 - [Le corps, base de toute communication](<../1 - Guides/Questions et communication/14 - Le corps, base de toute communication.md>)  `commun` · Questions et communication
 - [Le cerveau face à l'écran](<../1 - Guides/Reseaux sociaux/03 - Le cerveau face a l ecran.md>)  `commun` · Réseaux sociaux
@@ -60,6 +61,7 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [Syphilis : la honte d'une maladie qu'on croyait d'un autre temps](<../1 - Guides/IST, depistage et prevention/20 - Syphilis la honte d une maladie du passe.md>)  `commun` · IST, dépistage et prévention
 - [HPV : le virus le plus fréquent et le moins nommé](<../1 - Guides/IST, depistage et prevention/21 - HPV le virus le plus frequent et le moins nomme.md>)  `commun` · IST, dépistage et prévention
 - [Hépatite C : le silence d'une infection qui se transmet aussi sexuellement](<../1 - Guides/IST, depistage et prevention/23 - Hepatite C le silence d une infection qui se transmet aussi sexuellement.md>)  `commun` · IST, dépistage et prévention
+- [Accepter de faire son premier massage, qu'on soit un homme ou une femme](<../1 - Guides/Massage professionnel/21 - Accepter de faire son premier massage.md>)  `commun` · Massage professionnel
 - [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `commun` · Questions et communication
 - [Les émotions en jeu](<../1 - Guides/Questions et communication/05 - Les émotions en jeu.md>)  `commun` · Questions et communication
 - [Communiquer pour se développer, soi-même et les autres](<../1 - Guides/Questions et communication/11 - Communiquer pour se developper, soi-meme et les autres.md>)  `commun` · Questions et communication
@@ -98,6 +100,8 @@ Dépistage, protection, risque réel contre risque perçu.
 - [Trichomonase : l'IST la plus fréquente et la plus ignorée](<../1 - Guides/IST, depistage et prevention/24 - Trichomonase l IST la plus frequente et la plus ignoree.md>)  `commun` · IST, dépistage et prévention
 - [Mycoplasma genitalium : l'infection que la médecine découvre encore](<../1 - Guides/IST, depistage et prevention/25 - Mycoplasma genitalium l infection que la medecine decouvre encore.md>)  `commun` · IST, dépistage et prévention
 - [Risques, contre-indications et signaux d'alerte](<../1 - Guides/Massage professionnel/09 - Risques et contre-indications.md>)  `commun` · Massage professionnel
+- [Ce que la recherche valide vraiment, pathologie par pathologie](<../1 - Guides/Massage professionnel/14 - Ce que la recherche valide vraiment.md>)  `commun` · Massage professionnel
+- [Repérer les dérives d'un secteur peu régulé](<../1 - Guides/Massage professionnel/18 - Reperer les derives d un secteur peu regule.md>)  `commun` · Massage professionnel
 - [Cyberintimidation, modération et cadre légal](<../1 - Guides/Reseaux sociaux/08 - Cyberintimidation moderation et cadre legal.md>)  `commun` · Réseaux sociaux
 
 ## Relation
@@ -146,6 +150,7 @@ Ce que ça change concrètement quand on est deux.
 - [Émotions collectives : foule, contagion, indignation numérique](<../1 - Guides/Les emotions/15 - Emotions collectives.md>)  `commun` · Les émotions
 - [En parler en couple : dépistage, nouveau partenaire, disclosure](<../1 - Guides/IST, depistage et prevention/08 - En parler en couple.md>)  `commun` · IST, dépistage et prévention
 - [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `commun` · Massage professionnel
+- [Éthique professionnelle et gestion du consentement](<../1 - Guides/Massage professionnel/20 - Ethique professionnelle et consentement.md>)  `commun` · Massage professionnel
 - [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `commun` · Questions et communication
 - [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `commun` · Questions et communication
 - [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `commun` · Questions et communication
@@ -176,6 +181,7 @@ Quoi faire, concrètement, avec des formulations et des gestes précis.
 - [Découpage complet par zone du corps](<../1 - Guides/Massage professionnel/06 - Découpage par zone du corps.md>)  `commun` · Massage professionnel
 - [Différences hommes / femmes : ce qu'il faut vraiment retenir](<../1 - Guides/Massage professionnel/07 - Différences hommes et femmes.md>)  `commun` · Massage professionnel
 - [Femme enceinte : ce qui change vraiment](<../1 - Guides/Massage professionnel/08 - Femme enceinte.md>)  `commun` · Massage professionnel
+- [Auto-massage : ce qui est validé, ce qui ne l'est pas](<../1 - Guides/Massage professionnel/15 - Auto-massage ce qui est valide.md>)  `commun` · Massage professionnel
 - [L'anatomie d'une question](<../1 - Guides/Questions et communication/02 - L'anatomie d'une question.md>)  `commun` · Questions et communication
 - [Le cadre](<../1 - Guides/Questions et communication/06 - Le cadre.md>)  `commun` · Questions et communication
 - [Motivation, travail, négociation et réussite](<../1 - Guides/Questions et communication/12 - Motivation, travail, negociation et reussite.md>)  `commun` · Questions et communication
@@ -204,6 +210,8 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [IST ou MST ? Une histoire de mots](<../1 - Guides/IST, depistage et prevention/07 - IST ou MST.md>)  `commun` · IST, dépistage et prévention
 - [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `commun` · Massage professionnel
 - [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `commun` · Massage professionnel
+- [Statut légal du massage professionnel en France](<../1 - Guides/Massage professionnel/16 - Statut legal du massage professionnel en France.md>)  `commun` · Massage professionnel
+- [Devenir praticien : formations, assurance, réalités économiques](<../1 - Guides/Massage professionnel/17 - Devenir praticien.md>)  `commun` · Massage professionnel
 - [Les six familles de questions](<../1 - Guides/Questions et communication/03 - Les six familles de questions.md>)  `commun` · Questions et communication
 - [Boîte à outils](<../1 - Guides/Questions et communication/09 - Boîte à outils.md>)  `commun` · Questions et communication
 - [Une histoire courte, pourquoi la communication est devenue si centrale](<../1 - Guides/Questions et communication/13 - Une histoire courte, pourquoi la communication est devenue si centrale.md>)  `commun` · Questions et communication
@@ -230,5 +238,6 @@ Ces chapitres portent un angle absent de la liste officielle. Soit l'angle est �
 - [Histoire de la stigmatisation : de la syphilis au sida](<../1 - Guides/IST, depistage et prevention/15 - Histoire de la stigmatisation.md>)  `histoire` · IST, dépistage et prévention
 - [Sociologie du dépistage : qui se fait tester, et pourquoi](<../1 - Guides/IST, depistage et prevention/16 - Sociologie du depistage.md>)  `société` · IST, dépistage et prévention
 - [IST et populations invisibilisées : LGBTQ+ et personnes âgées](<../1 - Guides/IST, depistage et prevention/17 - IST et populations invisibilisees.md>)  `société` · IST, dépistage et prévention
+- [Histoire et sociologie du massage, des traditions à la spa culture contemporaine](<../1 - Guides/Massage professionnel/19 - Histoire et sociologie du massage.md>)  `histoire` · Massage professionnel
 
 Retour à [l'accueil de Comprendre pour tous](<../README.md>).

@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Massage professionnel"
-mis_a_jour_le: 2026-08-08
+mis_a_jour_le: 2026-09-16
 licence: "CC BY 4.0"
 ---
 
@@ -38,6 +38,46 @@ Sources du guide [Massage professionnel](<../1 - Guides/Massage professionnel/RE
 |---|---|---|
 | [Code de la santé publique, articles L4321-1 et suivants](https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006171012) | Réserve légale du massage à visée thérapeutique aux masseurs-kinésithérapeutes | 1, 10 |
 | [UNESCO — Patrimoine culturel immatériel, fiche du Nuad Thaï](https://ich.unesco.org) | Inscription du massage thaïlandais au patrimoine culturel immatériel | 10 |
+
+## Neurobiologie, efficacité clinique et fascia
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [C-Tactile Afferents: Cutaneous mediators of oxytocin release](https://e-space.mmu.ac.uk/618306/3/Walker%20et%20alCTs,OxytocinRevised_Manuscript%20(1).pdf) | Mécanisme des fibres C-tactiles et libération d'ocytocine | 13.1 |
+| [Oxytocin Modulation of Spinal Circuits Drives Therapeutic Benefits of Massage](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12871349/) | Mécanisme spinal reliant toucher, ocytocine et douleur | 13.2 |
+| [Massage Therapy for Fibromyalgia: A Systematic Review and Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3930706/) | Effet du massage sur la fibromyalgie | 14.1 |
+| [Massage therapy in cortisol circadian rhythm, pain intensity, perceived stress index and quality of life of fibromyalgia syndrome patients](https://www.sciencedirect.com/science/article/abs/pii/S1744388117303419) | Niveau de preuve global sur la fibromyalgie | 14.1 |
+| [The Benefits of Integrative Medicine for Pain Management in Oncology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10387299/) | Recommandations du massage en oncologie de support | 14.2 |
+| [Efficacy of Massage Therapy for Symptom Management in Cancer Patients](https://doi.org/10.3390/healthcare13243268) | Qualité méthodologique des études en oncologie | 14.2 |
+| [Affective Touch in Preterm Infant Development](https://pmc.ncbi.nlm.nih.gov/articles/PMC11592606/) | Bénéfices du massage chez le prématuré | 14.3 |
+| [Comparative Effect of Massage Therapy versus Kangaroo Mother Care](https://pmc.ncbi.nlm.nih.gov/articles/PMC4058189/) | Niveau de preuve méthodologique chez le prématuré | 14.3 |
+| [Exploring fascia in myofascial pain syndrome: an integrative model of mechanisms](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12597954/) | État des connaissances sur le fascia | 14.4 |
+| [Myofascial Release for Chronic Low Back Pain: A Systematic Review and Meta-Analysis](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2021.697986/full) | Qualité de la preuve sur le relâchement myofascial | 14.4 |
+| [Effects of Self-Myofascial Release on Athletes' Physical Performance: A Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10801590/) | Bénéfices et limites de l'auto-massage myofascial | 15.1 |
+
+## Métier : statut légal, formation, économie, histoire
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Portail auto-entrepreneur, [Massage bien-être en Auto-Entrepreneur](https://www.portail-autoentrepreneur.fr/academie/fiches-metiers/sante-bien-etre/massage-bien-etre) | Statut réglementaire de la profession | 16.1 |
+| [Droit social et travail du sexe : l'incohérence française](https://www.useyourlaw.com/droit-social-et-travail-du-sexe-lincoherence-francaise/) | Définition jurisprudentielle et cadre légal 2016 | 16.2 |
+| [Massage érotique : La légalité et les limites en France](https://www.oueb-revue.fr/massage-erotique-interdit-legal) | Distinction massage tantrique thérapeutique et prestation déguisée | 16.2 |
+| [Quelle assurance professionnelle pour un praticien bien-être ?](https://reassurez-moi.fr/guide/pro/assurance-metiers/praticien-bien-etre) | Nécessité pratique de la certification et de l'assurance | 17.1 |
+| [Faut-il assurer son activité de massage bien-être ?](https://ethic-assurance.fr/faut-il-assurer-son-activite-de-massage-bien-etre/) | Statut non obligatoire mais recommandé de l'assurance | 17.2 |
+| [Wellness Tourism Market Size & Share, Statistics Report](https://www.gminsights.com/industry-analysis/wellness-tourism-market) | Données économiques du secteur du bien-être | 17.3 |
+| DGCCRF, [Pratiques commerciales trompeuses](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/pratiques-commerciales-trompeuses-les-cles-pour-les-reconnaitre-et-sen-premunir) | Définition légale des pratiques commerciales trompeuses | 18.1 |
+| [Signaler une arnaque à la DGCCRF via SignalConso](https://www.smart-legal.fr/signaler-arnaque-dgccrf-signal-conso-procedure/) | Procédure de signalement | 18.3 |
+| [History of Massage Therapy: Natural Healers since 5000 Years](https://florida-academy.edu/history-of-massage-therapy/) | Origines antiques, déclin et renaissance du massage en Occident | 19.1, 19.2, 19.3 |
+| American Massage Therapy Association, [Preventing Burnout in Massage Therapists](https://www.amtamassage.org/publications/massage-therapy-journal/massage-therapy-and-burnout/) | Épuisement professionnel spécifique au métier | 20.3 |
+
+## Premier massage et genre dans la profession
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [How to Survive Massage School](https://mblexguide.com/how-to-survive-massage-therapy-school-tips-for-success/) | Nervosité des élèves en formation | 21.1 |
+| [Anxiety Relief Through Massage: What Really Helps](https://nielasher.com/blogs/video-blog/anxiety-relief-through-massage-what-really-helps-what-doesn-t-and-how-to-work-safely) | Transfert de la tension du praticien vers le client | 21.1 |
+| [Masseur homme - les préjugés et la réalité du métier](https://massagelazarus.fr/masseur-homme/) | Discrimination de genre dans la profession, taux de refus client | 21.2 |
+| [How to Avoid Feeling Self-Conscious During a Massage](https://www.oasisbodywork.com/how-to-avoid-being-self-conscious-at-a-massage/) | Gêne corporelle côté client | 21.3 |
 
 ---
 

@@ -2,9 +2,9 @@
 type: "guide"
 guide: "Massage professionnel"
 sujet: "commun"
-chapitres: 12
-mots: 4362
-verifie_le: 2026-07-21
+chapitres: 21
+mots: 10316
+verifie_le: 2026-09-16
 licence: "CC BY 4.0"
 ---
 
@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 **Le cadre, les gestes, les zones, les limites**
 
-Un guide pratique sur le massage : le cadre à poser avant de toucher quelqu'un, les grandes familles de techniques, les gestes fondamentaux, le découpage zone par zone du corps, les produits, et les contre-indications qui comptent vraiment.
+Un guide pratique sur le massage : le cadre à poser avant de toucher quelqu'un, les grandes familles de techniques, les gestes fondamentaux, le découpage zone par zone du corps, les produits, et les contre-indications qui comptent vraiment. Il couvre aussi la neurobiologie du toucher, ce que la recherche valide vraiment pathologie par pathologie, le statut légal du métier en France, comment devenir praticien, l'histoire longue du massage, et comment accepter de faire son premier massage, qu'on soit un homme ou une femme.
 
 C'est le seul guide de la collection dont l'objet est un geste plutôt qu'une compréhension. Il reste dans la même logique : ce qui fait la différence n'est presque jamais la technique, c'est le cadre, le consentement et l'attention portée aux réactions de l'autre.
 
@@ -36,7 +36,16 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 10 | [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<10 - Orient et Occident.md>) | repères | 211 |
 | 11 | [Le volet intimité de couple](<11 - Intimité de couple.md>) | relation | 445 |
 | 12 | [Pour aller plus loin](<12 - Pour aller plus loin.md>) | repères | 173 |
+| 13 | [La neurobiologie du toucher](<13 - La neurobiologie du toucher.md>) | physiologie | 515 |
+| 14 | [Ce que la recherche valide vraiment, pathologie par pathologie](<14 - Ce que la recherche valide vraiment.md>) | prévention | 1 017 |
+| 15 | [Auto-massage : ce qui est validé, ce qui ne l'est pas](<15 - Auto-massage ce qui est valide.md>) | pratique | 389 |
+| 16 | [Statut légal du massage professionnel en France](<16 - Statut legal du massage professionnel en France.md>) | repères | 555 |
+| 17 | [Devenir praticien : formations, assurance, réalités économiques](<17 - Devenir praticien.md>) | repères | 583 |
+| 18 | [Repérer les dérives d'un secteur peu régulé](<18 - Reperer les derives d un secteur peu regule.md>) | prévention | 517 |
+| 19 | [Histoire et sociologie du massage, des traditions à la spa culture contemporaine](<19 - Histoire et sociologie du massage.md>) | histoire | 677 |
+| 20 | [Éthique professionnelle et gestion du consentement](<20 - Ethique professionnelle et consentement.md>) | relation | 574 |
+| 21 | [Accepter de faire son premier massage, qu'on soit un homme ou une femme](<21 - Accepter de faire son premier massage.md>) | psychologie | 1 007 |
 
-Total : 4 362 mots, 12 chapitres.
+Total : 10 316 mots, 21 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

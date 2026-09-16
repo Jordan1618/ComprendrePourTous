@@ -189,6 +189,15 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `repères`
 - [Le volet intimité de couple](<../1 - Guides/Massage professionnel/11 - Intimité de couple.md>)  `relation`
 - [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `repères`
+- [La neurobiologie du toucher](<../1 - Guides/Massage professionnel/13 - La neurobiologie du toucher.md>)  `physiologie`
+- [Ce que la recherche valide vraiment, pathologie par pathologie](<../1 - Guides/Massage professionnel/14 - Ce que la recherche valide vraiment.md>)  `prévention`
+- [Auto-massage : ce qui est validé, ce qui ne l'est pas](<../1 - Guides/Massage professionnel/15 - Auto-massage ce qui est valide.md>)  `pratique`
+- [Statut légal du massage professionnel en France](<../1 - Guides/Massage professionnel/16 - Statut legal du massage professionnel en France.md>)  `repères`
+- [Devenir praticien : formations, assurance, réalités économiques](<../1 - Guides/Massage professionnel/17 - Devenir praticien.md>)  `repères`
+- [Repérer les dérives d'un secteur peu régulé](<../1 - Guides/Massage professionnel/18 - Reperer les derives d un secteur peu regule.md>)  `prévention`
+- [Histoire et sociologie du massage, des traditions à la spa culture contemporaine](<../1 - Guides/Massage professionnel/19 - Histoire et sociologie du massage.md>)  `histoire`
+- [Éthique professionnelle et gestion du consentement](<../1 - Guides/Massage professionnel/20 - Ethique professionnelle et consentement.md>)  `relation`
+- [Accepter de faire son premier massage, qu'on soit un homme ou une femme](<../1 - Guides/Massage professionnel/21 - Accepter de faire son premier massage.md>)  `psychologie`
 **Questions et communication**
 
 - [Ce qu'une question fait vraiment](<../1 - Guides/Questions et communication/01 - Ce qu'une question fait vraiment.md>)  `psychologie`

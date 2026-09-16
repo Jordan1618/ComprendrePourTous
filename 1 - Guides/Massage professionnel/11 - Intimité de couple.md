@@ -23,3 +23,5 @@ L'intention de cette section est de comprendre le corps de son ou sa partenaire 
   - Le fait que la **sensibilité au toucher varie énormément d'une personne à l'autre**, il n'existe pas de carte universelle des zones sensibles qui s'appliquerait à toute femme ou tout homme ; c'est justement quelque chose qui se découvre à deux, avec le temps et le dialogue.
 
 **Pour aller plus loin sur ce point** : pour approfondir cette dimension précise, les meilleures ressources sont les livres et formations de **sexologues et thérapeutes de couple certifiés** (des auteurs reconnus existent sur la communication intime et le toucher en couple), plutôt qu'un contenu générique. C'est un sujet où la qualité de la source compte énormément, et où l'échange direct avec son ou sa partenaire vaudra toujours mieux que n'importe quel guide théorique.
+
+Le chapitre 20 traite du consentement dans un cadre différent, celui de la relation professionnelle entre praticien et client, et le chapitre 16.2 précise où la loi française situe la limite entre massage bien-être et prestation à caractère sexuel.
