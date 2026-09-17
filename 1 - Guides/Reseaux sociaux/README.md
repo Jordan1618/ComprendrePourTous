@@ -2,9 +2,9 @@
 type: "guide"
 guide: "Réseaux sociaux"
 sujet: "commun"
-chapitres: 10
-mots: 14514
-verifie_le: 2026-08-13
+chapitres: 20
+mots: 25233
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -15,6 +15,8 @@ licence: "CC BY 4.0"
 **Comprendre l'outil, ses mécanismes et ce qu'il change vraiment, sans discours moralisateur**
 
 Ce guide traite des réseaux sociaux comme d'un objet technique, psychologique et social à la fois, plutôt que comme un problème à condamner en bloc. Il retrace d'où viennent ces plateformes et pourquoi elles sont conçues comme elles le sont (chapitres 1 et 2), explique ce qu'elles font au cerveau et à l'attention (chapitre 3), aux opinions et à l'information (chapitre 4), à l'image qu'on a de soi (chapitre 5), aux relations réelles et amoureuses (chapitres 6 et 7), puis ce que le droit encadre déjà (chapitre 8) et ce qu'elles coûtent de façon moins visible, à l'ennui, à l'identité et à l'engagement (chapitre 9), avant de proposer des leviers concrets et mesurés plutôt que des injonctions à tout supprimer (chapitre 10).
+
+Les chapitres 11 à 20 élargissent le cadre : le modèle économique réel des plateformes et la précarité des créateurs de contenu, la géopolitique et la régulation comparée entre l'Europe, les États-Unis et la Chine, le coût social jamais compté dans le bilan des plateformes, la vulnérabilité spécifique du cerveau adolescent, les populations que le débat public oublie souvent (personnes âgées, minorités sexuelles et de genre), l'image de l'enfant en ligne, les usages détournés (deuil, santé mentale, mouvements sociaux), et ce que la recherche valide vraiment sur l'éducation aux médias.
 
 Un principe traverse l'ensemble du texte, rappelé chapitre après chapitre : aucun déterminisme technologique. Le même mécanisme produit des effets très différents selon qu'il s'agit d'un usage actif (publier, échanger, créer) ou passif (faire défiler sans interagir), et selon les vulnérabilités déjà présentes chez la personne concernée avant même d'ouvrir l'application. Ce guide documente des mécanismes réels et des risques mesurés, sans jamais prétendre qu'ils s'appliquent identiquement à tout le monde.
 
@@ -34,6 +36,16 @@ Il complète naturellement le guide [Questions et communication](<../Questions e
 | 8 | [Cyberintimidation, modération et cadre légal](<08 - Cyberintimidation moderation et cadre legal.md>) | prévention |
 | 9 | [Le prix caché : ennui, identité, engagement](<09 - Le prix cache ennui identite engagement.md>) | psychologie |
 | 10 | [La boîte à outils : reprendre la main](<10 - La boite a outils reprendre la main.md>) | pratique |
+| 11 | [Le modèle économique réel des plateformes](<11 - Le modele economique reel des plateformes.md>) | société |
+| 12 | [Créateurs de contenu : un nouveau salariat précaire](<12 - Createurs de contenu un nouveau salariat precaire.md>) | société |
+| 13 | [Géopolitique des réseaux sociaux, entre Silicon Valley et Pékin](<13 - Geopolitique des reseaux sociaux.md>) | société |
+| 14 | [Régulation comparée : Europe, États-Unis, Chine](<14 - Regulation comparee Europe Etats-Unis Chine.md>) | société |
+| 15 | [Le coût social jamais compté dans le bilan des plateformes](<15 - Le cout social jamais compte.md>) | société |
+| 16 | [Le cerveau adolescent face au design addictif](<16 - Le cerveau adolescent face au design addictif.md>) | physiologie |
+| 17 | [Réseaux sociaux et populations spécifiques](<17 - Populations specifiques.md>) | société |
+| 18 | [Sharenting et image de l'enfant en ligne](<18 - Sharenting et image de l enfant en ligne.md>) | prévention |
+| 19 | [Usages détournés : deuil, santé mentale, mouvements sociaux](<19 - Usages detournes deuil sante mentale mouvements sociaux.md>) | société |
+| 20 | [Éducation aux médias : ce qui marche vraiment selon la recherche](<20 - Education aux medias ce qui marche vraiment.md>) | prévention |
 
 ## Par où commencer
 
@@ -42,5 +54,11 @@ Il complète naturellement le guide [Questions et communication](<../Questions e
 - **Une relation en ligne qui semble aller trop vite, ou qui reste dans le flou** : chapitre 7.
 - **Un enfant ou un adolescent concerné par le harcèlement en ligne** : chapitre 8, avec le numéro **3018**.
 - **Envie de changer concrètement ses habitudes, sans tout supprimer** : chapitre 10, directement.
+- **Comprendre pourquoi ces services sont gratuits, et ce que ça implique** : chapitre 11.
+- **S'informer sur le statut d'un créateur de contenu, ou en devenir un** : chapitre 12.
+- **Un enfant ou un adolescent, et la question de ce qu'on publie de lui** : chapitre 18.
+- **Mettre en place une éducation aux médias qui fonctionne, en famille ou à l'école** : chapitre 20.
+
+Total : 25 233 mots, 20 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

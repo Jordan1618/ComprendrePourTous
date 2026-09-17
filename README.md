@@ -2,8 +2,8 @@
 projet: "Comprendre pour tous"
 type: "collection"
 guides: 11
-chapitres: 196
-mots: 299638
+chapitres: 207
+mots: 312142
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-09-16
 licence: "CC BY 4.0"
@@ -94,7 +94,7 @@ Ce projet est un kit de base : de quoi se comprendre soi-même et comprendre l'a
 | [Les émotions](<1 - Guides/Les emotions/README.md>) | commun | 20 | Fabrication, origines, nommer, décoder, réguler, troubles, parcours de soin, tabous, histoire, culture, société, émotions positives | [intégrale](<0 - Guides complets/Les émotions.md>) |
 | [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 25 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV, vocabulaire IST/MST, en parler en couple, contraception et prévention combinée, recherche en cours, réduction des risques, dépistage en pratique, résistance aux antibiotiques, vivre avec une IST chronique, histoire de la stigmatisation, sociologie du dépistage, populations invisibilisées, hépatites B et C, trichomonase, mycoplasma genitalium, une infection à la fois avec témoignages sourcés | [intégrale](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 21 | Cadre, techniques, zones du corps, produits, contre-indications, neurobiologie du toucher, preuves d'efficacité par pathologie, statut légal, devenir praticien, histoire, premier massage | [intégrale](<0 - Guides complets/Massage professionnel.md>) |
-| [Réseaux sociaux](<1 - Guides/Reseaux sociaux/README.md>) | commun | 10 | Histoire, conception, attention, algorithmes, image de soi, dérives amoureuses numériques, cyberharcèlement, cadre légal | [intégrale](<0 - Guides complets/Réseaux sociaux.md>) |
+| [Réseaux sociaux](<1 - Guides/Reseaux sociaux/README.md>) | commun | 20 | Histoire, conception, attention, algorithmes, image de soi, dérives amoureuses numériques, cyberharcèlement, cadre légal, modèle économique, créateurs de contenu, géopolitique, régulation comparée, coût social, cerveau adolescent, populations spécifiques, sharenting, usages détournés, éducation aux médias | [intégrale](<0 - Guides complets/Réseaux sociaux.md>) |
 
 Environ 236 000 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
 

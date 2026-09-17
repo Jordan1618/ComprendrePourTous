@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 Ce guide a documenté, chapitre après chapitre, des mécanismes réels et des effets mesurés. Il serait pourtant malhonnête d'en conclure qu'il faudrait supprimer tous ses comptes. [Une revue systématique portant sur 26 études et plus de 8 000 participants montre que les interventions de "détox numérique" réduisent significativement les symptômes dépressifs chez les personnes déjà en difficulté, mais n'ont pas d'effet significatif démontré sur le bien-être général, la satisfaction de vie ou le niveau de stress pour l'ensemble des utilisateurs](https://pubmed.ncbi.nlm.nih.gov/39280291/) (revue systématique et méta-analyse sur la détox numérique et la santé mentale, *Cyberpsychology, Behavior, and Social Networking*, 2024 ; vérification du 13 août 2026). Une suppression radicale n'est donc pas la réponse universelle que l'intuition suggère : elle aide surtout les profils déjà vulnérables, et son effet reste modeste pour la majorité.
 
-Le principe qui guide ce chapitre est le même que celui rappelé au chapitre 3 sur les notifications : ni l'usage compulsif ni le retrait total ne sont la cible, c'est un usage choisi, conscient de ses propres schémas, qui l'est.
+Le principe qui guide ce chapitre est le même que celui rappelé au chapitre 3 sur les notifications : ni l'usage compulsif ni le retrait total ne sont la cible, c'est un usage choisi, conscient de ses propres schémas, qui l'est. Cette boîte à outils reste centrée sur les réglages individuels ; le chapitre 20 complète cette approche avec ce que la recherche valide sur les programmes d'éducation aux médias formels, à l'échelle d'une classe ou d'une famille plutôt que d'une seule personne.
 
 ### 10.2 Casser le scroll infini par des réglages, pas par la seule volonté
 

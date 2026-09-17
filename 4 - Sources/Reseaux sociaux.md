@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Réseaux sociaux"
-mis_a_jour_le: 2026-08-13
+mis_a_jour_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -102,6 +102,42 @@ Sources du guide [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/README.md>), 
 | Référence | Ce qu'elle appuie | Chapitre |
 |---|---|---|
 | Revue systématique et méta-analyse (2024), [Impacts of digital social media detox for mental health](https://pubmed.ncbi.nlm.nih.gov/39280291/), *Cyberpsychology, Behavior, and Social Networking* | Effets contrastés de la détox numérique selon le profil des utilisateurs | 10 |
+
+## Modèle économique, géopolitique et régulation (chapitres 11 à 15)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [The Attention Economy Explained: How Platforms Monetise Focus](https://surff.io/blog/the-attention-economy-explained) | Mécanisme de capture, collecte et vente de l'attention | 11 |
+| [The Economics of Social Media](https://superlore.ai/blog/the-economics-of-social-media) | Quatre sources de revenus des plateformes sociales | 11 |
+| [The Nested Precarities of Creative Labor on Social Media](https://journals.sagepub.com/doi/10.1177/20563051211021368) | Trois niveaux d'imprévisibilité du travail créatif | 12 |
+| [Algorithmic precarity in cultural work](https://journals.sagepub.com/doi/full/10.1177/2057047320959855) | Gouvernance algorithmique et dépendance de plateforme | 12 |
+| [The Emotional and Financial Impact of De-Platforming on Creators at the Margins](https://journals.sagepub.com/doi/10.1177/20563051231155103) | Impact du déplateformement chez les créateurs marginalisés | 12 |
+| [Banning TikTok: Turning point for U.S. data security or threat to free speech?](https://www.ohio.edu/news/2025/01/banning-tiktok-turning-point-u-s-data-security-or-threat-free-speech) | Décision de la Cour suprême et enjeux de sécurité nationale | 13 |
+| [Beyond the Ban: TikTok and the Politics of Digital Sovereignty in the EU and US](https://www.cogitatiopress.com/politicsandgovernance/article/view/10461) | Comparaison des discours de souveraineté numérique | 13 |
+| [A guide to the Digital Services Act, the EU's law to rein in Big Tech](https://algorithmwatch.org/en/dsa-explained/) | Fonctionnement et portée du DSA, comparaison UE/US/Chine | 14 |
+| [Social Media Costs Society $3.2T Annually](https://www.suffering.social/) | Estimation du coût économique et humain agrégé | 15 |
+| [Economic burden of the therapeutic management of mental illnesses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6130881/) | Catégories de coûts (directs, indirects, non quantifiables) | 15 |
+| [Economic Burden Associated With Untreated Mental Illness in Indiana](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10576212/) | Étude de cas régionale chiffrée | 15 |
+
+## Populations spécifiques et usages détournés (chapitres 16 à 20)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [Aligning social media design with adolescent brain development](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2026.1880395/full) | Développement cérébral asynchrone et conception des plateformes | 16 |
+| [Neuroscience explains why teens are so vulnerable to Big Tech social media platforms](https://theconversation.com/neuroscience-explains-why-teens-are-so-vulnerable-to-big-tech-social-media-platforms-278521) | Cortex préfrontal, circuits de récompense, différences filles/garçons | 16 |
+| [Developmental changes in brain function linked with addiction-like social media use two years later](https://academic.oup.com/scan/article/19/1/nsae008/7604373) | Étude longitudinale sur le risque d'usage addictif | 16 |
+| [OLDER ADULTS' PERCEPTIONS AND ATTITUDES TOWARD TECHNOLOGIES TO ADDRESS LONELINESS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11688739/) | Progression de l'usage des réseaux sociaux chez les personnes âgées | 17 |
+| [Social Media Use and Loneliness Among Older Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7741109/) | Effet du contact social médié sur la solitude | 17 |
+| [Examining Rural and Racial Disparities in the Relationship Between Loneliness and Social Technology Use](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8438168/) | Disparités rurales d'accès | 17 |
+| [Social media: A double-edged sword for LGBTQ+ youth](https://www.sciencedirect.com/science/article/pii/S0747563224000621) | Bénéfices et risques pour les jeunes LGBTQ+ | 17 |
+| [Associations Among Web-Based Civic Engagement and Discrimination, Web-Based Social Support, and Mental Health and Substance Use Risk Among LGBT Youth](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10337473/) | Exposition à la discrimination en ligne | 17 |
+| [Sharenting: characteristics and awareness of parents publishing sensitive content of their children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11290302/) | Ampleur du phénomène et conscience des risques | 18 |
+| American Psychiatric Association, ['Sharenting': How Parents' Social Media Posts About Their Kids May Impact Kids and Families](https://www.psychiatry.org/news-room/apa-blogs/sharenting-parents-social-media-impact-kids) | Risques concrets pour l'enfant | 18 |
+| [Mindful sharenting: how millennial parents balance between sharing and protecting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10407087/) | Équilibre entre partage et protection | 18 |
+| [What Happens to My Instagram Account After I Die?](https://link.springer.com/chapter/10.1007/978-3-030-85616-8_26) | Commémoration numérique et deuil collectif | 19 |
+| [Can Women Break the Glass Ceiling?: An Analysis of #MeToo Hashtagged Posts on Twitter](https://arxiv.org/pdf/1906.00896) | Fonction du mouvement #MeToo comme espace de parole collectif | 19 |
+| [Media Literacy Interventions Improve Resilience to Misinformation](https://journals.sagepub.com/doi/10.1177/00936502241288103) | Efficacité mesurée des interventions d'éducation aux médias | 20 |
+| [Fostering Media Literacy: A Systematic Evidence Review of Intervention Effectiveness](https://www.cogitatiopress.com/mediaandcommunication/article/view/8901) | Effet de la simplicité des programmes et retour des élèves | 20 |
 
 ---
 

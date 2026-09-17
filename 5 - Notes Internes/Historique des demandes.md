@@ -1,7 +1,7 @@
 ---
 type: "note-interne"
 sujet: "maintenance"
-mis_a_jour_le: 2026-09-16
+mis_a_jour_le: 2026-09-17
 ---
 
 # Historique des demandes
@@ -166,3 +166,5 @@ Heures en UTC (heure du serveur d'enregistrement des sessions).
 | 152 | 16/09/2026 | 12:00 | Feu vert pour intégrer l'ensemble des deux angles d'élicitation (science du toucher et santé ; métier, histoire et société), plus une demande d'ajouter un chapitre sur l'acceptation de faire son premier massage, homme ou femme. | on fait tout ça + tu peux rajouter un chapitre sur "comment accepter de faire son premier massage" que l'on soit un homme ou une femme |
 | 153 | 16/09/2026 | 12:15 | Demande de reprendre le guide Les émotions, interrompue pour redemander la liste des guides restants. | on continue avec le guide sur les émotions → attends redonne moi les différents guides à faire |
 | 154 | 16/09/2026 | 12:20 | Nouvelle règle permanente : chaque chapitre doit compter entre 1 500 et 3 500 mots ; mettre à jour Massage professionnel puis Réseaux sociaux à ce standard ; intégrer par défaut tous les thèmes énumérés en élicitation plutôt que d'attendre un tri, à chaque guide. | dans le fait de faire les guides, chaque chapitre doit compter minimum 1500 mots à 3500 par chapitre / Ensuite mets à jour celui sur le massage professionnel puis les réseaux sociaux. a chaque fois choisi d'aborder tous thèmes que tu énumères [...] et fais aussi les thèmes des deux propositions que tu me fais |
+| 155 | 16/09/2026 | 14:30 | Feu vert pour intégrer l'ensemble des thèmes proposés sur Réseaux sociaux (10 familles + 2 exemples), avec consigne permanente : ne jamais écarter un thème pour cause de recoupement, toujours l'écrire avec un renvoi croisé, et l'inscrire comme règle du skill. | intègre tout (thémes dans les 10 familles et les 2 exemples) même si le sujet a déjà été traité ailleurs (inclus un renvoi tout de meme et inclus cettye consigne dns le faiseur de guiide) |
+| 156 | 17/09/2026 | 07:10 | Poursuite et finalisation de l'enrichissement de Réseaux sociaux (chapitres 11 à 20). | on continue |

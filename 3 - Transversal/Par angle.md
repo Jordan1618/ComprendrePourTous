@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "angle"
-mis_a_jour_le: 2026-09-16
+mis_a_jour_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -32,6 +32,7 @@ Comment le corps fonctionne concrètement, mécanisme par mécanisme.
 - [Pourquoi on communique, la science derrière](<../1 - Guides/Questions et communication/10 - Pourquoi on communique, la science derrière.md>)  `commun` · Questions et communication
 - [Le corps, base de toute communication](<../1 - Guides/Questions et communication/14 - Le corps, base de toute communication.md>)  `commun` · Questions et communication
 - [Le cerveau face à l'écran](<../1 - Guides/Reseaux sociaux/03 - Le cerveau face a l ecran.md>)  `commun` · Réseaux sociaux
+- [Le cerveau adolescent face au design addictif](<../1 - Guides/Reseaux sociaux/16 - Le cerveau adolescent face au design addictif.md>)  `commun` · Réseaux sociaux
 
 ## Psychologie
 
@@ -103,6 +104,8 @@ Dépistage, protection, risque réel contre risque perçu.
 - [Ce que la recherche valide vraiment, pathologie par pathologie](<../1 - Guides/Massage professionnel/14 - Ce que la recherche valide vraiment.md>)  `commun` · Massage professionnel
 - [Repérer les dérives d'un secteur peu régulé](<../1 - Guides/Massage professionnel/18 - Reperer les derives d un secteur peu regule.md>)  `commun` · Massage professionnel
 - [Cyberintimidation, modération et cadre légal](<../1 - Guides/Reseaux sociaux/08 - Cyberintimidation moderation et cadre legal.md>)  `commun` · Réseaux sociaux
+- [Sharenting et image de l'enfant en ligne](<../1 - Guides/Reseaux sociaux/18 - Sharenting et image de l enfant en ligne.md>)  `commun` · Réseaux sociaux
+- [Éducation aux médias : ce qui marche vraiment selon la recherche](<../1 - Guides/Reseaux sociaux/20 - Education aux medias ce qui marche vraiment.md>)  `commun` · Réseaux sociaux
 
 ## Relation
 
@@ -121,6 +124,7 @@ Ce que ça change concrètement quand on est deux.
 - [Comment expriment-elles leur amour](<../1 - Guides/Pour Elle/29 - Comment expriment-elles leur amour.md>)  `corps féminin` · Pour Elle
 - [Comment sont-elles vues et existent-elles dans la famille](<../1 - Guides/Pour Elle/30 - Comment sont-elles vues et existent-elles dans la famille.md>)  `corps féminin` · Pour Elle
 - [Mères célibataires aujourd'hui](<../1 - Guides/Pour Elle/31 - Meres celibataires aujourd hui.md>)  `corps féminin` · Pour Elle
+- [Les conflits entre femmes](<../1 - Guides/Pour Elle/35 - Les conflits entre femmes.md>)  `corps féminin` · Pour Elle
 - [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/11 - La sexualité comme langage émotionnel.md>)  `corps masculin` · Pour Lui
 - [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/12 - Le désir dans la durée.md>)  `corps masculin` · Pour Lui
 - [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>)  `corps masculin` · Pour Lui
@@ -239,5 +243,12 @@ Ces chapitres portent un angle absent de la liste officielle. Soit l'angle est �
 - [Sociologie du dépistage : qui se fait tester, et pourquoi](<../1 - Guides/IST, depistage et prevention/16 - Sociologie du depistage.md>)  `société` · IST, dépistage et prévention
 - [IST et populations invisibilisées : LGBTQ+ et personnes âgées](<../1 - Guides/IST, depistage et prevention/17 - IST et populations invisibilisees.md>)  `société` · IST, dépistage et prévention
 - [Histoire et sociologie du massage, des traditions à la spa culture contemporaine](<../1 - Guides/Massage professionnel/19 - Histoire et sociologie du massage.md>)  `histoire` · Massage professionnel
+- [Le modèle économique réel des plateformes](<../1 - Guides/Reseaux sociaux/11 - Le modele economique reel des plateformes.md>)  `société` · Réseaux sociaux
+- [Créateurs de contenu : un nouveau salariat précaire](<../1 - Guides/Reseaux sociaux/12 - Createurs de contenu un nouveau salariat precaire.md>)  `société` · Réseaux sociaux
+- [Géopolitique des réseaux sociaux, entre Silicon Valley et Pékin](<../1 - Guides/Reseaux sociaux/13 - Geopolitique des reseaux sociaux.md>)  `société` · Réseaux sociaux
+- [Régulation comparée : Europe, États-Unis, Chine](<../1 - Guides/Reseaux sociaux/14 - Regulation comparee Europe Etats-Unis Chine.md>)  `société` · Réseaux sociaux
+- [Le coût social jamais compté dans le bilan des plateformes](<../1 - Guides/Reseaux sociaux/15 - Le cout social jamais compte.md>)  `société` · Réseaux sociaux
+- [Réseaux sociaux et populations spécifiques : personnes âgées, minorités](<../1 - Guides/Reseaux sociaux/17 - Populations specifiques.md>)  `société` · Réseaux sociaux
+- [Usages détournés : deuil, santé mentale, mouvements sociaux](<../1 - Guides/Reseaux sociaux/19 - Usages detournes deuil sante mentale mouvements sociaux.md>)  `société` · Réseaux sociaux
 
 Retour à [l'accueil de Comprendre pour tous](<../README.md>).
