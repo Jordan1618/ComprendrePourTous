@@ -2,9 +2,9 @@
 type: "guide"
 guide: "La rencontre"
 sujet: "commun"
-chapitres: 9
-mots: 11856
-verifie_le: 2026-08-06
+chapitres: 28
+mots: 44591
+verifie_le: 2026-09-18
 licence: "CC BY 4.0"
 ---
 
@@ -34,9 +34,28 @@ Pour tout ce qui touche spécifiquement aux dérives relationnelles nées des ou
 | 6 | [Les premiers échanges : ce qui se joue vraiment](<06 - Les premiers echanges.md>) | relation | 1 242 |
 | 7 | [Les signaux d'alerte documentés](<07 - Les signaux d alerte documentes.md>) | prévention | 1 385 |
 | 8 | [Sécurité pratique et cadre légal](<08 - Securite et cadre legal.md>) | prévention | 1 179 |
-| 9 | [Mieux choisir : la synthèse actionnable](<09 - Mieux choisir la synthese.md>) | pratique | 1 132 |
+| 9 | [Mieux choisir : la synthèse actionnable](<09 - Mieux choisir la synthese.md>) | pratique | 1 140 |
+| 10 | [Homogamie et réseau social dans la formation du couple](<10 - Homogamie et reseau social.md>) | repères | 1 633 |
+| 11 | [L'effet miroir et l'échange social au premier contact](<11 - L effet miroir et l echange social.md>) | psychologie | 1 918 |
+| 12 | [Ce que les applications de rencontre optimisent vraiment](<12 - Ce que les applications optimisent vraiment.md>) | pratique | 1 615 |
+| 13 | [Rencontrer après une rupture, un deuil, ou après 50 ans](<13 - Rencontrer apres une rupture un deuil ou apres 50 ans.md>) | relation | 1 593 |
+| 14 | [Rencontres professionnelles et en contexte de vulnérabilité : consentement et cadre](<14 - Rencontres professionnelles et vulnerabilite.md>) | prévention | 1 541 |
+| 15 | [Arnaques sentimentales et vérification avant un rendez-vous](<15 - Arnaques sentimentales et verification.md>) | prévention | 1 689 |
+| 16 | [Neuroatypie, anxiété sociale et applications de niche](<16 - Neuroatypie anxiete sociale et applications de niche.md>) | psychologie | 1 596 |
+| 17 | [Une histoire de la rencontre, du mariage arrangé au swipe](<17 - Une histoire de la rencontre.md>) | repères | 1 511 |
+| 18 | [Le marché matrimonial : économie, droit et RGPD](<18 - Le marche matrimonial economie droit et RGPD.md>) | repères | 1 583 |
+| 19 | [Speed dating, jeux vidéo, communautés de passion : les rencontres de niche](<19 - Speed dating jeux video et communautes de passion.md>) | pratique | 1 533 |
+| 20 | [La pickup culture et les coachs en rencontre, ce qui est vrai et dangereux](<20 - La pickup culture et les coachs en rencontre.md>) | prévention | 1 548 |
+| 21 | [Rencontrer en mobilité, en crise, ou après 50 ans via clubs et associations](<21 - Rencontrer en mobilite en crise ou via clubs.md>) | relation | 1 606 |
+| 22 | [Ce que dix ans de recherche disent des couples formés en ligne](<22 - Ce que dix ans de recherche disent des couples en ligne.md>) | repères | 1 585 |
+| 23 | [Le corps et la biologie du désir : phéromones, hormones et évolution](<23 - Le corps et la biologie du desir.md>) | physiologie | 2 352 |
+| 24 | [Philosophie et sens de la rencontre : hasard, destin et choix](<24 - Philosophie et sens de la rencontre.md>) | repères | 1 927 |
+| 25 | [Corps, genre et intimité dans les premiers instants](<25 - Corps genre et intimite dans les premiers instants.md>) | physiologie | 1 965 |
+| 26 | [Le décor de la rencontre : lieux, climat et territoire](<26 - Le decor de la rencontre.md>) | pratique | 1 792 |
+| 27 | [Ce que dit la donnée : statistiques, risques et normes](<27 - Ce que dit la donnee.md>) | prévention | 1 728 |
+| 28 | [La rencontre dans l'art et la culture populaire](<28 - La rencontre dans l art et la culture populaire.md>) | repères | 2 012 |
 
-Total : 11 856 mots, 9 chapitres.
+Total : 44 591 mots, 28 chapitres.
 
 ## Par où commencer
 
@@ -46,5 +65,8 @@ Total : 11 856 mots, 9 chapitres.
 - **Quelque chose vous met mal à l'aise dans une relation qui commence** : chapitre 7, et en particulier le test du 7.4.
 - **Vous allez rencontrer quelqu'un vu en ligne** : chapitre 8.
 - **Vous voulez la version courte** : chapitre 9.
+- **Vous rencontrez après une rupture, un deuil, ou après 50 ans** : chapitre 13.
+- **Vous vous méfiez d'une arnaque sentimentale** : chapitre 15.
+- **Vous voulez l'histoire et la sociologie de la rencontre** : chapitres 17 et 18.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

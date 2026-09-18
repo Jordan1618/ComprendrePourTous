@@ -23,7 +23,10 @@ Comment le corps fonctionne concrètement, mécanisme par mécanisme.
 - [Le corps masculin : ce qu'il est utile de savoir](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>)  `corps masculin` · Pour Lui
 - [La sexualité masculine : anatomie, réponse, troubles](<../1 - Guides/Pour Lui/10 - La sexualite masculine.md>)  `corps masculin` · Pour Lui
 - [Ce qu'un trauma fait au corps](<../1 - Guides/Pour Nous/01 - Ce qu un trauma fait au corps.md>)  `commun` · Pour Nous
+- [Le corps du lien : neurobiologie et hormones du couple dans la durée](<../1 - Guides/Pour Nous/12 - Le corps du lien.md>)  `commun` · Pour Nous
 - [Ce que le cerveau décide avant vous](<../1 - Guides/La rencontre/01 - Ce que le cerveau decide avant vous.md>)  `commun` · La rencontre
+- [Le corps et la biologie du désir : phéromones, hormones et évolution](<../1 - Guides/La rencontre/23 - Le corps et la biologie du desir.md>)  `commun` · La rencontre
+- [Corps, genre et intimité dans les premiers instants](<../1 - Guides/La rencontre/25 - Corps genre et intimite dans les premiers instants.md>)  `commun` · La rencontre
 - [Ce que le cerveau appelle amour](<../1 - Guides/L amour/01 - Ce que le cerveau appelle amour.md>)  `commun` · L'amour
 - [Passion et attachement : deux temps, deux logiques](<../1 - Guides/L amour/02 - Passion et attachement.md>)  `commun` · L'amour
 - [Pourquoi l'amour existe : l'angle évolutionniste](<../1 - Guides/L amour/04 - Pourquoi l amour existe.md>)  `commun` · L'amour
@@ -58,6 +61,8 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [Le dilemme masculin contemporain](<../1 - Guides/Pour Lui/18 - Le dilemme masculin contemporain.md>)  `corps masculin` · Pour Lui
 - [Les styles d'attachement : la grille qui explique le plus](<../1 - Guides/La rencontre/02 - Les styles d attachement.md>)  `commun` · La rencontre
 - [Les biais qui font choisir de travers](<../1 - Guides/La rencontre/03 - Les biais qui font choisir de travers.md>)  `commun` · La rencontre
+- [L'effet miroir et l'échange social au premier contact](<../1 - Guides/La rencontre/11 - L effet miroir et l echange social.md>)  `commun` · La rencontre
+- [Neuroatypie, anxiété sociale et applications de niche](<../1 - Guides/La rencontre/16 - Neuroatypie anxiete sociale et applications de niche.md>)  `commun` · La rencontre
 - [Ce qu'on rejoue de son histoire](<../1 - Guides/L amour/05 - Ce qu on rejoue de son histoire.md>)  `commun` · L'amour
 - [D'où viennent les émotions : famille, société, institutions](<../1 - Guides/Les emotions/02 - D ou viennent les emotions.md>)  `commun` · Les émotions
 - [Reconnaître et nommer : la granularité émotionnelle](<../1 - Guides/Les emotions/03 - Reconnaitre et nommer.md>)  `commun` · Les émotions
@@ -93,8 +98,13 @@ Dépistage, protection, risque réel contre risque perçu.
 - [La contraception masculine : ce qui existe vraiment](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>)  `corps masculin` · Pour Lui
 - [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>)  `corps masculin` · Pour Lui
 - [Ce qui se répare vraiment : les prises en charge qui ont des preuves](<../1 - Guides/Pour Nous/03 - Ce qui se repare vraiment.md>)  `commun` · Pour Nous
+- [Infidélité, violence et sécurité du couple](<../1 - Guides/Pour Nous/14 - Infidelite violence et securite.md>)  `commun` · Pour Nous
 - [Les signaux d'alerte documentés](<../1 - Guides/La rencontre/07 - Les signaux d alerte documentes.md>)  `commun` · La rencontre
 - [Sécurité pratique et cadre légal](<../1 - Guides/La rencontre/08 - Securite et cadre legal.md>)  `commun` · La rencontre
+- [Rencontres professionnelles et en contexte de vulnérabilité : consentement et cadre](<../1 - Guides/La rencontre/14 - Rencontres professionnelles et vulnerabilite.md>)  `commun` · La rencontre
+- [Arnaques sentimentales et vérification avant un rendez-vous](<../1 - Guides/La rencontre/15 - Arnaques sentimentales et verification.md>)  `commun` · La rencontre
+- [La pickup culture et les coachs en rencontre, ce qui est vrai et dangereux](<../1 - Guides/La rencontre/20 - La pickup culture et les coachs en rencontre.md>)  `commun` · La rencontre
+- [Ce que dit la donnée : statistiques, risques et normes](<../1 - Guides/La rencontre/27 - Ce que dit la donnee.md>)  `commun` · La rencontre
 - [Quand le corps est en cause : ce qu'il faut écarter d'abord](<../1 - Guides/Les emotions/07 - Quand le corps est en cause.md>)  `commun` · Les émotions
 - [Les troubles psychiques : des repères, pas un diagnostic](<../1 - Guides/Les emotions/08 - Les troubles psychiques.md>)  `commun` · Les émotions
 - [Comprendre les IST : panorama et transmission](<../1 - Guides/IST, depistage et prevention/01 - Panorama et transmission.md>)  `commun` · IST, dépistage et prévention
@@ -160,7 +170,14 @@ Ce que ça change concrètement quand on est deux.
 - [Le quotidien et sa charge](<../1 - Guides/Pour Nous/07 - Le quotidien et sa charge.md>)  `commun` · Pour Nous
 - [Faire face aux épreuves qui viennent de l'extérieur](<../1 - Guides/Pour Nous/09 - Faire face aux epreuves.md>)  `commun` · Pour Nous
 - [Le deuil, seul et à deux](<../1 - Guides/Pour Nous/10 - Le deuil.md>)  `commun` · Pour Nous
+- [Traverser la maladie, le handicap et vieillir ensemble](<../1 - Guides/Pour Nous/16 - Traverser la maladie et vieillir ensemble.md>)  `commun` · Pour Nous
+- [La charge domestique et l'argent de poche : négocier l'équitable](<../1 - Guides/Pour Nous/20 - La charge domestique et l argent de poche.md>)  `commun` · Pour Nous
+- [Le couple vu du dehors : réseaux sociaux, belle-famille, amitiés, télétravail](<../1 - Guides/Pour Nous/21 - Le couple vu du dehors.md>)  `commun` · Pour Nous
+- [Enfant, pas enfant : désirs asymétriques et coparentalité au sein du couple](<../1 - Guides/Pour Nous/22 - Enfant pas enfant.md>)  `commun` · Pour Nous
+- [Formes non classiques : distance, non-monogamie, choix de ne pas se marier](<../1 - Guides/Pour Nous/24 - Formes non classiques.md>)  `commun` · Pour Nous
 - [Les premiers échanges : ce qui se joue vraiment](<../1 - Guides/La rencontre/06 - Les premiers echanges.md>)  `commun` · La rencontre
+- [Rencontrer après une rupture, un deuil, ou après 50 ans](<../1 - Guides/La rencontre/13 - Rencontrer apres une rupture un deuil ou apres 50 ans.md>)  `commun` · La rencontre
+- [Rencontrer en mobilité, en crise, ou après 50 ans via clubs et associations](<../1 - Guides/La rencontre/21 - Rencontrer en mobilite en crise ou via clubs.md>)  `commun` · La rencontre
 - [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/07 - Les langages de l amour.md>)  `commun` · L'amour
 - [Le désir dans la durée](<../1 - Guides/L amour/08 - Le desir dans la duree.md>)  `commun` · L'amour
 - [Les tabous à démonter](<../1 - Guides/Les emotions/10 - Les tabous a demonter.md>)  `commun` · Les émotions
@@ -188,7 +205,12 @@ Quoi faire, concrètement, avec des formulations et des gestes précis.
 - [Foire aux questions rapides](<../1 - Guides/Pour Lui/32 - Foire aux questions.md>)  `corps masculin` · Pour Lui
 - [Décider et construire ensemble](<../1 - Guides/Pour Nous/05 - Decider et construire ensemble.md>)  `commun` · Pour Nous
 - [Les projets de vie : enfant, lieu, travail](<../1 - Guides/Pour Nous/08 - Les projets de vie.md>)  `commun` · Pour Nous
+- [Le droit et l'argent du couple : mariage, PACS, fiscalité, succession](<../1 - Guides/Pour Nous/13 - Le droit et l argent du couple.md>)  `commun` · Pour Nous
+- [Rituels et communication non dite du couple](<../1 - Guides/Pour Nous/19 - Rituels et communication non dite.md>)  `commun` · Pour Nous
 - [Mieux choisir : la synthèse actionnable](<../1 - Guides/La rencontre/09 - Mieux choisir la synthese.md>)  `commun` · La rencontre
+- [Ce que les applications de rencontre optimisent vraiment](<../1 - Guides/La rencontre/12 - Ce que les applications optimisent vraiment.md>)  `commun` · La rencontre
+- [Speed dating, jeux vidéo, communautés de passion : les rencontres de niche](<../1 - Guides/La rencontre/19 - Speed dating jeux video et communautes de passion.md>)  `commun` · La rencontre
+- [Le décor de la rencontre : lieux, climat et territoire](<../1 - Guides/La rencontre/26 - Le decor de la rencontre.md>)  `commun` · La rencontre
 - [Ce que l'amour engage concrètement](<../1 - Guides/L amour/09 - Ce que l amour engage.md>)  `commun` · L'amour
 - [Décoder une émotion : à quoi sert chacune](<../1 - Guides/Les emotions/04 - Decoder une emotion.md>)  `commun` · Les émotions
 - [Réguler : ce qui marche et ce qui ne marche pas](<../1 - Guides/Les emotions/05 - Reguler ce qui marche.md>)  `commun` · Les émotions
@@ -242,8 +264,19 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Ressources et associations utiles](<../1 - Guides/Pour Lui/33 - Ressources et associations.md>)  `corps masculin` · Pour Lui
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Lui/34 - Glossaire des termes médicaux.md>)  `corps masculin` · Pour Lui
 - [Le couple à travers les âges et les civilisations](<../1 - Guides/Pour Nous/11 - Le couple a travers les ages.md>)  `commun` · Pour Nous
+- [Ce qui prédit la réussite ou l'échec : 50 ans de recherche](<../1 - Guides/Pour Nous/15 - Ce qui predit la reussite ou l echec.md>)  `commun` · Pour Nous
+- [Sociologie, anthropologie et histoire du couple](<../1 - Guides/Pour Nous/17 - Sociologie anthropologie et histoire du couple.md>)  `commun` · Pour Nous
+- [Philosophie et sens de l'engagement à deux](<../1 - Guides/Pour Nous/18 - Philosophie et sens de l engagement.md>)  `commun` · Pour Nous
+- [Le couple en culture : cinéma, musique, folklore, jeu](<../1 - Guides/Pour Nous/23 - Le couple en culture.md>)  `commun` · Pour Nous
+- [Ce que les couples de longue date en disent, et ce qui reste ouvert](<../1 - Guides/Pour Nous/25 - Ce que les couples de longue date en disent.md>)  `commun` · Pour Nous
 - [Où les gens se rencontrent vraiment](<../1 - Guides/La rencontre/04 - Ou les gens se rencontrent vraiment.md>)  `commun` · La rencontre
 - [Les applications : la logique derrière l'écran](<../1 - Guides/La rencontre/05 - Les applications de rencontre.md>)  `commun` · La rencontre
+- [Homogamie et réseau social dans la formation du couple](<../1 - Guides/La rencontre/10 - Homogamie et reseau social.md>)  `commun` · La rencontre
+- [Une histoire de la rencontre, du mariage arrangé au swipe](<../1 - Guides/La rencontre/17 - Une histoire de la rencontre.md>)  `commun` · La rencontre
+- [Le marché matrimonial : économie, droit et RGPD](<../1 - Guides/La rencontre/18 - Le marche matrimonial economie droit et RGPD.md>)  `commun` · La rencontre
+- [Ce que dix ans de recherche disent des couples formés en ligne](<../1 - Guides/La rencontre/22 - Ce que dix ans de recherche disent des couples en ligne.md>)  `commun` · La rencontre
+- [Philosophie et sens de la rencontre : hasard, destin et choix](<../1 - Guides/La rencontre/24 - Philosophie et sens de la rencontre.md>)  `commun` · La rencontre
+- [La rencontre dans l'art et la culture populaire](<../1 - Guides/La rencontre/28 - La rencontre dans l art et la culture populaire.md>)  `commun` · La rencontre
 - [Les types d'amour : ce que les Grecs avaient déjà démêlé](<../1 - Guides/L amour/03 - Les types d amour.md>)  `commun` · L'amour
 - [L'amour romantique, une invention récente](<../1 - Guides/L amour/06 - L amour romantique une invention recente.md>)  `commun` · L'amour
 - [IST ou MST ? Une histoire de mots](<../1 - Guides/IST, depistage et prevention/07 - IST ou MST.md>)  `commun` · IST, dépistage et prévention

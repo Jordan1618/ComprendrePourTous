@@ -78,6 +78,77 @@ Sources du guide [Pour Nous](<../1 - Guides/Pour Nous/README.md>), classées par
 | Stutzer, A. & Frey, B. (2008), [Stress that doesn't pay: the commuting paradox](https://www.bsfrey.ch/wp-content/uploads/2021/08/stress-that-doesnt-pay-the-commuting-paradox.pdf), *Scandinavian Journal of Economics* | Paradoxe du trajet domicile-travail | 8.3 |
 | van der Kolk, B. (2014), [The Body Keeps the Score](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952), *Viking* | Le corps garde le compte, mémoire fragmentaire du trauma | 1.3 |
 
+## Neurobiologie, droit et économie du couple (chapitres 12-13)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Pacific Neuroscience Institute, [The Neuroscience of Love and Connection](https://www.pacificneuroscienceinstitute.org/blog/brain-wellness-lifestyle/the-neuroscience-of-love-and-connection/) | Bascule dopamine/ocytocine, synchronisation cérébrale | 12 |
+| Hatfield, E. et coll. (2008), [The Endurance of Love](https://ojs.interpersonajournal.com/index.php/ojs/article/view/146), *Interpersona* | Déclin conjoint de l'amour passionnel et compagnon | 12 |
+| [After the Honeymoon: Neural and Genetic Correlates of Romantic Love](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.00634/full), *Frontiers in Psychology* | Polymorphismes génétiques et amour romantique | 12 |
+| [Biological Embedding of Early-Life Adversity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10454883/), *PMC* | Transmission épigénétique du stress précoce | 12 |
+| Étude Rives, [Régimes matrimoniaux](https://etude-rives-pontault-combault.notaires.fr/articles/regimes-matrimoniaux-comment-choisir-entre-communaute-separation-biens-1565.htm) | Communauté vs séparation de biens | 13 |
+| Hephata, [PACS et succession](https://hephata.fr/pacs-et-succession-droits-protection/) | Droits comparés mariage/PACS | 13 |
+| Cerfrance Gascogne Occitane, [Donation au dernier vivant](https://gascogne-occitane.cerfrance.fr/pages/donation-au-dernier-vivant) | Donation entre époux, limites | 13 |
+| impots.gouv.fr, [Mariage/PACS et impôts en commun](https://www.impots.gouv.fr/particulier/mariage-et-impots-en-commun) | Imposition commune | 13 |
+| Village Justice, [L'animal de compagnie dans le contentieux familial](https://www.village-justice.com/articles/animal-compagnie-dans-contentieux-familial-dix-ans-apres-article-515-code-civil,58350.html) | Article 515-14, garde d'animal | 13 |
+
+## Infidélité, violence et prédicteurs de réussite (chapitres 14-15)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [Infidelity Statistics (2026 Data)](https://jamesmchristensen.com/blog/infidelity-statistics-how-common-is-cheating-in-marriage-2026-research-amp-data) | Prévalence et prédicteurs de l'infidélité | 14 |
+| Citoyens Justice, [Le cycle de la violence conjugale](https://www.citoyens-justice.fr/violences-conjugales/les-mecanismes-de-la-violences-conjugales/le-cycle-de-la-violence-conjugale.html) | Les quatre phases du cycle | 14 |
+| Les Clés de la Banque, [Reconnaître les violences économiques](https://www.lesclesdelabanque.com/particulier/reconnaitre-violences-economiques/) | Violence économique, chiffres France | 14 |
+| Gottman Institute, [The Four Horsemen](https://www.gottman.com/blog/the-four-horsemen-recognizing-criticism-contempt-defensiveness-and-stonewalling/) | Critique, mépris, défense, mutisme | 15 |
+| Carr, A. (2025), [Couple therapy and systemic interventions](https://onlinelibrary.wiley.com/doi/10.1111/1467-6427.12481), *Journal of Family Therapy* | Efficacité de la thérapie de couple | 15 |
+| Impossible Psych Services, [Sunk Cost Fallacy In Relationships](https://www.impossiblepsychservices.com.sg/our-resources/articles/2024/11/28/understanding-the-sunk-cost-fallacy-in-relationships/) | Biais des coûts irrécupérables | 15 |
+| Justifit, [Prix d'un divorce en 2026](https://www.justifit.fr/b/guides/droit-famille/divorce/prix-divorce/) | Coût/délai divorce amiable vs contentieux | 15 |
+
+## Maladie, sociologie et philosophie du couple (chapitres 16-18)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Health & Her, [What is 'couplepause'](https://healthandher.com/en-us/blogs/expert-advice/what-is-couplepause-and-how-can-it-affect-relationships-in-your-40s-and-50s-us) | Ménopause/andropause simultanées | 16 |
+| [Dyadic Coping in Couples Facing Chronic Physical Illness](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.722740/full), *Frontiers* | Adaptation à deux face à la maladie | 16 |
+| [A Study of Sexuality and Health among Older Adults](https://pmc.ncbi.nlm.nih.gov/articles/PMC2426743/), *NEJM* | Sexualité après 60-70 ans | 16 |
+| Coontz, S., *Marriage, a History* | Mariage d'amour, tension institution/relation | 17 |
+| Insee, [Le couple dans tous ses états](https://www.insee.fr/fr/statistiques/1281436) | Cohabitation en France | 17 |
+| Mindbodygreen, [Second Marriage Success Rates](https://www.mindbodygreen.com/articles/second-marriage-success-rates-statistics-research-and-advice-from-therapists) | Remariage, rôle du lien beau-parental | 17 |
+| Ferracioli, L. (2026), [Stepparenting and Moral Parenthood](https://onlinelibrary.wiley.com/doi/10.1111/josp.12593) (déjà cité, guide Les nouvelles compositions familiales) | Statut moral du beau-parent | — |
+| Gibson, C., [Sartre and the Possibility of Authentic Love](https://ora.ox.ac.uk/objects/uuid:ffd68a7f-b0cb-4ce6-a467-24a532998851/files/mdeeff8e660c1dd2a5792621a5b4b855b) | Existentialisme et engagement | 18 |
+| [Notes on Badiou's In Praise of Love](https://thedangerousmaybe.medium.com/notes-on-badious-in-praise-of-love-1ede81cc2db0) | Le « Deux » et la fidélité | 18 |
+| BYU Forever Families, [Strengthening Interfaith Marriage](https://foreverfamilies.byu.edu/strengthening-interfaith-marriage) | Couples interconfessionnels | 18 |
+
+## Rituels, charge domestique et vie sociale du couple (chapitres 19-21)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Empathi, [How to Create Rituals of Connection](https://empathi.com/blog/how-to-create-rituals-of-connection/) | Rituels de couple, contact physique | 19 |
+| Empathi, [Silent Treatment vs Stonewalling](https://empathi.com/blog/silent-treatment-vs-stonewalling/) | Distinction pause saine/mutisme | 19 |
+| [Birds of a Feather Laugh Together](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4991048/), *PMC* | Humour et satisfaction conjugale | 19 |
+| [Cognitive household labor](https://pmc.ncbi.nlm.nih.gov/articles/PMC11761833/), *PMC* | Charge mentale genrée | 20 |
+| Monarch, [Joint Bank Accounts for Couples](https://www.monarch.com/blog/options-for-sharing-or-not-sharing-bank-accounts-with-your-partner) | Compte joint vs séparé | 20 |
+| [Partner (in)congruence in gender role attitudes](https://academic.oup.com/pnasnexus/article/4/1/pgae589/7944955), *PNAS Nexus* | Négociation des rôles de genre | 20 |
+| Phys.org, [Jealousy fueled by social media](https://phys.org/news/2025-12-jealousy-fueled-social-media-erode.html) | Jalousie et réseaux sociaux | 21 |
+| [In-law Relationships Before and After Marriage](https://pmc.ncbi.nlm.nih.gov/articles/PMC3686301/), *PMC* | Satisfaction et belle-famille | 21 |
+| [Couples vacations and romantic passion and intimacy](https://www.sciencedirect.com/science/article/pii/S266695792400003X) | Auto-expansion, voyage à deux | 21 |
+| Reworked, [Can Couples Survive Working Under the Same Roof?](https://www.reworked.co/collaboration-productivity/working-from-home-is-good/) | Télétravail à deux | 21 |
+
+## Enfant, culture et formes non classiques du couple (chapitres 22-25)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Stahnke, B. et coll. (2023), [Life Satisfaction Among Childfree Adults](https://journals.sagepub.com/doi/abs/10.1177/10664807221104795) | Satisfaction des couples sans enfant | 22 |
+| Barnett, M. et coll. (2026), [Child Care Labor Division](https://onlinelibrary.wiley.com/doi/10.1111/jomf.70022?af=R), *Journal of Marriage and Family* | Attentes et répartition de la garde | 22 |
+| [The Effect of Grandchild Care on Spousal Relationship Satisfaction](https://pmc.ncbi.nlm.nih.gov/articles/PMC6227225/), *PMC* | Soutien des grands-parents | 22 |
+| Ole Miss News, [Romance Media Could Alter Perceptions of Relationships](https://olemiss.edu/news/2024/07/romantic-movies-perception/index.html) | Cultivation, comédies romantiques | 23 |
+| [Love songs and serenades](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1302548/full), *Frontiers in Psychology* | Musique et lien de couple | 23 |
+| ASA Generations, [Accurate Representations of Older Adult Sexuality in Film](https://generations.asaging.org/accurate-film-representations-elder-sexuality/) | Stéréotype du « vieux couple » | 23 |
+| Left Unsaid, [Long Distance Relationship Success Rate](https://leftunsaid.store/pages/long-distance-relationship-success-rate) | Couple à distance | 24 |
+| Mogilski, J. K., cité par Psypost, [Nine core habits](https://www.psypost.org/psychologists-identify-nine-core-habits-associated-with-healthy-non-monogamous-partnerships/), *Archives of Sexual Behavior* | Non-monogamie consensuelle | 24 |
+| Cornell University, [Gerontologist finds the formula to a happy marriage](https://news.cornell.edu/node/284565) | Cornell Marriage Advice Project (Pillemer) | 25 |
+| Harvard Gazette, [Over nearly 80 years, Harvard study](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/) | Harvard Study of Adult Development | 25 |
+
 ---
 
 Retour à l'[index des sources](<README.md>) · [Pour Nous](<../1 - Guides/Pour Nous/README.md>) · [Accueil](<../README.md>)
