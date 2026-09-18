@@ -4,7 +4,7 @@ chapitre: "4"
 titre: "Les questions qui changent une vie"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-08-05
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -95,3 +95,20 @@ Le protocole est célèbre pour de mauvaises raisons, présenté comme un truc p
 **Le temps protégé.** Quarante-cinq minutes sans interruption. La profondeur demande de la durée, et c'est structurel.
 
 **💑 Dans le couple.** Le protocole marche aussi sur des gens qui se connaissent depuis longtemps, et souvent mieux, parce que le stock de questions jamais posées y est plus important qu'on croit. Une soirée par mois, quatre ou cinq questions, chacun répond. Ça paraît artificiel dix minutes puis ça ne l'est plus.
+
+### 4.8 🗣️ Témoignage réel : l'essai qui a rendu le protocole célèbre
+
+En janvier 2015, l'autrice canadienne Mandy Len Catron publie dans le *New York Times*, dans la rubrique Modern Love, un essai qui raconte comment elle a testé le protocole des 36 questions avec une simple connaissance, un professeur d'université qu'elle fréquentait sans plus, autour d'un verre. [L'article, intitulé "To Fall in Love With Anyone, Do This", devient l'un des textes les plus lus de l'année sur le site du journal, et Catron finit en couple avec la personne avec qui elle avait fait l'exercice](https://www.npr.org/2019/11/22/780960016/mandy-len-catron-can-you-jumpstart-love) (NPR, entretien avec Mandy Len Catron, 22 novembre 2019 ; vérification du 17 septembre 2026).
+
+Catron a ensuite publié un livre entier sur le sujet, où elle nuance elle-même le succès viral de son texte initial : le protocole n'est pas une formule magique pour tomber amoureux de n'importe qui, et elle met en garde contre l'idée que la proximité produite par les questions équivaudrait automatiquement à l'amour. Ce que son témoignage illustre le mieux, ce n'est donc pas la promesse marketing qui a circulé sur les réseaux ("36 questions pour tomber amoureux"), mais exactement le mécanisme déjà démontré par les auteurs originaux du protocole : l'escalade graduée et réciproque de l'auto-divulgation produit une proximité réelle et mesurable, que cette proximité débouche ou non sur une histoire d'amour.
+
+Ce que ce cas ajoute au protocole scientifique, c'est la preuve qu'il fonctionne aussi entre deux personnes qui ne partaient de rien de spécial, une simple connaissance, sans laboratoire ni chercheur pour cadrer l'échange.
+
+## Sources vérifiables
+
+- Construction active de la mémoire autobiographique : Conway & Pleydell-Pearce, *Psychological Review*, 2000. https://www.semanticscholar.org/paper/The-construction-of-autobiographical-memories-in-Conway-Pleydell-Pearce/13241a844c714549c173e239714ae020386172e3 (vérification du 8 août 2026).
+- Pensée contrefactuelle et intensification du regret : Roese, *Psychological Bulletin*, 1997. https://www.researchgate.net/publication/202304329_Counterfactual_Thinking (vérification du 8 août 2026).
+- Évaluation sociale directe comme déclencheur de stress interpersonnel : Dickerson & Kemeny, *Psychological Bulletin*, 2004. https://www.researchgate.net/publication/8582418_Acute_Stressors_and_Cortisol_Responses_A_Theoretical_Integration_and_Synthesis_of_Laboratory_Research (vérification du 8 août 2026).
+- Effets bénéfiques de la revue de vie en gérontologie : Butler, *Psychiatry*, 1963. https://pubmed.ncbi.nlm.nih.gov/14017386/ (vérification du 8 août 2026).
+- Protocole des 36 questions et escalade graduée de l'auto-divulgation : Aron et al., *Personality and Social Psychology Bulletin*, 1997. https://journals.sagepub.com/doi/10.1177/0146167297234003 (vérification du 4 août 2026).
+- Témoignage de Mandy Len Catron sur son expérience du protocole des 36 questions et sa réception : NPR, 22 novembre 2019. https://www.npr.org/2019/11/22/780960016/mandy-len-catron-can-you-jumpstart-love (vérification du 17 septembre 2026).

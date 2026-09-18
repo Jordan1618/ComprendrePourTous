@@ -4,7 +4,7 @@ chapitre: "17"
 titre: "Bien communiquer par message, les conversations privées à l'ère numérique"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -40,10 +40,24 @@ De la même façon, un différentiel fonctionne mieux qu'un jugement à l'écrit
 
 Un silence de plusieurs heures dans une conversation en cours est presque toujours interprété comme un signal, alors qu'il n'en est un que dans une minorité de cas : la personne est occupée, son téléphone est ailleurs, elle prépare une réponse plus longue qu'elle n'a pas eu le temps de finir. Le réflexe qui évite la spirale d'anxiété n'est pas d'attendre en silence en ruminant, ni de relancer immédiatement par insécurité : c'est d'accepter que l'absence de réponse rapide n'a, la plupart du temps, rien à voir avec ce qui vient d'être écrit. Quand le doute s'installe malgré tout, une relance factuelle et sans reproche ("je voulais juste vérifier que le message était bien passé") fonctionne mieux qu'un silence prolongé suivi d'un message chargé d'irritation accumulée.
 
+### 17.6 L'émoji, une ponctuation du ton plutôt qu'une décoration
+
+Un emoji glissé en fin de phrase n'est pas un gadget esthétique, c'est un outil qui comble en partie le vide décrit en 17.1 : l'absence de ton de voix. [La recherche sur l'usage des emojis montre qu'ils servent principalement à exprimer un sentiment, à renforcer une expression ou à ajuster le ton d'un message, un rôle jugé particulièrement influent quand l'emoji est cohérent avec le contenu émotionnel du texte qu'il accompagne](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0326189) (étude sur l'impact des emojis sur la réactivité perçue et la satisfaction relationnelle dans les échanges de messages, *PLOS One* ; vérification du 17 septembre 2026). Un même message sec ("ok, je regarde") change de signification presque totale selon qu'il se termine par un point, rien du tout, ou un petit emoji souriant : le contenu verbal est identique, le ton perçu ne l'est pas.
+
+L'usage de l'emoji reste cependant dépendant du contexte et de l'âge des deux personnes en présence, ce qui peut produire l'effet inverse de celui recherché : un emoji perçu comme familier par l'un peut être lu comme déplacé ou too much par l'autre, en particulier entre générations différentes, ce qui rejoint l'écart générationnel de canal déjà documenté au chapitre 16. Le réflexe utile n'est donc pas de bannir ou d'imposer l'emoji par principe, mais d'observer, comme pour la longueur du message en 17.3, l'usage que fait l'autre avant d'aligner le sien.
+
+### 17.7 Quand le silence devient une disparition
+
+Il existe une forme extrême du silence évoqué en 17.5, qui mérite d'être distinguée du simple délai de réponse : la disparition complète et volontaire, sans aucune explication, communément appelée "ghosting". [Une étude menée auprès de jeunes adultes a établi que 65 % d'entre eux avaient déjà mis fin à une relation amoureuse en cessant brutalement toute communication, et que 72 % avaient eux-mêmes vécu cette expérience de l'autre côté, avec des taux plus variables (13 à 23 %) selon la définition et l'échantillon utilisés dans d'autres études](https://journals.sagepub.com/doi/abs/10.1177/0276236618820519) (LeFebvre, Allen, Rasner, Garstad, Wilms & Parrish, "Ghosting in Emerging Adults' Romantic Relationships", *Imagination, Cognition and Personality*, 2019 ; vérification du 17 septembre 2026). Les personnes qui subissent un ghosting rapportent une détresse significative, marquée par une incertitude prolongée sur ce qui s'est réellement passé, tandis que celles qui l'infligent rapportent le plus souvent de la culpabilité après coup, ce qui nuance l'image d'un geste fait "sans y penser".
+
+👁️ Vu de l'autre côté, le ghosting est souvent justifié par celui qui le pratique comme la solution la moins douloureuse, un moyen d'éviter un conflit ou une explication pénible en face. La recherche montre que l'effet réel est inverse : c'est justement l'absence d'explication, pas la rupture elle-même, qui prolonge le plus la détresse de la personne qui la subit, parce qu'elle ne dispose d'aucun élément pour comprendre ni pour tourner la page. J'ai déjà arrêté de répondre à quelqu'un du jour au lendemain en me disant que c'était plus simple pour tout le monde ; c'était surtout plus simple pour moi, et je le savais très bien au moment de le faire. Une phrase brève et honnête, même maladroite ("je ne me sens plus de continuer, désolé de te le dire comme ça"), coûte un vrai inconfort immédiat à celui qui l'écrit, mais évite à l'autre les semaines d'incertitude que le silence total installe presque systématiquement.
+
 ## Sources vérifiables
 
 - Surestimation de sa capacité à transmettre et décoder le ton d'un message écrit : Kruger, Epley, Parker & Ng, "Egocentrism over e-mail: Can we communicate as well as we think?", *Journal of Personality and Social Psychology*, 2005. https://pubmed.ncbi.nlm.nih.gov/16393025/ (vérification du 13 août 2026).
 - Sous-estimation systématique de son propre capital de sympathie après une conversation ("écart d'appréciation") : Boothby, Cooney, Sandstrom & Clark, *Psychological Science*, 2018. https://pubmed.ncbi.nlm.nih.gov/30183512/ (vérification du 13 août 2026).
 - Concordance de style linguistique et prédiction de l'intérêt mutuel puis de la stabilité relationnelle : Ireland, Slatcher, Eastwick, Scissors, Finkel & Pennebaker, *Psychological Science*, 2011. https://doi.org/10.1177/0956797610392928 (vérification du 13 août 2026).
+- Rôle des emojis dans l'ajustement du ton perçu et la réactivité relationnelle dans les échanges de messages : étude sur l'impact des emojis sur la réactivité perçue et la satisfaction relationnelle, *PLOS One*. https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0326189 (vérification du 17 septembre 2026).
+- Prévalence du ghosting chez les jeunes adultes et détresse associée à l'absence d'explication : LeFebvre, Allen, Rasner, Garstad, Wilms & Parrish, "Ghosting in Emerging Adults' Romantic Relationships: The Digital Dissolution Disappearance Strategy", *Imagination, Cognition and Personality*, 2019. https://journals.sagepub.com/doi/abs/10.1177/0276236618820519 (vérification du 17 septembre 2026).
 
 Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../../4 - Sources/Questions et communication.md>).

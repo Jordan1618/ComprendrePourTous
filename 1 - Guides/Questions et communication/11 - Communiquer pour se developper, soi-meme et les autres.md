@@ -4,7 +4,7 @@ chapitre: "11"
 titre: "Communiquer pour se développer, soi-même et les autres"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -40,9 +40,26 @@ Un des leviers les mieux documentés est le plus simple : poser des questions, e
 
 Se développer par la communication, en résumé, tient sur trois mouvements imbriqués : mettre en mots pour clarifier sa propre pensée, nommer pour reprendre la main sur ce qu'on ressent, et écouter puis relancer pour donner à l'autre le même bénéfice en retour. Aucun des trois n'exige un vocabulaire savant ni une posture de thérapeute improvisé, seulement l'habitude de ne pas laisser les choses à l'état d'impression vague.
 
+### 11.5 Se parler à soi-même comme à quelqu'un d'autre
+
+Il existe une application directe de ce chapitre à la façon dont on se parle intérieurement, avant même toute conversation avec autrui : la manière de se poser une question à soi-même change ce qu'on en retire, indépendamment du contenu.
+
+Sur sept études réunissant 585 participants, [les personnes qui se parlaient à elles-mêmes en utilisant leur prénom ou le pronom "tu" plutôt que "je", avant un exercice stressant comme un entretien d'embauche simulé ou une prise de parole en public, performaient mieux selon des évaluateurs extérieurs, ressentaient moins de détresse pendant l'épreuve, et ruminaient moins après coup](https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2024/07/KrossJ_Pers_Soc_Psychol2014Self-talk_as_a_regulatory_mechanism_How_you_do_it_matters.pdf) (Kross, Bruehlman-Senecal et coll., *Journal of Personality and Social Psychology*, 2014 ; vérification du 17 septembre 2026). Le contenu du discours intérieur, positif ou négatif, comptait beaucoup moins que sa structure grammaticale : passer du "je" au "tu" ou au prénom crée une distance psychologique suffisante pour transformer une auto-évaluation anxieuse en quelque chose qui ressemble davantage à un conseil qu'on donnerait à un ami.
+
+Ça rejoint directement la logique de ce chapitre. Une question qu'on se pose à soi-même en disant "qu'est-ce que je fais" reste prise dans la même boucle que l'émotion du moment. La même question reformulée en "qu'est-ce que tu fais, là" ou avec son propre prénom crée un espace, le même genre d'espace qu'apporte une écoute extérieure de qualité (11.3), sauf que là, personne d'autre n'est nécessaire pour le produire.
+
+**Bons réflexes.** Face à une décision ou une émotion difficile à démêler seul, reformuler la question intérieure au "tu" ou avec son propre prénom plutôt qu'au "je" : non pas "qu'est-ce que je devrais faire", mais "qu'est-ce que [prénom] devrait faire, à ta place". Le changement paraît artificiel la première fois, il produit un vrai recul dès les suivantes.
+
+**💑 Dans le couple.** Ce même principe de distance s'applique aussi bien quand tu aides ton partenaire à démêler une situation qui le dépasse. Lui demander "qu'est-ce que tu dirais à un ami qui te racontait exactement ça" fait le même travail de recul que le changement de pronom en solo, sans jamais avoir besoin de le nommer comme une technique. C'est souvent plus efficace que de proposer directement ta propre lecture de la situation, parce que la réponse vient alors de lui, pas de toi.
+
+### 11.6 Ce que ce chapitre doit à la notion de granularité émotionnelle
+
+Les trois mouvements décrits plus haut, mettre en mots, nommer, écouter puis relancer, se retrouvent tous connectés par un même fil : la précision du vocabulaire disponible pour décrire un état intérieur. C'est exactement l'objet de la notion [Granularité émotionnelle](<../../2 - Notions/Granularité émotionnelle.md>), déjà mobilisée en 11.2, qui mérite d'être reliée explicitement à l'ensemble du chapitre plutôt qu'à sa seule section sur le nommage : plus le vocabulaire est fin, plus mettre en mots (11.1), nommer une émotion (11.2), et reformuler une question à soi-même autrement (11.5) produisent un effet net, parce que chacune de ces opérations dépend de la même ressource, un répertoire de mots suffisamment précis pour que la mise en forme apporte vraiment quelque chose de nouveau, plutôt que de simplement recoller une étiquette vague sur un état déjà connu.
+
 ## Sources vérifiables
 
 - Bénéfices psychologiques et physiques de l'écriture expressive, synthèse de la littérature : Baikie & Wilhelm, *Advances in Psychiatric Treatment*, 2005. https://www.cambridge.org/core/journals/advances-in-psychiatric-treatment/article/emotional-and-physical-health-benefits-of-expressive-writing/ED2976A61F5DE56B46F07A1CE9EA9F9F (vérification du 13 août 2026).
 - Effet du fait de nommer une émotion sur l'activité de l'amygdale : Lieberman, Eisenberger, Crockett, Tom, Pfeifer & Way, *Psychological Science*, 2007. https://pubmed.ncbi.nlm.nih.gov/17576282/ (vérification du 13 août 2026).
 - Effet d'une écoute de haute qualité sur la clarté de l'attitude de celui qui parle : Itzchakov, DeMarree, Kluger & Turjeman-Levi, *Personality and Social Psychology Bulletin*, 2018. https://pubmed.ncbi.nlm.nih.gov/29347879/ (vérification du 13 août 2026).
 - Effet du fait de poser des questions, notamment de relance, sur la perception par l'interlocuteur : Huang, Yeomans, Brooks, Minson & Gino, *Journal of Personality and Social Psychology*, 2017. https://pubmed.ncbi.nlm.nih.gov/28447835/ (vérification du 13 août 2026).
+- Effet du pronom utilisé en discours intérieur sur la performance et la détresse sous stress : Kross, Bruehlman-Senecal et coll., *Journal of Personality and Social Psychology*, 2014. https://sites.lsa.umich.edu/emotion-selfcontrol-psych/wp-content/uploads/sites/1322/2024/07/KrossJ_Pers_Soc_Psychol2014Self-talk_as_a_regulatory_mechanism_How_you_do_it_matters.pdf (vérification du 17 septembre 2026).

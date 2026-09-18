@@ -4,7 +4,7 @@ chapitre: "12"
 titre: "Motivation, travail, négociation et réussite"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -28,6 +28,8 @@ Là où la recherche est la plus solide, c'est sur l'écart entre demander et ne
 
 La formulation-type qui contourne en partie ce piège n'est pas "je mérite plus". C'est le chiffre posé sans justification émotionnelle : "le marché pour ce poste tourne autour de X, je propose Y, qu'est-ce qui est possible de votre côté." Une demande factuelle, chiffrée, encadrée dans une fourchette plutôt qu'un montant unique, se discute plus facilement qu'une demande formulée comme une réclamation personnelle.
 
+À nuancer cependant : l'écart entre hommes et femmes documenté par l'étude de 2003 n'est ni universel ni figé. [Une méta-analyse portant sur 55 tailles d'effet et plus de 17 000 personnes confirme que les femmes initient en moyenne un peu moins souvent une négociation que les hommes, mais que cet écart est petit et dépend fortement du contexte : il se réduit presque à rien quand la situation autorise clairement à négocier, et diminue régulièrement d'année en année dans les études menées entre 1977 et 2016](https://www.psy.uni-muenchen.de/wirtschaftspsychologie_en/personen/academic_staff/katharina_kugler/kugler-et-al_2018.pdf) (Kugler, Reif, Kaschner & Brodbeck, *Psychological Bulletin*, 2018 ; vérification du 17 septembre 2026). Le mécanisme n'est donc pas une différence de caractère entre les sexes, il est largement situationnel : rendre explicite qu'une négociation est possible et attendue efface une grande partie de l'écart, dans un sens comme dans l'autre.
+
 ### 12.4 Pourquoi une équipe qui communique mal sous-performe, mesurablement
 
 À l'échelle d'un collectif, l'effet se retrouve. Une méta-analyse regroupant des dizaines d'études sur des équipes de travail a établi que [la qualité de la communication au sein d'une équipe prédit sa performance de façon plus robuste que la simple fréquence des échanges, l'effet étant particulièrement marqué pour les tâches complexes et interdépendantes](https://doi.org/10.1016/j.obhdp.2017.08.001) (Marlow, Lacerenza, Paoletti, Burke & Salas, *Organizational Behavior and Human Decision Processes*, 2018 ; vérification du 13 août 2026).
@@ -38,12 +40,24 @@ Concrètement, multiplier les points de synchronisation ne compense pas des éch
 
 Un biais du sujet "réussite" est de le réduire à la négociation et à la promotion. Une partie de ce qui rend une carrière viable sur le long terme, c'est le plaisir tiré des échanges eux-mêmes au travail : blaguer avec un collègue, être écouté sur une idée, sentir qu'on peut parler franchement à un supérieur sans calculer chaque mot. Ce registre-là ne se mesure pas par un chiffre de salaire, mais il pèse autant dans la durée : une équipe où l'on peut dire "je ne comprends pas, tu peux reformuler" sans passer pour incompétent retient mieux ses membres qu'une équipe techniquement performante mais où chacun surveille ses mots en permanence.
 
-## Sources vérifiables
+### 12.6 Demander du feedback négatif, la question la plus rentable de toute une carrière
+
+Ce chapitre a surtout parlé de demander de l'argent. Une question moins spectaculaire, mais tout aussi rentable dans la durée, est presque toujours évitée pour la même raison que les autres questions difficiles de ce guide : la peur de ce qu'on va entendre.
+
+Une étude de terrain a suivi 387 managers, évalués séparément par leurs supérieurs, leurs subordonnés et leurs pairs. [Les managers qui demandaient activement un retour négatif sur leur travail, plutôt que de se contenter du feedback positif spontané, avaient une compréhension plus juste de la façon dont ils étaient perçus, et étaient jugés plus efficaces par les trois catégories d'évaluateurs ; à l'inverse, ceux qui sollicitaient surtout du feedback positif étaient perçus moins favorablement](https://journals.aom.org/doi/10.5465/256442) (Ashford & Tsui, *Academy of Management Journal*, 1991 ; vérification du 17 septembre 2026).
+
+Le mécanisme rejoint directement le chapitre 8 de ce guide sur la réception de la réponse : demander "qu'est-ce qui n'a pas marché" ou "qu'est-ce que je pourrais mieux faire", puis encaisser la réponse sans se défendre, est perçu comme un signe de compétence plutôt que de faiblesse. C'est contre-intuitif, parce que le réflexe naturel est de croire qu'exposer ses manques donne une mauvaise image. La donnée dit l'inverse : c'est l'évitement du feedback négatif, pas le fait de le demander, qui abîme la réputation professionnelle sur la durée.
+
+**Bons réflexes.** Une question à intégrer aux entretiens réguliers avec un supérieur ou un client : "qu'est-ce qui vous a le moins convaincu dans ce que j'ai livré". Elle demande explicitement le négatif, ce que personne n'offre spontanément, et elle positionne celle ou celui qui la pose comme quelqu'un qui cherche à s'améliorer plutôt que quelqu'un en quête de validation.
+
+Ce principe rejoint directement ce que dit le chapitre 8 de ce guide sur la réception d'une réponse difficile sans se défendre : demander du feedback négatif n'a d'effet positif que si la personne qui le reçoit tient vraiment sa part du contrat, c'est-à-dire n'argumente pas et ne se justifie pas sur le moment. Une seule réaction défensive après une demande de feedback négatif suffit à apprendre à l'interlocuteur de ne plus jamais répondre honnêtement à la même question.
 
 - Origine réelle, non scientifique au sens moderne, du chiffre "85 % de réussite vient des compétences relationnelles" : Carnegie Foundation for the Advancement of Teaching, réponse officielle à la FAQ. https://www.carnegiefoundation.org/faqs/recently-read-somewhere-carnegie-foundation-report-said-85-persons-job-success-product-interpersonal-skills-15-success-result-technical-knowle/ (vérification du 13 août 2026).
 - Communication citée parmi les attributs les plus recherchés par les employeurs de jeunes diplômés : National Association of Colleges and Employers (NACE), Job Outlook 2025. https://www.naceweb.org/talent-acquisition/candidate-selection/what-are-employers-looking-for-when-reviewing-college-students-resumes (vérification du 13 août 2026).
 - Écart de salaire de départ et effet de la négociation : Babcock & Laschever, *Women Don't Ask: The High Cost of Avoiding Negotiation*, Princeton University Press, 2003. https://press.princeton.edu/books/hardcover/9780691089409/women-dont-ask (vérification du 13 août 2026).
 - Pénalité sociale ("backlash") anticipée par les femmes qui négocient : Bowles, Babcock & Lai, *Organizational Behavior and Human Decision Processes*, 2007. https://doi.org/10.1016/j.obhdp.2006.09.001 (vérification du 13 août 2026).
 - Qualité de communication d'équipe et performance : Marlow, Lacerenza, Paoletti, Burke & Salas, *Organizational Behavior and Human Decision Processes*, 2018. https://doi.org/10.1016/j.obhdp.2017.08.001 (vérification du 13 août 2026).
+- Écart de genre dans l'initiation d'une négociation, petit et dépendant du contexte : Kugler, Reif, Kaschner & Brodbeck, *Psychological Bulletin*, 2018. https://www.psy.uni-muenchen.de/wirtschaftspsychologie_en/personen/academic_staff/katharina_kugler/kugler-et-al_2018.pdf (vérification du 17 septembre 2026).
+- Effet de la demande active de feedback négatif sur la perception de l'efficacité managériale : Ashford & Tsui, *Academy of Management Journal*, 1991. https://journals.aom.org/doi/10.5465/256442 (vérification du 17 septembre 2026).
 
 Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../../4 - Sources/Questions et communication.md>).

@@ -20,7 +20,7 @@ Les chapitres 11 à 20 élargissent le cadre : le modèle économique réel des 
 
 Un principe traverse l'ensemble du texte, rappelé chapitre après chapitre : aucun déterminisme technologique. Le même mécanisme produit des effets très différents selon qu'il s'agit d'un usage actif (publier, échanger, créer) ou passif (faire défiler sans interagir), et selon les vulnérabilités déjà présentes chez la personne concernée avant même d'ouvrir l'application. Ce guide documente des mécanismes réels et des risques mesurés, sans jamais prétendre qu'ils s'appliquent identiquement à tout le monde.
 
-Il complète naturellement le guide [Questions et communication](<../Questions et communication/README.md>) pour tout ce qui touche aux formulations à employer en couple ou en famille, et le guide [La rencontre](<../La rencontre/README.md>) pour la partie qui concerne spécifiquement les applications de rencontre.
+Il complète naturellement le guide [Questions et communication](<../Questions et communication/README.md>) pour tout ce qui touche aux formulations à employer en couple ou en famille, le guide [La rencontre](<../La rencontre/README.md>) pour la partie qui concerne spécifiquement les applications de rencontre, et le guide [Les nouvelles compositions familiales](<../Les nouvelles compositions familiales/README.md>) pour la coparentalité numérique et le sharenting entre deux foyers (ses chapitres 19 à 21).
 
 ## Chapitres
 

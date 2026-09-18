@@ -14,5 +14,6 @@ Ce mécanisme explique des réactions qui, prises isolément, semblent dispropor
 **Où c'est développé**
 - [Les grands profils masculins](<../1 - Guides/Pour Lui/05 - Les grands profils masculins.md>), sur les prises de risque et l'évitement de l'engagement.
 - [Les conflits entre hommes](<../1 - Guides/Pour Lui/15 - Les conflits entre hommes.md>), sur la pression à la conformité de groupe.
+- [Les figures de la recherche masculine en 2026](<../1 - Guides/Pour Lui/31 - La recherche masculine en 2026.md>), sur le cadrage sociologique français de la notion par Arthur Vuattoux.
 
 **Voir aussi** [Hiérarchies de dominance et de prestige](<Hiérarchies de dominance et de prestige.md>) — la théorie de la masculinité précaire s'inscrit dans le même champ de recherche sur le statut social masculin.

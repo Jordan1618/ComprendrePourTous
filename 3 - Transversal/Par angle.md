@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "angle"
-mis_a_jour_le: 2026-09-17
+mis_a_jour_le: 2026-09-18
 licence: "CC BY 4.0"
 ---
 
@@ -31,6 +31,12 @@ Comment le corps fonctionne concrètement, mécanisme par mécanisme.
 - [La neurobiologie du toucher](<../1 - Guides/Massage professionnel/13 - La neurobiologie du toucher.md>)  `commun` · Massage professionnel
 - [Pourquoi on communique, la science derrière](<../1 - Guides/Questions et communication/10 - Pourquoi on communique, la science derrière.md>)  `commun` · Questions et communication
 - [Le corps, base de toute communication](<../1 - Guides/Questions et communication/14 - Le corps, base de toute communication.md>)  `commun` · Questions et communication
+- [Le corps qui parle : proxémie, regard, toucher, mimétisme postural](<../1 - Guides/Questions et communication/25 - Le corps qui parle.md>)  `commun` · Questions et communication
+- [Le cerveau et le corps de la conversation](<../1 - Guides/Questions et communication/38 - Le cerveau et le corps de la conversation.md>)  `commun` · Questions et communication
+- [Le corps qu'on ne regarde pas assez](<../1 - Guides/Questions et communication/42 - Le corps qu'on ne regarde pas assez.md>)  `commun` · Questions et communication
+- [Le corps du lien : neurologie, biologie et attachement](<../1 - Guides/Les nouvelles compositions familiales/05 - Le corps du lien.md>)  `commun` · Les nouvelles compositions familiales
+- [Le cerveau et le corps de l'enfant : écrans, religion et développement](<../1 - Guides/Les nouvelles compositions familiales/26 - Le cerveau et le corps de l enfant, ecrans, religion et developpement.md>)  `commun` · Les nouvelles compositions familiales
+- [Corps, intimité et sensorialité de la nouvelle famille mixte](<../1 - Guides/Les nouvelles compositions familiales/30 - Corps, intimite et sensorialite de la nouvelle famille mixte.md>)  `commun` · Les nouvelles compositions familiales
 - [Le cerveau face à l'écran](<../1 - Guides/Reseaux sociaux/03 - Le cerveau face a l ecran.md>)  `commun` · Réseaux sociaux
 - [Le cerveau adolescent face au design addictif](<../1 - Guides/Reseaux sociaux/16 - Le cerveau adolescent face au design addictif.md>)  `commun` · Réseaux sociaux
 
@@ -68,6 +74,10 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [Communiquer pour se développer, soi-même et les autres](<../1 - Guides/Questions et communication/11 - Communiquer pour se developper, soi-meme et les autres.md>)  `commun` · Questions et communication
 - [L'écart entre la formule et l'intention](<../1 - Guides/Questions et communication/18 - L'ecart entre la formule et l'intention.md>)  `commun` · Questions et communication
 - [Les questions qu'on évite, et ce qu'elles révèlent](<../1 - Guides/Questions et communication/21 - Les questions qu'on evite, et ce qu'elles revelent.md>)  `commun` · Questions et communication
+- [Ce que dit le silence](<../1 - Guides/Questions et communication/24 - Ce que dit le silence.md>)  `commun` · Questions et communication
+- [Ghosting, stonewalling, et les ruptures de communication](<../1 - Guides/Questions et communication/28 - Ghosting, stonewalling, et les ruptures de communication.md>)  `commun` · Questions et communication
+- [Quand la communication devient un symptôme](<../1 - Guides/Questions et communication/39 - Quand la communication devient un symptome.md>)  `commun` · Questions et communication
+- [Ce qui se joue dans la tête : psychologie clinique de la recomposition](<../1 - Guides/Les nouvelles compositions familiales/06 - Ce qui se joue dans la tete.md>)  `commun` · Les nouvelles compositions familiales
 - [Ce que les algorithmes font de nous](<../1 - Guides/Reseaux sociaux/04 - Ce que les algorithmes font de nous.md>)  `commun` · Réseaux sociaux
 - [L'image de soi à l'ère du feed](<../1 - Guides/Reseaux sociaux/05 - L image de soi a l ere du feed.md>)  `commun` · Réseaux sociaux
 - [Le prix caché : ennui, identité, engagement](<../1 - Guides/Reseaux sociaux/09 - Le prix cache ennui identite engagement.md>)  `commun` · Réseaux sociaux
@@ -103,6 +113,9 @@ Dépistage, protection, risque réel contre risque perçu.
 - [Risques, contre-indications et signaux d'alerte](<../1 - Guides/Massage professionnel/09 - Risques et contre-indications.md>)  `commun` · Massage professionnel
 - [Ce que la recherche valide vraiment, pathologie par pathologie](<../1 - Guides/Massage professionnel/14 - Ce que la recherche valide vraiment.md>)  `commun` · Massage professionnel
 - [Repérer les dérives d'un secteur peu régulé](<../1 - Guides/Massage professionnel/18 - Reperer les derives d un secteur peu regule.md>)  `commun` · Massage professionnel
+- [Pouvoir, négociation et conflit : de la coparentalité au contrôle coercitif](<../1 - Guides/Les nouvelles compositions familiales/08 - Pouvoir negociation et conflit.md>)  `commun` · Les nouvelles compositions familiales
+- [Risques, sécurité et protection : de la prévention à l'aliénation parentale](<../1 - Guides/Les nouvelles compositions familiales/15 - Risques securite et protection.md>)  `commun` · Les nouvelles compositions familiales
+- [Risques et protections : cybersécurité, radicalisation et enlèvement parental international](<../1 - Guides/Les nouvelles compositions familiales/28 - Risques et protections, cybersecurite, radicalisation et enlevement parental international.md>)  `commun` · Les nouvelles compositions familiales
 - [Cyberintimidation, modération et cadre légal](<../1 - Guides/Reseaux sociaux/08 - Cyberintimidation moderation et cadre legal.md>)  `commun` · Réseaux sociaux
 - [Sharenting et image de l'enfant en ligne](<../1 - Guides/Reseaux sociaux/18 - Sharenting et image de l enfant en ligne.md>)  `commun` · Réseaux sociaux
 - [Éducation aux médias : ce qui marche vraiment selon la recherche](<../1 - Guides/Reseaux sociaux/20 - Education aux medias ce qui marche vraiment.md>)  `commun` · Réseaux sociaux
@@ -158,7 +171,11 @@ Ce que ça change concrètement quand on est deux.
 - [Les questions qui changent une vie](<../1 - Guides/Questions et communication/04 - Les questions qui changent une vie.md>)  `commun` · Questions et communication
 - [Les questions difficiles avec les proches](<../1 - Guides/Questions et communication/07 - Les questions difficiles avec les proches.md>)  `commun` · Questions et communication
 - [Recevoir la réponse](<../1 - Guides/Questions et communication/08 - Recevoir la réponse.md>)  `commun` · Questions et communication
+- [Dire non sans rompre](<../1 - Guides/Questions et communication/27 - Dire non sans rompre.md>)  `commun` · Questions et communication
 - [Trouver sa place dedans](<../1 - Guides/Les nouvelles compositions familiales/03 - Trouver sa place dedans.md>)  `commun` · Les nouvelles compositions familiales
+- [Corps, intimité et genre dans la nouvelle famille](<../1 - Guides/Les nouvelles compositions familiales/11 - Corps intimite et genre.md>)  `commun` · Les nouvelles compositions familiales
+- [L'algorithme, tiers invisible entre deux foyers](<../1 - Guides/Les nouvelles compositions familiales/19 - L algorithme tiers invisible entre deux foyers.md>)  `commun` · Les nouvelles compositions familiales
+- [La place de chacun : ce qui distingue un rôle reconnu d'un rôle usurpé](<../1 - Guides/Les nouvelles compositions familiales/24 - La place de chacun role reconnu ou role usurpe.md>)  `commun` · Les nouvelles compositions familiales
 - [Ce que ça change dans le couple et les liens réels](<../1 - Guides/Reseaux sociaux/06 - Ce que ca change dans le couple et les liens reels.md>)  `commun` · Réseaux sociaux
 - [Les nouvelles dérives amoureuses numériques](<../1 - Guides/Reseaux sociaux/07 - Les nouvelles derives amoureuses numeriques.md>)  `commun` · Réseaux sociaux
 
@@ -168,6 +185,7 @@ Quoi faire, concrètement, avec des formulations et des gestes précis.
 
 - [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Pour Elle/15 - Conseils pratiques généraux.md>)  `corps féminin` · Pour Elle
 - [Foire aux questions rapides](<../1 - Guides/Pour Elle/32 - Foire aux questions.md>)  `corps féminin` · Pour Elle
+- [Foire aux questions rapides](<../1 - Guides/Pour Lui/32 - Foire aux questions.md>)  `corps masculin` · Pour Lui
 - [Décider et construire ensemble](<../1 - Guides/Pour Nous/05 - Decider et construire ensemble.md>)  `commun` · Pour Nous
 - [Les projets de vie : enfant, lieu, travail](<../1 - Guides/Pour Nous/08 - Les projets de vie.md>)  `commun` · Pour Nous
 - [Mieux choisir : la synthèse actionnable](<../1 - Guides/La rencontre/09 - Mieux choisir la synthese.md>)  `commun` · La rencontre
@@ -193,7 +211,21 @@ Quoi faire, concrètement, avec des formulations et des gestes précis.
 - [Bien communiquer par message, les conversations privées à l'ère numérique](<../1 - Guides/Questions et communication/17 - Bien communiquer par message, les conversations privees a l'ere numerique.md>)  `commun` · Questions et communication
 - [Désamorcer et écouter vraiment](<../1 - Guides/Questions et communication/19 - Desamorcer et ecouter vraiment.md>)  `commun` · Questions et communication
 - [Rumination ou introspection, et les âges des questions](<../1 - Guides/Questions et communication/22 - Rumination ou introspection, et les ages des questions.md>)  `commun` · Questions et communication
+- [Rhétorique et négociation : convaincre sans manipuler](<../1 - Guides/Questions et communication/26 - Rhetorique et negociation.md>)  `commun` · Questions et communication
+- [Visioconférence et communication asynchrone : les nouveaux angles morts](<../1 - Guides/Questions et communication/30 - Visioconference et communication asynchrone.md>)  `commun` · Questions et communication
+- [La communication au travail : du management au feedback](<../1 - Guides/Questions et communication/33 - La communication au travail, du management au feedback.md>)  `commun` · Questions et communication
+- [Médiation, justice et droit de se taire](<../1 - Guides/Questions et communication/35 - Mediation, justice et droit de se taire.md>)  `commun` · Questions et communication
+- [Ce que la communication coûte et rapporte](<../1 - Guides/Questions et communication/40 - Ce que la communication coute et rapporte.md>)  `commun` · Questions et communication
+- [Ce qui peut mal tourner, et comment le voir venir](<../1 - Guides/Questions et communication/45 - Ce qui peut mal tourner, et comment le voir venir.md>)  `commun` · Questions et communication
 - [Les bons principes à avoir](<../1 - Guides/Les nouvelles compositions familiales/04 - Les bons principes a avoir.md>)  `commun` · Les nouvelles compositions familiales
+- [Ce que ça coûte : économie et fiscalité de la famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/09 - Ce que ca coute.md>)  `commun` · Les nouvelles compositions familiales
+- [Communiquer en famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/13 - Communiquer en famille recomposee.md>)  `commun` · Les nouvelles compositions familiales
+- [Logement, territoire et vie quotidienne](<../1 - Guides/Les nouvelles compositions familiales/14 - Logement territoire et vie quotidienne.md>)  `commun` · Les nouvelles compositions familiales
+- [Organisation du quotidien : charge mentale, calendrier, travail et ressources](<../1 - Guides/Les nouvelles compositions familiales/18 - Organisation du quotidien.md>)  `commun` · Les nouvelles compositions familiales
+- [Coparentalité numérique : outils, sharenting et cybersécurité à deux](<../1 - Guides/Les nouvelles compositions familiales/20 - Coparentalite numerique outils sharenting et cybersecurite a deux.md>)  `commun` · Les nouvelles compositions familiales
+- [Rituels et spiritualité laïque inventés par la famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/25 - Rituels et spiritualite laique inventes par la famille recomposee.md>)  `commun` · Les nouvelles compositions familiales
+- [Ce que ça coûte et rapporte : économie du numérique et de la mixité familiale](<../1 - Guides/Les nouvelles compositions familiales/27 - Ce que ca coute et rapporte, economie du numerique et de la mixite familiale.md>)  `commun` · Les nouvelles compositions familiales
+- [Territoire, sport et environnement de la famille mixte et connectée](<../1 - Guides/Les nouvelles compositions familiales/29 - Territoire, sport et environnement de la famille mixte et connectee.md>)  `commun` · Les nouvelles compositions familiales
 - [La boîte à outils : reprendre la main](<../1 - Guides/Reseaux sociaux/10 - La boite a outils reprendre la main.md>)  `commun` · Réseaux sociaux
 
 ## Repères
@@ -206,6 +238,9 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/34 - Glossaire des termes médicaux.md>)  `corps féminin` · Pour Elle
 - [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Lui/01 - Ce que disent les chiffres.md>)  `corps masculin` · Pour Lui
 - [Aide-mémoire](<../1 - Guides/Pour Lui/30 - Aide-mémoire.md>)  `corps masculin` · Pour Lui
+- [Les figures de la recherche masculine en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Lui/31 - La recherche masculine en 2026.md>)  `corps masculin` · Pour Lui
+- [Ressources et associations utiles](<../1 - Guides/Pour Lui/33 - Ressources et associations.md>)  `corps masculin` · Pour Lui
+- [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Lui/34 - Glossaire des termes médicaux.md>)  `corps masculin` · Pour Lui
 - [Le couple à travers les âges et les civilisations](<../1 - Guides/Pour Nous/11 - Le couple a travers les ages.md>)  `commun` · Pour Nous
 - [Où les gens se rencontrent vraiment](<../1 - Guides/La rencontre/04 - Ou les gens se rencontrent vraiment.md>)  `commun` · La rencontre
 - [Les applications : la logique derrière l'écran](<../1 - Guides/La rencontre/05 - Les applications de rencontre.md>)  `commun` · La rencontre
@@ -222,8 +257,27 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [La communication dans la culture](<../1 - Guides/Questions et communication/16 - La communication dans la culture.md>)  `commun` · Questions et communication
 - [Se poser des questions à soi-même, une histoire de l'introspection](<../1 - Guides/Questions et communication/20 - Se poser des questions a soi-meme, une histoire de l'introspection.md>)  `commun` · Questions et communication
 - [Vrai développement personnel ou marketing bien-être](<../1 - Guides/Questions et communication/23 - Vrai developpement personnel ou marketing bien-etre.md>)  `commun` · Questions et communication
+- [Communiquer à travers les cultures](<../1 - Guides/Questions et communication/29 - Communiquer a travers les cultures.md>)  `commun` · Questions et communication
+- [Le pouvoir de nommer et de faire taire](<../1 - Guides/Questions et communication/31 - Le pouvoir de nommer et de faire taire.md>)  `commun` · Questions et communication
+- [Rhétorique politique, propagande et désinformation : comment ça marche](<../1 - Guides/Questions et communication/32 - Rhetorique politique, propagande et desinformation.md>)  `commun` · Questions et communication
+- [Générations et codes de communication](<../1 - Guides/Questions et communication/34 - Generations et codes de communication.md>)  `commun` · Questions et communication
+- [Une histoire de la parole publique, de la tribune antique au tribunal numérique](<../1 - Guides/Questions et communication/36 - Une histoire de la parole publique.md>)  `commun` · Questions et communication
+- [Ce que coûte une mauvaise communication](<../1 - Guides/Questions et communication/37 - Ce que coute une mauvaise communication.md>)  `commun` · Questions et communication
+- [Le droit et la force de la parole](<../1 - Guides/Questions et communication/41 - Le droit et la force de la parole.md>)  `commun` · Questions et communication
+- [Pourquoi on parle : le sens derrière les mots](<../1 - Guides/Questions et communication/43 - Pourquoi on parle, le sens derriere les mots.md>)  `commun` · Questions et communication
+- [Le décor de la conversation](<../1 - Guides/Questions et communication/44 - Le decor de la conversation.md>)  `commun` · Questions et communication
+- [La parole dans l'art et la culture populaire](<../1 - Guides/Questions et communication/46 - La parole dans l'art et la culture populaire.md>)  `commun` · Questions et communication
 - [Les familles recomposées aujourd'hui](<../1 - Guides/Les nouvelles compositions familiales/01 - Les familles recomposees aujourd hui.md>)  `commun` · Les nouvelles compositions familiales
 - [D'autres modèles familiaux, tout aussi réels](<../1 - Guides/Les nouvelles compositions familiales/02 - D autres modeles familiaux tout aussi reels.md>)  `commun` · Les nouvelles compositions familiales
+- [Le droit de la famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/07 - Le droit de la famille recomposee.md>)  `commun` · Les nouvelles compositions familiales
+- [Sociologie, démographie et anthropologie comparée des familles](<../1 - Guides/Les nouvelles compositions familiales/10 - Sociologie et anthropologie comparee.md>)  `commun` · Les nouvelles compositions familiales
+- [Philosophie et sens de la recomposition familiale](<../1 - Guides/Les nouvelles compositions familiales/12 - Philosophie et sens.md>)  `commun` · Les nouvelles compositions familiales
+- [La famille recomposée en culture : représentations, stéréotypes et rituels](<../1 - Guides/Les nouvelles compositions familiales/16 - La famille recomposee en culture.md>)  `commun` · Les nouvelles compositions familiales
+- [Les étapes de Papernow approfondies, et le devenir à l'âge adulte](<../1 - Guides/Les nouvelles compositions familiales/17 - Les etapes approfondies et le devenir a l adulte.md>)  `commun` · Les nouvelles compositions familiales
+- [Ce que les écrans transmettent de l'avenir, selon le foyer](<../1 - Guides/Les nouvelles compositions familiales/21 - Ce que les ecrans transmettent de l avenir selon le foyer.md>)  `commun` · Les nouvelles compositions familiales
+- [Religion et famille recomposée : transmission divisée, fêtes, rites de passage](<../1 - Guides/Les nouvelles compositions familiales/22 - Religion et famille recomposee transmission divisee fetes rites de passage.md>)  `commun` · Les nouvelles compositions familiales
+- [Couples mixtes : culture, langue, mariage interreligieux](<../1 - Guides/Les nouvelles compositions familiales/23 - Couples mixtes culture langue et mariage interreligieux.md>)  `commun` · Les nouvelles compositions familiales
+- [Philosophie, logique et esthétique de la famille recomposée mixte et connectée](<../1 - Guides/Les nouvelles compositions familiales/31 - Philosophie, logique et esthetique de la famille recomposee mixte et connectee.md>)  `commun` · Les nouvelles compositions familiales
 - [Une histoire courte mais dense](<../1 - Guides/Reseaux sociaux/01 - Une histoire courte mais dense.md>)  `commun` · Réseaux sociaux
 - [Comment c'est fabriqué, et pourquoi](<../1 - Guides/Reseaux sociaux/02 - Comment c est fabrique et pourquoi.md>)  `commun` · Réseaux sociaux
 

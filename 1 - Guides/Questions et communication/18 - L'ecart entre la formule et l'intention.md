@@ -4,7 +4,7 @@ chapitre: "18"
 titre: "L'écart entre la formule et l'intention"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -47,9 +47,24 @@ Face à une phrase qui semble en décalage avec ce que la personne pense réelle
 
 Si la réponse est un vrai soulagement suivi d'une clarification cohérente, c'était probablement une maladresse. Si la réponse est une nouvelle esquive, ou une justification qui change encore une fois selon qui écoute, le pattern décrit en 18.4 est la grille qui reste la plus fiable, bien plus que l'instinct du moment.
 
+### 18.6 Le mensonge qui protège, et celui qui abîme la confiance quand même
+
+Tous les petits écarts à la vérité n'ont pas le même effet sur la confiance, et le résultat de la recherche récente sur ce point est plus fin que "mentir abîme toujours la confiance". [Une série de quatre expériences a montré qu'un mensonge prosocial, dit dans l'intention explicite de protéger ou d'épargner l'autre, augmentait en réalité la confiance envers celui qui le disait dans sa dimension bienveillante, tout en abîmant, dans le même temps, la confiance dans son intégrité factuelle](https://faculty.wharton.upenn.edu/wp-content/uploads/2014/12/Prosocial-Lies-OBHDP.pdf) (Levine & Schweitzer, "Prosocial Lies: When Deception Breeds Trust", *Organizational Behavior and Human Decision Processes*, 2014 ; vérification du 17 septembre 2026). Autrement dit, quelqu'un qui ment pour ne pas blesser peut être perçu, à raison, comme plus attentionné, tout en étant simultanément perçu, à raison aussi, comme moins fiable sur les faits bruts. Ce n'est pas une contradiction : ce sont deux dimensions différentes de la confiance, qui évoluent parfois en sens opposé.
+
+Cette distinction éclaire une confusion fréquente dans les disputes de couple ou de famille : reprocher à quelqu'un "tu m'as menti" mélange souvent deux griefs très différents, celui d'avoir été trompé sur un fait et celui de sentir que l'intention derrière le mensonge n'était pas bienveillante. Bons réflexes pour distinguer les deux avant de réagir : demander explicitement ce que le mensonge visait à éviter, plutôt que de s'arrêter au constat qu'il y a eu mensonge. Si l'intention était de protéger l'autre d'une gêne réelle, traiter le sujet comme un désaccord sur la méthode ("j'aurais préféré que tu me le dises vraiment, même si ça me faisait de la peine") plutôt que comme une trahison de fond. Si en revanche le mensonge a systématiquement profité à celui qui l'a dit, au détriment de l'autre, le pattern de manipulation décrit en 18.4 reste la bonne grille de lecture, pas la nuance qui vient d'être présentée.
+
+👁️ Vu de l'autre côté, celui qui dit un petit mensonge protecteur le vit rarement comme une tromperie : il le vit comme un choix entre deux maux, dire une vérité qui blesse ou dire une chose fausse qui apaise. J'ai menti à un proche sur ce que je pensais vraiment de sa décision parce que je savais que la vérité ne changerait rien à son choix et ne ferait que le blesser sans raison utile ; je ne regrette pas ce mensonge précis, même si je sais que si ça se sait un jour, ce sera lu comme une trahison plutôt que comme un geste de protection que c'était vraiment sur le moment.
+
+### 18.7 Réparer après une maladresse ou une tromperie découverte
+
+Le geste qui suit la découverte d'un écart entre la formule et l'intention compte souvent plus, pour la suite d'une relation, que l'écart lui-même. Une maladresse suivie d'une reconnaissance immédiate et d'un ajustement du comportement referme la plupart du temps l'incident assez vite. Une maladresse niée, minimisée ou retournée contre celui qui la signale ("t'es parano de voir un problème là où il n'y en a pas") laisse une trace bien plus longue, non pas à cause de l'écart initial, mais à cause de la façon dont il a été traité une fois découvert.
+
+Bons réflexes pour réparer, côté de celui qui a commis l'écart, qu'il soit maladroit ou plus délibéré. Nommer précisément ce qui s'est passé, sans minimiser ni dramatiser à l'excès : "j'ai dit une chose fausse pour éviter une dispute" est plus réparateur que "j'ai peut-être un peu enjolivé", qui laisse planer un doute sur la sincérité de l'aveu lui-même. Expliquer l'intention sans s'en servir comme excuse totale : dire pourquoi on a menti n'efface pas l'écart, mais aide l'autre à le classer entre maladresse compréhensible et manipulation froide. Et proposer, plutôt que promettre dans le vague, un changement concret et vérifiable pour la prochaine fois qu'une situation similaire se présentera, ce qui donne à l'autre un point de repère réel plutôt qu'une simple déclaration d'intention.
+
 ## Sources vérifiables
 
 - Capacité limitée à détecter un mensonge par l'observation directe (54 % de justesse en moyenne, y compris chez les professionnels) : Bond & DePaulo, "Accuracy of Deception Judgments", *Personality and Social Psychology Review*, 2006. https://journals.sagepub.com/doi/10.1207/s15327957pspr1003_2 (vérification du 13 août 2026).
 - Fréquence et nature des petits mensonges quotidiens, majoritairement bénins et non préparés : DePaulo, Kashy, Kirkendol, Wyer & Epstein, "Lying in Everyday Life", *Journal of Personality and Social Psychology*, 1996. https://pubmed.ncbi.nlm.nih.gov/8656340/ (vérification du 13 août 2026).
+- Effet différencié du mensonge prosocial sur la confiance bienveillante et la confiance dans l'intégrité factuelle : Levine & Schweitzer, "Prosocial Lies: When Deception Breeds Trust", *Organizational Behavior and Human Decision Processes*, 2014. https://faculty.wharton.upenn.edu/wp-content/uploads/2014/12/Prosocial-Lies-OBHDP.pdf (vérification du 17 septembre 2026).
 
 Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../../4 - Sources/Questions et communication.md>).

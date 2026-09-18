@@ -4,7 +4,7 @@ chapitre: "16"
 titre: "La communication dans la culture"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -32,11 +32,25 @@ Le second blocage tient au milieu social et professionnel : les normes de ce qui
 
 Il serait injuste de réduire la place de la communication dans la culture actuelle à une source de pression. La possibilité même de nommer ce qu'on ressent, de reformuler un désaccord au lieu de le laisser pourrir, ou de raconter une histoire qui touche vraiment quelqu'un, est une conquête récente et largement positive au regard de l'histoire retracée au chapitre 13. La difficulté n'est pas que la communication ait pris trop de place dans la culture contemporaine ; c'est que le discours ambiant en a souvent fait une exigence de performance plutôt qu'une compétence qui s'apprend, se rate, et se retente sans honte.
 
+### 16.6 L'écran qui s'invite dans la conversation, un phénomène assez récent pour porter un nom
+
+Un mot forgé en 2012 pour désigner un comportement de communication précis en dit long sur son ampleur culturelle : le "phubbing", contraction de "phone" et "snubbing", décrit le fait de regarder son téléphone au milieu d'une conversation en face à face avec quelqu'un d'autre. [Une étude menée auprès de 51 couples cohabitant pendant la pandémie de COVID-19 a montré que le fait de percevoir son partenaire comme distrait par son téléphone pendant un échange était associé à un sentiment accru de manque d'affection, ce sentiment étant à son tour associé à une satisfaction relationnelle plus faible](https://journals.sagepub.com/doi/10.1177/02654075251364560) (Denes, Guest, Webber, Gorin & Cornelius, *Journal of Social and Personal Relationships*, 2025 ; vérification du 17 septembre 2026). Environ 40 % des adultes américains en couple déclarent être dérangés par le temps que leur partenaire passe sur son téléphone, un chiffre suffisamment élevé pour ne plus être une gêne marginale.
+
+Ce phénomène illustre une tension propre à l'ère numérique, différente de celle du chapitre 17 consacré aux messages écrits : ici, ce n'est pas la conversation à distance qui pose problème, c'est l'intrusion d'un canal de communication distant à l'intérieur d'un moment de communication en personne. Le corps est présent, comme décrit au chapitre 14, mais l'attention réelle est ailleurs, ce qui produit un décalage que l'autre ressent sans toujours savoir le nommer précisément. Bons réflexes simples et concrets : poser le téléphone hors de vue, pas seulement en silencieux, pendant un repas ou une conversation qui compte ; et le dire explicitement plutôt que de l'imposer en silence ("je le mets de côté, là je suis à toi"), ce qui transforme un geste par ailleurs invisible en un signal de présence que l'autre perçoit consciemment.
+
+### 16.7 Une discipline universitaire plus jeune qu'on ne l'imagine
+
+Le fait même qu'il existe aujourd'hui des départements universitaires, des revues scientifiques et des diplômes entiers consacrés à l'étude de la communication est un phénomène culturel récent, pas une évidence de tout temps. [La communication comme discipline universitaire distincte, avec ses propres départements, n'existe que depuis un peu plus d'un siècle : les premiers départements dédiés ont été créés à la fin du XIXe siècle aux États-Unis, mais la discipline n'a été pleinement reconnue comme domaine scientifique légitime qu'après la Seconde Guerre mondiale, en empruntant largement à la psychologie, à la sociologie et aux sciences politiques](https://en.wikipedia.org/wiki/History_of_communication_studies) (page de synthèse historique sur l'histoire des études de communication ; vérification du 17 septembre 2026). Avant cette institutionnalisation, l'art de bien parler relevait de la rhétorique, héritée de l'Antiquité grecque et romaine et enseignée comme discipline morale et politique plutôt que comme science du lien interpersonnel.
+
+Ce jeune âge de la discipline scientifique de la communication, comparé à la médecine ou au droit, explique en partie pourquoi tant de conseils qui circulent sur le sujet reposent encore sur l'intuition ou l'anecdote plutôt que sur des données solides, un travers que le chapitre 23 de ce guide traite en détail pour le champ voisin du développement personnel. La communication a longtemps été un art qu'on pratiquait sans le mesurer ; elle n'est devenue un objet d'étude rigoureux que très récemment à l'échelle de son histoire réelle.
+
 ## Sources vérifiables
 
 - Critique de la communication comme valeur morale plutôt que relation concrète et difficile : Wolton, *Il faut sauver la communication*, Flammarion, 2005. https://www.wolton.cnrs.fr/sauver-la-communication/ (vérification du 13 août 2026).
 - Représentation de la communication de couple dans la fiction et les médias : aucune étude quantitative précise et récente retrouvée à cette date ; observation qualitative signalée comme telle dans le texte.
 - Écart générationnel entre texto et appel vocal comme canal de communication privilégié : Pew Research Center, "Communication choices", 2012. https://www.pewresearch.org/internet/2012/03/19/communication-choices/ (vérification du 13 août 2026).
 - Différences modestes et dépendantes du contexte dans l'expression émotionnelle selon le genre chez l'enfant : Chaplin & Aldao, "Gender Differences in Emotion Expression in Children: A Meta-Analytic Review", *Psychological Bulletin*, 2013. https://pubmed.ncbi.nlm.nih.gov/23231534/ (vérification du 13 août 2026).
+- Lien entre distraction par le téléphone du partenaire ("phubbing"), sentiment de manque d'affection et satisfaction relationnelle : Denes, Guest, Webber, Gorin & Cornelius, *Journal of Social and Personal Relationships*, 2025. https://journals.sagepub.com/doi/10.1177/02654075251364560 (vérification du 17 septembre 2026).
+- Histoire de la communication comme discipline universitaire distincte, institutionnalisée après la Seconde Guerre mondiale : synthèse historique. https://en.wikipedia.org/wiki/History_of_communication_studies (vérification du 17 septembre 2026).
 
 Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../../4 - Sources/Questions et communication.md>).

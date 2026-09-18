@@ -7,7 +7,7 @@ mots: 12296
 verifie_le: 2026-08-06
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Nous"
-genere_le: 2026-09-17
+genere_le: 2026-09-18
 ---
 
 # Pour Nous
@@ -25,6 +25,8 @@ Ce guide est le pendant à deux de [Pour Elle](<../1 - Guides/Pour Elle/README.m
 Il s'adresse à **tous les couples et à toutes les énergies**, pas seulement à ceux qui traversent quelque chose de lourd. Les chapitres sur le trauma et l'appréhension sont là parce qu'ils concernent beaucoup de monde et qu'on en parle mal — pas parce qu'il faudrait aller mal pour être concerné. Décider d'un projet commun, répartir la charge du quotidien ou traverser un deuil sont des sujets de couple ordinaires.
 
 Le guide distingue nettement ce qui **explique** un comportement de ce qui l'**excuse**. Une histoire difficile explique une réaction ; elle n'autorise pas à blesser quelqu'un. Cette ligne est tracée explicitement au chapitre 4.
+
+Pour ce qui touche spécifiquement à une famille recomposée (beau-parent, coparentalité, place de chacun), voir le guide [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>), qui prend le relais sur ce terrain plutôt que de le redire ici.
 
 ## Sommaire
 

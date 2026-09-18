@@ -14,3 +14,5 @@ Elle compte ici parce qu'elle agit directement sur des mécanismes physiologique
 **Où c'est développé**
 - [Sexualité féminine](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>), sur le frein et l'accélérateur.
 - [Accouchement et post-partum](<../1 - Guides/Pour Elle/11 - Accouchement et post-partum.md>).
+- [Ce que ça coûte : économie et fiscalité de la famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/09 - Ce que ca coute.md>), sur la charge budgétaire démultipliée par deux foyers.
+- [Organisation du quotidien](<../1 - Guides/Les nouvelles compositions familiales/18 - Organisation du quotidien.md>), sur le calendrier partagé entre deux foyers et le kinkeeping.

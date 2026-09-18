@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Pour Elle"
-mis_a_jour_le: 2026-08-10
+mis_a_jour_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -63,6 +63,13 @@ Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), classées par
 | [Overview of the National Institutes of Health Investment in Women's Health Research](https://www.ncbi.nlm.nih.gov/books/NBK612400/), NCBI/National Academies Press | Financement de la recherche sur la santé des femmes | 14 |
 | [In sickness and in health: The role of marital partners in cancer survival](https://pmc.ncbi.nlm.nih.gov/articles/PMC5769016/) | Rôle du partenaire dans le pronostic d'un cancer | 15 |
 | ["Partner", "Caregiver", or "Co-Survivor"—Might the Label We Give the Partners of Cancer Patients Affect the Health Outcome of the Patients and Their Partners?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8774593/) | Rôle du partenaire dans le pronostic d'un cancer | 15 |
+| Crick, N. & Grotpeter, J. (1995), [Relational Aggression, Gender, and Social-Psychological Adjustment](https://srcd.onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-8624.1995.tb00900.x), *Child Development* | Agression relationnelle et indirecte, plus fréquente chez les filles | 35 |
+| Vaillancourt, T. & Sharma, A. (2011), [Intolerance of Sexy Peers: Intrasexual Competition Among Women](https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.20413), *Aggressive Behavior* | Jalousie envers une rivale attractive et agression indirecte | 35 |
+| Taylor, S. et coll. (2000), [Biobehavioral Responses to Stress in Females: Tend-and-Befriend, Not Fight-or-Flight](https://pubmed.ncbi.nlm.nih.gov/10941275/), *Psychological Review* | Réponse au stress relationnel par l'affiliation plutôt que la confrontation | 35 |
+| Rose, A. & Rudolph, K. (2006), [A Review of Sex Differences in Peer Relationship Processes](https://pubmed.ncbi.nlm.nih.gov/16435959/), *Psychological Bulletin* | Co-rumination, qualité perçue des amitiés féminines | 35 |
+| Buhrmester, D. & Furman, W. (1990), [Perceptions of Sibling Relationships during Middle Childhood and Adolescence](https://liberalarts.du.edu/sites/default/files/2021-04/buhrmester-furman-1990.pdf), *Developmental Psychology* | Intimité et rivalité entre sœurs | 35 |
+| Derks, B., Ellemers, N., van Laar, C. & de Groot, K. (2011), [Do Sexist Organizational Cultures Create the Queen Bee?](https://bpspsychub.onlinelibrary.wiley.com/doi/abs/10.1348/014466610X525280), *British Journal of Social Psychology* | Distanciation des femmes seniors envers les femmes plus jeunes en culture sexiste | 35 |
+| Scelza, B. et coll. (2023), [Female Cooperation: Evolutionary, Cross-Cultural and Ethnographic Evidence](https://pubmed.ncbi.nlm.nih.gov/36440565/), *Philosophical Transactions of the Royal Society B* | Coalitions et réseaux d'entraide entre femmes | 35 |
 
 ## Cycle, pathologies et grossesse
 

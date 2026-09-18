@@ -133,6 +133,8 @@ Une erreur trouvée ? Signalez-la sur [GitHub](https://github.com/Jordan1618/Com
 | Git / GitHub | Versionnage, hébergement du code et Pages | ⭐⭐⭐⭐☆ |
 | GitHub Actions | Build et déploiement automatiques à chaque push | ⭐⭐⭐☆☆ |
 | OVHcloud | Nom de domaine (comprendrepourtous.fr) | ⭐⭐⭐☆☆ |
+| JSON-LD (schema.org) | Données structurées par page, pour que Google et les moteurs de recherche génératifs (ChatGPT, Perplexity…) citent le site sans deviner | ⭐⭐⭐☆☆ |
+| Web3Forms | Relais du formulaire de contact vers e-mail, sans base de données ni serveur applicatif | ⭐⭐⭐☆☆ |
 | Claude (Anthropic) | Recherche de sources, rédaction assistée, orchestration d'agents en parallèle | ⭐⭐⭐⭐⭐ |
 
 Notation honnête, pas une carte de visite.

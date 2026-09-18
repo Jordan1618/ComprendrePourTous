@@ -1,6 +1,6 @@
 ---
 type: "interne"
-mis_a_jour_le: 2026-08-07
+mis_a_jour_le: 2026-09-17
 ---
 
 # Ce qu'il faut faire
@@ -23,7 +23,9 @@ Fichier de travail, **non publié**. Tout ce qui reste à produire, par ordre de
 | Les émotions | 11 | fait | fait |
 | IST | 7 | fait | fait |
 | Massage professionnel | 13 | fait | fait |
-| Questions et communication | 10 | fait | fait |
+| Questions et communication | 46 | fait | fait |
+| Les nouvelles compositions familiales | 31 | fait | fait |
+| Réseaux sociaux | 20 | fait | fait |
 
 Méthode : reprendre chapitre par chapitre, sous-partie par sous-partie ; pour chaque affirmation non triviale, trouver une référence réelle et vérifiable. **Ne jamais fabriquer une référence, une URL ou un DOI pour combler.** Quand rien n'est trouvé, l'écrire dans la section « affirmations sans source précise identifiée » du guide.
 
@@ -56,11 +58,12 @@ Pour vérifier que les deux guides couvrent bien les mêmes thèmes malgré cett
 | Les pièges de la modernité | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<../1 - Guides/Pour Elle/12 - Les pieges de la modernite.md>) | *à écrire* |
 | Les peurs | [Les peurs : lesquelles sont fondées, et comment avancer](<../1 - Guides/Pour Elle/13 - Les peurs rationnelles ou non.md>) | *à écrire* |
 | La santé sur le long terme | *à écrire* | [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>) |
-| La recherche | [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Elle/14 - La recherche en 2026.md>) | *à écrire* |
+| La recherche | [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Elle/14 - La recherche en 2026.md>) | [Les figures de la recherche masculine en 2026](<../1 - Guides/Pour Lui/31 - La recherche masculine en 2026.md>) |
 | Aide-mémoire et conseils pratiques | [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Pour Elle/15 - Conseils pratiques généraux.md>) | [Aide-mémoire](<../1 - Guides/Pour Lui/30 - Aide-mémoire.md>) |
-| Foire aux questions | [Foire aux questions rapides](<../1 - Guides/Pour Elle/32 - Foire aux questions.md>) | *à écrire* |
-| Ressources et associations | [Ressources et associations utiles](<../1 - Guides/Pour Elle/33 - Ressources et associations.md>) | *à écrire* |
-| Glossaire | [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/34 - Glossaire des termes médicaux.md>) | *à écrire* |
+| Foire aux questions | [Foire aux questions rapides](<../1 - Guides/Pour Elle/32 - Foire aux questions.md>) | [Foire aux questions rapides](<../1 - Guides/Pour Lui/32 - Foire aux questions.md>) |
+| Ressources et associations | [Ressources et associations utiles](<../1 - Guides/Pour Elle/33 - Ressources et associations.md>) | [Ressources et associations utiles](<../1 - Guides/Pour Lui/33 - Ressources et associations.md>) |
+| Glossaire | [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/34 - Glossaire des termes médicaux.md>) | [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Lui/34 - Glossaire des termes médicaux.md>) |
+| Conflits entre pairs | [Les conflits entre femmes](<../1 - Guides/Pour Elle/35 - Les conflits entre femmes.md>) | [Les conflits entre hommes](<../1 - Guides/Pour Lui/15 - Les conflits entre hommes.md>) |
 
 ## 3. Chapitres de sources dédiés
 
@@ -70,6 +73,7 @@ Fait le 8 août 2026 : les neuf guides ont désormais chacun un chapitre « Sour
 
 - Vérifier après chaque ajout que les notions récentes sont citées par les guides anciens (voir `MAINTENANCE.md`).
 - `comprendrepourtous.fr` sans `www` : bascule DNS chez OVH vers les 4 A de GitHub Pages pour obtenir le HTTPS sur le domaine nu et débloquer « Enforce HTTPS ».
+- Fait le 18/09/2026 : réciprocité posée entre « Les nouvelles compositions familiales » (18→31 chapitres) et ses guides voisins — renvois ajoutés depuis `Pour Nous`, `Questions et communication` et `Réseaux sociaux` vers ce guide (l'inverse existait déjà). Deux notions créées : `Conflit de loyauté`, `Parentification`.
 
 ## 5. Idées de guides ou de chapitres — recherche non occidentale
 
@@ -80,3 +84,7 @@ Repéré en discutant du biais culturel des sources (majoritairement anglophones
 - Les mariages arrangés et le couple en Inde : recherche indienne sur la satisfaction conjugale et la négociation familiale, à comparer aux modèles occidentaux de choix du partenaire déjà traités dans « La rencontre ».
 
 À traiter comme un chantier ciblé, sujet par sujet (traduction et vérification des sources demandent un vrai travail, pas un simple changement de mots-clés de recherche), pas comme une priorité immédiate.
+
+## 6. Refonte de « Pour Nous »
+
+Noté le 17/09/2026 en marge du chantier sur « Les nouvelles compositions familiales » : l'utilisateur souhaite reprendre le guide « Pour Nous » (construction à deux, 11 chapitres, ~12 300 mots), avec la même méthode que les autres refontes (élicitation complète du skill, grille des 10 familles, deux exemples de 30 sous-thèmes). Pas encore commencé.

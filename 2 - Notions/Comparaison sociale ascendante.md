@@ -13,3 +13,4 @@ Les réseaux sociaux ne créent pas ce mécanisme, vieux comme la vie sociale el
 
 **Où c'est développé**
 - [L'image de soi à l'ère du feed](<../1 - Guides/Reseaux sociaux/05 - L image de soi a l ere du feed.md>), chapitre entier consacré à ce mécanisme, à l'objectification et à la dysmorphie liée aux filtres.
+- [Les conflits entre femmes](<../1 - Guides/Pour Elle/35 - Les conflits entre femmes.md>), section 35.2, sur la comparaison de statut (beauté, réussite, partenaire) comme moteur de compétition entre femmes.

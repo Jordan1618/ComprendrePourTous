@@ -4,7 +4,7 @@ chapitre: "2"
 titre: "L'anatomie d'une question"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-08-05
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -75,3 +75,33 @@ Cinq formes à repérer, parce qu'elles ont l'apparence de questions et n'en son
 **L'empilement.** Trois questions d'affilée sans laisser le temps de répondre. C'est de l'anxiété, pas de la curiosité, et l'autre répond à la dernière.
 
 **Bons réflexes.** Après avoir posé une question, ne rien ajouter. La reformuler, la préciser, ou l'illustrer par un exemple personnel, c'est déjà la refermer.
+
+### 2.6 Direct ou indirect, une affaire de contexte plus que de politesse
+
+Le degré de franchise attendu dans une question n'est pas universel, et confondre ça avec un trait de caractère fait rater beaucoup d'échanges.
+
+L'anthropologue Edward T. Hall distingue les cultures à contexte fort, où [le sens d'un échange repose largement sur le non-dit, la relation entre les personnes et la situation, rendant une question trop directe intrusive ou même agressive](https://archive.org/details/beyondculture0000hall), des cultures à contexte faible, où la clarté explicite prime et où une question indirecte passe pour de l'esquive (Hall, *Beyond Culture*, Anchor Press, 1976 ; vérification du 17 septembre 2026). Une bonne partie du monde francophone occupe une position intermédiaire, plus indirecte que les pays anglo-saxons du nord de l'Europe et moins que certaines cultures est-asiatiques.
+
+Ça se joue aussi à l'intérieur d'une même culture, entre régions, générations ou familles. Une question posée frontalement à quelqu'un habitué à un style plus feutré ne sera pas entendue comme de la franchise, elle sera entendue comme un manque d'égards, même si l'intention était bonne.
+
+**Bons réflexes.** Face à quelqu'un dont tu ne connais pas encore le style, commencer indirect et resserrer progressivement plutôt que l'inverse. Il est facile de devenir plus direct au fil d'une relation, il est difficile de revenir en arrière après avoir mis quelqu'un mal à l'aise.
+
+### 2.7 Ce que le style d'attachement change dans la réponse
+
+Deux personnes peuvent recevoir exactement la même question et y réagir de façon opposée, pour une raison qui n'a rien à voir avec la question elle-même : leur rapport habituel à l'intimité.
+
+[Une étude comparant des personnes classées selon leur style d'attachement montre que les personnes à l'attachement évitant se dévoilent nettement moins, quel que soit le niveau de dévoilement de leur interlocuteur, tandis que les personnes à l'attachement sécure ajustent leur propre niveau de confidence à celui de la personne en face, un phénomène appelé dévoilement réactif](https://www.researchgate.net/profile/Mario-Mikulincer/publication/247434084_Attachment_Styles_and_Patterns_of_Self-Disclosure/links/555f052508ae6f4dcc8e1a75/Attachment-Styles-and-Patterns-of-Self-Disclosure.pdf) (Mikulincer & Nachshon, *Journal of Personality and Social Psychology*, 1991 ; vérification du 17 septembre 2026).
+
+Concrètement, une question profonde qui ne produit presque rien chez quelqu'un ne veut pas forcément dire que la question était ratée ou que la relation est froide. Ça peut simplement être le style habituel de cette personne face à toute question intime, y compris venant de quelqu'un en qui elle a confiance. Le contraire est vrai aussi : quelqu'un qui répond avec beaucoup de détails à une question banale ne cherche pas forcément à créer un lien particulier avec toi, c'est peut-être son mode par défaut.
+
+**Bons réflexes.** Face à une réponse courte et fermée qui te déçoit, ne conclus pas trop vite sur ce que ça dit de la relation. Regarde si cette personne répond ainsi à tout le monde ou seulement à toi ; la différence change complètement l'interprétation.
+
+## Sources vérifiables
+
+- Séquence fermé-puis-ouvert en entretien : Fisher & Geiselman, *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992. https://books.google.com/books/about/MEMORY_ENHANCING_TECHNIQUES_FOR_INVESTIG.html?id=W0_YCQAAQBAJ (vérification du 8 août 2026).
+- Progression par paliers du fait au vécu puis au sens : Reis & Shaver, dans *Handbook of Personal Relationships*, Wiley, 1988. https://www.researchgate.net/publication/347687013_Intimacy_as_an_interpersonal_process (vérification du 8 août 2026).
+- Effet des questions de suivi sur l'appréciation : Yeomans, Brooks, Huang, Minson & Gino, *Journal of Personality and Social Psychology*, 2019. https://pubmed.ncbi.nlm.nih.gov/31714109/ (vérification du 4 août 2026).
+- Rationalisation après coup face à un "pourquoi" personnel : Nisbett & Wilson, *Psychological Review*, 1977. https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Social_Cognition/Nisbett_Wilson_1977_Telling_more_than_we_can_know.pdf (vérification du 8 août 2026).
+- La critique déguisée en question prédit la dégradation d'une relation : Gottman & Levenson, *Journal of Personality and Social Psychology*, 1992. https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf (vérification du 8 août 2026).
+- Cultures à contexte fort et à contexte faible : Hall, *Beyond Culture*, Anchor Press, 1976. https://archive.org/details/beyondculture0000hall (vérification du 17 septembre 2026).
+- Style d'attachement et patterns d'auto-divulgation, dévoilement réactif : Mikulincer & Nachshon, *Journal of Personality and Social Psychology*, 1991. https://www.researchgate.net/profile/Mario-Mikulincer/publication/247434084_Attachment_Styles_and_Patterns_of_Self-Disclosure/links/555f052508ae6f4dcc8e1a75/Attachment-Styles-and-Patterns-of-Self-Disclosure.pdf (vérification du 17 septembre 2026).

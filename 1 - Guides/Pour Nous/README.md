@@ -20,6 +20,8 @@ Il s'adresse à **tous les couples et à toutes les énergies**, pas seulement �
 
 Le guide distingue nettement ce qui **explique** un comportement de ce qui l'**excuse**. Une histoire difficile explique une réaction ; elle n'autorise pas à blesser quelqu'un. Cette ligne est tracée explicitement au chapitre 4.
 
+Pour ce qui touche spécifiquement à une famille recomposée (beau-parent, coparentalité, place de chacun), voir le guide [Les nouvelles compositions familiales](<../Les nouvelles compositions familiales/README.md>), qui prend le relais sur ce terrain plutôt que de le redire ici.
+
 ## Chapitres
 
 | # | Chapitre | Angle | Mots |

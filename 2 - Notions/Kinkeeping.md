@@ -20,3 +20,6 @@ Ce rôle échoit très majoritairement aux femmes, y compris quand le reste des 
 
 **Où c'est développé (miroir masculin)**
 - [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/28 - Comment sont-ils vus et existent-ils dans la famille.md>), sur le gatekeeping maternel comme mécanisme parallèle du côté paternel.
+
+**Où c'est développé (famille recomposée)**
+- [Organisation du quotidien](<../1 - Guides/Les nouvelles compositions familiales/18 - Organisation du quotidien.md>), sur le rôle souvent aussi efficace d'une belle-mère dans le maintien des liens intergénérationnels.

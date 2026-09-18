@@ -4,7 +4,7 @@ chapitre: "13"
 titre: "Une histoire courte, pourquoi la communication est devenue si centrale"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -36,6 +36,20 @@ La centralité de la communication interpersonnelle n'est pas qu'une évolution 
 
 La question posée en ouverture mérite une réponse nuancée plutôt qu'un verdict simple. Le sociologue Anthony Giddens a proposé l'idée d'une "relation pure", fondée non plus sur l'obligation économique ou sociale mais sur la satisfaction mutuelle et le dialogue continu entre les deux personnes. Cette thèse a depuis été discutée : [des sociologues font remarquer que la thèse de Giddens surestime le degré réel d'égalité et de libre choix dans les couples contemporains, notamment pour les femmes qui continuent d'assumer une charge relationnelle et domestique disproportionnée](https://journals.sagepub.com/doi/10.1177/S0038038599000310) (Jamieson, *Sociology*, 1999 ; vérification du 13 août 2026). Autrement dit, la nécessité de bien communiquer à deux n'est pas un effet de mode récent inventé par les réseaux sociaux : elle découle d'un déplacement structurel, réel et documenté, du poids relationnel vers l'individu et le couple. Mais l'idée que ce déplacement aurait rendu les relations totalement égalitaires ou librement négociées reste, elle, largement à nuancer selon les milieux sociaux et les configurations familiales.
 
+### 13.6 Le chiffre qui mesure ce que le village ne fait plus
+
+Le déplacement décrit plus haut n'est pas qu'une intuition sociologique, il se mesure. [Une enquête menée en ligne auprès de 20 000 adultes américains à l'aide de l'échelle de solitude UCLA a montré que plus de trois personnes sur cinq déclaraient se sentir seules, avec une hausse d'environ 13 % de ce score entre 2018 et 2020](https://www.cigna.com/static/www-cigna-com/docs/cigna-2020-loneliness-factsheet.pdf) (Cigna, *Loneliness Index*, 2020 ; vérification du 17 septembre 2026). La même enquête relevait que les adultes les plus jeunes rapportaient le score de solitude le plus élevé, pas les plus âgés, ce qui contredit l'image d'une vieillesse isolée et d'une jeunesse hyperconnectée socialement : la génération qui a grandi avec le plus d'outils de communication disponibles est aussi celle qui se déclare la plus seule. Ce chiffre donne une traduction concrète à l'idée du chapitre : quand les structures collectives qui absorbaient autrefois le besoin de lien reculent, ce besoin ne disparaît pas, il se reporte sur un cercle de plus en plus restreint de relations, ce qui rend chacune de ces relations plus critique et plus difficile à rater.
+
+Ce chiffre demande toutefois une lecture prudente : une enquête déclarative menée à un instant donné mesure un sentiment, pas une cause. Elle ne prouve pas à elle seule que le recul des corps intermédiaires décrit en 13.2 explique la totalité de la hausse observée, mais elle est cohérente avec l'hypothèse et vient l'étayer plutôt que la remplacer.
+
+### 13.7 Le retour partiel et inégal du foyer élargi
+
+L'histoire n'est pas parfaitement linéaire, et il serait faux de raconter un seul mouvement de dispersion continue depuis le XVIIIe siècle jusqu'à aujourd'hui. [Aux États-Unis, la part de la population vivant en foyer multigénérationnel est passée d'environ un quart en 1940 à seulement 12 % en 1980, un plancher historique, avant de remonter à 20 % en 2016, soit un retour à 64 millions de personnes vivant sous un même toit avec plusieurs générations](https://www.pewresearch.org/social-trends/2010/03/18/the-return-of-the-multi-generational-family-household/) (Pew Research Center, *The Return of the Multi-Generational Family Household*, 2010, données actualisées à 2016 ; vérification du 17 septembre 2026). Cette remontée est en bonne partie économique, portée par la crise financière de 2007-2009, la hausse du coût du logement et l'augmentation de la population immigrée, pour qui la cohabitation intergénérationnelle reste souvent une norme culturelle plutôt qu'un pis-aller.
+
+Ce retour ne ramène pas mécaniquement la charge relationnelle vers le collectif comme au XVIIIe siècle : un foyer multigénérationnel contemporain reste, la plupart du temps, composé d'adultes qui continuent de négocier explicitement leurs désaccords plutôt que de laisser une autorité familiale ou religieuse trancher à leur place. Mais il illustre que la centralité de la communication interpersonnelle n'est pas un point d'arrivée figé : elle dépend de configurations de vie qui continuent de bouger, y compris dans un sens inverse à celui du récit dominant sur l'isolement croissant.
+
+💑 Dans le couple, cette histoire a une conséquence directe et souvent invisible : personne n'a reçu de formation pour la charge relationnelle qu'un couple porte aujourd'hui seul, là où elle se répartissait autrefois sur un village entier. Ce n'est ni un échec personnel, ni un signe que le couple contemporain serait plus fragile qu'avant : c'est une charge nouvelle, sans mode d'emploi hérité, qui explique pourquoi apprendre à bien communiquer à deux est devenu une compétence à acquérir plutôt qu'un réflexe transmis par le contexte.
+
 ## Sources vérifiables
 
 - Historique du mariage par amour et de l'autonomisation des couples depuis le XVIIIe siècle : Coontz, *Marriage, a History*, Viking, 2005. https://www.stephaniecoontz.com/node/475 (vérification du 13 août 2026).
@@ -45,5 +59,7 @@ La question posée en ouverture mérite une réponse nuancée plutôt qu'un verd
 - Histoire de la professionnalisation de la thérapie de couple et familiale aux États-Unis : American Association for Marriage and Family Therapy, page historique. https://en.wikipedia.org/wiki/American_Association_for_Marriage_and_Family_Therapy (vérification du 13 août 2026).
 - Taille et croissance du marché mondial du développement personnel : Custom Market Insights, rapport de marché sur le "self-improvement market", 2025. https://www.custommarketinsights.com/report/self-improvement-market/ (vérification du 13 août 2026).
 - Thèse de la "relation pure" et ses limites : Giddens, *The Transformation of Intimacy*, Polity Press, 1992, discutée dans Jamieson, "Intimacy Transformed? A Critical Look at the 'Pure Relationship'", *Sociology*, 1999. https://journals.sagepub.com/doi/10.1177/S0038038599000310 (vérification du 13 août 2026).
+- Hausse du score de solitude déclaré et écart générationnel (plus fort chez les jeunes adultes) : Cigna, *Loneliness Index*, 2020. https://www.cigna.com/static/www-cigna-com/docs/cigna-2020-loneliness-factsheet.pdf (vérification du 17 septembre 2026).
+- Déclin puis remontée de la part de la population vivant en foyer multigénérationnel aux États-Unis : Pew Research Center, *The Return of the Multi-Generational Family Household*, 2010. https://www.pewresearch.org/social-trends/2010/03/18/the-return-of-the-multi-generational-family-household/ (vérification du 17 septembre 2026).
 
 Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../../4 - Sources/Questions et communication.md>).

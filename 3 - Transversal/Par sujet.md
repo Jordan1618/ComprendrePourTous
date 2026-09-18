@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sujet"
-mis_a_jour_le: 2026-09-17
+mis_a_jour_le: 2026-09-18
 licence: "CC BY 4.0"
 ---
 
@@ -87,6 +87,10 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [Comment sont-ils vus et existent-ils dans la famille](<../1 - Guides/Pour Lui/28 - Comment sont-ils vus et existent-ils dans la famille.md>)  `relation`
 - [Pères célibataires aujourd'hui](<../1 - Guides/Pour Lui/29 - Peres celibataires aujourd hui.md>)  `relation`
 - [Aide-mémoire](<../1 - Guides/Pour Lui/30 - Aide-mémoire.md>)  `repères`
+- [Les figures de la recherche masculine en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Lui/31 - La recherche masculine en 2026.md>)  `repères`
+- [Foire aux questions rapides](<../1 - Guides/Pour Lui/32 - Foire aux questions.md>)  `pratique`
+- [Ressources et associations utiles](<../1 - Guides/Pour Lui/33 - Ressources et associations.md>)  `repères`
+- [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Lui/34 - Glossaire des termes médicaux.md>)  `repères`
 
 ## Commun
 
@@ -224,12 +228,62 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Les questions qu'on évite, et ce qu'elles révèlent](<../1 - Guides/Questions et communication/21 - Les questions qu'on evite, et ce qu'elles revelent.md>)  `psychologie`
 - [Rumination ou introspection, et les âges des questions](<../1 - Guides/Questions et communication/22 - Rumination ou introspection, et les ages des questions.md>)  `pratique`
 - [Vrai développement personnel ou marketing bien-être](<../1 - Guides/Questions et communication/23 - Vrai developpement personnel ou marketing bien-etre.md>)  `repères`
+- [Ce que dit le silence](<../1 - Guides/Questions et communication/24 - Ce que dit le silence.md>)  `psychologie`
+- [Le corps qui parle : proxémie, regard, toucher, mimétisme postural](<../1 - Guides/Questions et communication/25 - Le corps qui parle.md>)  `physiologie`
+- [Rhétorique et négociation : convaincre sans manipuler](<../1 - Guides/Questions et communication/26 - Rhetorique et negociation.md>)  `pratique`
+- [Dire non sans rompre](<../1 - Guides/Questions et communication/27 - Dire non sans rompre.md>)  `relation`
+- [Ghosting, stonewalling, et les ruptures de communication](<../1 - Guides/Questions et communication/28 - Ghosting, stonewalling, et les ruptures de communication.md>)  `psychologie`
+- [Communiquer à travers les cultures](<../1 - Guides/Questions et communication/29 - Communiquer a travers les cultures.md>)  `repères`
+- [Visioconférence et communication asynchrone : les nouveaux angles morts](<../1 - Guides/Questions et communication/30 - Visioconference et communication asynchrone.md>)  `pratique`
+- [Le pouvoir de nommer et de faire taire](<../1 - Guides/Questions et communication/31 - Le pouvoir de nommer et de faire taire.md>)  `repères`
+- [Rhétorique politique, propagande et désinformation : comment ça marche](<../1 - Guides/Questions et communication/32 - Rhetorique politique, propagande et desinformation.md>)  `repères`
+- [La communication au travail : du management au feedback](<../1 - Guides/Questions et communication/33 - La communication au travail, du management au feedback.md>)  `pratique`
+- [Générations et codes de communication](<../1 - Guides/Questions et communication/34 - Generations et codes de communication.md>)  `repères`
+- [Médiation, justice et droit de se taire](<../1 - Guides/Questions et communication/35 - Mediation, justice et droit de se taire.md>)  `pratique`
+- [Une histoire de la parole publique, de la tribune antique au tribunal numérique](<../1 - Guides/Questions et communication/36 - Une histoire de la parole publique.md>)  `repères`
+- [Ce que coûte une mauvaise communication](<../1 - Guides/Questions et communication/37 - Ce que coute une mauvaise communication.md>)  `repères`
+- [Le cerveau et le corps de la conversation](<../1 - Guides/Questions et communication/38 - Le cerveau et le corps de la conversation.md>)  `physiologie`
+- [Quand la communication devient un symptôme](<../1 - Guides/Questions et communication/39 - Quand la communication devient un symptome.md>)  `psychologie`
+- [Ce que la communication coûte et rapporte](<../1 - Guides/Questions et communication/40 - Ce que la communication coute et rapporte.md>)  `pratique`
+- [Le droit et la force de la parole](<../1 - Guides/Questions et communication/41 - Le droit et la force de la parole.md>)  `repères`
+- [Le corps qu'on ne regarde pas assez](<../1 - Guides/Questions et communication/42 - Le corps qu'on ne regarde pas assez.md>)  `physiologie`
+- [Pourquoi on parle : le sens derrière les mots](<../1 - Guides/Questions et communication/43 - Pourquoi on parle, le sens derriere les mots.md>)  `repères`
+- [Le décor de la conversation](<../1 - Guides/Questions et communication/44 - Le decor de la conversation.md>)  `repères`
+- [Ce qui peut mal tourner, et comment le voir venir](<../1 - Guides/Questions et communication/45 - Ce qui peut mal tourner, et comment le voir venir.md>)  `pratique`
+- [La parole dans l'art et la culture populaire](<../1 - Guides/Questions et communication/46 - La parole dans l'art et la culture populaire.md>)  `repères`
 **Les nouvelles compositions familiales**
 
 - [Les familles recomposées aujourd'hui](<../1 - Guides/Les nouvelles compositions familiales/01 - Les familles recomposees aujourd hui.md>)  `repères`
 - [D'autres modèles familiaux, tout aussi réels](<../1 - Guides/Les nouvelles compositions familiales/02 - D autres modeles familiaux tout aussi reels.md>)  `repères`
 - [Trouver sa place dedans](<../1 - Guides/Les nouvelles compositions familiales/03 - Trouver sa place dedans.md>)  `relation`
 - [Les bons principes à avoir](<../1 - Guides/Les nouvelles compositions familiales/04 - Les bons principes a avoir.md>)  `pratique`
+- [Le corps du lien : neurologie, biologie et attachement](<../1 - Guides/Les nouvelles compositions familiales/05 - Le corps du lien.md>)  `physiologie`
+- [Ce qui se joue dans la tête : psychologie clinique de la recomposition](<../1 - Guides/Les nouvelles compositions familiales/06 - Ce qui se joue dans la tete.md>)  `psychologie`
+- [Le droit de la famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/07 - Le droit de la famille recomposee.md>)  `repères`
+- [Pouvoir, négociation et conflit : de la coparentalité au contrôle coercitif](<../1 - Guides/Les nouvelles compositions familiales/08 - Pouvoir negociation et conflit.md>)  `prévention`
+- [Ce que ça coûte : économie et fiscalité de la famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/09 - Ce que ca coute.md>)  `pratique`
+- [Sociologie, démographie et anthropologie comparée des familles](<../1 - Guides/Les nouvelles compositions familiales/10 - Sociologie et anthropologie comparee.md>)  `repères`
+- [Corps, intimité et genre dans la nouvelle famille](<../1 - Guides/Les nouvelles compositions familiales/11 - Corps intimite et genre.md>)  `relation`
+- [Philosophie et sens de la recomposition familiale](<../1 - Guides/Les nouvelles compositions familiales/12 - Philosophie et sens.md>)  `repères`
+- [Communiquer en famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/13 - Communiquer en famille recomposee.md>)  `pratique`
+- [Logement, territoire et vie quotidienne](<../1 - Guides/Les nouvelles compositions familiales/14 - Logement territoire et vie quotidienne.md>)  `pratique`
+- [Risques, sécurité et protection : de la prévention à l'aliénation parentale](<../1 - Guides/Les nouvelles compositions familiales/15 - Risques securite et protection.md>)  `prévention`
+- [La famille recomposée en culture : représentations, stéréotypes et rituels](<../1 - Guides/Les nouvelles compositions familiales/16 - La famille recomposee en culture.md>)  `repères`
+- [Les étapes de Papernow approfondies, et le devenir à l'âge adulte](<../1 - Guides/Les nouvelles compositions familiales/17 - Les etapes approfondies et le devenir a l adulte.md>)  `repères`
+- [Organisation du quotidien : charge mentale, calendrier, travail et ressources](<../1 - Guides/Les nouvelles compositions familiales/18 - Organisation du quotidien.md>)  `pratique`
+- [L'algorithme, tiers invisible entre deux foyers](<../1 - Guides/Les nouvelles compositions familiales/19 - L algorithme tiers invisible entre deux foyers.md>)  `relation`
+- [Coparentalité numérique : outils, sharenting et cybersécurité à deux](<../1 - Guides/Les nouvelles compositions familiales/20 - Coparentalite numerique outils sharenting et cybersecurite a deux.md>)  `pratique`
+- [Ce que les écrans transmettent de l'avenir, selon le foyer](<../1 - Guides/Les nouvelles compositions familiales/21 - Ce que les ecrans transmettent de l avenir selon le foyer.md>)  `repères`
+- [Religion et famille recomposée : transmission divisée, fêtes, rites de passage](<../1 - Guides/Les nouvelles compositions familiales/22 - Religion et famille recomposee transmission divisee fetes rites de passage.md>)  `repères`
+- [Couples mixtes : culture, langue, mariage interreligieux](<../1 - Guides/Les nouvelles compositions familiales/23 - Couples mixtes culture langue et mariage interreligieux.md>)  `repères`
+- [La place de chacun : ce qui distingue un rôle reconnu d'un rôle usurpé](<../1 - Guides/Les nouvelles compositions familiales/24 - La place de chacun role reconnu ou role usurpe.md>)  `relation`
+- [Rituels et spiritualité laïque inventés par la famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/25 - Rituels et spiritualite laique inventes par la famille recomposee.md>)  `pratique`
+- [Le cerveau et le corps de l'enfant : écrans, religion et développement](<../1 - Guides/Les nouvelles compositions familiales/26 - Le cerveau et le corps de l enfant, ecrans, religion et developpement.md>)  `physiologie`
+- [Ce que ça coûte et rapporte : économie du numérique et de la mixité familiale](<../1 - Guides/Les nouvelles compositions familiales/27 - Ce que ca coute et rapporte, economie du numerique et de la mixite familiale.md>)  `pratique`
+- [Risques et protections : cybersécurité, radicalisation et enlèvement parental international](<../1 - Guides/Les nouvelles compositions familiales/28 - Risques et protections, cybersecurite, radicalisation et enlevement parental international.md>)  `prévention`
+- [Territoire, sport et environnement de la famille mixte et connectée](<../1 - Guides/Les nouvelles compositions familiales/29 - Territoire, sport et environnement de la famille mixte et connectee.md>)  `pratique`
+- [Corps, intimité et sensorialité de la nouvelle famille mixte](<../1 - Guides/Les nouvelles compositions familiales/30 - Corps, intimite et sensorialite de la nouvelle famille mixte.md>)  `physiologie`
+- [Philosophie, logique et esthétique de la famille recomposée mixte et connectée](<../1 - Guides/Les nouvelles compositions familiales/31 - Philosophie, logique et esthetique de la famille recomposee mixte et connectee.md>)  `repères`
 **Réseaux sociaux**
 
 - [Une histoire courte mais dense](<../1 - Guides/Reseaux sociaux/01 - Une histoire courte mais dense.md>)  `repères`

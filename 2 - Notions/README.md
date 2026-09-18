@@ -69,3 +69,7 @@ La collection est jeune, cette liste est faite pour s'allonger.
 - [Économie de l'attention](<Économie de l'attention.md>)
 - [Enfermement algorithmique](<Enfermement algorithmique.md>)
 - [Comparaison sociale ascendante](<Comparaison sociale ascendante.md>)
+
+**Famille recomposée**
+- [Conflit de loyauté](<Conflit de loyauté.md>)
+- [Parentification](<Parentification.md>)

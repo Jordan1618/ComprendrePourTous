@@ -4,7 +4,7 @@ chapitre: "19"
 titre: "Désamorcer et écouter vraiment"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -38,10 +38,18 @@ Le levier du chiffre, décrit au chapitre 2, s'applique bien à ce moment préci
 
 Il existe aussi une part positive, souvent oubliée : désamorcer une tension légère avant qu'elle ne s'installe évite d'attendre qu'une vraie crise s'installe pour agir. Nommer un petit agacement tôt, sur un ton neutre et sans dramatiser ("juste pour le dire, ça m'a un peu piqué tout à l'heure"), coûte beaucoup moins cher relationnellement qu'un ressentiment accumulé pendant des semaines et qui explose sur un prétexte sans rapport. Une conversation qui se termine par un vrai rire partagé après une tension bien désamorcée n'est pas un échec relationnel évité de justesse : c'est souvent le moment où deux personnes se rapprochent le plus, précisément parce qu'elles viennent de prouver, ensemble, qu'un désaccord ne les fait pas basculer.
 
+### 19.6 Ce que les négociateurs professionnels font différemment
+
+Le désamorçage n'est pas une compétence propre au couple ou à la famille : des professionnels dont le métier consiste précisément à calmer des situations à très haut risque ont formalisé des méthodes qui recoupent, presque terme à terme, celles décrites plus haut. L'ancien négociateur en chef du FBI pour les prises d'otages Chris Voss a développé le concept d'"empathie tactique", qu'il définit comme le fait de comprendre et de nommer explicitement ce que ressent l'autre, sans nécessairement être d'accord avec son point de vue, dans le seul but de faire baisser la tension avant de chercher un accord. Sa technique la plus connue, le "labeling", consiste à nommer l'émotion perçue chez l'autre à voix haute ("on dirait que ça t'a mis en colère") avant même de répondre sur le fond, une méthode qui recoupe directement le levier du chiffre et de la validation émotionnelle décrits en 19.4. Cette technique provient d'un ouvrage de pratique professionnelle plutôt que d'une étude contrôlée publiée, et se lit comme telle, à la manière du témoignage d'un praticien expérimenté plutôt que comme un résultat de laboratoire.
+
+Un résultat de laboratoire, en revanche, confirme une partie du mécanisme sous-jacent, appliqué cette fois à la négociation plutôt qu'à la crise émotionnelle. [Trois expériences ont montré que la capacité à se représenter mentalement le point de vue de l'autre partie, plus que la simple empathie affective envers elle, augmentait la capacité à découvrir des accords cachés et à créer des solutions bénéfiques aux deux parties, alors que l'empathie affective seule pouvait au contraire nuire à la défense de ses propres intérêts](https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2008.02096.x) (Galinsky, Maddux, Gilin & White, *Psychological Science*, 2008 ; vérification du 17 septembre 2026). La distinction est utile bien au-delà d'une table de négociation professionnelle : comprendre froidement ce que l'autre pense et pourquoi, sans nécessairement ressentir la même chose que lui, aide souvent plus à désamorcer une dispute que de se laisser submerger par une empathie qui brouille le jugement des deux côtés.
+
 ## Sources vérifiables
 
 - Liaison physiologique entre partenaires en désaccord et son poids dans la satisfaction conjugale, temps de récupération après une pause : Levenson & Gottman, "Marital interaction: Physiological linkage and affective exchange", *Journal of Personality and Social Psychology*, 1983. https://pubmed.ncbi.nlm.nih.gov/6620126/ (vérification du 13 août 2026).
 - Absence d'effet supplémentaire de l'écoute de haute qualité sur la persuasion, malgré une meilleure perception de l'interlocuteur : Santoro, Broockman, Kalla & Porat, "Listen for a change? A longitudinal field experiment on listening's potential to enhance persuasion", *PNAS*, 2025. https://doi.org/10.1073/pnas.2421982122 (vérification du 13 août 2026).
 - Effet réel de l'écoute de haute qualité sur l'anxiété sociale et la défensivité du locuteur : Itzchakov, Kluger & Castro, "I Am Aware of My Inconsistencies but Can Tolerate Them", *Personality and Social Psychology Bulletin*, 2017. https://pubmed.ncbi.nlm.nih.gov/27856728/ (vérification du 13 août 2026).
+- Effet de la prise de perspective cognitive, distincte de l'empathie affective, sur la découverte d'accords en négociation : Galinsky, Maddux, Gilin & White, "Why It Pays to Get Inside the Head of Your Opponent", *Psychological Science*, 2008. https://journals.sagepub.com/doi/abs/10.1111/j.1467-9280.2008.02096.x (vérification du 17 septembre 2026).
+- Concept d'"empathie tactique" et technique du "labeling" en négociation de crise : Voss, C., *Never Split the Difference: Negotiating As If Your Life Depended On It*, HarperBusiness, 2016. Source de praticien, à distinguer d'une étude contrôlée ; vérification du 17 septembre 2026.
 
 Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../../4 - Sources/Questions et communication.md>).

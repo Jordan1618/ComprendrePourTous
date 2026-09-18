@@ -21,4 +21,7 @@ Dans les premières semaines, cela ne ressemble pas à de la menace mais à de l
 - [Les limites : ce qui n'est pas à toi de porter](<../1 - Guides/Pour Elle/21 - Les limites.md>), sur la frontière entre maladresse relationnelle et contrôle réel, dans les deux sens.
 - [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Lui/24 - Ce qui leur fait peur chez les femmes.md>), sur le fait que le mécanisme concerne des individus précis, jamais un sexe entier.
 - [Comment expriment-ils leur amour](<../1 - Guides/Pour Lui/27 - Comment expriment-ils leur amour.md>), sur la frontière entre jalousie ordinaire et contrôle réel.
+- [Les conflits entre femmes](<../1 - Guides/Pour Elle/35 - Les conflits entre femmes.md>), section 35.7, sur la distinction entre un conflit ordinaire entre femmes et un vrai comportement de contrôle.
 - [Comment expriment-elles leur amour](<../1 - Guides/Pour Elle/29 - Comment expriment-elles leur amour.md>), même distinction du côté féminin.
+- [Pouvoir, négociation et conflit](<../1 - Guides/Les nouvelles compositions familiales/08 - Pouvoir negociation et conflit.md>), sur le contrôle coercitif post-séparation et l'instrumentalisation des enfants.
+- [Risques, sécurité et protection](<../1 - Guides/Les nouvelles compositions familiales/15 - Risques securite et protection.md>), sur la distinction entre le phénomène réel de manipulation et le « syndrome d'aliénation parentale », rejeté scientifiquement en tant que diagnostic.

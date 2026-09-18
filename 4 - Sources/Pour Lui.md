@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Pour Lui"
-mis_a_jour_le: 2026-08-10
+mis_a_jour_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -51,6 +51,14 @@ Sources du guide [Pour Lui](<../1 - Guides/Pour Lui/README.md>), classées par t
 | Leproult, R. & Van Cauter, E. (2011), [Effect of 1 week of sleep restriction on testosterone levels in young healthy men](https://jamanetwork.com/journals/jama/fullarticle/1029127), *JAMA* | Effet du manque de sommeil sur la testostérone | 2 |
 | Handelsman, D. (2005), [Andropause: invention, prevention, rejuvenation](https://pubmed.ncbi.nlm.nih.gov/15734143/), *Trends in Endocrinology & Metabolism* | Critique du concept d'andropause | 2 |
 | Taylor, G. J., Bagby, R. M. & Parker, J. (1997), [Disorders of Affect Regulation](https://archive.org/details/disordersofaffec0000tayl), *Cambridge University Press* | Alexithymie et difficulté à identifier ses émotions | 3, 4 |
+| Levine, H. et coll. (2017), [Temporal trends in sperm count: a systematic review and meta-regression analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6455044), *Human Reproduction Update* | Déclin de la numération spermatique depuis 1973 | 31 |
+| Adams, L., [profil Stanford Medicine](https://med.stanford.edu/profiles/leslie-adams) | Santé mentale et risque suicidaire chez les hommes et garçons noirs | 31 |
+| Johns Hopkins Bloomberg School of Public Health, [Center for Suicide Prevention](https://publichealth.jhu.edu/center-for-suicide-prevention) | Prévention du suicide en population, travaux de Holly Wilcox | 31 |
+| American Institute for Boys and Men, [profil Zac Seidler](https://aibm.org/who-we-are/zac-seidler/) | Dépression masculine et recours à l'aide | 31 |
+| Abraham, E. et coll. (2014), [Father's Brain Is Sensitive to Childcare Experiences](https://www.pnas.org/doi/10.1073/pnas.1402569111), *PNAS* | Sensibilité du cerveau paternel à l'expérience de soin | 31 |
+| Chowdhury, D. et coll. (2026), [Loneliness Without an Epidemic: Gendered Pathways, Health Consequences, and Intervention Gaps Among Men in the United States](https://pmc.ncbi.nlm.nih.gov/articles/PMC13270468/), *Frontiers in Public Health* | Solitude masculine, moindre recours à l'aide | 31 |
+| CNRS-IHTP, [Séminaire "Recherches sur le masculin"](https://www.ihtp.cnrs.fr/seminaires/recherches-sur-le-masculin/) | Sociologie française des masculinités, travaux d'Arthur Vuattoux | 31 |
+| Movember, [Changing the Face of Men's Health](https://movember.com/about-us) | Financement philanthropique de la recherche en santé masculine | 31 |
 
 ## Masculinité, corps et régulation émotionnelle
 

@@ -2,12 +2,12 @@
 type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
-chapitres: 30
-mots: 62758
+chapitres: 34
+mots: 65638
 verifie_le: 2026-08-11
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
-genere_le: 2026-09-17
+genere_le: 2026-09-18
 ---
 
 # Pour Lui
@@ -56,6 +56,10 @@ C'est le miroir exact du guide sur le cycle féminin. Là où l'un explique un c
 - **28.** Comment sont-ils vus et existent-ils dans la famille
 - **29.** Pères célibataires aujourd'hui
 - **30.** Aide-mémoire
+- **31.** Les figures de la recherche masculine en 2026 : qui fait avancer quoi
+- **32.** Foire aux questions rapides
+- **33.** Ressources et associations utiles
+- **34.** Glossaire complet des termes médicaux employés dans ce document
 
 ---
 
@@ -2899,3 +2903,138 @@ Sources ajoutées en version 2 :
 - Travaux d'imagerie sur la mosaïque cérébrale et le recouvrement des distributions entre sexes.
 
 Toutes les sources ci-dessus ont été vérifiées le 31 juillet 2026.
+
+---
+
+## 31. Les figures de la recherche masculine en 2026 : qui fait avancer quoi
+
+Voici des chercheuses et chercheurs identifiables dont les travaux irriguent directement les sujets traités dans ce guide. Un point commun frappant à la lecture de leurs parcours : plusieurs se sont attaqués à des angles longtemps considérés comme secondaires (solitude masculine, cerveau paternel, santé mentale des hommes noirs) précisément parce que la recherche sur la santé masculine, prise dans son ensemble, a longtemps souffert du même écart entre fréquence réelle d'un problème et attention scientifique qui lui était accordée que celui documenté côté féminin.
+
+### Hagai Levine : Hebrew University of Jerusalem, Israël (déclin de la fertilité masculine)
+
+Professeur d'épidémiologie, il a dirigé la méta-analyse de référence sur l'évolution de la numération des spermatozoïdes dans le monde. [Son équipe a montré une baisse de 59,3 % de la concentration spermatique moyenne chez les hommes des pays occidentaux depuis 1973, sans signe de ralentissement sur la période étudiée](https://pmc.ncbi.nlm.nih.gov/articles/PMC6455044) (Levine et al., « Temporal trends in sperm count: a systematic review and meta-regression analysis », *Human Reproduction Update*, 2017 ; vérification du 17 septembre 2026). Ce travail a durablement changé la façon dont la fertilité masculine est traitée comme sujet de santé publique plutôt que comme une simple question individuelle.
+
+### Leslie Adams : Stanford University School of Medicine, États-Unis (santé mentale des hommes noirs)
+
+Professeure assistante en santé mentale publique, elle étudie le rôle du racisme structurel, des normes de genre et du stress psychosocial dans la santé mentale des garçons et des hommes noirs. [Ses travaux utilisent des méthodes de suivi en temps réel (échantillonnage écologique momentané, capteurs passifs) pour établir le lien entre discrimination raciale vécue au quotidien, symptômes dépressifs et risque suicidaire](https://med.stanford.edu/profiles/leslie-adams) (profil Stanford Medicine ; vérification du 17 septembre 2026). Une bourse Young Investigator de l'American Foundation for Suicide Prevention lui a permis de développer un suivi du risque suicidaire par smartphone chez cette population.
+
+### Holly Wilcox : Johns Hopkins Bloomberg School of Public Health, États-Unis (épidémiologie du suicide)
+
+Professeure au département de santé mentale, elle dirige des recherches en population sur les comportements suicidaires et l'évaluation de programmes de prévention communautaires. [Elle a contribué à la création, en 2024, du premier centre de prévention du suicide au sein d'une école de santé publique au monde](https://publichealth.jhu.edu/center-for-suicide-prevention) (Johns Hopkins Bloomberg School of Public Health ; vérification du 17 septembre 2026), une structure qui traite directement la surmortalité masculine par suicide documentée ailleurs dans ce guide.
+
+### Zac Seidler : University of Melbourne / Movember, Australie (dépression masculine et recours à l'aide)
+
+Psychologue clinicien et directeur mondial de la recherche en santé masculine chez Movember, également chercheur principal au centre Orygen de l'université de Melbourne. [Sa thèse portait sur la dépression masculine et sur la façon dont les normes de masculinité interagissent avec la reconnaissance et l'expression de la détresse](https://aibm.org/who-we-are/zac-seidler/) (American Institute for Boys and Men ; vérification du 17 septembre 2026). Il a créé **Men in Mind**, le premier programme de formation au monde destiné à aider les professionnels de santé mentale à mieux repérer et prendre en charge la détresse masculine.
+
+### Ruth Feldman : Reichman University, Israël (avec Yale Child Study Center et University College London) (cerveau paternel)
+
+Professeure de neurosciences du développement, elle dirige le Centre de neurosciences développementales, sociales et relationnelles. [Ses travaux ont montré que le cerveau paternel est sensible à l'expérience concrète des soins apportés à l'enfant, avec une activation de circuits normalement associés au maternage lorsque les pères s'investissent directement dans le soin](https://www.pnas.org/doi/10.1073/pnas.1402569111) (Abraham et al., « Father's Brain Is Sensitive to Childcare Experiences », *PNAS*, 2014 ; vérification du 17 septembre 2026). [Des travaux complémentaires de son équipe ont documenté une hausse de l'ocytocine chez les pères comparable à celle observée chez les mères au cours des premiers mois de la paternité](https://ruthfeldmanlab.com/wp-content/uploads/2019/06/OT-and-T-in-fathers.PNBP2014.pdf) (Feldman et al., *Psychoneuroendocrinology*, 2014 ; vérification du 17 septembre 2026).
+
+### Dalia Chowdhury : University of North Texas, États-Unis (solitude masculine)
+
+Professeure associée en réadaptation et services de santé, elle a dirigé en 2026 une revue systématique de trente études sur la solitude chez les hommes aux États-Unis. [Son équipe montre que si le taux de solitude ressentie n'est pas nettement supérieur chez les hommes, les hommes sollicitent significativement moins leurs proches, leurs amis ou des professionnels de santé mentale pour y faire face](https://pmc.ncbi.nlm.nih.gov/articles/PMC13270468/) (Chowdhury et al., « Loneliness Without an Epidemic: Gendered Pathways, Health Consequences, and Intervention Gaps Among Men in the United States », *Frontiers in Public Health*, 2026 ; vérification du 17 septembre 2026). Ce travail nuance directement le raccourci médiatique d'une "épidémie" de solitude masculine, sans minimiser le problème réel du moindre recours à l'aide.
+
+### Arthur Vuattoux : Sorbonne Paris Nord / IRIS, France (sociologie des masculinités)
+
+Maître de conférences en sociologie, membre de l'Institut de recherche interdisciplinaire sur les enjeux sociaux, ses travaux portent sur la construction sociale des masculinités et leurs mutations contemporaines. Il intervient régulièrement dans des séminaires de recherche consacrés à ce champ, [dont le séminaire "Recherches sur le masculin" de l'Institut d'histoire du temps présent (CNRS), qui réunit les travaux français les plus récents sur le sujet](https://www.ihtp.cnrs.fr/seminaires/recherches-sur-le-masculin/) (CNRS-IHTP ; vérification du 17 septembre 2026). Son travail situe dans un cadre sociologique français plusieurs mécanismes déjà décrits dans ce guide, notamment la [masculinité précaire](<../2 - Notions/Masculinité précaire.md>).
+
+### Ce qui change à l'échelle institutionnelle, pas seulement individuelle
+
+Au-delà de ces parcours personnels, un mouvement plus large mérite d'être connu. [Depuis sa création en 2003, la fondation Movember a permis de financer plus de 1 250 projets de recherche sur la santé masculine dans le monde, pour un montant cumulé de plus de 1,8 milliard de dollars australiens consacrés à la santé mentale, la prévention du suicide, le cancer de la prostate et le cancer des testicules](https://movember.com/about-us) (Movember ; vérification du 17 septembre 2026). Ce n'est pas un hasard si plusieurs des chercheurs cités plus haut, Zac Seidler en tête, sont directement liés à cette fondation : une bonne partie du financement disponible sur la santé masculine transite aujourd'hui par des structures philanthropiques plutôt que par les canaux de financement public classiques, à la différence de la recherche sur la santé féminine qui bénéficie, elle, d'un mouvement de rattrapage porté directement par les grandes agences publiques comme les National Institutes of Health américains.
+
+Cette différence de financement n'est pas neutre pour la lecture de ce chapitre : elle explique en partie pourquoi certains champs de la santé masculine (solitude, paternité, santé mentale) ont mis plus de temps à devenir des priorités de recherche financées à grande échelle, et pourquoi le rôle d'une poignée de fondations et de chercheurs individuellement engagés reste, à ce jour, plus déterminant que dans d'autres champs de la santé publique.
+
+### Ce que ces parcours ont en commun
+
+Un motif revient dans plusieurs de ces trajectoires : un décalage identifié entre la fréquence réelle d'un problème (infertilité, solitude, détresse psychique, désinvestissement paternel supposé) et l'attention scientifique qu'il recevait jusque-là, souvent parce que la santé masculine restait implicitement pensée comme moins vulnérable que la santé féminine. Ce n'est pas un hasard si Dalia Chowdhury choisit de nuancer plutôt que d'amplifier le récit d'une "épidémie", ou si Zac Seidler a construit sa carrière entière autour de la question de savoir pourquoi les hommes en détresse n'accèdent pas à l'aide qui existe déjà : ce sont des constats de terrain, documentés, qui expliquent en partie pourquoi certains sujets de ce guide ont mis du temps à être pris au sérieux.
+
+### Pourquoi ce chapitre a sa place dans ce guide
+
+Comme pour son équivalent du guide Pour Elle, ce chapitre ne dit pas quoi faire : il montre que ce qui est écrit ailleurs dans ce document n'est pas une évidence figée, mais le résultat d'un travail scientifique actif, mené par des personnes identifiables, avec des laboratoires et des financements précis. La solitude masculine, la dépression, le cerveau paternel ou le déclin de la fertilité, traités ailleurs dans ce guide comme des repères stabilisés, restent des champs de recherche vivants au moment de la rédaction de ce chapitre.
+
+## Sources vérifiables
+
+- [Temporal trends in sperm count: a systematic review and meta-regression analysis](https://pmc.ncbi.nlm.nih.gov/articles/PMC6455044), Levine et al., *Human Reproduction Update*, 2017 ; vérification du 17 septembre 2026.
+- [Profil de Leslie Adams](https://med.stanford.edu/profiles/leslie-adams), Stanford University School of Medicine ; vérification du 17 septembre 2026.
+- [Johns Hopkins Center for Suicide Prevention](https://publichealth.jhu.edu/center-for-suicide-prevention), Johns Hopkins Bloomberg School of Public Health ; vérification du 17 septembre 2026.
+- [Profil de Zac Seidler](https://aibm.org/who-we-are/zac-seidler/), American Institute for Boys and Men ; vérification du 17 septembre 2026.
+- [Father's Brain Is Sensitive to Childcare Experiences](https://www.pnas.org/doi/10.1073/pnas.1402569111), Abraham et al., *PNAS*, 2014 ; vérification du 17 septembre 2026.
+- [Loneliness Without an Epidemic: Gendered Pathways, Health Consequences, and Intervention Gaps Among Men in the United States](https://pmc.ncbi.nlm.nih.gov/articles/PMC13270468/), Chowdhury et al., *Frontiers in Public Health*, 2026 ; vérification du 17 septembre 2026.
+- [Séminaire "Recherches sur le masculin"](https://www.ihtp.cnrs.fr/seminaires/recherches-sur-le-masculin/), Institut d'histoire du temps présent (CNRS) ; vérification du 17 septembre 2026.
+- [Changing the Face of Men's Health](https://movember.com/about-us), Movember ; vérification du 17 septembre 2026.
+
+---
+
+## 32. Foire aux questions rapides
+
+**"Il ne dit jamais qu'il est déprimé, comment savoir si c'est le cas ?"**
+La dépression masculine prend souvent un tableau atypique : irritabilité, colère, prise de risque, isolement, plutôt que la tristesse verbalisée à laquelle on s'attend. Voir la [dépression masculine](<../1 - Guides/Pour Lui/06 - La dépression masculine.md>), section 6.2, pour le détail symptôme par symptôme.
+
+**"Il a l'air d'aller bien un jour et très mal le lendemain, c'est grave ?"**
+Pas nécessairement. Il existe des variations d'humeur masculines réelles, notamment liées aux fluctuations de testostérone, mais elles restent plus discrètes que ce qu'on imagine parfois. Voir [le cycle masculin](<../1 - Guides/Pour Lui/02 - Le cycle masculin.md>), section 2.5, pour la distinction entre ce qui est établi et ce qui ne l'est pas.
+
+**"La contraception masculine, ça existe vraiment aujourd'hui ?"**
+Oui, mais avec des options plus limitées que côté féminin et peu diffusées. Voir [la contraception masculine](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>), section 9.2, pour ce qui existe concrètement en dehors du préservatif et de la vasectomie.
+
+**"Pourquoi il n'arrive pas à dire ce qu'il ressent, même quand je lui demande directement ?"**
+Ce n'est en général ni un refus ni un manque d'affection. C'est souvent de l'alexithymie, une vraie difficulté à identifier et nommer une émotion, pas à la ressentir. Voir [l'architecture émotionnelle](<../1 - Guides/Pour Lui/04 - L'architecture émotionnelle.md>), section 4.1, et la notion [alexithymie](<../2 - Notions/Alexithymie.md>).
+
+**"Il n'a presque plus d'amis proches, faut-il s'inquiéter ?"**
+Dans la plupart des cas, oui, ça mérite attention : le [désert relationnel masculin](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>) touche une proportion significative d'hommes adultes et pèse directement sur la relation de couple, en reportant sur elle une charge affective qui devrait être partagée avec d'autres liens.
+
+**"Le désir a disparu depuis quelques années, c'est fini ?"**
+Rarement de façon définitive. [Le désir dans la durée](<../1 - Guides/Pour Lui/12 - Le désir dans la durée.md>) explique les cinq fonctions réelles du désir masculin et pourquoi le calcul implicite qui le soutient peut basculer, sans que ce soit irréversible.
+
+**"Il ne réagit pas à une dispute avec un ami, alors que ça a l'air grave, pourquoi ?"**
+Le mode de règlement masculin classique passe par l'action plutôt que par la parole, avec une distinction entre conflit vertical (bref, sans conséquence) et conflit horizontal (silencieux, plus sérieux). Voir [les conflits entre hommes](<../1 - Guides/Pour Lui/15 - Les conflits entre hommes.md>), sections 15.2 et 15.3.
+
+**"À partir de quel âge faut-il vraiment surveiller la prostate ?"**
+Voir [le corps masculin](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>), section 8.4, pour les repères de dépistage et ce qui relève d'une vraie urgence plutôt que d'une inquiétude à gérer seul.
+
+**"Comprendre ce qu'il traverse veut dire excuser ce qu'il fait de mal ?"**
+Non, jamais. Comprendre un mécanisme n'efface pas une responsabilité individuelle. Voir [les limites](<../1 - Guides/Pour Lui/19 - Les limites.md>), section 19.1, sur cette distinction, et section 19.4 pour les vraies alarmes qui ne relèvent plus d'un simple accompagnement.
+
+**"Il dit 'ça va' alors que visiblement ça ne va pas, comment avancer ?"**
+"Ça va" fonctionne souvent comme un mot de passe social plutôt qu'un vrai rapport d'état. Voir [l'architecture émotionnelle](<../1 - Guides/Pour Lui/04 - L'architecture émotionnelle.md>), section 4.8, pour ce que la phrase signifie réellement et comment la contourner sans la forcer.
+
+---
+
+## 33. Ressources et associations utiles
+
+Quelques ressources concrètes, au-delà de ce document, si un jour vous en avez besoin à deux :
+
+- **[Fédération française des CECOS](https://www.cecos.org/)** (cecos.org) : réseau des Centres d'étude et de conservation des œufs et du sperme humains, gère 97 % de l'activité de don de spermatozoïdes en France et accompagne les couples confrontés à une infertilité masculine ([9](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>)).
+- **[ANAMACaP](https://anamacap.fr/)** (anamacap.fr), Association Nationale des Malades du Cancer de la Prostate : créée en 2002 par un patient, elle informe, accompagne et organise des rencontres entre patients et spécialistes, utile pour tout ce qui touche à la [prostate](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>) (section 8.4).
+- **[Movember](https://movember.com/)** (movember.com) : fondation internationale de référence sur la santé masculine, finance la recherche sur la santé mentale, le cancer de la prostate et le cancer des testicules ; son directeur de recherche Zac Seidler est cité au chapitre 31.
+- **Numéro national de prévention du suicide : le 3114**, gratuit, disponible 24h/24 et 7j/7, à connaître pour toute situation de détresse évoquée dans ce document, notamment la [dépression masculine](<../1 - Guides/Pour Lui/06 - La dépression masculine.md>) (section 6.4).
+- **Le 15 (SAMU)** : pour toute urgence médicale immédiate, y compris une pensée suicidaire avec passage à l'acte imminent.
+- **Centres de dépistage et d'urologie** : pour le suivi de la [prostate](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>) ou toute question de santé sexuelle masculine, un centre hospitalier universitaire ou un service d'urologie proche reste le premier point d'entrée fiable.
+
+**Bon réflexe** : si un jour l'un de ces sujets devient concret dans votre vie de couple, chercher ensemble la ressource adaptée, plutôt que de le laisser porter ça seul, reste l'un des gestes les plus simples et les plus significatifs que tu puisses avoir.
+
+---
+
+## 34. Glossaire complet des termes médicaux employés dans ce document
+
+Un glossaire pour s'y retrouver rapidement, dans l'ordre alphabétique, sans avoir à rouvrir chaque chapitre :
+
+- **[Alexithymie](<../2 - Notions/Alexithymie.md>)** : difficulté à identifier et à nommer ses propres émotions, distincte d'une absence d'émotion ([4.1](<../1 - Guides/Pour Lui/04 - L'architecture émotionnelle.md>)).
+- **Andropause** : déclin progressif de la testostérone lié à l'âge, à ne pas confondre avec une chute hormonale brutale comme la ménopause féminine ([2.4](<../1 - Guides/Pour Lui/02 - Le cycle masculin.md>)).
+- **Azoospermie** : absence totale de spermatozoïdes dans l'éjaculat.
+- **Conflit horizontal** : désaccord entre pairs portant sur la loyauté, silencieux et rarement résolu par la parole, par opposition au conflit vertical ([15.2](<../1 - Guides/Pour Lui/15 - Les conflits entre hommes.md>)).
+- **[Contrôle coercitif](<../2 - Notions/Contrôle coercitif.md>)** : ensemble de comportements visant à dominer et isoler un partenaire, à repérer chez un homme comme chez une femme ([19.4](<../1 - Guides/Pour Lui/19 - Les limites.md>)).
+- **Désir réactif et désir spontané** : deux mécanismes normaux de mise en route du désir sexuel, voir la notion [désir spontané et désir réactif](<../2 - Notions/Désir spontané et désir réactif.md>).
+- **DALA** : déclin androgénique lié à l'âge, la baisse progressive de testostérone après 40 ans ([8.2](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>)).
+- **[Désert relationnel](<../2 - Notions/Désert relationnel.md>)** : appauvrissement du réseau amical masculin à l'âge adulte, qui reporte la charge affective entière sur le couple ([14.1](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>)).
+- **Dysfonction érectile** : difficulté à obtenir ou maintenir une érection suffisante pour un rapport sexuel satisfaisant, à distinguer du trouble du désir ([10.4](<../1 - Guides/Pour Lui/10 - La sexualite masculine.md>)).
+- **Éjaculation précoce ou retardée** : troubles du contrôle du réflexe éjaculatoire, parmi les troubles sexuels masculins les plus fréquents et les mieux pris en charge aujourd'hui ([10.4](<../1 - Guides/Pour Lui/10 - La sexualite masculine.md>)).
+- **Gynécomastie** : développement du tissu mammaire chez l'homme, d'origine hormonale, bénigne dans la majorité des cas.
+- **[Hiérarchies de dominance et de prestige](<../2 - Notions/Hiérarchies de dominance et de prestige.md>)** : deux voies distinctes par lesquelles un homme accède à une position sociale reconnue dans un groupe masculin ([15.1](<../1 - Guides/Pour Lui/15 - Les conflits entre hommes.md>)).
+- **Masculinité précaire** : voir la notion [masculinité précaire](<../2 - Notions/Masculinité précaire.md>), le statut masculin perçu comme devant sans cesse être démontré, sous peine de sanction sociale.
+- **Oligospermie** : concentration de spermatozoïdes anormalement basse dans l'éjaculat.
+- **Prostate, hypertrophie bénigne de la** : augmentation non cancéreuse du volume de la prostate avec l'âge, fréquente après 50 ans ([20.4](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>)).
+- **PSA (antigène prostatique spécifique)** : marqueur sanguin utilisé, avec prudence et discussion médicale, dans le dépistage du cancer de la prostate ([8.4](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>)).
+- **[Schéma demande-retrait](<../2 - Notions/Schéma demande-retrait.md>)** : dynamique de couple où l'un demande verbalement et l'autre se retire, fréquemment observée dans les couples en tension.
+- **Testostérone** : hormone stéroïdienne centrale dans le développement et le fonctionnement masculins, dont le rôle réel dans l'agressivité est plus nuancé que le cliché courant ([8.1](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>)).
+- **Trouble dysphorique prémenstruel (TDPM)** : mentionné ici en tant que sujet à connaître pour comprendre une partenaire concernée, développé du point de vue féminin dans le guide Pour Elle.
+- **Vasectomie** : intervention chirurgicale de stérilisation masculine, sectionnant les canaux déférents, sans effet démontré sur le désir ou le plaisir ([9.3](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>)).

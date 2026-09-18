@@ -4,7 +4,7 @@ chapitre: "15"
 titre: "Transmettre, linguistique, storytelling et l'art de se faire comprendre"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
 
@@ -36,6 +36,18 @@ Ces trois mécanismes, le principe de coopération, la malédiction du savoir et
 
 Se faire comprendre n'est donc pas un talent inné réservé à quelques personnes douées pour "raconter des histoires". C'est un ensemble de mécanismes identifiables, qui peuvent se corriger un par un une fois qu'on sait lesquels sont en cause dans un message donné.
 
+### 15.5 Le langage clair, une réforme mesurée plutôt qu'un style
+
+Écrire simplement n'est pas qu'une question de goût personnel ou de fluidité littéraire, c'est un levier mesuré dont l'effet dépasse largement l'intuition. Le mouvement du langage clair, apparu dans les années 1970 dans le sillage des mouvements de défense des consommateurs, a produit l'une des démonstrations les plus nettes de l'écart entre un texte technique et un texte clair. [Une étude comparant des formulaires judiciaires rédigés dans leur langue administrative d'origine et les mêmes formulaires réécrits en langage clair a montré que la compréhension de l'objet exact d'un document passait de 23 % à 70 % de bonnes réponses une fois le texte réécrit](https://www.transcend.net/library/html/PLStudy.html) (Center for Plain Language, étude comparative sur des formulaires de justice californiens ; vérification du 17 septembre 2026). Ce n'est pas une nuance stylistique, c'est un basculement d'une minorité de lecteurs qui comprennent à une large majorité qui comprend, obtenu par les mêmes leviers que ceux décrits en 15.1 et 15.4 : moins de jargon, des phrases plus courtes, l'information essentielle placée en premier plutôt que noyée dans les clauses.
+
+Cette découverte concerne autant un couple ou une famille qu'une administration. Un message important, mais formulé avec des tournures compliquées, des sous-entendus multiples ou une structure qui retarde l'essentiel jusqu'à la fin, subit la même perte de compréhension qu'un formulaire mal rédigé, simplement sans qu'on s'en aperçoive parce que personne ne mesure le taux de compréhension d'une conversation de couple comme celui d'un document administratif. Le réflexe qui en découle : dire la chose la plus importante en premier, dans la phrase la plus courte possible, avant de la nuancer ou de l'expliquer, plutôt que de construire un long préambule qui retarde ce que l'autre attend vraiment d'entendre.
+
+### 15.6 La limite éthique du bon récit
+
+Le pouvoir du récit décrit en 15.3 n'est pas moralement neutre, et il vaut mieux le savoir avant de l'utiliser à mauvais escient. Le même mécanisme qui rend une histoire plus mémorable et plus convaincante qu'une liste de faits fonctionne identiquement, que cette histoire soit rigoureusement vraie ou habilement arrangée. Ce n'est pas un hasard si les techniques de manipulation, de la publicité à la désinformation, s'appuient massivement sur la structure narrative plutôt que sur l'argumentation factuelle : le même transport narratif qui aide un message honnête à mieux passer aide tout autant un message trompeur à contourner l'esprit critique.
+
+Bons réflexes pour utiliser le récit sans en abuser : vérifier, avant de raconter une histoire pour appuyer un point, que les faits qu'elle contient sont exacts et pas seulement arrangés pour mieux servir la démonstration. Signaler explicitement quand un exemple est une reconstruction ou une généralisation plutôt qu'un événement précisément vécu, pour ne pas laisser croire à une preuve individuelle là où il n'y a qu'une illustration. Et se méfier de sa propre conviction renforcée par une histoire touchante : le fait qu'un récit convainque plus fort qu'une statistique ne dit rien de sa véracité, seulement de son efficacité rhétorique.
+
 ## Sources vérifiables
 
 - Le principe de coopération et les quatre maximes conversationnelles : Grice, "Logic and Conversation", dans *Syntax and Semantics, vol. 3: Speech Acts*, Academic Press, 1975. https://www.academia.edu/27636659/Grices_Cooperative_Principle_Maxims_of_Conversation_and_Conversational_Implicature (vérification du 13 août 2026).
@@ -43,5 +55,6 @@ Se faire comprendre n'est donc pas un talent inné réservé à quelques personn
 - L'illusion de transparence des états émotionnels : Gilovich, Savitsky & Medvec, "The Illusion of Transparency: Biased Assessments of Others' Ability to Read One's Emotional States", *Journal of Personality and Social Psychology*, 1998. https://pubmed.ncbi.nlm.nih.gov/9731312/ (vérification du 13 août 2026).
 - Meilleure mémorisation d'une liste organisée en récit : Bower & Clark, "Narrative stories as mediators for serial learning", *Psychonomic Science*, 1969. https://link.springer.com/content/pdf/10.3758/BF03332778.pdf (vérification du 13 août 2026).
 - Effet de l'absorption narrative sur les croyances et l'évaluation des personnages : Green & Brock, "The Role of Transportation in the Persuasiveness of Public Narratives", *Journal of Personality and Social Psychology*, 2000. https://pubmed.ncbi.nlm.nih.gov/11079236/ (vérification du 13 août 2026).
+- Gain de compréhension d'un document administratif après réécriture en langage clair (de 23 % à 70 % de bonnes réponses) : Center for Plain Language, étude comparative sur des formulaires de justice californiens. https://www.transcend.net/library/html/PLStudy.html (vérification du 17 septembre 2026).
 
 Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../../4 - Sources/Questions et communication.md>).
