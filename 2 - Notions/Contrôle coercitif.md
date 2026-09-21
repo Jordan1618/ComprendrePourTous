@@ -17,6 +17,10 @@ Dans les premières semaines, cela ne ressemble pas à de la menace mais à de l
 
 **Où c'est développé**
 - [Les signaux d'alerte documentés](<../1 - Guides/La rencontre/07 - Les signaux d alerte documentes.md>), avec le test de la réaction à un inconfort exprimé.
+- [Rencontres professionnelles et en contexte de vulnérabilité](<../1 - Guides/La rencontre/14 - Rencontres professionnelles et vulnerabilite.md>), sur les enjeux de consentement et d'emprise.
+- [La pickup culture et les coachs en rencontre](<../1 - Guides/La rencontre/20 - La pickup culture et les coachs en rencontre.md>), sur ce qui distingue une technique de séduction d'une technique de manipulation.
+- [Dépendance affective, jalousie et attachement à risque](<../1 - Guides/L amour/11 - Dependance affective jalousie et attachement a risque.md>).
+- [Risques et données de l'amour](<../1 - Guides/L amour/28 - Risques et donnees de l amour statistiques prevention et securite.md>), sur la prévention des dérives.
 - [Signaux d'alerte](<../3 - Transversal/Signaux d'alerte.md>).
 - [Les limites : ce qui n'est pas à toi de porter](<../1 - Guides/Pour Elle/21 - Les limites.md>), sur la frontière entre maladresse relationnelle et contrôle réel, dans les deux sens.
 - [Ce qui leur fait peur chez les femmes](<../1 - Guides/Pour Lui/24 - Ce qui leur fait peur chez les femmes.md>), sur le fait que le mécanisme concerne des individus précis, jamais un sexe entier.

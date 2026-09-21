@@ -26,6 +26,8 @@ Son fil conducteur : **l'amour n'est pas une chose mais trois**. Le désir, l'at
 
 Le guide dit aussi ce qui n'est **pas** validé. Les langages de l'amour, par exemple, sont utiles comme outil de conversation mais ne sont pas étayés empiriquement, et c'est écrit noir sur blanc plutôt que passé sous silence.
 
+Ce guide porte sur le sentiment lui-même. Pour ce qui précède (attirance, choix de partenaire, premiers échanges), voir [La rencontre](<../1 - Guides/La rencontre/README.md>) ; pour ce qui suit (construire et tenir à deux dans la durée), voir [Pour Nous](<../1 - Guides/Pour Nous/README.md>).
+
 ## Sommaire
 
 - **1.** Ce que le cerveau appelle amour

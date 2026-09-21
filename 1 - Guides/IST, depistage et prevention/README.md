@@ -20,6 +20,8 @@ Les chapitres 18 à 25 forment une section à part, une infection à la fois (ch
 
 C'est le guide le plus factuel de la collection, et sans doute le plus immédiatement actionnable. La plupart des idées reçues sur le sujet datent de trente ans et sont fausses aujourd'hui, en particulier sur le VIH.
 
+Pour tout ce qui touche à la nouvelle rencontre ou à la vie amoureuse en général, voir [La rencontre](<../La rencontre/README.md>) et [L'amour](<../L amour/README.md>), qui renvoient ici plutôt que de redire l'épidémiologie et la prévention.
+
 Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une impression : [version intégrale](<../../0 - Guides complets/IST, dépistage et prévention.md>).
 
 ## Chapitres

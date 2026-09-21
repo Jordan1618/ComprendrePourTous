@@ -15,3 +15,4 @@ C'est ce qui rend la chose actionnable : un tri qui se produit en amont, par la 
 
 **Où c'est développé**
 - [Où les gens se rencontrent vraiment](<../1 - Guides/La rencontre/04 - Ou les gens se rencontrent vraiment.md>).
+- [Homogamie et réseau social dans la formation du couple](<../1 - Guides/La rencontre/10 - Homogamie et reseau social.md>), avec le rôle du déclin des rencontres par amis communs.

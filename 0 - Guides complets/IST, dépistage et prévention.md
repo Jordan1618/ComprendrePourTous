@@ -26,6 +26,8 @@ Les chapitres 18 à 25 forment une section à part, une infection à la fois (ch
 
 C'est le guide le plus factuel de la collection, et sans doute le plus immédiatement actionnable. La plupart des idées reçues sur le sujet datent de trente ans et sont fausses aujourd'hui, en particulier sur le VIH.
 
+Pour tout ce qui touche à la nouvelle rencontre ou à la vie amoureuse en général, voir [La rencontre](<../1 - Guides/La rencontre/README.md>) et [L'amour](<../1 - Guides/L amour/README.md>), qui renvoient ici plutôt que de redire l'épidémiologie et la prévention.
+
 ## Sommaire
 
 - **1.** Comprendre les IST : panorama et transmission

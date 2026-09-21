@@ -16,3 +16,5 @@ Pourquoi ça compte : un fonctionnement en désir réactif est souvent vécu com
 **Où c'est développé**
 - [Sexualité féminine](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>), sections 8.2 et 8.3.
 - [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/11 - La sexualité comme langage émotionnel.md>).
+- [Dépendance affective, jalousie et attachement à risque](<../1 - Guides/L amour/11 - Dependance affective jalousie et attachement a risque.md>).
+- [Amour et âge : enfance, vieillissement, ménopause et andropause](<../1 - Guides/L amour/15 - Amour et age enfance vieillissement menopause et andropause.md>), sur l'évolution du désir avec l'âge et les changements hormonaux.
