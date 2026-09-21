@@ -2,9 +2,9 @@
 type: "guide"
 guide: "L'amour"
 sujet: "commun"
-chapitres: 9
-mots: 10119
-verifie_le: 2026-08-06
+chapitres: 28
+mots: 39760
+verifie_le: 2026-09-21
 licence: "CC BY 4.0"
 ---
 
@@ -33,8 +33,27 @@ Le guide dit aussi ce qui n'est **pas** validé. Les langages de l'amour, par ex
 | 7 | [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<07 - Les langages de l amour.md>) | relation | 954 |
 | 8 | [Le désir dans la durée](<08 - Le desir dans la duree.md>) | relation | 1 032 |
 | 9 | [Ce que l'amour engage concrètement](<09 - Ce que l amour engage.md>) | pratique | 1 011 |
+| 10 | [Le rejet et la rupture, ce que dit la neurobiologie](<10 - Le rejet et la rupture ce que dit la neurobiologie.md>) | physiologie | 1 535 |
+| 11 | [Dépendance affective, jalousie et attachement à risque](<11 - Dependance affective jalousie et attachement a risque.md>) | psychologie | 1 541 |
+| 12 | [Amour et santé mentale : dépression, TOC, stress post-traumatique](<12 - Amour et sante mentale depression TOC stress post-traumatique.md>) | psychologie | 1 543 |
+| 13 | [Amour asexuel, aromantique et neuroatypique](<13 - Amour asexuel aromantique et neuroatypique.md>) | repères | 1 552 |
+| 14 | [L'amour parental et hormonal comparé à l'amour romantique](<14 - L amour parental et hormonal compare a l amour romantique.md>) | physiologie | 1 539 |
+| 15 | [Amour et âge : enfance, vieillissement, ménopause et andropause](<15 - Amour et age enfance vieillissement menopause et andropause.md>) | physiologie | 1 535 |
+| 16 | [Mesurer l'amour : théories et échelles de la recherche](<16 - Mesurer l amour theories et echelles de la recherche.md>) | psychologie | 1 528 |
+| 17 | [Une histoire et une géographie de l'amour, du courtois au polyamour](<17 - Une histoire et une geographie de l amour du courtois au polyamour.md>) | repères | 1 535 |
+| 18 | [L'amour, l'argent et le droit](<18 - L amour l argent et le droit.md>) | repères | 1 529 |
+| 19 | [L'amour dans le mythe, la littérature, le cinéma et la chanson](<19 - L amour dans le mythe la litterature le cinema et la chanson.md>) | repères | 1 522 |
+| 20 | [Les philosophies de l'amour, de Platon aux penseuses contemporaines](<20 - Les philosophies de l amour de Platon aux penseuses contemporaines.md>) | repères | 1 536 |
+| 21 | [Rituels, lieux et objets de l'amour à travers les cultures](<21 - Rituels lieux et objets de l amour a travers les cultures.md>) | repères | 1 507 |
+| 22 | [L'amour et les grands mouvements du monde : guerre, diplomatie, démographie, écologie](<22 - L amour et les grands mouvements du monde guerre diplomatie demographie ecologie.md>) | repères | 1 542 |
+| 23 | [Le corps de l'amour : génétique, immunité, pharmacologie et rythmes](<23 - Le corps de l amour genetique immunite pharmacologie et rythmes.md>) | physiologie | 1 657 |
+| 24 | [Ce que l'amour coûte et rapporte : économie, sociologie et anthropologie comparée](<24 - Ce que l amour coute et rapporte economie sociologie et anthropologie comparee.md>) | repères | 1 609 |
+| 25 | [Pouvoir et institutions de l'amour : politique, stratégie et diplomatie du sentiment](<25 - Pouvoir et institutions de l amour politique strategie et diplomatie du sentiment.md>) | repères | 1 635 |
+| 26 | [Corps, genre et sensorialité de l'amour](<26 - Corps genre et sensorialite de l amour.md>) | physiologie | 1 606 |
+| 27 | [Parler d'amour : langage, génération et interculturalité](<27 - Parler d amour langage generation et interculturalite.md>) | relation | 1 642 |
+| 28 | [Risques et données de l'amour : statistiques, prévention et sécurité](<28 - Risques et donnees de l amour statistiques prevention et securite.md>) | pratique | 1 548 |
 
-Total : 10 119 mots, 9 chapitres.
+Total : 39 760 mots, 28 chapitres.
 
 ## Par où commencer
 
@@ -45,5 +64,8 @@ Total : 10 119 mots, 9 chapitres.
 - **Vous cherchez ce qui fait réellement tenir un couple** : chapitre 7.
 - **Le désir a baissé** : chapitre 8.
 - **Vous vivez à deux sans avoir réglé les questions de statut, d'argent ou de logement** : chapitre 9.
+- **Vous traversez un rejet, une rupture ou un deuil amoureux** : chapitres 10 et 13.
+- **Vous vous demandez si vous êtes en dépendance affective ou si la jalousie a dépassé la limite** : chapitre 11.
+- **Vous voulez l'histoire, la philosophie ou la culture de l'amour** : chapitres 17, 19 et 20.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

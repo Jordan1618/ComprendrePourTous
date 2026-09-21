@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "angle"
-mis_a_jour_le: 2026-09-18
+mis_a_jour_le: 2026-09-21
 licence: "CC BY 4.0"
 ---
 
@@ -30,6 +30,11 @@ Comment le corps fonctionne concrètement, mécanisme par mécanisme.
 - [Ce que le cerveau appelle amour](<../1 - Guides/L amour/01 - Ce que le cerveau appelle amour.md>)  `commun` · L'amour
 - [Passion et attachement : deux temps, deux logiques](<../1 - Guides/L amour/02 - Passion et attachement.md>)  `commun` · L'amour
 - [Pourquoi l'amour existe : l'angle évolutionniste](<../1 - Guides/L amour/04 - Pourquoi l amour existe.md>)  `commun` · L'amour
+- [Le rejet et la rupture, ce que dit la neurobiologie](<../1 - Guides/L amour/10 - Le rejet et la rupture ce que dit la neurobiologie.md>)  `commun` · L'amour
+- [L'amour parental et hormonal comparé à l'amour romantique](<../1 - Guides/L amour/14 - L amour parental et hormonal compare a l amour romantique.md>)  `commun` · L'amour
+- [Amour et âge : enfance, vieillissement, ménopause et andropause](<../1 - Guides/L amour/15 - Amour et age enfance vieillissement menopause et andropause.md>)  `commun` · L'amour
+- [Le corps de l'amour : génétique, immunité, pharmacologie et rythmes](<../1 - Guides/L amour/23 - Le corps de l amour genetique immunite pharmacologie et rythmes.md>)  `commun` · L'amour
+- [Corps, genre et sensorialité de l'amour](<../1 - Guides/L amour/26 - Corps genre et sensorialite de l amour.md>)  `commun` · L'amour
 - [Comment une émotion se fabrique](<../1 - Guides/Les emotions/01 - Comment une emotion se fabrique.md>)  `commun` · Les émotions
 - [La neurobiologie du toucher](<../1 - Guides/Massage professionnel/13 - La neurobiologie du toucher.md>)  `commun` · Massage professionnel
 - [Pourquoi on communique, la science derrière](<../1 - Guides/Questions et communication/10 - Pourquoi on communique, la science derrière.md>)  `commun` · Questions et communication
@@ -64,6 +69,9 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [L'effet miroir et l'échange social au premier contact](<../1 - Guides/La rencontre/11 - L effet miroir et l echange social.md>)  `commun` · La rencontre
 - [Neuroatypie, anxiété sociale et applications de niche](<../1 - Guides/La rencontre/16 - Neuroatypie anxiete sociale et applications de niche.md>)  `commun` · La rencontre
 - [Ce qu'on rejoue de son histoire](<../1 - Guides/L amour/05 - Ce qu on rejoue de son histoire.md>)  `commun` · L'amour
+- [Dépendance affective, jalousie et attachement à risque](<../1 - Guides/L amour/11 - Dependance affective jalousie et attachement a risque.md>)  `commun` · L'amour
+- [Amour et santé mentale : dépression, TOC, stress post-traumatique](<../1 - Guides/L amour/12 - Amour et sante mentale depression TOC stress post-traumatique.md>)  `commun` · L'amour
+- [Mesurer l'amour : théories et échelles de la recherche](<../1 - Guides/L amour/16 - Mesurer l amour theories et echelles de la recherche.md>)  `commun` · L'amour
 - [D'où viennent les émotions : famille, société, institutions](<../1 - Guides/Les emotions/02 - D ou viennent les emotions.md>)  `commun` · Les émotions
 - [Reconnaître et nommer : la granularité émotionnelle](<../1 - Guides/Les emotions/03 - Reconnaitre et nommer.md>)  `commun` · Les émotions
 - [Les émotions positives : joie, plaisir et gratitude](<../1 - Guides/Les emotions/19 - Les emotions positives.md>)  `commun` · Les émotions
@@ -180,6 +188,7 @@ Ce que ça change concrètement quand on est deux.
 - [Rencontrer en mobilité, en crise, ou après 50 ans via clubs et associations](<../1 - Guides/La rencontre/21 - Rencontrer en mobilite en crise ou via clubs.md>)  `commun` · La rencontre
 - [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/07 - Les langages de l amour.md>)  `commun` · L'amour
 - [Le désir dans la durée](<../1 - Guides/L amour/08 - Le desir dans la duree.md>)  `commun` · L'amour
+- [Parler d'amour : langage, génération et interculturalité](<../1 - Guides/L amour/27 - Parler d amour langage generation et interculturalite.md>)  `commun` · L'amour
 - [Les tabous à démonter](<../1 - Guides/Les emotions/10 - Les tabous a demonter.md>)  `commun` · Les émotions
 - [Émotions collectives : foule, contagion, indignation numérique](<../1 - Guides/Les emotions/15 - Emotions collectives.md>)  `commun` · Les émotions
 - [En parler en couple : dépistage, nouveau partenaire, disclosure](<../1 - Guides/IST, depistage et prevention/08 - En parler en couple.md>)  `commun` · IST, dépistage et prévention
@@ -212,6 +221,7 @@ Quoi faire, concrètement, avec des formulations et des gestes précis.
 - [Speed dating, jeux vidéo, communautés de passion : les rencontres de niche](<../1 - Guides/La rencontre/19 - Speed dating jeux video et communautes de passion.md>)  `commun` · La rencontre
 - [Le décor de la rencontre : lieux, climat et territoire](<../1 - Guides/La rencontre/26 - Le decor de la rencontre.md>)  `commun` · La rencontre
 - [Ce que l'amour engage concrètement](<../1 - Guides/L amour/09 - Ce que l amour engage.md>)  `commun` · L'amour
+- [Risques et données de l'amour : statistiques, prévention et sécurité](<../1 - Guides/L amour/28 - Risques et donnees de l amour statistiques prevention et securite.md>)  `commun` · L'amour
 - [Décoder une émotion : à quoi sert chacune](<../1 - Guides/Les emotions/04 - Decoder une emotion.md>)  `commun` · Les émotions
 - [Réguler : ce qui marche et ce qui ne marche pas](<../1 - Guides/Les emotions/05 - Reguler ce qui marche.md>)  `commun` · Les émotions
 - [Les bonnes pratiques au quotidien](<../1 - Guides/Les emotions/06 - Les bonnes pratiques au quotidien.md>)  `commun` · Les émotions
@@ -279,6 +289,15 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [La rencontre dans l'art et la culture populaire](<../1 - Guides/La rencontre/28 - La rencontre dans l art et la culture populaire.md>)  `commun` · La rencontre
 - [Les types d'amour : ce que les Grecs avaient déjà démêlé](<../1 - Guides/L amour/03 - Les types d amour.md>)  `commun` · L'amour
 - [L'amour romantique, une invention récente](<../1 - Guides/L amour/06 - L amour romantique une invention recente.md>)  `commun` · L'amour
+- [Amour asexuel, aromantique et neuroatypique](<../1 - Guides/L amour/13 - Amour asexuel aromantique et neuroatypique.md>)  `commun` · L'amour
+- [Une histoire et une géographie de l'amour, du courtois au polyamour](<../1 - Guides/L amour/17 - Une histoire et une geographie de l amour du courtois au polyamour.md>)  `commun` · L'amour
+- [L'amour, l'argent et le droit](<../1 - Guides/L amour/18 - L amour l argent et le droit.md>)  `commun` · L'amour
+- [L'amour dans le mythe, la littérature, le cinéma et la chanson](<../1 - Guides/L amour/19 - L amour dans le mythe la litterature le cinema et la chanson.md>)  `commun` · L'amour
+- [Les philosophies de l'amour, de Platon aux penseuses contemporaines](<../1 - Guides/L amour/20 - Les philosophies de l amour de Platon aux penseuses contemporaines.md>)  `commun` · L'amour
+- [Rituels, lieux et objets de l'amour à travers les cultures](<../1 - Guides/L amour/21 - Rituels lieux et objets de l amour a travers les cultures.md>)  `commun` · L'amour
+- [L'amour et les grands mouvements du monde : guerre, diplomatie, démographie, écologie](<../1 - Guides/L amour/22 - L amour et les grands mouvements du monde guerre diplomatie demographie ecologie.md>)  `commun` · L'amour
+- [Ce que l'amour coûte et rapporte : économie, sociologie et anthropologie comparée](<../1 - Guides/L amour/24 - Ce que l amour coute et rapporte economie sociologie et anthropologie comparee.md>)  `commun` · L'amour
+- [Pouvoir et institutions de l'amour : politique, stratégie et diplomatie du sentiment](<../1 - Guides/L amour/25 - Pouvoir et institutions de l amour politique strategie et diplomatie du sentiment.md>)  `commun` · L'amour
 - [IST ou MST ? Une histoire de mots](<../1 - Guides/IST, depistage et prevention/07 - IST ou MST.md>)  `commun` · IST, dépistage et prévention
 - [État des lieux : Orient et Occident, ce qui est reconnu aujourd'hui](<../1 - Guides/Massage professionnel/10 - Orient et Occident.md>)  `commun` · Massage professionnel
 - [Pour aller plus loin](<../1 - Guides/Massage professionnel/12 - Pour aller plus loin.md>)  `commun` · Massage professionnel

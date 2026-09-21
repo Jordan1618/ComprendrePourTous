@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sujet"
-mis_a_jour_le: 2026-09-18
+mis_a_jour_le: 2026-09-21
 licence: "CC BY 4.0"
 ---
 
@@ -164,6 +164,25 @@ Ce qui ne dépend ni du sexe ni du genre : la rencontre, l'amour, la vie à deux
 - [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<../1 - Guides/L amour/07 - Les langages de l amour.md>)  `relation`
 - [Le désir dans la durée](<../1 - Guides/L amour/08 - Le desir dans la duree.md>)  `relation`
 - [Ce que l'amour engage concrètement](<../1 - Guides/L amour/09 - Ce que l amour engage.md>)  `pratique`
+- [Le rejet et la rupture, ce que dit la neurobiologie](<../1 - Guides/L amour/10 - Le rejet et la rupture ce que dit la neurobiologie.md>)  `physiologie`
+- [Dépendance affective, jalousie et attachement à risque](<../1 - Guides/L amour/11 - Dependance affective jalousie et attachement a risque.md>)  `psychologie`
+- [Amour et santé mentale : dépression, TOC, stress post-traumatique](<../1 - Guides/L amour/12 - Amour et sante mentale depression TOC stress post-traumatique.md>)  `psychologie`
+- [Amour asexuel, aromantique et neuroatypique](<../1 - Guides/L amour/13 - Amour asexuel aromantique et neuroatypique.md>)  `repères`
+- [L'amour parental et hormonal comparé à l'amour romantique](<../1 - Guides/L amour/14 - L amour parental et hormonal compare a l amour romantique.md>)  `physiologie`
+- [Amour et âge : enfance, vieillissement, ménopause et andropause](<../1 - Guides/L amour/15 - Amour et age enfance vieillissement menopause et andropause.md>)  `physiologie`
+- [Mesurer l'amour : théories et échelles de la recherche](<../1 - Guides/L amour/16 - Mesurer l amour theories et echelles de la recherche.md>)  `psychologie`
+- [Une histoire et une géographie de l'amour, du courtois au polyamour](<../1 - Guides/L amour/17 - Une histoire et une geographie de l amour du courtois au polyamour.md>)  `repères`
+- [L'amour, l'argent et le droit](<../1 - Guides/L amour/18 - L amour l argent et le droit.md>)  `repères`
+- [L'amour dans le mythe, la littérature, le cinéma et la chanson](<../1 - Guides/L amour/19 - L amour dans le mythe la litterature le cinema et la chanson.md>)  `repères`
+- [Les philosophies de l'amour, de Platon aux penseuses contemporaines](<../1 - Guides/L amour/20 - Les philosophies de l amour de Platon aux penseuses contemporaines.md>)  `repères`
+- [Rituels, lieux et objets de l'amour à travers les cultures](<../1 - Guides/L amour/21 - Rituels lieux et objets de l amour a travers les cultures.md>)  `repères`
+- [L'amour et les grands mouvements du monde : guerre, diplomatie, démographie, écologie](<../1 - Guides/L amour/22 - L amour et les grands mouvements du monde guerre diplomatie demographie ecologie.md>)  `repères`
+- [Le corps de l'amour : génétique, immunité, pharmacologie et rythmes](<../1 - Guides/L amour/23 - Le corps de l amour genetique immunite pharmacologie et rythmes.md>)  `physiologie`
+- [Ce que l'amour coûte et rapporte : économie, sociologie et anthropologie comparée](<../1 - Guides/L amour/24 - Ce que l amour coute et rapporte economie sociologie et anthropologie comparee.md>)  `repères`
+- [Pouvoir et institutions de l'amour : politique, stratégie et diplomatie du sentiment](<../1 - Guides/L amour/25 - Pouvoir et institutions de l amour politique strategie et diplomatie du sentiment.md>)  `repères`
+- [Corps, genre et sensorialité de l'amour](<../1 - Guides/L amour/26 - Corps genre et sensorialite de l amour.md>)  `physiologie`
+- [Parler d'amour : langage, génération et interculturalité](<../1 - Guides/L amour/27 - Parler d amour langage generation et interculturalite.md>)  `relation`
+- [Risques et données de l'amour : statistiques, prévention et sécurité](<../1 - Guides/L amour/28 - Risques et donnees de l amour statistiques prevention et securite.md>)  `pratique`
 **Les émotions**
 
 - [Comment une émotion se fabrique](<../1 - Guides/Les emotions/01 - Comment une emotion se fabrique.md>)  `physiologie`
