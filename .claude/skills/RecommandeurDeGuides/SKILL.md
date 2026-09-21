@@ -1,6 +1,6 @@
 ---
 name: recommandeurdeguides
-description: Recommande de nouveaux guides à ajouter à la collection "Comprendre pour tous", par la même méthode d'élicitation que Faiseur2Guide (grille de 10 familles × 10 exemples, inventaire du dépôt, deux exemples très développés de 30, soit 160 suggestions), toujours ancrées dans le thème du projet (corps, émotions, relations), et consigne la liste validée dans Ce qu'il faut faire.md.
+description: Recommande de nouveaux guides à ajouter à la collection "Comprendre pour tous", par la même méthode d'élicitation que Faiseur2Guide (grille de 10 familles × 10 exemples, inventaire du dépôt, deux exemples très développés de 30, soit 160 suggestions), chaque suggestion étiquetée cœur de thème ou périphérique mais jamais écartée, et consigne la liste validée dans Ce qu'il faut faire.md.
 ---
 
 Recommandeur de guides
@@ -145,15 +145,15 @@ Chaque exemple, dans chacune des familles ci-dessous, doit rester dans le thème
 
 Ce skill balaie large volontairement, mais la collection n'est pas un projet de développement personnel généraliste : c'est, selon les mots de son propre README, un projet sur **« le corps, les émotions, l'esprit : construire et vivre ses relations pour de vrai »**, né d'un manque d'éducation affective et relationnelle et d'un rejet explicite du développement personnel superficiel non sourcé.
 
-Concrètement, avant d'inclure un exemple dans la grille ou dans un des deux exemples développés, vérifier qu'il passe au moins un de ces filtres :
+**Rien n'est écarté d'office** : un sujet qui semble périphérique aujourd'hui peut s'avérer utile, ouvrir un angle imprévu, ou devenir pertinent une fois recoupé avec un autre guide. Ce skill n'a pas vocation à filtrer avant l'interlocuteur — seulement à l'aider à voir clair, pas à décider à sa place. La règle qui suit sert donc à **étiqueter**, jamais à **exclure**.
+
+Pour chaque exemple, vérifier s'il passe au moins un de ces quatre filtres :
 * Il touche au corps, à la santé physique ou mentale vécue.
 * Il touche à une relation — de couple, familiale, amicale, professionnelle, à soi-même.
 * Il touche à une émotion ou à un mécanisme psychologique documenté par la recherche.
 * Il s'inscrit dans une transition ou une étape de vie qui reconfigure ces trois éléments.
 
-Un sujet qui ne passe aucun de ces quatre filtres (ex : optimisation de la productivité pure sans dimension relationnelle ou émotionnelle, guide purement technique ou financier sans lien avec le vécu personnel, sujet de loisir sans ancrage relationnel ou émotionnel) est **hors périmètre** : ne pas l'inclure, même s'il correspond à un vrai trou de couverture ailleurs sur internet. Ce skill recommande des guides pour ce projet-ci, pas une liste neutre de tout ce qui manque au monde du contenu en ligne.
-
-Cas limite fréquent : un sujet à la fois pratique et relationnel (ex : « argent et rapport à soi », « travail et identité ») reste dans le thème tant que l'angle choisi est le vécu et la relation à soi ou aux autres, pas le guide pratique pur (comment investir, comment négocier techniquement) — ce dernier registre existe déjà ailleurs sur internet en abondance et n'a pas la valeur ajoutée que ce projet apporte.
+Un sujet qui ne passe aucun des quatre reste dans la grille et dans les exemples, mais est marqué **(cœur de thème)** ou **(périphérique)** à côté de son nom, pour que l'interlocuteur voie l'écart d'un coup d'œil sans que la suggestion disparaisse. Un sujet périphérique gardé dans la liste finale mérite, si possible, d'être relié à un angle qui le ramène vers le corps, la relation ou l'émotion plutôt que d'être traité comme un guide pratique pur — mais ce lien reste une suggestion, pas une condition d'inclusion.
 
 ## Élicitation en pratique
 
@@ -264,10 +264,11 @@ Ne jamais écrire cette section dans un guide publié, une notion, ou tout autre
 * Dérouler l'élicitation de ce skill puis enchaîner directement sur l'écriture d'un guide dans la même réponse : cette bascule doit être un choix explicite de l'interlocuteur, jamais un enchaînement automatique.
 * Rendre une famille plus courte que 10 exemples, ou les deux exemples plus courts que 30 items, par souci de concision — la valeur de l'exercice est justement dans l'exhaustivité (160 suggestions), comme dans `Faiseur2Guide`.
 * Oublier de vérifier les fichiers `Chantier - *.md` et `Ce qu'il faut faire.md` avant de recommander : un chantier déjà identifié ailleurs ne doit jamais ressortir comme une découverte de ce skill.
-* Laisser dériver la grille ou les exemples hors du thème du projet (productivité pure, finance technique, loisir sans ancrage relationnel ou émotionnel) — voir « Rester dans le thème et l'esprit de Comprendre pour tous » : chaque suggestion doit passer au moins un des quatre filtres avant d'être écrite, pas après coup.
+* Écarter silencieusement un sujet périphérique plutôt que de le garder étiqueté — voir « Rester dans le thème et l'esprit de Comprendre pour tous » : ce skill marque, il ne filtre pas. Une suggestion qui ne passe aucun des quatre filtres reste dans la liste, simplement annotée.
 * Écrire dans `Ce qu'il faut faire.md` avant que l'interlocuteur ait explicitement validé une liste — ce fichier n'est pas un brouillon pour y jeter les 160 suggestions brutes.
 
 ## Historique
 
+* 21 septembre 2026 (v3) — la règle thématique passe d'un filtre d'exclusion à un simple étiquetage : plus aucun sujet n'est écarté de la grille ou des exemples, un sujet qui ne passe aucun des quatre filtres est marqué « (périphérique) » plutôt que supprimé. Origine : retour explicite que certains sujets périphériques peuvent s'avérer utiles et ne doivent pas être perdus d'office.
 * 21 septembre 2026 (v2) — chaque famille de la grille passe de trois exemples en une phrase à virgules à exactement 10 exemples numérotés, portant le total à 160 suggestions (10×10 + 2×30) ; ajout de la section « Rester dans le thème et l'esprit de Comprendre pour tous » avec quatre filtres explicites (corps, relation, émotion/psychologie, transition de vie qui reconfigure les trois) pour empêcher la dérive vers du développement personnel générique ; ajout de l'étape de consignation dans `Ce qu'il faut faire.md` une fois la liste validée par l'interlocuteur, jamais avant. Origine : demande explicite de densifier la grille (10 exemples par famille), de loger les résultats validés dans le suivi du projet, et de garder les suggestions ancrées dans le thème du projet plutôt que de dériver vers n'importe quel sujet de développement personnel.
 * 21 septembre 2026 (v1) — création du skill, par extraction et adaptation de la méthode d'élicitation de `Faiseur2Guide` (grille de familles, inventaire, deux exemples très développés), appliquée au niveau du guide entier plutôt qu'à l'angle d'un guide déjà choisi. Origine : demande explicite de disposer d'un outil dédié à la recommandation de nouveaux guides pour continuer à enrichir la collection, plutôt que de ne travailler qu'à l'étoffement des guides déjà existants.
