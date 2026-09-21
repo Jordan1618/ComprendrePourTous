@@ -1,6 +1,6 @@
 ---
 name: recommandeurdeguides
-description: Recommande de nouveaux guides à ajouter à la collection "Comprendre pour tous", par la même méthode d'élicitation que Faiseur2Guide (grille de familles, inventaire du dépôt, deux exemples très développés), appliquée non plus aux angles d'un guide mais aux guides eux-mêmes.
+description: Recommande de nouveaux guides à ajouter à la collection "Comprendre pour tous", par la même méthode d'élicitation que Faiseur2Guide (grille de 10 familles × 10 exemples, inventaire du dépôt, deux exemples très développés de 30, soit 160 suggestions), toujours ancrées dans le thème du projet (corps, émotions, relations), et consigne la liste validée dans Ce qu'il faut faire.md.
 ---
 
 Recommandeur de guides
@@ -22,20 +22,138 @@ Avant de proposer quoi que ce soit, parcourir réellement l'état actuel du dép
 
 Cet inventaire sert à distinguer, pour chaque idée de guide envisagée, trois cas : **trou réel** (rien dans la collection ne l'aborde), **sous-développé** (un chapitre isolé existe quelque part mais le sujet mériterait son propre guide), **déjà couvert** (à écarter, ou à proposer comme enrichissement d'un guide existant plutôt que comme nouveau guide — dans ce cas, rediriger vers `Faiseur2Guide` directement, pas vers ce skill).
 
-## Grille des 10 familles de domaines candidats
+## Grille des 10 familles × 10 exemples
 
 Contrairement à la grille des 100 angles de `Faiseur2Guide` (qui répond à « sous quel angle traiter un sujet déjà choisi »), cette grille répond à « quel sujet, au niveau du guide entier, la collection ne traite-t-elle pas encore ». Toujours présenter les 10 familles en entier, jamais une sélection, dans le même message que l'inventaire et les deux exemples développés — jamais en différé, jamais après un premier tour de réponse.
 
-* **Corps et santé physique au quotidien** : sommeil, nutrition et rapport à la nourriture, douleur chronique, maladie grave et diagnostic, handicap et vie quotidienne, addictions (substances, comportementales), fatigue chronique, apparence et image corporelle hors contexte de couple, activité physique et santé mentale, médecine préventive et rapport au système de santé.
-* **Santé mentale et psychologie au-delà du couple** : troubles anxieux, TDAH adulte, dépression hors contexte de couple déjà traité, deuil et perte (au sens large, pas seulement amoureux), traumatismes et résilience, thérapie — comment choisir et en attendre quoi, estime de soi et perfectionnisme, procrastination et motivation, solitude choisie ou subie, hypersensibilité et charge émotionnelle.
-* **Argent, travail et carrière** : finances personnelles et rapport à l'argent, choix de carrière et reconversion, chômage et rebond professionnel, entrepreneuriat et risque, épuisement professionnel, négociation salariale, retraite et fin de vie active, précarité et sécurité matérielle, ambition et rapport à la réussite, travail et identité.
-* **Parentalité et enfance** : devenir parent (grossesse à la naissance, hors physiologie déjà couverte), parentalité au quotidien enfant par enfant (pas seulement recomposée), adolescence vue par les parents, enfance à besoins particuliers, fratrie et rivalité, parentalité solo, grands-parents et transmission, discipline et autorité, enfant et écrans au quotidien, deuil périnatal.
-* **Relations hors couple** : amitié à l'âge adulte, voisinage et communauté, solitude et isolement social, réseau de soutien en cas de crise, relations intergénérationnelles hors famille, collègues et relations professionnelles, mentorat, rupture amicale, vie sociale après un déménagement, appartenance à un groupe ou une communauté.
-* **Étapes et transitions de vie** : adolescence vécue de l'intérieur, entrée dans l'âge adulte, milieu de vie et crise de sens, vieillissement et rapport au temps qui passe, fin de vie et accompagnement, deuil au sens large (parent, ami, animal), reconversion existentielle, déménagement et déracinement, retour après une longue absence (prison, maladie, expatriation), transitions de genre.
-* **Corps, identité et minorités** : vécu LGBTQ+ au quotidien, neurodivergence à l'âge adulte (autisme, TDAH, dys), handicap visible et invisible, minorités culturelles et religieuses en France, racisme et discrimination vécus, grossophobie et rapport au corps hors norme, identité multiple et biculturalité, personnes intersexes, vieillissement des minorités, passing et charge de la visibilité.
-* **Société, monde et engagement** : écoanxiété et engagement écologique, engagement citoyen et bénévolat, rapport à l'actualité et surcharge informationnelle, argent et justice sociale, migration et vie d'expatrié, rapport à la loi et au système judiciaire au quotidien, désinformation et esprit critique, guerre et conflits vécus à distance, consommation et éthique personnelle, communautés en ligne au-delà des réseaux sociaux déjà traités.
-* **Esprit, sens et croissance personnelle** : spiritualité sans dogme, philosophie de vie au quotidien, créativité et blocage créatif, apprentissage tout au long de la vie, rapport au temps et à la productivité, développement personnel — trier le solide du marketing (angle déjà amorcé dans Questions et communication, à prolonger), rapport à l'échec, curiosité et émerveillement à l'âge adulte, rituels personnels hors couple, rapport à la mort et à la finitude.
-* **Culture, loisirs et corps en mouvement** : sport amateur et santé mentale, voyage et transformation personnelle, jeu et jeu vidéo à l'âge adulte, art comme pratique thérapeutique, musique et régulation émotionnelle, lecture et rapport à la fiction, cuisine et rapport à la maison, animaux de compagnie et lien affectif, humour et santé mentale, rapport au silence et à la lenteur.
+**Chaque famille doit être développée en exactement 10 exemples de guides candidats, numérotés**, jamais une liste condensée en une phrase à virgules : c'est ce qui fait passer la grille de 10 titres de famille à 100 candidats réels et comparables un par un. Avec les deux exemples très développés plus bas (30 chacun), le brainstorm complet atteint **10 × 10 + 2 × 30 = 160 suggestions**. Un nombre volontairement élevé : l'objectif de cette étape est de balayer large, le tri sévère vient après, à la section « Sortie attendue ».
+
+Chaque exemple, dans chacune des familles ci-dessous, doit rester dans le thème et l'esprit du projet — voir la section « Rester dans le thème » juste après la grille avant de la dérouler.
+
+* **Corps et santé physique au quotidien**
+  1. Le sommeil
+  2. Nutrition et rapport à la nourriture
+  3. Douleur chronique
+  4. Maladie grave et diagnostic
+  5. Handicap et vie quotidienne
+  6. Addictions (substances, comportementales)
+  7. Fatigue chronique
+  8. Apparence et image corporelle hors contexte de couple
+  9. Activité physique et santé mentale
+  10. Médecine préventive et rapport au système de santé
+* **Santé mentale et psychologie au-delà du couple**
+  1. Troubles anxieux
+  2. TDAH adulte
+  3. Dépression hors contexte de couple déjà traité
+  4. Deuil et perte, au sens large
+  5. Traumatismes et résilience
+  6. Thérapie : comment choisir et en attendre quoi
+  7. Estime de soi et perfectionnisme
+  8. Procrastination et motivation
+  9. Solitude choisie ou subie
+  10. Hypersensibilité et charge émotionnelle
+* **Argent, travail et carrière**
+  1. Finances personnelles et rapport à l'argent
+  2. Choix de carrière et reconversion
+  3. Chômage et rebond professionnel
+  4. Entrepreneuriat et risque
+  5. Épuisement professionnel
+  6. Négociation salariale
+  7. Retraite et fin de vie active
+  8. Précarité et sécurité matérielle
+  9. Ambition et rapport à la réussite
+  10. Travail et identité
+* **Parentalité et enfance**
+  1. Devenir parent (grossesse à la naissance, hors physiologie déjà couverte)
+  2. Parentalité au quotidien enfant par enfant (pas seulement recomposée)
+  3. Adolescence vue par les parents
+  4. Enfance à besoins particuliers
+  5. Fratrie et rivalité
+  6. Parentalité solo
+  7. Grands-parents et transmission
+  8. Discipline et autorité
+  9. Enfant et écrans au quotidien
+  10. Deuil périnatal
+* **Relations hors couple**
+  1. Amitié à l'âge adulte
+  2. Voisinage et communauté
+  3. Solitude et isolement social
+  4. Réseau de soutien en cas de crise
+  5. Relations intergénérationnelles hors famille
+  6. Collègues et relations professionnelles
+  7. Mentorat
+  8. Rupture amicale
+  9. Vie sociale après un déménagement
+  10. Appartenance à un groupe ou une communauté
+* **Étapes et transitions de vie**
+  1. Adolescence vécue de l'intérieur
+  2. Entrée dans l'âge adulte
+  3. Milieu de vie et crise de sens
+  4. Vieillissement et rapport au temps qui passe
+  5. Fin de vie et accompagnement
+  6. Deuil au sens large (parent, ami, animal)
+  7. Reconversion existentielle
+  8. Déménagement et déracinement
+  9. Retour après une longue absence (prison, maladie, expatriation)
+  10. Transitions de genre
+* **Corps, identité et minorités**
+  1. Vécu LGBTQ+ au quotidien
+  2. Neurodivergence à l'âge adulte (autisme, TDAH, dys)
+  3. Handicap visible et invisible
+  4. Minorités culturelles et religieuses en France
+  5. Racisme et discrimination vécus
+  6. Grossophobie et rapport au corps hors norme
+  7. Identité multiple et biculturalité
+  8. Personnes intersexes
+  9. Vieillissement des minorités
+  10. Passing et charge de la visibilité
+* **Société, monde et engagement**
+  1. Écoanxiété et engagement écologique
+  2. Engagement citoyen et bénévolat
+  3. Rapport à l'actualité et surcharge informationnelle
+  4. Argent et justice sociale
+  5. Migration et vie d'expatrié
+  6. Rapport à la loi et au système judiciaire au quotidien
+  7. Désinformation et esprit critique
+  8. Guerre et conflits vécus à distance
+  9. Consommation et éthique personnelle
+  10. Communautés en ligne au-delà des réseaux sociaux déjà traités
+* **Esprit, sens et croissance personnelle**
+  1. Spiritualité sans dogme
+  2. Philosophie de vie au quotidien
+  3. Créativité et blocage créatif
+  4. Apprentissage tout au long de la vie
+  5. Rapport au temps et à la productivité
+  6. Développement personnel : trier le solide du marketing (déjà amorcé au chapitre 23 de Questions et communication, à prolonger)
+  7. Rapport à l'échec
+  8. Curiosité et émerveillement à l'âge adulte
+  9. Rituels personnels hors couple
+  10. Rapport à la mort et à la finitude
+* **Culture, loisirs et corps en mouvement**
+  1. Sport amateur et santé mentale
+  2. Voyage et transformation personnelle
+  3. Jeu et jeu vidéo à l'âge adulte
+  4. Art comme pratique thérapeutique
+  5. Musique et régulation émotionnelle
+  6. Lecture et rapport à la fiction
+  7. Cuisine et rapport à la maison
+  8. Animaux de compagnie et lien affectif
+  9. Humour et santé mentale
+  10. Rapport au silence et à la lenteur
+
+## Rester dans le thème et l'esprit de Comprendre pour tous
+
+Ce skill balaie large volontairement, mais la collection n'est pas un projet de développement personnel généraliste : c'est, selon les mots de son propre README, un projet sur **« le corps, les émotions, l'esprit : construire et vivre ses relations pour de vrai »**, né d'un manque d'éducation affective et relationnelle et d'un rejet explicite du développement personnel superficiel non sourcé.
+
+Concrètement, avant d'inclure un exemple dans la grille ou dans un des deux exemples développés, vérifier qu'il passe au moins un de ces filtres :
+* Il touche au corps, à la santé physique ou mentale vécue.
+* Il touche à une relation — de couple, familiale, amicale, professionnelle, à soi-même.
+* Il touche à une émotion ou à un mécanisme psychologique documenté par la recherche.
+* Il s'inscrit dans une transition ou une étape de vie qui reconfigure ces trois éléments.
+
+Un sujet qui ne passe aucun de ces quatre filtres (ex : optimisation de la productivité pure sans dimension relationnelle ou émotionnelle, guide purement technique ou financier sans lien avec le vécu personnel, sujet de loisir sans ancrage relationnel ou émotionnel) est **hors périmètre** : ne pas l'inclure, même s'il correspond à un vrai trou de couverture ailleurs sur internet. Ce skill recommande des guides pour ce projet-ci, pas une liste neutre de tout ce qui manque au monde du contenu en ligne.
+
+Cas limite fréquent : un sujet à la fois pratique et relationnel (ex : « argent et rapport à soi », « travail et identité ») reste dans le thème tant que l'angle choisi est le vécu et la relation à soi ou aux autres, pas le guide pratique pur (comment investir, comment négocier techniquement) — ce dernier registre existe déjà ailleurs sur internet en abondance et n'a pas la valeur ajoutée que ce projet apporte.
 
 ## Élicitation en pratique
 
@@ -121,21 +239,35 @@ Toujours produits en entier dans la conversation, jamais condensés, jamais rés
 
 ## Sortie attendue de ce skill
 
-Une fois l'élicitation faite et les familles/exemples présentés, produire dans la conversation :
+Une fois l'élicitation faite et les familles/exemples présentés (160 suggestions au total), produire dans la conversation :
 
-1. Une liste courte (5 à 10 guides) réellement recommandée pour la suite, pas les 60 exemples en entier — les deux exemples servent à montrer l'étendue du champ, pas à devenir la todo-list finale.
+1. Une liste courte (5 à 10 guides) réellement recommandée pour la suite, pas les 160 suggestions en entier — la grille et les deux exemples servent à montrer l'étendue du champ, pas à devenir la todo-list finale.
 2. Pour chaque guide recommandé : son statut (trou réel / sous-développé), sa famille de rattachement, les guides existants avec lesquels il faudra poser des renvois croisés dès l'écriture, et une estimation de la disponibilité probable de sources scientifiques (élevée / moyenne / incertaine — jamais une promesse ferme avant recherche réelle).
 3. Une proposition d'ordre de traitement, avec la raison du choix (trou réel avant sous-développé, demande transversale avant sujet de niche, disponibilité des sources).
-4. Rien de plus : pas de plan de chapitres, pas de rédaction, pas de sous-thèmes détaillés au-delà de ceux déjà donnés en exemple — cette étape-là revient à `Faiseur2Guide`, guide par guide, au moment choisi par l'interlocuteur.
+4. Rien de plus à ce stade : pas de plan de chapitres, pas de rédaction, pas de sous-thèmes détaillés au-delà de ceux déjà donnés en exemple — cette étape-là revient à `Faiseur2Guide`, guide par guide, au moment choisi par l'interlocuteur.
+
+### Une fois la liste validée par l'interlocuteur
+
+Ne jamais consigner quoi que ce soit avant validation explicite — cette étape n'est pas automatique, elle suit un accord donné dans la conversation, comme n'importe quel ajout à `5 - Notes Internes/Ce qu'il faut faire.md`.
+
+Après validation, ajouter dans `5 - Notes Internes/Ce qu'il faut faire.md` une nouvelle section numérotée à la suite des sections existantes (ne jamais renuméroter les sections déjà en place), avec :
+* La liste des guides validés, chacun avec son statut, sa famille, les renvois croisés prévus et l'estimation de disponibilité des sources — reprise telle quelle de la sortie du point précédent, pas résumée.
+* La date de la recommandation et un rappel d'une phrase de son origine (ce fichier n'est pas publié, une date et un contexte bref y sont donc légitimes, contrairement au contenu des guides eux-mêmes).
+* Aucun engagement de calendrier ni de session qui l'exécutera : ce fichier liste ce qu'il reste à faire, pas quand ni par qui.
+
+Ne jamais écrire cette section dans un guide publié, une notion, ou tout autre dossier consultable : c'est strictement un ajout à `Ce qu'il faut faire.md`, au même titre que les autres chantiers qui y sont déjà listés.
 
 ## Ce qu'il faut éviter
 
 * Halluciner qu'un sujet est un « trou réel » sans avoir vérifié l'inventaire — toujours grep/lire avant d'affirmer une absence.
 * Recommander un guide qui recoupe fortement un guide existant sans le signaler comme tel et sans proposer l'alternative de l'enrichir plutôt que d'en créer un nouveau.
 * Dérouler l'élicitation de ce skill puis enchaîner directement sur l'écriture d'un guide dans la même réponse : cette bascule doit être un choix explicite de l'interlocuteur, jamais un enchaînement automatique.
-* Rendre les deux exemples plus courts que 30 items par souci de concision — la valeur de l'exercice est justement dans l'exhaustivité, comme dans `Faiseur2Guide`.
+* Rendre une famille plus courte que 10 exemples, ou les deux exemples plus courts que 30 items, par souci de concision — la valeur de l'exercice est justement dans l'exhaustivité (160 suggestions), comme dans `Faiseur2Guide`.
 * Oublier de vérifier les fichiers `Chantier - *.md` et `Ce qu'il faut faire.md` avant de recommander : un chantier déjà identifié ailleurs ne doit jamais ressortir comme une découverte de ce skill.
+* Laisser dériver la grille ou les exemples hors du thème du projet (productivité pure, finance technique, loisir sans ancrage relationnel ou émotionnel) — voir « Rester dans le thème et l'esprit de Comprendre pour tous » : chaque suggestion doit passer au moins un des quatre filtres avant d'être écrite, pas après coup.
+* Écrire dans `Ce qu'il faut faire.md` avant que l'interlocuteur ait explicitement validé une liste — ce fichier n'est pas un brouillon pour y jeter les 160 suggestions brutes.
 
 ## Historique
 
+* 21 septembre 2026 (v2) — chaque famille de la grille passe de trois exemples en une phrase à virgules à exactement 10 exemples numérotés, portant le total à 160 suggestions (10×10 + 2×30) ; ajout de la section « Rester dans le thème et l'esprit de Comprendre pour tous » avec quatre filtres explicites (corps, relation, émotion/psychologie, transition de vie qui reconfigure les trois) pour empêcher la dérive vers du développement personnel générique ; ajout de l'étape de consignation dans `Ce qu'il faut faire.md` une fois la liste validée par l'interlocuteur, jamais avant. Origine : demande explicite de densifier la grille (10 exemples par famille), de loger les résultats validés dans le suivi du projet, et de garder les suggestions ancrées dans le thème du projet plutôt que de dériver vers n'importe quel sujet de développement personnel.
 * 21 septembre 2026 (v1) — création du skill, par extraction et adaptation de la méthode d'élicitation de `Faiseur2Guide` (grille de familles, inventaire, deux exemples très développés), appliquée au niveau du guide entier plutôt qu'à l'angle d'un guide déjà choisi. Origine : demande explicite de disposer d'un outil dédié à la recommandation de nouveaux guides pour continuer à enrichir la collection, plutôt que de ne travailler qu'à l'étoffement des guides déjà existants.
