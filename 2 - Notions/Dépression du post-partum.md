@@ -18,3 +18,4 @@ Elle concerne aussi les pères et les conjoints, dans des proportions moindres m
 **Où c'est développé**
 - [Accouchement et post-partum](<../1 - Guides/Pour Elle/11 - Accouchement et post-partum.md>).
 - [La dépression féminine](<../1 - Guides/Pour Elle/05 - La depression feminine.md>).
+- [Fertilité, grossesse et paternité](<../1 - Guides/Pour Lui/37 - Fertilite grossesse et paternite.md>), sur la dépression post-partum paternelle : prévalence (8,75 % en moyenne, jusqu'à 25,6 % entre 3 et 6 mois) et facteurs de risque.

@@ -111,3 +111,35 @@ Sources du guide [Pour Lui](<../1 - Guides/Pour Lui/README.md>), classées par t
 | van Anders, S. & Watson, N. (2006), [Social neuroendocrinology: effects of social contexts and behaviors on sex steroids in humans](https://link.springer.com/article/10.1007/s12110-006-1018-7), *Human Nature* | Neuroendocrinologie sociale | 3.2 |
 | van der Kolk, B. (2014), [The Body Keeps the Score](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952), *Viking* | Mémoire corporelle du trauma | 11.5 |
 
+## Chapitres 36-39 (troubles masculins, fertilité, modernité, peurs)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [Hypogonadism and Cryptorchidism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/), *PMC* | Cryptorchidie, prévalence et risques associés | 36.1 |
+| [Impact of varicocele on testicular volume and sperm parameters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405070/), *PMC* | Varicocèle et fertilité | 36.1 |
+| Fondation ARC, [Le cancer du testicule](https://www.fondation-arc.org/cancer/cancer-testicule) | Chiffres France, autopalpation | 36.2 |
+| Santé.fr, [Hypertrophie bénigne de la prostate (HBP)](https://www.sante.fr/hypertrophie-benigne-de-la-prostate-hbp) | Prévalence par âge | 36.3 |
+| CHU de Lyon, [Hypertrophie bénigne de prostate](https://www.chu-lyon.fr/hypertrophie-benigne-de-prostate-adenome-de-prostate) | Chiffres France, symptômes | 36.3 |
+| Fondation pour la Recherche Médicale, [Infertilité : 1 couple sur 4 concerné en France](https://www.frm.org/fr/maladies/recherches-autres-maladies/infertilite/focus-infertilite) | Répartition des causes d'infertilité | 36.4 |
+| Deuxième Avis, [Infertilité masculine inexpliquée](https://www.deuxiemeavis.fr/blog/article/832-qu-est-ce-que-l-infertilite-masculine-inexpliquee) | Causes, spermogramme | 36.4 |
+| Andrologie Paris, [Maladie de Lapeyronie](https://www.andrologie-paris.fr/pathologies/maladie-de-lapeyronie/) | Prévalence, évolution, traitement | 36.5 |
+| The Conversation, [Oui, messieurs, la fertilité masculine décline aussi avec l'âge](https://theconversation.com/oui-messieurs-la-fertilite-masculine-decline-aussi-avec-lage-191911) | Déclin de la testostérone dès 30 ans | 37.1 |
+| Slate.fr, [Messieurs, votre fertilité aussi décline avec l'âge](https://www.slate.fr/story/235484/fertilite-masculine-declin-horloge-biologique-reproduction-age-hommes-mode-vie) | Fertilité divisée par deux après 40 ans | 37.1 |
+| Neurosphinx, [Les conséquences de l'âge chez les pères](https://neurosphinx.fr/en/les-consequences-de-lage-chez-les-peres-sur-la-fertilite-et-la-sante-des-enfants-4/) | Mutations génétiques transmises selon l'âge paternel | 37.1 |
+| France Info, [Autisme, schizophrénie : une paternité tardive augmenterait les risques](https://www.franceinfo.fr/sante/maladie/autisme-schizophrenie-une-paternite-tardive-augmenterait-les-risques_1624939.html) | Risques statistiques liés à l'âge paternel | 37.1 |
+| Naître et grandir, [Le syndrome de la couvade](https://naitreetgrandir.com/fr/grossesse/trimestre1/grossesse-pere-symptomes-syndrome-couvade/) | Prévalence et symptômes chez le futur père | 37.2 |
+| [Prevalence of prenatal and postpartum depression in fathers](https://pubmed.ncbi.nlm.nih.gov/31757623/), *PubMed*, méta-analyse | Dépression post-partum paternelle | 37.3 |
+| Radio-Canada, [Influenceurs et masculinité toxique](https://ici.radio-canada.ca/jeunesse/parents/accueil-parents/document/nouvelles/article/2060622/influenceurs-masculinite-toxique-mysoginie-conseils) | Stratégie d'entrée de la manosphère | 38.1 |
+| France Info La 1ère, [Comment les discours masculinistes séduisent les jeunes](https://la1ere.franceinfo.fr/saintpierremiquelon/comment-les-discours-masculinistes-seduisent-et-gagnent-du-terrain-chez-les-jeunes-sur-les-reseaux-sociaux-1590501.html) | Rôle des algorithmes | 38.1 |
+| [Performing masculinity, influencing health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3776322/), *PMC* | Impact santé mentale des clichés de masculinité | 38.2 |
+| Keck Medicine of USC, [Are testosterone-boosting supplements effective?](https://hscnews.usc.edu/are-testosterone-boosting-supplements-effective-not-likely-according-to-new-research) | Inefficacité des boosters de testostérone | 38.3 |
+| [Testosterone boosters: misleading labelling claims](https://pmc.ncbi.nlm.nih.gov/articles/PMC9924584/), *PMC* | Allégations trompeuses, risques | 38.3 |
+| Radio-Canada, [Bigorexie](https://ici.radio-canada.ca/nouvelle/2225458/bigorexie-musculation-jeunes-hommes) | Définition, symptômes | 38.4 |
+| Ganson et coll. (2025), [Prevalence and correlates of muscle dysmorphia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11916914/), *PMC* | Prévalence chez 15-35 ans | 38.4 |
+| Onebright, [Almost 60% of men Avoid Sex Due to Performance Anxiety](https://onebright.com/advice-hub/news/almost-60-of-men-avoid-sex-due-to-performance-anxiety/) | Prévalence de l'anxiété de performance | 39.1 |
+| [Erectile Dysfunction in Young Adults: A Narrative Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12349891/), *PMC* | Prévalence chez les moins de 40 ans | 39.1 |
+| HealthScope Magazine, [Suffering in Silence](https://healthscopemag.com/health/suffering-in-silence/) | Attentes sur le rôle de pourvoyeur | 39.2 |
+| Live Science, [Breadwinner Men May Have More Money, But Poorer Health](https://www.livescience.com/55838-men-breadwinners-are-anxious.html) | Santé et anxiété des pourvoyeurs | 39.2 |
+| Texas Health Resources, [Study Reveals Men Will Do Almost Anything to Avoid the Doctor](https://www.texashealth.org/areyouawellbeing/Mens-Health/Study-Reveals-Men-Will-Do-Almost-Anything-to-Avoid-the-Doctor) | Évitement médical, chiffres | 39.3 |
+| Men Psychology, [Why Men Avoid Going to the Doctor](https://menpsychology.com/why-men-avoid-going-to-the-doctor/) | Mécanisme identitaire de l'évitement | 39.3 |
+

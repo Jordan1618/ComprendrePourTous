@@ -50,6 +50,10 @@ Ce qui concerne le corps et le fonctionnement féminins. À lire pour se compren
 - [Ressources et associations utiles](<../1 - Guides/Pour Elle/33 - Ressources et associations.md>)  `repères`
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/34 - Glossaire des termes médicaux.md>)  `repères`
 - [Les conflits entre femmes](<../1 - Guides/Pour Elle/35 - Les conflits entre femmes.md>)  `relation`
+- [Le substrat : analyse neuro-psychologique féminine](<../1 - Guides/Pour Elle/36 - Le substrat neuro-psychologique feminin.md>)  `psychologie`
+- [Le désir féminin dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Elle/37 - Le desir feminin dans la duree.md>)  `relation`
+- [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<../1 - Guides/Pour Elle/38 - Les reproches recurrents.md>)  `relation`
+- [Le dilemme féminin contemporain](<../1 - Guides/Pour Elle/39 - Le dilemme feminin contemporain.md>)  `psychologie`
 
 ## Corps masculin
 
@@ -91,6 +95,8 @@ Ce qui concerne le corps et le fonctionnement masculins. À lire pour se compren
 - [Foire aux questions rapides](<../1 - Guides/Pour Lui/32 - Foire aux questions.md>)  `pratique`
 - [Ressources et associations utiles](<../1 - Guides/Pour Lui/33 - Ressources et associations.md>)  `repères`
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Lui/34 - Glossaire des termes médicaux.md>)  `repères`
+- [Troubles et pathologies masculines](<../1 - Guides/Pour Lui/36 - Troubles et pathologies masculines.md>)  `prévention`
+- [Fertilité, grossesse et paternité](<../1 - Guides/Pour Lui/37 - Fertilite grossesse et paternite.md>)  `repères`
 
 ## Commun
 

@@ -2,9 +2,9 @@
 type: "guide-complet"
 guide: "Pour Lui"
 sujet: "corps masculin"
-chapitres: 34
-mots: 65638
-verifie_le: 2026-08-11
+chapitres: 38
+mots: 71079
+verifie_le: 2026-09-21
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
 genere_le: 2026-09-21
@@ -60,6 +60,10 @@ C'est le miroir exact du guide sur le cycle féminin. Là où l'un explique un c
 - **32.** Foire aux questions rapides
 - **33.** Ressources et associations utiles
 - **34.** Glossaire complet des termes médicaux employés dans ce document
+- **36.** Troubles et pathologies masculines
+- **37.** Fertilité, grossesse et paternité
+- **38.** Les pièges de la modernité masculine
+- **39.** Les peurs masculines, rationnelles ou non
 
 ---
 
@@ -3038,3 +3042,231 @@ Un glossaire pour s'y retrouver rapidement, dans l'ordre alphabétique, sans avo
 - **Testostérone** : hormone stéroïdienne centrale dans le développement et le fonctionnement masculins, dont le rôle réel dans l'agressivité est plus nuancé que le cliché courant ([8.1](<../1 - Guides/Pour Lui/08 - Le corps masculin.md>)).
 - **Trouble dysphorique prémenstruel (TDPM)** : mentionné ici en tant que sujet à connaître pour comprendre une partenaire concernée, développé du point de vue féminin dans le guide Pour Elle.
 - **Vasectomie** : intervention chirurgicale de stérilisation masculine, sectionnant les canaux déférents, sans effet démontré sur le désir ou le plaisir ([9.3](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>)).
+
+---
+
+## 36. Troubles et pathologies masculines
+
+Le chapitre 8 de ce guide a décrit le corps masculin dans ses grandes lignes. Celui-ci va plus loin, sur un terrain rarement abordé sans gêne : les pathologies génitales et urinaires propres aux hommes, de l'enfance à la vieillesse — leur fréquence réelle, leurs signaux, et pourquoi le dépistage repose largement sur l'auto-observation plutôt que sur un examen systématique.
+
+### 36.1 La cryptorchidie et la varicocèle : deux anomalies fréquentes, souvent silencieuses
+
+[La prévalence de la cryptorchidie (un ou deux testicules non descendus) à la naissance chez les garçons de poids normal se situe entre 1,8 et 8,4 % ; elle redescend à 0,9-1,6 % à 3 mois et 1,0-1,5 % à un an, une partie des cas se corrigeant spontanément dans les premiers mois de vie](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/). Cette anomalie n'est pas seulement cosmétique : [la cryptorchidie peut être associée à l'infertilité, à l'hypogonadisme et à un risque secondaire de cancer du testicule à l'âge adulte ; elle est plus fréquente chez les garçons porteurs d'un hypogonadisme congénital, et les données montrent qu'elle est associée à une production réduite d'hormones testiculaires et à une altération du fonctionnement des cellules de Sertoli](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/) — ce qui explique pourquoi un dépistage précoce, dès la petite enfance, reste recommandé plutôt que reporté.
+
+La varicocèle, une dilatation des veines du cordon spermatique, touche une population différente mais tout aussi large : [son incidence atteint 20 à 40 % dans la population hypofertile](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405070/), ce qui en fait l'une des causes les plus fréquentes d'infertilité masculine réversible par la chirurgie.
+
+**Bons réflexes.**
+- Ne jamais minimiser un diagnostic de cryptorchidie chez un jeune enfant : un suivi et, si besoin, une correction précoce réduisent le risque à long terme sur la fertilité et le cancer.
+- Face à une gêne ou une sensation de lourdeur scrotale persistante à l'âge adulte, consulter plutôt que d'attendre : la varicocèle se traite, et son impact sur la fertilité est réversible dans une bonne partie des cas.
+
+### 36.2 Le cancer du testicule : rare, mais le plus fréquent chez l'homme jeune
+
+Un point mérite d'être connu avant tout : ce cancer touche une tranche d'âge où l'on se sent, en général, à l'abri de toute pathologie sérieuse. [Le cancer des testicules est le cancer le plus fréquent chez les hommes de 15 à 35 ans en France, touchant 2 300 hommes par an, soit environ 1 à 2 % des cancers masculins](https://www.fondation-arc.org/cancer/cancer-testicule). [Son incidence a régulièrement progressé entre 1990 et 2018, passant de 4,3 à 8,7 cas pour 100 000 hommes ; dans le même temps, la mortalité a été divisée par deux, passant de 0,4 à 0,2 pour 100 000](https://www.fondation-arc.org/cancer/cancer-testicule) — une hausse des cas diagnostiqués qui s'accompagne d'une nette amélioration de la prise en charge, pas d'une aggravation du pronostic.
+
+Le pronostic, justement, est l'un des meilleurs de toute l'oncologie quand le cancer est pris à temps : [la survie nette standardisée atteint 93 % à 5 ans pour un diagnostic posé entre 2010 et 2015](https://www.fondation-arc.org/cancer/cancer-testicule). Ce résultat dépend directement d'une détection précoce, largement entre les mains du patient lui-même : [il n'existe pas de dépistage organisé à proprement parler ; l'autopalpation est recommandée, et 90 % des cancers testiculaires sont découverts par les patients eux-mêmes](https://www.fondation-arc.org/cancer/cancer-testicule). [Trois signes doivent conduire à consulter rapidement : une masse dure et indolore détectée à la palpation dans l'un des testicules, une augmentation du volume d'une bourse, et une sensation de pesanteur ou de gêne scrotale](https://www.fondation-arc.org/cancer/cancer-testicule).
+
+**Bons réflexes.**
+- Pratiquer une autopalpation régulière, simple et rapide, en particulier entre 15 et 35 ans : c'est le moyen de dépistage le plus efficace disponible aujourd'hui.
+- Consulter sans délai devant une masse indolore ou un changement de volume d'un testicule — l'absence de douleur n'est pas un signe rassurant, c'est justement la présentation typique de ce cancer.
+- Retenir le taux de survie de 93 % à 5 ans : ce diagnostic, pris à temps, n'est presque jamais synonyme de pronostic sombre.
+
+### 36.3 L'hypertrophie bénigne de la prostate : une pathologie qui touche la majorité des hommes âgés
+
+[L'hyperplasie prostatique bénigne est l'une des maladies les plus communes chez les hommes, liée aux modifications physiologiques de la prostate avec l'âge](https://www.sante.fr/hypertrophie-benigne-de-la-prostate-hbp). Sa progression avec l'âge est spectaculaire : [la prévalence, la plus basse à 45-49 ans (2,7 %), grimpe à 24 % à 80 ans ; après 60 ans, 60 % des hommes souffrent de troubles de la prostate, un chiffre qui atteint 90 % après 85 ans](https://www.chu-lyon.fr/hypertrophie-benigne-de-prostate-adenome-de-prostate). [En France, près de 2 millions d'hommes présentent des troubles urinaires liés à cette pathologie, la moitié étant traitée médicalement ; environ 100 000 nouveaux hommes par an se plaignent de troubles urinaires pouvant y être associés](https://www.chu-lyon.fr/hypertrophie-benigne-de-prostate-adenome-de-prostate).
+
+Les symptômes restent souvent discrets avant de devenir gênants : [difficulté à uriner, besoin plus fréquent et plus urgent, et dans les cas avancés, un risque d'obstruction de l'urètre par une prostate devenue trop volumineuse](https://www.chu-lyon.fr/hypertrophie-benigne-de-prostate-adenome-de-prostate). Un point rassurant mérite d'être connu avant toute inquiétude excessive : [l'hypertrophie bénigne de la prostate ne provoque aucun symptôme chez deux tiers des hommes de plus de 50 ans](https://www.sante.fr/hypertrophie-benigne-de-la-prostate-hbp) — une pathologie extrêmement fréquente sur le plan anatomique, mais qui ne devient un problème vécu que pour une partie des hommes concernés.
+
+**Bons réflexes.**
+- Ne pas attendre une gêne sévère pour en parler à un médecin : des troubles urinaires même modérés après 50 ans méritent d'être évalués, la prise en charge précoce étant plus simple.
+- Se souvenir que l'hypertrophie bénigne de la prostate n'est, par définition, pas cancéreuse — un diagnostic qui inquiète souvent à tort par association avec le cancer de la prostate, une pathologie distincte.
+
+### 36.4 L'infertilité masculine : une cause sur quatre, rarement nommée en premier
+
+[En France, un couple sur huit consulte pour des problèmes de fertilité ; l'infertilité est d'origine masculine dans 25 % des cas, féminine dans 25 % des cas, et partagée par les deux partenaires dans 25 % des cas](https://www.frm.org/fr/maladies/recherches-autres-maladies/infertilite/focus-infertilite) — un chiffre qui contredit directement l'idée reçue selon laquelle l'infertilité serait, par défaut, un problème féminin. [Les principales causes d'infertilité masculine sont des anomalies de quantité ou de qualité du sperme : l'azoospermie (absence totale de spermatozoïdes), l'oligospermie (nombre très faible), la tératospermie (anomalies morphologiques) et l'asthénospermie (mobilité réduite)](https://www.deuxiemeavis.fr/blog/article/832-qu-est-ce-que-l-infertilite-masculine-inexpliquee).
+
+L'examen de référence reste simple et peu invasif : [le spermogramme, ou spermocytogramme, analyse le sperme pour caractériser le nombre, la mobilité et les anomalies de forme des spermatozoïdes](https://www.deuxiemeavis.fr/blog/article/832-qu-est-ce-que-l-infertilite-masculine-inexpliquee). Le bilan masculin fait partie intégrante de toute exploration de couple en parcours de PMA, pas une étape secondaire réservée au cas où le bilan féminin ne trouverait rien.
+
+**Bons réflexes.**
+- Systématiser le bilan masculin dès le début d'un parcours de fertilité en couple, au même titre que le bilan féminin — l'origine masculine est aussi fréquente que l'origine féminine.
+- Ne jamais vivre un diagnostic d'infertilité masculine comme une faute ou un tabou à cacher : c'est une pathologie médicale documentée, dans un quart des cas de couples concernés, pas un jugement sur sa virilité.
+
+### 36.5 La maladie de Lapeyronie : une déformation méconnue, rarement nommée
+
+Une dernière pathologie mérite d'être nommée, tant elle reste taboue alors qu'elle touche une part non négligeable des hommes adultes. [La maladie de Lapeyronie est une déformation du pénis caractérisée par des plaques de fibrose au niveau de l'enveloppe des corps caverneux, provoquant d'abord une douleur puis une courbure qui s'accentue, pouvant compromettre la pénétration](https://www.andrologie-paris.fr/pathologies/maladie-de-lapeyronie/). [Elle touche 3 à 9 % des hommes adultes, le plus souvent après 40 ans ; le risque augmente avec l'âge, atteignant environ 7 % après 50 ans](https://www.andrologie-paris.fr/pathologies/maladie-de-lapeyronie/).
+
+Son évolution suit un schéma précis, utile à connaître pour ne pas attendre inutilement avant de consulter : [la phase active dure généralement 6 à 18 mois avant que la maladie ne se stabilise ; une amélioration spontanée reste possible mais rare, dans moins de 15 % des cas](https://www.andrologie-paris.fr/pathologies/maladie-de-lapeyronie/). [Les traitements varient selon le stade, des approches locales (vacuum, injections) en phase active à la chirurgie (plicature, incision-greffe, implant pénien) une fois la plaque stabilisée ; les injections de PRP sont plus efficaces si elles sont administrées tôt, avant la constitution définitive de la plaque](https://www.andrologie-paris.fr/pathologies/maladie-de-lapeyronie/).
+
+**Bons réflexes.**
+- Consulter dès les premiers signes (douleur, début de courbure) plutôt que d'attendre la stabilisation : une prise en charge précoce, pendant la phase active, élargit les options thérapeutiques disponibles.
+- Ne pas rester seul avec cette question par gêne : c'est une pathologie médicale documentée et prise en charge, pas un sujet à taire par pudeur.
+
+## Sources vérifiables
+
+- [Hypogonadism and Cryptorchidism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/), *PMC* ; vérification du 21 septembre 2026.
+- [Impact of varicocele on testicular volume and sperm parameters](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405070/), *PMC* ; vérification du 21 septembre 2026.
+- Fondation ARC, [Le cancer du testicule](https://www.fondation-arc.org/cancer/cancer-testicule) ; vérification du 21 septembre 2026.
+- Santé.fr, [Hypertrophie bénigne de la prostate (HBP)](https://www.sante.fr/hypertrophie-benigne-de-la-prostate-hbp) ; vérification du 21 septembre 2026.
+- CHU de Lyon, [Hypertrophie bénigne de prostate (Adénome de prostate)](https://www.chu-lyon.fr/hypertrophie-benigne-de-prostate-adenome-de-prostate) ; vérification du 21 septembre 2026.
+- Fondation pour la Recherche Médicale, [Infertilité : 1 couple sur 4 concerné en France](https://www.frm.org/fr/maladies/recherches-autres-maladies/infertilite/focus-infertilite) ; vérification du 21 septembre 2026.
+- Deuxième Avis, [Infertilité masculine inexpliquée](https://www.deuxiemeavis.fr/blog/article/832-qu-est-ce-que-l-infertilite-masculine-inexpliquee) ; vérification du 21 septembre 2026.
+- Andrologie Paris, [Maladie de Lapeyronie : symptômes et traitements](https://www.andrologie-paris.fr/pathologies/maladie-de-lapeyronie/) ; vérification du 21 septembre 2026.
+
+---
+
+## 37. Fertilité, grossesse et paternité
+
+Le guide Pour Elle détaille, dans ses chapitres 10 et 11, la physiologie de la grossesse et de l'accouchement. Ce chapitre prend le relais côté masculin : ce que l'âge fait à la fertilité d'un homme, ce que son corps traverse pendant la grossesse de sa partenaire, et une réalité encore largement invisible — la dépression paternelle post-partum.
+
+### 37.1 La fertilité masculine décline aussi avec l'âge
+
+Une idée reçue tenace veut que l'horloge biologique ne concerne que les femmes. [Dès l'âge de 30 ans, le taux de testostérone, hormone essentielle à la production de spermatozoïdes, commence à diminuer d'environ 1 % par an ; plusieurs modifications physiologiques s'installent progressivement dès la trentaine et se conjuguent pour réduire, peu à peu, la fertilité masculine](https://theconversation.com/oui-messieurs-la-fertilite-masculine-decline-aussi-avec-lage-191911). Le déclin s'accélère nettement après 40 ans : [la fertilité masculine est quasiment divisée par deux après 40 ans ; au-delà de 45 ans, l'âge du père affecte négativement la qualité du sperme en altérant ses données génétiques et épigénétiques, réduit sa fertilité et le nombre de spermatozoïdes produits](https://www.slate.fr/story/235484/fertilite-masculine-declin-horloge-biologique-reproduction-age-hommes-mode-vie).
+
+Ce déclin touche aussi la qualité, pas seulement la quantité : [l'âge de l'homme diminue le volume de sperme, la mobilité des spermatozoïdes, et le pourcentage de formes normales](https://www.slate.fr/story/235484/fertilite-masculine-declin-horloge-biologique-reproduction-age-hommes-mode-vie). Ce déclin reste toutefois plus progressif et moins abrupt que le déclin de la fertilité féminine — une nuance importante à garder en tête, plutôt que de basculer d'un excès (l'illusion d'une fertilité masculine illimitée) à l'autre (une alarme disproportionnée).
+
+**Bons réflexes.**
+- Ne jamais présumer que la fertilité masculine reste stable indéfiniment : elle décline dès la trentaine, plus nettement après 40-45 ans.
+- Intégrer ce facteur dans une discussion de couple sur le moment d'avoir un enfant, au même titre que l'âge de la partenaire, plutôt que de le considérer comme non pertinent.
+
+Un point complémentaire, à traiter avec nuance plutôt qu'alarmisme, concerne ce que l'âge paternel transmet génétiquement à l'enfant. [Plus le père est âgé au moment de la conception, plus le génome qu'il transmet contient de mutations génétiques spontanées ; un père de 40 ans transmet environ deux fois plus de mutations qu'un père de 20 ans, avec environ deux mutations spontanées supplémentaires pour chaque année d'âge du père à la conception](https://neurosphinx.fr/en/les-consequences-de-lage-chez-les-peres-sur-la-fertilite-et-la-sante-des-enfants-4/). Des risques statistiques précis ont été mesurés pour certaines pathologies : [les hommes de 50 à 55 ans auraient deux fois plus de risque d'avoir un enfant autiste, un risque multiplié par 4,4 après 55 ans ; le risque de trouble bipolaire chez l'enfant augmente dès 29 ans chez le père, avec le risque le plus élevé au-delà de 54 ans](https://www.franceinfo.fr/sante/maladie/autisme-schizophrenie-une-paternite-tardive-augmenterait-les-risques_1624939.html).
+
+Ces chiffres restent des risques relatifs, à interpréter avec prudence : ils multiplient un risque de base déjà faible pour la plupart de ces pathologies, ils ne prédisent rien pour un enfant donné, et l'écrasante majorité des enfants conçus par des pères plus âgés ne développent aucune de ces pathologies. Ce constat s'ajoute néanmoins, de façon factuelle, à celui déjà bien documenté sur l'âge maternel — la fenêtre biologique optimale pour concevoir n'est donc pas une question réservée aux femmes.
+
+**Bons réflexes.**
+- Intégrer le facteur de l'âge paternel dans une réflexion de couple sur le moment d'avoir un enfant, sans dramatiser un risque qui reste statistiquement faible en valeur absolue.
+- Ne jamais présenter ce risque comme une certitude individuelle : c'est une donnée de population, pas une prédiction pour une grossesse précise.
+
+### 37.2 Le syndrome de la couvade : quand le corps du futur père réagit aussi
+
+Un phénomène réel, documenté mais non reconnu comme pathologie officielle, touche une partie significative des hommes en attente d'un enfant. [Le syndrome de la couvade désigne l'ensemble des symptômes physiques et psychologiques ressentis par le futur père durant la grossesse de sa partenaire, parfois qualifié de « grossesse sympathique » ou « grossesse compatissante »](https://naitreetgrandir.com/fr/grossesse/trimestre1/grossesse-pere-symptomes-syndrome-couvade/). [Sa prévalence varie fortement selon les études, entre 11 % et 65 % des futurs pères ; aux États-Unis, il toucherait 25 à 52 % des pères, en particulier ceux qui attendent un premier enfant](https://naitreetgrandir.com/fr/grossesse/trimestre1/grossesse-pere-symptomes-syndrome-couvade/).
+
+[Les symptômes les plus fréquents incluent nausées, vomissements, brûlures d'estomac, changement d'appétit, prise de poids, envies alimentaires et douleurs abdominales — une réplique partielle des symptômes de grossesse eux-mêmes](https://naitreetgrandir.com/fr/grossesse/trimestre1/grossesse-pere-symptomes-syndrome-couvade/). [Leur chronologie suit souvent celle de la grossesse : apparition au premier trimestre, atténuation au deuxième, retour plus intense au troisième, puis disparition à la naissance ou peu après](https://naitreetgrandir.com/fr/grossesse/trimestre1/grossesse-pere-symptomes-syndrome-couvade/). [Les causes exactes restent mal connues, mais plusieurs facteurs semblent se combiner : une implication émotionnelle intense, l'empathie avec la partenaire enceinte, l'appréhension de la paternité, le stress, et chez les futurs pères les plus investis, des fluctuations hormonales (prolactine, cortisol)](https://naitreetgrandir.com/fr/grossesse/trimestre1/grossesse-pere-symptomes-syndrome-couvade/).
+
+**Bons réflexes.**
+- Ne jamais tourner en dérision les symptômes physiques d'un futur père : ils sont documentés, fréquents, et souvent liés à une implication émotionnelle réelle plutôt qu'à une comédie.
+- Consulter si les symptômes sont marqués ou inquiétants, en le nommant explicitement : ce syndrome n'étant pas reconnu comme pathologie officielle, aucun traitement spécifique n'existe, mais un accompagnement psychologique reste pertinent si l'anxiété sous-jacente est forte.
+
+### 37.3 La dépression paternelle post-partum : une réalité sous-connue
+
+Le post-partum n'est pas une période à risque uniquement pour la mère. [Une méta-analyse portant sur 47 études et 20 728 sujets établit une prévalence de la dépression post-partum paternelle à 8,75 % en moyenne, avec une variation selon la période : 8,98 % dans le premier mois, 7,82 % entre un et trois mois, 9,23 % entre trois et six mois, 8,40 % entre six et douze mois après la naissance](https://pubmed.ncbi.nlm.nih.gov/31757623/). Un pic mérite une attention particulière : [durant la période de trois à six mois après l'accouchement, un taux plus élevé de dépression paternelle a été rapporté, à 25,6 %](https://pubmed.ncbi.nlm.nih.gov/31757623/) — une fenêtre à surveiller de près, alors qu'elle est rarement anticipée par l'entourage ou les professionnels de santé.
+
+Plusieurs facteurs de risque ont été identifiés : [une relation entre l'emploi du père, son état psychologique, des antécédents de maladie mentale maternelle, le fait qu'il s'agisse d'un premier enfant, et la qualité de la relation conjugale d'une part, et la dépression post-partum paternelle d'autre part](https://pubmed.ncbi.nlm.nih.gov/31757623/). Ce constat rejoint un enjeu déjà nommé ailleurs dans ce dépôt : [ce problème, hautement prévalent, mérite une attention accrue, car il peut nuire au développement du conjoint et des enfants](https://pubmed.ncbi.nlm.nih.gov/31757623/) — la dépression paternelle non traitée ne reste jamais confinée au seul père, elle affecte l'ensemble du foyer.
+
+**Bons réflexes.**
+- Surveiller activement l'état psychologique du père dans les mois qui suivent une naissance, en particulier entre trois et six mois, une période où le risque semble le plus élevé et le moins anticipé.
+- Ne jamais réduire le post-partum à un sujet exclusivement maternel dans les échanges avec l'entourage ou les professionnels de santé : la dépression paternelle post-partum touche près d'un père sur dix en moyenne, et bien davantage pendant certaines fenêtres.
+- Encourager un père en difficulté à consulter aussi ouvertement qu'on le ferait pour une mère : la stigmatisation autour de la santé mentale masculine retarde souvent le recours à l'aide, au détriment de toute la famille.
+
+## Sources vérifiables
+
+- The Conversation, [Oui, messieurs, la fertilité masculine décline aussi avec l'âge](https://theconversation.com/oui-messieurs-la-fertilite-masculine-decline-aussi-avec-lage-191911) ; vérification du 21 septembre 2026.
+- Slate.fr, [Messieurs, votre fertilité aussi décline avec l'âge](https://www.slate.fr/story/235484/fertilite-masculine-declin-horloge-biologique-reproduction-age-hommes-mode-vie) ; vérification du 21 septembre 2026.
+- Naître et grandir, [Le syndrome de la couvade](https://naitreetgrandir.com/fr/grossesse/trimestre1/grossesse-pere-symptomes-syndrome-couvade/) ; vérification du 21 septembre 2026.
+- Neurosphinx, [Les conséquences de l'âge chez les pères sur la fertilité et la santé des enfants](https://neurosphinx.fr/en/les-consequences-de-lage-chez-les-peres-sur-la-fertilite-et-la-sante-des-enfants-4/) ; vérification du 21 septembre 2026.
+- France Info, [Autisme, schizophrénie : une paternité tardive augmenterait les risques](https://www.franceinfo.fr/sante/maladie/autisme-schizophrenie-une-paternite-tardive-augmenterait-les-risques_1624939.html) ; vérification du 21 septembre 2026.
+- [Prevalence of prenatal and postpartum depression in fathers: A comprehensive meta-analysis of observational surveys](https://pubmed.ncbi.nlm.nih.gov/31757623/), *PubMed* ; vérification du 21 septembre 2026.
+
+---
+
+## 38. Les pièges de la modernité masculine
+
+Le guide Pour Elle a déjà nommé, à son chapitre 12, les injonctions et l'industrie du bien-être qui pèsent sur les femmes. Ce chapitre fait le même travail côté masculin : la manosphère et ses coachs, ce qu'elle produit réellement sur la santé mentale des jeunes hommes, et un trouble de l'image corporelle encore largement méconnu, la dysmorphie musculaire.
+
+### 38.1 La manosphère : une porte d'entrée soigneusement construite
+
+Un point structurel mérite d'être nommé avant tout : l'exposition à ces contenus ne commence presque jamais par un discours ouvertement hostile. [Une stratégie bien rodée consiste à attirer d'abord de jeunes hommes en parlant de musculation, de séduction ou de « lifestyle », pour ensuite les exposer progressivement à des discours misogynes](https://ici.radio-canada.ca/jeunesse/parents/accueil-parents/document/nouvelles/article/2060622/influenceurs-masculinite-toxique-mysoginie-conseils). [Les influenceurs vendent des contenus présentés comme pédagogiques, à des prix parfois exorbitants, pour cultiver la figure du « mâle alpha »](https://ici.radio-canada.ca/jeunesse/parents/accueil-parents/document/nouvelles/article/2060622/influenceurs-masculinite-toxique-mysoginie-conseils). [Plusieurs profils se recoupent dans cette mouvance : influenceurs, coachs en séduction, défenseurs autoproclamés des droits des hommes ou des pères, coachs sportifs — tous partagent la promotion de valeurs traditionnelles, misogynes et antiféministes](https://la1ere.franceinfo.fr/saintpierremiquelon/comment-les-discours-masculinistes-seduisent-et-gagnent-du-terrain-chez-les-jeunes-sur-les-reseaux-sociaux-1590501.html).
+
+Le rôle des plateformes elles-mêmes n'est pas neutre dans cette dynamique : [les algorithmes des réseaux sociaux amplifient mécaniquement ces discours en privilégiant les formats sensationnalistes, un mécanisme qui pousse de plus en plus de jeunes hommes à se radicaliser au contact de vidéos dénigrant les femmes](https://la1ere.franceinfo.fr/saintpierremiquelon/comment-les-discours-masculinistes-seduisent-et-gagnent-du-terrain-chez-les-jeunes-sur-les-reseaux-sociaux-1590501.html) — un mécanisme d'amplification déjà documenté de façon générale dans le guide [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/README.md>), appliqué ici spécifiquement au contenu masculiniste.
+
+### 38.2 Ce que ces contenus produisent réellement sur la santé mentale
+
+Le discours de ces influenceurs se présente souvent comme un outil d'émancipation masculine — plus de confiance, plus de réussite, plus de contrôle. Les données disponibles racontent une histoire différente. [Les clichés toxiques de masculinité ont un impact direct sur la santé mentale des jeunes hommes et affectent la façon dont ils envisagent la sexualité et les relations amoureuses ; cet impact se manifeste par une faible estime de soi et du stress, faute de pouvoir se conformer à des modèles irréalistes, ainsi que par des comportements à risque : rapports sexuels non protégés, agressions sexuelles, bagarres, consommation d'alcool ou de drogues, conduite dangereuse](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3776322/).
+
+Ce résultat éclaire un paradoxe central de ce chapitre : un discours qui se présente comme un remède à l'insécurité masculine (voir chapitre 18 de ce guide, « Le dilemme masculin contemporain ») en devient, dans les faits, l'un des facteurs aggravants les mieux documentés — l'exposition répétée à des standards de virilité irréalistes produit exactement le mal-être qu'elle prétend soigner.
+
+**Bons réflexes.**
+- Se méfier de tout contenu qui commence par un sujet neutre (musculation, séduction, productivité) et glisse progressivement vers un discours hostile envers les femmes : c'est un schéma d'entrée documenté, pas une coïncidence.
+- Face à un jeune homme de son entourage exposé à ces contenus, ouvrir la conversation sur ce qu'il y cherche réellement (confiance, reconnaissance, repères) plutôt que de moquer ou de censurer frontalement — une approche qui renforce souvent, au contraire, le sentiment d'incompréhension exploité par ces discours.
+
+### 38.3 L'industrie des « boosters de testostérone » : un marché immense pour un effet quasi nul
+
+Un autre pan de l'industrie du bien-être cible spécifiquement les hommes autour d'une hormone devenue argument marketing à part entière. [La recherche sur les suppléments dits « boosters de testostérone » pointe vers un effet nul ou quasi nul ; les études humaines disponibles restent limitées, et aucune n'a établi de preuve définitive d'efficacité](https://hscnews.usc.edu/are-testosterone-boosting-supplements-effective-not-likely-according-to-new-research). Une analyse des compléments les plus vendus en ligne a mesuré l'écart entre la promesse marketing et la réalité scientifique : [90 % des suppléments analysés revendiquaient un effet de hausse de la testostérone, mais seul un quart d'entre eux disposait de données pour appuyer cette allégation ; les étiquetages de ces produits trompent le consommateur en détournant la terminologie scientifique, en exagérant et en présentant de façon erronée des travaux de recherche comme preuve de leur efficacité supposée](https://pmc.ncbi.nlm.nih.gov/articles/PMC9924584/).
+
+Au-delà de l'inefficacité, un risque sanitaire réel existe : [ces suppléments peuvent formuler des allégations trompeuses parce qu'ils ne sont pas soumis à une régulation stricte ; des doses élevées de vitamines et de minéraux peuvent nuire à la santé, certains produits analysés dépassant les doses sûres de zinc, de vitamine B3 et de magnésium](https://pmc.ncbi.nlm.nih.gov/articles/PMC9924584/). La recommandation qui ressort de cette recherche est sans ambiguïté : [les patients doivent être mis en garde avant d'envisager ces suppléments, alors que des traitements hormonaux approuvés et réellement efficaces existent pour les cas d'hypogonadisme avéré, diagnostiqué médicalement](https://hscnews.usc.edu/are-testosterone-boosting-supplements-effective-not-likely-according-to-new-research) — le chapitre 36 de ce guide détaille ce diagnostic médical, à ne jamais confondre avec une baisse de forme que le marketing attribue systématiquement à un déficit hormonal à corriger par supplémentation libre.
+
+**Bons réflexes.**
+- Se méfier de toute allégation « boost de testostérone naturel » sur un complément alimentaire : la recherche disponible ne soutient pas ces promesses dans l'immense majorité des cas.
+- Consulter un médecin pour un dosage sanguin en cas de suspicion réelle de déficit hormonal, plutôt que de s'auto-diagnostiquer via du contenu marketing et de s'auto-traiter avec des suppléments non régulés.
+
+### 38.4 La bigorexie : quand le corps n'est jamais assez musclé
+
+Un trouble de l'image corporelle spécifiquement masculin reste largement absent des discussions sur les troubles alimentaires, pourtant réels et mesurés. [La bigorexie, ou dysmorphie musculaire dans le vocabulaire scientifique, est un trouble de l'image corporelle où la personne perçoit son corps comme jamais suffisamment musclé, quelle que soit sa composition corporelle réelle](https://ici.radio-canada.ca/nouvelle/2225458/bigorexie-musculation-jeunes-hommes). [Une étude dirigée par Ganson en 2025, portant sur des hommes de 15 à 35 ans au Canada et aux États-Unis, évalue la prévalence de dysmorphie musculaire probable à 2,8 %](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11916914/). Ce chiffre grimpe fortement dans des populations plus exposées : [une revue de la littérature montre une prévalence sur la vie entière comprise entre 13,6 % et 44 % chez les hommes pratiquant l'haltérophilie ; une étude portant sur des étudiants sportifs rapporte une prévalence de 18,7 %](https://shs.cairn.info/revue-staps-2018-1-page-65?lang=fr).
+
+Ce trouble s'accompagne d'un ensemble de comportements obsessionnels précis : [un entraînement intensif, une alimentation optimisée pour maximiser la prise de masse musculaire et minimiser la masse grasse, avec pesée des aliments, comptage des calories et calcul rigoureux des macro et micronutriments jugés nécessaires](https://stm.cairn.info/revue-movement-and-sport-sciences-2024-1-page-33?lang=fr).
+
+**Bons réflexes.**
+- Repérer les signes concrets de bigorexie : entraînement qui prend le pas sur les autres engagements de vie, alimentation rigidement contrôlée, insatisfaction corporelle persistante malgré une musculature déjà développée.
+- Ne jamais banaliser une pratique sportive intensive sous prétexte qu'elle « fait du bien » par défaut : au-delà d'un certain seuil d'obsession et de rigidité, elle relève d'un trouble de l'image corporelle qui mérite un accompagnement, au même titre que les troubles alimentaires plus classiquement associés aux femmes.
+- Consulter un professionnel de santé mentale spécialisé en image corporelle si l'entraînement ou l'alimentation deviennent une source d'angoisse plutôt que de plaisir.
+
+## Sources vérifiables
+
+- Radio-Canada, [Influenceurs et masculinité toxique : comment éduquer les jeunes](https://ici.radio-canada.ca/jeunesse/parents/accueil-parents/document/nouvelles/article/2060622/influenceurs-masculinite-toxique-mysoginie-conseils) ; vérification du 21 septembre 2026.
+- France Info La 1ère, [Comment les discours masculinistes séduisent et gagnent du terrain chez les jeunes sur les réseaux sociaux](https://la1ere.franceinfo.fr/saintpierremiquelon/comment-les-discours-masculinistes-seduisent-et-gagnent-du-terrain-chez-les-jeunes-sur-les-reseaux-sociaux-1590501.html) ; vérification du 21 septembre 2026.
+- [Performing masculinity, influencing health: a qualitative mixed-methods study of young Spanish men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3776322/), *PMC* ; vérification du 21 septembre 2026.
+- Keck Medicine of USC, [Are testosterone-boosting supplements effective? Not likely, according to new research](https://hscnews.usc.edu/are-testosterone-boosting-supplements-effective-not-likely-according-to-new-research) ; vérification du 21 septembre 2026.
+- [Testosterone boosters: a report of a supplement's misleading labelling claims](https://pmc.ncbi.nlm.nih.gov/articles/PMC9924584/), *PMC* ; vérification du 21 septembre 2026.
+- Radio-Canada, [Bigorexie : quand la musculation devient un trouble obsessionnel invisible](https://ici.radio-canada.ca/nouvelle/2225458/bigorexie-musculation-jeunes-hommes) ; vérification du 21 septembre 2026.
+- Ganson et coll. (2025), [Prevalence and correlates of muscle dysmorphia in a sample of boys and men in Canada and the United States](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11916914/), *PMC* ; vérification du 21 septembre 2026.
+- [Recherche de prise de masse musculaire et dysmorphie musculaire chez les bodybuilders](https://shs.cairn.info/revue-staps-2018-1-page-65?lang=fr), *STAPS*, Cairn.info ; vérification du 21 septembre 2026.
+- [Dysmorphie musculaire et pratiques problématiques de l'activité physique](https://stm.cairn.info/revue-movement-and-sport-sciences-2024-1-page-33?lang=fr), *Movement & Sport Sciences*, Cairn.info ; vérification du 21 septembre 2026.
+
+---
+
+## 39. Les peurs masculines, rationnelles ou non
+
+Le guide Pour Elle nomme, à son chapitre 13, les peurs féminines et distingue celles qui sont fondées de celles qui ne le sont pas. Ce chapitre fait le même travail côté masculin, sur trois peurs précises, documentées et rarement nommées à voix haute : la peur de la performance sexuelle, la peur de ne pas pourvoir, et la peur du diagnostic médical.
+
+### 39.1 La peur de la performance sexuelle : un cercle qui s'auto-alimente
+
+Cette peur touche une part bien plus large des hommes que ne le laisse penser le silence qui l'entoure. [Une enquête menée auprès de jeunes hommes britanniques montre que six sur dix évitent les rapports sexuels à cause de l'anxiété de performance](https://onebright.com/advice-hub/news/almost-60-of-men-avoid-sex-due-to-performance-anxiety/). [L'anxiété de performance sexuelle toucherait jusqu'à 25 % des hommes, une prévalence environ deux fois supérieure à celle des troubles érectiles chez les hommes de moins de 50 ans aux États-Unis](https://onebright.com/advice-hub/news/almost-60-of-men-avoid-sex-due-to-performance-anxiety/).
+
+Le mécanisme qui relie cette peur au trouble physique lui-même est aujourd'hui bien compris. [L'anxiété dans une situation sexuelle détourne l'attention vers la performance elle-même, au détriment des signaux érotiques, ce qui compromet l'excitation sexuelle ; elle déclenche aussi la réponse de stress du corps, qui affecte la circulation sanguine et le système nerveux — en mode combat-fuite, les vaisseaux sanguins se contractent plutôt que de se dilater, ce qui rend plus difficile l'obtention ou le maintien d'une érection](https://www.psychologytoday.com/us/blog/sex-esteem/202204/why-are-younger-men-presenting-with-erectile-disorder). C'est un cercle qui s'auto-alimente : la peur de l'échec produit, par un mécanisme physiologique direct, les conditions de l'échec redouté.
+
+Ce trouble touche des hommes bien plus jeunes que l'image répandue du dysfonctionnement érectile lié à l'âge : [des études multinationales récentes montrent une prévalence de troubles érectiles pouvant atteindre 30 % chez les hommes de moins de 40 ans](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12349891/), avec une comorbidité anxio-dépressive documentée : [dans les 12 mois précédant un diagnostic de dysfonction érectile chez de jeunes hommes, la prévalence de dépression et d'anxiété atteint 17,1 %, contre 12,9 % dans un groupe témoin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12349891/).
+
+**Bons réflexes.**
+- Nommer explicitement cette peur, à soi-même ou à son ou sa partenaire, plutôt que de l'éviter en silence : l'évitement renforce le cercle physiologique décrit plus haut, il ne le résout jamais.
+- Savoir qu'un trouble érectile chez un homme jeune a, statistiquement, plus de chances d'avoir une origine anxieuse que strictement physique — une piste à explorer avec un professionnel plutôt qu'une source de honte à cacher.
+
+### 39.2 La peur de ne pas pourvoir : le poids du rôle de pourvoyeur
+
+Une pression sociale ancienne continue de peser lourdement, y compris dans des couples qui se pensent égalitaires. [70 % des personnes interrogées dans une enquête récente estiment que la capacité à subvenir financièrement aux besoins de la famille est très importante pour être un bon partenaire — contre seulement 32 % qui en disent autant pour les femmes](https://healthscopemag.com/health/suffering-in-silence/). Cette attente asymétrique a un coût mesuré sur la santé des hommes concernés : [les hommes qui gagnent davantage que leur épouse ont tendance à avoir une santé plus mauvaise et une anxiété plus élevée ; plus un homme porte de responsabilité économique dans son couple, plus son bien-être psychologique et sa santé déclinent](https://www.livescience.com/55838-men-breadwinners-are-anxious.html).
+
+Le mécanisme psychologique qui relie l'échec financier à l'identité elle-même mérite d'être nommé : [les hommes internalisent souvent la pression de réussir, et un revers financier peut être vécu comme un échec non seulement dans leurs objectifs financiers, mais dans leur rôle de pourvoyeur lui-même ; une étude montre que les hommes soumis à de fortes attentes en tant que pourvoyeurs rapportent des niveaux de stress nettement plus élevés que ceux soumis à des attentes plus faibles](https://www.creativesoulcoaching.net/blog/the-burden-of-the-breadwinner). Un dernier point éclaire pourquoi cette peur reste si peu visible : [le nombre d'hommes qui souffrent réellement d'anxiété est généralement sous-estimé, parce que beaucoup ne le révèlent pas, et souvent n'y réfléchissent même pas eux-mêmes](https://www.creativesoulcoaching.net/blog/the-burden-of-the-breadwinner).
+
+**Bons réflexes.**
+- Discuter explicitement, en couple, du poids réel que porte celui qui assume le rôle principal de pourvoyeur — une charge souvent invisible tant qu'elle n'est pas nommée, y compris par celui qui la porte.
+- Ne jamais réduire une difficulté financière à un simple problème pratique : elle touche, chez beaucoup d'hommes, à une dimension identitaire profonde qui mérite d'être reconnue comme telle.
+
+### 39.3 La peur du diagnostic : pourquoi tant d'hommes évitent le médecin
+
+Cette dernière peur referme la boucle avec le chapitre 36 de ce guide sur les pathologies masculines : une part de leur gravité au moment du diagnostic tient directement à ce mécanisme d'évitement. [72 % des hommes préféreraient faire des tâches ménagères, y compris nettoyer la salle de bain, plutôt que de consulter un médecin ; 65 % déclarent repousser le plus longtemps possible toute recherche d'aide médicale quand ils ne se sentent pas bien ; 58 % ont déjà ignoré un problème médical en espérant qu'il disparaisse de lui-même](https://www.texashealth.org/areyouawellbeing/Mens-Health/Study-Reveals-Men-Will-Do-Almost-Anything-to-Avoid-the-Doctor).
+
+Le mécanisme psychologique sous-jacent est documenté et précis : [la peur de recevoir un diagnostic grave est l'un des principaux moteurs de cet évitement ; les hommes ont tendance, en moyenne, à adopter une stratégie d'évitement face aux menaces pour leur santé — ils préfèrent ne pas penser à la grosseur, à l'essoufflement ou au sang dans les selles ; l'anxiété de confronter un diagnostic potentiel leur paraît pire que la léthargie de bas niveau que produit le fait de l'ignorer](https://www.insidehook.com/wellness/why-men-avoid-doctor). Un dernier ressort, plus identitaire encore, explique la persistance de ce comportement malgré ses conséquences : [refuser de consulter un médecin n'est pas qu'une négligence, c'est une performance de masculinité ; chaque fois qu'un homme minimise un symptôme ou dit « ça va », il renforce son identité de quelqu'un qui n'a pas besoin d'aide — le cabinet médical devient une scène où la vulnérabilité est exigée, et beaucoup d'hommes préfèrent risquer leur santé plutôt que de se sentir exposés](https://menpsychology.com/why-men-avoid-going-to-the-doctor/).
+
+**Bons réflexes.**
+- Reformuler la consultation médicale non pas comme un aveu de faiblesse, mais comme le comportement le plus rationnel possible face à un symptôme réel — l'inverse de ce que le réflexe identitaire pousse à croire.
+- Se souvenir que les pathologies décrites au chapitre 36 (cancer du testicule, troubles prostatiques) ont un pronostic d'autant meilleur qu'elles sont prises tôt : l'évitement du médecin n'élimine jamais le risque, il ne fait que retarder sa découverte à un stade souvent plus grave.
+- Face à un proche qui évite systématiquement le médecin, éviter le reproche frontal (qui renforce la posture défensive) et proposer plutôt un rendez-vous concret, sans dramatiser — désamorcer la dimension de mise à l'épreuve identitaire plutôt que de l'accentuer.
+
+## Sources vérifiables
+
+- Onebright, [Almost 60% of men Avoid Sex Due to Performance Anxiety](https://onebright.com/advice-hub/news/almost-60-of-men-avoid-sex-due-to-performance-anxiety/) ; vérification du 21 septembre 2026.
+- Psychology Today, [Why Are Younger Men Presenting with Erectile Disorder?](https://www.psychologytoday.com/us/blog/sex-esteem/202204/why-are-younger-men-presenting-with-erectile-disorder) ; vérification du 21 septembre 2026.
+- [Erectile Dysfunction in Young Adults: A Narrative Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12349891/), *PMC* ; vérification du 21 septembre 2026.
+- HealthScope Magazine, [Suffering in Silence](https://healthscopemag.com/health/suffering-in-silence/) ; vérification du 21 septembre 2026.
+- Live Science, [Breadwinner Men May Have More Money, But Poorer Health](https://www.livescience.com/55838-men-breadwinners-are-anxious.html) ; vérification du 21 septembre 2026.
+- Creative Soul Coaching, [The Burden of the Breadwinner](https://www.creativesoulcoaching.net/blog/the-burden-of-the-breadwinner) ; vérification du 21 septembre 2026.
+- Texas Health Resources, [Study Reveals Men Will Do Almost Anything to Avoid the Doctor](https://www.texashealth.org/areyouawellbeing/Mens-Health/Study-Reveals-Men-Will-Do-Almost-Anything-to-Avoid-the-Doctor) ; vérification du 21 septembre 2026.
+- InsideHook, [Why Do Men Avoid Going to the Doctor?](https://www.insidehook.com/wellness/why-men-avoid-doctor) ; vérification du 21 septembre 2026.
+- Men Psychology, [Why Men Avoid Going to the Doctor: The Psychology Behind Male Health Avoidance](https://menpsychology.com/why-men-avoid-going-to-the-doctor/) ; vérification du 21 septembre 2026.

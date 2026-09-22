@@ -43,6 +43,7 @@ La collection est jeune, cette liste est faite pour s'allonger.
 - [Homogamie](<Homogamie.md>)
 - [Désert relationnel](<Désert relationnel.md>)
 - [Kinkeeping](<Kinkeeping.md>)
+- [Mankeeping](<Mankeeping.md>)
 - [Hiérarchies de dominance et de prestige](<Hiérarchies de dominance et de prestige.md>)
 - [Masculinité précaire](<Masculinité précaire.md>)
 

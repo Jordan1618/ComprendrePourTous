@@ -1,9 +1,9 @@
 ---
-name: recommandeurdeguides
+name: liste2guides
 description: Recommande de nouveaux guides à ajouter à la collection "Comprendre pour tous", par la même méthode d'élicitation que Faiseur2Guide (grille de 10 familles × 10 exemples, inventaire du dépôt, deux exemples très développés de 30, soit 160 suggestions), chaque suggestion étiquetée cœur de thème ou périphérique mais jamais écartée, et consigne la liste validée dans Ce qu'il faut faire.md.
 ---
 
-Recommandeur de guides
+Liste2Guides
 
 Ce skill ne rédige pas de contenu. Il produit des **recommandations de nouveaux guides** à ajouter à la collection, pour que le projet continue de s'enrichir dans le temps plutôt que de tourner en boucle sur les guides déjà existants. Une fois un guide choisi dans ces recommandations, l'écriture elle-même repart du skill `Faiseur2Guide`, avec sa propre élicitation complète (angles, sous-thèmes, structure).
 
@@ -269,6 +269,7 @@ Ne jamais écrire cette section dans un guide publié, une notion, ou tout autre
 
 ## Historique
 
+* 21 septembre 2026 (v4) — renommé `RecommandeurDeGuides` → `Liste2Guides`, sans changement de méthode.
 * 21 septembre 2026 (v3) — la règle thématique passe d'un filtre d'exclusion à un simple étiquetage : plus aucun sujet n'est écarté de la grille ou des exemples, un sujet qui ne passe aucun des quatre filtres est marqué « (périphérique) » plutôt que supprimé. Origine : retour explicite que certains sujets périphériques peuvent s'avérer utiles et ne doivent pas être perdus d'office.
 * 21 septembre 2026 (v2) — chaque famille de la grille passe de trois exemples en une phrase à virgules à exactement 10 exemples numérotés, portant le total à 160 suggestions (10×10 + 2×30) ; ajout de la section « Rester dans le thème et l'esprit de Comprendre pour tous » avec quatre filtres explicites (corps, relation, émotion/psychologie, transition de vie qui reconfigure les trois) pour empêcher la dérive vers du développement personnel générique ; ajout de l'étape de consignation dans `Ce qu'il faut faire.md` une fois la liste validée par l'interlocuteur, jamais avant. Origine : demande explicite de densifier la grille (10 exemples par famille), de loger les résultats validés dans le suivi du projet, et de garder les suggestions ancrées dans le thème du projet plutôt que de dériver vers n'importe quel sujet de développement personnel.
 * 21 septembre 2026 (v1) — création du skill, par extraction et adaptation de la méthode d'élicitation de `Faiseur2Guide` (grille de familles, inventaire, deux exemples très développés), appliquée au niveau du guide entier plutôt qu'à l'angle d'un guide déjà choisi. Origine : demande explicite de disposer d'un outil dédié à la recommandation de nouveaux guides pour continuer à enrichir la collection, plutôt que de ne travailler qu'à l'étoffement des guides déjà existants.

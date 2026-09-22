@@ -2,9 +2,9 @@
 type: "guide"
 guide: "Pour Elle"
 sujet: "corps féminin"
-chapitres: 35
-mots: 75387
-verifie_le: 2026-08-11
+chapitres: 39
+mots: 81140
+verifie_le: 2026-09-21
 licence: "CC BY 4.0"
 ---
 
@@ -59,8 +59,12 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 33 | [Ressources et associations utiles](<33 - Ressources et associations.md>) | repères | 275 |
 | 34 | [Glossaire complet des termes médicaux employés dans ce document](<34 - Glossaire des termes médicaux.md>) | repères | 489 |
 | 35 | [Les conflits entre femmes](<35 - Les conflits entre femmes.md>) | relation | 1 807 |
+| 36 | [Le substrat : analyse neuro-psychologique féminine](<36 - Le substrat neuro-psychologique feminin.md>) | psychologie | 1 472 |
+| 37 | [Le désir féminin dans la durée : ce qui l'installe, ce qui l'éteint](<37 - Le desir feminin dans la duree.md>) | relation | 1 472 |
+| 38 | [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<38 - Les reproches recurrents.md>) | relation | 1 658 |
+| 39 | [Le dilemme féminin contemporain](<39 - Le dilemme feminin contemporain.md>) | psychologie | 1 005 |
 
-Total : 75 387 mots, 35 chapitres.
+Total : 81 140 mots, 39 chapitres.
 
 Ce guide a un pendant, [Pour Lui](<../Pour Lui/README.md>), pour le même thème vu de l'autre côté.
 

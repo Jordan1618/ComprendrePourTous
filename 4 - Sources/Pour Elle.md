@@ -154,3 +154,32 @@ Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), classées par
 | te Velde, E. & Pearson, P. (2002), [The variability of female reproductive ageing](https://pubmed.ncbi.nlm.nih.gov/12099629/), *Human Reproduction Update* | Trajectoire reproductive de la puberté à la ménopause | 1.5, 13 |
 | van Hylckama Vlieg, A. et coll. (2009), [The venous thrombotic risk of oral contraceptives](https://pubmed.ncbi.nlm.nih.gov/19679614/), *BMJ* | Risque thrombotique de la contraception hormonale | 12.2 |
 
+## Chapitres 36-39 (substrat neuro-psychologique, désir, reproches, dilemme contemporain)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Psychotherapy Networker, [The Myth of the Gendered Brain](https://www.psychotherapynetworker.org/article/myth-gendered-brain/) | Mythe du cerveau féminin | 36.2 |
+| Boston University, [Debunking the Myth of the "Male" and "Female" Brain](https://blogs.bu.edu/the-nerve/2025/12/07/debunking-the-myth-of-the-male-and-female-brain/), sur Joel, D. (2015) | Mosaïque cérébrale, absence de deux types de cerveaux | 36.2 |
+| [Emotional development among early school-age children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4975098/), *PMC* | Émergence tardive des différences émotionnelles | 36.3 |
+| Herald (McMurry University), [How Gender is Socialized through Childhood](https://blogs.mcm.edu/herald/2025/04/30/how-gender-is-socialized-through-childhood/) | Socialisation précoce du genre | 36.3 |
+| Wikipedia, [Tend and befriend](https://en.wikipedia.org/wiki/Tend_and_befriend) | Réponse au stress médiée par l'ocytocine | 36.4 |
+| [Relation of Oxytocin to Psychological Stress Responses and HPA Axis Activity](https://taylorlab.psych.ucla.edu/wp-content/uploads/sites/5/2014/10/2006_Relation-of-Oxytocin-to-Psychological-Stress-Responses_HPA-Axis-Activity-in-Older-Women.pdf), UCLA | Ocytocine et axe HPA chez la femme | 36.4 |
+| Cepham, [How stress works differently in men and women](https://cepham.com/articles/how-stress-works-differently-in-men-and-women/) | Extinction de l'axe HPA selon le sexe | 36.4 |
+| [Emotional Accessibility Is More Important Than Sexual Accessibility](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5961442/), *PMC* | Accessibilité émotionnelle vs sexuelle | 37.1 |
+| Utah State University Extension, [What Women Need in a Relationship](https://extension.usu.edu/hru/blog/what-women-need-in-a-relationship-10-essential-elements-for-a-strong-and-fulfilling-relationship) | Besoins relationnels féminins | 37.1 |
+| Stanford Clayman Institute, [Viral uptake and the future of « mankeeping »](https://gender.stanford.edu/news/viral-uptake-and-future-mankeeping), Ferrara, A. & Vergara, D. P. (2024) | Concept de mankeeping | 37.2 |
+| Forbes, [Mankeeping: How Shrinking Male Social Networks May Burden Women](https://www.forbes.com/sites/kimelsesser/2024/10/23/mankeeping--how-shrinking-male-social-networks-may-burden-women/) | Charge invisible du mankeeping | 37.2 |
+| Forbes Health, [Survey: 78% Of Gen Z Report Dating App Burnout](https://www.forbes.com/health/dating/dating-app-fatigue/) | Épuisement des applications de rencontre | 37.2 |
+| Hoan, E. & MacDonald, G. (2025), [Sisters Are Doin' It for Themselves](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12178563/), *PMC* | Satisfaction des femmes célibataires | 37.3 |
+| Calmerry, [What Makes a Man Fall in Love With a Woman?](https://calmerry.com/blog/love/how-men-fall-in-love-and-how-their-brains-respond/), sur Gottman, J. | Accordage émotionnel, fiabilité | 37.4 |
+| Wikipedia, [Falling in love](https://en.wikipedia.org/wiki/Falling_in_love) | Réactivation des schémas d'attachement | 37.4 |
+| Hess, U. & Kirouac, G. (2000), [Emotional Expressivity in Men and Women](https://www.ursulakhess.com/resources/HSKHPK2000.pdf), *Cognition and Emotion* | Stéréotype vs auto-perception émotionnelle | 38.1 |
+| Connected Speech Pathology, [The Role of Gender in Interpersonal Communication](https://connectedspeechpathology.com/blog/the-role-of-gender-in-interpersonal-communication-in-the-workplace) | Style de communication indirect | 38.2 |
+| Columbia University SPS, [Gender Equality and Communication, Part 1](https://sps.columbia.edu/news/gender-equality-and-communication-part-1) | Double contrainte féminité-compétence | 38.2 |
+| [Gender differences in rumination: A meta-analysis](https://pubmed.ncbi.nlm.nih.gov/24089583/), *PubMed* | Rumination, écart de genre | 38.3 |
+| Nolen-Hoeksema, S. (1999), [Explaining the gender difference in depressive symptoms](https://pubmed.ncbi.nlm.nih.gov/10573880/), *PubMed* | Tension chronique, maîtrise, rumination | 38.3 |
+| Women Igniting Change, [Busting Misconceptions Around Women and Decision-Making](https://womenignitingchange.com/busting-misconceptions-around-women-and-decision-making/) | Mythe de l'indécision féminine | 38.4 |
+| Friedman, S. (2015), [Still a "Stalled Revolution"?](https://www.researchgate.net/publication/273330800_Still_a_Stalled_Revolution_WorkFamily_Experiences_Hegemonic_Masculinity_and_Moving_Toward_Gender_Equality), *Sociology Compass* | Révolution en panne (Hochschild) | 39.1 |
+| [The Second Shift: Why it is Diminishing but Still an Issue](https://fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1100&context=ur), sur Hochschild, A. R. (1989) | La deuxième journée | 39.1 |
+| [Feeling Pressure to Be a Perfect Mother](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6230657/), *PMC* | Pression parentale et ambitions de carrière | 39.2 |
+

@@ -15,8 +15,8 @@ Fichier de travail, **non publié**. Tout ce qui reste à produire, par ordre de
 
 | Guide | Chapitres | Références actuelles | Manque |
 |---|---|---|---|
-| Pour Elle | 18 | ~131, chapitre de sources dédié | fait |
-| Pour Lui | 22 | ~126, chapitre de sources dédié | fait |
+| Pour Elle | 39 | fait | fait |
+| Pour Lui | 38 | fait | fait |
 | Pour Nous | 25 | fait | fait |
 | La rencontre | 28 | fait | fait |
 | L'amour | 9 | fait | fait |
@@ -33,37 +33,22 @@ Méthode : reprendre chapitre par chapitre, sous-partie par sous-partie ; pour c
 
 Depuis le 8 août 2026, chaque guide est numéroté 1 à N dans son propre ordre de lecture, sans lettre (fini les « 2b », « 14b », « 16b »…) et sans emplacement réservé pour l'autre guide du couple. Pour Elle et Pour Lui restent des guides jumeaux **par thématique** (cycle/corps, santé mentale, sexualité, contraception, couple, etc.), mais plus par numéro : le chapitre 6 de l'un n'a aucune raison de correspondre au chapitre 6 de l'autre.
 
-Pour vérifier que les deux guides couvrent bien les mêmes thèmes malgré cette numérotation indépendante, comparer par sujet plutôt que par numéro :
+**Tableau corrigé le 21/09/2026** — l'ancienne version de ce tableau était périmée : plusieurs cases marquées *à écrire* correspondaient en réalité à des chapitres déjà rédigés sous un autre titre (grands profils, désert relationnel, boîte à outils, limites, santé long terme...). Après comparaison réelle des deux guides dans leur état actuel (35 chapitres côté Pour Elle, 34 côté Pour Lui), il ne reste que 8 vrais manques :
 
 | Thème | Pour Elle | Pour Lui |
 |---|---|---|
-| Le décor : ce que disent les chiffres | *à écrire* | [Le décor : ce que disent les chiffres](<../1 - Guides/Pour Lui/01 - Ce que disent les chiffres.md>) |
-| Le corps et ses rythmes | *à écrire* | *à écrire* |
-| Pourquoi ce fonctionnement | *à écrire* | *à écrire* |
-| L'architecture émotionnelle | *à écrire* | *à écrire* |
-| Les grands profils | *à écrire* | *à écrire* |
-| La dépression | [La dépression féminine : le visage qu'elle prend](<../1 - Guides/Pour Elle/05 - La depression feminine.md>) | *à écrire* |
-| Anxiété, stress et corps | [Anxiété, stress et corps : quand la plainte n'est pas entendue](<../1 - Guides/Pour Elle/06 - Anxiete stress et corps.md>) | *à écrire* |
-| Le corps : santé, apparence, entretien | *à écrire* | *à écrire* |
-| La contraception | [La pilule et la contraception hormonale](<../1 - Guides/Pour Elle/07 - Contraception hormonale.md>) | [La contraception masculine : ce qui existe vraiment](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>) |
 | Troubles et pathologies | [Panorama complet des troubles et pathologies du cycle](<../1 - Guides/Pour Elle/08 - Troubles et pathologies du cycle.md>) | *à écrire* |
-| Sexualité : anatomie, réponse, troubles | [La sexualité féminine : anatomie, réponse sexuelle, troubles](<../1 - Guides/Pour Elle/09 - Sexualité féminine.md>) | [La sexualité masculine : anatomie, réponse, troubles](<../1 - Guides/Pour Lui/10 - La sexualite masculine.md>) |
-| La sexualité comme langage relationnel | *à écrire* | [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/11 - La sexualité comme langage émotionnel.md>) |
-| Le désir dans la durée | *à écrire* | [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/12 - Le désir dans la durée.md>) |
-| Fertilité, grossesse, parentalité | [La grossesse : physiologie et complications](<../1 - Guides/Pour Elle/10 - La grossesse.md>)<br>[L'accouchement et le post-partum](<../1 - Guides/Pour Elle/11 - Accouchement et post-partum.md>) | *à écrire* |
-| Les âges de la vie | *à écrire* | [Les âges de la vie masculine](<../1 - Guides/Pour Lui/13 - Les âges de la vie masculine.md>) |
-| Relations, solitude, amitiés | *à écrire* | [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>)<br>[Les conflits entre hommes](<../1 - Guides/Pour Lui/15 - Les conflits entre hommes.md>) |
-| La boîte à outils de couple | *à écrire* | [La boîte à outils de couple](<../1 - Guides/Pour Lui/16 - La boîte à outils de couple.md>)<br>[Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<../1 - Guides/Pour Lui/17 - Les reproches récurrents.md>)<br>[Le dilemme masculin contemporain](<../1 - Guides/Pour Lui/18 - Le dilemme masculin contemporain.md>) |
-| Les limites | *à écrire* | [Les limites : ce qui n'est pas à soi de porter](<../1 - Guides/Pour Lui/19 - Les limites.md>) |
-| Les pièges de la modernité | [Les pièges de la modernité : injonctions, écrans et industrie du bien-être](<../1 - Guides/Pour Elle/12 - Les pieges de la modernite.md>) | *à écrire* |
-| Les peurs | [Les peurs : lesquelles sont fondées, et comment avancer](<../1 - Guides/Pour Elle/13 - Les peurs rationnelles ou non.md>) | *à écrire* |
-| La santé sur le long terme | *à écrire* | [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>) |
-| La recherche | [Les figures de la recherche en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Elle/14 - La recherche en 2026.md>) | [Les figures de la recherche masculine en 2026](<../1 - Guides/Pour Lui/31 - La recherche masculine en 2026.md>) |
-| Aide-mémoire et conseils pratiques | [Conseils pratiques généraux, au-delà du cas par cas](<../1 - Guides/Pour Elle/15 - Conseils pratiques généraux.md>) | [Aide-mémoire](<../1 - Guides/Pour Lui/30 - Aide-mémoire.md>) |
-| Foire aux questions | [Foire aux questions rapides](<../1 - Guides/Pour Elle/32 - Foire aux questions.md>) | [Foire aux questions rapides](<../1 - Guides/Pour Lui/32 - Foire aux questions.md>) |
-| Ressources et associations | [Ressources et associations utiles](<../1 - Guides/Pour Elle/33 - Ressources et associations.md>) | [Ressources et associations utiles](<../1 - Guides/Pour Lui/33 - Ressources et associations.md>) |
-| Glossaire | [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Elle/34 - Glossaire des termes médicaux.md>) | [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Lui/34 - Glossaire des termes médicaux.md>) |
-| Conflits entre pairs | [Les conflits entre femmes](<../1 - Guides/Pour Elle/35 - Les conflits entre femmes.md>) | [Les conflits entre hommes](<../1 - Guides/Pour Lui/15 - Les conflits entre hommes.md>) |
+| Fertilité, grossesse, parentalité | [La grossesse](<../1 - Guides/Pour Elle/10 - La grossesse.md>)<br>[Accouchement et post-partum](<../1 - Guides/Pour Elle/11 - Accouchement et post-partum.md>) | *à écrire* |
+| Les pièges de la modernité | [Les pièges de la modernité](<../1 - Guides/Pour Elle/12 - Les pieges de la modernite.md>) | *à écrire* |
+| Les peurs rationnelles ou non | [Les peurs rationnelles ou non](<../1 - Guides/Pour Elle/13 - Les peurs rationnelles ou non.md>) | *à écrire* |
+| Le substrat neuro-psychologique | *à écrire* | [Le substrat socio-neuro-psychologique](<../1 - Guides/Pour Lui/03 - Le substrat socio-neuro-psychologique.md>) |
+| Le désir dans la durée | *à écrire* | [Le désir dans la durée](<../1 - Guides/Pour Lui/12 - Le désir dans la durée.md>) |
+| Les reproches récurrents | *à écrire* | [Les reproches récurrents](<../1 - Guides/Pour Lui/17 - Les reproches récurrents.md>) |
+| Le dilemme contemporain | *à écrire* | [Le dilemme masculin contemporain](<../1 - Guides/Pour Lui/18 - Le dilemme masculin contemporain.md>) |
+
+Tous les autres thèmes (décor/chiffres, cycle/rythmes du corps, santé émotionnelle, dépression, anxiété, contraception, sexualité anatomie/réponse, âges de la vie, désert relationnel, boîte à outils, limites, santé long terme, attentes croisées, peurs perçues, ce qui compte vraiment, expression de l'amour, vue dans la famille, parent célibataire, recherche, aide-mémoire, FAQ, ressources, glossaire, conflits entre pairs) existent déjà des deux côtés.
+
+Fait le 21/09/2026 : les 8 chapitres ont été rédigés (voir `Chantier - Symetrie Pour Elle Pour Lui.md`). Pour Lui : 34 → 38 chapitres. Pour Elle : 35 → 39 chapitres. Les deux guides sont maintenant symétriques sur l'ensemble des thèmes listés ci-dessus.
 
 ## 3. Chapitres de sources dédiés
 

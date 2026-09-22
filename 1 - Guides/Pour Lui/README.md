@@ -2,9 +2,9 @@
 type: "guide"
 guide: "Pour Lui"
 sujet: "corps masculin"
-chapitres: 34
-mots: 65453
-verifie_le: 2026-08-11
+chapitres: 38
+mots: 71041
+verifie_le: 2026-09-21
 licence: "CC BY 4.0"
 ---
 
@@ -58,8 +58,12 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 | 32 | [Foire aux questions rapides](<32 - Foire aux questions.md>) | pratique | 545 |
 | 33 | [Ressources et associations utiles](<33 - Ressources et associations.md>) | repères | 311 |
 | 34 | [Glossaire des termes médicaux](<34 - Glossaire des termes médicaux.md>) | repères | 561 |
+| 36 | [Troubles et pathologies masculines](<36 - Troubles et pathologies masculines.md>) | prévention | 1 544 |
+| 37 | [Fertilité, grossesse et paternité](<37 - Fertilite grossesse et paternite.md>) | repères | 1 294 |
+| 38 | [Les pièges de la modernité masculine](<38 - Les pieges de la modernite masculine.md>) | prévention | 1 345 |
+| 39 | [Les peurs masculines, rationnelles ou non](<39 - Les peurs masculines rationnelles ou non.md>) | psychologie | 1 254 |
 
-Total : 65 453 mots, 34 chapitres.
+Total : 71 041 mots, 38 chapitres.
 
 Ce guide a un pendant, [Pour Elle](<../Pour Elle/README.md>), pour le même thème vu de l'autre côté.
 

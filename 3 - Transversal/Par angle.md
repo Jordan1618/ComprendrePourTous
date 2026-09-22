@@ -57,6 +57,8 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [Anxiété, stress et corps : quand la plainte n'est pas entendue](<../1 - Guides/Pour Elle/06 - Anxiete stress et corps.md>)  `corps féminin` · Pour Elle
 - [Les grands profils féminins](<../1 - Guides/Pour Elle/16 - Les grands profils feminins.md>)  `corps féminin` · Pour Elle
 - [Les âges de la vie féminine](<../1 - Guides/Pour Elle/18 - Les ages de la vie feminine.md>)  `corps féminin` · Pour Elle
+- [Le substrat : analyse neuro-psychologique féminine](<../1 - Guides/Pour Elle/36 - Le substrat neuro-psychologique feminin.md>)  `corps féminin` · Pour Elle
+- [Le dilemme féminin contemporain](<../1 - Guides/Pour Elle/39 - Le dilemme feminin contemporain.md>)  `corps féminin` · Pour Elle
 - [Le substrat : analyse socio-neuro-psychologique](<../1 - Guides/Pour Lui/03 - Le substrat socio-neuro-psychologique.md>)  `corps masculin` · Pour Lui
 - [L'architecture émotionnelle : comment c'est câblé à l'intérieur](<../1 - Guides/Pour Lui/04 - L'architecture émotionnelle.md>)  `corps masculin` · Pour Lui
 - [Les grands profils masculins](<../1 - Guides/Pour Lui/05 - Les grands profils masculins.md>)  `corps masculin` · Pour Lui
@@ -64,6 +66,7 @@ Comment le fonctionnement mental se construit, et ce qui le fait dérailler.
 - [Anxiété, stress et corps : le circuit court](<../1 - Guides/Pour Lui/07 - Anxiété, stress et corps.md>)  `corps masculin` · Pour Lui
 - [Les âges de la vie masculine](<../1 - Guides/Pour Lui/13 - Les âges de la vie masculine.md>)  `corps masculin` · Pour Lui
 - [Le dilemme masculin contemporain](<../1 - Guides/Pour Lui/18 - Le dilemme masculin contemporain.md>)  `corps masculin` · Pour Lui
+- [Les peurs masculines, rationnelles ou non](<../1 - Guides/Pour Lui/39 - Les peurs masculines rationnelles ou non.md>)  `santé émotionnelle masculine` · Pour Lui
 - [Les styles d'attachement : la grille qui explique le plus](<../1 - Guides/La rencontre/02 - Les styles d attachement.md>)  `commun` · La rencontre
 - [Les biais qui font choisir de travers](<../1 - Guides/La rencontre/03 - Les biais qui font choisir de travers.md>)  `commun` · La rencontre
 - [L'effet miroir et l'échange social au premier contact](<../1 - Guides/La rencontre/11 - L effet miroir et l echange social.md>)  `commun` · La rencontre
@@ -105,6 +108,8 @@ Dépistage, protection, risque réel contre risque perçu.
 - [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Elle/22 - La sante sur le long terme.md>)  `corps féminin` · Pour Elle
 - [La contraception masculine : ce qui existe vraiment](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>)  `corps masculin` · Pour Lui
 - [La santé sur vingt ans : ce qui compte et quand](<../1 - Guides/Pour Lui/20 - La sante sur le long terme.md>)  `corps masculin` · Pour Lui
+- [Troubles et pathologies masculines](<../1 - Guides/Pour Lui/36 - Troubles et pathologies masculines.md>)  `corps masculin` · Pour Lui
+- [Les pièges de la modernité masculine](<../1 - Guides/Pour Lui/38 - Les pieges de la modernite masculine.md>)  `santé émotionnelle masculine` · Pour Lui
 - [Ce qui se répare vraiment : les prises en charge qui ont des preuves](<../1 - Guides/Pour Nous/03 - Ce qui se repare vraiment.md>)  `commun` · Pour Nous
 - [Infidélité, violence et sécurité du couple](<../1 - Guides/Pour Nous/14 - Infidelite violence et securite.md>)  `commun` · Pour Nous
 - [Les signaux d'alerte documentés](<../1 - Guides/La rencontre/07 - Les signaux d alerte documentes.md>)  `commun` · La rencontre
@@ -156,6 +161,8 @@ Ce que ça change concrètement quand on est deux.
 - [Comment sont-elles vues et existent-elles dans la famille](<../1 - Guides/Pour Elle/30 - Comment sont-elles vues et existent-elles dans la famille.md>)  `corps féminin` · Pour Elle
 - [Mères célibataires aujourd'hui](<../1 - Guides/Pour Elle/31 - Meres celibataires aujourd hui.md>)  `corps féminin` · Pour Elle
 - [Les conflits entre femmes](<../1 - Guides/Pour Elle/35 - Les conflits entre femmes.md>)  `corps féminin` · Pour Elle
+- [Le désir féminin dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Elle/37 - Le desir feminin dans la duree.md>)  `corps féminin` · Pour Elle
+- [Les reproches récurrents : ce qui est vrai, ce qui est faux, ce qui est mal formulé](<../1 - Guides/Pour Elle/38 - Les reproches recurrents.md>)  `corps féminin` · Pour Elle
 - [La sexualité comme langage émotionnel](<../1 - Guides/Pour Lui/11 - La sexualité comme langage émotionnel.md>)  `corps masculin` · Pour Lui
 - [Le désir dans la durée : ce qui l'installe, ce qui l'éteint](<../1 - Guides/Pour Lui/12 - Le désir dans la durée.md>)  `corps masculin` · Pour Lui
 - [Le désert relationnel : être la seule personne à qui il parle](<../1 - Guides/Pour Lui/14 - Le désert relationnel.md>)  `corps masculin` · Pour Lui
@@ -273,6 +280,7 @@ Chiffres, glossaires, sources, ressources : de quoi vérifier et aller plus loin
 - [Les figures de la recherche masculine en 2026 : qui fait avancer quoi](<../1 - Guides/Pour Lui/31 - La recherche masculine en 2026.md>)  `corps masculin` · Pour Lui
 - [Ressources et associations utiles](<../1 - Guides/Pour Lui/33 - Ressources et associations.md>)  `corps masculin` · Pour Lui
 - [Glossaire complet des termes médicaux employés dans ce document](<../1 - Guides/Pour Lui/34 - Glossaire des termes médicaux.md>)  `corps masculin` · Pour Lui
+- [Fertilité, grossesse et paternité](<../1 - Guides/Pour Lui/37 - Fertilite grossesse et paternite.md>)  `corps masculin` · Pour Lui
 - [Le couple à travers les âges et les civilisations](<../1 - Guides/Pour Nous/11 - Le couple a travers les ages.md>)  `commun` · Pour Nous
 - [Ce qui prédit la réussite ou l'échec : 50 ans de recherche](<../1 - Guides/Pour Nous/15 - Ce qui predit la reussite ou l echec.md>)  `commun` · Pour Nous
 - [Sociologie, anthropologie et histoire du couple](<../1 - Guides/Pour Nous/17 - Sociologie anthropologie et histoire du couple.md>)  `commun` · Pour Nous
