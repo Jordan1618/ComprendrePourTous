@@ -29,3 +29,4 @@ Dans les premières semaines, cela ne ressemble pas à de la menace mais à de l
 - [Comment expriment-elles leur amour](<../1 - Guides/Pour Elle/29 - Comment expriment-elles leur amour.md>), même distinction du côté féminin.
 - [Pouvoir, négociation et conflit](<../1 - Guides/Les nouvelles compositions familiales/08 - Pouvoir negociation et conflit.md>), sur le contrôle coercitif post-séparation et l'instrumentalisation des enfants.
 - [Risques, sécurité et protection](<../1 - Guides/Les nouvelles compositions familiales/15 - Risques securite et protection.md>), sur la distinction entre le phénomène réel de manipulation et le « syndrome d'aliénation parentale », rejeté scientifiquement en tant que diagnostic.
+- [Sommeil, précarité, institutions et contrôle coercitif](<../1 - Guides/Le sommeil/14 - Sommeil precarite et controle coercitif.md>), sur la privation de sommeil utilisée comme tactique délibérée de contrôle, avec témoignages réels.

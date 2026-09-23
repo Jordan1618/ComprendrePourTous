@@ -16,3 +16,4 @@ Elle compte ici parce qu'elle agit directement sur des mécanismes physiologique
 - [Accouchement et post-partum](<../1 - Guides/Pour Elle/11 - Accouchement et post-partum.md>).
 - [Ce que ça coûte : économie et fiscalité de la famille recomposée](<../1 - Guides/Les nouvelles compositions familiales/09 - Ce que ca coute.md>), sur la charge budgétaire démultipliée par deux foyers.
 - [Organisation du quotidien](<../1 - Guides/Les nouvelles compositions familiales/18 - Organisation du quotidien.md>), sur le calendrier partagé entre deux foyers et le kinkeeping.
+- [Le sommeil en couple et en famille](<../1 - Guides/Le sommeil/13 - Le sommeil en couple et en famille.md>), sur la charge mentale qui empêche le sommeil de récupérer même sans réveil nocturne effectif.

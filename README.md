@@ -1,9 +1,9 @@
 ---
 projet: "Comprendre pour tous"
 type: "collection"
-guides: 11
-chapitres: 207
-mots: 312142
+guides: 15
+chapitres: 313
+mots: 411869
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-09-16
 licence: "CC BY 4.0"
@@ -95,8 +95,12 @@ Ce projet est un kit de base : de quoi se comprendre soi-même et comprendre l'a
 | [IST, dépistage et prévention](<1 - Guides/IST, depistage et prevention/README.md>) | commun | 25 | Transmission, chlamydia, gonorrhée, syphilis, herpès, VIH, HPV, vocabulaire IST/MST, en parler en couple, contraception et prévention combinée, recherche en cours, réduction des risques, dépistage en pratique, résistance aux antibiotiques, vivre avec une IST chronique, histoire de la stigmatisation, sociologie du dépistage, populations invisibilisées, hépatites B et C, trichomonase, mycoplasma genitalium, une infection à la fois avec témoignages sourcés | [intégrale](<0 - Guides complets/IST, dépistage et prévention.md>) |
 | [Massage professionnel](<1 - Guides/Massage professionnel/README.md>) | commun | 21 | Cadre, techniques, zones du corps, produits, contre-indications, neurobiologie du toucher, preuves d'efficacité par pathologie, statut légal, devenir praticien, histoire, premier massage | [intégrale](<0 - Guides complets/Massage professionnel.md>) |
 | [Réseaux sociaux](<1 - Guides/Reseaux sociaux/README.md>) | commun | 20 | Histoire, conception, attention, algorithmes, image de soi, dérives amoureuses numériques, cyberharcèlement, cadre légal, modèle économique, créateurs de contenu, géopolitique, régulation comparée, coût social, cerveau adolescent, populations spécifiques, sharenting, usages détournés, éducation aux médias | [intégrale](<0 - Guides complets/Réseaux sociaux.md>) |
+| [Le sommeil](<1 - Guides/Le sommeil/README.md>) | commun | 16 | Cycles et hormones, horloge interne, troubles fréquents, sommeil à chaque âge, traitements de référence, poids et immunité, santé mentale, métiers à risque, histoire, cultures, coût économique et droit, industrie du sommeil, couple et famille, précarité et contrôle coercitif, art et folklore, rituels concrets | [intégrale](<0 - Guides complets/Le sommeil.md>) |
+| [Alimentation](<1 - Guides/Alimentation/README.md>) | commun | 26 | Macronutriments, carences, calcul des besoins, objectifs (perte/prise de masse), sportif vs sédentaire, régimes populaires, compléments, index glycémique et microbiote, maladies liées au régime, troubles du comportement alimentaire, allergies et véganisme, âges de la vie, marketing alimentaire, outils pratiques, histoire, sociologie du repas, religion, industrie agroalimentaire, précarité, écologie et géopolitique, grossophobie, alimentation émotionnelle, couple et famille, éthique alimentaire, art et folklore, alimentation intuitive | [intégrale](<0 - Guides complets/Alimentation.md>) |
+| [Maladie grave et handicap](<1 - Guides/Maladie grave et handicap/README.md>) | commun | 32 | Diagnostic, douleur chronique, maladies invisibles, paraplégie et fauteuil roulant, incontinence, deuil identitaire, acceptation et résilience, validisme, histoire et représentation, langage du handicap, sexualité, couple face à la maladie, aidants, professionnels de soin, santé mentale, logement et aides techniques, emploi et droits, fatigue chronique, cancer et rémission, erreurs médicales, soins palliatifs, incertitude, enfants et parentalité, intersectionnalité, luttes et associations, spiritualité et humour, vécu des soignants, sport et voyage accessibles | [intégrale](<0 - Guides complets/Maladie grave et handicap.md>) |
+| [Psychologie de la personnalité](<1 - Guides/Psychologie de la personnalite/README.md>) | commun | 32 | Big Five, histoire des typologies, tests populaires passés au crible, introversion, origines génétiques, perfectionnisme, estime de soi, narcissisme et troubles de la personnalité, conformisme et anticonformisme, juste milieu, solitude choisie ou subie, santé et longévité, travail et burn-out, tests en entreprise, cultures, genre, couple, amitié, séduction, fratrie, tempérament de l'enfant, résilience, changement à l'âge adulte, personnalités « toxiques », persona, fiction, réseaux sociaux, authenticité, acceptation de soi et d'autrui | [intégrale](<0 - Guides complets/Psychologie de la personnalité.md>) |
 
-Environ 236 000 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
+Environ 263 000 mots au total. Un document à part condense le meilleur de chaque guide, pour un premier aperçu avant de plonger dans l'intégrale : [Le meilleur de chaque guide](<0 - Guides complets/Le meilleur de chaque guide.md>).
 
 ## Trois façons d'y entrer
 

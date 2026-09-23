@@ -35,6 +35,10 @@ ORDRE_GUIDES = [
     "Questions et communication",
     "Les nouvelles compositions familiales",
     "Reseaux sociaux",
+    "Le sommeil",
+    "Alimentation",
+    "Maladie grave et handicap",
+    "Psychologie de la personnalite",
 ]
 
 SUJETS = [

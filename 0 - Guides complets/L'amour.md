@@ -7,7 +7,7 @@ mots: 39788
 verifie_le: 2026-09-21
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/L amour"
-genere_le: 2026-09-21
+genere_le: 2026-09-23
 ---
 
 # L'amour

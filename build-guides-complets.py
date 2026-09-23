@@ -28,6 +28,10 @@ DOSSIERS = [
     "Pour Nous",
     "Les nouvelles compositions familiales",
     "Reseaux sociaux",
+    "Le sommeil",
+    "Alimentation",
+    "Maladie grave et handicap",
+    "Psychologie de la personnalite",
 ]
 
 def lire_frontmatter(texte):

@@ -16,5 +16,6 @@ Ce qui le rend observable : il ne se lit pas au calme mais **aux frictions** —
 **Où c'est développé**
 - [Les styles d'attachement](<../1 - Guides/La rencontre/02 - Les styles d attachement.md>), avec les quatre configurations décrites par leur comportement et le piège anxieux-évitant.
 - [Ce qu'on rejoue de son histoire](<../1 - Guides/L amour/05 - Ce qu on rejoue de son histoire.md>), sur le modèle interne opérant qui produit ces styles.
+- [Personnalité et couple](<../1 - Guides/Psychologie de la personnalite/20 - Personnalite et couple.md>), sur la distinction entre la personnalité (comment on est en général) et l'attachement (comment on réagit à la proximité et à la séparation dans une relation précise).
 
 **Voir aussi** [Sécurité acquise](<Sécurité acquise.md>), [Renforcement intermittent](<Renforcement intermittent.md>).

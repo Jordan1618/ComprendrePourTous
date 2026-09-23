@@ -1,0 +1,36 @@
+---
+guide: "Psychologie de la personnalité"
+chapitre: "24"
+titre: "Famille, enfants et tempérament"
+sujet: "famille"
+angle: "physiologie"
+verifie_le: 2026-09-23
+licence: "CC BY 4.0"
+---
+
+# Famille, enfants et tempérament
+
+Avant même qu'un enfant ne développe la personnalité complexe étudiée dans le reste de ce guide, il naît avec un tempérament observable dès les premiers mois. Ce chapitre présente la théorie de référence sur ce tempérament précoce, et surtout ce qui compte le plus pour son évolution : moins le tempérament lui-même que son ajustement avec l'environnement familial.
+
+### 24.1 Les neuf dimensions et les trois profils de Thomas et Chess
+
+L'étude longitudinale la plus influente sur le tempérament infantile a débuté dans les années 1950, en réaction à une psychologie de l'époque jugée trop centrée sur le seul déterminisme environnemental. [Thomas et Chess ont débuté leur étude longitudinale en réaction à ce qu'ils percevaient comme un accent excessif mis sur le déterminisme environnemental dans les traditions psychanalytique et comportementale dominantes des années 1950](https://openstax.org/books/lifespan-development/pages/4-2-temperament-and-personality-in-infants-and-toddlers). Leur travail a identifié neuf dimensions de tempérament, encore aujourd'hui la description la plus détaillée et la mieux étayée empiriquement du tempérament du jeune enfant, permettant de classer les nourrissons en trois grands profils. [Sur l'échantillon étudié, 40 % correspondaient au profil facile, 10 % au profil difficile, et 15 % étaient lents à s'ouvrir](https://openstax.org/books/lifespan-development/pages/4-2-temperament-and-personality-in-infants-and-toddlers). Chaque profil se reconnaît à des signes concrets et observables au quotidien. [Les enfants du profil facile ont généralement une attitude positive, s'adaptent rapidement aux routines et aux nouvelles situations ; les enfants du profil difficile pleurent plus souvent, ont plus de mal à s'adapter aux nouvelles situations et ne suivent pas les routines de façon régulière ; les enfants lents à s'ouvrir s'adaptent lentement et peuvent réagir négativement, tout en montrant une faible intensité dans leurs réactions émotionnelles](https://openstax.org/books/lifespan-development/pages/4-2-temperament-and-personality-in-infants-and-toddlers).
+
+### 24.2 L'ajustement compte plus que le tempérament lui-même
+
+La contribution conceptuelle la plus influente de Thomas et Chess ne porte pas sur la classification en elle-même, mais sur un principe qui relativise son importance directe. [Le modèle de l'ajustement (« goodness of fit ») pose que les résultats pour un enfant ne dépendent pas du tempérament seul, mais de la qualité de l'ajustement entre les exigences et les attentes de l'environnement et les caractéristiques tempéramentales de l'enfant ; un bon ajustement survient quand les styles parentaux et les pratiques éducatives s'alignent sur les caractéristiques tempéramentales individuelles de l'enfant](https://openstax.org/books/lifespan-development/pages/4-2-temperament-and-personality-in-infants-and-toddlers). Un mauvais ajustement, à l'inverse, produit des conséquences concrètes et documentées. [Quand l'ajustement est mauvais, comme un enfant difficile élevé dans un environnement trop rigide, cela peut mener à des difficultés de comportement et de régulation émotionnelle](https://openstax.org/books/lifespan-development/pages/4-2-temperament-and-personality-in-infants-and-toddlers).
+
+### 24.3 L'enfant « orchidée » : plus vulnérable, mais aussi plus réceptif au bon environnement
+
+Une théorie plus récente affine ce principe d'ajustement pour les enfants au tempérament le plus réactif, souvent qualifiés d'enfants « orchidées » par contraste avec les enfants « pissenlits », plus résistants aux variations d'environnement. [Un enfant hautement réactif pourrait s'épanouir exceptionnellement bien avec une parentalité sensible, mais peiner nettement avec une discipline sévère ; certains types de tempérament peuvent prédisposer les enfants à une plus grande sensibilité aux influences environnementales](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9786603/). Deux modèles théoriques concurrents expliquent cette sensibilité accrue, avec une différence importante entre eux. [Le modèle diathèse-stress propose que les enfants avec certaines vulnérabilités (par exemple une forte émotivité négative) sont affectés de façon disproportionnée par une parentalité défavorable, mais montrent des résultats normaux dans des conditions bienveillantes ; la théorie de la susceptibilité différentielle soutient que certains enfants ne sont pas seulement plus vulnérables aux environnements négatifs, mais bénéficient aussi davantage que les autres d'une parentalité positive et soutenante](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9786603/) — l'enfant le plus sensible n'est donc pas condamné à un désavantage : il a aussi le plus grand potentiel de bénéfice si l'environnement lui convient.
+
+**Bons réflexes, en synthèse de ce chapitre.**
+- Face à un enfant au tempérament difficile ou lent à s'adapter, ne jamais chercher à faire disparaître ce tempérament : chercher plutôt un ajustement entre les exigences posées et ses caractéristiques propres, principe identifié comme déterminant bien plus que le tempérament pris isolément.
+- Reconnaître qu'un même style parental peut produire des résultats opposés selon le tempérament de l'enfant qui le reçoit : ce qui convient à un enfant « pissenlit » peut nuire à un enfant « orchidée » et inversement, sans qu'aucun des deux tempéraments ne soit en soi meilleur.
+- Retenir que l'enfant le plus sensible aux influences environnementales n'est pas seulement le plus vulnérable en cas d'environnement défavorable : il est aussi celui qui profite le plus d'un environnement particulièrement soutenant, un point souvent oublié quand on ne retient que le risque.
+- Se rappeler que ce tempérament précoce n'est pas la personnalité adulte étudiée dans le reste de ce guide, mais son terreau initial : la suite du développement, abordée au chapitre suivant sur la résilience puis au chapitre 26 sur le changement à l'âge adulte, montre à quel point cette trajectoire reste ouverte.
+
+## Sources vérifiables
+
+- OpenStax, [4.2 Temperament and Personality in Infants and Toddlers](https://openstax.org/books/lifespan-development/pages/4-2-temperament-and-personality-in-infants-and-toddlers) ; vérification du 23 septembre 2026.
+- [Understanding How Child Temperament, Negative Parenting, and Dyadic Parent-Child Behavioral Variability Interact to Influence Externalizing Problems](https://pmc.ncbi.nlm.nih.gov/articles/PMC9786603/), *PMC* ; vérification du 23 septembre 2026.
