@@ -7,7 +7,7 @@ mots: 17916
 verifie_le: 2026-09-22
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Le sommeil"
-genere_le: 2026-09-23
+genere_le: 2026-09-24
 ---
 
 # Le sommeil

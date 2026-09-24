@@ -2,6 +2,14 @@
 
 Ce fichier est chargé automatiquement au début de chaque session dans ce dossier. Il ne remplace ni `MAINTENANCE.md` ni le skill `Faiseur2Guide` — il garantit que leurs règles les plus critiques sont appliquées même si personne ne pense à relire ces documents.
 
+## Les trois skills, et quand les invoquer
+
+- **`Faiseur2Guide`** : au lancement d'un nouveau guide, pour l'élicitation et le plan de chapitres. S'arrête au plan.
+- **`Redaction2Chapitre`** : dès qu'un chapitre s'écrit ou se corrige, y compris sur un guide existant. Porte le fil unique, la définition de l'objet, l'analogie portée de bout en bout, l'échelle des chiffres, le bloc ⚖️ Nuance, le plancher de 1 500 mots et la liste de vérification à afficher après chaque chapitre. **Un chapitre écrit sans ce skill cite ses sources sans rien expliquer** : c'est arrivé sur quatre guides consécutifs.
+- **`Audit2Guide`** : pour relever les défauts d'un guide existant, en lecture seule, avant toute reprise.
+
+Le chantier de reprise des guides est suivi dans `5 - Notes Internes/A faire - Amelioration methode et reprise des guides.md`.
+
 ## Avant de toucher au contenu
 
 - **Lire `MAINTENANCE.md` en entier** avant de modifier un guide existant.

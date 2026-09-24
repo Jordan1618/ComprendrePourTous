@@ -39,11 +39,23 @@ Diagnostic : le skill fait 250 lignes dont six portent sur l'écriture. Le proc�
 
 | # | Tâche | Statut |
 |---|---|---|
-| 1.1 | Chapitre pilote : refaire entièrement `03 - Le modele Big Five.md` sous les nouvelles règles, faire valider par l'utilisateur | à faire |
-| 1.2 | Créer le skill `Redaction2Chapitre` (craft, court, avec le bloc ⚖️ Nuance et la liste de vérification) | à faire, après validation du pilote |
-| 1.3 | Alléger `Faiseur2Guide` : ne garder que l'élicitation, le plan de chapitres et la checklist de livraison | à faire |
-| 1.4 | Créer le skill `Audit2Guide` (lecture seule, renvoie un rapport de défauts par chapitre) | à faire |
-| 1.5 | Ajouter dans `CLAUDE.md` trois lignes de renvoi vers les nouveaux skills | à faire |
+| 1.1 | Chapitre pilote : refaire entièrement `03 - Le modele Big Five.md` sous les nouvelles règles, faire valider par l'utilisateur | **fait** (24/09/2026, 920 → 2 066 mots, validé après une passe de correction) |
+| 1.2 | Créer le skill `Redaction2Chapitre` (craft, court, avec le bloc ⚖️ Nuance et la liste de vérification) | **fait** (104 lignes) |
+| 1.3 | Alléger `Faiseur2Guide` : ne garder que l'élicitation, le plan de chapitres et la checklist de livraison | **fait** (v19) |
+| 1.4 | Créer le skill `Audit2Guide` (lecture seule, renvoie un rapport de défauts par chapitre) | **fait** (56 lignes) |
+| 1.5 | Ajouter dans `CLAUDE.md` trois lignes de renvoi vers les nouveaux skills | **fait** |
+
+### Ce que le pilote a corrigé dans les règles
+
+La première version du chapitre pilote cochait toutes les cases et restait mauvaise : analogie citée dans un titre mais jamais reprise, blocs « Nuance » qui définissaient au lieu de nuancer, chiffre de 0,31 tombant de nulle part, et surtout l'objet central jamais défini (les cinq traits décrits un par un sans jamais dire ce que le modèle affirme). Cinq corrections en sont sorties, toutes inscrites dans `Redaction2Chapitre` :
+
+1. Définir l'objet lui-même par une phrase en gras, pas seulement énumérer ses parties.
+2. Une seule analogie, portée de bout en bout, et retournée en fin de chapitre pour montrer la limite du sujet.
+3. Un seul bloc ⚖️ Nuance par chapitre, qui énumère les malentendus. Il nuance, il ne définit pas.
+4. Tout chiffre précédé de la question qui le rend nécessaire.
+5. La règle des 15 mots par lien était trop serrée (elle sanctionnait des phrases écrites, pas collées) : remplacée par « une seule affirmation par lien », plafond à 25 mots, interdiction du point-virgule maintenue.
+
+Le piège principal est inscrit tel quel dans le skill : ces règles se satisfont en surface. Le seul vrai test reste le fil, c'est-à-dire le fait que le chapitre se lise du haut vers le bas en restant sur le sujet de son titre.
 
 ### Règles à inscrire dans `Redaction2Chapitre`
 

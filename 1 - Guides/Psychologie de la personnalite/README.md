@@ -3,7 +3,7 @@ type: "guide"
 guide: "Psychologie de la personnalité"
 sujet: "commun"
 chapitres: 32
-mots: 27277
+mots: 28423
 verifie_le: 2026-09-23
 licence: "CC BY 4.0"
 ---
@@ -24,7 +24,7 @@ Pour les styles d'attachement en amour, voir la notion [Style d'attachement](<..
 |---|---|---|---|
 | 1 | [Qu'est-ce que la personnalité : définition, stabilité et changement](<01 - Qu est-ce que la personnalite.md>) | Psychologie | 764 |
 | 2 | [Histoire des typologies : des humeurs d'Hippocrate aux pseudosciences modernes](<02 - Histoire des typologies.md>) | Repères | 1 144 |
-| 3 | [Le modèle Big Five](<03 - Le modele Big Five.md>) | Psychologie | 920 |
+| 3 | [Le modèle Big Five](<03 - Le modele Big Five.md>) | Psychologie | 2 066 |
 | 4 | [Les tests populaires passés au crible : MBTI et autres](<04 - Les tests populaires passes au crible.md>) | Prévention | 790 |
 | 5 | [Introversion et extraversion](<05 - Introversion et extraversion.md>) | Physiologie | 807 |
 | 6 | [Origines génétiques et environnementales de la personnalité](<06 - Origines genetiques et environnementales.md>) | Physiologie | 866 |

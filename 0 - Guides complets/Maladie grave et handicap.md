@@ -7,7 +7,7 @@ mots: 29573
 verifie_le: 2026-09-22
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Maladie grave et handicap"
-genere_le: 2026-09-23
+genere_le: 2026-09-24
 ---
 
 # Maladie grave et handicap

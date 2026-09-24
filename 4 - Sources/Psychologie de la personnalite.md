@@ -33,9 +33,18 @@ Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de
 
 | Référence | Ce qu'elle appuie | Chapitre |
 |---|---|---|
-| [The Big Five Personality Framework: A Comprehensive Analysis](https://www.christopherspenn.com/wp-content/uploads/2025/05/big_5_analysis_research.pdf) | Hypothèse lexicale, historique, convergence méthodologique | 3.1 |
-| [Big five personality traits and performance: A quantitative synthesis of 50+ meta-analyses](https://pubmed.ncbi.nlm.nih.gov/34687041/), *PubMed* | Corrélations performance, fiabilité de réplication | 3.2 |
-| Ziwo Wellness Health, [Big Five Personality Traits](https://ziwowellnesshealth.com/big-five-personality-traits-explained/) | Santé, longévité, névrosisme | 3.2 |
+| [The Big Five Personality Framework: A Comprehensive Analysis](https://www.christopherspenn.com/wp-content/uploads/2025/05/big_5_analysis_research.pdf) | Hypothèse lexicale, Allport et Odbert, Cattell, convergence méthodologique | 3.1 |
+| EBSCO Research Starters, [Big Five personality traits](https://www.ebsco.com/research-starters/social-sciences-and-humanities/big-five-personality-traits) | Acronyme OCEAN, définitions de l'extraversion et du névrosisme | 3.2 |
+| SimplyPsychology, [Big Five Personality Traits: The 5-Factor Model](https://www.simplypsychology.org/big-five-personality.html) | Définitions et pôles haut/bas des cinq traits | 3.2 |
+| Cleveland Clinic, [Understanding the Big 5 Personality Traits](https://health.clevelandclinic.org/big-five-personality-traits) | Définition de l'ouverture à l'expérience | 3.2 |
+| Wikipedia, [Hierarchical structure of the Big Five](https://en.wikipedia.org/wiki/Hierarchical_structure_of_the_Big_Five) | Facettes de second ordre des cinq traits | 3.2 |
+| [Big five personality traits and performance: A quantitative synthesis of 50+ meta-analyses](https://pubmed.ncbi.nlm.nih.gov/34687041/), *PubMed* | Corrélation de 0,31 entre caractère consciencieux et performance | 3.3 |
+| [Published correlational effect sizes in social and developmental psychology](https://royalsocietypublishing.org/rsos/article/9/12/220311/96350/Published-correlational-effect-sizes-in-social-and), *Royal Society Open Science* | Distribution réelle des corrélations publiées, médiane à 0,19 | 3.3 |
+| Funder et Ozer, [Evaluating Effect Size in Psychological Research](https://journals.sagepub.com/doi/full/10.1177/2515245919847202), *AMPPS* | Échelle de comparaison, antihistaminiques, taille et poids | 3.3 |
+| McAdams, [The five-factor model in personality: a critical appraisal](https://pubmed.ncbi.nlm.nih.gov/1635046/), *Journal of Personality* | La « psychologie de l'étranger » | 3.4 |
+| [Critiques of the Big Five: what the critics say and what they get right](https://cercol.team/blog/critiques-of-big-five-what-critics-say/) | Taxinomie du langage, biais WEIRD | 3.4 |
+| [« Nothing to see here » : No structural brain differences and the Big Five](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9379932/), *PMC* | Absence de corrélat cérébral réplicable | 3.4 |
+| Wellable, [Five Limitations Of The Big Five Personality Test](https://www.wellable.co/blog/five-limitations-of-big-five-personality-test/) | Validité prédictive dépendante du métier | 3.4 |
 
 ## Chapitre 4 — Les tests populaires passés au crible
 

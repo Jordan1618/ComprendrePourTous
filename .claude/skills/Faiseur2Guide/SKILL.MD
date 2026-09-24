@@ -22,14 +22,13 @@ Trait commun à tous ces personas, non négociable : confiance et autorité tran
 
 Structure du guide
 
-Chapitres numérotés (## 1., ## 2....) puis sous-parties (### 1.1, ### 1.2...). Pour chaque sujet un peu conséquent :
+Chapitres numérotés (## 1., ## 2....) puis sous-parties (### 1.1, ### 1.2...).
 
-* Une analogie concrète nommée dans le titre de la section.
-* 💑 Dans le couple : ce que ça change concrètement à deux.
-* 👁️ Vu de l'autre côté : quand le sujet s'y prête, ce que le sexe opposé perçoit, redoute ou comprend mal sur ce point précis. Un seul bloc en deux mouvements : d'abord l'explication sourcée (ce que montre la recherche sur ce décalage de perception, pourquoi il existe), puis, sans transition ni guillemets de précaution, une ou deux phrases crues à la première personne qui l'incarnent — direct, sans détour, dire ce qu'il y a vraiment au fond des gens plutôt que l'euphémiser. Ne pas forcer ce bloc partout : seulement là où un vrai écart de perception, documentable, existe.
-* Bons réflexes : des actions ou formulations concrètes, jamais des généralités.
-* Des estimations chiffrées sourcées et datées quand elles existent ; fourchette plutôt que faux chiffre unique si la donnée est incertaine — et le dire, plutôt qu'inventer une précision qui n'existe pas.
-* 🗣️ Témoignage réel : quand le sujet touche à un vécu personnel fort (diagnostic, deuil, transition, rupture, addiction...), chercher un vrai témoignage déjà publié (association de patients, article de presse, forum public, page d'une association spécialisée) et le citer avec son lien, exactement comme une source scientifique. Voir la section "Témoignages réels" plus bas pour la méthode complète et l'interdiction absolue d'en inventer un.
+**L'écriture d'un chapitre relève du skill `Redaction2Chapitre`, pas de celui-ci.** C'est lui qui porte le fil unique, la définition de l'objet, l'analogie portée de bout en bout, le sourçage phrase par phrase, l'échelle des chiffres, les blocs ⚖️ Nuance / 👁️ Vu de l'autre côté / 💑 Dans le couple / 🗣️ Témoignage réel, les bons réflexes formulés en actions, le plancher de 1 500 mots et la liste de vérification de fin de chapitre. Ce skill-ci s'arrête au plan ; l'invoquer pour lancer un guide, invoquer `Redaction2Chapitre` pour l'écrire.
+
+Origine de la séparation : ces règles d'écriture vivaient ici, noyées dans 250 lignes de procédure, et ont été ignorées sur 32 chapitres consécutifs sans que personne ne s'en aperçoive avant la relecture finale.
+
+Des estimations chiffrées sourcées et datées quand elles existent ; fourchette plutôt que faux chiffre unique si la donnée est incertaine, et le dire, plutôt qu'inventer une précision qui n'existe pas.
 
 Numéroter les ajouts après coup en X.Y bis plutôt que tout renuméroter, pour ne pas casser les renvois internes ("voir 4.4").
 
@@ -83,15 +82,7 @@ Chaque chapitre de contenu se termine par sa propre section "## Sources vérifia
 
 Technique transversale : de l'abstrait au concret
 
-Repérée dans les guides santé (masculin/féminin) puis extraite en guide à part ("Les questions qui font mouche"), cette technique s'applique à tout guide de ce skill dès qu'il s'agit de proposer une formulation à dire à quelqu'un — pas seulement aux guides de communication. Une question ouverte et émotionnelle ("qu'est-ce que tu ressens ?", "ça va ?", "pourquoi tu as fait ça ?") bloque presque toujours plus qu'elle n'ouvre, parce qu'elle demande une réponse que la personne en face n'a pas toujours sous la main. La reformuler selon un de ces cinq leviers la rend répondable :
-
-* Le menu fermé : remplacer une question ouverte par 2-3 choix courts.
-* Le corps : demander où, physiquement, plutôt que quoi, émotionnellement.
-* Le chiffre : une échelle (sur dix) plutôt qu'une qualité à nommer.
-* Le différentiel : comparer un avant/après plutôt que demander un état absolu.
-* Le quand plutôt que le pourquoi : remonter la chronologie des faits plutôt que d'exiger une justification immédiate.
-
-Quand un chapitre propose une formulation-type à dire à voix haute, vérifier qu'elle utilise un de ces leviers plutôt qu'une question ouverte brute — et en cas de besoin de comprendre pourquoi une phrase donnée fonctionne, cette grille est la réponse à donner.
+Repérée dans les guides santé (masculin/féminin) puis extraite en guide à part ("Les questions qui font mouche"). Les cinq leviers qui rendent une question répondable (le menu fermé, le corps, le chiffre, le différentiel, le quand plutôt que le pourquoi) sont désormais détaillés dans `Redaction2Chapitre`, puisqu'ils servent au moment d'écrire. Ils restent la réponse à donner quand il faut expliquer pourquoi une formulation fonctionne et pas une autre.
 
 Grille des 100 angles d'analyse — élicitation transversale
 
@@ -227,6 +218,7 @@ Si l'interlocuteur redirige
 * S'il veut un autre persona que celui utilisé par défaut pour le sujet → basculer directement, sans demander confirmation.
 
 Note de mise à jour
+* 24 septembre 2026 (v19) — séparation de l'écriture et de la méthode. Toute la rédaction d'un chapitre part dans un nouveau skill `Redaction2Chapitre` (fil unique, définition de l'objet, analogie portée, sourçage phrase par phrase, échelle des chiffres, bloc ⚖️ Nuance, blocs 👁️💑🗣️, réflexes en actions, plancher de 1 500 mots, liste de vérification), et un skill `Audit2Guide` en lecture seule est créé pour relever les défauts des guides existants. Ce skill-ci ne porte plus que l'élicitation, le plan et la livraison. Origine : relecture du guide Psychologie de la personnalité, dont les 32 chapitres citaient des études sans jamais les expliquer et ne définissaient pas leurs objets centraux. Diagnostic : les règles d'écriture existaient déjà ici (analogie nommée, blocs 👁️🗣️, réflexes concrets, plancher de 1 500 mots) mais, tenant six lignes dans 250 lignes de procédure et n'étant pas vérifiables, elles ont été ignorées sur quatre guides consécutifs au profit des règles contrôlables. Le chapitre `1 - Guides/Psychologie de la personnalite/03 - Le modele Big Five.md` sert d'exemple de référence.
 * 16 septembre 2026 (v18) — le recoupement avec un sujet déjà traité ailleurs ne justifie plus, par défaut, d'écarter un thème retenu en élicitation : l'écrire quand même sous l'angle propre au guide en cours, avec un renvoi croisé explicite plutôt qu'une redite ou une omission. Origine : demande explicite d'intégrer l'ensemble des thèmes proposés "même si le sujet a déjà été traité ailleurs".
 * 16 septembre 2026 (v17) — seuil de longueur par chapitre ramené à 1 500-3 500 mots (l'ancien seuil de 7 500-9 000 mots, fixé en v5, n'était jamais atteint en pratique sur les chapitres réellement produits) ; et systématisation du "tout intégrer par défaut" en élicitation : la grille, l'inventaire et les deux exemples restent toujours présentés pour validation, mais la rédaction qui suit couvre désormais tous les angles pertinents et les deux exemples en entier sans attendre un tri, sauf consigne contraire explicite. Origine : demande de fixer ces deux réflexes, déjà appliqués au cas par cas sur plusieurs guides consécutifs, comme règles par défaut du skill.
 * 16 septembre 2026 (v16) — ajout du bloc structurel "🗣️ Témoignage réel" et de la section "Témoignages réels" : quand un guide touche à un vécu personnel fort, chercher un vrai témoignage déjà publié (association de patients, presse, forum public) et le citer avec un lien, exactement comme une source scientifique ; interdiction absolue d'en inventer un, y compris "à titre illustratif" ; dire explicitement l'absence de témoignage trouvé plutôt que de la combler. Origine : enrichissement du guide IST avec une demande explicite de témoignages de médecins et de patients, six retrouvés et cités, l'absence signalée ailleurs plutôt qu'inventée.
