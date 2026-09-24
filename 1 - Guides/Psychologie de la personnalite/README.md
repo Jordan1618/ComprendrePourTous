@@ -3,7 +3,7 @@ type: "guide"
 guide: "Psychologie de la personnalité"
 sujet: "commun"
 chapitres: 32
-mots: 28423
+mots: 29171
 verifie_le: 2026-09-23
 licence: "CC BY 4.0"
 ---
@@ -34,15 +34,15 @@ Pour les styles d'attachement en amour, voir la notion [Style d'attachement](<..
 | 10 | [Le conformisme](<10 - Le conformisme.md>) | Psychologie | 1 013 |
 | 11 | [L'anticonformisme](<11 - L anticonformisme.md>) | Psychologie | 955 |
 | 12 | [Le juste milieu : la modération comme compétence](<12 - Le juste milieu.md>) | Psychologie | 862 |
-| 13 | [Solitude choisie, solitude subie, célibat volontaire](<13 - Solitude choisie et solitude subie.md>) | Psychologie | 978 |
+| 13 | [Solitude choisie, solitude subie, célibat volontaire](<13 - Solitude choisie et solitude subie.md>) | Psychologie | 1 056 |
 | 14 | [Personnalité, santé physique et longévité](<14 - Personnalite sante physique et longevite.md>) | Physiologie | 751 |
-| 15 | [Personnalité et monde du travail : profils, burn-out, leadership](<15 - Personnalite et monde du travail.md>) | Pratique | 890 |
+| 15 | [Personnalité et monde du travail : profils, burn-out, leadership](<15 - Personnalite et monde du travail.md>) | Pratique | 964 |
 | 16 | [Les tests de personnalité en entreprise : validité et éthique](<16 - Les tests de personnalite en entreprise.md>) | Prévention | 756 |
-| 17 | [Personnalité à travers les cultures](<17 - Personnalite a travers les cultures.md>) | Société | 826 |
+| 17 | [Personnalité à travers les cultures](<17 - Personnalite a travers les cultures.md>) | Société | 872 |
 | 18 | [Personnalité et genre : stéréotypes sur les hommes et les femmes](<18 - Personnalite et genre.md>) | Société | 783 |
 | 19 | [Différences de personnalité perçues entre hommes et femmes : mythe et réalité](<19 - Differences percues entre hommes et femmes.md>) | Société | 830 |
-| 20 | [Personnalité et couple : compatibilité, complémentarité](<20 - Personnalite et couple.md>) | Relation | 866 |
-| 21 | [Personnalité et amitié, y compris amitiés hommes-femmes](<21 - Personnalite et amitie.md>) | Relation | 895 |
+| 20 | [Personnalité et couple : compatibilité, complémentarité](<20 - Personnalite et couple.md>) | Relation | 1 034 |
+| 21 | [Personnalité et amitié, y compris amitiés hommes-femmes](<21 - Personnalite et amitie.md>) | Relation | 993 |
 | 22 | [Personnalité et séduction : perçue vs réelle](<22 - Personnalite et seduction.md>) | Relation | 883 |
 | 23 | [Transmission familiale des traits, rôle de la fratrie](<23 - Transmission familiale et fratrie.md>) | Physiologie | 850 |
 | 24 | [Famille, enfants et tempérament](<24 - Famille enfants et temperament.md>) | Physiologie | 842 |
@@ -53,6 +53,6 @@ Pour les styles d'attachement en amour, voir la notion [Style d'attachement](<..
 | 29 | [Personnalité dans la fiction et la culture populaire](<29 - Personnalite dans la fiction et la culture populaire.md>) | Société | 780 |
 | 30 | [Réseaux sociaux et polarisation des personnalités affichées](<30 - Reseaux sociaux et polarisation des personnalites.md>) | Société | 816 |
 | 31 | [L'authenticité : valeur culturelle récente](<31 - L authenticite valeur culturelle recente.md>) | Société | 685 |
-| 32 | [S'accepter, accepter l'autre](<32 - S accepter accepter l autre.md>) | Psychologie | 821 |
+| 32 | [S'accepter, accepter l'autre](<32 - S accepter accepter l autre.md>) | Psychologie | 944 |
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

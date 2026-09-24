@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # L'anticonformisme
 
-Quatrième sujet explicitement demandé pour ce guide, en miroir direct du chapitre précédent. Ce chapitre distingue une nuance essentielle et mal connue : refuser de suivre le groupe n'est pas toujours la même chose que penser par soi-même.
+En miroir direct du chapitre précédent, ce chapitre distingue une nuance essentielle et mal connue : refuser de suivre le groupe n'est pas toujours la même chose que penser par soi-même.
 
 ### 11.1 Le besoin d'unicité : une motivation identifiée, pas un simple caprice
 

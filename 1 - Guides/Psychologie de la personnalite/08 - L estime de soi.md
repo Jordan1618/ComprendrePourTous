@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # L'estime de soi
 
-Second sujet explicitement demandé pour ce guide. Ce chapitre distingue trois dimensions de l'estime de soi trop souvent confondues en une seule, avant d'examiner ce que les réseaux sociaux lui font concrètement, en particulier chez les adolescentes.
+Ce chapitre distingue trois dimensions de l'estime de soi trop souvent confondues en une seule, avant d'examiner ce que les réseaux sociaux lui font concrètement, en particulier chez les adolescentes.
 
 ### 8.1 Niveau, stabilité, contingence : trois dimensions, pas une seule
 

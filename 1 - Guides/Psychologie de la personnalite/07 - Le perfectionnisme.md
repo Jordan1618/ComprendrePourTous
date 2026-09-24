@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Le perfectionnisme
 
-Sujet explicitement demandé pour ce guide. Le perfectionnisme n'est pas un trait unique et homogène : la recherche en distingue plusieurs formes, dont une seule est systématiquement associée à la souffrance. Ce chapitre détaille cette distinction, avant de montrer pourquoi le perfectionnisme global augmente depuis trois décennies.
+Le perfectionnisme n'est pas un trait unique et homogène : la recherche en distingue plusieurs formes, dont une seule est systématiquement associée à la souffrance. Ce chapitre détaille cette distinction, avant de montrer pourquoi le perfectionnisme global augmente depuis trois décennies.
 
 ### 7.1 Trois perfectionnismes, pas un seul : la distinction qui change tout
 

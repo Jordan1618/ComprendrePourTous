@@ -126,6 +126,16 @@ Chiffres issus de `build-guides-complets.py` au 23/09/2026. À noter : le tablea
 - **Agents en parallèle : oui pour l'audit** (lecture seule, rapport court, économise le contexte principal). **Prudence pour la rédaction** : des agents qui écrivent en parallèle ne se voient pas, donc dupliquent les sources et les notions — ce que la règle permanente interdit. Si utilisé quand même : lots de chapitres indépendants, interdiction de toucher à `4 - Sources/` et `2 - Notions/`, consolidation centrale à la fin.
 - **Modèles** : Opus pour le pilote et les premiers chapitres d'un guide (là où se fixe le ton), Sonnet pour appliquer un gabarit validé et pour les audits.
 
+## Étape 3a — chirurgies et défauts ponctuels (24/09/2026)
+
+Fait, sur la base de `5 - Notes Internes/Audit - Psychologie de la personnalite.md` :
+
+- Défauts ponctuels : langage de mainteneur supprimé dans les ouvertures des chapitres 7, 8, 10, 11, 12, 13. Chapitre 24 : les neuf dimensions de Thomas et Chess listées (elles étaient annoncées dans un titre sans être données), et le tiers d'enfants hors des trois profils explicité (40+10+15 % ne totalisait pas 100 %).
+- Six chirurgies : 13 (bloc 🗣️ témoignage réel ajouté — Bella DePaulo, HuffPost, sur le célibat volontaire), 15 (burn-out défini par ses trois dimensions, analogie du fusible), 17 (individualisme/collectivisme définis), 20 (bloc 💑, corrélations 0,855 et -0,439 mises à l'échelle du chapitre 3), 21 (bloc 👁️ sur l'asymétrie d'attirance, pourcentages mis à l'échelle), 32 (bloc 💑, le 69 % de Gottman mis à l'échelle). Plusieurs réflexes passifs (« Retenir que... ») convertis en actions au passage.
+- 979 → 1 056 (13), 890 → 964 (15), 826 → 872 (17), 866 → 1 034 (20), 895 → 993 (21), 821 → 944 (32). Guide total : 28 423 → 29 171 mots.
+- Pipeline relancé, réciprocité des sources vérifiée, aucun lien cassé.
+- Restent 25 chapitres en réécriture sur ce guide (verdict de l'audit), non traités : voir l'arbitrage à trancher ci-dessous avant de les lancer.
+
 ## Comment reprendre
 
-Commencer par 1.1 (le pilote). Ne pas graver les règles dans les skills avant que l'utilisateur ait validé le pilote — coder une méthode non validée reproduirait la même erreur en plus solennel.
+Étapes 0 à 3a faites. Prochaine étape : `/Audit2Guide` sur trois guides en parallèle (Le sommeil, Alimentation, Maladie grave et handicap), pour obtenir la carte des défauts avant de décider s'il vaut mieux reprendre 3-4 guides en profondeur ou tous les guides en surface (chirurgies + défauts ponctuels seulement). Ne pas lancer les 25 réécritures du guide témoin avant cet arbitrage.

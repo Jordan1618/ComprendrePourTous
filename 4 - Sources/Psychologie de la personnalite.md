@@ -140,6 +140,7 @@ Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de
 | ScienceBlog, Two people can spend exactly the same amount of time alone... | Rôle du choix dans le vécu de la solitude | https://scienceblog.com/t-choice-voluntary-solitude-unwanted-loneliness-wellbeing/ |
 | NIH/PMC, The Moderating Role of Positive Solitude... | Solitude positive modérant la dépression liée à la solitude subie | https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10736762/ |
 | ResearchGate, Being single in the twenty-first century | Célibat volontaire, tendance démographique, santé mentale, Pew Research | https://www.researchgate.net/publication/391276441_Being_single_in_the_twenty-first_century |
+| Bella DePaulo, HuffPost Personal | Témoignage réel sur le célibat volontaire, "single at heart" | https://www.huffpost.com/entry/single-at-heart-living-alone-adult_n_65495a25e4b01b258584e025 |
 
 ## Chapitre 14 — Personnalité, santé physique et longévité
 

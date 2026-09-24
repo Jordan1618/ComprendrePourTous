@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Le conformisme
 
-Troisième sujet explicitement demandé pour ce guide. Ce chapitre présente l'expérience fondatrice sur le conformisme, sa robustesse confirmée jusqu'à aujourd'hui, puis les deux mécanismes psychologiques distincts qui le sous-tendent.
+Ce chapitre présente l'expérience fondatrice sur le conformisme, sa robustesse confirmée jusqu'à aujourd'hui, puis les deux mécanismes psychologiques distincts qui le sous-tendent.
 
 ### 10.1 L'expérience d'Asch : environ un tiers des gens se trompent sciemment pour suivre le groupe
 

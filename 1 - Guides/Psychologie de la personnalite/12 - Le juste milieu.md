@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Le juste milieu : la modération comme compétence
 
-Cinquième sujet explicitement demandé pour ce guide, qui referme naturellement les deux chapitres précédents sur le conformisme et l'anticonformisme. Ce chapitre montre que la modération n'est pas un manque de caractère, mais un principe philosophique ancien aujourd'hui confirmé par des données statistiques précises.
+Ce chapitre referme les deux précédents sur le conformisme et l'anticonformisme. Il montre que la modération n'est pas un manque de caractère, mais un principe philosophique ancien aujourd'hui confirmé par des données statistiques précises.
 
 ### 12.1 Le juste milieu d'Aristote : une philosophie, pas une case molle
 
