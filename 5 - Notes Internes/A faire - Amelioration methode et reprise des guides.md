@@ -221,7 +221,18 @@ Les 25 chapitres en réécriture ont tous été repris en mode profond (analogie
 
 **Ce guide est maintenant fini au sens de l'arbitrage : plus aucun chapitre en réécriture, plus aucune chirurgie en attente.**
 
-### Prochain guide dans l'ordre du tableau maître : Alimentation (17 réécriture + 9 chirurgie)
+### Alimentation — TERMINÉ (24/09/2026)
+
+Les 17 chapitres en réécriture et les 9 chirurgies ont tous été repris. Contrairement au guide précédent, la plupart des réécritures ici n'ont pas nécessité de second tour de recherche complet : les sources d'origine restaient bonnes, le travail a surtout consisté à réécrire la prose autour des liens (fini les résumés d'étude collés), ajouter une analogie filée par chapitre, poser un bloc ⚖️ Nuance à chaque fois qu'un terme galvaudé le justifiait (kéto/paléo, tout-ou-rien, grossophobie, alimentation intuitive), et ajouter des blocs 👁️/💑 sur les chapitres où l'audit avait noté leur absence malgré un sujet pertinent (10, 21 pour 👁️ ; 23, 16 pour 💑).
+
+- Total du guide : 25 009 → 26 378 mots (26 chapitres, tous désormais au-dessus de 840 mots, la majorité entre 900 et 1350).
+- Analogies filées ajoutées sur les 26 chapitres sans exception (0 avant cette passe) : chantier/matériaux (ch.1-4), facture électrique (ch.5), Far West (ch.7), horloge 24h (ch.15), vitrine de magasin (ch.13), iceberg (ch.10), immeuble avec un étage inondé (ch.19), réseau électrique à peu de centrales (ch.20), filtre photo (ch.21), autoroute à deux sens (ch.22), baromètre (ch.23), dictionnaire visuel (ch.25), parmi d'autres.
+- Pipeline complet exécuté, aucun lien cassé, README du guide et README racine mis à jour. Sources inchangées dans `4 - Sources/Alimentation.md` (pas de second tour de recherche nécessaire sur ce guide, contrairement à Psychologie de la personnalité).
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : Le sommeil (7 réécriture + 9 chirurgie)
 
 ## Comment reprendre
 
