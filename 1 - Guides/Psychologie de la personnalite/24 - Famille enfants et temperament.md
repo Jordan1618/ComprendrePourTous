@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Famille, enfants et tempérament
 
-Avant même qu'un enfant ne développe la personnalité complexe étudiée dans le reste de ce guide, il naît avec un tempérament observable dès les premiers mois. Ce chapitre présente la théorie de référence sur ce tempérament précoce, et surtout ce qui compte le plus pour son évolution : moins le tempérament lui-même que son ajustement avec l'environnement familial.
+Une orchidée exige un terreau précis pour fleurir, mais devient éblouissante si on le lui offre ; un pissenlit pousse presque partout, sans jamais atteindre le même éclat. Avant même qu'un enfant ne développe la personnalité complexe étudiée dans le reste de ce guide, il naît avec un tempérament observable dès les premiers mois, et ce chapitre montre que ce qui compte le plus n'est jamais le tempérament pris isolément, mais son ajustement avec le terreau familial qui l'accueille.
 
 ### 24.1 Les neuf dimensions et les trois profils de Thomas et Chess
 
@@ -25,6 +25,10 @@ La contribution conceptuelle la plus influente de Thomas et Chess ne porte pas s
 ### 24.3 L'enfant « orchidée » : plus vulnérable, mais aussi plus réceptif au bon environnement
 
 Une théorie plus récente affine ce principe d'ajustement pour les enfants au tempérament le plus réactif, souvent qualifiés d'enfants « orchidées » par contraste avec les enfants « pissenlits », plus résistants aux variations d'environnement. [Un enfant hautement réactif pourrait s'épanouir exceptionnellement bien avec une parentalité sensible, mais peiner nettement avec une discipline sévère ; certains types de tempérament peuvent prédisposer les enfants à une plus grande sensibilité aux influences environnementales](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9786603/). Deux modèles théoriques concurrents expliquent cette sensibilité accrue, avec une différence importante entre eux. [Le modèle diathèse-stress propose que les enfants avec certaines vulnérabilités (par exemple une forte émotivité négative) sont affectés de façon disproportionnée par une parentalité défavorable, mais montrent des résultats normaux dans des conditions bienveillantes ; la théorie de la susceptibilité différentielle soutient que certains enfants ne sont pas seulement plus vulnérables aux environnements négatifs, mais bénéficient aussi davantage que les autres d'une parentalité positive et soutenante](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9786603/) — l'enfant le plus sensible n'est donc pas condamné à un désavantage : il a aussi le plus grand potentiel de bénéfice si l'environnement lui convient.
+
+⚖️ **Nuance : ni les orchidées ni les pissenlits ne sont un meilleur tempérament**
+
+Le vocabulaire d'orchidée et de pissenlit se prête à un malentendu facile : croire que l'un des deux profils serait supérieur à l'autre. Ce n'est pas ce que montre la recherche. Un enfant pissenlit traverse sans dommage des environnements très variés, un vrai atout dans un monde imprévisible ; un enfant orchidée a besoin d'un terreau plus précis, mais peut, avec ce terreau, dépasser largement ce qu'un tempérament plus robuste atteindrait dans les mêmes conditions favorables. Aucun des deux tempéraments n'est un problème à corriger : chacun répond différemment à l'environnement, sans qu'aucune de ces deux réponses ne soit, en soi, la bonne ou la mauvaise.
 
 **Bons réflexes, en synthèse de ce chapitre.**
 - Face à un enfant au tempérament difficile ou lent à s'adapter, ne jamais chercher à faire disparaître ce tempérament : chercher plutôt un ajustement entre les exigences posées et ses caractéristiques propres, principe identifié comme déterminant bien plus que le tempérament pris isolément.

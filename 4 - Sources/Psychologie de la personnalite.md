@@ -9,13 +9,15 @@ licence: "CC BY 4.0"
 
 Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de la personnalite/README.md>), citées directement dans le texte de chaque chapitre.
 
-## Chapitre 1 — Qu'est-ce que la personnalité
+## Chapitre 1 — Qu'est-ce que la personnalité : définition, stabilité et changement
 
-| Référence | Ce qu'elle appuie | Chapitre |
+| Source | Appuie | Lien |
 |---|---|---|
-| Albert.io, [Trait Theory of Personality: AP® Psychology Review](https://www.albert.io/blog/trait-theory-of-personality-ap-psychology-review/) | Définition des traits de personnalité | 1.1 |
-| Greater Good Magazine, [Can Your Personality Change Over Your Lifetime?](https://greatergood.berkeley.edu/article/item/can_your_personality_change_over_your_lifetime) | Stabilité/changement, maturation de la personnalité | 1.2 |
-| [Personality Stability and Change: A Meta-Analysis of Longitudinal Studies](https://experts.illinois.edu/en/publications/personality-stability-and-change-a-meta-analysis-of-longitudinal-/), Illinois Experts | Stabilité de rang, changement de niveau moyen | 1.2 |
+| Albert.io, Trait Theory of Personality | Définition des traits comme schémas persistants | https://www.albert.io/blog/trait-theory-of-personality-ap-psychology-review/ |
+| eSoftSkills, Understand Trait vs. State | Distinction trait/état | https://esoftskills.com/trait-vs-state/ |
+| Greater Good Magazine, Can Your Personality Change Over Your Lifetime? | Maturation de la personnalité, rôles sociaux | https://greatergood.berkeley.edu/article/item/can_your_personality_change_over_your_lifetime |
+| Illinois Experts, Personality Stability and Change: A Meta-Analysis | Stabilité de rang vs changement de niveau moyen | https://experts.illinois.edu/en/publications/personality-stability-and-change-a-meta-analysis-of-longitudinal-/ |
+| Wikipedia, Person-situation debate | Controverse Mischel, résolution interactionniste | https://en.wikipedia.org/wiki/Person%E2%80%93situation_debate |
 
 ## Chapitre 2 — Histoire des typologies
 
@@ -146,8 +148,10 @@ Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de
 
 | Source | Appuie | Lien |
 |---|---|---|
-| PMC, Personality and Mortality Risk: A Systematic Review and Meta-Analysis | Caractère consciencieux, prédicteur de mortalité, névrosisme sain | https://pmc.ncbi.nlm.nih.gov/articles/PMC13046179/ |
+| PMC, Personality and Mortality Risk: A Systematic Review and Meta-Analysis | Caractère consciencieux, prédicteur de mortalité | https://pmc.ncbi.nlm.nih.gov/articles/PMC13046179/ |
 | ScienceDirect, Exploring the links between personality and immune function | Mécanismes comportementaux et physiologiques, inflammation chronique | https://www.sciencedirect.com/science/article/abs/pii/S0191886921005584 |
+| Annals of Behavioral Medicine, Conscientiousness and Medication Adherence: A Meta-analysis | Observance médicamenteuse comme mécanisme concret | https://academic.oup.com/abm/article/47/1/92/4563919 |
+| Collabra: Psychology, Is Healthy Neuroticism Associated with Longevity? | Remise en cause du concept de névrosisme sain | https://online.ucpress.edu/collabra/article/6/1/33/114445/Is-Healthy-Neuroticism-Associated-with-Longevity-A |
 
 ## Chapitre 15 — Personnalité et monde du travail : profils, burn-out, leadership
 
@@ -165,6 +169,7 @@ Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de
 | Criteria Corp, 4 Reasons You Should Never Use the Myers-Briggs Test for Hiring | Désaveu de la fondation MBTI, diffusion, cas Best Buy | https://www.criteriacorp.com/blog/4-reasons-you-should-never-use-the-myers-briggs-test-for-hiring |
 | Hogan Assessments, Do Personality Assessments Discriminate? | Qualité de conception des tests et équité | https://www.hoganassessments.com/blog/our-assessments-dont-discriminate-but-many-do/ |
 | ResearchGate, Personality Tests in Employment: A Continuing Legal, Ethical, and Practical Quandary | Impact disproportionné, comparaison tests d'aptitude | https://www.researchgate.net/publication/277621154_Personality_Tests_in_Employment_A_Continuing_Legal_Ethical_and_Practical_Quandary |
+| Plum.io, Schmidt & Hunter (1998) Meta-Analysis Explained | Validité composite 0,65, échelle de comparaison | https://www.plum.io/blog/schmidt-hunter-meta-analysis |
 
 ## Chapitre 17 — Personnalité à travers les cultures
 
@@ -240,7 +245,9 @@ Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de
 | Source | Appuie | Lien |
 |---|---|---|
 | Wikipedia, Psychological resilience | Trait vs processus, distinction résilience/guérison | https://en.wikipedia.org/wiki/Psychological_resilience |
-| Haptivate, 5 Key Resilience Factors for Overcoming Challenges | Leviers internes et sociaux de la résilience | https://haptivate.co.uk/blog/5-key-resilience-factors/ |
+| Fondation Résilience, Les Témoignages — Ludovic | Témoignage réel, vétéran blessé en Afghanistan | https://fd-resilience.org/les-temoignages/ |
+| Communications Psychology, A systematic review of individual, social, and societal resilience factors | Facteurs individuels et sociaux de résilience | https://www.nature.com/articles/s44271-024-00138-w |
+| PMC, Social support and self-efficacy during early adolescence | Modèle intégré soutien social/auto-efficacité/résilience | https://pmc.ncbi.nlm.nih.gov/articles/PMC11687749/ |
 
 ## Chapitre 26 — Le changement de personnalité à l'âge adulte
 
@@ -248,6 +255,8 @@ Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de
 |---|---|---|
 | Frontiers in Psychology, Personality Development in Emerging Adulthood | Principe de maturation, événements de vie, investissement social | https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.671421/full |
 | Communications Psychology, A systematic review of volitional personality change research | Changement volontaire, efficacité des interventions | https://www.nature.com/articles/s44271-024-00167-5 |
+| PMC, PEACH, a smartphone- and conversational agent-based coaching intervention | Exemple concret d'intervention, intentions de mise en œuvre | https://pmc.ncbi.nlm.nih.gov/articles/PMC6123904/ |
+| PNAS, Changing personality traits with the help of a digital personality change intervention | Effets chiffrés du programme PEACH | https://www.pnas.org/doi/10.1073/pnas.2017548118 |
 
 ## Chapitre 27 — Les personnalités « toxiques » : un terme galvaudé
 
@@ -290,6 +299,7 @@ Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de
 
 | Source | Appuie | Lien |
 |---|---|---|
+| National Affairs, "Sincerity" and "Authenticity" in Modern Society | Trilling, basculement sincérité/authenticité sur 4 siècles | https://www.nationalaffairs.com/public_interest/detail/sincerity-and-authenticity-in-modern-society |
 | LSE, Charles Taylor has reimagined identity and morality for a secular age | Émergence historique de l'idéal d'authenticité | https://blogs.lse.ac.uk/southasia/2016/10/19/charles-taylor-has-reimagined-identity-and-morality-for-a-secular-age/ |
 | HealthyPsych, The Study of Authenticity | Lien empirique authenticité/bien-être | https://healthypsych.com/the-study-of-authenticity/ |
 

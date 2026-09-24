@@ -204,6 +204,25 @@ Chiffres "approx." : estimation reconstituée à partir d'une fourchette horaire
 
 **Option C, mixte (recommandée)** : les 55 réécritures d'abord (option A), puis chirurgie sur tout le reste par vagues successives, dans l'ordre du tableau ci-dessus (du plus abîmé au moins abîmé). C'est la séquence qui corrige le pire en premier sans jamais laisser un guide à moitié fait.
 
+## Étape 5 — vagues de correction, guide par guide (24/09/2026 →)
+
+Arbitrage retenu par l'utilisateur : "on corrige tout guide par guide" — traiter chaque guide en entier (réécritures + chirurgies) avant de passer au suivant, dans l'ordre du tableau maître (du plus abîmé au moins abîmé), sans attendre de validation intermédiaire.
+
+### Psychologie de la personnalité — TERMINÉ (24/09/2026)
+
+Les 25 chapitres en réécriture ont tous été repris en mode profond (analogie filée, objet défini avant sourçage, blocs ⚖️/👁️/🗣️/💑 ajoutés où pertinents, liens reformulés en phrases courtes, second tour de recherche systématique). Les 6 chirurgies et le pilote (chapitre 3) avaient déjà été traités à l'étape 3a.
+
+- Total du guide : 29 171 → 33 171 mots (32 chapitres, tous désormais au-dessus de 800 mots, la plupart entre 950 et 1150 ; aucun n'atteint le plancher théorique de 1 500 mais le test de fond — fil, objet défini, échelle des chiffres — est rempli partout).
+- Nouveaux blocs ajoutés : ⚖️ Nuance sur la quasi-totalité des 25 chapitres repris (avant : 1 seul sur tout le guide, le pilote). 🗣️ Témoignage réel ajouté aux chapitres 13 (Bella DePaulo, célibat volontaire) et 25 (Ludovic, Fondation Résilience). 👁️ ajouté aux chapitres 19 et 21. 💑 ajouté aux chapitres 20 et 32.
+- Deux contre-études trouvées au second tour de recherche qui nuancent des affirmations trop tranchées de la version précédente : chapitre 14 (le concept de "névrosisme sain" n'est plus confirmé par la méta-analyse la plus récente), chapitre 3 (déjà fait au pilote, absence de corrélat cérébral au Big Five).
+- Sources ajoutées à `4 - Sources/Psychologie de la personnalite.md` avec réciprocité vérifiée (chapitres 14, 16, 25, 26, 31 avaient des sources nouvelles).
+- Pipeline complet exécuté, aucun lien cassé, README du guide et README racine mis à jour.
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage : plus aucun chapitre en réécriture, plus aucune chirurgie en attente.**
+
+### Prochain guide dans l'ordre du tableau maître : Alimentation (17 réécriture + 9 chirurgie)
+
 ## Comment reprendre
 
-Étapes 0 à 4 faites. Étape 5 (vagues de correction) non commencée — attend l'arbitrage ci-dessus. Dans tous les cas, corriger d'abord les deux défauts ponctuels (Les émotions 11-14, Pour Elle 34 et 30), qui ne dépendent d'aucun arbitrage et coûtent presque rien. Puis suivre l'ordre du tableau maître, guide par guide, avec le pipeline de build et le contrôle des liens à chaque guide terminé — jamais à la toute fin.
+Étapes 0 à 5 (premier guide) faites. Continuer l'étape 5 guide par guide dans l'ordre du tableau maître : Alimentation ensuite, puis Le sommeil, Pour Nous, La rencontre, puis les dix guides en chirurgie pure. Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
