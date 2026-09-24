@@ -136,6 +136,74 @@ Fait, sur la base de `5 - Notes Internes/Audit - Psychologie de la personnalite.
 - Pipeline relancé, réciprocité des sources vérifiée, aucun lien cassé.
 - Restent 25 chapitres en réécriture sur ce guide (verdict de l'audit), non traités : voir l'arbitrage à trancher ci-dessous avant de les lancer.
 
+## Étape 4 — audit en masse (24/09/2026), interrompu par un plafond de session
+
+Tentative de lancer 4 agents de premier niveau (un par groupe de 3-4 guides), chacun sous-déléguant à un agent par guide. Résultat : le plafond de session Sonnet a été atteint en cours de route (reset 18h20 heure de Paris), la majorité des sous-agents ont échoué avec une erreur `rate_limit` avant de produire leur rapport. Aucun fichier de guide n'a été modifié (lecture seule respectée par tous les agents, y compris ceux qui ont échoué).
+
+**Résultat exploitable obtenu avant l'échec : "La rencontre", chapitres 1 à 14 sur 28.**
+
+| Verdict | Chapitres |
+|---|---|
+| Rien à faire | 3, 4, 6 |
+| Chirurgie | 1, 2, 5, 7, 8, 9, 10, 13, 14 |
+| Réécriture | 11, 12 |
+
+Profil très différent des guides écrits en mode débit (Le sommeil, Alimentation, Maladie grave et handicap, Psychologie de la personnalité) : sourçage globalement propre, analogies présentes, réflexes presque tous actifs. Le défaut dominant et récurrent est l'absence quasi totale des blocs ⚖️/👁️/🗣️ alors que des candidats naturels existent dans le texte de plusieurs chapitres (contrôle coercitif en 7, deuil/veuvage en 13, consentement en 9 et 14). Chapitres 11 et 12 en réécriture : sourçage à 100% de liens collés et fil cassé en 11 (sept sous-thèmes juxtaposés sans progression).
+
+**Trois audits complets supplémentaires arrivés après l'échec initial** (malgré le plafond, plusieurs sous-agents ont fini avant de le heurter) :
+
+| Guide | Chapitres | Rien à faire | Chirurgie | Réécriture | Défaut dominant | Coût estimé |
+|---|---|---|---|---|---|---|
+| Massage professionnel | 21 | 1 | 20 | 0 | Sourçage collé (74%), 9 chapitres à 100% mais déclassés en chirurgie car fil/analogies solides | 200-300k, 1,5-2 sessions |
+| Maladie grave et handicap | 32 | 0 | 32 | 0 | Sourçage collé (56,5%), 0 bloc ⚖️/👁️/💑, tous sous 1500 mots mais fil intact | 320-480k, 2-3 sessions |
+| IST, dépistage et prévention | 25 | 0 | 25 | 0 | Sourçage collé (43%), analogie absente sur 11/25, réflexes déjà 94% actifs | 250-375k, 1,5-2,5 sessions |
+
+Point notable : sur ces trois guides comme sur "La rencontre", **aucun chapitre n'atteint le verdict réécriture**. Contrairement à "Psychologie de la personnalité" (25 réécritures sur 32), ces guides ont un fil et des objets bien posés ; leur défaut dominant est mécanique (sourçage collé, blocs manquants) et se corrige entièrement en chirurgie. Cela confirme l'hypothèse du profil guide par guide plutôt qu'un mode de dégradation uniforme sur tout le dépôt.
+
+## Étape 4 (suite) — audit en masse terminé (24/09/2026)
+
+Les 15 guides du dépôt sont désormais tous audités (427 chapitres). Deux incidents pendant l'audit, tous deux sans conséquence sur le fond :
+
+- **Deux guides ("Pour Lui", "Les émotions") audités deux fois par des agents qui ne se voyaient pas** : le second a écrasé le premier dans le même fichier. Les chiffres retenus ci-dessous sont ceux du rapport le plus récent, généralement produit avec un comptage programmatique plus fiable que le premier.
+- **"La rencontre" audité en quatre lots qui se sont écrasés successivement** dans le même fichier (1-7, 8-14, 15-21, 22-28). Réconcilié manuellement dans `Audit - La rencontre.md` : 28/28 chapitres couverts, 8 rien à faire, 18 chirurgie, 2 réécriture.
+
+**Enseignement méthodologique à retenir pour la prochaine campagne d'audit** : le dernier agent (Questions et communication) a refusé d'appliquer mécaniquement le seuil de 85 % de liens collés à 32 de ses 46 chapitres, parce qu'à la lecture chaque lien était entouré d'une vraie explication — le défaut était que l'ancre du lien engloutissait toute la phrase au lieu de se poser sur la proposition précise. **Liens trop longs et études non expliquées sont deux défauts différents, que la grille actuelle fusionne dans un seul critère.** À corriger dans `Audit2Guide` avant la prochaine vague : distinguer explicitement "lien mal ancré" (chirurgie légère, reformuler l'ancre) de "résumé d'étude jamais expliqué en dehors du lien" (défaut de fond, justifie réécriture).
+
+### Tableau maître — 15 guides, 427 chapitres
+
+| Guide | Chapitres | Rien à faire | Chirurgie | Réécriture | Défaut dominant | Coût estimé |
+|---|---|---|---|---|---|---|
+| Psychologie de la personnalité | 32 | 1 (traité) | 6 (traités) | **25 restant** | Voir `Audit - Psychologie de la personnalite.md` | 875k-1,1M (25 ch. restants) |
+| Alimentation | 26 | 0 | 9 | **17** | 88% liens collés, 0 analogie, tous sous 1500 mots | 685-900k |
+| Le sommeil | 16 | 0 | 9 | **7** | 85,6% liens collés, 0 analogie, écarts de genre non traités (👁️/💑) | 335-450k |
+| Pour Nous | 25 | 0 | 21 | **4** (16,19,20,24) | Deux générations : 1-11 excellent, 12-25 en net retrait (sources blogs) | 350-495k |
+| La rencontre | 28 | 8 | 18 | 2 (11,12) | 0 bloc ⚖️ sur 28 ch., 7 ch. sans aucun bloc malgré candidats explicites | 250-360k |
+| IST, dépistage et prévention | 25 | 0 | 25 | 0 | 43% liens collés, analogie absente sur 11/25, déjà 94% réflexes actifs | 250-375k |
+| Maladie grave et handicap | 32 | 0 | 32 | 0 | 56,5% liens collés, 0 bloc ⚖️/👁️/💑, tous sous 1500 mots, fil intact | 320-480k |
+| Massage professionnel | 21 | 1 | 20 | 0 | 74% liens collés (9 ch. à 100% mais fil/analogies solides) | 200-300k |
+| Réseaux sociaux | 20 | 0 | 20 | 0 | Aucun ch. au plancher de mots, blocs 👁️/💑/🗣️ quasi absents | 200-300k |
+| Les émotions | 20 | 0 | 20 | 0 | Bloc ⚖️ mal formaté (texte gras non standard), traces de mainteneur en ch.11-14 | 200-280k (approx.) |
+| Les nouvelles compositions familiales | 31 | 0 | 31 (3 lourdes) | 0 | 46% liens collés, 2 analogies filées sur 31 ch. seulement | 350-450k (approx.) |
+| Pour Lui | 38 | 9 | 29 | 0 | 0 bloc ⚖️/🗣️ sur 38 ch. ; ch.21-29 et 36-39 nettement en retrait | 350k (approx.) |
+| Pour Elle | 39 | 23 | 16 | 0 | Meilleur profil du dépôt ; défaut concentré sur la série relationnelle (14,20,25,27-30,35-39) ; ligne de mainteneur en ch.34 à supprimer | 150-220k (approx.) |
+| Questions et communication | 46 | 0 | 46 | 0 | Meilleur guide du dépôt sur le fond ; défaut = ancres de lien trop longues, pas des résumés non expliqués | 700-950k (approx.) |
+| **Total** | **427** | **42** | **330** (dont 55 hors Psy restant) | **55** | | **≈ 5,3M à 7,2M tokens** |
+
+Chiffres "approx." : estimation reconstituée à partir d'une fourchette horaire donnée par l'agent plutôt que d'un chiffre en tokens.
+
+### Deux défauts ponctuels, indépendants de l'arbitrage, à corriger en toute hypothèse
+
+- **Les émotions, chapitres 11-14** : phrase de mainteneur en fin de chapitre (« Aucune affirmation de ce chapitre n'est restée sans source identifiée ») à supprimer — même famille de défaut que le langage « sujet explicitement demandé » déjà corrigé sur Psychologie de la personnalité.
+- **Pour Elle, chapitre 34** : ligne « Fin du document. Rédigé le 21 juillet 2026... » à supprimer. **Pour Elle, chapitre 30** : section "Bons réflexes" dupliquée en deux blocs consécutifs, à fusionner.
+
+## L'arbitrage — à trancher avant l'étape 5
+
+**Option A, en profondeur.** Ne reprendre que les guides à fort taux de réécriture : Psychologie de la personnalité (25 restants), Alimentation (17), Le sommeil (7), Pour Nous (4), La rencontre (2). Soit 55 réécritures + leurs chirurgies associées ≈ **2,1M à 2,7M tokens, 12-18 sessions Pro**. Les 10 autres guides restent en l'état.
+
+**Option B, en largeur.** Traiter tous les guides mais seulement en chirurgie/défauts ponctuels (jamais de réécriture complète, même sur les 55 chapitres qui la justifieraient), plus les deux défauts ponctuels ci-dessus. Coût très inférieur à l'option A en tokens mais laisse les pires chapitres (les 55 en réécriture) sous leur niveau minimal.
+
+**Option C, mixte (recommandée)** : les 55 réécritures d'abord (option A), puis chirurgie sur tout le reste par vagues successives, dans l'ordre du tableau ci-dessus (du plus abîmé au moins abîmé). C'est la séquence qui corrige le pire en premier sans jamais laisser un guide à moitié fait.
+
 ## Comment reprendre
 
-Étapes 0 à 3a faites. Prochaine étape : `/Audit2Guide` sur trois guides en parallèle (Le sommeil, Alimentation, Maladie grave et handicap), pour obtenir la carte des défauts avant de décider s'il vaut mieux reprendre 3-4 guides en profondeur ou tous les guides en surface (chirurgies + défauts ponctuels seulement). Ne pas lancer les 25 réécritures du guide témoin avant cet arbitrage.
+Étapes 0 à 4 faites. Étape 5 (vagues de correction) non commencée — attend l'arbitrage ci-dessus. Dans tous les cas, corriger d'abord les deux défauts ponctuels (Les émotions 11-14, Pour Elle 34 et 30), qui ne dépendent d'aucun arbitrage et coûtent presque rien. Puis suivre l'ordre du tableau maître, guide par guide, avec le pipeline de build et le contrôle des liens à chaque guide terminé — jamais à la toute fin.
