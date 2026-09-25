@@ -421,4 +421,31 @@ Les 46 chapitres relevés par l'audit ont tous été repris en chirurgie ciblée
 
 Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle et Questions et communication.
 
-**Aucun — chantier de reprise des 15 guides terminé, passer à un audit complet de vérification.**
+**Aucun guide n'attend une première passe de chirurgie — les 15 sont passés au moins une fois. Le chantier ouvert maintenant est le ré-audit du 25/09/2026 ci-dessous : plusieurs guides ont des défauts résiduels ou, pour deux d'entre eux, des pans entiers jamais repris.**
+
+## Ré-audit complet du 25/09/2026 — synthèse et priorités
+
+Les 15 guides ont été ré-audités à neuf (agents en lecture seule, un par guide, rapports dans `5 - Notes Internes/Audit - <Guide>.md`, tous datés du 25/09/2026). Deux découvertes majeures, non anticipées par le suivi précédent :
+
+- **Pour Nous** : la reprise antérieure à cette session n'avait traité que les chapitres 1-11. Les chapitres 12-25 (14 chapitres) relèvent du verdict **Réécriture** (sourçage en citations collées de 25-70 mots, fil éclaté en sous-parties, sources faibles sur des affirmations centrales), et 48 des 132 URL du guide (36 %) manquent de réciprocité. C'est, de loin, le chantier le plus lourd restant : 27,5 à 55 h estimées.
+- **Psychologie de la personnalité** (guide pilote de la méthode) : 31 des 32 chapitres restent très en dessous du plancher de 1 500 mots (734 à 1 204 mots), plus bas que sur tout autre guide audité.
+
+| Guide | Verdicts (rien à faire / chirurgie / réécriture) | Défaut dominant restant |
+|---|---|---|
+| L'amour | 4 / 24 / 0 | 19 chapitres (10-28) sans section Sources propre (préexistant, pas dû à cette session) |
+| Les nouvelles compositions familiales | 0 / 31 / 0 | Bloc ⚖️ ajouté sur 1 seul chapitre sur 31 (guide non listé avec ce défaut par l'audit initial) |
+| Pour Nous | 0 / 11 / **14** | Chapitres 12-25 jamais repris avant cette session, niveau Réécriture |
+| La rencontre | 10 / 18 / 0 | Chapitres 4-9 sous le plancher, clôture d'analogie manquante sur ~9 chapitres |
+| Le sommeil | 6 / 10 / 0 | 9/16 chapitres sous le plancher |
+| Alimentation | 0 / 26 / 0 | Aucun chapitre au plancher (844-1344 mots), 15/26 gardent une puce « Retenez que » |
+| Massage professionnel | 0 / 21 / 0 | 20/21 sous le plancher, 21 % des liens sans réciprocité (placeholders scholar.google.com jamais remplacés) |
+| Réseaux sociaux | 3 / 17 / 0 | Liens denses sur 4 chapitres, sinon propre |
+| Les émotions | 14 / 6 / 0 | Réciprocité des sources à 69 % (45 URL sur 144 manquantes) |
+| IST, dépistage et prévention | 0 / 25 / 0 | Aucun chapitre au plancher (513-1437 mots), bloc ⚖️ absent partout |
+| Maladie grave et handicap | 0 / 32 / 0 | 32/32 sous le plancher, bloc ⚖️ absent sur 28/32 |
+| Psychologie de la personnalité | 1 / 31 / 0 | 31/32 très sous le plancher (734-1204 mots) |
+| Pour Lui | 35 / 3 / 0 | Résiduel mineur sur 3 chapitres seulement — guide quasi clos |
+| Pour Elle | 18 / 21 / 0 | Analogie filée absente sur 8 des 16 chapitres déjà repris |
+| Questions et communication | 46 / 0 / 0 | Aucun — guide intégralement propre |
+
+Priorité recommandée pour une prochaine reprise, du plus urgent au moins urgent : **Pour Nous (chapitres 12-25, niveau réécriture)** en premier, puis Massage professionnel et Les émotions (réciprocité des sources cassée), puis Psychologie de la personnalité et Maladie grave et handicap (déficit de mots le plus marqué), puis les finitions mineures sur Pour Elle, Pour Lui, L'amour et La rencontre. Questions et communication n'a besoin de rien.
