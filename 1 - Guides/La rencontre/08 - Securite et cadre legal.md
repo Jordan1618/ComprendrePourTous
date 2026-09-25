@@ -4,19 +4,25 @@ chapitre: "8"
 titre: "Sécurité pratique et cadre légal"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Sécurité pratique et cadre légal
 
+Un pilote ne décolle jamais sans dérouler sa checklist, même après des milliers de vols : elle ne garantit rien contre un imprévu, mais elle élimine méthodiquement les risques qui peuvent l'être avant même de démarrer les moteurs. Rencontrer quelqu'un rencontré en ligne mérite la même discipline plate et répétitive, dérouler une checklist avant, pendant et après, plutôt que de se fier uniquement à l'instinct du moment.
+
 ### 8.1 Pourquoi ce chapitre existe
 
 Rencontrer quelqu'un rencontré en ligne, c'est accepter de voir seul une personne dont personne autour de vous ne peut confirmer l'existence. C'est le point aveugle créé par la disparition du filtre social décrit au chapitre 4.
 
-Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde : elles prennent quelques minutes, elles ne se voient pas, et elles ne gâchent rien. Elles s'adressent à tout le monde, avec une exposition statistiquement plus élevée pour les femmes et les personnes LGBT+. [Le passage par un canal numérique avant la rencontre physique supprime le filtre social qui existait traditionnellement dans les présentations par un tiers connu des deux personnes](https://www.pnas.org/doi/10.1073/pnas.1908630116) (Rosenfeld, Thomas & Hausen, « Disintermediating your friends », *PNAS*, 2019 ; vérification du 7 août 2026).
+Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde : elles prennent quelques minutes, elles ne se voient pas, et elles ne gâchent rien, comme les cases d'une checklist de pilote qui se coche en quelques secondes chacune. Elles s'adressent à tout le monde, avec une exposition statistiquement plus élevée pour les femmes et les personnes LGBT+. [Le passage par un canal numérique avant la rencontre physique supprime le filtre social qui existait traditionnellement dans les présentations par un tiers connu des deux personnes](https://www.pnas.org/doi/10.1073/pnas.1908630116) (Rosenfeld, Thomas & Hausen, « Disintermediating your friends », *PNAS*, 2019 ; vérification du 7 août 2026).
 
-### 8.2 Avant : trois vérifications qui prennent cinq minutes
+👁️ **Vu de l'autre côté**
+
+Cette checklist n'a pas le même poids ni la même urgence selon qui la déroule. Pour une femme, elle relève souvent d'un réflexe déjà ancien, hérité de mises en garde répétées depuis l'adolescence sur d'autres terrains que la seule rencontre en ligne. Pour un homme hétérosexuel, elle passe plus souvent pour une prudence exagérée aux yeux de son entourage. Pour une personne LGBT+, elle recouvre une couche de risque supplémentaire, spécifique et documentée, que les femmes et les hommes hétérosexuels n'ont, en général, pas à intégrer à la même checklist.
+
+### 8.2 Avant le décollage : trois vérifications qui prennent cinq minutes
 
 **Vérifier que la personne existe ailleurs.** Un prénom, une ville, un métier suffisent souvent à retrouver une trace publique cohérente. Une absence totale d'existence numérique n'est pas suspecte en soi, mais une **incohérence** l'est.
 
@@ -24,7 +30,7 @@ Les précautions qui suivent ne sont ni de la paranoïa ni une contrainte lourde
 
 **Passer un appel vocal ou vidéo avant.** C'est la vérification la plus efficace de toutes : elle confirme d'un coup que la personne correspond à ses photos, et donne une masse d'informations que l'écrit supprime. Un refus insistant d'appeler avant une première rencontre est en soi une information. [Les techniques de vérification d'identité et de recherche inversée d'image sont recommandées dans la littérature sur les arnaques sentimentales en ligne](https://www.cybercrimejournal.com/pdf/AunshulIJCCJuly2009.pdf) (Rege, « What's Love Got to Do with It? Exploring Online Dating Scams and Identity Fraud », *International Journal of Cyber Criminology*, 2009 ; vérification du 7 août 2026).
 
-### 8.3 Pendant : quatre règles simples
+### 8.3 En plein vol : quatre règles simples
 
 **Lieu public, arrivée et départ autonomes.** Pas de domicile, ni le vôtre ni le sien, pour un premier rendez-vous — et pas de trajet dans la voiture de l'autre. Ce n'est pas une question de confiance : c'est le maintien de votre capacité à partir quand vous voulez.
 
@@ -53,6 +59,8 @@ Le schéma est stable et identifiable : une relation à distance intense qui n'a
 **La règle unique et suffisante** : jamais d'argent, sous aucun prétexte, à quelqu'un que vous n'avez jamais rencontré physiquement. Aucune exception ne mérite d'être discutée, parce que toutes les exceptions sont précisément le script.
 
 Un signalement reste utile même sans espoir de récupérer les fonds : il alimente les enquêtes en cours. Il n'y a par ailleurs aucune honte à en parler — ces dispositifs sont construits par des professionnels, sur des ressorts émotionnels puissants, et ils fonctionnent sur des gens parfaitement lucides par ailleurs. [Les arnaques sentimentales suivent un scénario stable, documenté par plusieurs études de criminologie, où la demande d'argent survient après l'installation d'une relation de confiance à distance](https://eprints.qut.edu.au/83702/1/Cross_IRV_submitted.pdf) (Cross, « No laughing matter: blaming the victim of online fraud », *International Review of Victimology*, 2015 ; vérification du 7 août 2026).
+
+La checklist de ce chapitre a une limite qu'aucun pilote ne connaît : contrairement à un avion, une rencontre reste imprévisible même une fois toutes les cases cochées. Une checklist ne garantit jamais une bonne soirée, elle élimine seulement les risques qui pouvaient l'être avant même de partir.
 
 **Bons réflexes**
 

@@ -4,7 +4,7 @@ chapitre: "27"
 titre: "Ce que dit la donnée : statistiques, risques et normes"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -21,6 +21,10 @@ Le chapitre 7 de ce guide traite déjà des signaux d'alerte relationnels indivi
 La recherche académique sur les violences facilitées par les applications de rencontre s'est considérablement développée ces dernières années, avec des résultats qui méritent d'être lus avec leurs nuances méthodologiques.
 
 [Une étude australienne portant sur les usagers d'applications de rencontre a montré que les personnes utilisant intensément ces applications, partageant davantage d'informations personnelles, échangeant sur plusieurs plateformes différentes, ou payant pour des services premium, rapportaient plus fréquemment avoir subi des violences facilitées par une application de rencontre](https://www.aic.gov.au/publications/tandi/tandi704) (Australian Institute of Criminology, « Routine online activities and vulnerability to dating app facilitated sexual violence » ; vérification du 18 septembre 2026). Un chiffre issu de la même institution mérite d'être signalé pour sa nuance, plutôt que résumé grossièrement : le taux de signalement à la police varie fortement selon le genre et l'orientation des victimes, [environ 70 % des hommes hétérosexuels, des hommes et femmes homosexuels ou bisexuels ont vu leur signalement de violence en personne faisant suite à une rencontre sur application donner lieu à une enquête policière, contre 57 % pour les femmes hétérosexuelles](https://www.aic.gov.au/sites/default/files/2023-03/ti662_reporting_of_dating_app_facilitated_sexual_violence_to_the_police.pdf) (Australian Institute of Criminology, rapport sur le signalement des violences facilitées par les applications de rencontre à la police, 2023 ; vérification du 18 septembre 2026), un écart qui interroge directement la façon dont ces signalements sont pris au sérieux selon le profil de la victime.
+
+👁️ **Vu de l'autre côté**
+
+Cet écart de treize points entre femmes hétérosexuelles et les autres catégories interrogées n'est pas un simple détail statistique : il signifie concrètement qu'une femme hétérosexuelle qui rassemble le courage de signaler une agression à la police après une rencontre en ligne a une probabilité mesurablement plus faible de voir sa plainte déboucher sur une enquête, indépendamment des faits eux-mêmes rapportés. Ce chiffre documente, de façon froide et chiffrée, ce que beaucoup de victimes décrivent déjà dans leur propre vécu du dépôt de plainte : ne pas être prise au sérieux dès le premier accueil, avant même l'ouverture d'une enquête.
 
 Une limite méthodologique importante s'applique à l'ensemble de ces travaux : la plupart des études disponibles portent sur des échantillons autosélectionnés, souvent des étudiants ou des utilisateurs volontaires pour des enquêtes en ligne, ce qui ne permet pas d'établir un taux de prévalence généralisable à l'ensemble de la population qui utilise des applications de rencontre. Il faut le dire clairement plutôt que de présenter une estimation de risque global précise qui n'existe pas dans la littérature à ce niveau de fiabilité.
 

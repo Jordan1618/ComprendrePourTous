@@ -4,11 +4,13 @@ chapitre: "9"
 titre: "Mieux choisir : la synthèse actionnable"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Mieux choisir : la synthèse actionnable
+
+Une boussole n'indique jamais l'emplacement exact d'une destination : elle donne une direction à suivre, quelle que soit la route empruntée pour y arriver. Ce chapitre referme le guide en donnant une boussole plutôt qu'une carte au trésor : pas l'emplacement d'une personne précise à trouver, mais une direction à tenir pour choisir mieux, quel que soit le bassin de rencontre emprunté.
 
 ### 9.1 Ce que « mieux choisir » veut dire, exactement
 
@@ -32,7 +34,7 @@ Si vous ne deviez retenir qu'une chose de ce guide, ce serait ce classement. Il 
 
 **5. La façon de traiter les tiers**, en particulier ceux dont la personne n'a rien à attendre.
 
-Ce qui prédit **mal**, malgré la place que ça occupe : l'intensité du début, les goûts communs, la ressemblance des personnalités, et les critères déclarés — dont on sait qu'ils prédisent peu les attirances réelles (Eastwick & Finkel, 2008). [La façon dont un désaccord est traité est l'un des meilleurs prédicteurs observés de la stabilité d'une relation](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
+Ce qui prédit **mal**, malgré la place que ça occupe : l'intensité du début, les goûts communs, la ressemblance des personnalités, et les critères déclarés — dont on sait qu'ils prédisent peu les attirances réelles (Eastwick & Finkel, 2008). Pour établir ce classement, John Gottman et Robert Levenson n'ont pas interrogé les couples sur leurs intentions : ils ont filmé des centaines de couples en train de discuter d'un désaccord réel, codé image par image les micro-expressions et le ton employés, puis suivi ces mêmes couples pendant plusieurs années pour voir lesquels se séparaient. [La façon dont un désaccord est traité est l'un des meilleurs prédicteurs observés de la stabilité d'une relation](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026) — l'intérêt de cette méthode est qu'elle mesure un comportement filmé au moment du conflit, pas un souvenir reconstruit après coup par les couples eux-mêmes.
 
 ### 9.3 Le calendrier : quoi observer, et quand
 
@@ -63,9 +65,15 @@ Rester seul est un choix légitime, pas un échec par défaut. Les données sur 
 
 La pression sociale à être en couple pousse à rester dans des relations médiocres et à en commencer de mauvaises. La reconnaître pour ce qu'elle est — une pression, pas une vérité — fait partie de « mieux choisir ». [Bella DePaulo et Wendy Morris ont montré que le bien-être des personnes célibataires est largement sous-estimé dans la recherche comme dans la culture, au profit d'une survalorisation implicite du couple](https://www.tandfonline.com/doi/abs/10.1080/1047840X.2005.9682918) (DePaulo & Morris, « Singles in society and in science », *Psychological Inquiry*, 2005 ; vérification du 7 août 2026).
 
+⚖️ **Nuance : rester seul n'est ni un échec ni un idéal**
+
+Deux excès opposés circulent sur le célibat. Le premier, le plus répandu, le traite comme un état d'attente forcément subi, une case à cocher en chemin vers le vrai objectif. Le second, plus rare mais tout aussi faux, en fait un idéal en soi, supérieur par principe à toute vie de couple. Les données de ce chapitre disent autre chose : ni l'un ni l'autre statut ne protège en soi, seule la qualité du lien, avec soi-même ou avec un partenaire, fait la différence sur le bien-être mesuré.
+
 💑 **Dans le couple**
 
 Une fois la relation installée, ce guide s'arrête et deux autres prennent le relais : [L'amour](<../L amour/README.md>) sur ce qui se passe quand l'intensité du début se transforme, et [Pour Nous](<../Pour Nous/README.md>) sur la façon de bâtir des projets communs, y compris quand on porte des traumas ou des appréhensions.
+
+La boussole de ce chapitre a une limite qu'il faut nommer en refermant ce guide : elle indique une direction, jamais un point d'arrivée garanti. Suivre chacun des repères qui précèdent augmente les chances de mieux choisir, sans jamais les rendre certaines.
 
 **Bons réflexes — la version courte**
 

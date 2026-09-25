@@ -4,7 +4,7 @@ chapitre: "5"
 titre: "Les applications : la logique derrière l'écran"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -29,6 +29,10 @@ Quatre effets, indépendants de toute mauvaise intention des concepteurs.
 **La récompense variable crée l'habitude.** Ne pas savoir si le prochain balayage donnera une correspondance est le schéma de renforcement le plus efficace pour installer une routine. Beaucoup d'usagers consultent l'application sans intention réelle de rencontrer quelqu'un. Ce n'est pas un défaut de volonté, c'est un mécanisme.
 
 **Le déséquilibre des flux fausse l'expérience.** Sur les applications hétérosexuelles généralistes, le volume de sollicitations reçues est très inégalement réparti, ce qui produit deux expériences opposées : d'un côté un afflux ingérable qui pousse au tri superficiel, de l'autre une absence de réponse qui pousse au découragement. Les deux versants tirent la même conclusion — « les gens sont impossibles » — à partir de deux réalités inverses. [Le même mécanisme de surcharge de choix s'applique à l'évaluation rapide de profils par photo](https://psycnet.apa.org/record/2000-16701-012) (Iyengar & Lepper, « When choice is demotivating: can one desire too much of a good thing? », *Journal of Personality and Social Psychology*, 2000 ; vérification du 7 août 2026).
+
+👁️ **Vu de l'autre côté**
+
+Ces deux expériences ne se croisent presque jamais, chacune restant persuadée que l'autre a la vie plus facile. Côté afflux, la lassitude de trier des dizaines de profils par jour se transforme vite en un mode de sélection expéditif et cynique, sans que la personne s'en rende toujours compte elle-même. Côté silence, l'absence de réponse répétée s'interprète en rejet personnel répété, alors qu'elle tient souvent, justement, à cette lassitude de l'autre camp. Les deux versants du même produit se nourrissent l'un l'autre sans jamais se voir.
 
 ### 5.3 Ce que les applications font bien
 

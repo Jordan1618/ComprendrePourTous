@@ -4,7 +4,7 @@ chapitre: "10"
 titre: "Homogamie et réseau social dans la formation du couple"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -66,6 +66,8 @@ Autrement dit, l'application élargit le champ de ce qui est visible, mais le tr
 **Bons réflexes**
 
 - Si votre profil ou vos filtres de recherche éliminent systématiquement toute personne en dehors de votre propre milieu social ou niveau d'études, interrogez ce filtre consciemment : est-ce un critère de compatibilité réelle ou un réflexe de familiarité non questionné ?
+
+Le filtre à café de ce chapitre a une limite qu'il faut nommer avant de le refermer : contrairement à un vrai filtre, celui de l'homogamie ne laisse pas passer un liquide uniforme mais des personnes uniques, dont le passage à travers les mêmes mailles sociales ne prédit jamais parfaitement la compatibilité individuelle. On peut choisir de verser l'eau ailleurs, dans un lieu tiers ou un réseau différent, sans pour autant garantir un meilleur résultat, seulement une variété de grains plus large avant le tri.
 
 ### 10.7 Renvois croisés
 

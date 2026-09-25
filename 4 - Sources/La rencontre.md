@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "La rencontre"
-mis_a_jour_le: 2026-09-18
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -103,6 +103,7 @@ Sources du guide [La rencontre](<../1 - Guides/La rencontre/README.md>), classé
 | Insee (2023), [Bilan démographique, nuptialité](https://www.insee.fr/fr/statistiques/7746162?sommaire=7746197) | Statistiques françaises de nuptialité et remariage | 13 |
 | Carr, D. (2004), [The Desire to Date and Remarry Among Older Widows and Widowers](https://sites.bu.edu/deborahcarr/files/2018/01/remarriage-1.pdf), *Journal of Marriage and Family* | Désir de rencontre après le deuil du conjoint, rôle du soutien social | 13, 14 |
 | Brown, S. & Shinohara, S. (2013), [Dating Relationships in Older Adulthood: A National Portrait](https://pmc.ncbi.nlm.nih.gov/articles/PMC3848887/), *Journal of Marriage and Family* | Relations amoureuses après 50 ans | 13, 21 |
+| Yahoo News, [Amanda Kloots is dating again: Here's why we should praise — not shame — her choices](https://news.yahoo.com/amanda-kloots-dating-again-heres-100124604.html) | Témoignages réels d'Amanda Kloots et Abel Keogh sur le fait de rencontrer après un veuvage | 13 |
 
 ## Rencontres professionnelles et vulnérabilité (chapitre 14)
 

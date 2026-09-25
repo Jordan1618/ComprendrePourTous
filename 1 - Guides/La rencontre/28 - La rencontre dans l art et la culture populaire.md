@@ -4,7 +4,7 @@ chapitre: "28"
 titre: "La rencontre dans l'art et la culture populaire"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -81,3 +81,5 @@ Sur la gastronomie, la recherche a documenté un phénomène amusant et bien ré
 ### 28.7 Ce que ce chapitre ne dit pas
 
 Il ne dit pas que la fiction ment sur la rencontre, ni qu'il faudrait s'en méfier systématiquement. Il dit que les récits, mythes, films, blagues et rituels culturels autour de la rencontre suivent leurs propres règles, celles d'une bonne histoire ou d'un bon rire, pas celles d'une description fidèle de ce qui se passe statistiquement. Reconnaître cet écart n'enlève rien au plaisir de ces récits ; cela évite seulement de leur demander ce qu'ils n'ont jamais promis de fournir, un mode d'emploi.
+
+Le miroir déformant de ce chapitre a une dernière particularité qu'il faut nommer en refermant ce guide entier : contrairement à un vrai miroir de fête foraine, celui de la fiction ne prévient jamais qu'il déforme. C'est précisément ce que les vingt-sept chapitres précédents ont tenté de faire à sa place.

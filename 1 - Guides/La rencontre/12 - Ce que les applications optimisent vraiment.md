@@ -4,7 +4,7 @@ chapitre: "12"
 titre: "Ce que les applications de rencontre optimisent vraiment"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -18,7 +18,7 @@ Un buffet à volonté avec trois plats se choisit en trente secondes, avec plais
 
 ### 12.2 L'économie de l'attention : ce que l'application vend réellement
 
-Une application de rencontre gratuite ou freemium ne vend pas des rencontres réussies, elle vend du temps d'attention et des abonnements premium. [Le marché mondial de la rencontre en ligne était évalué à environ 10,5 milliards de dollars en 2024 et poursuit sa croissance, porté très largement par les revenus d'abonnement premium et les achats intégrés](https://www.marketresearchfuture.com/reports/online-dating-market-11692) (Market Research Future, *Online Dating Market Report*, 2025 ; vérification du 18 septembre 2026).
+Une application de rencontre gratuite ou freemium ne vend pas des rencontres réussies, elle vend du temps d'attention et des abonnements premium, l'équivalent du restaurateur qui gagne davantage à ce que les clients reviennent souvent qu'à ce qu'ils trouvent le plat parfait dès la première visite. [Le marché mondial de la rencontre en ligne était évalué à environ 10,5 milliards de dollars en 2024 et poursuit sa croissance, porté très largement par les revenus d'abonnement premium et les achats intégrés](https://www.marketresearchfuture.com/reports/online-dating-market-11692) (Market Research Future, *Online Dating Market Report*, 2025 ; vérification du 18 septembre 2026) — pour donner une échelle à ce chiffre, cela représente à peu près le produit intérieur brut annuel d'un pays comme les Maldives ou le Liechtenstein, généré par un secteur qui n'existait tout simplement pas avant les années 2000.
 
 Une rencontre réussie qui débouche sur un couple stable est, du point de vue strictement économique de la plateforme, la perte d'un utilisateur payant. Cette tension structurelle ne signifie pas que les applications cherchent délibérément à saboter les rencontres, mais elle explique pourquoi les mécaniques de gamification (notifications, likes limités, boost payant) ressemblent tant à celles des réseaux sociaux, développées plus en détail dans le guide [Réseaux sociaux](<../Reseaux sociaux/README.md>). [Une recherche combinant entretiens et analyse systématique de trente applications sérieuses documente des utilisateurs qui décrivent une expérience manipulatrice et épuisante émotionnellement, proche de l'addiction ressentie sur les réseaux sociaux classiques](https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/5_3_2/189) (Weizenbaum Journal of the Digital Society, « Dark Patterns and Addictive Designs », 2023 ; vérification du 18 septembre 2026).
 
@@ -48,9 +48,9 @@ Ce résultat a une portée pratique directe : aucun algorithme, aussi sophistiqu
 
 Beaucoup d'utilisateurs vivent l'échec d'un match qui semblait pourtant parfait sur le papier comme une preuve que l'application les a mal évalués, ou pire, comme une preuve qu'il y aurait un problème chez eux. La recherche dit autre chose : ce n'est l'échec de personne, c'est la limite structurelle de toute prédiction de désir avant contact réel. On continue de chercher une explication rationnelle à un échec qui n'a, en réalité, jamais été prévisible dès le départ.
 
-### 12.6 Odorat et phéromones : mythe ou réalité scientifique
+### 12.6 Le plat mystère de la carte : phéromones et mythe scientifique
 
-L'idée que des phéromones humaines, indétectables consciemment, dicteraient une partie de l'attirance revient régulièrement dans la culture populaire et le marketing de certains parfums. La réalité scientifique est bien plus incertaine. [Une synthèse publiée par la revue Science souligne que l'existence même de phéromones humaines fonctionnelles reste non démontrée, cinquante ans après les premières expériences qui prétendaient l'avoir établie, le champ de recherche restant qualifié de très controversé](https://www.science.org/content/article/do-human-pheromones-actually-exist) (Grimm, « Do human pheromones actually exist? », *Science*, 2023 ; vérification du 18 septembre 2026).
+Toute carte de buffet affiche parfois un plat mystère, décrit en des termes si vagues que personne ne sait vraiment ce qu'il contient, ni même s'il existe réellement en cuisine. Les phéromones humaines jouent ce rôle précis dans l'imaginaire de la séduction. L'idée que des phéromones humaines, indétectables consciemment, dicteraient une partie de l'attirance revient régulièrement dans la culture populaire et le marketing de certains parfums. La réalité scientifique est bien plus incertaine. [Une synthèse publiée par la revue Science souligne que l'existence même de phéromones humaines fonctionnelles reste non démontrée, cinquante ans après les premières expériences qui prétendaient l'avoir établie, le champ de recherche restant qualifié de très controversé](https://www.science.org/content/article/do-human-pheromones-actually-exist) (Grimm, « Do human pheromones actually exist? », *Science*, 2023 ; vérification du 18 septembre 2026).
 
 Un rappel plus récent est venu renforcer ce doute : [une étude de 2023 portant sur deux des molécules les plus souvent présentées comme des phéromones humaines, l'androsténone et l'estratétraénol, n'a trouvé aucun effet mesurable sur l'attraction envers le sexe opposé, conduisant les chercheurs à recommander l'abandon de l'étiquette de « phéromone humaine putative » pour ces deux molécules](https://www.science.org/content/article/do-human-pheromones-actually-exist) (Science, 2023 ; vérification du 18 septembre 2026). Ce qui joue un rôle documenté, en revanche, ce sont des indices olfactifs plus larges et moins mystérieux : l'odeur corporelle générale, associée à l'hygiène et à des marqueurs de santé perçue, influence bel et bien le jugement d'attirance, mais sans qu'il s'agisse d'un signal chimique spécifique et universel au sens propre du mot phéromone.
 
@@ -58,6 +58,8 @@ Un rappel plus récent est venu renforcer ce doute : [une étude de 2023 portant
 
 - Ne fondez aucune stratégie de séduction sur l'achat de parfums vendus comme contenant des « phéromones » : la preuve scientifique de leur efficacité reste, à ce jour, absente.
 - Prenez au sérieux, en revanche, le rôle documenté de l'hygiène corporelle générale dans le jugement d'attirance : c'est un mécanisme réel, simplement moins spectaculaire qu'un signal chimique magique.
+
+Le buffet de ce chapitre a une limite qu'il faut nommer avant de le refermer : contrairement à un vrai buffet, personne ne peut jamais voir l'ensemble de la salle à la fois. Chaque plat supplémentaire ajouté à la carte, chaque nouveau profil affiché, chaque promesse de plat mystère rend le choix plus long sans le rendre meilleur.
 
 ### 12.7 Ce que ce chapitre ne dit pas
 

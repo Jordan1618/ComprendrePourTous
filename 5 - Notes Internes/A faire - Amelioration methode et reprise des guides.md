@@ -257,8 +257,23 @@ Les 4 chapitres en réécriture (16, 19, 20, 24) et les 21 chirurgies ont tous �
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : La rencontre (2 réécriture + 18 chirurgie, 8 rien à faire)
+## La rencontre — TERMINÉ (25/09/2026)
+
+Les 2 chapitres en réécriture (11, 12) et les 19 chirurgies (dont plusieurs « légères ») ont tous été repris ; les 7 chapitres jugés « rien à faire » par l'audit (3, 4, 6, 15, 20, 22, 25) n'ont pas été touchés. Ce guide était l'un des mieux construits du dépôt sur le fond : fil jamais cassé (sauf le 11), objets bien définis, sources honnêtes. Le défaut le plus systématique était l'absence totale du bloc ⚖️ Nuance sur les 28 chapitres, alors que plusieurs passages l'appelaient presque littéralement (débat Zentner/Schmitt en 23.5, mise en garde déjà écrite en prose en 20.7, terme « consentement » galvaudé au 14).
+
+- Total du guide : 44 591 → 47 762 mots (28 chapitres).
+- Blocs ⚖️ ajoutés là où l'audit notait leur absence : ch.9 (légitimité du célibat), ch.14 (consentement), ch.23 (débat Zentner/Schmitt sur les préférences de genre), ch.24 (hiérarchie entre traditions spirituelles).
+- Blocs 👁️ ajoutés là où un candidat explicite existait dans le texte brut sans être formalisé : ch.1 (écart de préférences), ch.5 (afflux/silence selon le genre sur les applications), ch.7 (accès inégal aux dispositifs de sécurité), ch.8 (checklist vécue différemment selon le profil), ch.17 (consentement en mariage arrangé), ch.18 (dépendance économique en mobilité internationale), ch.21 (tourisme amoureux), ch.27 (écart de signalement policier selon le genre, déjà chiffré mais jamais formalisé en bloc).
+- Blocs 💑 ajoutés : ch.16 (anxiété sociale en couple), ch.17 (couple formé en lieu de culte), ch.19 (jeu vidéo comme rituel de couple), ch.21 (retour à l'ordinaire après une crise), ch.26 (distance après la rencontre).
+- Deux réécritures complètes (ch.11, fil recousu autour de l'analogie de la danse improvisée ; ch.12, aparté sur les phéromones reformulé comme partie intégrante de l'analogie du buffet plutôt que hors sujet).
+- Second tour de recherche mené sur le chapitre 13 pour trouver des témoignages réels et nommés sur le fait de rencontrer après un veuvage (Amanda Kloots, Abel Keogh, tous deux cités par Yahoo News), absents de la première version malgré un sujet particulièrement propice.
+- Pipeline complet exécuté (47 790 mots comptés par le script de build, écart mineur accepté), aucun lien cassé spécifique à ce guide au-delà du bruit habituel des ancres internes (faux positifs systémiques du script de contrôle, déjà connus sur 254 occurrences dans tout le dépôt), README du guide et README racine mis à jour, réciprocité vérifiée et complétée avec `4 - Sources/La rencontre.md`.
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guides dans l'ordre du tableau maître : les dix guides restés en chirurgie pure (IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication)
 
 ## Comment reprendre
 
-Étapes 0 à 5 (premier guide) faites. Continuer l'étape 5 guide par guide dans l'ordre du tableau maître : La rencontre ensuite, puis les dix guides en chirurgie pure. Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous et La rencontre. Continuer guide par guide sur les dix guides restés en chirurgie pure, dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

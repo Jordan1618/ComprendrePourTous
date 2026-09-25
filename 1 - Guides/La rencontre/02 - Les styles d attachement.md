@@ -4,7 +4,7 @@ chapitre: "2"
 titre: "Les styles d'attachement : la grille qui explique le plus"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -51,6 +51,8 @@ Le cycle est régulier. L'évitant prend de la distance. L'anxieux, alarmé, se 
 Chacun croit alors vivre une histoire d'une intensité rare. Ce qui est vécu, en réalité, c'est un système d'alarme qui s'allume et s'éteint en boucle. L'intensité vient du cycle, pas de la personne.
 
 **Comment le reconnaître de l'intérieur** : si vous vous sentez soulagé plutôt que heureux quand la personne revient, vous êtes probablement dans ce cycle. Le soulagement est la fin d'une douleur ; la joie est autre chose. [Ce cycle d'escalade réciproque est décrit dans la littérature sur l'attachement adulte comme l'interaction entre stratégies d'hyperactivation et de désactivation](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+
+Aucun témoignage réel, nommé et vérifiable, décrivant ce cycle depuis l'intérieur n'a pu être retrouvé à cette date parmi les sources publiques consultées : la plupart des récits disponibles en ligne sont des vignettes cliniques anonymisées ou composites, plutôt que des témoignages individuels identifiables — le signaler explicitement reste préférable à en citer un comme s'il était vérifié.
 
 💑 **Dans le couple**
 

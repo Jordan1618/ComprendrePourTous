@@ -4,7 +4,7 @@ chapitre: "16"
 titre: "Neuroatypie, anxiété sociale et applications de niche"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -42,6 +42,10 @@ Ce constat rejoint une observation plus large de ce guide, développée au chapi
 L'anxiété sociale entretient une relation particulière avec les applications de rencontre, documentée par un paradoxe apparent. [La recherche montre une corrélation positive entre le niveau d'anxiété sociale et l'usage des applications de rencontre, cohérente avec la préférence des personnes anxieuses pour une communication médiée plutôt qu'un contact direct](https://journals.sagepub.com/doi/abs/10.1089/cyber.2019.0561) (Lenton-Brym, Santiago, Fredborg & Antony, « Associations Between Social Anxiety, Depression, and Use of Mobile Dating Applications », *Cyberpsychology, Behavior, and Social Networking*, 2021 ; vérification du 18 septembre 2026).
 
 Le paradoxe apparaît dans les études de suivi : [une recherche plus récente des mêmes auteurs montre que les symptômes d'anxiété sociale et le taux de match prédisent une hausse de l'affect négatif après usage de l'application, ce qui signale un risque réel de renforcement de l'évitement social plutôt que de l'entraînement progressif attendu](https://pubmed.ncbi.nlm.nih.gov/39470693/) (Lenton-Brym et coll., « Negative Affect Following Dating Application Use is Predicted by Social Anxiety Symptoms and Match Rate », *Cyberpsychology, Behavior, and Social Networking*, 2024 ; vérification du 18 septembre 2026). Concrètement, l'application peut devenir un lieu d'entraînement progressif à l'exposition sociale pour certaines personnes anxieuses, et un lieu de renforcement de l'évitement pour d'autres, la différence tenant beaucoup à la façon dont l'échec ou le rejet y est vécu et interprété.
+
+💑 **Dans le couple**
+
+Une fois la relation formée, l'anxiété sociale ne s'efface pas d'un coup avec la fin de la phase de rencontre : elle continue de peser sur les situations sociales partagées, présenter le partenaire à ses proches, sortir en groupe, gérer un imprévu social à deux. Le nommer explicitement au partenaire, plutôt que de le masquer par peur de paraître trop demandeur, permet souvent de construire des ajustements concrets : un signal convenu pour signaler la fatigue sociale en cours de soirée, ou un temps de retrait accepté sans qu'il soit interprété comme un désintérêt pour l'événement ou pour l'autre.
 
 **Bons réflexes**
 

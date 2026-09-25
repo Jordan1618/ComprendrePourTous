@@ -4,7 +4,7 @@ chapitre: "7"
 titre: "Les signaux d'alerte documentés"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -77,6 +77,10 @@ Il ne dit pas non plus qu'un signal repéré oblige à partir. Il dit qu'il obli
 Si en lisant ce chapitre vous reconnaissez votre situation actuelle, deux choses.
 
 **Le 3919** est le numéro national d'information et d'orientation pour les femmes victimes de violences, anonyme et gratuit, accessible aussi aux proches. Les violences dans le couple concernent aussi les hommes et les couples de même sexe, avec des dispositifs qui existent et sont souvent moins connus.
+
+👁️ **Vu de l'autre côté**
+
+Le détecteur de fumée de ce chapitre ne sonne pas de la même façon pour tout le monde. Une femme qui décrit un début de relation trop rapide et trop intense à son entourage se voit souvent répondre que c'est romantique, pas alarmant, alors que c'est exactement ce que documente 7.3. Un homme, à l'inverse, qui décrit vivre un contrôle coercitif de la part de sa partenaire se heurte souvent à l'incrédulité, parce que les dispositifs et le discours public restent pensés avant tout pour l'autre sens. Les deux détecteurs existent et sonnent juste, mais on ne les écoute pas de la même façon selon qui les porte.
 
 **En danger immédiat : le 17**, ou le **114 par SMS** si vous ne pouvez pas parler.
 

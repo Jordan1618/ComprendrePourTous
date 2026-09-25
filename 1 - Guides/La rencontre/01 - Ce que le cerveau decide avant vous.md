@@ -4,7 +4,7 @@ chapitre: "1"
 titre: "Ce que le cerveau décide avant vous"
 sujet: "commun"
 angle: "physiologie"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -59,6 +59,10 @@ L'argument évolutionniste est fréquemment invoqué pour justifier des préfér
 **Ce qui ne tient pas.** L'usage de ces données pour affirmer que chacun « devrait » désirer tel profil, ou que les préférences masculines et féminines seraient figées et opposées. Les écarts moyens entre groupes sont réels mais **faibles comparés à la variation entre individus d'un même groupe**. Autrement dit : connaître le sexe de quelqu'un vous renseigne très mal sur ses préférences réelles. La variation interindividuelle domine largement.
 
 C'est un point où l'angle évolutionniste est le plus souvent instrumentalisé, notamment en ligne, pour justifier une vision rigide des rapports entre hommes et femmes. La donnée scientifique ne soutient pas cette rigidité.
+
+👁️ **Vu de l'autre côté**
+
+L'écart moyen entre préférences masculines et féminines documenté par la recherche est réel, mais il est presque toujours reçu très différemment selon qui l'entend. Une femme qui découvre ces données y voit souvent la confirmation d'un jugement qu'elle a déjà ressenti sur les applications, être évaluée d'abord sur des critères physiques. Un homme y voit souvent, à l'inverse, une explication de son propre silence répété, sans comprendre que l'écart moyen ne dit rien de ses chances individuelles. Les deux lectures s'appuient sur le même chiffre, et les deux se trompent en l'appliquant à un cas particulier plutôt qu'à une moyenne de population.
 
 **Bons réflexes**
 

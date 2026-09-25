@@ -4,7 +4,7 @@ chapitre: "14"
 titre: "Rencontres professionnelles et en contexte de vulnérabilité : consentement et cadre"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -63,11 +63,17 @@ Dans ces cas, la question à se poser n'est pas seulement « est-ce interdit » 
 - Dans une zone grise, formulez la question directement plutôt que de deviner : « est-ce que tu te sentirais libre de me dire non si ça ne t'intéressait pas » est une phrase qui, à elle seule, réduit une partie du déséquilibre en le rendant visible et négociable.
 - Si vous êtes en position haute dans une zone grise, laissez l'initiative de la suite venir clairement de l'autre plutôt que de relancer : c'est la meilleure façon de vérifier que le premier pas n'était pas dicté par la position plutôt que par un intérêt réel.
 
+⚖️ **Nuance : le consentement n'est pas un « oui » isolé**
+
+Le mot « consentement » est souvent réduit, dans le langage courant, à un accord verbal ponctuel : un « oui » suffirait à clore la question. Ce chapitre montre l'inverse à chaque section : un « oui » peut être sincère dans l'instant et rester structurellement fragile si le terrain sur lequel il est prononcé est une pente plutôt qu'un terrain plat. Confondre l'existence d'un accord verbal avec la liberté réelle de le donner ou de le refuser revient à ignorer tout ce que ce chapitre vient de documenter sur la dépendance professionnelle et la vulnérabilité.
+
 ### 14.7 Ce que ce chapitre ne dit pas
 
 Il ne dit pas que toute relation née dans un contexte professionnel ou de vulnérabilité est condamnée ou illégitime : beaucoup de couples stables se sont formés entre collègues de statut égal, ou après qu'une période de vulnérabilité s'est refermée. Il dit que le déséquilibre de pouvoir ou de dépendance change la nature du consentement, et que cette différence mérite d'être nommée, pas ignorée au nom du seul sentiment amoureux.
 
 Il ne dit pas non plus que la prudence attendue dans ces contextes doit se transformer en suspicion généralisée envers toute relation née au travail ou dans une période de fragilité : la plupart des personnes qui rencontrent un collègue ou une personne traversant une période difficile n'exploitent aucun déséquilibre. La vigilance porte sur les cas où la dépendance structurelle est réelle, pas sur la simple coïncidence d'un contexte professionnel ou fragile.
+
+La pente de ce chapitre a une limite qu'il faut nommer avant de le refermer : contrairement à un vrai terrain, elle est souvent invisible à celui qui se trouve en haut, alors qu'elle reste évidente pour celui qui se trouve en bas. C'est cette asymétrie de perception, plus que la pente elle-même, qui rend la vigilance nécessaire.
 
 ### 14.8 Renvois croisés
 

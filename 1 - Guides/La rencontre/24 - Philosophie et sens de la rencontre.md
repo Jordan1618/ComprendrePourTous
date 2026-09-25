@@ -4,7 +4,7 @@ chapitre: "24"
 titre: "Philosophie et sens de la rencontre : hasard, destin et choix"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -41,7 +41,9 @@ Une fois la relation installée, cette même question éthique se prolonge sous 
 
 ### 24.4 La rencontre vue par les traditions spirituelles : quelques repères, sans hiérarchie entre elles
 
-Ce sujet appelle une précaution méthodologique claire dès le départ : les traditions spirituelles et religieuses proposent des cadres de sens très divers sur la rencontre amoureuse, aucun n'a de statut de vérité démontrable, et ce chapitre les présente à titre de repères culturels et philosophiques, pas comme des recommandations personnelles.
+⚖️ **Nuance : un repère culturel n'est pas une vérité démontrée**
+
+Ce sujet appelle une précaution méthodologique claire dès le départ. Présenter un récit spirituel dans ce chapitre pourrait laisser croire qu'il détient une once de vérité supérieure aux autres, ou pire, une validation scientifique qu'aucun de ces récits ne possède. Ce n'est pas le cas : les traditions spirituelles et religieuses proposent des cadres de sens très divers sur la rencontre amoureuse, aucune n'a de statut de vérité démontrable, et ce chapitre les présente à titre de repères culturels et philosophiques, à égalité les unes avec les autres, jamais comme des recommandations personnelles ni comme un classement implicite entre elles.
 
 Dans la mythologie grecque, reprise par Platon dans *Le Banquet*, le personnage d'Aristophane raconte que les humains étaient à l'origine des êtres doubles, à quatre bras et quatre jambes, que Zeus aurait séparés en deux par punition, chaque moitié cherchant depuis lors son autre moitié perdue. [Ce récit, que Platon a lui-même inventé en s'inspirant de motifs mythologiques plus anciens, est souvent cité comme l'origine occidentale de l'idée d'âme sœur, alors même que Platon, par la voix de Socrate qui répond ensuite à Aristophane dans le même dialogue, critique cette vision comme une conception immature de l'amour](https://theconversation.com/what-plato-can-teach-you-about-finding-a-soulmate-72715) (« What Plato can teach you about finding a soulmate », *The Conversation*, analyse du *Banquet* de Platon ; vérification du 18 septembre 2026). Ce point est peu connu : le mythe le plus cité pour justifier l'idée d'âme sœur est, dans le texte même où il apparaît, immédiatement contesté par son propre auteur.
 
@@ -73,6 +75,8 @@ Un dernier repère, issu cette fois de la philosophie existentialiste du vingti�
 Pour les philosophes existentialistes, en particulier dans la tradition initiée par Jean-Paul Sartre, l'être humain n'a pas d'essence fixée à l'avance, il se définit par ses actes et ses choix successifs. Transposé à la rencontre, ce cadre invite à considérer qu'une relation n'est jamais entièrement définie par la façon dont elle a commencé, coup de foudre, rencontre banale, hasard ou application, mais par les choix répétés que chacun fait ensuite, jour après jour, pour la construire ou non. Le récit du début, aussi marquant soit-il, ne détermine pas la suite : c'est un cadre philosophique cohérent avec ce qui est montré au chapitre 1 de ce guide, où l'intensité initiale d'une attirance se révèle être un mauvais prédicteur de la compatibilité à long terme.
 
 Ce cadre a une vertu pratique précise : il retire une partie de la pression mise sur la première rencontre elle-même, souvent vécue comme un examen à réussir d'un seul coup, pour la reporter sur ce qui vient après, où se joue réellement la construction d'une relation.
+
+Le joueur de dés de ce chapitre a une limite qu'il faut nommer avant de le refermer : contrairement à une partie de dés, la rencontre ne s'arrête jamais après un seul lancer. Chaque geste qui suit, chaque choix de continuer ou non à miser, redevient entièrement la part du joueur, quel que soit le résultat du lancer initial.
 
 ### 24.7 Ce que ce chapitre ne dit pas
 

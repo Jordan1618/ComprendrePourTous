@@ -4,7 +4,7 @@ chapitre: "18"
 titre: "Le marché matrimonial : économie, droit et RGPD"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -25,6 +25,10 @@ Un marché matrimonial fonctionne, au sens strictement économique du terme, com
 ### 18.4 L'industrie du mariage international et ses dérives
 
 Le marché matrimonial international, qui met en relation des personnes de pays différents à travers des agences spécialisées, concentre des risques documentés spécifiques, en particulier quand un déséquilibre économique important existe entre les deux pays d'origine. Ce type d'intermédiation professionnelle peut recouvrir des situations très différentes : des rencontres sincères facilitées par un intermédiaire légitime, jusqu'à des situations de traite ou d'exploitation où la promesse de mariage sert de façade à un projet d'exploitation économique ou sexuelle. Les autorités françaises et européennes de lutte contre la traite des êtres humains identifient ce type de mise en relation internationale comme un facteur de vulnérabilité accru, notamment quand elle s'accompagne d'un isolement rapide de la personne arrivée dans le nouveau pays, un mécanisme proche du contrôle coercitif documenté au chapitre 7 de ce guide.
+
+👁️ **Vu de l'autre côté**
+
+La dépendance économique qui suit une migration liée à un mariage international ne se vit pas de la même façon pour les deux personnes du couple. Celui ou celle qui a déménagé dans le pays de l'autre se retrouve souvent, du jour au lendemain, sans réseau propre, sans maîtrise complète de la langue administrative, parfois sans droit de travailler immédiatement selon le statut migratoire, alors que le partenaire resté dans son pays d'origine garde intact tout ce qui faisait sa vie d'avant. Ce déséquilibre de dépendance, même dans une relation par ailleurs sincère, reste un facteur de vulnérabilité réel qui mérite d'être nommé plutôt que présumé absent du seul fait des sentiments en jeu.
 
 **Bons réflexes**
 
@@ -67,6 +71,8 @@ Au-delà de la seule arnaque sentimentale, les applications de rencontre concent
 ### 18.9 Politiques de modération des plateformes comparées
 
 Les grandes plateformes de rencontre affichent des politiques de modération d'ampleur très inégale. [Bumble indique bloquer plus de 900 000 faux comptes par mois grâce à un système de détection automatisé, tandis que les équipes de confiance et sécurité de Match Group, qui regroupe plusieurs marques majeures du secteur, traitent plus d'un million de signalements par semaine à l'échelle du groupe](https://www.stocktitan.net/news/TRU/more-than-eight-out-of-ten-dating-app-users-want-platforms-to-verify-ah2g442rvafp.html) (TransUnion, *étude sur la vérification d'identité dans la rencontre en ligne*, 2024 ; vérification du 18 septembre 2026). Ces chiffres, aussi importants soient-ils, restent difficiles à comparer entre plateformes faute de méthodologie commune de publication, et aucune régulation européenne ne fixe aujourd'hui un standard obligatoire de vérification d'identité pour l'ensemble du secteur.
+
+Le marché ouvert de ce chapitre a une limite qu'il faut nommer avant de le refermer : contrairement à un marché ordinaire, ce qu'on y échange, confiance, temps, sécurité juridique, ne se retrouve jamais intégralement dans les rayons visibles. Le prix affiché d'un abonnement premium ou le chiffre d'un rapport de modération ne disent presque rien de ce qui compte vraiment : la protection réelle qu'offre un statut juridique, ou la vulnérabilité réelle que crée un déséquilibre économique entre deux partenaires.
 
 ### 18.10 Renvois croisés
 

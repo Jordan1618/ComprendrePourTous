@@ -4,7 +4,7 @@ chapitre: "13"
 titre: "Rencontrer après une rupture, un deuil, ou après 50 ans"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -36,6 +36,10 @@ Cette même recherche apporte une nuance importante : chez les hommes, l'intér�
 👁️ **Vu de l'autre côté**
 
 L'entourage d'une personne veuve qui recommence à sortir se sent souvent partagé entre soulagement et malaise, parfois jusqu'à formuler une réprobation implicite sur le timing. Ce n'est pas rare, et ce n'est généralement pas hostile : c'est le reflet d'un deuil qui suit son propre rythme chez l'entourage, distinct de celui de la personne concernée. Le mieux reste d'en parler directement plutôt que de deviner ce que l'autre pense en silence.
+
+🗣️ **Témoignage réel**
+
+[L'animatrice Amanda Kloots, veuve à 39 ans, décrit ses premiers rendez-vous après le décès de son mari comme « terrifiants » : elle n'avait alors eu que trois rendez-vous « super-décontractés », et raconte que sortir de nouveau à cet âge « est vraiment hors de sa zone de confort, et c'est difficile »](https://news.yahoo.com/amanda-kloots-dating-again-heres-100124604.html) (Amanda Kloots, cité par Yahoo News ; vérification du 25 septembre 2026). Un autre témoignage, celui d'un coach spécialisé, complète cette cicatrice vue de l'intérieur. [Abel Keogh, lui-même veuf remarié plus d'un an après le décès de sa femme, explique que recommencer à sortir ne signifie pas être « guéri » ou avoir fini son deuil, mais plutôt garder le défunt « dans une place particulière du cœur » tout en avançant vers un nouveau chapitre](https://news.yahoo.com/amanda-kloots-dating-again-heres-100124604.html) (Abel Keogh, cité par Yahoo News ; vérification du 25 septembre 2026).
 
 ### 13.4 Rencontres tardives au-delà de 50 ans : un terrain différent, pas un terrain diminué
 
@@ -72,6 +76,8 @@ Un repère plus utile qu'un délai chiffré : est-ce que l'envie de rencontrer q
 
 Il ne dit pas qu'il existe un âge ou un moment optimal pour rencontrer à nouveau après une rupture ou un deuil. Le rythme du deuil et de la reconstruction est individuel, et aucune donnée statistique ne peut dicter le bon moment pour une personne précise. Il dit que ces trajectoires sont fréquentes, documentées, et qu'elles méritent d'être pensées avec leurs propres repères plutôt qu'avec les seuls repères d'une première rencontre à vingt-cinq ans.
 
+La cicatrice de ce chapitre a une limite qu'il faut nommer en le refermant : contrairement à une cicatrice physique, elle ne suit aucun calendrier de guérison prévisible. Certains frottements qu'on croyait supportés depuis longtemps peuvent encore raviver une sensibilité des années plus tard, sans que cela signifie que la reconstruction a échoué.
+
 ### 13.8 Renvois croisés
 
 Le deuil en tant que tel, indépendamment de la question de la rencontre ultérieure, est développé dans [Le deuil](<../Pour Nous/10 - Le deuil.md>) du guide Pour Nous. La question du couple à travers les âges de la vie, au-delà de la seule phase de rencontre, est traitée dans [Le couple à travers les âges](<../Pour Nous/11 - Le couple a travers les ages.md>) du même guide.
@@ -81,3 +87,4 @@ Le deuil en tant que tel, indépendamment de la question de la rencontre ultéri
 - Insee (2023), [Bilan démographique, nuptialité](https://www.insee.fr/fr/statistiques/7746162?sommaire=7746197) (vérification du 18 septembre 2026).
 - Carr, D. (2004), [The Desire to Date and Remarry Among Older Widows and Widowers](https://sites.bu.edu/deborahcarr/files/2018/01/remarriage-1.pdf), *Journal of Marriage and Family* (vérification du 18 septembre 2026).
 - Brown, S. & Shinohara, S. (2013), [Dating Relationships in Older Adulthood: A National Portrait](https://pmc.ncbi.nlm.nih.gov/articles/PMC3848887/), *Journal of Marriage and Family* (vérification du 18 septembre 2026).
+- Yahoo News, [Amanda Kloots is dating again: Here's why we should praise — not shame — her choices](https://news.yahoo.com/amanda-kloots-dating-again-heres-100124604.html), témoignages d'Amanda Kloots et Abel Keogh (vérification du 25 septembre 2026).

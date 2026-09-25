@@ -4,7 +4,7 @@ chapitre: "19"
 titre: "Speed dating, jeux vidéo, communautés de passion : les rencontres de niche"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -34,6 +34,10 @@ Le format s'est largement exporté hors du cadre strictement amoureux, notamment
 Les jeux vidéo en ligne, en particulier les jeux coopératifs et les univers persistants, constituent un contexte de rencontre à part entière, structurellement différent des applications de rencontre classiques. La relation s'y construit d'abord autour d'une activité partagée, avec un objectif commun explicite, avant que toute dimension romantique n'émerge, ce qui correspond exactement au mécanisme de l'auto-expansion par activité nouvelle et engageante décrit au chapitre 11 de ce guide.
 
 Ce contexte présente un avantage documenté : la personnalité et la fiabilité se révèlent à travers l'action et la coopération répétée, un terrain d'observation que le seul échange de messages sur une application ne permet pas de reproduire aussi finement. Il présente aussi une limite propre : l'anonymat relatif des pseudonymes et avatars peut retarder, parfois longtemps, la vérification de l'identité réelle de l'autre, un point de vigilance à mettre en regard des techniques de vérification décrites au chapitre 15.
+
+💑 **Dans le couple**
+
+Un couple formé autour d'un jeu vidéo partagé garde souvent ce terrain neutre bien après la phase de rencontre, comme un espace commun qui continue d'exister indépendamment des tensions du quotidien. Ce n'est pas un détail anecdotique : garder une activité conjointe non liée à la gestion du foyer ou du travail, qu'il s'agisse d'un jeu ou d'autre chose, reste l'un des rituels de couple les mieux documentés pour entretenir le lien sur la durée, un principe développé plus largement dans le guide [Pour Nous](<../Pour Nous/README.md>).
 
 **Bons réflexes**
 

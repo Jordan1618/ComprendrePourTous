@@ -4,7 +4,7 @@ chapitre: "17"
 titre: "Une histoire de la rencontre, du mariage arrangé au swipe"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -28,6 +28,10 @@ Au Japon, [le système du miai, l'introduction formelle organisée par un interm
 
 Le point commun de ces systèmes contemporains n'est plus, dans la plupart des cas, l'absence totale de consentement individuel, largement condamnée aujourd'hui par le droit international, mais l'intervention structurée d'un tiers, familial ou professionnel, dans la mise en relation initiale, exactement la fonction que l'entourage ou les applications remplissent ailleurs sous une autre forme.
 
+👁️ **Vu de l'autre côté**
+
+Le consentement dans un mariage arrangé contemporain ne se vit pas de la même façon selon la personne concernée, même au sein d'une même famille. Un des deux enfants peut vivre l'entremise familiale comme un soutien bienvenu, une façon de déléguer une recherche jugée fastidieuse à des personnes de confiance, quand l'autre la vit comme une pression difficile à refuser sans abîmer un lien familial auquel il ou elle tient. La même pratique, décrite de l'extérieur en une phrase, recouvre des vécus intérieurs radicalement différents selon qui la raconte.
+
 ### 17.4 Sociologie des petites annonces avant Internet
 
 Avant l'application, il y a eu la petite annonce imprimée. Les rubriques de « petites annonces matrimoniales » apparues dans la presse européenne dès le XIXe siècle remplissaient une fonction que l'on redécouvre aujourd'hui : élargir le bassin de rencontre au-delà du seul cercle géographique et social immédiat, pour des personnes que la structure sociale de proximité, décrite au chapitre 10, ne suffisait pas à mettre en relation, notamment en zone rurale isolée ou après un veuvage.
@@ -46,6 +50,10 @@ Le lieu de culte a longtemps constitué l'un des espaces de rencontre les plus s
 
 Ce rôle n'a pas disparu : il s'est en partie transposé vers les applications de rencontre religieuses décrites au chapitre 16 de ce guide, qui reproduisent numériquement une fonction que le lieu de culte physique remplissait auparavant en présentiel.
 
+💑 **Dans le couple**
+
+Les couples formés dans un lieu de culte partagent souvent, dès le départ, un filtre de confiance et un socle de valeurs communes que d'autres modes de rencontre n'offrent pas d'emblée. Ce socle n'est pas une garantie automatique d'entente sur tout : deux personnes peuvent partager la même pratique religieuse et diverger fortement sur son intensité, sa transmission aux enfants ou sa place dans le quotidien. Nommer ces attentes précises, plutôt que présumer un accord total du seul fait de la pratique commune, reste utile même dans ce contexte a priori plus homogène.
+
 ### 17.7 Salons et bals de mariage : une histoire de l'événementiel matrimonial
 
 L'idée d'un événement dédié à la rencontre en vue du mariage n'est pas née avec le speed dating contemporain, traité au chapitre 19 de ce guide. Les bals de mariage et salons matrimoniaux, organisés dès le XIXe siècle dans plusieurs grandes villes européennes, réunissaient des candidats au mariage dans un cadre explicitement dédié à cette fin, parfois avec l'appui de matrimoniales, des intermédiaires professionnels rémunérés pour organiser des présentations, ancêtres directs des agences matrimoniales et, plus loin encore, des applications actuelles.
@@ -55,6 +63,8 @@ Ce format assumait une chose que beaucoup d'utilisateurs d'applications modernes
 ### 17.8 Ce que cette histoire enseigne pour aujourd'hui
 
 Deux constats traversent ces quatre siècles de transformations. D'abord, la fonction d'intermédiaire, qu'elle soit incarnée par une famille, une communauté religieuse, une petite annonce ou un algorithme, n'a jamais disparu : elle a seulement changé de forme, et le fantasme d'une rencontre purement spontanée et sans intermédiaire relève largement du mythe, y compris à des époques qu'on imagine plus « naturelles ». Ensuite, la vitesse et l'échelle de la mise en relation ont explosé sans que le mécanisme psychologique de l'attirance, décrit aux chapitres 1 et 11 de ce guide, n'ait fondamentalement changé : le cerveau qui évalue un profil en une fraction de seconde sur une application est le même cerveau qui évaluait un visage croisé au bal du village.
+
+Le fleuve de ce chapitre a une limite qu'il faut nommer avant de le refermer : contrairement à un vrai fleuve, dont le lit change sous la seule pression du relief, celui de la rencontre a toujours été partiellement creusé par des décisions humaines délibérées, familiales, religieuses ou commerciales. Rien de ce chemin n'a jamais été purement naturel, pas même à l'époque qu'on imagine la plus spontanée.
 
 **Bons réflexes**
 

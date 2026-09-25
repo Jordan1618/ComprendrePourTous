@@ -4,7 +4,7 @@ chapitre: "26"
 titre: "Le décor de la rencontre : lieux, climat et territoire"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -70,6 +70,10 @@ Transposé à la rencontre, ce constat a une conséquence pratique simple, rarem
 Un dernier point, d'ordre logistique, mérite d'être nommé explicitement tant il est souvent négligé dans les débuts de relation, en particulier ceux nés en ligne où la distance géographique entre deux profils n'est pas toujours perçue avant l'échange des premiers messages. [Les mêmes recherches sur la simple exposition et la proximité géographique montrent que la distance physique reste, dans la plupart des cas documentés, un facteur structurant fort de la probabilité qu'une relation naissante se transforme en relation durable](https://www.pnas.org/doi/10.1073/pnas.1908630116) (Rosenfeld, Thomas & Hausen, « Disintermediating your friends », *PNAS*, 2019, déjà cité au chapitre 4 de ce guide ; vérification du 18 septembre 2026), simplement parce que la fréquence des rencontres possibles en dépend directement.
 
 Ce constat n'a rien d'un verdict contre les relations à distance, très viables dans la plupart des cas quand elles reposent sur un engagement explicite des deux côtés, sujet déjà développé dans le guide [L'amour](<../L amour/README.md>). Il invite simplement à intégrer la distance réelle, en temps de trajet plus qu'en kilomètres, comme un paramètre pratique légitime dès les premiers échanges, plutôt qu'un détail secondaire découvert après coup.
+
+💑 **Dans le couple**
+
+Une fois la relation installée, le décor continue de jouer un rôle qu'on lui prête rarement : deux partenaires qui vivent loin l'un de l'autre après le début de la relation, même à quelques dizaines de minutes de trajet supplémentaires, voient mécaniquement la fréquence de leurs rencontres baisser si le sujet n'est jamais nommé explicitement. Poser la question du lieu de vie futur, même de façon informelle et précoce, évite qu'elle ne devienne un non-dit qui pèse silencieusement sur la relation.
 
 ### 26.7 Ce que ce chapitre ne dit pas
 
