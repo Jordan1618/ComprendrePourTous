@@ -1,80 +1,59 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-24
+mis_a_jour_le: 2026-09-25
 ---
 
 # Audit — La rencontre (28 chapitres)
 
-Audit en lecture seule, grille en 9 points du skill Audit2Guide. Rapport reconstitué manuellement à partir de quatre lots d'audit (1-7, 8-14, 15-21, 22-28) produits par des agents qui ont écrasé successivement le même fichier sans se voir les uns les autres — fusion faite après coup pour obtenir une image complète des 28 chapitres.
+Ré-audit intégral en lecture seule, grille en 9 points du skill Audit2Guide, fait à neuf sur l'état actuel des 28 fichiers (le rapport précédent, daté du 24 septembre, est remplacé entièrement et n'a pas été relu avant cette passe).
 
-## Synthèse (28 chapitres)
+## Synthèse
 
-Le guide dans son ensemble est solide sur le fond : fil jamais cassé sur les 28 chapitres, objets bien définis, réflexes très majoritairement actionnables (peu de « Retenir »/« Garder à l'esprit » sur l'ensemble), et une honnêteté constante sur les données introuvables plutôt qu'une invention. Aucun chapitre ne tombe sous le plancher de mots de façon problématique (le plus court, le chapitre 4, fait 997 mots mais reste un objet bien posé).
+Verdicts : **10 chapitres à Rien à faire** (1, 2, 3, 10, 11, 12, 13, 14, 17, 18), **18 chapitres à Chirurgie** (4, 5, 6, 7, 8, 9, 15, 16, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28), **0 à Réécriture**. La reprise sous Redaction2Chapitre a clairement fonctionné : le fil est tenu sur les 28 chapitres, les objets sont définis (styles d'attachement, contrôle coercitif, homogamie, dark patterns, etc.), le sourçage est presque toujours expliqué plutôt que collé (ce que fait chaque étude, pas seulement son résultat), les chiffres sont mis à l'échelle, et les chapitres 9 à 28 comportent des blocs ⚖️ Nuance, 👁️ Vu de l'autre côté, 💑 Dans le couple et 🗣️ Témoignage réel employés à bon escient — le défaut « aucun bloc Nuance sur les 28 chapitres » relevé par le rapport du 24 septembre a disparu, signe que la reprise a bien eu lieu entre les deux audits.
 
-**Le défaut le plus systématique et le plus net : le bloc ⚖️ Nuance n'apparaît nulle part sur les 28 chapitres**, alors que plusieurs passages le réclament presque mot pour mot (23.5 sur le débat Zentner/Schmitt, 22.3 sur la nuance Pairfam/Cacioppo, 20.7 où la nuance est déjà écrite en prose sous forme de « ce que ce chapitre ne dit pas »).
+Deux défauts dominent, tous les deux légers et du registre chirurgie :
 
-**Les blocs 👁️ et 💑 sont présents mais très inégalement répartis.** Quasi absents sur 1-7 (seul 💑 apparaît, 4 fois), ils deviennent plus fréquents à partir de 15 (👁️ dans 9/14, 💑 dans 6/14). Sept chapitres n'ont strictement aucun bloc alors que des candidats explicites existent dans leur propre texte : 17 (consentement en mariage arrangé), 18 (dépendance économique), 21 (tourisme amoureux), 27 (blâme des victimes selon le genre), et dans une moindre mesure 3, 5, 7 (biais de choix, applications, signaux d'alerte).
+1. **Six chapitres sous le plancher de 1 500 mots** : les chapitres 4 à 9 (le noyau fondateur du guide, 1 027 à 1 498 mots), jamais retouchés à la hausse alors que les chapitres 10 à 28 dépassent tous 1 500 mots, certains largement (2 550 pour le 23). Le contenu de ces six chapitres est solide sur le fond ; il manque de la place pour approfondir (exemples supplémentaires, un deuxième niveau d'étude expliquée, un bloc ⚖️ Nuance absent aussi de ces six-là).
+2. **Retour explicite de l'analogie non fait en fin de chapitre** sur environ un tiers du guide (chapitres 15, 16, 19, 20, 21, 22, 25, 26, 27) : l'image est bien filée dans le corps du texte, mais la clôture en forme de « l'analogie de ce chapitre a une limite qu'il faut nommer » — devenue la norme du guide depuis le chapitre 10 — n'y a pas été ajoutée. Le chapitre 20 cumule ce défaut avec un fil plus lâche que les autres : quatre sous-thèmes (pickup culture, mèmes, dark patterns de design, mythes de la fiction) juxtaposés sous l'analogie du « manuel de vente », qui n'irrigue que la première section.
 
-**Le bloc 🗣️ Témoignage réel n'apparaît qu'une seule fois sur 28 chapitres** (chapitre 15, avec deux témoignages nommés et sourcés), alors que plusieurs sujets s'y prêteraient fortement (rupture au 13, résilience après une mauvaise rencontre au 27).
+Défaut mineur et isolé : six réflexes sur l'ensemble du guide commencent par « Retenir » ou « Se rappeler » ou « Garder à l'esprit » plutôt que par une action (chapitres 23, 24, 25, 27, 28 — un seul par chapitre sauf le 28 qui en a deux), noyés chacun dans une liste par ailleurs actionnable. Le chapitre 22 a en outre une numérotation dupliquée (22.5 puis 22.5 bis) — un défaut de forme, pas de fond.
 
-**Sourçage en liens collés, inégal selon les chapitres** : très propre sur 1-7 (0 à 2 liens collés par chapitre), se dégrade nettement à partir de 8, avec des pics à 100 % (11, 12, 14, 24, 27). Les deux seuls chapitres en réécriture stricte (11 et 12) cumulent ce défaut de sourçage avec un vrai problème de fil : juxtaposition de sous-thèmes sans progression continue.
+Aucun chapitre ne présente de fil cassé, de liste annoncée puis non tenue, ni d'accumulation de résumés d'études non expliqués : la barre de la réécriture n'est atteinte nulle part.
 
-## Mesures globales (28 chapitres)
+## Tableau
 
-| Mesure | Valeur |
-|---|---|
-| Chapitres audités | 28 / 28 |
-| Bloc ⚖️ Nuance | 0 / 28 |
-| Bloc 👁️ Vu de l'autre côté | 13 / 28 |
-| Bloc 💑 Dans le couple | 13 / 28 |
-| Bloc 🗣️ Témoignage réel | 1 / 28 |
-| Chapitres sans aucun bloc | 7 (3, 5, 7, 17, 18, 21, 27) |
-| Chapitres avec fil cassé | 1 (18) |
-| Verdict Rien à faire | 8 |
-| Verdict Chirurgie | 18 |
-| Verdict Réécriture | 2 |
+| # | Chapitre | Mots | Défauts relevés | Verdict |
+|---|---|---|---|---|
+| 1 | Ce que le cerveau décide avant vous | 1 653 | Aucun défaut relevé | Rien à faire |
+| 2 | Les styles d'attachement | 1 607 | Aucun défaut relevé | Rien à faire |
+| 3 | Les biais qui font choisir de travers | 1 686 | Aucun défaut relevé | Rien à faire |
+| 4 | Où les gens se rencontrent vraiment | 1 027 | Sous le plancher de ~470 mots ; pas de bloc ⚖️ Nuance | Chirurgie |
+| 5 | Les applications de rencontre | 1 201 | Sous le plancher de ~300 mots ; pas de bloc ⚖️ Nuance | Chirurgie |
+| 6 | Les premiers échanges | 1 242 | Sous le plancher de ~260 mots ; pas de bloc ⚖️ Nuance | Chirurgie |
+| 7 | Les signaux d'alerte documentés | 1 498 | 2 mots sous le plancher (négligeable en soi, à regrouper avec la reprise du 4-9) | Chirurgie |
+| 8 | Sécurité et cadre légal | 1 407 | Sous le plancher de ~93 mots | Chirurgie |
+| 9 | Mieux choisir, la synthèse | 1 424 | Sous le plancher de ~76 mots (chapitre de synthèse, déficit moins gênant) | Chirurgie |
+| 10 | Homogamie et réseau social | 1 718 | Aucun défaut relevé | Rien à faire |
+| 11 | L'effet miroir et l'échange social | 2 166 | Aucun défaut relevé | Rien à faire |
+| 12 | Ce que les applications optimisent vraiment | 1 781 | Aucun défaut relevé | Rien à faire |
+| 13 | Rencontrer après une rupture, un deuil, après 50 ans | 1 821 | Aucun défaut relevé | Rien à faire |
+| 14 | Rencontres professionnelles et vulnérabilité | 1 708 | Aucun défaut relevé | Rien à faire |
+| 15 | Arnaques sentimentales et vérification | 1 689 | Analogie du pêcheur non reprise en clôture (15.7) | Chirurgie |
+| 16 | Neuroatypie, anxiété sociale, applications de niche | 1 699 | Analogie du mode d'emploi absent non reprise en clôture (16.6) | Chirurgie |
+| 17 | Une histoire de la rencontre | 1 769 | Aucun défaut relevé | Rien à faire |
+| 18 | Le marché matrimonial : économie, droit, RGPD | 1 783 | Aucun défaut relevé | Rien à faire |
+| 19 | Speed dating, jeux vidéo, communautés de passion | 1 623 | Pas de clôture reprenant l'analogie du terrain neutre ; chapitre proche d'une juxtaposition de sept mini-sujets | Chirurgie |
+| 20 | La pickup culture et les coachs en rencontre | 1 548 | Fil le plus lâche du guide (pickup, mèmes, dark patterns, mythes de fiction juxtaposés) ; analogie du manuel de vente non reprise après 20.1 | Chirurgie |
+| 21 | Rencontrer en mobilité, en crise, via clubs | 1 793 | Analogie du sol qui bouge non reprise en clôture (21.7) | Chirurgie |
+| 22 | Ce que dix ans de recherche disent des couples en ligne | 1 585 | Analogie du pont non reprise en clôture (22.6) ; numérotation dupliquée 22.5 / 22.5 bis | Chirurgie |
+| 23 | Le corps et la biologie du désir | 2 550 | 1 réflexe en « Se rappeler » (23.6) | Chirurgie |
+| 24 | Philosophie et sens de la rencontre | 2 046 | 1 réflexe en « Se rappeler » (24.2) | Chirurgie |
+| 25 | Corps, genre et intimité dans les premiers instants | 1 965 | Analogie de la chorégraphie non reprise en clôture ; 1 réflexe en « Garder à l'esprit » (25.6) | Chirurgie |
+| 26 | Le décor de la rencontre | 1 877 | Analogie de la scène de théâtre non reprise en clôture | Chirurgie |
+| 27 | Ce que dit la donnée | 1 833 | Analogie du carnet de bord non reprise en clôture ; 1 réflexe en « Retenir » (27.2) | Chirurgie |
+| 28 | La rencontre dans l'art et la culture populaire | 2 063 | 2 réflexes en « Se rappeler »/« Retenir » (28.2, 28.4) | Chirurgie |
 
-## Détail par chapitre
+## Estimation de coût
 
-| # | Chapitre | Mots | Liens collés | Défauts relevés | Verdict |
-|---|---|---|---|---|---|
-| 1 | Le cerveau décide | 1499 | 2/7 | Fil net, analogie du portier portée et reprise. Objets bien définis. Aucun 👁️ malgré 1.5 (écart de préférences hommes/femmes explicite) ; 1 réflexe passif sur 4 | Chirurgie |
-| 2 | Styles d'attachement | 1508 | 2/7 | Fil net, analogie du thermostat reprise. Cycle anxieux-évitant (2.4) candidat naturel à un 🗣️, absent. Réflexes 100% actifs | Chirurgie |
-| 3 | Les biais qui font choisir de travers | 1652 | 2/9 | Fil net, 6 biais définis avec correctif concret chacun. Réflexes 100% actifs. Aucun bloc, non pénalisant ici (pas de sujet genré) | Rien à faire |
-| 4 | Où les gens se rencontrent | 997 | 2/4 | Fil net, homogamie et exposition définies. Réflexes 100% actifs. Le plus court du guide mais objet bien posé | Rien à faire |
-| 5 | Applications de rencontre | 1076 | 0/5 | Fil net, 4 effets du produit expliqués + apports positifs. Manque : 5.2 documente un écart de vécu hommes/femmes (afflux vs silence) sans bloc 👁️ | Chirurgie |
-| 6 | Premiers échanges | 1187 | 2/6 | Fil net, 5 reformulations concrètes de questions. 1 réflexe limite passif sur 5 | Rien à faire |
-| 7 | Signaux d'alerte documentés | 1353 | 0/7 | Fil net, contrôle coercitif bien défini. Sujet fortement genré (ligne 3919) sans bloc 👁️ malgré une mention explicite en 7.6 | Chirurgie |
-| 8 | Sécurité et cadre légal | 1179 | 3/6 | Pas d'analogie (seul chapitre du lot sans fil imagé) ; études citées sans expliquer leur méthode ; aucun bloc malgré une exposition différenciée femmes/LGBT+ mentionnée (8.1) | Chirurgie |
-| 9 | Mieux choisir : synthèse | 1140 | 2/5 | Pas d'analogie ; étude Gottman citée pour son résultat sans la méthode ; aucun ⚖️ malgré 9.5 (légitimité du célibat) | Chirurgie |
-| 10 | Homogamie et réseau social | 1565 | 4/6 | Analogie du filtre à café posée en 10.1 mais jamais retournée en fin de chapitre ; réflexes éclatés en 3 sous-blocs | Chirurgie |
-| 11 | Effet miroir et échange social | 1723 | 7/7 (100%) | Fil cassé : 7 sous-thèmes juxtaposés sans progression continue ; analogie de la danse improvisée jamais reprise ; 100% des liens collés | Réécriture |
-| 12 | Ce que les applications optimisent | 1480 | 7/7 (100%) | Le §12.6 (phéromones) est un aparté hors sujet ; analogie du buffet jamais retournée ; chiffre de 10,5 milliards de $ sans échelle | Réécriture |
-| 13 | Rencontrer après rupture, deuil ou 50 ans | 1529 | 3/3 (100%, n=3) | Analogie de la cicatrice non reprise en fin de chapitre ; aucun 🗣️ alors que le deuil/veuvage est le sujet le plus propice du guide | Chirurgie |
-| 14 | Rencontres professionnelles et vulnérabilité | 1506 | 2/2 (100%, n=2) | Fil et analogie les mieux tenus du lot mais non retournés en fin de chapitre ; aucun ⚖️ malgré « consentement », terme galvaudé | Chirurgie |
-| 15 | Arnaques sentimentales et vérification | 1676 | 7/14 | 👁️+🗣️ (2 témoignages nommés et sourcés) ; aucun ⚖️ | Rien à faire |
-| 16 | Neuroatypie, anxiété sociale, applications de niche | 1578 | 6/12 | Seul 👁️, aucun 💑 malgré 16.4 (candidat évident) | Chirurgie légère |
-| 17 | Une histoire de la rencontre | 1518 | 3/6 | Aucun bloc ; candidats 👁️ (17.3, consentement mariage arrangé) et 💑 (17.6) non exploités | Chirurgie |
-| 18 | Le marché matrimonial : économie, droit, RGPD | 1587 | 5/10 | Aucun bloc ; fil un peu juxtaposé (8 sous-thèmes disparates) ; candidat 👁️/💑 fort en 18.4 (dépendance économique) jamais formalisé | Chirurgie |
-| 19 | Speed dating, jeux vidéo, communautés de passion | 1538 | 2/2 | Seul 👁️ ; aucun 💑 malgré 19.4 (jeux vidéo en couple) ; études bien expliquées (Finkel & Eastwick) | Chirurgie légère |
-| 20 | La pickup culture et les coachs en rencontre | 1537 | 3/3 (100%, n=3) | Seul 👁️ ; aucun ⚖️ malgré 20.7 (nuance déjà écrite en prose) | Rien à faire |
-| 21 | Rencontrer en mobilité, en crise, ou après 50 ans | 1607 | 3/6 | Aucun bloc ; candidats 👁️ (21.3, déséquilibre économique) et 💑 (21.6) non exploités | Chirurgie |
-| 22 | Dix ans de recherche sur les couples en ligne | 1593 | 2/2 | Seul 👁️ ; aucun ⚖️ malgré 22.3 (nuance Pairfam vs Cacioppo, candidat quasi rédigé en l'état) ; numérotation dupliquée 22.5/22.5 bis | Rien à faire |
-| 23 | Le corps et la biologie du désir | 2320 (2290 selon un autre comptage) | 10/13 | 👁️+💑 ; 6 sous-thèmes peu reliés entre eux sous une seule analogie qui n'en couvre qu'une partie ; aucun ⚖️ malgré 23.5 (débat Zentner/Schmitt) | Chirurgie légère (fil à resserrer en priorité) |
-| 24 | Philosophie et sens de la rencontre | 1905/1876 | 4/4 (100%) | Seul 💑 ; ratio de liens collés maximal ; aucun ⚖️ malgré 24.4 (« sans hiérarchie entre elles ») | Chirurgie légère |
-| 25 | Corps, genre et intimité dans les premiers instants | 1948/1922 | 8/9 | 👁️+💑 ; études globalement bien expliquées malgré le ratio élevé ; 25.6 fait une mise en garde qui mériterait un vrai ⚖️ | Rien à faire |
-| 26 | Le décor de la rencontre | 1787/1759 | 7/9 | Seul 👁️ ; chapitre le plus propre sur les objets définis (les huit caractéristiques du troisième lieu d'Oldenburg réellement listées) ; aucun 💑 malgré 26.6 | Chirurgie légère |
-| 27 | Ce que dit la donnée | 1714/1686 | 9/9 (100%) | Aucun bloc ; le chiffre le plus frappant (signalement policier 70% vs 57% selon le genre) est lâché sans 👁️ alors qu'il documente exactement l'écart que ce bloc sert à nommer | Chirurgie |
-| 28 | La rencontre dans l'art et la culture populaire | 1991/1965 | 6/7 | Seul 💑 ; bonne pratique : dit explicitement l'absence de source sur le « coup de foudre » au cinéma plutôt que d'inventer | Chirurgie légère |
-
-## Estimation de coût (28 chapitres)
-
-- Rien à faire (8 chapitres) : 0 token.
-- Chirurgie (18 chapitres, dont 7 sans aucun bloc — 8, 9, 17, 18, 21, 27, et un niveau plus léger pour le reste) : 18 × 10-15k tokens ≈ **180 000 à 270 000 tokens**.
-- Réécriture (2 chapitres, 11 et 12, fil cassé + sourçage à 100%) : 2 × 35-45k tokens ≈ **70 000 à 90 000 tokens**.
-- **Total : environ 250 000 à 360 000 tokens, soit 1,5 à 2,5 sessions Claude Pro.**
-
-## En 5-8 lignes
-
-« La rencontre » est l'un des guides les mieux construits du dépôt sur le fond : fil jamais cassé (sauf le 11), objets bien définis, sources honnêtes. Le défaut le plus net et le plus uniforme sur les 28 chapitres est l'absence totale du bloc ⚖️ Nuance, alors que plusieurs passages l'appellent presque littéralement. Sept chapitres n'ont aucun bloc 👁️/💑/🗣️ malgré des candidats explicites, souvent liés à des enjeux de pouvoir ou de vulnérabilité (mariage arrangé, dépendance économique, tourisme amoureux, blâme des victimes). Le sourçage en liens collés se dégrade nettement après le chapitre 7. Seuls deux chapitres (11 et 12) relèvent d'une vraie réécriture ; le reste est de la chirurgie, pour un coût total très inférieur aux guides écrits en mode débit (Psychologie de la personnalité, Alimentation, Le sommeil).
+18 chapitres en chirurgie, tous des ajouts légers (longueur pour 4-9, clôture d'analogie ou reformulation d'un réflexe pour le reste) : à une fourchette basse de chirurgie, environ 18 passes courtes. 0 chapitre en réécriture. La reprise engagée sous Redaction2Chapitre a visiblement porté sur les chapitres 9 à 28 en priorité (verifie_le du 18 au 25 septembre) ; les chapitres 4 à 9 portent encore les traces d'un état antérieur (longueur sous le plancher, pas de bloc Nuance) et sont la priorité la plus nette d'une prochaine passe.
