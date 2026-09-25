@@ -84,7 +84,7 @@ Elle a une variante encore plus directe pour un parent, un mentor, un ancien : q
 
 ### 4.7 Sur les 36 questions d'Aron
 
-[Il existe un protocole expérimental construit pour générer de la proximité entre deux inconnus : trente-six questions réparties en trois séries de difficulté croissante, posées en alternance, avec réciprocité obligatoire, sur environ quarante-cinq minutes](https://journals.sagepub.com/doi/10.1177/0146167297234003) (Aron et al., *The Experimental Generation of Interpersonal Closeness*, Personality and Social Psychology Bulletin, 1997 ; vérification du 4 août 2026).
+Il existe [un protocole expérimental construit pour générer de la proximité entre deux inconnus](https://journals.sagepub.com/doi/10.1177/0146167297234003) : trente-six questions réparties en trois séries de difficulté croissante, posées en alternance, avec réciprocité obligatoire, sur environ quarante-cinq minutes (Aron et al., *The Experimental Generation of Interpersonal Closeness*, Personality and Social Psychology Bulletin, 1997 ; vérification du 4 août 2026).
 
 Le protocole est célèbre pour de mauvaises raisons, présenté comme un truc pour tomber amoureux, ce qu'il n'est pas. Ce qu'il démontre est plus intéressant et plus utile : la proximité se produit par escalade graduée et réciproque de l'auto-divulgation. Trois mécanismes, tous transposables.
 
@@ -96,9 +96,15 @@ Le protocole est célèbre pour de mauvaises raisons, présenté comme un truc p
 
 **💑 Dans le couple.** Le protocole marche aussi sur des gens qui se connaissent depuis longtemps, et souvent mieux, parce que le stock de questions jamais posées y est plus important qu'on croit. Une soirée par mois, quatre ou cinq questions, chacun répond. Ça paraît artificiel dix minutes puis ça ne l'est plus.
 
+⚖️ **Nuance : ce que ce chapitre ne promet pas**
+
+- **Le protocole des 36 questions n'est pas une formule pour tomber amoureux de n'importe qui.** C'est le raccourci viral qui a circulé, pas ce que les auteurs originaux ont démontré ni ce que Catron elle-même revendique dans son témoignage plus bas.
+- **Une question de témoignage (4.4) n'est pas une curiosité sans risque.** Sans les trois conditions posées plus haut, elle peut ramener une réponse que tu ne voulais pas entendre, et casser la confiance de celui qui l'a formulée honnêtement.
+- **Une question contrefactuelle (4.3) n'est pas une question comme une autre.** Elle manipule du regret, une émotion qui monte vite, et se pose seulement quand la relation la porte, jamais en groupe.
+
 ### 4.8 🗣️ Témoignage réel : l'essai qui a rendu le protocole célèbre
 
-En janvier 2015, l'autrice canadienne Mandy Len Catron publie dans le *New York Times*, dans la rubrique Modern Love, un essai qui raconte comment elle a testé le protocole des 36 questions avec une simple connaissance, un professeur d'université qu'elle fréquentait sans plus, autour d'un verre. [L'article, intitulé "To Fall in Love With Anyone, Do This", devient l'un des textes les plus lus de l'année sur le site du journal, et Catron finit en couple avec la personne avec qui elle avait fait l'exercice](https://www.npr.org/2019/11/22/780960016/mandy-len-catron-can-you-jumpstart-love) (NPR, entretien avec Mandy Len Catron, 22 novembre 2019 ; vérification du 17 septembre 2026).
+En janvier 2015, l'autrice canadienne Mandy Len Catron publie dans le *New York Times*, dans la rubrique Modern Love, un essai qui raconte comment elle a testé le protocole des 36 questions avec une simple connaissance, un professeur d'université qu'elle fréquentait sans plus, autour d'un verre. L'article, intitulé "To Fall in Love With Anyone, Do This", [devient l'un des textes les plus lus de l'année sur le site du journal](https://www.npr.org/2019/11/22/780960016/mandy-len-catron-can-you-jumpstart-love), et Catron finit en couple avec la personne avec qui elle avait fait l'exercice (NPR, entretien avec Mandy Len Catron, 22 novembre 2019 ; vérification du 17 septembre 2026).
 
 Catron a ensuite publié un livre entier sur le sujet, où elle nuance elle-même le succès viral de son texte initial : le protocole n'est pas une formule magique pour tomber amoureux de n'importe qui, et elle met en garde contre l'idée que la proximité produite par les questions équivaudrait automatiquement à l'amour. Ce que son témoignage illustre le mieux, ce n'est donc pas la promesse marketing qui a circulé sur les réseaux ("36 questions pour tomber amoureux"), mais exactement le mécanisme déjà démontré par les auteurs originaux du protocole : l'escalade graduée et réciproque de l'auto-divulgation produit une proximité réelle et mesurable, que cette proximité débouche ou non sur une histoire d'amour.
 

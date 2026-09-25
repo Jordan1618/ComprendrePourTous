@@ -3,8 +3,8 @@ type: "guide"
 guide: "Questions et communication"
 sujet: "commun"
 chapitres: 46
-mots: 75620
-verifie_le: 2026-09-17
+mots: 81148
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -28,53 +28,53 @@ Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une i
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Ce qu'une question fait vraiment](<01 - Ce qu'une question fait vraiment.md>) | psychologie | 2 112 |
-| 2 | [L'anatomie d'une question](<02 - L'anatomie d'une question.md>) | pratique | 1 773 |
-| 3 | [Les six familles de questions](<03 - Les six familles de questions.md>) | repères | 1 672 |
-| 4 | [Les questions qui changent une vie](<04 - Les questions qui changent une vie.md>) | relation | 1 606 |
-| 5 | [Les émotions en jeu](<05 - Les émotions en jeu.md>) | psychologie | 1 630 |
-| 6 | [Le cadre](<06 - Le cadre.md>) | pratique | 1 552 |
-| 7 | [Les questions difficiles avec les proches](<07 - Les questions difficiles avec les proches.md>) | relation | 1 551 |
-| 8 | [Recevoir la réponse](<08 - Recevoir la réponse.md>) | relation | 1 564 |
-| 9 | [Boîte à outils](<09 - Boîte à outils.md>) | repères | 1 548 |
-| 10 | [Pourquoi on communique, la science derrière](<10 - Pourquoi on communique, la science derrière.md>) | physiologie | 1 574 |
-| 11 | [Communiquer pour se développer, soi-même et les autres](<11 - Communiquer pour se developper, soi-meme et les autres.md>) | psychologie | 1 554 |
-| 12 | [Motivation, travail, négociation et réussite](<12 - Motivation, travail, negociation et reussite.md>) | pratique | 1 572 |
-| 13 | [Une histoire courte, pourquoi la communication est devenue si centrale](<13 - Une histoire courte, pourquoi la communication est devenue si centrale.md>) | repères | 1 786 |
-| 14 | [Le corps, base de toute communication](<14 - Le corps, base de toute communication.md>) | physiologie | 1 871 |
-| 15 | [Transmettre, linguistique, storytelling et l'art de se faire comprendre](<15 - Transmettre, linguistique, storytelling et l'art de se faire comprendre.md>) | pratique | 1 623 |
-| 16 | [La communication dans la culture](<16 - La communication dans la culture.md>) | repères | 1 609 |
-| 17 | [Bien communiquer par message, les conversations privées à l'ère numérique](<17 - Bien communiquer par message, les conversations privees a l'ere numerique.md>) | pratique | 1 730 |
-| 18 | [L'écart entre la formule et l'intention](<18 - L'ecart entre la formule et l'intention.md>) | psychologie | 1 647 |
-| 19 | [Désamorcer et écouter vraiment](<19 - Desamorcer et ecouter vraiment.md>) | pratique | 1 509 |
-| 20 | [Se poser des questions à soi-même, une histoire de l'introspection](<20 - Se poser des questions a soi-meme, une histoire de l'introspection.md>) | repères | 1 578 |
-| 21 | [Les questions qu'on évite, et ce qu'elles révèlent](<21 - Les questions qu'on evite, et ce qu'elles revelent.md>) | psychologie | 1 615 |
-| 22 | [Rumination ou introspection, et les âges des questions](<22 - Rumination ou introspection, et les ages des questions.md>) | pratique | 1 693 |
-| 23 | [Vrai développement personnel ou marketing bien-être](<23 - Vrai developpement personnel ou marketing bien-etre.md>) | repères | 1 612 |
-| 24 | [Ce que dit le silence](<24 - Ce que dit le silence.md>) | psychologie | 1 598 |
-| 25 | [Le corps qui parle : proxémie, regard, toucher, mimétisme postural](<25 - Le corps qui parle.md>) | physiologie | 1 623 |
-| 26 | [Rhétorique et négociation : convaincre sans manipuler](<26 - Rhetorique et negociation.md>) | pratique | 1 716 |
-| 27 | [Dire non sans rompre](<27 - Dire non sans rompre.md>) | relation | 1 636 |
-| 28 | [Ghosting, stonewalling, et les ruptures de communication](<28 - Ghosting, stonewalling, et les ruptures de communication.md>) | psychologie | 1 630 |
-| 29 | [Communiquer à travers les cultures](<29 - Communiquer a travers les cultures.md>) | repères | 1 542 |
-| 30 | [Visioconférence et communication asynchrone : les nouveaux angles morts](<30 - Visioconference et communication asynchrone.md>) | pratique | 1 566 |
-| 31 | [Le pouvoir de nommer et de faire taire](<31 - Le pouvoir de nommer et de faire taire.md>) | repères | 1 638 |
-| 32 | [Rhétorique politique, propagande et désinformation : comment ça marche](<32 - Rhetorique politique, propagande et desinformation.md>) | repères | 1 654 |
-| 33 | [La communication au travail : du management au feedback](<33 - La communication au travail, du management au feedback.md>) | pratique | 1 614 |
-| 34 | [Générations et codes de communication](<34 - Generations et codes de communication.md>) | repères | 1 561 |
-| 35 | [Médiation, justice et droit de se taire](<35 - Mediation, justice et droit de se taire.md>) | pratique | 1 543 |
-| 36 | [Une histoire de la parole publique, de la tribune antique au tribunal numérique](<36 - Une histoire de la parole publique.md>) | repères | 1 690 |
-| 37 | [Ce que coûte une mauvaise communication](<37 - Ce que coute une mauvaise communication.md>) | repères | 1 640 |
-| 38 | [Le cerveau et le corps de la conversation](<38 - Le cerveau et le corps de la conversation.md>) | physiologie | 1 999 |
-| 39 | [Quand la communication devient un symptôme](<39 - Quand la communication devient un symptome.md>) | psychologie | 1 905 |
-| 40 | [Ce que la communication coûte et rapporte](<40 - Ce que la communication coute et rapporte.md>) | pratique | 1 513 |
-| 41 | [Le droit et la force de la parole](<41 - Le droit et la force de la parole.md>) | repères | 1 597 |
-| 42 | [Le corps qu'on ne regarde pas assez](<42 - Le corps qu'on ne regarde pas assez.md>) | physiologie | 1 703 |
-| 43 | [Pourquoi on parle : le sens derrière les mots](<43 - Pourquoi on parle, le sens derriere les mots.md>) | repères | 1 586 |
-| 44 | [Le décor de la conversation](<44 - Le decor de la conversation.md>) | repères | 1 507 |
-| 45 | [Ce qui peut mal tourner, et comment le voir venir](<45 - Ce qui peut mal tourner, et comment le voir venir.md>) | pratique | 1 562 |
-| 46 | [La parole dans l'art et la culture populaire](<46 - La parole dans l'art et la culture populaire.md>) | repères | 1 616 |
+| 1 | [Ce qu'une question fait vraiment](<01 - Ce qu'une question fait vraiment.md>) | psychologie | 2 228 |
+| 2 | [L'anatomie d'une question](<02 - L'anatomie d'une question.md>) | pratique | 1 959 |
+| 3 | [Les six familles de questions](<03 - Les six familles de questions.md>) | repères | 1 795 |
+| 4 | [Les questions qui changent une vie](<04 - Les questions qui changent une vie.md>) | relation | 1 731 |
+| 5 | [Les émotions en jeu](<05 - Les émotions en jeu.md>) | psychologie | 1 717 |
+| 6 | [Le cadre](<06 - Le cadre.md>) | pratique | 1 662 |
+| 7 | [Les questions difficiles avec les proches](<07 - Les questions difficiles avec les proches.md>) | relation | 1 671 |
+| 8 | [Recevoir la réponse](<08 - Recevoir la réponse.md>) | relation | 1 672 |
+| 9 | [Boîte à outils](<09 - Boîte à outils.md>) | repères | 1 758 |
+| 10 | [Pourquoi on communique, la science derrière](<10 - Pourquoi on communique, la science derrière.md>) | physiologie | 1 687 |
+| 11 | [Communiquer pour se développer, soi-même et les autres](<11 - Communiquer pour se developper, soi-meme et les autres.md>) | psychologie | 1 654 |
+| 12 | [Motivation, travail, négociation et réussite](<12 - Motivation, travail, negociation et reussite.md>) | pratique | 1 658 |
+| 13 | [Une histoire courte, pourquoi la communication est devenue si centrale](<13 - Une histoire courte, pourquoi la communication est devenue si centrale.md>) | repères | 1 854 |
+| 14 | [Le corps, base de toute communication](<14 - Le corps, base de toute communication.md>) | physiologie | 1 929 |
+| 15 | [Transmettre, linguistique, storytelling et l'art de se faire comprendre](<15 - Transmettre, linguistique, storytelling et l'art de se faire comprendre.md>) | pratique | 1 700 |
+| 16 | [La communication dans la culture](<16 - La communication dans la culture.md>) | repères | 1 716 |
+| 17 | [Bien communiquer par message, les conversations privées à l'ère numérique](<17 - Bien communiquer par message, les conversations privees a l'ere numerique.md>) | pratique | 1 927 |
+| 18 | [L'écart entre la formule et l'intention](<18 - L'ecart entre la formule et l'intention.md>) | psychologie | 1 860 |
+| 19 | [Désamorcer et écouter vraiment](<19 - Desamorcer et ecouter vraiment.md>) | pratique | 1 719 |
+| 20 | [Se poser des questions à soi-même, une histoire de l'introspection](<20 - Se poser des questions a soi-meme, une histoire de l'introspection.md>) | repères | 1 653 |
+| 21 | [Les questions qu'on évite, et ce qu'elles révèlent](<21 - Les questions qu'on evite, et ce qu'elles revelent.md>) | psychologie | 1 829 |
+| 22 | [Rumination ou introspection, et les âges des questions](<22 - Rumination ou introspection, et les ages des questions.md>) | pratique | 1 814 |
+| 23 | [Vrai développement personnel ou marketing bien-être](<23 - Vrai developpement personnel ou marketing bien-etre.md>) | repères | 1 659 |
+| 24 | [Ce que dit le silence](<24 - Ce que dit le silence.md>) | psychologie | 1 771 |
+| 25 | [Le corps qui parle : proxémie, regard, toucher, mimétisme postural](<25 - Le corps qui parle.md>) | physiologie | 1 700 |
+| 26 | [Rhétorique et négociation : convaincre sans manipuler](<26 - Rhetorique et negociation.md>) | pratique | 1 867 |
+| 27 | [Dire non sans rompre](<27 - Dire non sans rompre.md>) | relation | 1 820 |
+| 28 | [Ghosting, stonewalling, et les ruptures de communication](<28 - Ghosting, stonewalling, et les ruptures de communication.md>) | psychologie | 1 779 |
+| 29 | [Communiquer à travers les cultures](<29 - Communiquer a travers les cultures.md>) | repères | 1 618 |
+| 30 | [Visioconférence et communication asynchrone : les nouveaux angles morts](<30 - Visioconference et communication asynchrone.md>) | pratique | 1 694 |
+| 31 | [Le pouvoir de nommer et de faire taire](<31 - Le pouvoir de nommer et de faire taire.md>) | repères | 1 658 |
+| 32 | [Rhétorique politique, propagande et désinformation : comment ça marche](<32 - Rhetorique politique, propagande et desinformation.md>) | repères | 1 739 |
+| 33 | [La communication au travail : du management au feedback](<33 - La communication au travail, du management au feedback.md>) | pratique | 1 631 |
+| 34 | [Générations et codes de communication](<34 - Generations et codes de communication.md>) | repères | 1 648 |
+| 35 | [Médiation, justice et droit de se taire](<35 - Mediation, justice et droit de se taire.md>) | pratique | 1 594 |
+| 36 | [Une histoire de la parole publique, de la tribune antique au tribunal numérique](<36 - Une histoire de la parole publique.md>) | repères | 1 705 |
+| 37 | [Ce que coûte une mauvaise communication](<37 - Ce que coute une mauvaise communication.md>) | repères | 1 808 |
+| 38 | [Le cerveau et le corps de la conversation](<38 - Le cerveau et le corps de la conversation.md>) | physiologie | 2 160 |
+| 39 | [Quand la communication devient un symptôme](<39 - Quand la communication devient un symptome.md>) | psychologie | 1 959 |
+| 40 | [Ce que la communication coûte et rapporte](<40 - Ce que la communication coute et rapporte.md>) | pratique | 1 667 |
+| 41 | [Le droit et la force de la parole](<41 - Le droit et la force de la parole.md>) | repères | 1 779 |
+| 42 | [Le corps qu'on ne regarde pas assez](<42 - Le corps qu'on ne regarde pas assez.md>) | physiologie | 1 862 |
+| 43 | [Pourquoi on parle : le sens derrière les mots](<43 - Pourquoi on parle, le sens derriere les mots.md>) | repères | 1 644 |
+| 44 | [Le décor de la conversation](<44 - Le decor de la conversation.md>) | repères | 1 673 |
+| 45 | [Ce qui peut mal tourner, et comment le voir venir](<45 - Ce qui peut mal tourner, et comment le voir venir.md>) | pratique | 1 754 |
+| 46 | [La parole dans l'art et la culture populaire](<46 - La parole dans l'art et la culture populaire.md>) | repères | 1 766 |
 
-Total : 75 620 mots, 46 chapitres.
+Total : 81 148 mots, 46 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

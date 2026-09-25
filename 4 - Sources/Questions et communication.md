@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Questions et communication"
-mis_a_jour_le: 2026-09-17
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
