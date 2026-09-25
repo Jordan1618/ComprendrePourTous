@@ -16,7 +16,7 @@ Ce chapitre parle d'une peur rarement nommée à voix haute, précisément parce
 
 [Les femmes sont plus sensibles que les hommes aux manquements à la gentillesse et à l'engagement dans une relation, et plus susceptibles de les révéler à d'autres personnes](https://www.psypost.org/womens-gossip-disguised-as-concern-harms-reputations-while-protecting-the-gossiper/) — ce qui rend le commérage un outil social particulièrement redouté quand il vise sa propre réputation, précisément parce qu'il circule dans des cercles où la confiance compte le plus.
 
-[Le commérage présenté sous forme d'inquiétude protège la personne qui le formule tout en abîmant durablement la réputation de la personne visée](https://www.psypost.org/womens-gossip-disguised-as-concern-harms-reputations-while-protecting-the-gossiper/) — ce qui explique pourquoi cette peur est difficile à combattre frontalement : elle n'a presque jamais de visage identifiable, et se défendre contre une rumeur formulée comme de la sollicitude paraît disproportionné, voire suspect.
+Pourquoi cette peur résiste-t-elle si mal à une réponse directe ? [Le commérage présenté sous forme d'inquiétude protège la personne qui le formule](https://www.psypost.org/womens-gossip-disguised-as-concern-harms-reputations-while-protecting-the-gossiper/) tout en abîmant durablement la réputation de la personne visée — ce qui explique pourquoi elle n'a presque jamais de visage identifiable, et pourquoi se défendre contre une rumeur formulée comme de la sollicitude paraît disproportionné, voire suspect.
 
 [Face à des écarts de statut social qui ne peuvent pas se résoudre autrement, les relations entre femmes peuvent se fracturer par la mise à distance émotionnelle, l'exclusion sociale ou le commérage — des tactiques employées plus discrètement que l'affrontement direct, en particulier entre femmes](https://www.psychologytoday.com/us/blog/rethinking-rivalry-competition-and-collaboration/202602/why-competitive-women-are-sometimes). Ce n'est pas une généralité qui s'applique à toutes les relations féminines — c'est un mécanisme documenté qui explique pourquoi certaines le vivent, pas une prédiction sur chaque amitié.
 
@@ -84,6 +84,13 @@ Une dernière peur mérite d'être nommée : celle qu'une amitié se délite san
 ### Ce que ça change en pratique
 
 La peur du jugement féminin n'est ni une invention ni une fatalité généralisée. C'est un mécanisme social réel, plus fréquent dans certains contextes (les débuts de la maternité, les groupes à forte hiérarchie sociale implicite) que dans d'autres, et systématiquement amplifié par l'anticipation par rapport à ce qui se produit vraiment. La connaître permet de la traverser sans se couper des relations féminines qui, par ailleurs, restent — comme le premier chapitre de cette section le montre — l'un des soutiens les plus solides qui existent.
+
+⚖️ **Nuance.** Deux malentendus traversent ce chapitre, celui de la « reine des abeilles » et celui du jugement maternel généralisé.
+
+- Une femme en position de pouvoir n'est pas, par nature, plus dure envers les autres femmes qu'un homme équivalent : là où le phénomène existe, il s'explique par une adaptation à un environnement professionnel hostile, pas par une caractéristique féminine générale.
+- La peur d'être jugée comme mère n'est pas la mesure d'un jugement massif réellement exercé : l'écart entre l'ampleur du jugement anticipé et celle du jugement réellement formulé par les autres mères est l'un des plus grands mesurés dans ce chapitre.
+
+Ce que recouvrent ces deux malentendus : prendre l'anticipation d'un jugement féminin pour la preuve de son ampleur réelle.
 
 ## Sources vérifiables
 

@@ -14,7 +14,7 @@ Ce chapitre se distingue du premier de cette série : là où « ce que les femm
 
 ### La confiance, avant tout le reste
 
-[Trois éléments reviennent systématiquement dans les recherches sur ce qui fait une relation de qualité entre femmes : l'intimité, l'entraide mutuelle et la simple compagnie](https://www.ijcrt.org/papers/IJCRT1812965.pdf). Mais parmi ces trois, un seul revient comme fondation de tous les autres : [la confiance, identifiée comme la base fondamentale de l'amitié, avec des niveaux de confiance mesurés plus élevés chez les femmes que chez les hommes dans leurs amitiés du même sexe](https://www.researchgate.net/publication/216049657_Trust_in_Friendship_A_Comparative_Analysis_of_Male_and_Female_University_Students).
+[Trois éléments reviennent systématiquement dans les recherches sur ce qui fait une relation de qualité entre femmes : l'intimité, l'entraide mutuelle et la simple compagnie](https://www.ijcrt.org/papers/IJCRT1812965.pdf). Mais parmi ces trois, un seul revient comme fondation de tous les autres. Une étude comparant des étudiants et des étudiantes sur leurs niveaux de confiance déclarés dans leurs amitiés du même sexe a mesuré un écart net : [la confiance est identifiée comme la base fondamentale de l'amitié, avec des niveaux de confiance mesurés plus élevés chez les femmes que chez les hommes](https://www.researchgate.net/publication/216049657_Trust_in_Friendship_A_Comparative_Analysis_of_Male_and_Female_University_Students) dans leurs amitiés respectives du même sexe.
 
 Ce qui distingue le plus nettement les amitiés féminines des amitiés masculines n'est pas leur intensité, mais leur matière première. [Alors que les amitiés masculines mettent l'accent sur les traits communs et les activités partagées, les amitiés féminines mettent l'accent sur la réciprocité — l'aide, le soutien émotionnel, le fait de se confier](https://www.ijcrt.org/papers/IJCRT1812965.pdf). Une amitié féminine qui fonctionne bien n'est donc pas nécessairement celle où l'on fait le plus de choses ensemble, mais celle où l'échange va dans les deux sens, de façon fiable, dans la durée.
 
@@ -67,7 +67,13 @@ Ce résultat rejoint directement ce qui a déjà été établi dans ce chapitre 
 **Bons réflexes.**
 - Investir dans la fiabilité des petites choses plutôt que dans les grands gestes ponctuels — c'est ce qui construit la confiance mesurée comme la plus déterminante.
 - Ne jamais sous-estimer la valeur d'une amitié réciproque et fiable : elle a un effet mesurable sur la santé, pas seulement sur le moral.
-- Se rappeler que ce qui fait une relation de qualité — confiance, réciprocité, sécurité émotionnelle — est le même socle en amitié et en amour, ce qui veut dire qu'on peut s'appuyer sur ses amitiés les plus solides pour comprendre ce qui, chez soi, fonctionne déjà très bien en amour, à n'importe quel âge et à n'importe quelle étape de la vie.
+- Nommer directement ce que la fiabilité ou la réciprocité de la relation ont produit récemment, plutôt que de se contenter d'un ressenti général : « depuis que tu m'as appelée pendant cette période difficile, je sais que je peux compter sur toi » construit la confiance plus qu'une déclaration abstraite.
+
+⚖️ **Nuance.** Un malentendu recoupe directement ce qui a été établi plus haut sur la confiance et la réciprocité.
+
+- Un grand cercle amical n'est pas un signe de force relationnelle supérieure à un cercle restreint : passé un certain seuil, un nombre très élevé d'amitiés proches est même associé à une moins bonne santé mentale, ce n'est jamais la taille du réseau qui protège, mais sa profondeur.
+
+Ce que recouvre ce malentendu : mesurer la valeur d'une vie amicale à son étendue visible plutôt qu'à la fiabilité réelle d'un petit nombre de liens.
 
 ## Sources vérifiables
 

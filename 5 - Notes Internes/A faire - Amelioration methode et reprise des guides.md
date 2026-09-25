@@ -385,8 +385,25 @@ Les 29 chapitres en chirurgie relevés par l'audit ont tous été repris (17 en 
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : Pour Elle (39 chapitres)
+### Guide Pour Elle (39 chapitres) — terminé le 25/09/2026
+
+Les 16 chapitres en chirurgie relevés par l'audit ont tous été repris (8, 9, 14, 20, 23, 24, 25, 27, 28, 29, 30, 35, 36, 37, 38, 39). Les 23 chapitres jugés « rien à faire » n'ont pas été touchés — l'audit notait que ce guide était déjà le mieux construit du dépôt sur plusieurs critères (analogies nombreuses et bien reprises, chiffres presque systématiquement mis à l'échelle), défaut dominant relevé : absence totale de bloc ⚖️ Nuance au format dédié sur les 39 chapitres malgré une nuance déjà présente en prose sur plusieurs d'entre eux, aucun bloc 🗣️ Témoignage nulle part, sourçage collé dépassant 30-70 % sur la série relationnelle/sociologique (23-30, 35-39), deux défauts isolés au chapitre 34 (ligne de mainteneur) et au chapitre 30 (section « Bons réflexes » dupliquée).
+
+- 16 blocs ⚖️ Nuance ajoutés (un par chapitre en chirurgie), formalisant chaque fois une nuance déjà présente en prose plutôt que d'en inventer une nouvelle : le mythe de la « reine des abeilles » (ch.25, ch.35), le mythe des langages de l'amour (ch.29, converti depuis une section « Une dernière nuance » déjà quasi conforme), le mythe du cerveau féminin câblé pour l'empathie (ch.36), le mythe du baromètre féminin (ch.24), le mythe du « girl hate » généralisé (ch.35), entre autres.
+- Ligne de mainteneur supprimée en fin de chapitre 34 (« Fin du document. Rédigé le 21 juillet 2026... »), violation directe de la règle « rien de journal ou de mainteneur dans le contenu publié ».
+- Section « Bons réflexes » dupliquée du chapitre 30 fusionnée en une seule section cohérente, sans perte de contenu des deux versions.
+- Aucun bloc 🗣️ Témoignage ajouté, faute d'accès web fiable pour vérifier un témoignage réel et publié dans cette session — conforme à la règle du skill. Seul le chapitre 8 (candidat TDPM signalé par l'audit) faisait partie de la liste chirurgie parmi les trois candidats cités ; les deux autres (fausse couche au ch.10, mère célibataire au ch.31) étaient classés « rien à faire » et n'ont donc pas été touchés.
+- Liens collés découpés sur les 16 chapitres, notamment le chapitre 35 (73 % de liens collés, le plus élevé du guide, avec ajout d'une section « Sources vérifiables » qui manquait entièrement) et les chapitres 14, 20, 25, 27, 28, 30 (méthode des études explicitée en plus de leur résultat pour plusieurs études centrales).
+- Réflexes passifs (« Se souvenir que… », « Retenir que… ») convertis en actions sur le chapitre 36.
+- Chapitres 36, 37 et 39, sous le plancher de 1 500 mots, étoffés avec du contenu réel (nouvelle sous-partie 36.5, sous-partie 37.3 restaurée après un manque de numérotation repéré au passage, nouvelle sous-partie 39.3), jamais du remplissage.
+- Total du guide : environ 77 200 mots (audit) → 83 968 mots comptés par le script local, 84 007 par `build-guides-complets.py` (écart mineur accepté).
+- Pipeline complet exécuté sans erreur, aucun lien cassé spécifique à ce guide (hors faux positifs connus de fragments d'ancre interne), README du guide et README racine mis à jour (colonne Chapitres corrigée de 34 à 39), réciprocité vérifiée et complétée dans `4 - Sources/Pour Elle.md` (une centaine de sources préexistantes qui manquaient de réciprocité sur les chapitres 8, 9, 14, 20, 23-30 et 36-39, ajoutées).
+- Guide non commité par l'agent, laissé pour vérification et commit par la session principale.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : Questions et communication (46 chapitres)
 
 ## Comment reprendre
 
-Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales et Pour Lui. Continuer guide par guide sur les deux guides restants (Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui et Pour Elle. Continuer sur le dernier guide restant (Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

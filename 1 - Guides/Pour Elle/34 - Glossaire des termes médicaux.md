@@ -42,5 +42,3 @@ Un glossaire pour t'y retrouver rapidement, dans l'ordre alphabétique, sans avo
 - **SMOP (anciennement SOPK)** : syndrome métabolique ovarien polyendocrinien, renommé en mai 2026 ([8.6](<08 - Troubles et pathologies du cycle.md#8-6-syndrome-des-ovaires-polykystiques-recemment-renomme-smop>)).
 - **Vaginisme** : contraction involontaire et douloureuse des muscles à l'entrée du vagin ([9.6](<09 - Sexualité féminine.md#9-6-vaginisme>)).
 - **Vulvodynie** : douleur chronique de la vulve sans cause identifiable à l'examen ([9.8](<09 - Sexualité féminine.md#9-8-vulvodynie>)).
-
-"Fin du document. Rédigé le 21 juillet 2026, édition augmentée. Sources vérifiées et datées à cette même période."

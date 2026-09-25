@@ -31,7 +31,9 @@ Cette charge invisible se combine à une fatigue plus large, mesurée du côté 
 - Se souvenir que le retrait d'une femme vis-à-vis du désir de couple n'est pas toujours un désintérêt pour la relation elle-même, mais parfois une réponse rationnelle à une charge de soutien émotionnel non réciproque accumulée dans des relations précédentes.
 - Distinguer un accompagnement affectif choisi et réciproque d'un travail de gestion émotionnelle imposé et à sens unique — la différence ne tient pas à la quantité de soutien donné, mais à sa réciprocité.
 
-Ce constat rejoint un résultat plus large sur le vécu du célibat lui-même, à rebours d'une idée reçue. [Une méta-analyse regroupant les données de 10 études menées entre 2020 et 2023, portant sur 5 941 participants célibataires âgés de 18 à 75 ans, montre que les femmes célibataires rapportent une satisfaction plus élevée que les hommes célibataires vis-à-vis de leur statut relationnel, de leur vie en général et de leur vie sexuelle, tout en exprimant un désir de partenaire romantique moins marqué que les hommes célibataires](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12178563/). Plus précisément : [32 % des femmes célibataires, contre seulement 20 % des hommes célibataires, se situent dans la tranche de satisfaction la plus élevée vis-à-vis de leur célibat](https://www.psypost.org/women-report-greater-satisfaction-with-singlehood-than-men-study-finds/).
+### 37.3 Le vécu du célibat féminin, à rebours d'une idée reçue
+
+Ce constat sur le mankeeping rejoint un résultat plus large sur le vécu du célibat lui-même. Qu'en est-il réellement de la satisfaction des femmes célibataires, comparée à celle des hommes ? [Une méta-analyse regroupant les données de 10 études menées entre 2020 et 2023, portant sur 5 941 participants célibataires âgés de 18 à 75 ans, montre que les femmes célibataires rapportent une satisfaction plus élevée que les hommes célibataires vis-à-vis de leur statut relationnel, de leur vie en général et de leur vie sexuelle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12178563/), tout en exprimant un désir de partenaire romantique moins marqué que les hommes célibataires. Plus précisément : [32 % des femmes célibataires, contre seulement 20 % des hommes célibataires, se situent dans la tranche de satisfaction la plus élevée vis-à-vis de leur célibat](https://www.psypost.org/women-report-greater-satisfaction-with-singlehood-than-men-study-finds/) — un écart de douze points qui contredit directement l'image du célibat féminin vécu par défaut, en attendant un partenaire.
 
 Une explication structurelle, plutôt qu'individuelle, est avancée pour ce résultat : [à mesure que l'indépendance financière et les réseaux sociaux des femmes s'élargissent, les motivations traditionnelles du couple, comme la stabilité économique, deviennent moins déterminantes](https://www.psypost.org/women-report-greater-satisfaction-with-singlehood-than-men-study-finds/). Ce résultat ne signifie évidemment pas qu'aucune femme ne souhaite de relation durable — il signifie que le désir de couple féminin, quand il existe, repose statistiquement moins sur un besoin de sécurité par défaut que sur un choix positif, ce qui change la nature même de ce qu'il faut chercher dans une relation pour qu'elle soit satisfaisante.
 
@@ -48,6 +50,13 @@ Un facteur revient de façon particulièrement constante dans la littérature su
 **Bons réflexes, en synthèse de ce chapitre.**
 - Considérer l'accordage émotionnel et la fiabilité constante d'un partenaire, plus que la seule intensité de l'attirance initiale, comme les meilleurs prédicteurs disponibles d'un attachement qui dure.
 - Se référer à la notion Style d'attachement pour comprendre pourquoi certains schémas relationnels de l'enfance continuent de peser sur les choix amoureux adultes, plutôt que de chercher une explication uniquement dans le partenaire actuel.
+
+⚖️ **Nuance.** Deux malentendus recouvrent ce chapitre.
+
+- Le retrait d'une femme vis-à-vis du désir de couple n'est pas systématiquement un signe de désintérêt pour la relation en elle-même : c'est parfois une réponse rationnelle à une charge de soutien émotionnel accumulée, non réciproque, dans des relations précédentes.
+- Une femme célibataire satisfaite de son célibat n'est pas une femme qui a renoncé à la relation par défaut : les données montrent l'inverse, une satisfaction de vie et sexuelle en moyenne plus élevée que chez les hommes célibataires, ce qui déplace le désir de couple du terrain du besoin vers celui du choix positif.
+
+Ce que recouvrent ces deux malentendus : lire le retrait ou la satisfaction féminine face au célibat comme un manque, alors que les données pointent le plus souvent vers un choix rationnel ou une réponse à une charge réelle.
 
 ## Sources vérifiables
 
