@@ -4,13 +4,13 @@ chapitre: "19"
 titre: "Gonorrhée : ce que le silence coûte"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-09-16
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Gonorrhée : ce que le silence coûte
 
-Le chapitre 2.2 a posé les bases médicales de la gonorrhée, et le chapitre 13 a détaillé l'urgence de la résistance aux antibiotiques. Ce chapitre se concentre sur ce qui se joue, socialement et individuellement, entre le moment du symptôme et celui de la consultation.
+Une étiquette collée sur un objet se décolle rarement d'un coup : elle laisse une trace de colle longtemps après qu'on a cru l'avoir retirée. La gonorrhée porte une étiquette de ce genre, celle d'infection "sale", bien plus tenace à décoller que l'infection elle-même n'est longue à traiter. Le chapitre 2.2 a posé les bases médicales de la gonorrhée, et le chapitre 13 a détaillé l'urgence de la résistance aux antibiotiques. Ce chapitre se concentre sur ce qui se joue, socialement et individuellement, entre le moment du symptôme et celui de la consultation, retardé bien plus souvent par cette étiquette que par l'infection réelle.
 
 ### 19.1 Une progression réelle qui touche particulièrement les hommes en France
 
@@ -22,13 +22,13 @@ Le chapitre 13 a détaillé la montée mondiale de la résistance aux antibiotiq
 
 **Nuance nécessaire.** Ces deux cas restent, à ce jour, exceptionnels et pas représentatifs de la majorité des infections traitées en France, qui répondent encore bien à la ceftriaxone. Ils sont un signal d'alerte précoce, pas une description de la situation courante, ce qui justifie de terminer systématiquement son traitement et de refaire un test de contrôle, plutôt qu'une inquiétude disproportionnée à chaque diagnostic.
 
-### 19.3 Le tabou spécifique d'une infection perçue comme "sale"
+### 19.3 L'étiquette elle-même : le tabou d'une infection perçue comme "sale"
 
 Aucun témoignage publié et vérifiable spécifiquement consacré à un vécu de gonorrhée n'a été identifié à ce jour ; c'est signalé ici explicitement plutôt que comblé par une invention. La recherche disponible sur la stigmatisation des IST éclaire néanmoins pourquoi cette infection en particulier reste difficile à nommer. [Le sujet des IST déclenche des sentiments si forts autour de la notion de personne "sale" ou moralement relâchée que la principale barrière à la consultation et au dépistage reste le désir d'éviter cette étiquette négative, davantage que la gêne du symptôme lui-même](https://www.sciencedirect.com/science/article/abs/pii/S0277953603004192) (analyse attributionnelle de la stigmatisation liée aux IST ; vérification du 16 septembre 2026).
 
 **Bons réflexes.**
-- Consulter dès l'apparition d'un symptôme inhabituel (brûlure, écoulement) plutôt que d'attendre qu'il passe seul : la gonorrhée ne se résout jamais spontanément et continue de se transmettre tant qu'elle n'est pas traitée.
-- Se rappeler qu'un traitement en une injection unique règle la quasi-totalité des cas non résistants : la peur de la consultation est presque toujours plus lourde à porter que la consultation elle-même.
+- Consultez dès l'apparition d'un symptôme inhabituel (brûlure, écoulement) plutôt que d'attendre qu'il passe seul : la gonorrhée ne se résout jamais spontanément et continue de se transmettre tant qu'elle n'est pas traitée.
+- Pesez consciemment les deux poids en présence : un traitement en une injection unique règle la quasi-totalité des cas non résistants, quand l'étiquette redoutée, elle, ne se décolle souvent qu'après l'avoir affrontée plutôt qu'évitée.
 
 ## Sources vérifiables
 

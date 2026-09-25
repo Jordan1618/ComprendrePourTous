@@ -4,17 +4,21 @@ chapitre: "6"
 titre: "HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-07-27
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable
 
+Une loterie où presque tout le monde finit par tirer un billet, et où l'immense majorité des billets sont blancs, sans aucune conséquence : c'est ainsi que fonctionne le HPV pour le corps humain. Peu de gens l'imaginent aussi répandu, précisément parce que la plupart des billets ne laissent jamais de trace.
+
 ### 6.1 Une infection quasi universelle
 
-Le HPV touche environ **80 % de la population sexuellement active** à un moment de sa vie, c'est, de loin, l'IST la plus répandue, au point qu'on pourrait presque parler de "rite de passage" viral plutôt que d'exception. Dans la grande majorité des cas, le système immunitaire élimine spontanément le virus en un à deux ans, sans aucune conséquence. Le problème survient dans environ 10 % des cas, quand l'infection persiste : elle peut alors évoluer, sur 10 à 20 ans, vers des lésions précancéreuses puis un cancer, le plus connu étant le **cancer du col de l'utérus** (près de 3 000 nouveaux cas par an en France, environ 1 000 décès), mais aussi des cancers de la sphère ORL, de l'anus ou du pénis. [Une étude mondiale récente confirme que l'exposition génitale au HPV concerne aussi massivement les hommes (près d'un tiers de prévalence à un instant donné), une part significative des cancers liés au HPV survenant chez eux](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext) (Bruni et coll., *The Lancet Global Health*, 2023 ; HAS ; Vaccination Info Service ; vérification du 27 juillet 2026).
+Le HPV touche environ **80 % de la population sexuellement active** à un moment de sa vie, c'est, de loin, l'IST la plus répandue, au point qu'on pourrait presque parler de "rite de passage" viral plutôt que d'exception. Dans la grande majorité des cas, le système immunitaire élimine spontanément le virus en un à deux ans, sans aucune conséquence : c'est le billet blanc, tiré par la grande majorité des personnes exposées. Le problème survient dans environ 10 % des cas, quand l'infection persiste : c'est le billet perdant, qui peut alors évoluer, sur 10 à 20 ans, vers des lésions précancéreuses puis un cancer, le plus connu étant le **cancer du col de l'utérus** (près de 3 000 nouveaux cas par an en France, environ 1 000 décès), mais aussi des cancers de la sphère ORL, de l'anus ou du pénis. [Une étude mondiale récente confirme que l'exposition génitale au HPV concerne aussi massivement les hommes (près d'un tiers de prévalence à un instant donné), une part significative des cancers liés au HPV survenant chez eux](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext) (Bruni et coll., *The Lancet Global Health*, 2023 ; HAS ; Vaccination Info Service ; vérification du 27 juillet 2026).
 
-### 6.2 La vaccination : ce qui a changé récemment
+### 6.2 La vaccination : retirer des billets de la loterie avant de jouer
+
+La vaccination ne supprime pas la loterie, elle retire à l'avance une bonne partie des billets perdants possibles, avant même que le tirage n'ait lieu.
 
 La vaccination (Gardasil 9) est recommandée en France pour **les filles et les garçons de 11 à 14 ans**, avant tout début de vie sexuelle exposant au virus, c'est là qu'elle est la plus efficace. Depuis fin 2025, [le rattrapage vaccinal a été étendu jusqu'à 26 ans révolus pour les deux sexes](https://professionnels.vaccination-info-service.fr/Toutes-les-actualites/Vaccination-HPV-la-HAS-recommande-un-rattrapage-pour-les-femmes-et-les-hommes-jusqu-a-26-ans-revolus) (auparavant limité à 19 ans, avec une exception jusqu'à 26 ans pour les hommes ayant des relations avec des hommes), et le vaccin est désormais remboursé à 65 % jusqu'à cet âge (HAS, 14 mai 2025 ; vérification du 27 juillet 2026).
 

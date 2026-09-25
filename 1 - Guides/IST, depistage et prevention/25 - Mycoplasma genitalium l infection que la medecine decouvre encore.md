@@ -4,7 +4,7 @@ chapitre: "25"
 titre: "Mycoplasma genitalium : l'infection que la médecine découvre encore"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-09-16
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -14,7 +14,7 @@ Ce chapitre couvre une IST qu'une grande partie des professionnels de santé eux
 
 ### 25.1 Une bactérie identifiée tardivement, encore mal dépistée
 
-[Mycoplasma genitalium se situe, en population générale, à une prévalence génitale d'environ 1 %, entre celle du gonocoque (0,4 %) et celle de la chlamydia (4,2 %), avec des taux nettement plus élevés dans les populations à risque plus exposées (7,3 %) et chez les travailleuses du sexe (15,9 %) selon une synthèse portant sur plus de 27 000 femmes dépistées à travers le monde](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969327/) (revue systématique et méta-analyse sur la prévalence de Mycoplasma genitalium ; vérification du 16 septembre 2026).
+**Mycoplasma genitalium est une bactérie sexuellement transmissible identifiée bien plus récemment que la chlamydia ou la gonorrhée, ce qui explique le retard pris par sa reconnaissance clinique.** [Elle se situe, en population générale, à une prévalence génitale d'environ 1 %, entre celle du gonocoque (0,4 %) et celle de la chlamydia (4,2 %)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969327/) (revue systématique et méta-analyse sur la prévalence de Mycoplasma genitalium, portant sur plus de 27 000 femmes dépistées à travers le monde ; vérification du 16 septembre 2026). [Ses taux grimpent nettement dans les populations plus exposées (7,3 %) et chez les travailleuses du sexe (15,9 %)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969327/) (même source ; vérification du 16 septembre 2026) — soit une prévalence multipliée par plus de quinze entre la population générale et les travailleuses du sexe, un écart bien supérieur à celui observé pour la plupart des autres IST bactériennes de ce guide.
 
 Ce qui distingue cette infection des autres IST bactériennes de ce guide, ce n'est pas sa fréquence, comparable à celle de la chlamydia, c'est sa quasi-invisibilité en pratique clinique courante. [Cette IST est probablement sous-diagnostiquée en pratique clinique, parce que sa culture et son isolement en laboratoire posent des difficultés techniques spécifiques qui contribuent au sous-dépistage, aux erreurs de diagnostic et à une prise en charge inadaptée ; un dépistage n'est généralement pas réalisé chez les personnes déjà diagnostiquées avec une autre IST, alors même que la co-occurrence est fréquente](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102684/) (Mycoplasma genitalium, cause émergente d'infection sexuellement transmissible chez la femme ; vérification du 16 septembre 2026).
 

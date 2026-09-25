@@ -4,7 +4,7 @@ chapitre: "1"
 titre: "Comprendre les IST : panorama et transmission"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-07-27
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -18,7 +18,7 @@ Imagine une infection comme un locataire silencieux dans un appartement : il peu
 
 ### 1.2 L'ampleur du phénomène, en chiffres
 
-À l'échelle mondiale, [l'OMS estime environ 1 million de nouvelles IST diagnostiquées chaque jour, et 374 millions de cas pour les quatre infections curables les plus fréquentes en une seule année](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6653813/) (chlamydia, gonorrhée, syphilis, trichomonase ; Rowley et coll., *Bulletin of the World Health Organization*, 2019 ; vérification du 27 juillet 2026). En Europe, la tendance est nettement à la hausse depuis les années 2000 après un creux dans les années 1990 : entre 2022 et 2024, [la gonorrhée a par exemple progressé de 35 % en France](https://www.santepubliquefrance.fr/en/infections-sexuellement-transmissibles/vihsida/national-bulletin/hiv-and-bacterial-stis-france-2024-report) (Santé publique France, bulletin de surveillance des IST ; vérification du 27 juillet 2026).
+À l'échelle mondiale, [l'OMS estime environ 1 million de nouvelles IST diagnostiquées chaque jour, et 374 millions de cas pour les quatre infections curables les plus fréquentes en une seule année](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6653813/) (chlamydia, gonorrhée, syphilis, trichomonase ; Rowley et coll., *Bulletin of the World Health Organization*, 2019 ; vérification du 27 juillet 2026) — pour donner une échelle à ce chiffre, 374 millions représente à peu près la population totale des États-Unis, touchée en une seule année par ces quatre seules infections curables. En Europe, la tendance est nettement à la hausse depuis les années 2000 après un creux dans les années 1990 : entre 2022 et 2024, [la gonorrhée a par exemple progressé de 35 % en France](https://www.santepubliquefrance.fr/en/infections-sexuellement-transmissibles/vihsida/national-bulletin/hiv-and-bacterial-stis-france-2024-report) (Santé publique France, bulletin de surveillance des IST ; vérification du 27 juillet 2026) — soit une progression de plus d'un tiers en deux ans seulement, bien plus rapide que la croissance de la population sexuellement active sur la même période.
 
 **Pourquoi cette résurgence, alors que le préservatif est mieux connu qu'il y a 30 ans ?** Les explications avancées convergent : recul de l'usage du préservatif à mesure que le VIH est devenu une maladie chronique plutôt qu'une urgence vitale immédiate, applications de rencontre qui multiplient le nombre de partenaires, et, plus positivement, un dépistage élargi qui détecte des cas qui seraient passés inaperçus auparavant.
 

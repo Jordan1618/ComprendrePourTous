@@ -3,8 +3,8 @@ type: "guide-complet"
 guide: "IST, dépistage et prévention"
 sujet: "commun"
 chapitres: 25
-mots: 18266
-verifie_le: 2026-09-16
+mots: 19580
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/IST, depistage et prevention"
 genere_le: 2026-09-25
@@ -68,7 +68,7 @@ Imagine une infection comme un locataire silencieux dans un appartement : il peu
 
 ### 1.2 L'ampleur du phénomène, en chiffres
 
-À l'échelle mondiale, [l'OMS estime environ 1 million de nouvelles IST diagnostiquées chaque jour, et 374 millions de cas pour les quatre infections curables les plus fréquentes en une seule année](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6653813/) (chlamydia, gonorrhée, syphilis, trichomonase ; Rowley et coll., *Bulletin of the World Health Organization*, 2019 ; vérification du 27 juillet 2026). En Europe, la tendance est nettement à la hausse depuis les années 2000 après un creux dans les années 1990 : entre 2022 et 2024, [la gonorrhée a par exemple progressé de 35 % en France](https://www.santepubliquefrance.fr/en/infections-sexuellement-transmissibles/vihsida/national-bulletin/hiv-and-bacterial-stis-france-2024-report) (Santé publique France, bulletin de surveillance des IST ; vérification du 27 juillet 2026).
+À l'échelle mondiale, [l'OMS estime environ 1 million de nouvelles IST diagnostiquées chaque jour, et 374 millions de cas pour les quatre infections curables les plus fréquentes en une seule année](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6653813/) (chlamydia, gonorrhée, syphilis, trichomonase ; Rowley et coll., *Bulletin of the World Health Organization*, 2019 ; vérification du 27 juillet 2026) — pour donner une échelle à ce chiffre, 374 millions représente à peu près la population totale des États-Unis, touchée en une seule année par ces quatre seules infections curables. En Europe, la tendance est nettement à la hausse depuis les années 2000 après un creux dans les années 1990 : entre 2022 et 2024, [la gonorrhée a par exemple progressé de 35 % en France](https://www.santepubliquefrance.fr/en/infections-sexuellement-transmissibles/vihsida/national-bulletin/hiv-and-bacterial-stis-france-2024-report) (Santé publique France, bulletin de surveillance des IST ; vérification du 27 juillet 2026) — soit une progression de plus d'un tiers en deux ans seulement, bien plus rapide que la croissance de la population sexuellement active sur la même période.
 
 **Pourquoi cette résurgence, alors que le préservatif est mieux connu qu'il y a 30 ans ?** Les explications avancées convergent : recul de l'usage du préservatif à mesure que le VIH est devenu une maladie chronique plutôt qu'une urgence vitale immédiate, applications de rencontre qui multiplient le nombre de partenaires, et, plus positivement, un dépistage élargi qui détecte des cas qui seraient passés inaperçus auparavant.
 
@@ -99,7 +99,7 @@ Les chapitres 18 à 25 consacrent, pour chacune de ces infections (y compris l'h
 
 ### 2.1 Chlamydia trachomatis
 
-La première cause d'IST bactérienne dans les pays occidentaux. Environ **70 % des femmes et 50 % des hommes infectés ne présentent aucun symptôme**, ce qui explique sa circulation large. Quand des symptômes existent : brûlures urinaires, pertes vaginales ou écoulement urétral inhabituels, douleurs pelviennes. [La Haute Autorité de Santé recommande un dépistage systématique chez toutes les femmes sexuellement actives de 15 à 25 ans, symptômes ou non](https://www.has-sante.fr/jcms/c_2879454/fr/ist-la-has-recommande-un-depistage-systematique-de-l-infection-a-chlamydia-trachomatis-chez-les-jeunes-femmes) (HAS ; vérification du 27 juillet 2026).
+La première cause d'IST bactérienne dans les pays occidentaux. Environ **70 % des femmes et 50 % des hommes infectés ne présentent aucun symptôme**, ce qui explique sa circulation large : autrement dit, plus des deux tiers des femmes porteuses ne savent tout simplement pas qu'elles le sont, faute du moindre signal d'alerte corporel. Quand des symptômes existent : brûlures urinaires, pertes vaginales ou écoulement urétral inhabituels, douleurs pelviennes. [La Haute Autorité de Santé recommande un dépistage systématique chez toutes les femmes sexuellement actives de 15 à 25 ans, symptômes ou non](https://www.has-sante.fr/jcms/c_2879454/fr/ist-la-has-recommande-un-depistage-systematique-de-l-infection-a-chlamydia-trachomatis-chez-les-jeunes-femmes) (HAS ; vérification du 27 juillet 2026).
 
 **Ce qui rend la chlamydia sérieuse malgré son silence** : non traitée, elle peut remonter vers les trompes de Fallope et provoquer une salpingite (infection des trompes), elle-même cause majeure d'infertilité tubaire évitable et de grossesse extra-utérine. C'est littéralement la cause la plus fréquente d'infertilité **évitable** chez la femme dans les pays occidentaux, un point détaillé dans le guide sur le corps féminin (section 7.16).
 
@@ -138,7 +138,7 @@ Imagine la syphilis comme un signal d'alarme qui sonne une fois puis s'éteint t
 
 ### 3.2 Pourquoi elle revient
 
-[Hausse de 34 % du taux de notification en Europe entre 2021 et 2022 (41 % depuis 2018)](https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2022) (ECDC, rapport épidémiologique annuel 2022 ; vérification du 27 juillet 2026). Une hausse comparable, de l'ordre de 42 %, aurait été observée rien qu'en médecine générale en France entre 2020 et 2021 selon une source secondaire, mais aucun lien direct vérifiable n'a été retrouvé à cette date pour ce chiffre précis. Comme pour la gonorrhée, le relâchement du réflexe préservatif et l'augmentation du nombre de partenaires au fil d'une vie sont les explications les plus citées.
+[Hausse de 34 % du taux de notification en Europe entre 2021 et 2022 (41 % depuis 2018)](https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2022) (ECDC, rapport épidémiologique annuel 2022 ; vérification du 27 juillet 2026) — soit un taux de notification qui a crû, en quatre ans, à peu près aussi vite que si la maladie touchait, chaque année, un dixième de cas en plus que l'année précédente. Une hausse comparable, de l'ordre de 42 %, aurait été observée rien qu'en médecine générale en France entre 2020 et 2021 selon une source secondaire, mais aucun lien direct vérifiable n'a été retrouvé à cette date pour ce chiffre précis. Comme pour la gonorrhée, le relâchement du réflexe préservatif et l'augmentation du nombre de partenaires au fil d'une vie sont les explications les plus citées.
 
 **Traitement** : une injection de pénicilline (parfois plusieurs selon le stade) suffit à guérir, l'un des traitements les plus simples et les plus anciens de toute la médecine moderne, ce qui rend sa résurgence d'autant plus évitable.
 
@@ -170,7 +170,7 @@ Imagine le virus de l'herpès comme un locataire qui s'installe définitivement 
 
 ### 4.3 Le tabou social, disproportionné par rapport à la réalité médicale
 
-L'herpès génital porte une charge de stigmatisation sans commune mesure avec sa gravité médicale réelle (qui est, pour une personne autrement en bonne santé, minime en dehors de l'inconfort des poussées). Cette disproportion s'explique en grande partie par l'aspect visible et récurrent des poussées, contrairement à d'autres infections tout aussi fréquentes mais invisibles : [le virus HSV-2 touche à lui seul près de 417 millions de personnes dans le monde](https://pmc.ncbi.nlm.nih.gov/articles/PMC4301914/), la plupart sans le savoir (Looker et coll., *PLOS ONE*, 2015 ; vérification du 8 août 2026).
+L'herpès génital porte une charge de stigmatisation sans commune mesure avec sa gravité médicale réelle (qui est, pour une personne autrement en bonne santé, minime en dehors de l'inconfort des poussées). Cette disproportion s'explique en grande partie par l'aspect visible et récurrent des poussées, contrairement à d'autres infections tout aussi fréquentes mais invisibles : [le virus HSV-2 touche à lui seul près de 417 millions de personnes dans le monde](https://pmc.ncbi.nlm.nih.gov/articles/PMC4301914/), la plupart sans le savoir (Looker et coll., *PLOS ONE*, 2015 ; vérification du 8 août 2026) — soit, pour donner une échelle à ce chiffre, davantage que la population entière des États-Unis, rien que pour une seule des deux souches du virus.
 
 **💑 Dans le couple** : l'annonce d'un diagnostic d'herpès à un·e partenaire est souvent vécue comme un moment redouté, alors que le virus est extrêmement répandu (une large partie de la population adulte est porteuse du HSV-1, souvent sans même le savoir). En parler factuellement, fréquence des poussées, traitement suivi, précautions pendant les poussées actives, désamorce largement l'inquiétude disproportionnée que le mot "herpès" déclenche encore.
 
@@ -187,7 +187,7 @@ Le chapitre 14.2 prolonge ce sujet avec le témoignage de Rose, 30 ans de vie av
 
 ### 5.1 Le changement de paradigme le plus important à connaître : U=U
 
-Le fait le plus mal connu du grand public sur le VIH aujourd'hui (7 Français sur 10 n'en ont jamais entendu parler, selon Sida Info Service) : une personne séropositive sous traitement antirétroviral efficace, avec une **charge virale indétectable depuis au moins 6 mois** et un suivi médical régulier, **ne transmet plus le virus par voie sexuelle**, y compris sans préservatif. C'est le principe **U=U** (indétectable = intransmissible), ou TasP ("Treatment as Prevention") en anglais, confirmé par plusieurs grandes études (HPTN 052, PARTNER 1 et 2) qui [n'ont recensé aucune transmission dans ces conditions sur des milliers de couples suivis, y compris des couples sérodifférents ayant des rapports sans préservatif pendant des années](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30418-0/fulltext) (Rodger et coll., étude PARTNER, *The Lancet*, 2019 ; vérification du 27 juillet 2026).
+Le fait le plus mal connu du grand public sur le VIH aujourd'hui (7 Français sur 10 n'en ont jamais entendu parler, selon Sida Info Service) : une personne séropositive sous traitement antirétroviral efficace, avec une **charge virale indétectable depuis au moins 6 mois** et un suivi médical régulier, **ne transmet plus le virus par voie sexuelle**, y compris sans préservatif. C'est le principe **U=U** (indétectable = intransmissible), ou TasP ("Treatment as Prevention") en anglais, confirmé par plusieurs grandes études (HPTN 052, PARTNER 1 et 2). [Ces études n'ont recensé aucune transmission dans ces conditions sur des milliers de couples suivis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30418-0/fulltext) (Rodger et coll., étude PARTNER, *The Lancet*, 2019 ; vérification du 27 juillet 2026), y compris chez des couples sérodifférents ayant eu des rapports sans préservatif pendant des années de suivi.
 
 Imagine la charge virale indétectable comme un feu qui a été si bien éteint qu'il ne reste plus une seule braise capable d'en rallumer un autre, même en contact direct, le "feu" existe toujours quelque part dans l'histoire de la personne, mais il n'y a plus rien qui puisse se propager. Le chapitre 14.1 revient sur l'écart, documenté, entre la connaissance de ce principe et son acceptation réelle une fois qu'il touche sa propre vie.
 
@@ -211,11 +211,15 @@ Imagine la charge virale indétectable comme un feu qui a été si bien éteint 
 
 ## 6. HPV (papillomavirus) et vaccination : l'IST la plus fréquente, et la plus évitable
 
+Une loterie où presque tout le monde finit par tirer un billet, et où l'immense majorité des billets sont blancs, sans aucune conséquence : c'est ainsi que fonctionne le HPV pour le corps humain. Peu de gens l'imaginent aussi répandu, précisément parce que la plupart des billets ne laissent jamais de trace.
+
 ### 6.1 Une infection quasi universelle
 
-Le HPV touche environ **80 % de la population sexuellement active** à un moment de sa vie, c'est, de loin, l'IST la plus répandue, au point qu'on pourrait presque parler de "rite de passage" viral plutôt que d'exception. Dans la grande majorité des cas, le système immunitaire élimine spontanément le virus en un à deux ans, sans aucune conséquence. Le problème survient dans environ 10 % des cas, quand l'infection persiste : elle peut alors évoluer, sur 10 à 20 ans, vers des lésions précancéreuses puis un cancer, le plus connu étant le **cancer du col de l'utérus** (près de 3 000 nouveaux cas par an en France, environ 1 000 décès), mais aussi des cancers de la sphère ORL, de l'anus ou du pénis. [Une étude mondiale récente confirme que l'exposition génitale au HPV concerne aussi massivement les hommes (près d'un tiers de prévalence à un instant donné), une part significative des cancers liés au HPV survenant chez eux](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext) (Bruni et coll., *The Lancet Global Health*, 2023 ; HAS ; Vaccination Info Service ; vérification du 27 juillet 2026).
+Le HPV touche environ **80 % de la population sexuellement active** à un moment de sa vie, c'est, de loin, l'IST la plus répandue, au point qu'on pourrait presque parler de "rite de passage" viral plutôt que d'exception. Dans la grande majorité des cas, le système immunitaire élimine spontanément le virus en un à deux ans, sans aucune conséquence : c'est le billet blanc, tiré par la grande majorité des personnes exposées. Le problème survient dans environ 10 % des cas, quand l'infection persiste : c'est le billet perdant, qui peut alors évoluer, sur 10 à 20 ans, vers des lésions précancéreuses puis un cancer, le plus connu étant le **cancer du col de l'utérus** (près de 3 000 nouveaux cas par an en France, environ 1 000 décès), mais aussi des cancers de la sphère ORL, de l'anus ou du pénis. [Une étude mondiale récente confirme que l'exposition génitale au HPV concerne aussi massivement les hommes (près d'un tiers de prévalence à un instant donné), une part significative des cancers liés au HPV survenant chez eux](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(23)00305-4/fulltext) (Bruni et coll., *The Lancet Global Health*, 2023 ; HAS ; Vaccination Info Service ; vérification du 27 juillet 2026).
 
-### 6.2 La vaccination : ce qui a changé récemment
+### 6.2 La vaccination : retirer des billets de la loterie avant de jouer
+
+La vaccination ne supprime pas la loterie, elle retire à l'avance une bonne partie des billets perdants possibles, avant même que le tirage n'ait lieu.
 
 La vaccination (Gardasil 9) est recommandée en France pour **les filles et les garçons de 11 à 14 ans**, avant tout début de vie sexuelle exposant au virus, c'est là qu'elle est la plus efficace. Depuis fin 2025, [le rattrapage vaccinal a été étendu jusqu'à 26 ans révolus pour les deux sexes](https://professionnels.vaccination-info-service.fr/Toutes-les-actualites/Vaccination-HPV-la-HAS-recommande-un-rattrapage-pour-les-femmes-et-les-hommes-jusqu-a-26-ans-revolus) (auparavant limité à 19 ans, avec une exception jusqu'à 26 ans pour les hommes ayant des relations avec des hommes), et le vaccin est désormais remboursé à 65 % jusqu'à cet âge (HAS, 14 mai 2025 ; vérification du 27 juillet 2026).
 
@@ -254,8 +258,8 @@ Un vocabulaire plus juste ne rend pas les infections moins réelles ni moins sé
 **💑 Dans le couple** : le mot qu'on utilise entre partenaires compte moins que ce qu'il désigne, mais dire "IST" plutôt que "MST" peut, dans une conversation délicate, retirer une partie du poids moral que le mot "maladie" porte encore malgré lui, sans rien enlever au sérieux du sujet.
 
 **Bons réflexes**
-- Ne pas se sentir obligé de corriger quelqu'un qui dit "MST", l'un et l'autre terme désignent la même réalité, seul l'usage professionnel a évolué.
-- Retenir l'idée derrière le mot plutôt que le mot lui-même : l'absence de symptôme ne dit rien sur l'absence d'infection.
+- Ne vous sentez pas obligé de corriger quelqu'un qui dit "MST" : l'un et l'autre terme désignent la même réalité, seul l'usage professionnel a évolué.
+- Face à l'absence de symptôme, agissez comme s'il pouvait y avoir une infection plutôt que de vous fier au ressenti : c'est tout le sens du changement de mot.
 
 ## Sources vérifiables
 
@@ -266,13 +270,15 @@ Un vocabulaire plus juste ne rend pas les infections moins réelles ni moins sé
 
 ## 8. En parler en couple : dépistage, nouveau partenaire, disclosure
 
-### 8.1 Le dépistage à deux, avant d'arrêter le préservatif
+Quatre portes reviennent dans ce chapitre, chacune redoutée pour de mauvaises raisons et chacune plus facile à ouvrir qu'elle n'y paraît une fois qu'on connaît la bonne poignée : arrêter le préservatif après un moment ensemble, aborder le sujet avec un nouveau partenaire, annoncer une IST chronique, prévenir un ex-partenaire. Ce chapitre donne, porte par porte, la formulation qui l'ouvre sans la forcer.
+
+### 8.1 Première porte : le dépistage à deux, avant d'arrêter le préservatif
 
 Le moment le plus fréquent où la question des IST se pose vraiment dans un couple, c'est celui où l'un des deux propose d'arrêter le préservatif parce que "on est ensemble depuis un moment". C'est une décision légitime, mais elle ne devrait jamais reposer sur une simple impression de confiance : elle se prend après un dépistage des deux côtés, pas avant. La formulation qui ouvre cette conversation sans accusation ni malaise mobilise le levier du menu fermé plutôt qu'une question ouverte : "on est prêts à laisser tomber le préservatif entre nous, tu es partant·e pour qu'on fasse un dépistage chacun de son côté avant, comme ça on part sur une base claire ?". C'est une proposition commune, pas une suspicion envers l'autre.
 
 **💑 Dans le couple** : proposer un dépistage à deux n'est jamais une accusation, même quand l'idée vient d'un doute ponctuel, la meilleure façon de le présenter reste de le poser comme une étape normale de toute relation qui change de rythme, au même titre qu'une discussion sur la contraception (voir chapitre 9).
 
-### 8.2 En parler à un nouveau partenaire, avant le premier rapport
+### 8.2 Deuxième porte : en parler à un nouveau partenaire, avant le premier rapport
 
 La question du statut IST avec un nouveau partenaire est souvent repoussée par gêne, alors qu'elle se pose le plus facilement en amont, hors du moment intime lui-même. Le levier du chiffre aide ici : plutôt que "on devrait parler de nos antécédents" (trop vague, trop lourd), une question du type "tu as fait un dépistage récemment, ça remonte à quand ?" est répondable en une phrase, sans jugement implicite. [La notification et la discussion précoce du statut sérologique entre partenaires sont associées à un meilleur recours au dépistage et au traitement dans la littérature de santé publique consacrée à la notification aux partenaires](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8804665/) (recommandations britanniques sur la notification aux partenaires, 2019 ; vérification du 13 août 2026).
 
@@ -280,7 +286,7 @@ La question du statut IST avec un nouveau partenaire est souvent repoussée par 
 - Poser la question avant le premier rapport, pas après, un contexte hors de l'intimité rend la conversation plus facile pour les deux.
 - Proposer un dépistage commun en même temps qu'on le demande à l'autre, ça enlève le sentiment d'être seul·e mis·e en question.
 
-### 8.3 Disclosure d'une IST chronique : herpès, VIH, le moment et la formulation
+### 8.3 Troisième porte : disclosure d'une IST chronique, herpès, VIH
 
 C'est la conversation la plus redoutée du guide, souvent bien plus dans l'anticipation que dans la réalité une fois qu'elle a lieu. Deux principes réduisent la difficulté : la dire tôt, avant tout rapport à risque, et la dire avec de l'information factuelle plutôt qu'avec des excuses. [Accompagner l'annonce d'une information factuelle sur la prévalence de l'infection, ses modes de transmission et son traitement facilite la réception par le partenaire et réduit le sentiment de dramatisation de part et d'autre](https://www.yourdaye.com/en-us/vitals/cultural-musings/how-to-talk-to-your-partner-about-herpes/) (ressource de santé sexuelle consacrée à la disclosure de l'herpès ; vérification du 13 août 2026).
 
@@ -288,13 +294,15 @@ Une formulation qui fonctionne pour l'herpès, en gardant le registre factuel du
 
 **👁️ Vu de l'autre côté** : la personne qui reçoit l'annonce réagit souvent dans un premier réflexe de surprise ou d'inquiétude qui n'a rien à voir avec le jugement porté sur l'autre, elle a simplement besoin d'un temps pour intégrer une information nouvelle avant de pouvoir répondre calmement. Ce moment de flottement, si bref soit-il, est souvent mal interprété par la personne qui vient de faire l'annonce comme un rejet immédiat, alors que ce n'est, la plupart du temps, qu'un temps de traitement de l'information. Je me souviens très bien de ce silence de dix secondes, il m'a paru interminable, et il ne voulait rien dire d'autre que "laisse-moi une minute pour comprendre ce que tu viens de dire".
 
-### 8.4 La notification aux ex-partenaires : une responsabilité, pas un jugement
+### 8.4 Quatrième porte : la notification aux ex-partenaires
 
 Un dépistage positif implique, dans la mesure du possible, de prévenir les partenaires récents, y compris ceux avec qui la relation est terminée. C'est souvent la partie la plus inconfortable, et c'est aussi la plus utile en santé publique : [la notification aux partenaires reste, dans les études qui l'ont évaluée, un levier efficace pour accélérer le dépistage et le traitement du côté des personnes exposées, même si les taux réels de notification restent souvent inférieurs à l'objectif](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8804665/) (recommandations britanniques sur la notification aux partenaires, 2019 ; vérification du 13 août 2026). Les centres de dépistage et de nombreuses applications de santé sexuelle proposent aujourd'hui une notification anonyme, qui permet de prévenir sans avoir à gérer soi-même l'échange direct.
 
 **Bons réflexes**
-- Utiliser la notification anonyme proposée par les centres de dépistage si le contact direct est trop difficile, l'objectif (que l'autre se fasse dépister) reste atteint.
-- Ne jamais présenter la notification comme une accusation d'infidélité, une infection peut avoir été contractée bien avant la relation, ou être restée silencieuse pendant des années (voir chapitre 1).
+- Utilisez la notification anonyme proposée par les centres de dépistage si le contact direct est trop difficile : l'objectif, que l'autre se fasse dépister, reste atteint.
+- Ne présentez jamais la notification comme une accusation d'infidélité : une infection peut avoir été contractée bien avant la relation, ou être restée silencieuse pendant des années (voir chapitre 1).
+
+Les quatre portes de ce chapitre ont un point commun qu'il faut nommer en le refermant : aucune ne s'ouvre plus facilement en l'évitant. Repoussée, chacune devient plus lourde à ouvrir avec le temps, jamais plus légère.
 
 ## Sources vérifiables
 
@@ -348,21 +356,21 @@ Un schéma revient souvent : un couple qui passe à une contraception hormonale 
 
 ## 10. La recherche en cours : vaccins, autotests, PrEP nouvelle génération
 
-Ce chapitre fait le point sur ce qui progresse réellement, en distinguant ce qui est déjà disponible de ce qui reste en développement, une confusion fréquente et source de faux espoirs si elle n'est pas nommée clairement.
+Un chantier de construction avance rarement pièce par pièce dans l'ordre : certaines salles sont déjà livrées et habitables, d'autres en sont encore au stade du gros œuvre, d'autres ne sont encore qu'un plan sur une table à dessin. La recherche contre les IST avance sur ce même chantier à plusieurs vitesses. Ce chapitre visite chaque pièce en distinguant ce qui est déjà habitable de ce qui reste en travaux, une confusion fréquente et source de faux espoirs si elle n'est pas nommée clairement.
 
-### 10.1 Les vaccins contre les IST bactériennes, un bilan mitigé mais actif
+### 10.1 Les vaccins contre les IST bactériennes : une pièce encore en gros œuvre
 
 Le vaccin méningococcique B (4CMenB), déjà utilisé contre la méningite, avait suscité un espoir réel de protection croisée contre la gonorrhée, à partir de proximité génétique entre les deux bactéries. [Une méta-analyse d'études observationnelles publiée en 2024-2025 concluait à un effet protecteur modeste mais réel](https://doi.org/10.1093/infdis/jiae383) (Abara, Kirkcaldy, Bernstein, Galloway & Learner, *The Journal of Infectious Diseases*, 2025 ; vérification du 13 août 2026), mais [un essai randomisé contrôlé mené en 2025-2026 chez des hommes à haut risque n'a pas confirmé cet effet protecteur en conditions expérimentales rigoureuses, contredisant les études d'observation antérieures](https://medicalxpress.com/news/2026-07-meningococcal-vaccine-ineffective-gonorrhea-men.html) (vérification du 13 août 2026). C'est un exemple utile de la façon dont la recherche progresse par corrections successives : plusieurs pays (Royaume-Uni, Espagne) avaient déjà commencé à proposer ce vaccin aux populations à risque avant ce résultat plus récent, une révision des recommandations est probable dans les prochains mois.
 
 Côté chlamydia, [un vaccin candidat à ARN messager développé par Sanofi a reçu la procédure accélérée ("fast track") de la FDA américaine en mars 2025, et un essai clinique de phase 1/2 a débuté peu après pour évaluer sa sécurité et son immunogénicité chez de jeunes adultes](https://www.sanofi.com/en/media-room/press-releases/2025/2025-03-26-06-00-00-3049326) (Sanofi, communiqué de presse, 2025 ; vérification du 13 août 2026). Aucun vaccin contre la chlamydia, la gonorrhée ou l'herpès n'est aujourd'hui disponible en pratique courante, ces recherches restent à un stade expérimental.
 
-### 10.2 Les autotests, une bascule déjà bien engagée
+### 10.2 Les autotests : une pièce déjà livrée et habitée
 
 Le dépistage à domicile n'est plus un projet de recherche mais une réalité en cours de déploiement. En France, [le dispositif "Mon test IST" permet, depuis juillet 2025, aux jeunes femmes de 18 à 25 ans de commander gratuitement un kit d'autoprélèvement pour la chlamydia et la gonorrhée, envoyé en enveloppe neutre, avec extension du dispositif aux jeunes hommes du même âge ainsi qu'aux personnes trans et non binaires depuis mai 2026](https://www.ameli.fr/assure/actualites/mon-test-ist-le-kit-de-depistage-domicile-desormais-disponible-pour-les-hommes-de-18-25-ans) (Assurance maladie, ameli.fr, 2025-2026 ; vérification du 13 août 2026). Le test rapide d'orientation diagnostique (TROD) pour le VIH reste par ailleurs disponible en pharmacie sans ordonnance, à un coût qui n'est pas pris en charge par l'Assurance maladie.
 
 **💑 Dans le couple** : ces kits à domicile abaissent nettement la barrière logistique qui retardait parfois le dépistage à deux évoqué au chapitre 8.1, ils ne dispensent pas d'un suivi médical en cas de résultat positif ou de symptôme. Le chapitre 12 détaille le réseau CeGIDD (12.1), le volume réel de recours à ce dispositif (12.2) et la fiabilité comparée des autotests VIH en pharmacie (12.3).
 
-### 10.3 PrEP et PEP : les nouvelles formes
+### 10.3 PrEP et PEP : la pièce qui vient tout juste d'être livrée
 
 Au-delà de la PrEP orale et injectable déjà disponibles (voir chapitre 5.2), [une injection semestrielle de lénacapavir a été approuvée par la FDA américaine en juin 2025 pour la prévention du VIH, avec une efficacité proche de 100 % dans les essais cliniques de référence (PURPOSE 1 et 2), et une recommandation de l'Organisation mondiale de la santé publiée en juillet 2025](https://www.who.int/news/item/14-07-2025-who-recommends-injectable-lenacapavir-for-hiv-prevention) (OMS, communiqué, 2025 ; vérification du 13 août 2026). Deux injections par an suffisent, contre une injection bimestrielle pour le cabotégravir déjà utilisé, un progrès réel pour l'observance sur le long terme.
 
@@ -372,10 +380,12 @@ Pour les IST bactériennes hors VIH, une prophylaxie post-exposition existe dés
 
 La recherche sur de nouvelles méthodes contraceptives masculines avance en parallèle, avec un gel combinant deux hormones ayant atteint une suppression efficace de la production de spermatozoïdes en essai de phase 2b, et un candidat oral non hormonal ayant complété un essai de phase 1 en 2024, comme le détaille le chapitre 9.2 bis de [Pour Lui](<../1 - Guides/Pour Lui/09 - La contraception masculine.md>). Ce chapitre ne reprend pas ce détail ici : le rappel utile pour ce guide reste celui du chapitre 9, aucune de ces méthodes, une fois disponible, ne protégera des IST, seul le préservatif joue ce double rôle.
 
+Le chantier de ce chapitre a une règle que l'on oublie facilement dans l'enthousiasme d'une annonce : une pièce encore au stade du plan peut très bien ne jamais être construite, même après des années de gros œuvre prometteur, comme le montre le revirement du vaccin méningococcique B en 10.1.
+
 **Bons réflexes**
-- Distinguer, pour chaque annonce de recherche, ce qui est disponible aujourd'hui de ce qui reste en essai clinique, un candidat prometteur en phase 1 ou 2 peut encore échouer en phase 3.
-- Se renseigner activement sur le doxyPEP auprès d'un médecin ou d'un centre de santé sexuelle en cas d'exposition répétée à un risque bactérien, plutôt que d'attendre qu'il soit proposé spontanément.
-- Utiliser les kits de dépistage à domicile pour réduire la barrière logistique, sans s'en contenter en cas de symptôme ou de résultat positif, qui appellent toujours un avis médical.
+- Distinguez, pour chaque annonce de recherche, ce qui est disponible aujourd'hui de ce qui reste en essai clinique : un candidat prometteur en phase 1 ou 2 peut encore échouer en phase 3.
+- Renseignez-vous activement sur le doxyPEP auprès d'un médecin ou d'un centre de santé sexuelle en cas d'exposition répétée à un risque bactérien, plutôt que d'attendre qu'il soit proposé spontanément.
+- Utilisez les kits de dépistage à domicile pour réduire la barrière logistique, sans vous en contenter en cas de symptôme ou de résultat positif, qui appellent toujours un avis médical.
 
 ## Sources vérifiables
 
@@ -390,7 +400,7 @@ La recherche sur de nouvelles méthodes contraceptives masculines avance en para
 
 ## 11. Bonnes pratiques et réduction des risques
 
-Chapitre de synthèse, pensé pour être actionnable directement, sans avoir à relire l'ensemble du guide.
+Une trousse à outils bien pensée ne contient jamais un seul outil universel : elle rassemble plusieurs outils, chacun pour un usage précis, rangés pour qu'on les retrouve vite le jour où on en a besoin. Ce chapitre de synthèse fonctionne sur ce principe, pensé pour être actionnable directement, sans avoir à relire l'ensemble du guide : chaque section est un outil distinct de la même trousse.
 
 ### 11.1 Le préservatif, bien utilisé plutôt que simplement présent
 
@@ -423,7 +433,7 @@ Le poids psychologique d'un diagnostic d'IST dépasse souvent largement sa gravi
 
 **💑 Dans le couple** : un·e partenaire qui reçoit un diagnostic a besoin, dans les premiers jours, d'un accueil factuel plus que d'une réassurance excessive ou dramatisée, les deux réactions, aussi bien intentionnées soient-elles, peuvent renforcer le sentiment d'isolement plutôt que le réduire. Une réponse simple et concrète (traitement, prochain rendez-vous, ce que ça change ou pas) aide davantage qu'un discours rassurant trop général.
 
-### 11.5 La checklist de réduction des risques
+### 11.5 La trousse au complet : la checklist de réduction des risques
 
 - Utiliser un préservatif (externe ou interne) pour tout rapport avec un·e partenaire dont le statut de dépistage n'est pas connu, y compris pour les rapports oraux et anaux.
 - Se faire dépister régulièrement selon son profil de risque ([11.2](<#11-2-frequence-de-depistage-selon-le-profil-de-risque>)), sans attendre un symptôme.
@@ -445,7 +455,9 @@ Le poids psychologique d'un diagnostic d'IST dépasse souvent largement sa gravi
 
 ## 12. Le dépistage en pratique aujourd'hui
 
-### 12.1 Le réseau CeGIDD : gratuit, anonyme, sans ordonnance
+Trois portes différentes peuvent mener au même résultat, un dépistage fait : celle qu'on pousse sans rendez-vous ni justification, celle qui arrive directement dans la boîte aux lettres, et celle qu'on trouve en pharmacie du coin. Ce chapitre ouvre les trois, l'une après l'autre.
+
+### 12.1 La première porte : le réseau CeGIDD, gratuit, anonyme, sans ordonnance
 
 Le premier obstacle au dépistage n'est presque jamais la peur du résultat, c'est l'idée qu'il faut un motif sérieux, une ordonnance, ou de l'argent pour s'y présenter. Ce n'est pas le cas. [Les Centres gratuits d'information, de dépistage et de diagnostic (CeGIDD) proposent des consultations anonymes et gratuites de dépistage, de prise en charge et de traitement des IST, accessibles à tous sans prescription ni carte Vitale, avec plus de 400 centres répartis sur le territoire métropolitain et ultramarin](https://www.ameli.fr/assure/sante/themes/mst-ist/depistage) (Assurance Maladie, ameli.fr ; vérification du 16 septembre 2026).
 
@@ -455,21 +467,23 @@ Concrètement, un CeGIDD ne demande ni identité ni justification. On peut s'y p
 - Chercher "CeGIDD" suivi du nom de sa ville : la plupart des grandes agglomérations en comptent plusieurs, avec des horaires en soirée pour limiter l'obstacle du jour ouvré.
 - Ne pas attendre d'avoir un symptôme ou "une bonne raison" pour s'y rendre : c'est justement pensé pour l'absence de motif précis.
 
-### 12.2 Mon Test IST, en chiffres : la demande une fois l'obstacle du rendez-vous retiré
+### 12.2 La deuxième porte : Mon Test IST, la porte qui arrive par la boîte aux lettres
 
 Le chapitre 10.2 détaille le fonctionnement du dispositif "Mon Test IST" (kit d'autoprélèvement à domicile pour la chlamydia et le gonocoque). Un chiffre mérite d'y être ajouté pour mesurer l'ampleur réelle de la demande : [dès le premier mois de ce programme gratuit lancé en septembre 2024, environ 41 000 personnes en ont bénéficié](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf) (Santé publique France, Bulletin national VIH et IST bactériennes, 23 octobre 2025 ; vérification du 16 septembre 2026), un volume qui suggère que le principal frein au dépistage, pour une partie importante de la population concernée, n'était pas le refus de se tester mais la seule contrainte logistique du rendez-vous physique.
 
 **Nuance nécessaire.** Ce dispositif ne couvre, à ce jour, que deux IST bactériennes précises et une tranche d'âge délimitée. Pour le VIH, la syphilis, ou en dehors de cette tranche d'âge, le passage par un laboratoire ou un CeGIDD (voir 12.1) reste la voie de référence.
 
-### 12.3 Autotests VIH : fiables, mais pas interchangeables avec un test de laboratoire
+### 12.3 La troisième porte : l'autotest en pharmacie, la moins solide des trois
 
 Le marché des autotests VIH en pharmacie existe depuis plus longtemps que Mon Test IST, avec un profil de fiabilité différent qu'il vaut mieux connaître avant de s'y fier à 100 %. [Les autotests VIH vendus en pharmacie sont pratiques d'usage, mais leur sensibilité reste inférieure à celle d'un test de laboratoire, et leur fiabilité dépend directement du respect du mode opératoire ainsi que du délai écoulé depuis l'exposition à risque](https://www.medecindirect.fr/blog/test-ist-ou-quand-comment-faire-un-depistage-efficace) (Médecin Direct, synthèse sur les modalités de dépistage ; vérification du 16 septembre 2026).
 
 Concrètement : un autotest fait trop tôt après une exposition (dans la fenêtre sérologique, avant que le corps ait produit assez d'anticorps détectables) peut rendre un résultat négatif alors que l'infection est déjà présente. Un autotest n'est donc pas un substitut au test de confirmation en laboratoire en cas de doute ou de résultat positif, c'est un outil de première intention, particulièrement utile pour répéter un dépistage régulier sans les contraintes d'un rendez-vous.
 
 **Bons réflexes.**
-- Respecter le délai indiqué sur la notice entre l'exposition à risque et le test : un résultat trop précoce n'est pas fiable, quel que soit l'outil utilisé.
-- Confirmer systématiquement un autotest positif par un test de laboratoire avant toute conclusion définitive.
+- Respectez le délai indiqué sur la notice entre l'exposition à risque et le test : un résultat trop précoce n'est pas fiable, quel que soit l'outil utilisé.
+- Confirmez systématiquement un autotest positif par un test de laboratoire avant toute conclusion définitive.
+
+Les trois portes de ce chapitre ont un point commun qu'il faut nommer avant de le refermer : aucune n'est fermée à clé, seule la première contrainte réelle reste de choisir d'en pousser une.
 
 ## Sources vérifiables
 
@@ -484,7 +498,7 @@ Concrètement : un autotest fait trop tôt après une exposition (dans la fenêt
 
 ### 13.1 La gonorrhée qui résiste : une course contre la montre documentée
 
-La chlamydia et la gonorrhée sont présentées, dans ce guide, comme des IST bactériennes qui se soignent simplement par antibiotiques. C'est vrai aujourd'hui, mais la marge de sécurité se réduit d'année en année pour la gonorrhée, et c'est un fait documenté à l'échelle mondiale, pas une inquiétude théorique. [Entre 2022 et 2024, la résistance de la bactérie responsable de la gonorrhée à la ceftriaxone et au céfixime, les deux antibiotiques de première intention, est passée respectivement de 0,8 % à 5 % et de 1,7 % à 11 %, avec des souches résistantes détectées dans un nombre croissant de pays, tandis que la résistance à la ciprofloxacine, un antibiotique plus ancien, atteint déjà 95 %](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea) (Organisation mondiale de la santé, Programme renforcé de surveillance antimicrobienne du gonocoque, 2025 ; vérification du 16 septembre 2026).
+La chlamydia et la gonorrhée sont présentées, dans ce guide, comme des IST bactériennes qui se soignent simplement par antibiotiques. C'est vrai aujourd'hui, mais la marge de sécurité se réduit d'année en année pour la gonorrhée, et c'est un fait documenté à l'échelle mondiale, pas une inquiétude théorique. [Entre 2022 et 2024, la résistance de la bactérie responsable de la gonorrhée à la ceftriaxone est passée de 0,8 % à 5 %, et celle au céfixime de 1,7 % à 11 %](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea) (Organisation mondiale de la santé, Programme renforcé de surveillance antimicrobienne du gonocoque, 2025 ; vérification du 16 septembre 2026) — soit une résistance au céfixime multipliée par plus de six en deux ans seulement, sur ces deux antibiotiques de première intention. [Des souches résistantes ont par ailleurs été détectées dans un nombre croissant de pays, tandis que la résistance à la ciprofloxacine, un antibiotique plus ancien, atteint déjà 95 %](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea) (même source, 2025 ; vérification du 16 septembre 2026) — un antibiotique désormais inefficace dans dix-neuf cas sur vingt.
 
 **Analogie utile.** C'est le même mécanisme qu'un mot de passe réutilisé sur trop de comptes : plus un antibiotique est employé largement et longtemps, plus il devient probable qu'une variante de la bactérie apprenne à le contourner, jusqu'à ce que la clé ne fonctionne plus du tout pour personne.
 
@@ -524,19 +538,19 @@ Le chapitre 5.1 a déjà posé le principe U=U (indétectable = intransmissible)
 
 Ce décalage n'est pas propre aux partenaires : il touche aussi, parfois, la personne séropositive elle-même, qui peut continuer à se sentir "dangereuse" longtemps après que sa charge virale soit devenue indétectable, simplement parce que l'image intérieure du diagnostic a mis plus de temps à changer que le résultat de la prise de sang.
 
-[Une médecin parisienne de 48 ans, séropositive depuis 23 ans, mère d'une fille de 20 ans elle-même séronégative, témoigne : "je n'ai plus peur mais je me méfie", et décrit continuer à cacher sa séropositivité, en choisissant avec soin à qui elle en parle. Ce qui l'épuise, dit-elle, "c'est l'énergie déployée au quotidien pour cacher, pour ne pas révéler que je vis avec le VIH depuis si longtemps". Dans son propre cabinet, elle entend des patients tenir des propos dévalorisants sur le VIH sans jamais réagir, convaincue qu'une révélation ferait fuir sa patientèle](https://www.aides.org/actualite/medecin-et-seropositive-je-nai-plus-peur-mais-je-me-mefie-2018-disance-vih) (témoignage recueilli par AIDES à l'occasion de la Journée de la Disance ; vérification du 16 septembre 2026). Ce témoignage, venant d'une professionnelle de santé qui connaît la science mieux que quiconque, illustre à quel point le savoir médical et le poids social de la stigmatisation restent deux choses distinctes : elle sait qu'elle ne transmet rien, et continue malgré tout de se taire.
+🗣️ **Témoignage réel.** [Une médecin parisienne de 48 ans, séropositive depuis 23 ans, mère d'une fille de 20 ans elle-même séronégative, témoigne : "je n'ai plus peur mais je me méfie", et décrit continuer à cacher sa séropositivité, en choisissant avec soin à qui elle en parle. Ce qui l'épuise, dit-elle, "c'est l'énergie déployée au quotidien pour cacher, pour ne pas révéler que je vis avec le VIH depuis si longtemps". Dans son propre cabinet, elle entend des patients tenir des propos dévalorisants sur le VIH sans jamais réagir, convaincue qu'une révélation ferait fuir sa patientèle](https://www.aides.org/actualite/medecin-et-seropositive-je-nai-plus-peur-mais-je-me-mefie-2018-disance-vih) (témoignage recueilli par AIDES à l'occasion de la Journée de la Disance ; vérification du 16 septembre 2026). Ce témoignage, venant d'une professionnelle de santé qui connaît la science mieux que quiconque, illustre à quel point le savoir médical et le poids social de la stigmatisation restent deux choses distinctes : elle sait qu'elle ne transmet rien, et continue malgré tout de se taire.
 
 ### 14.2 L'herpès génital : une gestion à vie, pas une urgence permanente
 
 Le chapitre 4 a déjà posé les bases médicales de l'herpès génital. Ce qui manque souvent, c'est la dimension du quotidien sur plusieurs années : la fréquence des poussées tend à diminuer avec le temps chez la majorité des personnes, l'anxiété initiale liée au diagnostic s'atténue généralement à mesure que la personne apprend à reconnaître les signes avant-coureurs d'une poussée (picotement, sensibilité localisée) et à s'organiser en conséquence, plutôt que de vivre dans l'appréhension continue d'un épisode imprévisible.
 
-[Rose, 52 ans, vit avec le virus de l'herpès de type 2 depuis environ 30 ans, contracté dans les années 1980. Mariée, mère, puis veuve, elle est retournée sur le marché de la rencontre en tant que femme seule portant ce diagnostic. Trente ans après, elle confie encore : "oui je suis honteuse et pas très fière de moi", tout en insistant sur le fait que la transmission reste évitable par l'information et la responsabilité, ayant vécu des relations longues sans jamais contaminer de partenaire. Elle décrit le virus comme agissant "comme une ceinture de chasteté", la rendant plus prudente dans le choix de ses partenaires, et affirme que l'honnêteté envers eux est "souvent récompensée". Son message, adressé à d'autres personnes concernées : "vous n'êtes pas seuls"](https://pvsq.org/2019/rose-vit-depuis-30-ans-avec-le-virus-de-lherpes-de-type-2/) (témoignage recueilli par PVSQ, association de soutien aux personnes vivant avec l'herpès ; vérification du 16 septembre 2026).
+🗣️ **Témoignage réel.** [Rose, 52 ans, vit avec le virus de l'herpès de type 2 depuis environ 30 ans, contracté dans les années 1980. Mariée, mère, puis veuve, elle est retournée sur le marché de la rencontre en tant que femme seule portant ce diagnostic. Trente ans après, elle confie encore : "oui je suis honteuse et pas très fière de moi", tout en insistant sur le fait que la transmission reste évitable par l'information et la responsabilité, ayant vécu des relations longues sans jamais contaminer de partenaire. Elle décrit le virus comme agissant "comme une ceinture de chasteté", la rendant plus prudente dans le choix de ses partenaires, et affirme que l'honnêteté envers eux est "souvent récompensée". Son message, adressé à d'autres personnes concernées : "vous n'êtes pas seuls"](https://pvsq.org/2019/rose-vit-depuis-30-ans-avec-le-virus-de-lherpes-de-type-2/) (témoignage recueilli par PVSQ, association de soutien aux personnes vivant avec l'herpès ; vérification du 16 septembre 2026).
 
 Ce témoignage résume, à lui seul, la tension centrale de ce chapitre : trente ans de vie normale, de relations réussies, et malgré tout une honte qui n'a jamais complètement disparu. Les deux peuvent coexister, et aucun des deux ne dit quelque chose de faux sur l'expérience de Rose.
 
 **Bons réflexes.**
 - Tenir, les premiers mois, un carnet des poussées (déclencheurs possibles : stress, fatigue, exposition solaire, règles) pour repérer ses propres facteurs plutôt que de subir l'imprévisibilité.
-- Se rappeler qu'un diagnostic d'herpès n'est pas un jugement sur l'hygiène ou le comportement passé : le virus est extrêmement répandu, silencieux dans la majorité des cas, et son acquisition ne dit rien du nombre de partenaires ni de la prudence de la personne.
+- Traitez un diagnostic d'herpès comme une donnée médicale, jamais comme un jugement sur l'hygiène ou le comportement passé : le virus est extrêmement répandu, silencieux dans la majorité des cas, et son acquisition ne dit rien du nombre de partenaires ni de la prudence de la personne.
 - Chercher un groupe de pairs (associations comme PVSQ) en cas de besoin : Rose décrit ce soutien entre personnes concernées comme un espace libérateur, différent de ce qu'un cercle proche non concerné peut offrir.
 
 ### 14.3 Le poids psychologique de la non-divulgation
@@ -585,6 +599,11 @@ Le lien entre ces deux épisodes, séparés de quatre siècles, n'est pas anecdo
 
 C'est ce même mécanisme, sous une forme atténuée, qui explique pourquoi une IST bénigne et facilement traitable aujourd'hui (chlamydia, herpès) continue de porter un poids émotionnel disproportionné par rapport à sa gravité médicale réelle : l'histoire de la stigmatisation a une inertie bien plus longue que celle du progrès médical.
 
+**Bons réflexes.**
+- Face à votre propre réaction émotionnelle à un diagnostic d'IST, demandez-vous si elle vient de la gravité réelle de l'infection ou de cette inertie historique héritée : les deux se confondent facilement, mais elles n'ont pas la même origine.
+- Ne reproduisez pas le réflexe décrit en 15.1 qui consiste à associer une IST à "quelqu'un d'autre" : c'est exactement le mécanisme qui a retardé, pendant des siècles, la prise en charge sérieuse de ces infections.
+- Si vous encadrez ou accompagnez quelqu'un après un diagnostic, nommez explicitement ce décalage entre progrès médical et inertie sociale : cela aide souvent plus qu'une réassurance générale sur la bénignité de l'infection.
+
 ## Sources vérifiables
 
 - [Syphilis: Its Early History and Treatment until Penicillin and the Debate on its Origins](https://jmvh.org/article/syphilis-its-early-history-and-treatment-until-penicillin-and-the-debate-on-its-origins/), *Journal of Military and Veterans' Health* — histoire de la syphilis, nomenclature et traitements successifs ; vérification du 16 septembre 2026.
@@ -595,7 +614,7 @@ C'est ce même mécanisme, sous une forme atténuée, qui explique pourquoi une 
 
 ## 16. Sociologie du dépistage : qui se fait tester, et pourquoi
 
-Le dépistage n'est jamais réparti au hasard dans une population : l'âge, le milieu social, l'orientation, l'accès géographique et même l'usage d'une application de rencontre pèsent tous sur la probabilité qu'une personne se fasse tester, à risque égal.
+Une route qui mène au dépistage n'est jamais gratuite pour tout le monde : chacun y rencontre ses propres péages, celui de l'application de rencontre qui pousse ou non à consulter, celui de l'accès géographique et financier réel, celui de l'âge où l'information circule ou non. Le dépistage n'est jamais réparti au hasard dans une population : l'âge, le milieu social, l'orientation, l'accès géographique et même l'usage d'une application de rencontre pèsent tous sur la probabilité qu'une personne se fasse tester, à risque égal.
 
 ### 16.1 Les applications de rencontre : plus de dépistage, mais pas forcément moins de risque
 
@@ -603,7 +622,7 @@ L'idée reçue veut que les applications de rencontre soient simplement responsa
 
 **Nuance nécessaire.** Les chercheurs soulignent explicitement que la causalité va probablement dans les deux sens : les applications facilitent la rencontre de partenaires occasionnels, mais des personnes déjà engagées dans des comportements à risque plus élevés se tournent aussi, indépendamment, davantage vers ces applications. Ce n'est donc pas un verdict moral sur l'outil lui-même : c'est un facteur qui accélère à la fois l'exposition et, de façon positive, le réflexe de dépistage associé.
 
-### 16.2 Les inégalités d'accès, un facteur documenté au-delà du comportement individuel
+### 16.2 Le péage de l'accès, un facteur documenté au-delà du comportement individuel
 
 Se faire dépister suppose un accès réel à une structure de santé, un temps disponible, et l'absence de crainte du jugement dans le lieu où on se présente. Ces trois conditions ne sont pas réparties également. [Les disparités socio-économiques, telles que les inégalités de revenu et l'accès limité aux ressources de santé, se combinent aux appartenances raciales et ethniques pour aggraver les inégalités de santé dans les communautés marginalisées, les zones où l'écart de revenu entre groupes est le plus marqué étant aussi celles où les taux d'IST sont les plus élevés](https://pmc.ncbi.nlm.nih.gov/articles/PMC7799034/) (perspective de laboratoire sur les disparités raciales dans les infections sexuellement transmissibles ; vérification du 16 septembre 2026).
 
@@ -628,9 +647,9 @@ Affirmation sans source précise identifiée à ce jour : les données français
 
 ## 17. IST et populations invisibilisées : LGBTQ+ et personnes âgées
 
-Deux populations restent, chacune pour des raisons différentes, largement absentes des messages de prévention grand public : les hommes ayant des rapports sexuels avec des hommes, sur-représentés dans certaines IST sans que le dépistage suive toujours, et les personnes âgées, dont la vie sexuelle reste un impensé presque total des politiques de prévention.
+Un rétroviseur bien réglé laisse toujours un angle mort quelque part, une zone que le conducteur ne voit jamais sans tourner la tête. Les messages de prévention contre les IST fonctionnent sur ce même principe : ils couvrent un large champ, mais laissent dans l'angle mort deux populations bien réelles, chacune pour des raisons différentes. Les hommes ayant des rapports sexuels avec des hommes, sur-représentés dans certaines IST sans que le dépistage suive toujours, et les personnes âgées, dont la vie sexuelle reste un impensé presque total des politiques de prévention.
 
-### 17.1 Hommes ayant des rapports avec des hommes : un dépistage plus fréquent nécessaire, pas un risque moral
+### 17.1 Le premier angle mort : les hommes ayant des rapports avec des hommes
 
 Les recommandations médicales sont, sur ce point, sans ambiguïté et strictement pratiques. [Les hommes ayant des rapports sexuels avec des hommes doivent bénéficier d'un dépistage régulier du VIH, des hépatites B et C, de la gonorrhée, de la chlamydia et de la syphilis, avec une vaccination proposée contre les hépatites A et B ainsi que contre le papillomavirus](https://www.aafp.org/afp/2024/0400/preventive-care-men-who-have-sex-with-men) (American Academy of Family Physicians, recommandations de soins préventifs ; vérification du 16 septembre 2026). [Les IST qui touchent de façon disproportionnée cette population incluent le VIH, le cancer anal lié au HPV et la syphilis, avec des disparités additionnelles en santé mentale, risque suicidaire, accès aux soins et état de santé perçu](https://www.aafp.org/afp/2024/0400/preventive-care-men-who-have-sex-with-men) (vérification du 16 septembre 2026).
 
@@ -640,7 +659,7 @@ Ce n'est pas un hasard biologique isolé : [les freins à l'accès aux soins inc
 - Pour un homme ayant des rapports avec des hommes, viser un rythme de dépistage plus rapproché (tous les trois à six mois en cas de partenaires multiples) plutôt que le rythme annuel généralement suffisant en population générale.
 - Chercher, si possible, un praticien ou un centre réputé pour son accueil sans jugement : la qualité de cet accueil influence directement la régularité réelle du suivi dans la durée, davantage qu'une simple recommandation théorique.
 
-### 17.2 Les personnes âgées : une population sexuellement active que la prévention oublie
+### 17.2 Le second angle mort : les personnes âgées, une population sexuellement active que la prévention oublie
 
 L'hypothèse implicite selon laquelle la sexualité s'arrête avec l'âge continue de structurer, en creux, les politiques de prévention, alors qu'elle est factuellement fausse. [Jusqu'aux deux tiers des adultes de plus de 60 ans restent sexuellement actifs, et environ 40 % des personnes de 65 à 80 ans le sont également, la majorité des personnes âgées se déclarant par ailleurs intéressées par la sexualité selon une enquête de l'AARP](https://www.ama-assn.org/public-health/population-health/stis-rise-among-older-adults-here-s-what-doctors-can-do) (American Medical Association, sur la hausse des IST chez les adultes plus âgés ; vérification du 16 septembre 2026).
 
@@ -651,8 +670,10 @@ Le problème n'est pas seulement comportemental, il est aussi institutionnel. [U
 💑 **Dans le couple.** Une nouvelle relation après un veuvage ou une séparation tardive, plus fréquente qu'on ne le pense passé 60 ans, s'accompagne rarement du réflexe de dépistage qui semblerait naturel à 25 ans. Nommer explicitement ce sujet avec un nouveau partenaire, à n'importe quel âge, reste la même conversation que celle décrite au chapitre 8, ni plus gênante ni moins nécessaire à cet âge qu'à un autre.
 
 **Bons réflexes.**
-- Pour un professionnel de santé comme pour un patient, ne jamais présumer de l'absence d'activité sexuelle du seul fait de l'âge : poser la question directement plutôt que de la contourner par gêne.
-- En cas de nouvelle relation après une longue période de vie en couple stable, envisager un dépistage complet plutôt que de considérer le préservatif comme un réflexe qui n'a plus lieu d'être.
+- Pour un professionnel de santé comme pour un patient, ne présumez jamais de l'absence d'activité sexuelle du seul fait de l'âge : posez la question directement plutôt que de la contourner par gêne.
+- En cas de nouvelle relation après une longue période de vie en couple stable, envisagez un dépistage complet plutôt que de considérer le préservatif comme un réflexe qui n'a plus lieu d'être.
+
+Les deux angles morts de ce chapitre ont une différence qu'il faut nommer : contrairement à un vrai rétroviseur, celui de la prévention peut se régler. Il suffit, pour l'essentiel, de poser une question à voix haute plutôt que de la présumer réglée d'avance.
 
 ## Sources vérifiables
 
@@ -686,7 +707,7 @@ Le chapitre 2.1 rappelle que la majorité des infections à chlamydia sont asymp
 Aucun témoignage publié et vérifiable spécifiquement consacré à un vécu de chlamydia n'a été identifié à ce jour pour ce chapitre ; c'est dit ici explicitement plutôt que d'en improviser un. Ce qui ressort en revanche des données disponibles sur la stigmatisation des IST en général, c'est le rôle protecteur d'une information factuelle reçue tôt : [une stigmatisation ressentie plus forte est associée de façon significative à une probabilité plus faible de se faire dépister, et à une moindre volonté de prévenir ses partenaires](https://pmc.ncbi.nlm.nih.gov/articles/PMC8297218/) (étude sur la honte ressentie face aux IST chez de jeunes adultes, *PMC*, 2021 ; vérification du 16 septembre 2026), ce qui fait de l'information reçue au moment du diagnostic un levier concret, pas seulement un réconfort de façade.
 
 **Bons réflexes.**
-- Se rappeler qu'une chlamydia, silencieuse et extrêmement répandue, n'a rien à voir avec un jugement sur le nombre de partenaires ou la prudence de la personne : elle se contracte souvent sans qu'aucun signe n'ait jamais alerté personne.
+- Traitez une chlamydia, silencieuse et extrêmement répandue, comme une donnée médicale plutôt qu'un jugement sur le nombre de partenaires ou la prudence de la personne : elle se contracte souvent sans qu'aucun signe n'ait jamais alerté personne.
 - Prévenir ses partenaires récents reste un geste de responsabilité, pas un aveu de faute, exactement comme on préviendrait d'une exposition à n'importe quelle autre infection transmissible.
 
 ## Sources vérifiables
@@ -700,7 +721,7 @@ Affirmation sans source précise identifiée à ce jour : aucun témoignage publ
 
 ## 19. Gonorrhée : ce que le silence coûte
 
-Le chapitre 2.2 a posé les bases médicales de la gonorrhée, et le chapitre 13 a détaillé l'urgence de la résistance aux antibiotiques. Ce chapitre se concentre sur ce qui se joue, socialement et individuellement, entre le moment du symptôme et celui de la consultation.
+Une étiquette collée sur un objet se décolle rarement d'un coup : elle laisse une trace de colle longtemps après qu'on a cru l'avoir retirée. La gonorrhée porte une étiquette de ce genre, celle d'infection "sale", bien plus tenace à décoller que l'infection elle-même n'est longue à traiter. Le chapitre 2.2 a posé les bases médicales de la gonorrhée, et le chapitre 13 a détaillé l'urgence de la résistance aux antibiotiques. Ce chapitre se concentre sur ce qui se joue, socialement et individuellement, entre le moment du symptôme et celui de la consultation, retardé bien plus souvent par cette étiquette que par l'infection réelle.
 
 ### 19.1 Une progression réelle qui touche particulièrement les hommes en France
 
@@ -712,13 +733,13 @@ Le chapitre 13 a détaillé la montée mondiale de la résistance aux antibiotiq
 
 **Nuance nécessaire.** Ces deux cas restent, à ce jour, exceptionnels et pas représentatifs de la majorité des infections traitées en France, qui répondent encore bien à la ceftriaxone. Ils sont un signal d'alerte précoce, pas une description de la situation courante, ce qui justifie de terminer systématiquement son traitement et de refaire un test de contrôle, plutôt qu'une inquiétude disproportionnée à chaque diagnostic.
 
-### 19.3 Le tabou spécifique d'une infection perçue comme "sale"
+### 19.3 L'étiquette elle-même : le tabou d'une infection perçue comme "sale"
 
 Aucun témoignage publié et vérifiable spécifiquement consacré à un vécu de gonorrhée n'a été identifié à ce jour ; c'est signalé ici explicitement plutôt que comblé par une invention. La recherche disponible sur la stigmatisation des IST éclaire néanmoins pourquoi cette infection en particulier reste difficile à nommer. [Le sujet des IST déclenche des sentiments si forts autour de la notion de personne "sale" ou moralement relâchée que la principale barrière à la consultation et au dépistage reste le désir d'éviter cette étiquette négative, davantage que la gêne du symptôme lui-même](https://www.sciencedirect.com/science/article/abs/pii/S0277953603004192) (analyse attributionnelle de la stigmatisation liée aux IST ; vérification du 16 septembre 2026).
 
 **Bons réflexes.**
-- Consulter dès l'apparition d'un symptôme inhabituel (brûlure, écoulement) plutôt que d'attendre qu'il passe seul : la gonorrhée ne se résout jamais spontanément et continue de se transmettre tant qu'elle n'est pas traitée.
-- Se rappeler qu'un traitement en une injection unique règle la quasi-totalité des cas non résistants : la peur de la consultation est presque toujours plus lourde à porter que la consultation elle-même.
+- Consultez dès l'apparition d'un symptôme inhabituel (brûlure, écoulement) plutôt que d'attendre qu'il passe seul : la gonorrhée ne se résout jamais spontanément et continue de se transmettre tant qu'elle n'est pas traitée.
+- Pesez consciemment les deux poids en présence : un traitement en une injection unique règle la quasi-totalité des cas non résistants, quand l'étiquette redoutée, elle, ne se décolle souvent qu'après l'avoir affrontée plutôt qu'évitée.
 
 ## Sources vérifiables
 
@@ -736,7 +757,7 @@ Le chapitre 3 a posé les bases médicales de la syphilis, et le chapitre 15.1 a
 
 ### 20.1 "Il ne faut pas hésiter à se faire dépister" : ce qu'en dit un médecin de terrain
 
-[Un médecin hospitalier confronté à la résurgence de la syphilis rappelle qu'elle se transmet bien plus facilement que le VIH lors d'un rapport oral non protégé, et insiste : "il ne faut pas hésiter à se faire dépister"](https://www.pourquoidocteur.fr/Articles/Question-d-actu/14392-Syphilis-une-recrudescence-inquietante) (Dr Bruno Abraham, hôpital de Brive, cité par Pourquoi Docteur, 2015 ; vérification du 16 septembre 2026). Cette recommandation, formulée il y a plus de dix ans, reste d'une actualité totale : [environ 6 500 personnes ont été diagnostiquées avec une syphilis en France en 2024, avec une hausse du dépistage de 20 % entre 2022 et 2024](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf) (Santé publique France, Bulletin national VIH et IST bactériennes, 23 octobre 2025 ; vérification du 16 septembre 2026), preuve que la résurgence amorcée dans les années 2000 ne s'est jamais vraiment arrêtée.
+🗣️ **Témoignage réel.** [Un médecin hospitalier confronté à la résurgence de la syphilis rappelle qu'elle se transmet bien plus facilement que le VIH lors d'un rapport oral non protégé, et insiste : "il ne faut pas hésiter à se faire dépister"](https://www.pourquoidocteur.fr/Articles/Question-d-actu/14392-Syphilis-une-recrudescence-inquietante) (Dr Bruno Abraham, hôpital de Brive, cité par Pourquoi Docteur, 2015 ; vérification du 16 septembre 2026). Cette recommandation, formulée il y a plus de dix ans, reste d'une actualité totale. [Environ 6 500 personnes ont été diagnostiquées avec une syphilis en France en 2024](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf) (Santé publique France, Bulletin national VIH et IST bactériennes, 23 octobre 2025 ; vérification du 16 septembre 2026) — soit près de dix-huit nouveaux diagnostics en moyenne chaque jour de l'année, rien qu'en France. [Le dépistage a par ailleurs progressé de 20 % entre 2022 et 2024](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf) (même source ; vérification du 16 septembre 2026), preuve que la résurgence amorcée dans les années 2000 ne s'est jamais vraiment arrêtée.
 
 ### 20.2 Pourquoi le diagnostic surprend autant
 
@@ -760,13 +781,13 @@ Le chapitre 3.1 a détaillé les trois stades de la syphilis. Le premier d'entre
 
 ## 21. HPV : le virus le plus fréquent et le moins nommé
 
-Le chapitre 6 a posé les bases médicales du HPV et de sa vaccination. Ce chapitre s'attarde sur une réalité peu dite : le HPV reste l'IST la plus fréquente, mais aussi celle dont on parle le moins comme telle, y compris quand elle débouche sur un cancer.
+Un fil tendu entre deux points très éloignés dans le temps reste invisible si personne ne le suit d'un bout à l'autre : d'un côté une infection banale contractée des années plus tôt, de l'autre un cancer diagnostiqué bien plus tard, et entre les deux, un fil que presque personne ne relie spontanément. Le chapitre 6 a posé les bases médicales du HPV et de sa vaccination. Ce chapitre suit ce fil précis : le HPV reste l'IST la plus fréquente, mais aussi celle dont on parle le moins comme telle, y compris quand elle débouche sur un cancer.
 
 ### 21.1 "Quand on me demande où est mon cancer, c'est compliqué"
 
-[Laure Roulle, 49 ans, a reçu un diagnostic de cancer du canal anal invasif en février 2022, une tumeur de 5 centimètres liée au papillomavirus ; après une chimiothérapie et une radiothérapie pelvienne, son dernier bilan ne détecte plus de tumeur, sans que cela signifie une guérison définitive. Elle a fondé l'association "Papillomavirus NO TABOO" pour briser le silence autour des cancers liés au HPV, informer sur la transmission et la prévention, soutenir les patients entre eux, et rappeler que les hommes ne sont pas seulement des vecteurs du virus mais peuvent eux aussi développer des cancers liés au HPV, en particulier des cancers ORL](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/temoignage-quand-on-me-demande-ou-est-mon-cancer-c-est-complique-elle-veut-briser-le-tabou-lie-aux-cancers-hpv-3035045.html) (témoignage recueilli par France 3 Nouvelle-Aquitaine, 2025 ; vérification du 16 septembre 2026).
+🗣️ **Témoignage réel.** [Laure Roulle, 49 ans, a reçu un diagnostic de cancer du canal anal invasif en février 2022, une tumeur de 5 centimètres liée au papillomavirus ; après une chimiothérapie et une radiothérapie pelvienne, son dernier bilan ne détecte plus de tumeur, sans que cela signifie une guérison définitive. Elle a fondé l'association "Papillomavirus NO TABOO" pour briser le silence autour des cancers liés au HPV, informer sur la transmission et la prévention, soutenir les patients entre eux, et rappeler que les hommes ne sont pas seulement des vecteurs du virus mais peuvent eux aussi développer des cancers liés au HPV, en particulier des cancers ORL](https://france3-regions.franceinfo.fr/nouvelle-aquitaine/gironde/bordeaux/temoignage-quand-on-me-demande-ou-est-mon-cancer-c-est-complique-elle-veut-briser-le-tabou-lie-aux-cancers-hpv-3035045.html) (témoignage recueilli par France 3 Nouvelle-Aquitaine, 2025 ; vérification du 16 septembre 2026).
 
-Ce témoignage touche à quelque chose de spécifique au HPV parmi les IST de ce guide : le cancer qui en découle, des années après l'infection initiale, n'est presque jamais spontanément associé par l'entourage à une IST, ce qui isole la personne concernée d'une conversation qu'elle pourrait pourtant avoir avec d'autres patients touchés par un cancer lié au virus.
+Ce témoignage touche à quelque chose de spécifique au HPV parmi les IST de ce guide : le cancer qui en découle, des années après l'infection initiale, n'est presque jamais spontanément associé par l'entourage à une IST — le fil reste invisible pour presque tout le monde, y compris pour une partie des patients eux-mêmes, ce qui isole la personne concernée d'une conversation qu'elle pourrait pourtant avoir avec d'autres patients touchés par un cancer lié au virus.
 
 **Nuance nécessaire.** Laure Roulle décrit le HPV comme "un virus qui se transmet par les mains", une formulation personnelle qui insiste, à juste titre, sur le fait que le préservatif ne protège pas totalement contre ce virus, très présent sur la peau environnante et pas seulement lors de la pénétration. Le mécanisme précis reste, comme détaillé au chapitre 6.1, une transmission par contact cutané ou muqueux direct, génital dans l'immense majorité des cas, pas seulement manuel.
 
@@ -787,11 +808,11 @@ Ce témoignage touche à quelque chose de spécifique au HPV parmi les IST de ce
 
 ## 22. Hépatite B : une IST qu'on oublie de nommer comme telle
 
-L'hépatite B n'apparaît dans aucun autre chapitre de ce guide, alors qu'elle se transmet principalement par voie sexuelle chez l'adulte en France. C'est révélateur en soi : on pense "foie" avant de penser "IST", ce qui retarde souvent la vaccination et le dépistage.
+Un dossier mal classé dans le mauvais tiroir d'une armoire reste introuvable pour quiconque cherche sous la bonne étiquette : il existe bien, mais personne ne pense à le chercher là où il se trouve réellement. L'hépatite B est rangée dans ce mauvais tiroir depuis des décennies, celui du foie plutôt que celui des infections sexuellement transmissibles. C'est révélateur en soi : elle n'apparaît dans aucun autre chapitre de ce guide, alors qu'elle se transmet principalement par voie sexuelle chez l'adulte en France, et ce mauvais rangement retarde souvent la vaccination et le dépistage.
 
 ### 22.1 "Comment le dire à sa famille, à ses petits-enfants" : le récit d'un hépatologue
 
-[Un hépatologue raconte le cas d'Hélène, 55 ans, employée de bureau, qui développe en dix jours des symptômes grippaux puis un jaunissement des yeux, avant qu'un bilan sanguin ne révèle une atteinte hépatique sévère et un diagnostic d'hépatite B aiguë. Son compagnon depuis 13 ans, Max, porteur d'une hépatite B chronique inactive découverte quatre ans plus tôt, avait affirmé avoir fait vacciner son foyer sans jamais réellement en parler à Hélène ni organiser sa vaccination, par peur d'être rejeté s'il révélait son diagnostic](https://soshepatites.org/lhistoire-folle-dune-hepatite-b-aigue/) (SOS Hépatites, récit clinique d'un hépatologue ; vérification du 16 septembre 2026). Hélène se retrouve alors confrontée à une double charge : la maladie elle-même, et la question de savoir comment en parler à sa famille, ses petits-enfants, sans savoir comment les protéger.
+🗣️ **Témoignage réel.** [Un hépatologue raconte le cas d'Hélène, 55 ans, employée de bureau, qui développe en dix jours des symptômes grippaux puis un jaunissement des yeux, avant qu'un bilan sanguin ne révèle une atteinte hépatique sévère et un diagnostic d'hépatite B aiguë. Son compagnon depuis 13 ans, Max, porteur d'une hépatite B chronique inactive découverte quatre ans plus tôt, avait affirmé avoir fait vacciner son foyer sans jamais réellement en parler à Hélène ni organiser sa vaccination, par peur d'être rejeté s'il révélait son diagnostic](https://soshepatites.org/lhistoire-folle-dune-hepatite-b-aigue/) (SOS Hépatites, récit clinique d'un hépatologue ; vérification du 16 septembre 2026). Hélène se retrouve alors confrontée à une double charge : la maladie elle-même, et la question de savoir comment en parler à sa famille, ses petits-enfants, sans savoir comment les protéger.
 
 Ce récit illustre un mécanisme déjà documenté ailleurs dans ce guide (voir 14.3) sous un jour différent : ce n'est pas seulement la personne infectée qui porte la peur de la divulgation, c'est parfois le silence d'un proche, motivé par sa propre peur du rejet, qui finit par transmettre bien plus que ce qu'il redoutait.
 
@@ -799,7 +820,7 @@ Ce récit illustre un mécanisme déjà documenté ailleurs dans ce guide (voir 
 
 ### 22.2 Pourquoi la vaccination change tout, et pourquoi elle reste incomplète
 
-[Selon les premiers États généraux de l'hépatite B, 81 % des personnes interrogées ne se sentaient pas concernées par cette infection avant leur dépistage positif](https://soshepatites.org/les-resultats-des-premiers-etats-generaux-de-lhepatite-b/) (SOS Hépatites, États généraux de l'hépatite B ; vérification du 16 septembre 2026), un chiffre qui résume à lui seul le problème : contrairement au HPV (chapitre 6) ou au VIH (chapitre 5), l'hépatite B reste largement absente des messages de prévention sexuelle grand public, alors qu'un vaccin sûr et efficace existe depuis des décennies.
+[Selon les premiers États généraux de l'hépatite B, 81 % des personnes interrogées ne se sentaient pas concernées par cette infection avant leur dépistage positif](https://soshepatites.org/les-resultats-des-premiers-etats-generaux-de-lhepatite-b/) (SOS Hépatites, États généraux de l'hépatite B ; vérification du 16 septembre 2026) — soit plus de quatre personnes concernées sur cinq qui n'avaient jamais pensé, avant leur propre diagnostic, à chercher dans le bon tiroir. Contrairement au HPV (chapitre 6) ou au VIH (chapitre 5), l'hépatite B reste largement absente des messages de prévention sexuelle grand public, alors qu'un vaccin sûr et efficace existe depuis des décennies.
 
 **Bons réflexes.**
 - Vérifier son statut vaccinal contre l'hépatite B, inclus dans le calendrier vaccinal français depuis 1994 pour les nourrissons, avec rattrapage possible à tout âge pour qui ne l'a pas reçu.
@@ -815,17 +836,17 @@ Ce récit illustre un mécanisme déjà documenté ailleurs dans ce guide (voir 
 
 ## 23. Hépatite C : le silence d'une infection qui se transmet aussi sexuellement
 
-L'hépatite C est longtemps restée associée presque exclusivement à l'usage de drogues injectables. La réalité est plus large : la transmission sexuelle existe, en particulier lors de rapports traumatiques ou en présence d'une autre IST, et reste sous-connue du grand public.
+Recevoir un diagnostic sans plan d'action revient à recevoir une carte sans aucune route tracée dessus : le territoire existe, la destination aussi, mais rien n'indique comment y aller. L'hépatite C est longtemps restée associée presque exclusivement à l'usage de drogues injectables. La réalité est plus large : la transmission sexuelle existe, en particulier lors de rapports traumatiques ou en présence d'une autre IST, et reste sous-connue du grand public, ce qui laisse trop souvent les personnes diagnostiquées avec la carte, mais sans la route.
 
 ### 23.1 "Ça m'a rendu sale et prisonnier" : un témoignage du forum SOS Hépatites
 
-[Un employé des Hôpitaux de Paris raconte avoir été invité à se faire dépister après un arrêt de travail de neuf mois, dépistage qui révèle une hépatite C ; il lui est alors annoncé qu'il s'agit d'une hépatite minime ne nécessitant pas de traitement selon les recommandations de l'époque, réservées aux cas sévères. Il décrit le sentiment d'avoir été dépisté sans recevoir aucune option de soin actif, se sentant "sale" et comme "emprisonné" par cette seule connaissance de son infection](https://soshepatites.org/la-parole-des-maldes-temoignage-du-forum/) (témoignage publié sur le forum de SOS Hépatites ; vérification du 16 septembre 2026).
+🗣️ **Témoignage réel.** [Un employé des Hôpitaux de Paris raconte avoir été invité à se faire dépister après un arrêt de travail de neuf mois, dépistage qui révèle une hépatite C ; il lui est alors annoncé qu'il s'agit d'une hépatite minime ne nécessitant pas de traitement selon les recommandations de l'époque, réservées aux cas sévères. Il décrit le sentiment d'avoir été dépisté sans recevoir aucune option de soin actif, se sentant "sale" et comme "emprisonné" par cette seule connaissance de son infection](https://soshepatites.org/la-parole-des-maldes-temoignage-du-forum/) (témoignage publié sur le forum de SOS Hépatites ; vérification du 16 septembre 2026).
 
 Ce témoignage met en lumière un point rarement nommé ailleurs dans ce guide : la souffrance psychologique d'un diagnostic ne dépend pas seulement de la gravité médicale de l'infection, elle dépend aussi de la façon dont l'information est délivrée. Savoir qu'on porte un virus sans recevoir, dans le même temps, un plan d'action concret laisse un vide que le sentiment de honte vient remplir.
 
 **Nuance nécessaire.** La situation décrite dans ce témoignage reflète des recommandations de traitement aujourd'hui dépassées. [Les traitements antiviraux à action directe guérissent aujourd'hui au moins 95 % des personnes traitées, avec des taux dépassant 98 % chez les personnes n'ayant jamais été traitées et sans cirrhose, en huit à douze semaines de traitement](https://www.cdc.gov/mmwr/volumes/71/wr/mm7132e1.htm) (CDC, sur le traitement de l'hépatite C à l'ère des antiviraux à action directe ; vérification du 16 septembre 2026), ce qui change radicalement la situation par rapport à l'époque de ce témoignage.
 
-### 23.2 Ce que le dépistage change concrètement
+### 23.2 La route que le dépistage d'aujourd'hui trace enfin
 
 **Bons réflexes.**
 - Se faire dépister au moindre doute d'exposition, même en l'absence de symptôme, en sachant que le traitement actuel guérit dans l'immense majorité des cas, contrairement à ce que suggérait la prise en charge d'il y a une décennie.
@@ -845,13 +866,13 @@ Un chiffre suffit à poser le problème de ce chapitre : la trichomonase est l'I
 
 ### 24.1 Un parasite, pas une bactérie ni un virus, et une fréquence sous-estimée
 
-[La trichomonase, causée par le parasite Trichomonas vaginalis, est l'infection sexuellement transmissible curable la plus fréquente au monde ; aux États-Unis, le CDC estimait plus de deux millions d'infections en 2018, avec une prévalence observée de 7,5 % dans la population générale étudiée et jusqu'à 16,1 % chez les femmes noires dans une étude urbaine](https://www.cdc.gov/trichomoniasis/about/index.html) (CDC, à propos de la trichomonase ; vérification du 16 septembre 2026).
+**La trichomonase est une infection causée non par une bactérie ou un virus, mais par un parasite unicellulaire, Trichomonas vaginalis, qui colonise les voies génito-urinaires.** [Elle est l'infection sexuellement transmissible curable la plus fréquente au monde](https://www.cdc.gov/trichomoniasis/about/index.html) (CDC, à propos de la trichomonase ; vérification du 16 septembre 2026). [Aux États-Unis, le CDC estimait plus de deux millions d'infections en 2018, avec une prévalence observée de 7,5 % dans la population générale étudiée et jusqu'à 16,1 % chez les femmes noires dans une étude urbaine](https://www.cdc.gov/trichomoniasis/about/index.html) (vérification du 16 septembre 2026) — pour donner une échelle à ce chiffre, deux millions d'infections en une seule année représente à peu près la population d'une grande métropole entière, touchée par une infection dont la plupart des gens n'ont jamais entendu le nom.
 
 **Analogie utile.** C'est l'infection la plus fréquente dont "personne n'a jamais entendu parler", pour reprendre la formule utilisée par des associations de santé sexuelle américaines : contrairement à la chlamydia ou au HPV, largement mentionnés dans les campagnes de prévention, la trichomonase reste absente du vocabulaire courant, alors même qu'elle touche davantage de personnes que la chlamydia et la gonorrhée réunies à l'échelle mondiale.
 
 ### 24.2 Pourquoi elle passe sous le radar
 
-[Environ 70 % des personnes infectées ne présentent aucun signe ni symptôme, et quand des symptômes apparaissent (pertes, douleurs pelviennes, brûlures urinaires, démangeaisons génitales), ils sont plus fréquents chez les femmes que chez les hommes](https://www.cdc.gov/trichomoniasis/about/index.html) (vérification du 16 septembre 2026). Ce taux élevé de formes silencieuses, combiné à l'absence de dépistage systématique dans la plupart des bilans IST de routine, explique une bonne part de son invisibilité : on ne cherche généralement pas ce qu'on ne pense pas à nommer.
+[Environ 70 % des personnes infectées ne présentent aucun signe ni symptôme](https://www.cdc.gov/trichomoniasis/about/index.html) (vérification du 16 septembre 2026) — soit plus des deux tiers des personnes porteuses qui n'ont, à aucun moment, la moindre raison corporelle de soupçonner l'infection. [Quand des symptômes apparaissent (pertes, douleurs pelviennes, brûlures urinaires, démangeaisons génitales), ils sont plus fréquents chez les femmes que chez les hommes](https://www.cdc.gov/trichomoniasis/about/index.html) (vérification du 16 septembre 2026). Ce taux élevé de formes silencieuses, combiné à l'absence de dépistage systématique dans la plupart des bilans IST de routine, explique une bonne part de son invisibilité : on ne cherche généralement pas ce qu'on ne pense pas à nommer.
 
 **Bons réflexes.**
 - Demander explicitement un dépistage de la trichomonase lors d'un bilan IST : elle n'est pas toujours incluse dans les tests standards, contrairement à la chlamydia et à la gonorrhée.
@@ -872,7 +893,7 @@ Ce chapitre couvre une IST qu'une grande partie des professionnels de santé eux
 
 ### 25.1 Une bactérie identifiée tardivement, encore mal dépistée
 
-[Mycoplasma genitalium se situe, en population générale, à une prévalence génitale d'environ 1 %, entre celle du gonocoque (0,4 %) et celle de la chlamydia (4,2 %), avec des taux nettement plus élevés dans les populations à risque plus exposées (7,3 %) et chez les travailleuses du sexe (15,9 %) selon une synthèse portant sur plus de 27 000 femmes dépistées à travers le monde](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969327/) (revue systématique et méta-analyse sur la prévalence de Mycoplasma genitalium ; vérification du 16 septembre 2026).
+**Mycoplasma genitalium est une bactérie sexuellement transmissible identifiée bien plus récemment que la chlamydia ou la gonorrhée, ce qui explique le retard pris par sa reconnaissance clinique.** [Elle se situe, en population générale, à une prévalence génitale d'environ 1 %, entre celle du gonocoque (0,4 %) et celle de la chlamydia (4,2 %)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969327/) (revue systématique et méta-analyse sur la prévalence de Mycoplasma genitalium, portant sur plus de 27 000 femmes dépistées à travers le monde ; vérification du 16 septembre 2026). [Ses taux grimpent nettement dans les populations plus exposées (7,3 %) et chez les travailleuses du sexe (15,9 %)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5969327/) (même source ; vérification du 16 septembre 2026) — soit une prévalence multipliée par plus de quinze entre la population générale et les travailleuses du sexe, un écart bien supérieur à celui observé pour la plupart des autres IST bactériennes de ce guide.
 
 Ce qui distingue cette infection des autres IST bactériennes de ce guide, ce n'est pas sa fréquence, comparable à celle de la chlamydia, c'est sa quasi-invisibilité en pratique clinique courante. [Cette IST est probablement sous-diagnostiquée en pratique clinique, parce que sa culture et son isolement en laboratoire posent des difficultés techniques spécifiques qui contribuent au sous-dépistage, aux erreurs de diagnostic et à une prise en charge inadaptée ; un dépistage n'est généralement pas réalisé chez les personnes déjà diagnostiquées avec une autre IST, alors même que la co-occurrence est fréquente](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3102684/) (Mycoplasma genitalium, cause émergente d'infection sexuellement transmissible chez la femme ; vérification du 16 septembre 2026).
 

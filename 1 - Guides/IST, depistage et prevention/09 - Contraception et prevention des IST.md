@@ -4,7 +4,7 @@ chapitre: "9"
 titre: "Contraception et prévention des IST : ce qui protège de quoi"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 

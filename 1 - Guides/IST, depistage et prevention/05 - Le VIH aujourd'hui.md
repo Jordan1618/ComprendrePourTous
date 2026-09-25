@@ -4,7 +4,7 @@ chapitre: "5"
 titre: "Le VIH aujourd'hui : une réalité radicalement différente d'il y a 20 ans"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-07-27
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -12,7 +12,7 @@ licence: "CC BY 4.0"
 
 ### 5.1 Le changement de paradigme le plus important à connaître : U=U
 
-Le fait le plus mal connu du grand public sur le VIH aujourd'hui (7 Français sur 10 n'en ont jamais entendu parler, selon Sida Info Service) : une personne séropositive sous traitement antirétroviral efficace, avec une **charge virale indétectable depuis au moins 6 mois** et un suivi médical régulier, **ne transmet plus le virus par voie sexuelle**, y compris sans préservatif. C'est le principe **U=U** (indétectable = intransmissible), ou TasP ("Treatment as Prevention") en anglais, confirmé par plusieurs grandes études (HPTN 052, PARTNER 1 et 2) qui [n'ont recensé aucune transmission dans ces conditions sur des milliers de couples suivis, y compris des couples sérodifférents ayant des rapports sans préservatif pendant des années](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30418-0/fulltext) (Rodger et coll., étude PARTNER, *The Lancet*, 2019 ; vérification du 27 juillet 2026).
+Le fait le plus mal connu du grand public sur le VIH aujourd'hui (7 Français sur 10 n'en ont jamais entendu parler, selon Sida Info Service) : une personne séropositive sous traitement antirétroviral efficace, avec une **charge virale indétectable depuis au moins 6 mois** et un suivi médical régulier, **ne transmet plus le virus par voie sexuelle**, y compris sans préservatif. C'est le principe **U=U** (indétectable = intransmissible), ou TasP ("Treatment as Prevention") en anglais, confirmé par plusieurs grandes études (HPTN 052, PARTNER 1 et 2). [Ces études n'ont recensé aucune transmission dans ces conditions sur des milliers de couples suivis](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(19)30418-0/fulltext) (Rodger et coll., étude PARTNER, *The Lancet*, 2019 ; vérification du 27 juillet 2026), y compris chez des couples sérodifférents ayant eu des rapports sans préservatif pendant des années de suivi.
 
 Imagine la charge virale indétectable comme un feu qui a été si bien éteint qu'il ne reste plus une seule braise capable d'en rallumer un autre, même en contact direct, le "feu" existe toujours quelque part dans l'histoire de la personne, mais il n'y a plus rien qui puisse se propager. Le chapitre 14.1 revient sur l'écart, documenté, entre la connaissance de ce principe et son acceptation réelle une fois qu'il touche sa propre vie.
 

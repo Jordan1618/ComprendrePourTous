@@ -4,7 +4,7 @@ chapitre: "3"
 titre: "Syphilis : la grande oubliée qui revient en force"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-07-27
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -23,7 +23,7 @@ Imagine la syphilis comme un signal d'alarme qui sonne une fois puis s'éteint t
 
 ### 3.2 Pourquoi elle revient
 
-[Hausse de 34 % du taux de notification en Europe entre 2021 et 2022 (41 % depuis 2018)](https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2022) (ECDC, rapport épidémiologique annuel 2022 ; vérification du 27 juillet 2026). Une hausse comparable, de l'ordre de 42 %, aurait été observée rien qu'en médecine générale en France entre 2020 et 2021 selon une source secondaire, mais aucun lien direct vérifiable n'a été retrouvé à cette date pour ce chiffre précis. Comme pour la gonorrhée, le relâchement du réflexe préservatif et l'augmentation du nombre de partenaires au fil d'une vie sont les explications les plus citées.
+[Hausse de 34 % du taux de notification en Europe entre 2021 et 2022 (41 % depuis 2018)](https://www.ecdc.europa.eu/en/publications-data/syphilis-annual-epidemiological-report-2022) (ECDC, rapport épidémiologique annuel 2022 ; vérification du 27 juillet 2026) — soit un taux de notification qui a crû, en quatre ans, à peu près aussi vite que si la maladie touchait, chaque année, un dixième de cas en plus que l'année précédente. Une hausse comparable, de l'ordre de 42 %, aurait été observée rien qu'en médecine générale en France entre 2020 et 2021 selon une source secondaire, mais aucun lien direct vérifiable n'a été retrouvé à cette date pour ce chiffre précis. Comme pour la gonorrhée, le relâchement du réflexe préservatif et l'augmentation du nombre de partenaires au fil d'une vie sont les explications les plus citées.
 
 **Traitement** : une injection de pénicilline (parfois plusieurs selon le stade) suffit à guérir, l'un des traitements les plus simples et les plus anciens de toute la médecine moderne, ce qui rend sa résurgence d'autant plus évitable.
 

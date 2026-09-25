@@ -4,13 +4,13 @@ chapitre: "11"
 titre: "Bonnes pratiques et réduction des risques"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Bonnes pratiques et réduction des risques
 
-Chapitre de synthèse, pensé pour être actionnable directement, sans avoir à relire l'ensemble du guide.
+Une trousse à outils bien pensée ne contient jamais un seul outil universel : elle rassemble plusieurs outils, chacun pour un usage précis, rangés pour qu'on les retrouve vite le jour où on en a besoin. Ce chapitre de synthèse fonctionne sur ce principe, pensé pour être actionnable directement, sans avoir à relire l'ensemble du guide : chaque section est un outil distinct de la même trousse.
 
 ### 11.1 Le préservatif, bien utilisé plutôt que simplement présent
 
@@ -43,7 +43,7 @@ Le poids psychologique d'un diagnostic d'IST dépasse souvent largement sa gravi
 
 **💑 Dans le couple** : un·e partenaire qui reçoit un diagnostic a besoin, dans les premiers jours, d'un accueil factuel plus que d'une réassurance excessive ou dramatisée, les deux réactions, aussi bien intentionnées soient-elles, peuvent renforcer le sentiment d'isolement plutôt que le réduire. Une réponse simple et concrète (traitement, prochain rendez-vous, ce que ça change ou pas) aide davantage qu'un discours rassurant trop général.
 
-### 11.5 La checklist de réduction des risques
+### 11.5 La trousse au complet : la checklist de réduction des risques
 
 - Utiliser un préservatif (externe ou interne) pour tout rapport avec un·e partenaire dont le statut de dépistage n'est pas connu, y compris pour les rapports oraux et anaux.
 - Se faire dépister régulièrement selon son profil de risque ([11.2](<#11-2-frequence-de-depistage-selon-le-profil-de-risque>)), sans attendre un symptôme.

@@ -4,7 +4,7 @@ chapitre: "2"
 titre: "Chlamydia et gonorrhée : les deux plus fréquentes, souvent silencieuses"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-07-27
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -12,7 +12,7 @@ licence: "CC BY 4.0"
 
 ### 2.1 Chlamydia trachomatis
 
-La première cause d'IST bactérienne dans les pays occidentaux. Environ **70 % des femmes et 50 % des hommes infectés ne présentent aucun symptôme**, ce qui explique sa circulation large. Quand des symptômes existent : brûlures urinaires, pertes vaginales ou écoulement urétral inhabituels, douleurs pelviennes. [La Haute Autorité de Santé recommande un dépistage systématique chez toutes les femmes sexuellement actives de 15 à 25 ans, symptômes ou non](https://www.has-sante.fr/jcms/c_2879454/fr/ist-la-has-recommande-un-depistage-systematique-de-l-infection-a-chlamydia-trachomatis-chez-les-jeunes-femmes) (HAS ; vérification du 27 juillet 2026).
+La première cause d'IST bactérienne dans les pays occidentaux. Environ **70 % des femmes et 50 % des hommes infectés ne présentent aucun symptôme**, ce qui explique sa circulation large : autrement dit, plus des deux tiers des femmes porteuses ne savent tout simplement pas qu'elles le sont, faute du moindre signal d'alerte corporel. Quand des symptômes existent : brûlures urinaires, pertes vaginales ou écoulement urétral inhabituels, douleurs pelviennes. [La Haute Autorité de Santé recommande un dépistage systématique chez toutes les femmes sexuellement actives de 15 à 25 ans, symptômes ou non](https://www.has-sante.fr/jcms/c_2879454/fr/ist-la-has-recommande-un-depistage-systematique-de-l-infection-a-chlamydia-trachomatis-chez-les-jeunes-femmes) (HAS ; vérification du 27 juillet 2026).
 
 **Ce qui rend la chlamydia sérieuse malgré son silence** : non traitée, elle peut remonter vers les trompes de Fallope et provoquer une salpingite (infection des trompes), elle-même cause majeure d'infertilité tubaire évitable et de grossesse extra-utérine. C'est littéralement la cause la plus fréquente d'infertilité **évitable** chez la femme dans les pays occidentaux, un point détaillé dans le guide sur le corps féminin (section 7.16).
 

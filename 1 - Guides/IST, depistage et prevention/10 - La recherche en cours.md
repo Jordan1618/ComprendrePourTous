@@ -4,27 +4,27 @@ chapitre: "10"
 titre: "La recherche en cours : vaccins, autotests, PrEP nouvelle génération"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # La recherche en cours : vaccins, autotests, PrEP nouvelle génération
 
-Ce chapitre fait le point sur ce qui progresse réellement, en distinguant ce qui est déjà disponible de ce qui reste en développement, une confusion fréquente et source de faux espoirs si elle n'est pas nommée clairement.
+Un chantier de construction avance rarement pièce par pièce dans l'ordre : certaines salles sont déjà livrées et habitables, d'autres en sont encore au stade du gros œuvre, d'autres ne sont encore qu'un plan sur une table à dessin. La recherche contre les IST avance sur ce même chantier à plusieurs vitesses. Ce chapitre visite chaque pièce en distinguant ce qui est déjà habitable de ce qui reste en travaux, une confusion fréquente et source de faux espoirs si elle n'est pas nommée clairement.
 
-### 10.1 Les vaccins contre les IST bactériennes, un bilan mitigé mais actif
+### 10.1 Les vaccins contre les IST bactériennes : une pièce encore en gros œuvre
 
 Le vaccin méningococcique B (4CMenB), déjà utilisé contre la méningite, avait suscité un espoir réel de protection croisée contre la gonorrhée, à partir de proximité génétique entre les deux bactéries. [Une méta-analyse d'études observationnelles publiée en 2024-2025 concluait à un effet protecteur modeste mais réel](https://doi.org/10.1093/infdis/jiae383) (Abara, Kirkcaldy, Bernstein, Galloway & Learner, *The Journal of Infectious Diseases*, 2025 ; vérification du 13 août 2026), mais [un essai randomisé contrôlé mené en 2025-2026 chez des hommes à haut risque n'a pas confirmé cet effet protecteur en conditions expérimentales rigoureuses, contredisant les études d'observation antérieures](https://medicalxpress.com/news/2026-07-meningococcal-vaccine-ineffective-gonorrhea-men.html) (vérification du 13 août 2026). C'est un exemple utile de la façon dont la recherche progresse par corrections successives : plusieurs pays (Royaume-Uni, Espagne) avaient déjà commencé à proposer ce vaccin aux populations à risque avant ce résultat plus récent, une révision des recommandations est probable dans les prochains mois.
 
 Côté chlamydia, [un vaccin candidat à ARN messager développé par Sanofi a reçu la procédure accélérée ("fast track") de la FDA américaine en mars 2025, et un essai clinique de phase 1/2 a débuté peu après pour évaluer sa sécurité et son immunogénicité chez de jeunes adultes](https://www.sanofi.com/en/media-room/press-releases/2025/2025-03-26-06-00-00-3049326) (Sanofi, communiqué de presse, 2025 ; vérification du 13 août 2026). Aucun vaccin contre la chlamydia, la gonorrhée ou l'herpès n'est aujourd'hui disponible en pratique courante, ces recherches restent à un stade expérimental.
 
-### 10.2 Les autotests, une bascule déjà bien engagée
+### 10.2 Les autotests : une pièce déjà livrée et habitée
 
 Le dépistage à domicile n'est plus un projet de recherche mais une réalité en cours de déploiement. En France, [le dispositif "Mon test IST" permet, depuis juillet 2025, aux jeunes femmes de 18 à 25 ans de commander gratuitement un kit d'autoprélèvement pour la chlamydia et la gonorrhée, envoyé en enveloppe neutre, avec extension du dispositif aux jeunes hommes du même âge ainsi qu'aux personnes trans et non binaires depuis mai 2026](https://www.ameli.fr/assure/actualites/mon-test-ist-le-kit-de-depistage-domicile-desormais-disponible-pour-les-hommes-de-18-25-ans) (Assurance maladie, ameli.fr, 2025-2026 ; vérification du 13 août 2026). Le test rapide d'orientation diagnostique (TROD) pour le VIH reste par ailleurs disponible en pharmacie sans ordonnance, à un coût qui n'est pas pris en charge par l'Assurance maladie.
 
 **💑 Dans le couple** : ces kits à domicile abaissent nettement la barrière logistique qui retardait parfois le dépistage à deux évoqué au chapitre 8.1, ils ne dispensent pas d'un suivi médical en cas de résultat positif ou de symptôme. Le chapitre 12 détaille le réseau CeGIDD (12.1), le volume réel de recours à ce dispositif (12.2) et la fiabilité comparée des autotests VIH en pharmacie (12.3).
 
-### 10.3 PrEP et PEP : les nouvelles formes
+### 10.3 PrEP et PEP : la pièce qui vient tout juste d'être livrée
 
 Au-delà de la PrEP orale et injectable déjà disponibles (voir chapitre 5.2), [une injection semestrielle de lénacapavir a été approuvée par la FDA américaine en juin 2025 pour la prévention du VIH, avec une efficacité proche de 100 % dans les essais cliniques de référence (PURPOSE 1 et 2), et une recommandation de l'Organisation mondiale de la santé publiée en juillet 2025](https://www.who.int/news/item/14-07-2025-who-recommends-injectable-lenacapavir-for-hiv-prevention) (OMS, communiqué, 2025 ; vérification du 13 août 2026). Deux injections par an suffisent, contre une injection bimestrielle pour le cabotégravir déjà utilisé, un progrès réel pour l'observance sur le long terme.
 
@@ -34,10 +34,12 @@ Pour les IST bactériennes hors VIH, une prophylaxie post-exposition existe dés
 
 La recherche sur de nouvelles méthodes contraceptives masculines avance en parallèle, avec un gel combinant deux hormones ayant atteint une suppression efficace de la production de spermatozoïdes en essai de phase 2b, et un candidat oral non hormonal ayant complété un essai de phase 1 en 2024, comme le détaille le chapitre 9.2 bis de [Pour Lui](<../Pour Lui/09 - La contraception masculine.md>). Ce chapitre ne reprend pas ce détail ici : le rappel utile pour ce guide reste celui du chapitre 9, aucune de ces méthodes, une fois disponible, ne protégera des IST, seul le préservatif joue ce double rôle.
 
+Le chantier de ce chapitre a une règle que l'on oublie facilement dans l'enthousiasme d'une annonce : une pièce encore au stade du plan peut très bien ne jamais être construite, même après des années de gros œuvre prometteur, comme le montre le revirement du vaccin méningococcique B en 10.1.
+
 **Bons réflexes**
-- Distinguer, pour chaque annonce de recherche, ce qui est disponible aujourd'hui de ce qui reste en essai clinique, un candidat prometteur en phase 1 ou 2 peut encore échouer en phase 3.
-- Se renseigner activement sur le doxyPEP auprès d'un médecin ou d'un centre de santé sexuelle en cas d'exposition répétée à un risque bactérien, plutôt que d'attendre qu'il soit proposé spontanément.
-- Utiliser les kits de dépistage à domicile pour réduire la barrière logistique, sans s'en contenter en cas de symptôme ou de résultat positif, qui appellent toujours un avis médical.
+- Distinguez, pour chaque annonce de recherche, ce qui est disponible aujourd'hui de ce qui reste en essai clinique : un candidat prometteur en phase 1 ou 2 peut encore échouer en phase 3.
+- Renseignez-vous activement sur le doxyPEP auprès d'un médecin ou d'un centre de santé sexuelle en cas d'exposition répétée à un risque bactérien, plutôt que d'attendre qu'il soit proposé spontanément.
+- Utilisez les kits de dépistage à domicile pour réduire la barrière logistique, sans vous en contenter en cas de symptôme ou de résultat positif, qui appellent toujours un avis médical.
 
 ## Sources vérifiables
 

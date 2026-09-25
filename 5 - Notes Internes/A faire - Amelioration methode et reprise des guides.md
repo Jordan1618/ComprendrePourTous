@@ -272,8 +272,22 @@ Les 2 chapitres en réécriture (11, 12) et les 19 chirurgies (dont plusieurs «
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guides dans l'ordre du tableau maître : les dix guides restés en chirurgie pure (IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication)
+## IST, dépistage et prévention — TERMINÉ (25/09/2026)
+
+Les 25 chapitres en chirurgie ont tous été repris (aucune réécriture nécessaire, verdict confirmé par l'audit). Ce guide était déjà nettement mieux tenu que le profil de défauts habituel : objets définis, réflexes très majoritairement actifs, honnêteté de sourçage exemplaire (plusieurs chapitres signalent explicitement l'absence de source ou de témoignage plutôt que d'inventer). Les défauts dominants étaient plus légers : onze chapitres sans analogie, des chiffres frappants (374 millions de cas, 417 millions de porteurs du HSV-2, 80 % de la population touchée par le HPV) jamais mis à l'échelle, un chapitre entier (15) sans section Bons réflexes, et cinq témoignages réels déjà présents dans le texte mais jamais marqués de l'emoji 🗣️.
+
+- Total du guide : 18 266 → 19 555 mots (25 chapitres).
+- Une analogie filée ajoutée sur les 11 chapitres qui n'en avaient aucune : la loterie du HPV (ch.6), le chantier à plusieurs vitesses de la recherche (ch.10), la trousse à outils (ch.11), les trois portes du dépistage (ch.12), le péage de l'accès (ch.16), les deux angles morts de la prévention (ch.17), l'étiquette qui ne se décolle pas (ch.19), le mauvais tiroir de classement (ch.22), la carte sans route tracée (ch.23), entre autres.
+- Section « Bons réflexes » ajoutée au chapitre 15, seul chapitre du guide qui en était totalement dépourvu.
+- Emoji 🗣️ Témoignage réel ajouté explicitement sur les cinq chapitres qui portaient déjà un vrai témoignage nommé et sourcé sans le marquer formellement (14, 20, 21, 22, 23).
+- Chiffres frappants mis à l'échelle sur la quasi-totalité des chapitres (374 millions de cas comparés à la population des États-Unis, progression de la gonorrhée comparée à un taux de croissance annuel, etc.), liens les plus collés reformulés en phrases courtes.
+- Pipeline complet exécuté (19 580 mots comptés par le script de build, écart mineur accepté), aucun lien cassé spécifique à ce guide au-delà du bruit habituel des ancres internes, README du guide et README racine mis à jour. Aucune nouvelle source introduite, réciprocité déjà correcte avec `4 - Sources/IST, dépistage et prévention.md`.
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : Maladie grave et handicap (32 chapitres, priorité haute, mode débit)
 
 ## Comment reprendre
 
-Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous et La rencontre. Continuer guide par guide sur les dix guides restés en chirurgie pure, dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre et IST dépistage et prévention. Continuer guide par guide sur les neuf guides restants (Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

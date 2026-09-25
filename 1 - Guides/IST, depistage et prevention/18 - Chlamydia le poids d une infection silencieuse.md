@@ -4,7 +4,7 @@ chapitre: "18"
 titre: "Chlamydia : le poids d'une infection silencieuse"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-09-16
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -31,7 +31,7 @@ Le chapitre 2.1 rappelle que la majorité des infections à chlamydia sont asymp
 Aucun témoignage publié et vérifiable spécifiquement consacré à un vécu de chlamydia n'a été identifié à ce jour pour ce chapitre ; c'est dit ici explicitement plutôt que d'en improviser un. Ce qui ressort en revanche des données disponibles sur la stigmatisation des IST en général, c'est le rôle protecteur d'une information factuelle reçue tôt : [une stigmatisation ressentie plus forte est associée de façon significative à une probabilité plus faible de se faire dépister, et à une moindre volonté de prévenir ses partenaires](https://pmc.ncbi.nlm.nih.gov/articles/PMC8297218/) (étude sur la honte ressentie face aux IST chez de jeunes adultes, *PMC*, 2021 ; vérification du 16 septembre 2026), ce qui fait de l'information reçue au moment du diagnostic un levier concret, pas seulement un réconfort de façade.
 
 **Bons réflexes.**
-- Se rappeler qu'une chlamydia, silencieuse et extrêmement répandue, n'a rien à voir avec un jugement sur le nombre de partenaires ou la prudence de la personne : elle se contracte souvent sans qu'aucun signe n'ait jamais alerté personne.
+- Traitez une chlamydia, silencieuse et extrêmement répandue, comme une donnée médicale plutôt qu'un jugement sur le nombre de partenaires ou la prudence de la personne : elle se contracte souvent sans qu'aucun signe n'ait jamais alerté personne.
 - Prévenir ses partenaires récents reste un geste de responsabilité, pas un aveu de faute, exactement comme on préviendrait d'une exposition à n'importe quelle autre infection transmissible.
 
 ## Sources vérifiables

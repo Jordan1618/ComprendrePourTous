@@ -4,7 +4,7 @@ chapitre: "7"
 titre: "IST ou MST ? Une histoire de mots"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-08-13
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -31,8 +31,8 @@ Un vocabulaire plus juste ne rend pas les infections moins réelles ni moins sé
 **💑 Dans le couple** : le mot qu'on utilise entre partenaires compte moins que ce qu'il désigne, mais dire "IST" plutôt que "MST" peut, dans une conversation délicate, retirer une partie du poids moral que le mot "maladie" porte encore malgré lui, sans rien enlever au sérieux du sujet.
 
 **Bons réflexes**
-- Ne pas se sentir obligé de corriger quelqu'un qui dit "MST", l'un et l'autre terme désignent la même réalité, seul l'usage professionnel a évolué.
-- Retenir l'idée derrière le mot plutôt que le mot lui-même : l'absence de symptôme ne dit rien sur l'absence d'infection.
+- Ne vous sentez pas obligé de corriger quelqu'un qui dit "MST" : l'un et l'autre terme désignent la même réalité, seul l'usage professionnel a évolué.
+- Face à l'absence de symptôme, agissez comme s'il pouvait y avoir une infection plutôt que de vous fier au ressenti : c'est tout le sens du changement de mot.
 
 ## Sources vérifiables
 

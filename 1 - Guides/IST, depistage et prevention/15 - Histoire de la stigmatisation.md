@@ -4,7 +4,7 @@ chapitre: "15"
 titre: "Histoire de la stigmatisation : de la syphilis au sida"
 sujet: "commun"
 angle: "histoire"
-verifie_le: 2026-09-16
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -35,6 +35,11 @@ En France, le mouvement équivalent, Act Up-Paris, mène le même combat dans le
 Le lien entre ces deux épisodes, séparés de quatre siècles, n'est pas anecdotique : dans les deux cas, une infection transmissible sexuellement a été traitée comme un marqueur moral avant d'être traitée comme une maladie, avec un coût humain directement lié à ce détournement, retard de traitement, silence institutionnel, violence sociale envers les personnes atteintes.
 
 C'est ce même mécanisme, sous une forme atténuée, qui explique pourquoi une IST bénigne et facilement traitable aujourd'hui (chlamydia, herpès) continue de porter un poids émotionnel disproportionné par rapport à sa gravité médicale réelle : l'histoire de la stigmatisation a une inertie bien plus longue que celle du progrès médical.
+
+**Bons réflexes.**
+- Face à votre propre réaction émotionnelle à un diagnostic d'IST, demandez-vous si elle vient de la gravité réelle de l'infection ou de cette inertie historique héritée : les deux se confondent facilement, mais elles n'ont pas la même origine.
+- Ne reproduisez pas le réflexe décrit en 15.1 qui consiste à associer une IST à "quelqu'un d'autre" : c'est exactement le mécanisme qui a retardé, pendant des siècles, la prise en charge sérieuse de ces infections.
+- Si vous encadrez ou accompagnez quelqu'un après un diagnostic, nommez explicitement ce décalage entre progrès médical et inertie sociale : cela aide souvent plus qu'une réassurance générale sur la bénignité de l'infection.
 
 ## Sources vérifiables
 

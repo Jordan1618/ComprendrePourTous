@@ -4,7 +4,7 @@ chapitre: "4"
 titre: "Herpès génital : la gestion à vie plutôt que la guérison"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-07-27
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -26,7 +26,7 @@ Imagine le virus de l'herpès comme un locataire qui s'installe définitivement 
 
 ### 4.3 Le tabou social, disproportionné par rapport à la réalité médicale
 
-L'herpès génital porte une charge de stigmatisation sans commune mesure avec sa gravité médicale réelle (qui est, pour une personne autrement en bonne santé, minime en dehors de l'inconfort des poussées). Cette disproportion s'explique en grande partie par l'aspect visible et récurrent des poussées, contrairement à d'autres infections tout aussi fréquentes mais invisibles : [le virus HSV-2 touche à lui seul près de 417 millions de personnes dans le monde](https://pmc.ncbi.nlm.nih.gov/articles/PMC4301914/), la plupart sans le savoir (Looker et coll., *PLOS ONE*, 2015 ; vérification du 8 août 2026).
+L'herpès génital porte une charge de stigmatisation sans commune mesure avec sa gravité médicale réelle (qui est, pour une personne autrement en bonne santé, minime en dehors de l'inconfort des poussées). Cette disproportion s'explique en grande partie par l'aspect visible et récurrent des poussées, contrairement à d'autres infections tout aussi fréquentes mais invisibles : [le virus HSV-2 touche à lui seul près de 417 millions de personnes dans le monde](https://pmc.ncbi.nlm.nih.gov/articles/PMC4301914/), la plupart sans le savoir (Looker et coll., *PLOS ONE*, 2015 ; vérification du 8 août 2026) — soit, pour donner une échelle à ce chiffre, davantage que la population entière des États-Unis, rien que pour une seule des deux souches du virus.
 
 **💑 Dans le couple** : l'annonce d'un diagnostic d'herpès à un·e partenaire est souvent vécue comme un moment redouté, alors que le virus est extrêmement répandu (une large partie de la population adulte est porteuse du HSV-1, souvent sans même le savoir). En parler factuellement, fréquence des poussées, traitement suivi, précautions pendant les poussées actives, désamorce largement l'inquiétude disproportionnée que le mot "herpès" déclenche encore.
 

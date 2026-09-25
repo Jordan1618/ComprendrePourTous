@@ -4,7 +4,7 @@ chapitre: "20"
 titre: "Syphilis : la honte d'une maladie qu'on croyait d'un autre temps"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-09-16
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -14,7 +14,7 @@ Le chapitre 3 a posé les bases médicales de la syphilis, et le chapitre 15.1 a
 
 ### 20.1 "Il ne faut pas hésiter à se faire dépister" : ce qu'en dit un médecin de terrain
 
-[Un médecin hospitalier confronté à la résurgence de la syphilis rappelle qu'elle se transmet bien plus facilement que le VIH lors d'un rapport oral non protégé, et insiste : "il ne faut pas hésiter à se faire dépister"](https://www.pourquoidocteur.fr/Articles/Question-d-actu/14392-Syphilis-une-recrudescence-inquietante) (Dr Bruno Abraham, hôpital de Brive, cité par Pourquoi Docteur, 2015 ; vérification du 16 septembre 2026). Cette recommandation, formulée il y a plus de dix ans, reste d'une actualité totale : [environ 6 500 personnes ont été diagnostiquées avec une syphilis en France en 2024, avec une hausse du dépistage de 20 % entre 2022 et 2024](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf) (Santé publique France, Bulletin national VIH et IST bactériennes, 23 octobre 2025 ; vérification du 16 septembre 2026), preuve que la résurgence amorcée dans les années 2000 ne s'est jamais vraiment arrêtée.
+🗣️ **Témoignage réel.** [Un médecin hospitalier confronté à la résurgence de la syphilis rappelle qu'elle se transmet bien plus facilement que le VIH lors d'un rapport oral non protégé, et insiste : "il ne faut pas hésiter à se faire dépister"](https://www.pourquoidocteur.fr/Articles/Question-d-actu/14392-Syphilis-une-recrudescence-inquietante) (Dr Bruno Abraham, hôpital de Brive, cité par Pourquoi Docteur, 2015 ; vérification du 16 septembre 2026). Cette recommandation, formulée il y a plus de dix ans, reste d'une actualité totale. [Environ 6 500 personnes ont été diagnostiquées avec une syphilis en France en 2024](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf) (Santé publique France, Bulletin national VIH et IST bactériennes, 23 octobre 2025 ; vérification du 16 septembre 2026) — soit près de dix-huit nouveaux diagnostics en moyenne chaque jour de l'année, rien qu'en France. [Le dépistage a par ailleurs progressé de 20 % entre 2022 et 2024](https://www.santepubliquefrance.fr/sites/default/files/rdd/document/bullnat_vih_ist_20251023_final.pdf) (même source ; vérification du 16 septembre 2026), preuve que la résurgence amorcée dans les années 2000 ne s'est jamais vraiment arrêtée.
 
 ### 20.2 Pourquoi le diagnostic surprend autant
 

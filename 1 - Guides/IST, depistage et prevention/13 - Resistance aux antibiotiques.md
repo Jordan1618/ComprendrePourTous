@@ -4,7 +4,7 @@ chapitre: "13"
 titre: "Résistance aux antibiotiques : l'urgence silencieuse des IST bactériennes"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-09-16
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -12,7 +12,7 @@ licence: "CC BY 4.0"
 
 ### 13.1 La gonorrhée qui résiste : une course contre la montre documentée
 
-La chlamydia et la gonorrhée sont présentées, dans ce guide, comme des IST bactériennes qui se soignent simplement par antibiotiques. C'est vrai aujourd'hui, mais la marge de sécurité se réduit d'année en année pour la gonorrhée, et c'est un fait documenté à l'échelle mondiale, pas une inquiétude théorique. [Entre 2022 et 2024, la résistance de la bactérie responsable de la gonorrhée à la ceftriaxone et au céfixime, les deux antibiotiques de première intention, est passée respectivement de 0,8 % à 5 % et de 1,7 % à 11 %, avec des souches résistantes détectées dans un nombre croissant de pays, tandis que la résistance à la ciprofloxacine, un antibiotique plus ancien, atteint déjà 95 %](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea) (Organisation mondiale de la santé, Programme renforcé de surveillance antimicrobienne du gonocoque, 2025 ; vérification du 16 septembre 2026).
+La chlamydia et la gonorrhée sont présentées, dans ce guide, comme des IST bactériennes qui se soignent simplement par antibiotiques. C'est vrai aujourd'hui, mais la marge de sécurité se réduit d'année en année pour la gonorrhée, et c'est un fait documenté à l'échelle mondiale, pas une inquiétude théorique. [Entre 2022 et 2024, la résistance de la bactérie responsable de la gonorrhée à la ceftriaxone est passée de 0,8 % à 5 %, et celle au céfixime de 1,7 % à 11 %](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea) (Organisation mondiale de la santé, Programme renforcé de surveillance antimicrobienne du gonocoque, 2025 ; vérification du 16 septembre 2026) — soit une résistance au céfixime multipliée par plus de six en deux ans seulement, sur ces deux antibiotiques de première intention. [Des souches résistantes ont par ailleurs été détectées dans un nombre croissant de pays, tandis que la résistance à la ciprofloxacine, un antibiotique plus ancien, atteint déjà 95 %](https://www.managedhealthcareexecutive.com/view/who-warns-of-global-rise-in-drug-resistant-gonorrhea) (même source, 2025 ; vérification du 16 septembre 2026) — un antibiotique désormais inefficace dans dix-neuf cas sur vingt.
 
 **Analogie utile.** C'est le même mécanisme qu'un mot de passe réutilisé sur trop de comptes : plus un antibiotique est employé largement et longtemps, plus il devient probable qu'une variante de la bactérie apprenne à le contourner, jusqu'à ce que la clé ne fonctionne plus du tout pour personne.
 
