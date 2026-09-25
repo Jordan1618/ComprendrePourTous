@@ -7,7 +7,7 @@ mots: 25233
 verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Reseaux sociaux"
-genere_le: 2026-09-24
+genere_le: 2026-09-25
 ---
 
 # Réseaux sociaux

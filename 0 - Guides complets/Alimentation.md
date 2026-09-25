@@ -7,7 +7,7 @@ mots: 26404
 verifie_le: 2026-09-24
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Alimentation"
-genere_le: 2026-09-24
+genere_le: 2026-09-25
 ---
 
 # Alimentation

@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Le sommeil"
-mis_a_jour_le: 2026-09-22
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -107,6 +107,7 @@ Sources du guide [Le sommeil](<../1 - Guides/Le sommeil/README.md>), citées dir
 | [Sleep and psychiatric disorders: Bidirectional interactions and therapeutic implications](https://journals.plos.org/mentalhealth/article/file?id=10.1371%2Fjournal.pmen.0000531&type=printable), *PLOS Mental Health* | Mécanismes, paradoxe de la privation aiguë | 7.1 |
 | [Sleep disturbance in PTSD and other anxiety-related disorders](https://pmc.ncbi.nlm.nih.gov/articles/PMC6879567/), *PMC* | Prévalence des troubles du sommeil dans l'ESPT, cauchemars, hypervigilance, effet de la TCC-I | 7.2 |
 | [Sleep in Young Children With Autism, ADHD and Combined Presentations](https://onlinelibrary.wiley.com/doi/10.1002/aur.70326), *Autism Research* | Prévalence des troubles du sommeil dans l'autisme et le TDAH | 7.3 |
+| [From restless nights to peaceful sleep: mothers' lived experiences...](https://pmc.ncbi.nlm.nih.gov/articles/PMC13289421/), *PMC / BMC Psychology* | Témoignages réels de mères d'enfants autistes | 7.3 |
 
 ## Chapitre 8 — Métiers à risque : soignants, travail posté, épigénétique
 

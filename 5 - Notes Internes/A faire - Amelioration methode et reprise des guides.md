@@ -232,8 +232,20 @@ Les 17 chapitres en réécriture et les 9 chirurgies ont tous été repris. Cont
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : Le sommeil (7 réécriture + 9 chirurgie)
+## Le sommeil — TERMINÉ (25/09/2026)
+
+Les 7 chapitres en réécriture (1, 5, 7, 10, 12, 15, 16) et les 9 chirurgies (2, 3, 4, 6, 8, 9, 11, 13, 14) ont tous été repris. Le défaut dominant relevé par l'audit — 85,6 % de liens collés, zéro analogie sur les 16 chapitres, zéro bloc ⚖️/👁️/💑 malgré des candidats déjà présents dans le texte brut — a été traité chapitre par chapitre avec une analogie filée propre à chacun (équipe de nuit dans une usine pour le ch.1, plusieurs horloges dans une maison pour le ch.2, quatre alarmes distinctes pour le ch.3, thermostat reprogrammé à chaque âge pour le ch.4, boîte à outils pour le ch.5, tableau de bord de voiture pour le ch.6, pont à deux voies pour le ch.7, chaîne de production pour le ch.8, contrat de sommeil renégocié pour le ch.9, carte routière pour le ch.10, facture invisible pour le ch.11, miroir de fête foraine pour le ch.12, compte joint pour le ch.13, territoire à défendre pour le ch.14, mélodie transmise de culture en culture pour le ch.15, piste d'atterrissage pour le ch.16).
+
+- Total du guide : 17 900 → 24 820 mots (16 chapitres, tous au-dessus de 1 150 mots).
+- Blocs ajoutés là où l'audit notait leur absence malgré un sujet pertinent : 👁️ (ch.2 cancer du sein/travail posté, ch.3 sous-diagnostic féminin de l'apnée, ch.8 métier féminisé et dépression, ch.13 écart 86 %/6-7 % des réveils nocturnes), 💑 (ch.4 grossesse, ch.13 charge nocturne), 🗣️ (ch.7, témoignage réel de mères d'enfants autistes trouvé via recherche web et ajouté à `4 - Sources/Le sommeil.md`, en plus du témoignage déjà présent au ch.14).
+- Second tour de recherche mené sur le chapitre 7 (sommeil et santé mentale) pour trouver un témoignage vérifiable sur l'autisme et le sommeil, absent de la première version.
+- Pipeline complet exécuté (24 836 mots comptés par le script de build, écart mineur accepté avec le compte manuel), aucun lien cassé spécifique à ce guide, README du guide et README racine mis à jour, réciprocité vérifiée avec `4 - Sources/Le sommeil.md`.
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : Pour Nous (4 réécriture + 21 chirurgie)
 
 ## Comment reprendre
 
-Étapes 0 à 5 (premier guide) faites. Continuer l'étape 5 guide par guide dans l'ordre du tableau maître : Alimentation ensuite, puis Le sommeil, Pour Nous, La rencontre, puis les dix guides en chirurgie pure. Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 (premier guide) faites. Continuer l'étape 5 guide par guide dans l'ordre du tableau maître : Pour Nous ensuite, puis La rencontre, puis les dix guides en chirurgie pure. Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

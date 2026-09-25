@@ -3,9 +3,9 @@ projet: "Comprendre pour tous"
 type: "collection"
 guides: 15
 chapitres: 313
-mots: 419132
+mots: 426052
 cree_le: 2026-07-21
-mis_a_jour_le: 2026-09-16
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 auteur: "Jordan1618"
 depot: "https://github.com/Jordan1618/ComprendrePourTous"

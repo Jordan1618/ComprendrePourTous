@@ -3,8 +3,8 @@ type: "guide"
 guide: "Le sommeil"
 sujet: "commun"
 chapitres: 16
-mots: 17900
-verifie_le: 2026-09-22
+mots: 24820
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -22,21 +22,21 @@ Pour ce qui touche spécifiquement à la charge mentale nocturne en couple ou en
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Ce que le sommeil fait vraiment](<01 - Ce que le sommeil fait vraiment.md>) | Neurologique, hormonal, médical, évolutionniste | 1 543 |
-| 2 | [L'horloge interne](<02 - L horloge interne.md>) | Chronobiologique, génétique | 1 312 |
-| 3 | [Les troubles les plus fréquents](<03 - Les troubles les plus frequents.md>) | Médical | 1 096 |
-| 4 | [Le sommeil à chaque âge](<04 - Le sommeil a chaque age.md>) | Neurodéveloppemental, différentiel, reproductif | 1 782 |
-| 5 | [Ce qui aide vraiment](<05 - Ce qui aide vraiment.md>) | Pharmacologique, préventif | 1 030 |
-| 6 | [Sommeil et corps](<06 - Sommeil et corps.md>) | Épidémiologique, statistique | 1 103 |
-| 7 | [Sommeil et santé mentale](<07 - Sommeil et sante mentale.md>) | Psychologique, différentiel | 1 139 |
-| 8 | [Métiers à risque](<08 - Metiers a risque.md>) | Sociotechnique, épigénétique | 871 |
-| 9 | [Une histoire longue du sommeil](<09 - Une histoire longue du sommeil.md>) | Historique | 1 036 |
-| 10 | [Le sommeil ailleurs](<10 - Le sommeil ailleurs.md>) | Culturel/comparatif, anthropologique | 878 |
-| 11 | [Ce que le manque de sommeil coûte](<11 - Ce que le manque de sommeil coute.md>) | Économique, juridique | 1 016 |
-| 12 | [L'industrie du sommeil](<12 - L industrie du sommeil.md>) | Consumériste, technologique | 972 |
-| 13 | [Le sommeil en couple et en famille](<13 - Le sommeil en couple et en famille.md>) | Relationnel, systémique-familial | 1 230 |
-| 14 | [Sommeil, précarité et contrôle coercitif](<14 - Sommeil precarite et controle coercitif.md>) | Sécuritaire, criminologique | 981 |
-| 15 | [Le sommeil dans l'art et la culture](<15 - Le sommeil dans l art et la culture.md>) | Artistique, cinématographique, mythologique, musical | 904 |
-| 16 | [Rituels, sport et alimentation](<16 - Rituels sport et alimentation.md>) | Sportif/performance, nutritionnel | 1 007 |
+| 1 | [Ce que le sommeil fait vraiment](<01 - Ce que le sommeil fait vraiment.md>) | Neurologique, hormonal, médical, évolutionniste | 2 121 |
+| 2 | [L'horloge interne](<02 - L horloge interne.md>) | Chronobiologique, génétique | 1 847 |
+| 3 | [Les troubles les plus fréquents](<03 - Les troubles les plus frequents.md>) | Médical | 1 810 |
+| 4 | [Le sommeil à chaque âge](<04 - Le sommeil a chaque age.md>) | Neurodéveloppemental, différentiel, reproductif | 2 183 |
+| 5 | [Ce qui aide vraiment](<05 - Ce qui aide vraiment.md>) | Pharmacologique, préventif | 1 585 |
+| 6 | [Sommeil et corps](<06 - Sommeil et corps.md>) | Épidémiologique, statistique | 1 279 |
+| 7 | [Sommeil et santé mentale](<07 - Sommeil et sante mentale.md>) | Psychologique, différentiel | 1 818 |
+| 8 | [Métiers à risque](<08 - Metiers a risque.md>) | Sociotechnique, épigénétique | 1 166 |
+| 9 | [Une histoire longue du sommeil](<09 - Une histoire longue du sommeil.md>) | Historique | 1 292 |
+| 10 | [Le sommeil ailleurs](<10 - Le sommeil ailleurs.md>) | Culturel/comparatif, anthropologique | 1 337 |
+| 11 | [Ce que le manque de sommeil coûte](<11 - Ce que le manque de sommeil coute.md>) | Économique, juridique | 1 307 |
+| 12 | [L'industrie du sommeil](<12 - L industrie du sommeil.md>) | Consumériste, technologique | 1 423 |
+| 13 | [Le sommeil en couple et en famille](<13 - Le sommeil en couple et en famille.md>) | Relationnel, systémique-familial | 1 718 |
+| 14 | [Sommeil, précarité et contrôle coercitif](<14 - Sommeil precarite et controle coercitif.md>) | Sécuritaire, criminologique | 1 158 |
+| 15 | [Le sommeil dans l'art et la culture](<15 - Le sommeil dans l art et la culture.md>) | Artistique, cinématographique, mythologique, musical | 1 288 |
+| 16 | [Rituels, sport et alimentation](<16 - Rituels sport et alimentation.md>) | Sportif/performance, nutritionnel | 1 488 |
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).
