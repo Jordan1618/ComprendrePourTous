@@ -38,7 +38,7 @@ Trois formes fréquentes, décrites par leur mécanisme.
 
 ### 5.4 Ce qui distingue une explication d'une excuse
 
-Point important, parce que ces notions circulent beaucoup et servent souvent mal.
+⚖️ **Nuance.** Point important, parce que ces notions circulent beaucoup et servent souvent mal.
 
 Comprendre d'où vient un fonctionnement **explique** un comportement. Cela ne le rend ni acceptable ni inévitable. « Je suis comme ça à cause de mon enfance » est vrai et ne règle rien : la personne en face subit le comportement, pas son origine.
 
@@ -49,6 +49,8 @@ La différence entre une explication et une excuse tient en une chose : l'explic
 Les schémas se déplacent. La littérature parle de **sécurité acquise** : des personnes ayant eu un attachement insécure dans l'enfance et présentant à l'âge adulte un fonctionnement sécure. Deux voies principales sont décrites : une relation durable avec un partenaire sécure, et un travail thérapeutique.
 
 Le mécanisme est simple à énoncer : une grille de lecture se modifie par **accumulation d'expériences contraires**. Chaque fois qu'une inquiétude est exprimée et accueillie sans drame, une petite contradiction s'ajoute au modèle. Il en faut beaucoup, sur longtemps, mais l'effet est réel. [Le concept de sécurité acquise a été documenté chez des adultes présentant un attachement insécure dans l'enfance et un fonctionnement sécure validé à l'âge adulte](https://www.researchgate.net/publication/231843405_Earned-_and_Continuous-security_in_adult_attachment_Relation_to_depressive_symptomatology_and_parenting_style) (Pearson, Cohn, Cowan & Cowan, *Development and Psychopathology*, 1994 ; vérification du 7 août 2026).
+
+👁️ **Vu de l'autre côté.** Vivre à côté de quelqu'un dont le schéma se déclenche régulièrement a un coût rarement nommé, précisément parce que celui qui le porte se sent coupable de s'en plaindre d'un mécanisme « qui n'est pas de la faute de l'autre ». *Je savais que ce n'était pas contre moi, que ça venait de son histoire, mais au bout d'un moment, marcher sur des œufs pour ne pas réveiller une peur qui n'a rien à voir avec moi, ça use quand même.* Ce vécu n'annule pas la légitimité du schéma décrit plus haut ; il rappelle simplement que le travail sur la grille de lecture, en 5.5, profite aux deux personnes du couple, pas seulement à celle qui porte le schéma.
 
 💑 **Dans le couple**
 
@@ -62,3 +64,11 @@ La formulation qui fonctionne : **« quand tu mets du temps à répondre, il y a
 - Utilisez le levier du quand plutôt que du pourquoi : **« ça a commencé à quel moment exactement ? »** remonte une chronologie, alors que « pourquoi tu réagis comme ça » exige une justification que personne n'a sous la main.
 - Cherchez la sécurité acquise plutôt que le partenaire parfait : ce qui vous déplacera, ce n'est pas quelqu'un qui n'active jamais votre schéma, c'est quelqu'un avec qui l'activation peut se dire et se calmer.
 - Si vous reconnaissez une répétition sur trois relations ou plus, la thérapie est ici l'outil le plus efficace — pas parce qu'il y aurait un problème, mais parce que ces grilles sont, par définition, invisibles de l'intérieur. Voir [Pour Nous](<../Pour Nous/README.md>).
+
+## Sources vérifiables
+
+- Bowlby, J. (1969), [*Attachment and Loss, vol. 1*](https://www.abebooks.com/Attachment-Loss-Vol-1-John-Bowlby/31446358848/bd), Basic Books — origine du concept de modèle interne opérant ; vérification du 7 août 2026.
+- Bretherton, I. (1992), [The Origins of Attachment Theory: John Bowlby and Mary Ainsworth](http://www.psychology.sunysb.edu/attachment/online/inge_origins.pdf), *Developmental Psychology* — histoire et validation du concept ; vérification du 7 août 2026.
+- van IJzendoorn, M. H. (1995), [Adult Attachment Representations, Parental Responsiveness, and Infant Attachment: A Meta-Analysis](https://pubmed.ncbi.nlm.nih.gov/7777645/), *Psychological Bulletin* — transmission intergénérationnelle de l'attachement ; vérification du 7 août 2026.
+- Johnson, S. (2004), [*The Practice of Emotionally Focused Couple Therapy*](https://www.routledge.com/The-Practice-of-Emotionally-Focused-Couple-Therapy-Creating-Connection/Johnson/p/book/9780815348016), Routledge — distinction entre expliquer et excuser un schéma relationnel ; vérification du 7 août 2026.
+- Pearson, J., Cohn, D., Cowan, P. & Cowan, C. (1994), [Earned- and continuous-security in adult attachment](https://www.researchgate.net/publication/231843405_Earned-_and_Continuous-security_in_adult_attachment_Relation_to_depressive_symptomatology_and_parenting_style), *Development and Psychopathology* — concept de sécurité acquise ; vérification du 7 août 2026.

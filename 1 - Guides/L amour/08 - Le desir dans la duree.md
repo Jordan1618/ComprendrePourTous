@@ -26,6 +26,10 @@ Les deux sont normaux. Le désir réactif est simplement moins représenté dans
 
 L'erreur pratique qui en découle est fréquente : attendre d'avoir envie pour initier. Si votre désir est réactif, cette attente peut durer indéfiniment, parce que le déclencheur n'est pas censé venir en premier. Cette notion a sa propre page dans le projet : [Désir spontané et désir réactif](<../../2 - Notions/Désir spontané et désir réactif.md>). [La distinction entre désir spontané et désir réactif a été proposée par Rosemary Basson à partir de l'observation clinique de la réponse sexuelle féminine](https://www.tandfonline.com/doi/abs/10.1080/009262300278641) (Basson, *Journal of Sex & Marital Therapy*, 2000 ; vérification du 7 août 2026).
 
+⚖️ **Nuance.** Le désir réactif n'est ni un désir de seconde catégorie ni un signe d'amour moindre, une confusion qui pèse lourd dans beaucoup de couples. Ce n'est pas non plus une caractéristique strictement féminine : des hommes rapportent aussi un fonctionnement majoritairement réactif, moins souvent nommé parce que le script culturel dominant attend d'un homme un désir toujours spontané et disponible. Le seul critère qui compte n'est jamais lequel des deux fonctionnements est « normal », c'est de savoir lequel est réellement à l'œuvre dans un couple donné, pour arrêter d'attendre un déclenchement qui ne viendra jamais dans l'ordre imaginé.
+
+👁️ **Vu de l'autre côté.** Le partenaire qui vit à côté d'un désir réactif interprète souvent, à tort, l'absence d'envie spontanée comme un rejet personnel. *Je me disais que si elle m'aimait vraiment, elle aurait envie sans que j'aie besoin de créer les conditions à chaque fois, comme si demander un cadre était la preuve que quelque chose n'allait plus entre nous.* Ce malentendu se résorbe rarement de lui-même : c'est en général la personne au désir réactif qui doit nommer explicitement son propre fonctionnement, faute de quoi le silence se lit comme un désintérêt qu'il n'est pas.
+
 ### 8.3 Ce qui enfonce le frein, concrètement
 
 La liste est banale, et c'est précisément ce qui la rend importante — on cherche souvent des explications profondes à des causes triviales.
@@ -62,3 +66,9 @@ La formulation qui désamorce, à froid et hors de la chambre : **« je crois qu
 - Rétablissez le contact physique non sexuel, explicitement sans suite. Le dire à voix haute lève le malentendu qui a fait disparaître le contact.
 - Ne cherchez pas la cause dans la relation avant d'avoir éliminé les causes triviales : sommeil, charge, traitement médicamenteux (les antidépresseurs sérotoninergiques et certaines contraceptions ont un effet documenté sur la libido).
 - Si l'écart persiste et fait souffrir, un sexologue est ici l'outil adapté, et c'est un motif de consultation extrêmement banal — pas un aveu d'échec.
+
+## Sources vérifiables
+
+- Bancroft, J. & Janssen, E. (2000), [The dual control model of male sexual response](https://www.sciencedirect.com/science/article/abs/pii/S0149763400000245), *Neuroscience & Biobehavioral Reviews* — modèle du double contrôle accélérateur/frein ; vérification du 7 août 2026.
+- Basson, R. (2000), [The Female Sexual Response: A Different Model](https://www.tandfonline.com/doi/abs/10.1080/009262300278641), *Journal of Sex & Marital Therapy* — distinction entre désir spontané et désir réactif ; vérification du 7 août 2026.
+- Aron, A., Norman, C., Aron, E., McKenna, C. & Heyman, R. (2000), [Couples' shared participation in novel and arousing activities](https://pubmed.ncbi.nlm.nih.gov/10707334/), *Journal of Personality and Social Psychology* — effet de la nouveauté partagée sur la qualité relationnelle ; vérification du 7 août 2026.

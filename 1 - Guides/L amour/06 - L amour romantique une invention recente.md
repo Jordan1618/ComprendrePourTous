@@ -26,7 +26,7 @@ Tant que le mariage repose sur l'économie et l'alliance, il est **solide** : le
 
 Dès lors qu'il repose sur l'amour, il devient **beaucoup plus désirable et beaucoup plus fragile**. Si la raison d'être ensemble est un sentiment, la disparition du sentiment dissout la raison. Coontz formule le paradoxe ainsi : les conditions qui ont rendu le mariage plus satisfaisant que jamais l'ont, dans le même mouvement, rendu plus optionnel et plus instable.
 
-Ce n'est donc pas que « les gens ne savent plus s'engager ». C'est que le critère de l'engagement a changé, et que ce critère est par nature variable. [Stephanie Coontz a montré que le passage à un mariage fondé sur l'amour l'a rendu à la fois plus désirable et plus instable](https://www.powells.com/book/marriage-a-history-how-love-conquered-marriage-9780143036678), la disparition du sentiment dissolvant désormais sa raison d'être (Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
+⚖️ **Nuance.** Ce n'est donc pas que « les gens ne savent plus s'engager », une lecture moralisatrice très répandue mais fausse. C'est que le critère de l'engagement a changé, et que ce critère est par nature variable. Confondre l'instabilité structurelle d'un mariage fondé sur le sentiment avec un défaut de caractère collectif revient à blâmer des individus pour un basculement historique qui les dépasse largement. [Stephanie Coontz a montré que le passage à un mariage fondé sur l'amour l'a rendu à la fois plus désirable et plus instable](https://www.powells.com/book/marriage-a-history-how-love-conquered-marriage-9780143036678), la disparition du sentiment dissolvant désormais sa raison d'être (Coontz, *Marriage, a History*, Viking, 2005 ; vérification du 7 août 2026).
 
 ### 6.3 L'attente devenue démesurée
 
@@ -50,9 +50,18 @@ Quatre scripts, tellement répétés qu'ils passent pour des évidences.
 
 **La fin sur le baiser.** Les récits s'arrêtent au moment où la relation commence, ce qui laisse sans aucun modèle culturel pour la partie qui dure. On apprend à tomber amoureux, jamais à rester. [Croire à une âme sœur prédestinée plutôt qu'à une relation qui se construit est associé à une moins bonne résilience du couple face aux difficultés](https://www.researchgate.net/publication/232518767_Implicit_Theories_of_Relationships_Assessment_and_Prediction_of_Romantic_Relationship_Initiation_Coping_and_Longevity) (Knee, *Journal of Personality and Social Psychology*, 1998 ; vérification du 7 août 2026).
 
+💑 **Dans le couple.** Le script de « l'âme sœur unique » se glisse souvent dans une dispute sans que personne ne le nomme : au premier vrai désaccord, l'un des deux se demande en silence si ce désaccord prouve qu'il s'est trompé de personne. Nommer explicitement ce réflexe (« je crois que je viens de me demander si t'aimer était une erreur, juste parce qu'on n'est pas d'accord sur un sujet ») désamorce souvent plus vite qu'une longue justification sur le fond du désaccord lui-même.
+
 **Bons réflexes**
 
 - Remplacez « est-ce que c'est la bonne personne ? » par **« est-ce qu'on construit quelque chose de viable, tous les deux ? »**. La première question attend un verdict, la seconde décrit un travail.
 - Vérifiez si votre insatisfaction porte sur la relation ou sur l'écart entre la relation et un script. Ce sont deux problèmes différents et seul le premier se traite à deux.
 - Répartissez les attentes. Un couple ne peut pas remplacer des amitiés, une famille, un thérapeute et un projet personnel. Les couples qui durent ont presque tous des ressources en dehors.
 - Utilisez le levier du menu fermé pour clarifier les attentes réciproques : **« pour toi, sur un an, l'essentiel c'est plutôt qu'on soit tranquilles, ou plutôt qu'on avance sur des projets ? »**
+
+## Sources vérifiables
+
+- Jankowiak, W. & Fischer, E. (1992), [A Cross-Cultural Perspective on Romantic Love](https://oasis.library.unlv.edu/anthro_fac_articles/8/), *Ethnology* — universalité du sentiment amoureux ; vérification du 7 août 2026.
+- Coontz, S. (2005), [*Marriage, a History: How Love Conquered Marriage*](https://www.powells.com/book/marriage-a-history-how-love-conquered-marriage-9780143036678), Viking — basculement historique vers le mariage d'amour ; vérification du 7 août 2026.
+- Finkel, E. J. (2017), [*The All-or-Nothing Marriage*](https://www.penguinrandomhouse.com/books/318510/the-all-or-nothing-marriage-by-eli-j-finkel/), Dutton — attentes croissantes envers le mariage contemporain ; vérification du 6 août 2026.
+- Knee, C. R. (1998), [Implicit Theories of Relationships: Assessment and Prediction of Romantic Relationship Initiation, Coping, and Longevity](https://www.researchgate.net/publication/232518767_Implicit_Theories_of_Relationships_Assessment_and_Prediction_of_Romantic_Relationship_Initiation_Coping_and_Longevity), *Journal of Personality and Social Psychology* — théories implicites de la relation et résilience du couple ; vérification du 7 août 2026.

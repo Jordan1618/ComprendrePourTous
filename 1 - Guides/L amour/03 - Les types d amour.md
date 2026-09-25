@@ -74,7 +74,9 @@ Les trois styles composites : **mania** (éros + ludus : possessif, jaloux, en m
 
 Ce que les données montrent, avec prudence sur l'ampleur des effets : les styles éros et agapè sont associés à une plus grande satisfaction relationnelle, tandis que ludus l'est négativement — ce qui est logique, ludus consistant précisément à ne pas s'engager. Mania est associée à davantage de détresse.
 
-L'usage juste de cette grille est le même que pour les mots grecs : **repérer un écart de style entre deux personnes**. Un pragma qui rencontre un éros ne vivra pas la même relation, et les deux risquent de mal interpréter l'autre — l'un trouvera l'autre froid et calculateur, l'autre le trouvera instable et irréaliste. Ce n'est pas un défaut d'amour, c'est une différence de style. [Ces six styles ont été mesurés au moyen d'une échelle validée empiriquement](https://psycnet.apa.org/doi/10.1037/0022-3514.50.2.392) (Hendrick & Hendrick, *Journal of Personality and Social Psychology*, 1986 ; vérification du 7 août 2026).
+L'usage juste de cette grille est le même que pour les mots grecs : **repérer un écart de style entre deux personnes**. Un pragma qui rencontre un éros ne vivra pas la même relation, et les deux risquent de mal interpréter l'autre — l'un trouvera l'autre froid et calculateur, l'autre le trouvera instable et irréaliste. Ce n'est pas un défaut d'amour, c'est une différence de style.
+
+👁️ **Vu de l'autre côté.** Ce malentendu entre pragma et éros se vit rarement comme un simple désaccord théorique. *J'avais l'impression qu'il calculait tout, la compatibilité, les critères, comme s'il choisissait une voiture plutôt que de tomber amoureux*, dira volontiers un profil éros face à un partenaire pragma. En miroir, le partenaire pragma vit l'intensité de l'autre comme une instabilité inquiétante : *elle changeait d'humeur toutes les semaines, je ne savais jamais sur quel pied danser, et j'appelais ça de la passion parce que c'est ce qu'on m'avait appris à admirer.* Aucun des deux styles n'est objectivement supérieur ; c'est l'absence de vocabulaire pour nommer l'écart qui transforme une différence en jugement de valeur. [Ces six styles ont été mesurés au moyen d'une échelle validée empiriquement](https://psycnet.apa.org/doi/10.1037/0022-3514.50.2.392) (Hendrick & Hendrick, *Journal of Personality and Social Psychology*, 1986 ; vérification du 7 août 2026).
 
 💑 **Dans le couple**
 
@@ -92,6 +94,14 @@ La conversation qui déplace vraiment quelque chose, à froid, tient en deux tem
 
 ### 3.6 Ce que ce chapitre ne prétend pas
 
-Il ne dit pas qu'il existerait un classement des amours, du plus bas au plus noble. Cette hiérarchie est une lecture tardive, souvent utilisée pour dévaloriser le désir, et elle ne résiste pas à l'examen : une relation sans éros ne tient pas mieux qu'une relation sans philia.
+⚖️ **Nuance.** Il ne dit pas qu'il existerait un classement des amours, du plus bas au plus noble. Cette hiérarchie est une lecture tardive, souvent utilisée pour dévaloriser le désir, et elle ne résiste pas à l'examen : une relation sans éros ne tient pas mieux qu'une relation sans philia.
 
 Il ne dit pas non plus que ces catégories seraient des faits de nature. Ce sont des **outils de langage**. Leur seule vertu est de rendre discutable ce qui, faute de mots, restait un bloc indistinct sur lequel on ne pouvait que trancher par oui ou par non. [Cette réserve méthodologique rejoint la mise en garde des chercheurs en lexicologie comparée contre une hiérarchisation implicite des formes d'amour selon les cultures](https://onlinelibrary.wiley.com/doi/10.1111/jtsb.12158) (Lomas, *Journal for the Theory of Social Behaviour*, 2018 ; vérification du 7 août 2026).
+
+## Sources vérifiables
+
+- Lomas, T. (2018), [The Flavours of Love: A Cross-Cultural Lexical Analysis](https://onlinelibrary.wiley.com/doi/10.1111/jtsb.12158), *Journal for the Theory of Social Behaviour* — diversité lexicale de l'amour selon les langues ; vérification du 7 août 2026.
+- Platon, [*Le Banquet*](https://fr.wikisource.org/wiki/Le_Banquet_(trad._Cousin)) — origine du mythe d'Éros et de l'échelle du beau ; vérification du 7 août 2026.
+- Aristote, [*Éthique à Nicomaque*, livres VIII et IX](https://fr.wikisource.org/wiki/Morale_%C3%A0_Nicomaque/Texte_entier) — les trois formes de philia ; vérification du 7 août 2026.
+- Fromm, E. (1956), [*The Art of Loving*](https://en.wikipedia.org/wiki/The_Art_of_Loving), Harper & Row — l'amour comme capacité à développer ; vérification du 7 août 2026.
+- Hendrick, C. & Hendrick, S. (1986), [A theory and method of love](https://psycnet.apa.org/doi/10.1037/0022-3514.50.2.392), *Journal of Personality and Social Psychology* — validation empirique des six styles amoureux ; vérification du 7 août 2026.

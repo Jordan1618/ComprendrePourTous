@@ -38,7 +38,9 @@ Trois précautions, sans lesquelles ce type de raisonnement devient de la mauvai
 
 **Ce qui est n'est pas ce qui doit être.** C'est le point le plus important. Le fait qu'un mécanisme ait été sélectionné ne le rend ni bon, ni souhaitable, ni obligatoire. L'infidélité, la jalousie et la violence ont aussi des explications évolutionnistes plausibles : cela ne les justifie en rien. Confondre l'explication et la justification est une erreur logique, et elle est massivement exploitée dans les discours en ligne sur les rapports entre hommes et femmes.
 
-**Les différences entre groupes sont plus faibles que les différences entre individus.** Les écarts moyens documentés entre hommes et femmes en matière de préférences sont réels mais modestes, et complètement écrasés par la variation d'un individu à l'autre. Toute affirmation du type « les hommes sont ainsi, les femmes sont ainsi » déforme les données dont elle se réclame. [Confondre une explication d'origine et une justification morale correspond à ce que la philosophie appelle le sophisme naturaliste](https://www.gutenberg.org/ebooks/53430) (Moore, *Principia Ethica*, Cambridge University Press, 1903 ; vérification du 7 août 2026).
+**Les différences entre groupes sont plus faibles que les différences entre individus.** Les écarts moyens documentés entre hommes et femmes en matière de préférences sont réels mais modestes, et complètement écrasés par la variation d'un individu à l'autre. Toute affirmation du type « les hommes sont ainsi, les femmes sont ainsi » déforme les données dont elle se réclame.
+
+⚖️ **Nuance.** [Confondre une explication d'origine et une justification morale correspond à ce que la philosophie appelle le sophisme naturaliste](https://www.gutenberg.org/ebooks/53430) (Moore, *Principia Ethica*, Cambridge University Press, 1903 ; vérification du 7 août 2026) : « c'est naturel » n'est ni un synonyme de « c'est bon » ni de « c'est obligatoire ». Ce sophisme n'est pas une subtilité académique réservée aux philosophes : c'est l'argument le plus fréquemment mobilisé, en ligne comme en conversation, pour justifier l'infidélité, la jalousie possessive ou des rôles de genre rigides au nom d'une « nature humaine » présentée comme indiscutable. Repérer ce glissement, de la description à la prescription, désarme l'essentiel de ce type d'argumentation sans même avoir besoin de contester les faits évolutionnistes sur lesquels elle prétend s'appuyer.
 
 ### 4.4 Ce que ça change concrètement
 
@@ -48,8 +50,18 @@ Peu de choses sur le plan pratique, et c'est honnête de le dire. Cet angle n'in
 
 **Il replace la monogamie exclusive à vie comme une option culturelle**, pas comme un fait de nature. Les données comparatives montrent une majorité de sociétés humaines historiquement organisées autour de formes variables, avec cependant le couple comme unité de coopération dominante presque partout. Cela n'invalide pas le choix de la fidélité — cela indique simplement que c'est un **choix**, qui se décide et se discute à deux, plutôt qu'une évidence biologique. [La présence de l'amour romantique dans la quasi-totalité des sociétés étudiées invite à distinguer le sentiment, ancien et partagé, de ses formes institutionnelles, récentes et variables](https://oasis.library.unlv.edu/anthro_fac_articles/8/) (Jankowiak & Fischer, *Ethnology*, 1992 ; vérification du 7 août 2026).
 
+💑 **Dans le couple.** La question de l'exclusivité illustre bien ce que ce chapitre déplace : elle n'a pas de réponse biologique toute faite à découvrir, elle a une réponse à construire à deux. Deux couples peuvent choisir des règles opposées, l'un une exclusivité stricte, l'autre un accord plus ouvert, sans que l'un soit plus « naturel » que l'autre : les deux options se rencontrent dans l'histoire humaine, et ce qui distingue un couple qui tient d'un couple qui se déchire n'est presque jamais la règle choisie, c'est qu'elle ait été énoncée clairement plutôt que supposée.
+
+La colle de ce chapitre a une limite qu'il faut nommer : contrairement à une vraie colle, elle n'immobilise jamais rien de force. Elle prédispose, elle ne détermine pas, ce qui laisse toujours à deux adultes la responsabilité de décider ensemble ce qu'ils font de cette prédisposition.
+
 **Bons réflexes**
 
 - Méfiez-vous de tout discours qui utilise « la nature » pour vous dire ce que vous devez accepter dans une relation. C'est la marque d'un raisonnement qui confond explication et justification.
 - Utilisez cet angle pour vous rassurer sur les mécanismes, pas pour prédire les personnes. Il explique des tendances de population, il ne dit rien sur quelqu'un en particulier.
 - Si la question de l'exclusivité se pose dans votre couple, traitez-la comme une négociation explicite plutôt que comme une évidence. Ce qui protège un couple n'est pas la règle choisie, c'est le fait qu'elle soit **explicite et partagée**.
+
+## Sources vérifiables
+
+- Fisher, H., Aron, A. & Brown, L. L. (2005), [Romantic love: an fMRI study of a neural mechanism for mate choice](https://pubmed.ncbi.nlm.nih.gov/16255001/), *Journal of Comparative Neurology* — cadre des trois systèmes cérébraux appliqué à l'hypothèse évolutionniste ; vérification du 7 août 2026.
+- Jankowiak, W. & Fischer, E. (1992), [A Cross-Cultural Perspective on Romantic Love](https://oasis.library.unlv.edu/anthro_fac_articles/8/), *Ethnology* — présence de l'amour romantique dans la quasi-totalité des sociétés étudiées ; vérification du 6 août 2026.
+- Moore, G. E. (1903), [*Principia Ethica*](https://www.gutenberg.org/ebooks/53430), Cambridge University Press — définition du sophisme naturaliste ; vérification du 7 août 2026.

@@ -52,9 +52,17 @@ Ce qui est solide : elle est libérée lors du contact physique, de l'orgasme, d
 
 Ce qui l'est beaucoup moins : l'idée qu'elle produirait de l'amour ou de la confiance en général. Les travaux plus récents montrent qu'elle **renforce la saillance du lien de groupe**, ce qui inclut aussi le favoritisme envers les proches et parfois la méfiance envers les autres. Ce n'est pas une molécule de la bienveillance universelle. C'est un amplificateur de ce qui est déjà là. [Une revue de synthèse souligne que les effets de l'ocytocine dépendent fortement du contexte et de la personne, et ne se résument pas à un effet universel de confiance](https://pubmed.ncbi.nlm.nih.gov/21696997/) (Bartz, Zaki, Bolger & Ochsner, *Trends in Cognitive Sciences*, 2011 ; vérification du 7 août 2026).
 
+⚖️ **Nuance.** Réduire l'amour à ses trois moteurs neurochimiques appelle deux malentendus opposés, tout aussi coûteux l'un que l'autre. Le premier consiste à dire « ce n'est que de la dopamine », comme si nommer le mécanisme suffisait à disqualifier le vécu : connaître le fonctionnement d'un moteur ne rend pas le trajet moins réel. Le second consiste à l'inverse à sacraliser l'expérience au point de refuser toute explication mécanique, comme si comprendre l'amour le rendait automatiquement moins précieux. Les trois systèmes de Fisher décrivent un mécanisme, pas une valeur : savoir comment un moteur tourne ne dit rien de la destination qu'on choisit d'atteindre avec.
+
 💑 **Dans le couple**
 
 La conséquence pratique est utile : l'ocytocine se libère par le **contact physique non sexuel** — un câlin prolongé, un contact maintenu. Dans les périodes où le désir baisse, maintenir ce contact-là entretient le système d'attachement même quand le système sexuel est en retrait. Les couples qui suppriment tout contact physique parce que « ça pourrait mener à autre chose qu'on ne veut pas » coupent involontairement les deux systèmes à la fois.
+
+### 1.6 Le véhicule a une limite qu'il faut nommer
+
+L'analogie des trois moteurs éclaire un point essentiel, mais elle en cache un autre. Un vrai véhicule a un tableau de bord : chaque moteur affiche sa jauge, sa température, son régime. Le corps humain n'offre rien de tel. Personne ne consulte, en temps réel, l'état de son système dopaminergique ou de son taux d'ocytocine ; on ne dispose que d'un ressenti global, souvent confus, qui mélange les trois signaux sans jamais les étiqueter proprement. C'est précisément ce qui rend le chapitre 3 nécessaire : faute de jauge directe, il faut apprendre à lire les symptômes indirects de chaque système pour deviner lequel est en jeu.
+
+Cette absence de tableau de bord a une autre conséquence, plus intime : deux personnes dans la même relation peuvent avoir des moteurs à des régimes très différents sans que ni l'une ni l'autre ne le sache clairement. L'un peut vivre une phase d'attirance intense pendant que l'autre est déjà passé en régime d'attachement stable, chacun interprétant le décalage à sa manière plutôt que comme une simple asynchronie de systèmes qui, la plupart du temps, finissent par se rejoindre.
 
 **Bons réflexes**
 
@@ -62,3 +70,10 @@ La conséquence pratique est utile : l'ocytocine se libère par le **contact phy
 - Utilisez le levier du différentiel pour en parler : **« qu'est-ce qui a changé entre il y a un an et maintenant, précisément ? »** est répondable, contrairement à « est-ce que tu m'aimes encore ».
 - Ne prenez pas la baisse d'intensité du début comme un verdict. Attendez de voir ce qui la remplace : si c'est du calme, le système d'attachement fait son travail ; si c'est du vide, c'est une autre question.
 - Méfiez-vous des explications qui réduisent l'amour à une molécule. « Ce n'est que de la dopamine » est aussi faux que « c'est magique ».
+
+## Sources vérifiables
+
+- Fisher, H., Aron, A. & Brown, L. L. (2005), [Romantic love: an fMRI study of a neural mechanism for mate choice](https://pubmed.ncbi.nlm.nih.gov/16255001/), *Journal of Comparative Neurology* — distinction des trois systèmes désir, attirance, attachement ; vérification du 7 août 2026.
+- Bartels, A. & Zeki, S. (2000), [The neural basis of romantic love](https://pubmed.ncbi.nlm.nih.gov/11117499/), *NeuroReport* — première étude d'imagerie sur l'amour romantique naissant ; vérification du 7 août 2026.
+- Schultz, W. (1998), [Predictive reward signal of dopamine neurons](https://journals.physiology.org/doi/full/10.1152/jn.1998.80.1.1), *Journal of Neurophysiology* — mécanisme de l'erreur de prédiction de récompense ; vérification du 7 août 2026.
+- Bartz, J. A., Zaki, J., Bolger, N. & Ochsner, K. N. (2011), [Social effects of oxytocin in humans: context and person matter](https://pubmed.ncbi.nlm.nih.gov/21696997/), *Trends in Cognitive Sciences* — effets contextuels de l'ocytocine ; vérification du 7 août 2026.

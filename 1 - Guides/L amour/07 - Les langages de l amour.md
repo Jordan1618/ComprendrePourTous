@@ -18,7 +18,7 @@ Le succès a été considérable, et il mérite d'être expliqué : le modèle e
 
 ### 7.2 Ce que la recherche en dit, honnêtement
 
-Il faut être clair : **la théorie des cinq langages n'a pas de validation scientifique solide**. C'est un modèle issu de la pratique clinique d'un praticien, pas de la recherche.
+⚖️ **Nuance.** Il faut être clair : **la théorie des cinq langages n'a pas de validation scientifique solide**. C'est un modèle issu de la pratique clinique d'un praticien, pas de la recherche.
 
 Les travaux qui l'ont testé aboutissent à des résultats mitigés. Les analyses des questionnaires ne retrouvent pas de façon nette cinq catégories distinctes, et surtout, l'hypothèse centrale — les couples qui « parlent le langage » de l'autre seraient plus satisfaits — n'est pas soutenue de façon convaincante. [Une revue publiée en 2024 dans *Current Directions in Psychological Science* par Impett, Park et Muise conclut que la métaphore des langages de l'amour n'est pas étayée par les données empiriques disponibles](https://journals.sagepub.com/doi/10.1177/09637214231217663) (Impett, Park & Muise, 2024 ; vérification du 6 août 2026).
 
@@ -55,3 +55,9 @@ Le mécanisme réel derrière le succès du modèle est probablement celui-ci : 
 - Réagissez franchement aux bonnes nouvelles. C'est le levier le plus rentable et le moins utilisé.
 - Traquez le mépris — le sarcasme, les yeux levés au ciel, le ton condescendant. C'est le comportement dont l'effet destructeur est le mieux établi.
 - Ne présentez pas un modèle de développement personnel comme une vérité scientifique, y compris à vous-même. Ce guide s'applique la règle à lui-même : le modèle des langages est utile et non validé, et les deux devaient être dits.
+
+## Sources vérifiables
+
+- Chapman, G. (1992), [*The Five Love Languages*](https://search.worldcat.org/title/The-five-love-languages/oclc/26939980), Northfield Publishing — origine du modèle des cinq langages ; vérification du 7 août 2026.
+- Impett, E., Park, L. & Muise, A. (2024), [Popular Psychology Through a Scientific Lens: Evaluating Love Languages](https://journals.sagepub.com/doi/10.1177/09637214231217663), *Current Directions in Psychological Science* — absence de validation empirique du modèle ; vérification du 6 août 2026.
+- Gottman, J. & Levenson, R. (1992), [Marital processes predictive of later dissolution](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf), *Journal of Personality and Social Psychology* — comportements destructeurs du couple ; vérification du 7 août 2026.

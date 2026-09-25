@@ -41,6 +41,8 @@ L'intérêt de ce modèle n'est pas théorique, il est diagnostique. Il permet d
 
 Un couple qui dit « ça ne va plus » gagne énormément à identifier **laquelle des trois** composantes s'est affaissée. Ce n'est presque jamais les trois.
 
+⚖️ **Nuance.** Le mot « passion » porte, dans le langage courant, une connotation presque exclusivement positive et intense, ce qui brouille sa définition technique. Dans le triangle de Sternberg, la passion n'est pas une qualité morale supérieure aux deux autres composantes, c'est une composante parmi trois, ni plus noble ni plus authentique que l'intimité ou l'engagement. Un couple qui a perdu sa passion n'a pas perdu « le vrai amour » : il a perdu une composante spécifique, mesurable, qui peut se retravailler ou coexister durablement sans être la plus intense des trois.
+
 ### 2.4 Ce qui remplace la flambée, quand ça se passe bien
 
 Trois choses s'installent quand le système d'attachement prend le relais, et elles sont peu spectaculaires — d'où le fait qu'on les remarque mal.
@@ -50,6 +52,8 @@ Trois choses s'installent quand le système d'attachement prend le relais, et el
 **La prévisibilité comme ressource.** Ce que le système dopaminergique perçoit comme ennuyeux, le système d'attachement le perçoit comme sécurisant. La même caractéristique — savoir ce que l'autre va faire — est un défaut pour un moteur et une qualité pour l'autre.
 
 **L'histoire commune.** Des références partagées, des épreuves traversées, une mémoire à deux. C'est ce qui rend une relation ancienne irremplaçable, et c'est précisément ce qu'aucune nouvelle relation ne peut fournir, même très intense. [La régulation mutuelle du stress par la présence d'un partenaire sécurisant est documentée dans la littérature sur l'attachement adulte](https://psycnet.apa.org/record/1987-21950-001) (Hazan & Shaver, *Journal of Personality and Social Psychology*, 1987 ; vérification du 7 août 2026).
+
+👁️ **Vu de l'autre côté.** Le passage de la flambée à la braise ne se vit pas au même rythme des deux côtés d'un couple, et c'est souvent là que naît l'inquiétude la plus silencieuse. Celui ou celle qui sent le premier ce ralentissement se retrouve rarement à en parler à voix haute, de peur de le provoquer en le nommant : *je sentais que ça changeait, mais j'avais peur qu'en le disant, je transforme une évolution normale en vrai problème.* De l'autre côté, le partenaire qui ne perçoit pas encore ce même ralentissement peut lire un silence soudain, une distance minime, comme le début d'un désamour, alors que rien n'a encore été dit ni décidé.
 
 💑 **Dans le couple**
 
@@ -63,3 +67,10 @@ La formulation utile, à froid : **« je pense qu'on est en train de passer de l
 - N'essayez pas de recréer artificiellement l'incertitude du début — jouer l'indisponibilité ou provoquer la jalousie relance effectivement le système dopaminergique, mais en abîmant le système d'attachement. C'est un échange perdant.
 - Ce qui entretient réellement la passion dans la durée est documenté : la **nouveauté partagée** (activités inhabituelles faites ensemble), et non la nouveauté de partenaire.
 - Si vous enchaînez des relations qui s'arrêtent toutes vers dix-huit mois, la question n'est pas de savoir si vous rencontrez les mauvaises personnes. C'est de savoir si vous confondez systématiquement l'amour avec sa première phase.
+
+## Sources vérifiables
+
+- Hatfield, E. & Rapson, R. L. (1996), *Love and Sex: Cross-Cultural Perspectives*, Allyn & Bacon — distinction entre amour passionnel et amour compagnonnage ; vérification du 7 août 2026.
+- Acevedo, B. P. & Aron, A. (2009), [Does a Long-Term Relationship Kill Romantic Love?](https://www.apa.org/pubs/journals/releases/gpr13159.pdf), *Review of General Psychology* — maintien de l'intensité amoureuse chez une minorité de couples de longue durée ; vérification du 7 août 2026.
+- Sternberg, R. J. (1986), [A Triangular Theory of Love](https://bernard.pitzer.edu/~dmoore/1986_Sternberg_TriangleLove_PsyRev.pdf), *Psychological Review* — modèle triangulaire intimité/passion/engagement ; vérification du 6 août 2026.
+- Hazan, C. & Shaver, P. (1987), [Romantic love conceptualized as an attachment process](https://psycnet.apa.org/record/1987-21950-001), *Journal of Personality and Social Psychology* — régulation mutuelle du stress par l'attachement adulte ; vérification du 7 août 2026.
