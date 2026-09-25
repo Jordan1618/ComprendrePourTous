@@ -36,6 +36,10 @@ La recherche empirique sur ce qui prédit la satisfaction et la durée d'un coup
 
 **Les quatre comportements destructeurs** identifiés par Gottman : la critique globale de la personne, le mépris (le plus toxique), la position défensive systématique, et le retrait. Le mépris est celui dont l'effet est le plus constamment retrouvé. [Les comportements destructeurs les mieux documentés du couple ont été identifiés par observation directe d'échanges entre partenaires](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
+👁️ **Vu de l'autre côté**
+
+Le retrait, quatrième comportement destructeur de la liste de Gottman, n'est presque jamais perçu de la même façon des deux côtés. Celui qui se retire vit souvent ce geste comme une protection, une façon d'éviter que la dispute ne dégénère. Celui qui reçoit ce silence le vit comme un abandon en plein milieu d'un désaccord qui comptait. Vécu à la première personne : *je me taisais pour ne pas dire quelque chose que j'aurais regretté, et je pensais que c'était responsable ; elle, de son côté, avait l'impression de parler dans le vide, et c'est ce silence, pas mes mots, qui la blessait le plus.*
+
 ### 7.4 Comment utiliser l'idée sans se tromper
 
 Le modèle des langages garde une utilité pratique si on le prend pour ce qu'il est : **une grille de conversation**, pas un diagnostic.
@@ -43,6 +47,10 @@ Le modèle des langages garde une utilité pratique si on le prend pour ce qu'il
 Ce qui fonctionne : demander à l'autre ce qui lui fait concrètement du bien, et le lui dire pour soi. Ce qui ne fonctionne pas : se déclarer d'un « type » et exiger que l'autre s'y conforme, ou s'en servir pour disqualifier ce qu'il fait (« tes cadeaux ne comptent pas, mon langage c'est le temps »).
 
 La question utile n'est pas « quel est ton langage ». C'est : **« cite-moi trois choses que j'ai faites cette année qui t'ont vraiment fait du bien. »** Elle donne des faits concrets, exploitables immédiatement, sans passer par une théorie. [Une synthèse récente conclut que le modèle des cinq langages reste utile comme grille de conversation, sans validation empirique de son hypothèse centrale](https://journals.sagepub.com/doi/10.1177/09637214231217663) (Impett, Park & Muise, « Popular Psychology Through a Scientific Lens: Evaluating Love Languages », *Current Directions in Psychological Science*, 2024 ; vérification du 7 août 2026).
+
+### 7.5 Pourquoi un modèle non validé peut quand même être utile
+
+Ce n'est pas une contradiction, et ça mérite d'être dit clairement plutôt que laissé en tension implicite. Un modèle peut fonctionner en pratique sans que son explication théorique soit exacte : c'est le cas de nombreux outils de développement personnel, qui produisent un effet réel par le biais qu'ils créent (poser la question, ouvrir une conversation, formaliser une attente) plutôt que par la vérité scientifique de leur théorie sous-jacente. Le danger n'est pas d'utiliser un tel outil, c'est de le présenter comme une découverte de la nature humaine plutôt que comme ce qu'il est réellement, une structure de conversation.
 
 💑 **Dans le couple**
 
@@ -55,6 +63,7 @@ Le mécanisme réel derrière le succès du modèle est probablement celui-ci : 
 - Réagissez franchement aux bonnes nouvelles. C'est le levier le plus rentable et le moins utilisé.
 - Traquez le mépris — le sarcasme, les yeux levés au ciel, le ton condescendant. C'est le comportement dont l'effet destructeur est le mieux établi.
 - Ne présentez pas un modèle de développement personnel comme une vérité scientifique, y compris à vous-même. Ce guide s'applique la règle à lui-même : le modèle des langages est utile et non validé, et les deux devaient être dits.
+- Face à un test en ligne qui promet de révéler votre « vrai langage de l'amour » en quelques questions, gardez en tête ce qu'il mesure réellement : une préférence déclarée à un instant donné, pas une catégorie stable ni scientifiquement établie.
 
 ## Sources vérifiables
 

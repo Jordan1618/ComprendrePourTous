@@ -44,11 +44,27 @@ La rupture n'arrête pas toujours le risque, elle peut au contraire le déclench
 
 Ce constat rejoint directement la notion de contrôle coercitif : la sortie d'une relation d'emprise n'est, dans la plupart des cas, pas la fin immédiate du danger, et une vigilance particulière (sécurisation des comptes en ligne, information de son entourage, recours si besoin à une main courante ou une plainte) reste justifiée dans les semaines qui suivent une rupture difficile, pas seulement pendant la relation elle-même.
 
+👁️ **Vu de l'autre côté**
+
+La personne qui multiplie les messages après une rupture ne se perçoit, dans la plupart des cas, pas comme menaçante : elle vit son propre geste comme une tentative de compréhension ou de réconciliation légitime. La personne qui les reçoit vit une réalité entièrement différente, celle d'une vigilance permanente qui ne s'arrête jamais vraiment. Vécu à la première personne : *chaque notification me faisait sursauter, même des semaines après, même pour un message anodin ; ce n'était plus lui que je craignais, c'était le téléphone lui-même.* Cet écart de perception explique en partie pourquoi tant de comportements de harcèlement post-rupture ne sont pas reconnus comme tels par leurs propres auteurs.
+
 ### 28.5 La sécurité numérique de la vie amoureuse
 
 Un aspect plus récent et moins souvent nommé : la vie amoureuse laisse aujourd'hui une trace numérique considérable, photos intimes échangées, conversations privées, localisation partagée par une application, qui devient un risque de sécurité concret en cas de rupture conflictuelle. Aucune étude chiffrée précise et récente sur la prévalence de la diffusion non consentie d'images intimes en France, avec une méthodologie vérifiable, n'a été retrouvée à cette date malgré une recherche sérieuse : le signaler plutôt que de reprendre un chiffre non vérifié qui circule largement sans source fiable identifiée.
 
 Ce qui reste un réflexe de sécurité solide, indépendamment du chiffre exact du risque : ne jamais partager un mot de passe de compte personnel, y compris dans une relation de confiance totale, car cette pratique, fréquente au début d'une relation comme preuve d'engagement, devient un point de vulnérabilité concret en cas de rupture difficile ou d'emprise naissante.
+
+💑 **Dans le couple**
+
+Refuser de partager un mot de passe n'est pas un signal de méfiance envers le partenaire actuel : c'est une protection contre une version future, hypothétique, d'une rupture difficile que personne ne prévoit au moment où la relation va bien. La formulation qui évite le malentendu : « ce n'est pas contre toi, c'est que je garde cette règle avec tout le monde, tout le temps. »
+
+⚖️ **Nuance.** « Toxique » est devenu un mot qu'on applique à presque tout désaccord de couple, ce qui dilue sa portée réelle.
+
+- Une relation toxique n'est pas une relation où l'on se dispute souvent : le conflit fait partie, dans la plupart des cas, d'un couple ordinaire, tant qu'il reste réparable et respectueux.
+- Une relation toxique n'est pas la même chose qu'un partenaire simplement difficile à vivre : le mot renvoie à un schéma répété de dévalorisation, de contrôle ou d'isolement, pas à un trait de caractère pénible.
+- Une relation toxique n'est pas toujours identifiable de l'intérieur au moment où elle se vit : c'est souvent après coup, avec du recul ou un regard extérieur, que le schéma devient visible.
+
+Ce qui recouvre les trois : le mot devrait rester réservé à un schéma installé et répété, pas à toute relation qui traverse une mauvaise passe.
 
 ### 28.6 La résilience après une relation toxique : ce que montrent les approches cliniques
 

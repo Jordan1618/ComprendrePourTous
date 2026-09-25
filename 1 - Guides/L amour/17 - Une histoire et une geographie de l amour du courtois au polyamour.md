@@ -26,6 +26,14 @@ L'apport durable de ce modèle dépasse la littérature : l'idée que l'amour en
 
 Cette bascule reste, aujourd'hui encore, une exception à l'échelle mondiale plutôt qu'une norme universelle : dans de nombreuses sociétés contemporaines, le mariage arrangé ou fortement influencé par la famille demeure une pratique répandue et légitime, sans que cela signifie l'absence d'amour dans ces unions, qui se construit alors davantage après le mariage qu'avant.
 
+⚖️ **Nuance.** Le mot « arrangé » recouvre des réalités très différentes, et les confondre fausse tout le sujet.
+
+- Un mariage arrangé n'est pas un mariage forcé : dans sa forme la plus répandue aujourd'hui, les deux personnes présentées par leurs familles gardent un droit de refus réel, souvent exercé.
+- Un mariage arrangé n'est pas un mariage sans amour : l'attachement s'y construit après l'union plutôt qu'avant, ce qui est un ordre différent, pas une absence.
+- Un mariage arrangé n'est pas nécessairement moins satisfaisant qu'un mariage d'amour occidental : les comparaisons de satisfaction conjugale entre les deux modèles ne montrent pas d'écart systématique en faveur de l'un ou de l'autre.
+
+Ce qui recouvre les trois : c'est le degré de consentement des deux personnes concernées qui distingue un mariage arrangé légitime d'un mariage forcé, pas le fait que la famille ait initié la rencontre.
+
 ### 17.4 Individualisme, collectivisme : deux cadres différents pour aimer
 
 [L'individualisme et le collectivisme expliquent une bonne part des différences culturelles observées autour de l'amour romantique et de l'importance accordée à l'intimité émotionnelle dans le mariage](https://spssi.onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-4560.1993.tb01168.x) (Dion & Dion, *Journal of Social Issues*, 1993 ; vérification du 21 septembre 2026). Dans les sociétés individualistes, l'amour est généralement considéré comme une base légitime et même nécessaire au mariage. Dans les sociétés plus collectivistes, l'amour ressenti avant le mariage peut au contraire être perçu comme un élément perturbateur, motivé par un intérêt égoïste susceptible de nuire à la loyauté due à la famille élargie.
@@ -35,6 +43,10 @@ Une étude récente portant sur des couples où l'un des partenaires vient d'une
 👁️ **Vu de l'autre côté**
 
 Une personne issue d'une culture collectiviste peut percevoir l'insistance occidentale sur l'amour comme condition suffisante au mariage comme une fragilité plutôt qu'une liberté : sans le filet de sécurité d'une famille élargie impliquée dans le choix du partenaire, la relation repose sur les seules épaules du couple, ce qui explique en partie pourquoi elle paraît, de ce point de vue, plus précaire.
+
+💑 **Dans le couple**
+
+Dans un couple où l'un vient d'un cadre plus individualiste et l'autre d'un cadre plus collectiviste, le point de friction n'est presque jamais l'amour lui-même mais la place laissée à la famille élargie dans les décisions du couple : où vivre, comment élever les enfants, combien de temps et d'argent revenir à qui. Nommer explicitement ce cadre plutôt que de le supposer partagé évite qu'un désaccord ponctuel ne soit lu comme un manque d'amour.
 
 ### 17.5 Le polyamour, une pratique minoritaire mais mesurée
 
@@ -56,5 +68,5 @@ Rien de tout cela n'est figé. Les catégories présentées dans ce chapitre, am
 - Face à un couple issu de deux cultures différentes sur le rapport à la famille élargie, nommer explicitement les attentes de chacun plutôt que de supposer que l'un des deux modèles est automatiquement le bon.
 - Distinguer polyamour et infidélité par le critère du consentement informé, pas par le nombre de partenaires : c'est la différence qui compte réellement dans la littérature de recherche.
 - Voir le [chapitre 17 de Pour Nous, sur la sociologie, l'anthropologie et l'histoire du couple](<../Pour Nous/17 - Sociologie anthropologie et histoire du couple.md>), et le [chapitre 17 de La rencontre, sur une histoire de la rencontre](<../La rencontre/17 - Une histoire de la rencontre.md>), pour prolonger ce panorama.
-- Se rappeler, face à un modèle amoureux perçu comme « à la traîne » ou « dépassé » dans une autre culture, que ce jugement part presque toujours d'un point de vue local présenté comme universel : la recherche montre plutôt une pluralité durable de modèles viables, chacun avec ses propres compromis.
+- Face à un modèle amoureux qui semble « à la traîne » ou « dépassé » dans une autre culture, demander ce que ce modèle apporte concrètement à ceux qui le vivent avant de le juger : la pluralité documentée dans ce chapitre est durable, pas un retard à rattraper.
 - Devant un couple ou une famille qui semble suivre un modèle différent du sien, résister au réflexe de comparaison implicite : la diversité documentée dans ce chapitre n'a rien d'anecdotique, elle concerne la majorité de la population mondiale actuelle.

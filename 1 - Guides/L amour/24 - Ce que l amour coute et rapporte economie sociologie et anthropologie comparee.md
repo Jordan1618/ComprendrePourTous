@@ -58,6 +58,18 @@ Un angle rarement pris au sérieux : un couple qui dure gère, comme une petite 
 
 Ce déséquilibre porte un nom en sciences sociales, la charge mentale : non pas seulement l'exécution des tâches, mais leur anticipation, leur planification et leur contrôle, une fonction largement invisible et non rémunérée. Une partie de cette inégalité s'explique par une négociation implicite installée dès le début de la vie commune, chacun arrivant avec une définition non formulée de ce qui est « normal », héritée de ce qu'il ou elle a observé chez ses propres parents, ce qui déplace le désaccord réel du terrain des tâches elles-mêmes vers un conflit de normes dont ni l'un ni l'autre n'a pleinement conscience.
 
+⚖️ **Nuance.** « Charge mentale » est devenu un mot fourre-tout, ce qui affaiblit sa précision.
+
+- Ce n'est pas la même chose que « faire beaucoup de tâches » : on peut assumer peu de tâches manuelles tout en portant l'essentiel de la charge mentale, en étant la seule personne qui sait ce qu'il reste à faire.
+- Ce n'est pas un reproche automatique fait au partenaire : dans la plupart des cas, elle s'installe sans intention, par la façon dont chacun a grandi, plutôt que par mauvaise volonté délibérée de l'un des deux.
+- Ce n'est pas un problème qu'un outil numérique résout seul : une application partagée rend la charge visible, elle ne la répartit pas automatiquement.
+
+Ce qui recouvre les trois : la charge mentale se mesure à qui anticipe et décide, pas à qui exécute le plus de gestes visibles.
+
+👁️ **Vu de l'autre côté**
+
+Celui qui participe régulièrement aux tâches visibles, vaisselle, courses, ménage du week-end, a souvent le sentiment sincère d'une répartition équitable, parce qu'il compte les gestes accomplis. Celle qui porte la charge mentale compte autre chose : le fait de s'être souvenue qu'il fallait faire les courses, d'avoir anticipé qu'il n'y avait plus de dentifrice, d'avoir décidé quel jour. Vécu à la première personne : *il faisait la vaisselle dès que je le lui demandais, sans jamais rechigner, et pendant des années j'ai cru que ça voulait dire qu'on partageait tout ; ce que je n'ai vu que plus tard, c'est que je devais toujours être celle qui demandait.*
+
 Le point sociotechnique à ajouter : les applications de gestion partagée du foyer (listes de tâches communes, calendriers partagés, applications de répartition des dépenses) rendent visible ce qui restait auparavant purement mental, avec un effet mesuré positif sur le sentiment d'équité perçue, même si la charge mentale elle-même n'est pas mécaniquement résolue par un outil numérique.
 
 ### 24.6 Ce que le statut du couple coûte en assurance et en protection sociale
@@ -71,4 +83,4 @@ C'est un point rarement anticipé avant qu'un accident ou une maladie grave ne l
 - Vérifier concrètement, contrat par contrat (mutuelle, assurance vie, prévoyance), qui est reconnu comme ayant droit selon le statut du couple, plutôt que de le supposer.
 - Ne jamais confondre le sentiment amoureux avec la protection juridique qu'il ne produit pas automatiquement : les deux se construisent séparément.
 - Se méfier des normes de dépense présentées comme universelles (bague, mariage, cadeaux) : elles sont d'abord un marché, pas une mesure de l'amour.
-- Garder à l'esprit que le cadre de rencontre influence qui l'on rencontre statistiquement : en changer peut élargir concrètement le champ des possibles, pas seulement symboliquement.
+- Face à un sentiment de blocage sur les rencontres, changer délibérément de cadre (un cercle d'études, un lieu de travail différent, un contexte associatif) plutôt que de multiplier les tentatives dans le même cadre : le cadre trie statistiquement qui l'on croise.

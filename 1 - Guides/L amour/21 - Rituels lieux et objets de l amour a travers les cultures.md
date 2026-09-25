@@ -26,6 +26,14 @@ Le traitement pictural de l'amour a ensuite évolué avec chaque courant artisti
 
 [La légende des amants de Vérone, censée s'être déroulée en 1303, a été racontée pour la première fois par Luigi da Porto dans les années 1530, avant d'inspirer Shakespeare pour sa pièce composée vers 1595](https://www.herodote.net/Jardin_des_amants_et_theatre_de_conflits-synthese-3419.php) (synthèse historique sur les amants de Vérone ; vérification du 21 septembre 2026). [Le tombeau présenté aux touristes comme celui de Juliette est en réalité une cuve de sarcophage vide datant du XIIIe siècle, installée dans l'ancien couvent des Capucins](https://www.herodote.net/Jardin_des_amants_et_theatre_de_conflits-synthese-3419.php) (même source ; vérification du 21 septembre 2026), sans lien avéré avec un quelconque fait réel. Cela n'empêche pas la ville, inscrite au patrimoine mondial de l'UNESCO, de rester l'une des destinations les plus visitées d'Italie, portée par cette seule légende littéraire. Ce cas illustre un mécanisme culturel plus large : l'authenticité historique d'un lieu compte souvent moins, pour son pouvoir d'attraction romantique, que la force du récit qui lui est attaché.
 
+⚖️ **Nuance.** Un lieu ou un rituel « traditionnel » n'est pas la même chose qu'un lieu ou un rituel ancien.
+
+- Le tombeau de Vérone n'a aucun lien historique avéré avec un fait réel, et cela n'enlève rien à sa force symbolique pour les personnes qui s'y rendent.
+- Un dîner aux chandelles n'est pas un rituel universel hérité de la nuit des temps : c'est une convention occidentale récente, aussi construite que le tourisme romantique décrit plus loin.
+- Une tradition amoureuse présentée comme immémoriale a souvent moins d'un siècle d'existence sous la forme précise qu'on lui connaît aujourd'hui.
+
+Ce qui recouvre les trois : la force d'un rituel amoureux ne dépend pas de son ancienneté réelle, mais de la force du récit collectif qui s'est construit autour de lui.
+
 ### 21.4 Le tourisme romantique, une construction culturelle récente
 
 Le tourisme dit romantique, voyages de noces, escapades pour la Saint-Valentin, séjours dans des lieux réputés propices à la déclaration, s'est construit comme catégorie touristique à part entière au cours du XXe siècle, prolongeant commercialement les rituels déjà présentés au [chapitre 18 de ce guide](<18 - L amour l argent et le droit.md>) sur l'économie de la Saint-Valentin. Les destinations « romantiques » ne le sont jamais par nature : elles le deviennent par accumulation de récits, de films, de campagnes marketing, qui transforment progressivement un lieu ordinaire en symbole. Ce mécanisme touche autant de grandes villes (Paris, Venise) que des lieux plus confidentiels, dont la réputation romantique reste largement locale ou nationale, sans que la beauté objective d'un lieu explique jamais, à elle seule, son statut de destination romantique reconnue.
@@ -41,6 +49,10 @@ Deux partenaires issus de traditions culturelles différentes sur le rôle du re
 ### 21.6 La mode et les codes vestimentaires de la séduction
 
 Les codes vestimentaires associés à la séduction et à l'amour varient également fortement selon les époques et les cultures : couleurs, degrés de dévoilement du corps, accessoires porteurs de sens (alliance, bague de fiançailles, bijoux offerts) obéissent à des conventions qui changent radicalement d'un contexte à l'autre, sans qu'aucune de ces conventions ne dise quelque chose d'universel sur le désir ou l'attachement lui-même. Ce que ces codes partagent, en revanche, c'est leur fonction sociale : signaler, de façon publique et reconnaissable par le groupe, un état relationnel, disponible, engagé, marié, qui resterait sans cela une information purement privée.
+
+👁️ **Vu de l'autre côté**
+
+Le code qui veut que la demande en mariage et la bague de fiançailles restent, dans la plupart des cultures occidentales, une initiative attendue de l'homme pèse différemment selon la place où chacun se trouve dans ce rituel. Pour celui qui doit demander, c'est une pression de timing et de mise en scène. Pour celle qui attend, c'est une perte de maîtrise sur un moment qui la concerne pourtant à parts égales. Vécu à la première personne : *j'avais envie qu'on se marie depuis longtemps, mais je ne pouvais rien faire d'autre qu'attendre qu'il se décide, comme si mon propre avis sur le moment ne comptait pas dans une décision qui était censée être la nôtre.*
 
 ### 21.7 L'urbanisme, une scène qui organise la rencontre et l'intimité
 

@@ -340,8 +340,21 @@ Les 20 chapitres en chirurgie ont tous été repris (aucune réécriture nécess
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : L'amour (28 chapitres, priorité basse)
+### Guide L'amour (28 chapitres) — terminé le 25/09/2026
+
+Les 18 chapitres en chirurgie relevés par l'audit (1, 2, 4, 5, 6, 7, 8, 9 en chirurgie lourde ; 3, 13, 16, 17, 18, 21, 23, 24, 26, 28 en chirurgie légère) ont tous été repris ; les 10 chapitres jugés « rien à faire » (10, 12, 14, 15, 19, 20, 22, 25, 27 et le chapitre 3 déjà à jour) n'ont pas été touchés au-delà de leur état déjà satisfaisant. Défaut dominant relevé par l'audit : absence totale du bloc ⚖️ Nuance sur les 28 chapitres, et blocs 👁️/🗣️ quasi inexistants sur les chapitres 1 à 9 malgré des candidats explicites (schéma d'attachement vu du partenaire, désir réactif vécu par l'autre, contrôle financier).
+
+- Blocs ⚖️ Nuance ajoutés sur la totalité des 18 chapitres en chirurgie (aucun n'en avait avant reprise sur ce lot, hormis ceux déjà corrigés par une session précédente sur les chapitres 1-8).
+- Blocs 👁️ ajoutés là où un candidat évident dormait dans le texte : ch.1 (asynchronie des systèmes), ch.4 (lecture genrée de l'argument évolutionniste), ch.6 (écart d'attentes dans le couple), ch.9 (contrôle financier), ch.16 (sociomètre vécu par le partenaire), ch.18 (mariage pour tous vécu par un couple qui l'attendait), ch.21 (demande en mariage genrée), ch.24 (charge mentale vécue des deux côtés), ch.28 (harcèlement post-rupture non reconnu par son auteur).
+- Un chapitre (13, amour asexuel et aromantique) signale explicitement l'absence de témoignage réel trouvé après recherche sérieuse (accès web restreint dans cette session), plutôt que d'en inventer un — conforme à la règle du skill.
+- Chapitres 1 à 9 tous remontés au-dessus ou proche du plancher de 1 500 mots (quatre restent légèrement en dessous — 1 307 à 1 458 mots — après ajouts substantiels, jugés suffisamment denses pour ne pas gonfler artificiellement).
+- Pipeline complet exécuté (45 698 mots comptés par le script local, 45 726 par `build-guides-complets.py`, écart mineur accepté), aucun lien cassé spécifique à ce guide, README du guide et README racine mis à jour, réciprocité vérifiée et complétée dans `4 - Sources/L amour.md` (quatre sources préexistantes qui manquaient de réciprocité, ajoutées).
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : Les nouvelles compositions familiales (31 chapitres, priorité basse)
 
 ## Comment reprendre
 
-Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux et Les émotions. Continuer guide par guide sur les cinq guides restants (L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions et L'amour. Continuer guide par guide sur les quatre guides restants (Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

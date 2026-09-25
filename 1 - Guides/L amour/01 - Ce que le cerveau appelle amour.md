@@ -64,6 +64,10 @@ L'analogie des trois moteurs éclaire un point essentiel, mais elle en cache un 
 
 Cette absence de tableau de bord a une autre conséquence, plus intime : deux personnes dans la même relation peuvent avoir des moteurs à des régimes très différents sans que ni l'une ni l'autre ne le sache clairement. L'un peut vivre une phase d'attirance intense pendant que l'autre est déjà passé en régime d'attachement stable, chacun interprétant le décalage à sa manière plutôt que comme une simple asynchronie de systèmes qui, la plupart du temps, finissent par se rejoindre.
 
+👁️ **Vu de l'autre côté**
+
+Celui dont le système d'attirance intense s'est déjà calmé peut se sentir accusé de ne plus assez aimer par un partenaire encore dans la phase de pensée obsédante, alors qu'il vit simplement un régime différent, pas un désengagement. Vécu à la première personne : *elle me reprochait d'être devenu distant, mais je n'étais pas distant, j'étais juste passé à autre chose de plus calme, et je ne savais pas comment le lui dire sans que ça sonne comme un aveu de désamour.*
+
 **Bons réflexes**
 
 - Quand quelque chose se dégrade, demandez-vous **quel moteur** est concerné. Perdre le désir, perdre l'élan, perdre le sentiment de sécurité : trois problèmes différents, trois réponses différentes.

@@ -3,8 +3,8 @@ type: "guide"
 guide: "L'amour"
 sujet: "commun"
 chapitres: 28
-mots: 39760
-verifie_le: 2026-09-21
+mots: 45698
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -26,36 +26,36 @@ Ce guide porte sur le sentiment lui-même. Pour ce qui précède (attirance, cho
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Ce que le cerveau appelle amour](<01 - Ce que le cerveau appelle amour.md>) | physiologie | 1 117 |
-| 2 | [Passion et attachement : deux temps, deux logiques](<02 - Passion et attachement.md>) | physiologie | 921 |
-| 3 | [Les types d'amour : ce que les Grecs avaient déjà démêlé](<03 - Les types d amour.md>) | repères | 2 145 |
-| 4 | [Pourquoi l'amour existe : l'angle évolutionniste](<04 - Pourquoi l amour existe.md>) | physiologie | 906 |
-| 5 | [Ce qu'on rejoue de son histoire](<05 - Ce qu on rejoue de son histoire.md>) | psychologie | 1 110 |
-| 6 | [L'amour romantique, une invention récente](<06 - L amour romantique une invention recente.md>) | repères | 923 |
-| 7 | [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<07 - Les langages de l amour.md>) | relation | 954 |
-| 8 | [Le désir dans la durée](<08 - Le desir dans la duree.md>) | relation | 1 032 |
-| 9 | [Ce que l'amour engage concrètement](<09 - Ce que l amour engage.md>) | pratique | 1 011 |
+| 1 | [Ce que le cerveau appelle amour](<01 - Ce que le cerveau appelle amour.md>) | physiologie | 1 641 |
+| 2 | [Passion et attachement : deux temps, deux logiques](<02 - Passion et attachement.md>) | physiologie | 1 542 |
+| 3 | [Les types d'amour : ce que les Grecs avaient déjà démêlé](<03 - Les types d amour.md>) | repères | 2 393 |
+| 4 | [Pourquoi l'amour existe : l'angle évolutionniste](<04 - Pourquoi l amour existe.md>) | physiologie | 1 422 |
+| 5 | [Ce qu'on rejoue de son histoire](<05 - Ce qu on rejoue de son histoire.md>) | psychologie | 1 380 |
+| 6 | [L'amour romantique, une invention récente](<06 - L amour romantique une invention recente.md>) | repères | 1 307 |
+| 7 | [Les langages de l'amour : ce qui est vrai et ce qui ne l'est pas](<07 - Les langages de l amour.md>) | relation | 1 312 |
+| 8 | [Le désir dans la durée](<08 - Le desir dans la duree.md>) | relation | 1 458 |
+| 9 | [Ce que l'amour engage concrètement](<09 - Ce que l amour engage.md>) | pratique | 1 636 |
 | 10 | [Le rejet et la rupture, ce que dit la neurobiologie](<10 - Le rejet et la rupture ce que dit la neurobiologie.md>) | physiologie | 1 535 |
 | 11 | [Dépendance affective, jalousie et attachement à risque](<11 - Dependance affective jalousie et attachement a risque.md>) | psychologie | 1 541 |
 | 12 | [Amour et santé mentale : dépression, TOC, stress post-traumatique](<12 - Amour et sante mentale depression TOC stress post-traumatique.md>) | psychologie | 1 543 |
-| 13 | [Amour asexuel, aromantique et neuroatypique](<13 - Amour asexuel aromantique et neuroatypique.md>) | repères | 1 552 |
+| 13 | [Amour asexuel, aromantique et neuroatypique](<13 - Amour asexuel aromantique et neuroatypique.md>) | repères | 1 721 |
 | 14 | [L'amour parental et hormonal comparé à l'amour romantique](<14 - L amour parental et hormonal compare a l amour romantique.md>) | physiologie | 1 539 |
 | 15 | [Amour et âge : enfance, vieillissement, ménopause et andropause](<15 - Amour et age enfance vieillissement menopause et andropause.md>) | physiologie | 1 535 |
-| 16 | [Mesurer l'amour : théories et échelles de la recherche](<16 - Mesurer l amour theories et echelles de la recherche.md>) | psychologie | 1 528 |
-| 17 | [Une histoire et une géographie de l'amour, du courtois au polyamour](<17 - Une histoire et une geographie de l amour du courtois au polyamour.md>) | repères | 1 535 |
-| 18 | [L'amour, l'argent et le droit](<18 - L amour l argent et le droit.md>) | repères | 1 529 |
+| 16 | [Mesurer l'amour : théories et échelles de la recherche](<16 - Mesurer l amour theories et echelles de la recherche.md>) | psychologie | 1 794 |
+| 17 | [Une histoire et une géographie de l'amour, du courtois au polyamour](<17 - Une histoire et une geographie de l amour du courtois au polyamour.md>) | repères | 1 758 |
+| 18 | [L'amour, l'argent et le droit](<18 - L amour l argent et le droit.md>) | repères | 1 658 |
 | 19 | [L'amour dans le mythe, la littérature, le cinéma et la chanson](<19 - L amour dans le mythe la litterature le cinema et la chanson.md>) | repères | 1 522 |
 | 20 | [Les philosophies de l'amour, de Platon aux penseuses contemporaines](<20 - Les philosophies de l amour de Platon aux penseuses contemporaines.md>) | repères | 1 536 |
-| 21 | [Rituels, lieux et objets de l'amour à travers les cultures](<21 - Rituels lieux et objets de l amour a travers les cultures.md>) | repères | 1 507 |
+| 21 | [Rituels, lieux et objets de l'amour à travers les cultures](<21 - Rituels lieux et objets de l amour a travers les cultures.md>) | repères | 1 760 |
 | 22 | [L'amour et les grands mouvements du monde : guerre, diplomatie, démographie, écologie](<22 - L amour et les grands mouvements du monde guerre diplomatie demographie ecologie.md>) | repères | 1 542 |
-| 23 | [Le corps de l'amour : génétique, immunité, pharmacologie et rythmes](<23 - Le corps de l amour genetique immunite pharmacologie et rythmes.md>) | physiologie | 1 657 |
-| 24 | [Ce que l'amour coûte et rapporte : économie, sociologie et anthropologie comparée](<24 - Ce que l amour coute et rapporte economie sociologie et anthropologie comparee.md>) | repères | 1 609 |
+| 23 | [Le corps de l'amour : génétique, immunité, pharmacologie et rythmes](<23 - Le corps de l amour genetique immunite pharmacologie et rythmes.md>) | physiologie | 1 821 |
+| 24 | [Ce que l'amour coûte et rapporte : économie, sociologie et anthropologie comparée](<24 - Ce que l amour coute et rapporte economie sociologie et anthropologie comparee.md>) | repères | 1 883 |
 | 25 | [Pouvoir et institutions de l'amour : politique, stratégie et diplomatie du sentiment](<25 - Pouvoir et institutions de l amour politique strategie et diplomatie du sentiment.md>) | repères | 1 635 |
-| 26 | [Corps, genre et sensorialité de l'amour](<26 - Corps genre et sensorialite de l amour.md>) | physiologie | 1 606 |
+| 26 | [Corps, genre et sensorialité de l'amour](<26 - Corps genre et sensorialite de l amour.md>) | physiologie | 1 758 |
 | 27 | [Parler d'amour : langage, génération et interculturalité](<27 - Parler d amour langage generation et interculturalite.md>) | relation | 1 642 |
-| 28 | [Risques et données de l'amour : statistiques, prévention et sécurité](<28 - Risques et donnees de l amour statistiques prevention et securite.md>) | pratique | 1 548 |
+| 28 | [Risques et données de l'amour : statistiques, prévention et sécurité](<28 - Risques et donnees de l amour statistiques prevention et securite.md>) | pratique | 1 884 |
 
-Total : 39 760 mots, 28 chapitres.
+Total : 45 698 mots, 28 chapitres.
 
 ## Par où commencer
 
