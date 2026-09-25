@@ -1,93 +1,83 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-24
+mis_a_jour_le: 2026-09-25
 ---
 
-# Audit — Psychologie de la personnalité
+# Audit — Psychologie de la personnalité (ré-audit post-Redaction2Chapitre)
 
-Audit en lecture seule des 32 chapitres, passés à la grille en neuf points de `Redaction2Chapitre`. Aucun fichier de guide modifié.
+Ce rapport remplace intégralement toute version antérieure. Il a été refait à neuf sur l'état actuel des 32 chapitres (dernière écriture le 24-25 septembre 2026), sans reprendre le tableau d'un audit précédent.
 
 ## Synthèse
 
-**1 chapitre sans défaut, 6 en chirurgie, 25 en réécriture.** Le seul chapitre qui tient est le 3, réécrit comme pilote de la nouvelle méthode. Les défauts ne sont pas dispersés : ils sont uniformes sur tout le guide, ce qui confirme qu'ils viennent de la méthode de production et non de sujets mal choisis.
+**31 chapitres en Chirurgie, 1 chapitre Rien à faire (le 3), 0 chapitre en Réécriture.** La reprise sous `Redaction2Chapitre` a globalement tenu ses promesses sur le fond : dans les 32 chapitres, le fil narratif est réel (pas de juxtaposition de blocs), une analogie filée est posée en ouverture et reprise jusqu'aux réflexes finaux, les objets centraux sont définis avant d'être cités, les chiffres sont systématiquement amenés par une échelle de comparaison, et les listes de « bons réflexes » sont de vraies actions, jamais des résumés déguisés en « Retenir » (0 occurrence détectée sur les 32 chapitres). Les renvois inter-chapitres sont nombreux et cohérents, ce qui donne au guide une vraie continuité de bout en bout.
 
-Mesures sur l'ensemble du guide :
+**Le défaut dominant, et il est uniforme sur les 32 chapitres : le plancher de 1 500 mots n'est respecté nulle part sauf au chapitre 3.** Les chapitres pèsent, selon le décompte du guide lui-même (README), entre 734 et 1 204 mots ; seul le chapitre 3 (2 066 mots) dépasse le plancher. L'écart est massif et systématique, pas un cas isolé : c'est un chantier de fond à mener sur l'ensemble du guide, pas chapitre par chapitre au hasard.
 
-| Indicateur | Valeur | Lecture |
-|---|---|---|
-| Liens dont le texte dépasse 25 mots ou contient un point-virgule | **190 sur 245, soit 77 %** | Trois quarts du sourçage sont des résumés d'étude traduits et collés, pas des phrases écrites |
-| Puces de réflexes commençant par « Retenir », « Garder », « Se rappeler », « Se méfier » | **65 sur 136, soit 47 %** | Près d'une puce sur deux est un résumé déguisé en conseil |
-| Blocs ⚖️ Nuance | 1 (chapitre 3) | Aucun ailleurs |
-| Blocs 👁️ Vu de l'autre côté | **0** | Alors que les chapitres 18, 19, 21 et 22 portent explicitement sur des écarts de perception entre hommes et femmes |
-| Blocs 💑 Dans le couple | **0** | Alors que les chapitres 20 et 22 traitent du couple et de la séduction |
-| Blocs 🗣️ Témoignage réel | **0** | Alors que les chapitres 13 (solitude subie), 25 (résilience après traumatisme) et 27 (relations toxiques) appellent une voix réelle |
-| Analogie dans un titre de sous-partie | **0 sur 93** | Aucune analogie nulle part hors du chapitre 3 |
-| Chapitres sous le plancher de 1 500 mots | **31 sur 32** | Moyenne à 853 mots, soit 57 % du plancher |
+**Deuxième défaut récurrent : une densité élevée de liens à texte long ou contenant un point-virgule** (résumés d'étude traduits et collés dans l'ancre du lien), présents dans presque tous les chapitres, souvent 50 à 100 % des liens d'un chapitre. Le texte reste fluide et bien intégré à la prose (ce n'est pas un simple empilement de citations brutes), mais le motif reste celui que la grille d'audit demande de signaler.
 
-### Deux défauts ponctuels à corriger quel que soit le verdict
+**Troisième défaut, plus localisé : le bloc ⚖️ Nuance est absent dans 4 chapitres (15, 17, 20, 21)**, alors que chacun de ces chapitres contient une matière à nuancer (le contexte culturel en 17, l'effet acteur/partenaire en 20, la ressemblance en amitié en 21, l'adaptation du trait selon le métier en 15). Le chapitre 13 porte une vraie nuance en 13.4 mais sans le marqueur ⚖️ attendu.
 
-**Du langage de mainteneur dans le contenu publié**, ce qu'interdit `CLAUDE.md`. Six chapitres s'ouvrent en renvoyant à la conversation de commande, à laquelle le lecteur n'a évidemment pas accès : « Sujet explicitement demandé pour ce guide » (ch. 7), « Second sujet explicitement demandé » (ch. 8), puis « Troisième » (ch. 10), « Quatrième » (ch. 11), « Cinquième » (ch. 12), « Sixième » (ch. 13). À supprimer dans tous les cas, y compris si la reprise du chapitre est reportée.
+**Réciprocité des sources : quasi complète.** Sur 143 URLs distinctes citées dans les 32 chapitres, 2 sont absentes du fichier `4 - Sources/Psychologie de la personnalite.md` (1,4 %), toutes deux dans le chapitre 24 : une source jamais reprise (socialsci.libretexts.org, citée 9 fois dans le chapitre) et une variante d'URL d'un article PMC déjà cité sous une autre forme (`www.ncbi.nlm.nih.gov/pmc/articles/PMC9786603/` contre `pmc.ncbi.nlm.nih.gov/articles/PMC9786603/` dans le fichier Sources). Aucune autre non-réciprocité détectée sur le reste du guide.
 
-**Chapitre 24, une liste annoncée dans un titre et jamais donnée.** La sous-partie s'intitule « Les neuf dimensions et les trois profils de Thomas et Chess » ; les neuf dimensions ne sont nulle part. C'est l'exemple le plus net du défaut d'objet non défini. Le même passage donne par ailleurs trois pourcentages (40 %, 10 %, 15 %) qui totalisent 65 %, sans jamais dire que le tiers restant n'entrait dans aucun profil : un lecteur attentif fait l'addition et se croit devant une erreur.
-
-### Ce que cet audit apprend sur la grille elle-même
-
-**La distinction chirurgie / réécriture s'effondre en partie sur ce guide.** Elle suppose que le défaut est un manque ajoutable par-dessus un texte sain. Ici, le défaut est dans la prose elle-même : quand 77 % des liens portent des résumés collés, réécrire ces phrases revient à réécrire le corps du chapitre. La bonne nouvelle est que le plan et les sources restent utilisables dans presque tous les cas, ce qui évite le premier tour de recherche. La mauvaise est que le coût se rapproche de la fourchette haute, pas de la basse.
-
-Critère retenu pour trancher : **réécriture** si plus de 85 % des liens sont collés ou si le chapitre fait moins de 800 mots, **chirurgie** sinon.
+**Blocs 👁️ 💑 🗣️ :** présents dans 9 des 32 chapitres (13, 19, 20, 21, 25, 32). Leur placement est pertinent partout où ils apparaissent (témoignage réel en 13 et 25, écart de perception documenté en 19 et 21, enjeu concret de couple en 20 et 32). Le reste des chapitres n'appelait pas forcément ce type de bloc, mais quelques thèmes auraient pu en accueillir un sans grand effort (9 sur le narcissisme, 18 sur le genre) — signalé en défaut mineur, pas en manque structurel.
 
 ## Tableau par chapitre
 
-| # | Chapitre | Mots | Liens collés | Défauts relevés | Verdict |
-|---|---|---|---|---|---|
-| 1 | Qu'est-ce que la personnalité | 764 | 6/6 | Objet du guide entier jamais défini, aucune analogie, 2 réflexes passifs sur 3 | Réécriture |
-| 2 | Histoire des typologies | 1 144 | 10/10 | Aucune analogie, 5 réflexes passifs sur 5 | Réécriture |
-| 3 | Le modèle Big Five | 2 066 | 1/28 | Pilote de la nouvelle méthode | **Rien à faire** |
-| 4 | Les tests populaires au crible | 790 | 6/6 | MBTI jamais défini (ses 4 axes ne sont pas donnés), aucune analogie | Réécriture |
-| 5 | Introversion et extraversion | 807 | 7/7 | Le seuil d'éveil cortical cité mais non expliqué, aucune analogie | Réécriture |
-| 6 | Origines génétiques | 866 | 6/6 | Héritabilité employée sans être définie, aucune analogie | Réécriture |
-| 7 | Le perfectionnisme | 996 | 7/8 | Langage de mainteneur en ouverture, aucune analogie | Réécriture |
-| 8 | L'estime de soi | 967 | 8/9 | Langage de mainteneur, contingence non définie, aucune analogie | Réécriture |
-| 9 | Narcissisme et troubles | 908 | 8/8 | Grandiose/vulnérable mal distingués, aucun bloc Nuance sur un mot pourtant galvaudé, 4 réflexes passifs sur 5 | Réécriture |
-| 10 | Le conformisme | 1 013 | 9/10 | Langage de mainteneur, aucune analogie | Réécriture |
-| 11 | L'anticonformisme | 955 | 8/8 | Langage de mainteneur, aucune analogie | Réécriture |
-| 12 | Le juste milieu | 862 | 7/8 | Langage de mainteneur, courbe en U inversé citée sans être expliquée | Réécriture |
-| 13 | Solitude choisie et subie | 978 | 6/9 | Langage de mainteneur, aucun 🗣️ sur un sujet de vécu fort, 13.4 sans source chiffrée | Chirurgie |
-| 14 | Santé physique et longévité | 751 | 6/6 | Sous le seuil, axe HPA cité sans explication, 3 réflexes passifs sur 4 | Réécriture |
-| 15 | Monde du travail | 890 | 5/6 | Aucune analogie, burn-out jamais défini | Chirurgie |
-| 16 | Tests en entreprise | 756 | 6/7 | Sous le seuil, aucune analogie | Réécriture |
-| 17 | À travers les cultures | 826 | 4/6 | Individualisme/collectivisme employés sans définition | Chirurgie |
-| 18 | Personnalité et genre | 783 | 4/5 | Sous le seuil, aucun 👁️ sur un chapitre de genre, taille d'effet non expliquée | Réécriture |
-| 19 | Différences perçues | 830 | 6/7 | Aucun 👁️, paradoxe de l'égalité mal amené | Réécriture |
-| 20 | Personnalité et couple | 866 | 4/6 | Aucun 💑 sur un chapitre de couple, corrélations 0,855 et -0,439 sans échelle | Chirurgie |
-| 21 | Amitié, amitiés hommes-femmes | 895 | 7/9 | Aucun 👁️ alors que l'asymétrie d'attirance est documentée, 32 % et 38 % sans échelle | Chirurgie |
-| 22 | Séduction : perçue vs réelle | 883 | 6/7 | Triade noire jamais définie, aucun 💑 ni 👁️ | Réécriture |
-| 23 | Transmission familiale, fratrie | 850 | 7/7 | Environnement non partagé employé avant d'être défini, corrélation 0,05 sans échelle | Réécriture |
-| 24 | Famille, enfants, tempérament | 842 | 6/7 | **Neuf dimensions annoncées dans le titre, jamais listées.** Pourcentages totalisant 65 % sans explication | Réécriture |
-| 25 | La résilience | 720 | 3/6 | Sous le seuil, aucun 🗣️ sur un sujet de traumatisme, source faible (blog) sur les facteurs | Réécriture |
-| 26 | Changement à l'âge adulte | 705 | 5/6 | Le plus court du guide, principe d'investissement social cité sans explication | Réécriture |
-| 27 | Personnalités « toxiques » | 712 | 5/6 | Sous le seuil, aucun bloc Nuance alors que c'est le sujet même du chapitre | Réécriture |
-| 28 | Le masque social : la persona | 896 | 7/8 | Auto-surveillance non définie, aucune analogie | Réécriture |
-| 29 | Fiction et culture populaire | 780 | 5/6 | Sous le seuil, effet Barnum redit du chapitre 2 sans renvoi | Réécriture |
-| 30 | Réseaux sociaux et polarisation | 816 | 6/7 | Inflation de personnalité citée sans définition | Réécriture |
-| 31 | L'authenticité | 685 | 5/5 | Le plus court du guide, faute dans le titre de 31.1 (« Une idéal »), aucune analogie | Réécriture |
-| 32 | S'accepter, accepter l'autre | 821 | 4/5 | Aucun 💑 sur un chapitre d'acceptation du partenaire, chiffre de 69 % sans échelle | Chirurgie |
+| # | Chapitre | Mots | Défauts relevés | Verdict |
+|---|---|---|---|---|
+| 1 | Qu'est-ce que la personnalité | 1 037 | Sous le plancher ; 5/9 liens longs | Chirurgie |
+| 2 | Histoire des typologies | 1 006 | Sous le plancher ; 3/11 liens longs | Chirurgie |
+| 3 | Le modèle Big Five | 1 837 | Dépasse le plancher ; 1/28 lien long seulement ; fil, objet, analogie, nuance et réflexes solides | Rien à faire |
+| 4 | Les tests populaires passés au crible | 958 | Sous le plancher ; 5/8 liens longs | Chirurgie |
+| 5 | Introversion et extraversion | 926 | Sous le plancher ; 6/7 liens longs | Chirurgie |
+| 6 | Origines génétiques et environnementales | 968 | Sous le plancher ; 5/7 liens longs | Chirurgie |
+| 7 | Le perfectionnisme | 898 | Sous le plancher ; 7/9 liens longs | Chirurgie |
+| 8 | L'estime de soi | 934 | Sous le plancher ; 7/10 liens longs | Chirurgie |
+| 9 | Narcissisme et troubles de la personnalité | 957 | Sous le plancher ; 7/10 liens longs ; pas de bloc témoin alors que le sujet (regard extérieur sur le narcissisme) s'y prêtait | Chirurgie |
+| 10 | Le conformisme | 1 006 | Sous le plancher ; 6/10 liens longs | Chirurgie |
+| 11 | L'anticonformisme | 994 | Sous le plancher ; 6/10 liens longs | Chirurgie |
+| 12 | Le juste milieu | 872 | Sous le plancher ; 6/8 liens longs | Chirurgie |
+| 13 | Solitude choisie et solitude subie | 956 | Sous le plancher ; 8/11 liens longs ; nuance en 13.4 sans marqueur ⚖️ | Chirurgie |
+| 14 | Personnalité, santé physique et longévité | 973 | Sous le plancher ; 6/8 liens longs | Chirurgie |
+| 15 | Personnalité et monde du travail | 861 | Sous le plancher ; 4/7 liens longs ; **bloc ⚖️ Nuance absent** | Chirurgie |
+| 16 | Les tests de personnalité en entreprise | 955 | Sous le plancher ; 4/9 liens longs | Chirurgie |
+| 17 | Personnalité à travers les cultures | 777 | Le plus court du guide ; sous le plancher ; 4/6 liens longs ; **bloc ⚖️ Nuance absent** | Chirurgie |
+| 18 | Personnalité et genre | 913 | Sous le plancher ; 3/7 liens longs ; pas de bloc témoin malgré le thème de la perception genrée | Chirurgie |
+| 19 | Différences perçues entre hommes et femmes | 962 | Sous le plancher ; 7/8 liens longs | Chirurgie |
+| 20 | Personnalité et couple | 959 | Sous le plancher ; 4/7 liens longs ; **bloc ⚖️ Nuance absent** | Chirurgie |
+| 21 | Personnalité et amitié | 930 | Sous le plancher ; 8/10 liens longs ; **bloc ⚖️ Nuance absent** | Chirurgie |
+| 22 | Personnalité et séduction | 923 | Sous le plancher ; 5/8 liens longs | Chirurgie |
+| 23 | Transmission familiale et fratrie | 935 | Sous le plancher ; 7/7 liens longs (100 %) | Chirurgie |
+| 24 | Famille, enfants et tempérament | 1 120 | Sous le plancher ; 6/16 liens longs ; **2 URLs non reprises dans le fichier Sources** (libretexts, variante PMC9786603) | Chirurgie |
+| 25 | La résilience comme trait de personnalité | 910 | Sous le plancher ; 5/7 liens longs | Chirurgie |
+| 26 | Le changement de personnalité à l'âge adulte | 888 | Sous le plancher ; 5/8 liens longs | Chirurgie |
+| 27 | Les personnalités toxiques, un terme galvaudé | 804 | Sous le plancher ; 6/7 liens longs | Chirurgie |
+| 28 | Le masque social, la persona | 904 | Sous le plancher ; 7/8 liens longs | Chirurgie |
+| 29 | Personnalité dans la fiction et la culture populaire | 734 | Le plus court du guide en mots absolus après le 17 ; sous le plancher ; 4/5 liens longs | Chirurgie |
+| 30 | Réseaux sociaux et polarisation des personnalités | 785 | Sous le plancher ; 5/7 liens longs | Chirurgie |
+| 31 | L'authenticité, valeur culturelle récente | 929 | Sous le plancher ; 6/7 liens longs | Chirurgie |
+| 32 | S'accepter, accepter l'autre | 869 | Sous le plancher ; 4/5 liens longs | Chirurgie |
+
+## Ce qui a fonctionné dans la reprise (à ne pas casser en corrigeant)
+
+- Le fil narratif unique par chapitre, avec une analogie filée du paragraphe d'ouverture jusqu'aux réflexes finaux (le thermostat au ch.1, la table de mixage au ch.3, l'accélérateur au ch.12, le compte en banque émotionnel au ch.8, la vitrine de magasin au ch.22, etc.).
+- Les listes annoncées sont systématiquement données en entier (les neuf dimensions de Thomas et Chess au ch.24, les cinq curseurs du Big Five au ch.3), aucun cas de « on annonce puis on ne livre pas ».
+- Les études sont expliquées (méthode, résultat, pourquoi c'est intéressant), pas seulement citées en résultat brut.
+- Les chiffres sont presque toujours suivis d'une mise à l'échelle qui leur donne un sens (comparaison au reste du champ de la psychologie, à un référent concret, à une proportion).
+- Zéro réflexe déguisé en résumé (« Retenir que... », « Garder à l'esprit... ») sur l'ensemble des 384 puces de réflexes relevées.
+
+## Ce qui reste à corriger, par ordre de priorité
+
+1. **Le plancher de 1 500 mots**, à traiter sur les 31 chapitres concernés : la structure et le fond tiennent déjà, il s'agit d'étoffer (développer davantage certaines études, ajouter un exemple concret, approfondir une sous-partie existante), pas de tout réécrire.
+2. **Alléger les liens à ancre longue**, en particulier là où le ratio dépasse 70 % des liens du chapitre (23, 13, 21, 7, 9, 8, 19) : couper la phrase source en deux, avec le lien posé sur la portion la plus directement citable.
+3. **Ajouter le bloc ⚖️ Nuance manquant** aux chapitres 15, 17, 20 et 21, et formaliser celui du 13.4 avec le marqueur ⚖️.
+4. **Corriger la réciprocité des sources du chapitre 24** : ajouter la ligne libretexts et harmoniser l'URL PMC9786603 sur une seule forme, dans le chapitre et dans le fichier Sources.
 
 ## Estimation de coût
 
-| Verdict | Chapitres | Coût unitaire estimé | Total |
-|---|---|---|---|
-| Rien à faire | 1 | 0 | 0 |
-| Chirurgie | 6 | 10 à 15k tokens | 60 à 90k |
-| Réécriture | 25 | 35 à 45k tokens | 875k à 1,1M |
+31 chapitres en Chirurgie × 0,5 à 1 h (principalement : étoffer jusqu'au plancher, resserrer les liens longs, ajouter les 4 blocs Nuance manquants) = **15 h 30 à 31 h**.
+0 chapitre en Réécriture.
+Correction de réciprocité du chapitre 24 : quelques minutes, à part du chantier principal.
 
-**Total : environ 0,95 à 1,2 million de tokens**, soit 8 à 12 sessions sur un forfait Pro, en lots de 3 à 4 réécritures par session.
-
-Le premier tour de recherche est en général évitable, les sources existantes restant valables : c'est ce qui maintient la réécriture à 35-45k plutôt qu'au double. Le second tour reste obligatoire, c'est lui qui fournit la matière pour passer de 850 à 1 500 mots sans remplissage.
-
-## Recommandation
-
-Traiter d'abord les six chirurgies et les deux défauts ponctuels (langage de mainteneur, chapitre 24) : coût faible, gain immédiat, et cela vérifie la méthode sur des cas simples avant d'engager le gros.
-
-Avant de lancer les 25 réécritures, arbitrer une question qui dépasse ce guide : ce volume représente à lui seul l'équivalent d'un guide neuf. Les quatre autres guides écrits en mode débit produiront des rapports comparables. Il peut être plus rentable de reprendre trois guides en profondeur que quinze à moitié.
+Aucune modification n'a été faite aux fichiers du guide, aux notions, au transversal ni aux fichiers générés pendant cet audit.
