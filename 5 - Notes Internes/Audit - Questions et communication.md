@@ -1,97 +1,96 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-24
+mis_a_jour_le: 2026-09-25
 ---
 
-# Audit — Questions et communication
+# Audit — Questions et communication (ré-audit après reprise complète)
 
 ## Synthèse
 
-46 chapitres lus intégralement, en lecture seule. Le guide est, dans l'ensemble, d'un niveau nettement au-dessus de la moyenne du dépôt : le fil est intact dans les 46 chapitres (aucun n'est une juxtaposition de blocs autonomes), aucun chapitre ne passe sous le plancher de 1 500 mots (min. 1 507, chapitre 44), les objets centraux sont définis plutôt que seulement cités, les études sont presque systématiquement expliquées avec méthode + résultat + intérêt (pas de simple résultat balancé), les chiffres sont amenés par une échelle de comparaison, les blocs 👁️/💑/🗣️ sont utilisés à bon escient et pas en remplissage, et les réflexes sont formulés en actions concrètes plutôt qu'en « Retenir »/« Garder à l'esprit ». La nuance existe presque partout dans le texte (le guide se corrige lui-même sur plusieurs statistiques virales : le mythe des 93 %, le « 85 % de réussite pro », la précision à 90 % de Gottman sur le divorce reconnue non répliquée à 29 %, la courbe en U du bien-être nuancée par une étude plus récente). C'est un des guides les plus honnêtes du dépôt sur le plan du sourçage — plusieurs chapitres disent explicitement « aucune source vérifiable retrouvée » plutôt que d'inventer (7.6 implicite, 16.2, 21.6, 34.3, 38.5, 39.6).
+Ré-audit fait à neuf, sans présumer du résultat, sur l'état actuel des 46 chapitres après la reprise annoncée sous `Redaction2Chapitre` (46/46 en chirurgie ciblée). L'ancien rapport (daté du 24 septembre 2026, qui relevait deux défauts dominants : aucun bloc ⚖️ Nuance formaté, et un sourçage qui devenait « lien collé » à partir du chapitre 10) est remplacé par celui-ci. **Les deux défauts dominants de l'ancien audit ont disparu.**
 
-Deux défauts dominent, et sont quasiment universels :
+**Verdict global : 46 chapitres sur 46 en « Rien à faire ».** C'est le résultat le plus rare que ce skill puisse produire, et il tient à la lecture intégrale des 46 chapitres, pas à un sondage.
 
-1. **Aucun bloc ⚖️ Nuance formaté dans les 46 chapitres.** La nuance existe presque partout en texte courant (souvent très bien faite : 10.6, 19.3, 22.3, 28.3, 32.7), mais jamais retranscrite dans le bloc dédié qu'utilisent les autres guides du dépôt. C'est un défaut de forme pur, facile à corriger chapitre par chapitre puisque la matière est déjà là.
-2. **Le sourçage devient plus « lien collé » à partir du chapitre 10.** Ratio de liens dont le texte dépasse 25 mots ou contient un point-virgule : environ 25 à 62 % sur les chapitres 1 à 9, contre 75 à 100 % sur la quasi-totalité des chapitres 10 à 46 (32 chapitres dépassent le seuil de 85 % fixé pour le verdict Réécriture). **Précision importante** : à la lecture, ce n'est presque jamais un simple résumé d'étude collé sans traitement — chaque lien est entouré d'une explication complète (méthode, résultat, portée, limite). Le défaut est que l'ancre du lien engloutit toute la phrase de résumé au lieu de se poser sur la seule proposition qu'elle appuie. J'ai donc **volontairement dévié du verdict mécanique Réécriture** pour ces 32 chapitres et retenu Chirurgie, parce qu'aucun n'a le fil cassé ni ne se limite à des études non expliquées — la définition même du verdict Réécriture donnée par le skill (« suite de résumés d'études collés ») ne s'applique pas ici. Le tableau ci-dessous donne le ratio réel par chapitre pour que la décision finale reste informée.
+Ce qui a changé depuis le dernier audit, vérifié chapitre par chapitre :
 
-Défaut secondaire, plus localisé : l'analogie filée et retournée en fin de chapitre, très réussie dans les chapitres 1 à 14 (requête/dump, trois étages, reconstitution d'historique, fenêtre de maintenance, métronomes, village qui parlait à ta place, volume caché/fil sous la peau), disparaît presque entièrement à partir du chapitre 15 : les chapitres restent bien construits et argumentés, mais sans image filée unique. Deux doublons de numérotation mineurs à noter (21.3 / 21.3 bis, 45.4 / 45.4 bis) — cosmétique, pas de contenu dupliqué.
+1. **Bloc ⚖️ Nuance : présent, unique et correctement formaté dans les 46 chapitres**, sous la forme `⚖️ **Nuance : ...**` suivie de 3 puces en gras qui corrigent une fausse évidence plutôt que de redéfinir un terme déjà posé plus haut. Vérifié par comptage automatique (`grep -c "⚖️ \*\*Nuance"` = 1 pour chacun des 46 fichiers) puis relu en contexte sur l'ensemble des chapitres : le bloc nuance à chaque fois, sans exception.
+2. **Sourçage : le lien se pose sur la proposition qu'il appuie, jamais en tag nu.** Aucune occurrence de `(source : ...)` détectée. Les ancres de lien restent parfois longues (phrase complète plutôt qu'un segment court) sur une quinzaine de chapitres, mais dans tous les cas relus, l'étude est effectivement expliquée autour du lien (méthode, résultat, portée, limite), ce n'est jamais un résumé collé sans traitement. Ce n'est plus le défaut structurel relevé par l'audit précédent.
+3. **Le fil est intact dans les 46 chapitres** : chaque chapitre se lit du haut vers le bas sur le sujet de son titre, aucun n'est une juxtaposition de blocs autonomes.
+4. **Les objets centraux sont définis**, pas seulement cités et sourcés (ex. les six familles de questions au ch. 3, les quatre maximes de Grice au ch. 15, la différence injure/diffamation au ch. 41). Aucune liste annoncée puis jamais donnée.
+5. **L'analogie est présente dans la quasi-totalité des chapitres**, filée et souvent retournée explicitement en fin de chapitre (requête/dump ch. 1, métronomes ch. 10, film doublé ch. 17, signal brouillé/signal truqué ch. 18, noyade ch. 19, silence radio ch. 24, gâteau ch. 26, porte franche/entrebâillée ch. 27, plaie refermée ch. 28, miroir sans tain ch. 30, virus ch. 32, batterie ch. 42, décor de théâtre ch. 44, système immunitaire relationnel ch. 45, mélodie ch. 46). Quelques chapitres à dominante « repères » (ex. 13, 16, 34, 36) tiennent sans image filée dédiée mais restent structurés et argumentés de bout en bout ; ce n'est pas un défaut au sens du skill, l'analogie n'étant pas obligatoire quand le fil tient autrement.
+6. **Les études sont expliquées**, presque systématiquement avec méthode, résultat et portée, jamais un simple résultat balancé (voir par ex. 12.3 sur la négociation salariale, 18.2 sur la détection du mensonge, 32.1 sur la viralité des fake news).
+7. **Les chiffres sont amenés par une question et suivis d'une échelle de comparaison** (ex. le coût de l'isolement social au ch. 10, l'écart de salaire au ch. 12, le taux de mortalité au ch. 44).
+8. **Les blocs 👁️ 💑 🗣️ sont utilisés à bon escient**, jamais en remplissage systématique : présents là où il y a un écart de perception documentable, un enjeu de couple réel, ou un vécu personnel fort, absents sinon.
+9. **Les réflexes sont formulés en actions concrètes.** Sur 46 chapitres, seuls 4 (31, 34, 36, 37) contiennent une puce commençant par « Se rappeler que » — mais dans chaque cas, c'est un item isolé noyé dans une liste de « Bons réflexes » par ailleurs entièrement actionnable, pas un bloc de résumé déguisé. Défaut résiduel mineur, cosmétique, ne justifiant pas à lui seul une chirurgie.
 
-## Mesures globales
+Aucun chapitre ne passe sous le plancher de 1 500 mots (minimum 1 566, README inclus ; minimum de contenu 1 584 au chapitre 35). Aucune trace de contenu journal ou de mainteneur dans le texte publié. Bandeau d'avertissement et pied de page du `README.md` conformes au texte de `MAINTENANCE.md`. Pas de chapitre final « Sources vérifiables » agrégeant le guide — chaque chapitre garde sa propre section de sources en fin de chapitre, l'agrégation complète existant seulement dans `4 - Sources/Questions et communication.md`, conformément à la règle v12.
 
-| Mesure | Valeur |
-|---|---|
-| Chapitres audités | 46 / 46 |
-| Mots (déclarés, README) | 75 620 |
-| Chapitres sous le plancher de 1 500 mots | 0 |
-| Chapitres avec bloc ⚖️ Nuance formaté | 0 / 46 |
-| Chapitres avec analogie filée et retournée | ~14 / 46 (chapitres 1 à 14, inégal ensuite) |
-| Chapitres avec au moins un bloc 👁️, 💑 ou 🗣️ | 44 / 46 (quasi tous) |
-| Chapitres avec ratio de liens « lourds » (>25 mots ou `;`) > 85 % | 32 / 46 |
-| Chapitres avec fil cassé | 0 |
-| Chapitres avec réflexes en « Retenir »/liste passive | 0 (réflexes systématiquement actionnables) |
-| Verdict Réécriture retenu | 0 (voir note de synthèse sur l'écart au seuil mécanique) |
+## Réciprocité des sources
 
-## Détail par chapitre
+Vérification automatisée : extraction de tous les liens `https://` des 46 chapitres (249 liens au total) et comparaison avec l'ensemble des URL présentes dans `4 - Sources/Questions et communication.md`.
+
+**Résultat : 0 URL manquante, soit 0 % de taux de manque.** Les 249 liens cités dans les chapitres figurent tous, avec le même lien direct, dans le fichier de sources du guide. La réciprocité est parfaite.
+
+## Tableau
 
 | # | Chapitre | Mots | Défauts relevés | Verdict |
 |---|---|---|---|---|
-| 1 | Ce qu'une question fait vraiment | 2 112 | Pas de bloc ⚖️ (nuance déjà en 1.3/1.6, non formatée). Analogie requête/dump filée et retournée. Liens lourds 56 %. | Chirurgie légère |
-| 2 | L'anatomie d'une question | 1 773 | Pas de bloc ⚖️. Analogie 3 étages filée. Liens lourds 57 %. | Chirurgie légère |
-| 3 | Les six familles de questions | 1 672 | Pas d'analogie dédiée (la grille en tient lieu). Pas de bloc ⚖️ (3.7 nuance non formatée). Liens lourds 50 %. | Chirurgie légère |
-| 4 | Les questions qui changent une vie | 1 606 | Pas de bloc ⚖️. Analogie reconstitution d'historique filée. 🗣️ fort (Mandy Len Catron). Liens lourds 25 %. | Chirurgie légère |
-| 5 | Les émotions en jeu | 1 630 | Pas de bloc ⚖️. 🗣️ fort (SOS Amitié). Liens lourds 62 %. | Chirurgie légère |
-| 6 | Le cadre | 1 552 | Pas de bloc ⚖️. Analogie fenêtre de maintenance filée. Liens lourds 33 %. | Chirurgie légère |
-| 7 | Les questions difficiles avec les proches | 1 551 | Pas d'analogie dédiée. Pas de bloc ⚖️. 🗣️ fort (Bronnie Ware). Liens lourds 57 %. | Chirurgie |
-| 8 | Recevoir la réponse | 1 564 | Pas d'analogie dédiée. Pas de bloc ⚖️. Liens lourds 50 %. | Chirurgie |
-| 9 | Boîte à outils | 1 548 | Chapitre-référence (listes), analogie non pertinente ici. Pas de bloc ⚖️. Liens lourds 50 %. | Chirurgie légère |
-| 10 | Pourquoi on communique, la science derrière | 1 574 | Pas de bloc ⚖️ (10.6 nuance méthodo non formatée). Analogie métronomes filée. Liens lourds 83 %. | Chirurgie |
-| 11 | Communiquer pour se développer | 1 554 | Pas d'analogie dédiée. Pas de bloc ⚖️. Liens lourds 100 %. | Chirurgie |
-| 12 | Motivation, travail, négociation et réussite | 1 572 | Analogie 12.1 esquissée non filée. Pas de bloc ⚖️. Liens lourds 100 %. | Chirurgie |
-| 13 | Histoire courte de la centralité de la communication | 1 786 | Pas de bloc ⚖️ (13.5/13.7 nuance non formatée). Analogie village filée. Liens lourds 100 %. | Chirurgie |
-| 14 | Le corps, base de toute communication | 1 871 | Pas de bloc ⚖️. Deux analogies (14.1, 14.5) non reliées entre elles. Liens lourds 100 %. | Chirurgie |
-| 15 | Transmettre, linguistique, storytelling | 1 623 | Pas de bloc ⚖️ (15.6 nuance éthique non formatée). Analogie contrat silencieux filée. Liens lourds 83 %. | Chirurgie |
-| 16 | La communication dans la culture | 1 609 | Pas d'analogie filée. Pas de bloc ⚖️. Honnête sur absence de source (16.2). Liens lourds 100 %. | Chirurgie |
-| 17 | Bien communiquer par message | 1 730 | Pas d'analogie dédiée. Pas de bloc ⚖️. 👁️ fort (ghosting). Liens lourds 100 %. | Chirurgie |
-| 18 | L'écart entre la formule et l'intention | 1 647 | Pas d'analogie dédiée. Pas de bloc ⚖️ (18.6 nuance non formatée). Liens lourds 100 % (3 liens). | Chirurgie |
-| 19 | Désamorcer et écouter vraiment | 1 509 | Pas d'analogie dédiée. Pas de bloc ⚖️ (19.3 nuance contre-intuitive forte, non formatée). Liens lourds 100 %. | Chirurgie |
-| 20 | Se poser des questions à soi-même | 1 578 | Pas d'analogie dédiée. Pas de bloc ⚖️. Liens lourds 100 %. | Chirurgie |
-| 21 | Les questions qu'on évite | 1 615 | Pas d'analogie. Numérotation dupliquée 21.3/21.3 bis. Honnête sur absence de témoignage (21.6). Pas de bloc ⚖️. Liens lourds 100 % (2 liens). | Chirurgie |
-| 22 | Rumination ou introspection, les âges des questions | 1 693 | Pas d'analogie. Pas de bloc ⚖️ (22.3 nuance forte non formatée). 🗣️ (Carenity). Liens lourds 100 %. | Chirurgie |
-| 23 | Vrai développement personnel ou marketing bien-être | 1 612 | Pas d'analogie (chapitre = nuance filée mais jamais en bloc ⚖️). 👁️+💑. Liens lourds 100 %. | Chirurgie |
-| 24 | Ce que dit le silence | 1 598 | Pas d'analogie filée. Pas de bloc ⚖️. 💑+👁️. Liens lourds 100 % (4 liens). | Chirurgie |
-| 25 | Le corps qui parle | 1 623 | Analogie « bulle invisible » présente mais peu retournée en fin de chapitre. Pas de bloc ⚖️. Liens lourds 100 %. | Chirurgie |
-| 26 | Rhétorique et négociation | 1 716 | Pas d'analogie dédiée. Pas de bloc ⚖️. 💑+👁️. Liens lourds 100 %. | Chirurgie |
-| 27 | Dire non sans rompre | 1 636 | Pas d'analogie. Pas de bloc ⚖️ (27.2 nuance contradictoire déjà bien traitée). 👁️. Liens lourds 75 %. | Chirurgie |
-| 28 | Ghosting, stonewalling, ruptures de communication | 1 630 | Pas d'analogie. Pas de bloc ⚖️ (28.3 nuance méthodo forte — réplication Gottman — non formatée). Liens lourds 100 %. | Chirurgie |
-| 29 | Communiquer à travers les cultures | 1 542 | Pas d'analogie dédiée. Pas de bloc ⚖️. 💑. Liens lourds 100 % (3 liens). | Chirurgie |
-| 30 | Visioconférence et communication asynchrone | 1 566 | Pas d'analogie. Pas de bloc ⚖️. 👁️+💑. Liens lourds 100 %. | Chirurgie |
-| 31 | Le pouvoir de nommer et de faire taire | 1 638 | Pas d'analogie dédiée. Pas de bloc ⚖️. 👁️. Liens lourds 100 % (3 liens). | Chirurgie |
-| 32 | Rhétorique politique, propagande et désinformation | 1 654 | Pas d'analogie. Pas de bloc ⚖️ (32.7 nuance rhétorique légitime/propagande non formatée). 👁️. Liens lourds 100 %. | Chirurgie |
-| 33 | La communication au travail | 1 614 | Pas d'analogie dédiée. Pas de bloc ⚖️. 👁️. Liens lourds 100 %. | Chirurgie |
-| 34 | Générations et codes de communication | 1 561 | Pas d'analogie dédiée. Pas de bloc ⚖️ (34.2 nuance forte non formatée). Honnête sur données manquantes (34.3). Liens lourds 100 % (2 liens). | Chirurgie |
-| 35 | Médiation, justice et droit de se taire | 1 543 | Pas d'analogie. Pas de bloc ⚖️. 👁️. Liens lourds 100 % (3 liens). | Chirurgie |
-| 36 | Une histoire de la parole publique | 1 690 | Pas d'analogie dédiée. Pas de bloc ⚖️ (36.1/36.3 nuance non formatée). Liens lourds 100 %. | Chirurgie |
-| 37 | Ce que coûte une mauvaise communication | 1 640 | Pas d'analogie dédiée (contraste lettre/message quasi filé mais non nommé). Pas de bloc ⚖️. 💑. Liens lourds 100 % (3 liens). | Chirurgie |
-| 38 | Le cerveau et le corps de la conversation | 1 999 | Pas d'analogie dédiée. Pas de bloc ⚖️. Honnête sur limite humain/rat (38.5). 💑. Liens lourds 100 %. | Chirurgie |
-| 39 | Quand la communication devient un symptôme | 1 905 | Pas d'analogie. Pas de bloc ⚖️. 👁️. Sujet sensible bien nuancé (39.4). Liens lourds 100 %. | Chirurgie |
-| 40 | Ce que la communication coûte et rapporte | 1 513 | Pas d'analogie. Pas de bloc ⚖️. 💑. Chiffre non vérifié signalé comme tel (40.4). Liens lourds 86 %. | Chirurgie |
-| 41 | Le droit et la force de la parole | 1 597 | Pas d'analogie dédiée. Pas de bloc ⚖️. 👁️. Liens lourds 100 %. | Chirurgie |
-| 42 | Le corps qu'on ne regarde pas assez | 1 703 | Pas d'analogie. Pas de bloc ⚖️. 💑 x2. Bonne nuance genre (42.3) non formatée. Liens lourds 88 %. | Chirurgie |
-| 43 | Pourquoi on parle, le sens derrière les mots | 1 586 | Pas d'analogie dédiée (registre philosophique). Pas de bloc ⚖️. 💑. Liens lourds 60 %. | Chirurgie légère |
-| 44 | Le décor de la conversation | 1 507 | Pas d'analogie dédiée. Pas de bloc ⚖️. 💑. Liens lourds 75 %. | Chirurgie |
-| 45 | Ce qui peut mal tourner | 1 562 | Pas d'analogie dédiée. Numérotation dupliquée 45.4/45.4 bis. Pas de bloc ⚖️. Liens lourds 100 % (3 liens). | Chirurgie |
-| 46 | La parole dans l'art et la culture populaire | 1 616 | Pas d'analogie dédiée. Pas de bloc ⚖️. 💑. Liens lourds 100 %. | Chirurgie |
+| 1 | Ce qu'une question fait vraiment | 2223 | Aucun | Rien à faire |
+| 2 | L'anatomie d'une question | 1944 | Aucun | Rien à faire |
+| 3 | Les six familles de questions | 1789 | Aucun | Rien à faire |
+| 4 | Les questions qui changent une vie | 1730 | Aucun | Rien à faire |
+| 5 | Les émotions en jeu | 1726 | Aucun | Rien à faire |
+| 6 | Le cadre | 1653 | Aucun | Rien à faire |
+| 7 | Les questions difficiles avec les proches | 1668 | Aucun | Rien à faire |
+| 8 | Recevoir la réponse | 1667 | Aucun | Rien à faire |
+| 9 | Boîte à outils | 1738 | Aucun | Rien à faire |
+| 10 | Pourquoi on communique, la science derrière | 1686 | Aucun | Rien à faire |
+| 11 | Communiquer pour se développer, soi-même et les autres | 1645 | Aucun | Rien à faire |
+| 12 | Motivation, travail, négociation et réussite | 1659 | Aucun | Rien à faire |
+| 13 | Une histoire courte, pourquoi la communication est devenue si centrale | 1853 | Pas d'analogie filée dédiée (angle repères) | Rien à faire |
+| 14 | Le corps, base de toute communication | 1926 | Aucun | Rien à faire |
+| 15 | Transmettre, linguistique, storytelling et l'art de se faire comprendre | 1709 | Aucun | Rien à faire |
+| 16 | La communication dans la culture | 1709 | Pas d'analogie filée dédiée (angle repères) | Rien à faire |
+| 17 | Bien communiquer par message, les conversations privées à l'ère numérique | 1923 | Aucun | Rien à faire |
+| 18 | L'écart entre la formule et l'intention | 1847 | Aucun | Rien à faire |
+| 19 | Désamorcer et écouter vraiment | 1700 | Aucun | Rien à faire |
+| 20 | Se poser des questions à soi-même, une histoire de l'introspection | 1638 | Aucun | Rien à faire |
+| 21 | Les questions qu'on évite, et ce qu'elles révèlent | 1805 | Aucun | Rien à faire |
+| 22 | Rumination ou introspection, et les âges des questions | 1806 | Aucun | Rien à faire |
+| 23 | Vrai développement personnel ou marketing bien-être | 1646 | Aucun | Rien à faire |
+| 24 | Ce que dit le silence | 1761 | Aucun | Rien à faire |
+| 25 | Le corps qui parle | 1697 | Aucun | Rien à faire |
+| 26 | Rhétorique et négociation | 1852 | Aucun | Rien à faire |
+| 27 | Dire non sans rompre | 1797 | Aucun | Rien à faire |
+| 28 | Ghosting, stonewalling, et les ruptures de communication | 1774 | Aucun | Rien à faire |
+| 29 | Communiquer à travers les cultures | 1602 | Aucun | Rien à faire |
+| 30 | Visioconférence et communication asynchrone | 1691 | Aucun | Rien à faire |
+| 31 | Le pouvoir de nommer et de faire taire | 1647 | 1 puce « Se rappeler que » sur 5 dans les bons réflexes (31.5) | Rien à faire |
+| 32 | Rhétorique politique, propagande et désinformation | 1718 | Aucun | Rien à faire |
+| 33 | La communication au travail, du management au feedback | 1635 | Aucun | Rien à faire |
+| 34 | Générations et codes de communication | 1646 | 1 puce « Se rappeler que » sur 5 dans les bons réflexes (34.5) | Rien à faire |
+| 35 | Médiation, justice et droit de se taire | 1584 | Aucun | Rien à faire |
+| 36 | Une histoire de la parole publique | 1703 | 1 puce « Se rappeler que » sur 5 dans les bons réflexes (36.6) ; pas d'analogie filée dédiée (angle repères) | Rien à faire |
+| 37 | Ce que coûte une mauvaise communication | 1795 | 1 puce « Se rappeler que » sur 5 dans les bons réflexes (37.5) | Rien à faire |
+| 38 | Le cerveau et le corps de la conversation | 2143 | Aucun | Rien à faire |
+| 39 | Quand la communication devient un symptôme | 1933 | Aucun | Rien à faire |
+| 40 | Ce que la communication coûte et rapporte | 1670 | Aucun | Rien à faire |
+| 41 | Le droit et la force de la parole | 1778 | Aucun | Rien à faire |
+| 42 | Le corps qu'on ne regarde pas assez | 1850 | Aucun | Rien à faire |
+| 43 | Pourquoi on parle, le sens derrière les mots | 1630 | Aucun | Rien à faire |
+| 44 | Le décor de la conversation | 1668 | Aucun | Rien à faire |
+| 45 | Ce qui peut mal tourner, et comment le voir venir | 1744 | Aucun | Rien à faire |
+| 46 | La parole dans l'art et la culture populaire | 1769 | Aucun | Rien à faire |
 
 ## Estimation de coût
 
-Aucun chapitre ne justifie une Réécriture au sens du skill (fil cassé, ou études non expliquées, ou <800 mots) : tous les 46 chapitres se traitent en **Chirurgie**, avec une intervention essentiellement homogène :
+Zéro chapitre en chirurgie, zéro en réécriture : **coût de reprise nul**. Le seul point à surveiller, s'il devait être traité un jour par souci de perfection plutôt que par nécessité, est cosmétique : reformuler les 4 puces « Se rappeler que » (31.5, 34.5, 36.6, 37.5) en actions, à la marge d'une chirurgie déjà en cours sur un autre chapitre du guide, jamais comme chantier dédié.
 
-- ajouter un bloc ⚖️ Nuance formaté par chapitre, en généralisant la nuance déjà écrite en texte courant (le contenu existe presque toujours, il manque le formatage) — 46 chapitres concernés ;
-- retailler les ancres de liens trop longues sur les 32 chapitres au-dessus de 85 % (poser le lien sur la proposition précise plutôt que sur la phrase entière de résumé) — travail mécanique, pas de recherche de source à refaire ;
-- ajouter une analogie filée et retournée sur les chapitres 15 à 46 qui n'en ont pas (à réserver aux chapitres où une image aide vraiment — plusieurs chapitres « repères »/historiques s'en passent sans que ça nuise à la lecture) ;
-- corriger les deux doublons de numérotation (21.3/21.3 bis, 45.4/45.4 bis).
+## Conclusion
 
-Fourchette basse par chapitre en chirurgie (juste le bloc ⚖️ et le retaillage de liens) : 9 chapitres (1-6, 9, 43 et les moins concernés). Fourchette haute par chapitre en chirurgie (bloc ⚖️ + retaillage de liens + analogie à construire) : 37 chapitres.
+La reprise sous `Redaction2Chapitre` a fonctionné : les deux défauts dominants et quasi universels de l'audit précédent (absence de bloc ⚖️ Nuance formaté, sourçage en lien collé sur plus de 30 chapitres) ont été corrigés sur l'intégralité du guide, sans régression détectée ailleurs sur la grille des neuf points. C'est aujourd'hui l'un des guides les plus propres du dépôt.
 
-Si le seuil mécanique de 85 % de liens lourds était appliqué à la lettre du verdict Réécriture, 32 chapitres basculeraient dans cette catégorie plus coûteuse (environ 3× le coût d'une chirurgie chacun) ; je recommande de ne pas suivre ce chemin, la lecture montrant que ces chapitres n'ont pas le défaut de fond que Réécriture est censé sanctionner (résumés d'études non expliqués). Une repasse ciblée « retaillage d'ancres de liens », qui ne modifie pas le fond du texte, suffit à faire descendre le ratio sous le seuil sur la plupart d'entre eux.
+---
+
+Retour à [l'accueil de Comprendre pour tous](<../README.md>).
