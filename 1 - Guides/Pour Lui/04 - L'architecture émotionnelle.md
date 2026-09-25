@@ -155,6 +155,14 @@ Petit lexique de traduction, à prendre comme une aide et non comme une vérité
 - **"Fais comme tu veux."** Rarement de l'indifférence. Souvent de l'épuisement décisionnel, ou une manière d'éviter un conflit qu'il ne se sent pas capable de tenir en ce moment.
 - **Le silence prolongé après une dispute.** Presque jamais de la punition, contrairement à ce qui est vécu en face. Le plus souvent une saturation physiologique réelle, décrite au chapitre 16.1. [Ce laconisme est cohérent avec le concept d'alexithymie masculine normative](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7).
 
+⚖️ **Nuance.** Ce chapitre entier repose sur des mécanismes qu'on confond facilement avec leur apparence.
+
+- L'alexithymie n'est pas de l'indifférence : l'absence de mot pour l'émotion n'est pas une absence d'émotion, et traiter un « je sais pas » comme un refus de répondre revient à punir quelqu'un pour un accès qu'il n'a effectivement pas.
+- La colère-parapluie n'est pas toujours de la colère : sous ce voyant unique se cachent souvent la honte, la peur ou l'impuissance, et y répondre comme à de la colère pure revient à traiter le mauvais symptôme.
+- Le silence après une dispute n'est pas une punition : c'est le plus souvent une saturation physiologique réelle, et l'interpréter comme une stratégie hostile envenime une situation qui n'en était pas une au départ.
+
+Ce que recouvrent ces trois confusions : prendre l'expression visible d'un homme pour ce qu'il ressent réellement, alors que l'architecture émotionnelle décrite dans ce chapitre déforme systématiquement l'une par rapport à l'autre.
+
 ## Sources vérifiables
 
 - LeDoux, J. (1996), [The Emotional Brain](https://www.simonandschuster.com/books/The-Emotional-Brain/Joseph-Ledoux/9780684836591), Simon & Schuster ; vérification du 11 août 2026.

@@ -63,6 +63,19 @@ Si tu ne devais retenir que trois leviers physiques sur la santé émotionnelle 
 2. **L'alcool.** Régulateur émotionnel le plus utilisé par les hommes, et dépresseur du système nerveux central. Il soulage sur l'instant et aggrave le fond. Deux verres quotidiens qui deviennent trois est un signal, pas une habitude.
 3. **L'activité physique.** L'effet antidépresseur de l'exercice régulier est l'un des mieux documentés en psychiatrie, avec des effets comparables à certains traitements sur les formes légères à modérées. Chez un homme qui régule par le corps plutôt que par la parole, c'est souvent le levier le plus accessible. Attention toutefois à la version pathologique décrite en 6.2 : le sport peut aussi devenir un évitement, quand il sert à ne pas rentrer à la maison. [Le tabac, l'alcool et la sédentarité figurent parmi les facteurs de risque dont la charge combinée sur la santé est la mieux quantifiée au niveau mondial](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30752-2/fulltext).
 
+### 8.6 Ce que ce chapitre change dans le regard qu'on porte sur son propre corps
+
+La plupart des inquiétudes masculines sur le corps décrites dans ce chapitre partagent un même point de départ : un chiffre entendu vaguement, jamais vérifié, jamais replacé dans son contexte réel. « Ma testostérone doit être basse », « je vais avoir une andropause », « une panne à quarante ans, c'est fini » — ce sont des phrases qui circulent, entre hommes ou en silence dans sa propre tête, beaucoup plus largement que les données qui permettraient de les évaluer réellement et correctement.
+
+Ce que ce chapitre a cherché à établir, presque section par section, c'est que la réalité clinique est presque toujours plus rassurante que la rumeur : le DALA reste minoritaire avant soixante-dix ans, la dysfonction érectile se soigne dans la grande majorité des cas, le cancer du testicule guérit très bien pris à temps, et le trio sommeil-alcool-activité physique du 8.5 pèse souvent plus lourd sur l'état général que n'importe quel dosage hormonal isolé. Le corps masculin n'est pas le mécanisme fragile et mystérieux que certains discours laissent entendre — c'est un système bien documenté, largement modifiable par des leviers concrets, et dont la plupart des dérèglements se traitent bien, une fois nommés à temps et pris au sérieux sans honte ni tabou.
+
+⚖️ **Nuance.** Deux confusions entretiennent l'inquiétude autour du corps masculin.
+
+- Une baisse de testostérone liée à l'âge n'est pas une andropause : contrairement à la ménopause, c'est lent, partiel, et ça ne concerne qu'une minorité d'hommes avant soixante-dix ans, ce qui rend le mot trompeur et l'inquiétude qu'il déclenche souvent disproportionnée.
+- Une dysfonction érectile n'est pas qu'un problème sexuel isolé : c'est, dans une large part des cas après 50 ans, un signal d'alerte vasculaire précoce, et la traiter en silence par honte revient à ignorer une information utile pour le cœur, pas seulement pour la sexualité.
+
+Ce que recouvrent ces deux confusions : un chiffre ou un mot mal calibré transforme une variation banale en inquiétude disproportionnée, ou masque un vrai signal derrière la gêne qu'il provoque.
+
 ## Sources vérifiables
 
 - Haute Autorité de Santé, [Détection précoce du cancer de la prostate](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate) ; vérification du 11 août 2026.
@@ -72,9 +85,3 @@ Si tu ne devais retenir que trois leviers physiques sur la santé émotionnelle 
 - [Testosterone Replacement Therapy in Men Aged 50 and Above: A Narrative Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12535424/), *PMC* ; vérification du 11 août 2026.
 
 Les autres chiffres de ce chapitre (déclin annuel moyen de la testostérone, prévalence de la dysfonction érectile par âge, prévalence française après 40 ans) sont attribués à leurs sources institutionnelles d'origine — Société Française d'Endocrinologie, La Revue du Praticien, Association Française d'Urologie — sans lien individuel vérifié à ce jour ; le chiffre de 1 % de déclin annuel moyen après 30 à 40 ans est par ailleurs cohérent avec plusieurs synthèses cliniques récentes sur le vieillissement hormonal masculin.
-
-### 8.6 Ce que ce chapitre change dans le regard qu'on porte sur son propre corps
-
-La plupart des inquiétudes masculines sur le corps décrites dans ce chapitre partagent un même point de départ : un chiffre entendu vaguement, jamais vérifié, jamais replacé dans son contexte réel. « Ma testostérone doit être basse », « je vais avoir une andropause », « une panne à quarante ans, c'est fini » — ce sont des phrases qui circulent, entre hommes ou en silence dans sa propre tête, beaucoup plus largement que les données qui permettraient de les évaluer réellement et correctement.
-
-Ce que ce chapitre a cherché à établir, presque section par section, c'est que la réalité clinique est presque toujours plus rassurante que la rumeur : le DALA reste minoritaire avant soixante-dix ans, la dysfonction érectile se soigne dans la grande majorité des cas, le cancer du testicule guérit très bien pris à temps, et le trio sommeil-alcool-activité physique du 8.5 pèse souvent plus lourd sur l'état général que n'importe quel dosage hormonal isolé. Le corps masculin n'est pas le mécanisme fragile et mystérieux que certains discours laissent entendre — c'est un système bien documenté, largement modifiable par des leviers concrets, et dont la plupart des dérèglements se traitent bien, une fois nommés à temps et pris au sérieux sans honte ni tabou.

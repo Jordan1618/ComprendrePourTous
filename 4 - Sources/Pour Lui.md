@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Pour Lui"
-mis_a_jour_le: 2026-09-17
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -143,3 +143,153 @@ Sources du guide [Pour Lui](<../1 - Guides/Pour Lui/README.md>), classées par t
 | Texas Health Resources, [Study Reveals Men Will Do Almost Anything to Avoid the Doctor](https://www.texashealth.org/areyouawellbeing/Mens-Health/Study-Reveals-Men-Will-Do-Almost-Anything-to-Avoid-the-Doctor) | Évitement médical, chiffres | 39.3 |
 | Men Psychology, [Why Men Avoid Going to the Doctor](https://menpsychology.com/why-men-avoid-going-to-the-doctor/) | Mécanisme identitaire de l'évitement | 39.3 |
 
+## Chapitres 1 à 29 (compléments de réciprocité, passe de chirurgie du 25 septembre 2026)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Insee, [Bilan démographique 2025](https://www.insee.fr/fr/statistiques/8719824?sommaire=8721209) | — | 01 |
+| [Therapy Bro Summer: Why More Men Are Choosing Therapy in 2025](https://www.accesstherapy.ca/speaking-with-my-therapist-blog/therapy-bro-summer-why-more-men-are-choosing-therapy-in-2025), Access Therapy | — | 01 |
+| [Accidents du travail et maladies professionnelles : que révèle l'année 2024 ?](https://www.sstrn.fr/actualites/accidents-du-travail-maladies-professionnelles-que-revele-lannee-2024), SSTRN | — | 01 |
+| [Baisse historique des accidents du travail dans le secteur de la construction](https://www.wolterskluwer.com/fr-be/expert-insights/workplace-accidents-in-construction), Wolters Kluwer | — | 01 |
+| [Men's Mental Health: Bridging the Gender Gap in Therapy](https://insightco.ca/men-and-mental-health-exploring-the-gender-gap-in-therapy/), Insight Ottawa | — | 01 |
+| [Gender and Age Differences in Psychotherapy Use Among U.S. Adults With Depression and Anxiety](https://psychiatryonline.org/doi/10.1176/appi.psychotherapy.20250050), *American Journal of Psychotherapy* | — | 01 |
+| [Obesity, type 2 diabetes, and testosterone in ageing men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9789005/), *PMC* | — | 02 |
+| [Overweight men can boost low testosterone levels by losing weight](https://www.sciencedaily.com/releases/2012/06/120625124914.htm), *ScienceDaily*, Endocrine Society | — | 02 |
+| [Testosterone and Obesity in an Aging Society](https://www.mdpi.com/2218-273X/15/11/1521), *Biology* | — | 02 |
+| [Does Working Out Increase Testosterone? What Experts Say](https://honehealth.com/edge/does-working-out-increase-testosterone/), Hone Health | — | 02 |
+| [Short-Term Exercise Training Inconsistently Influences Basal Testosterone in Older Men: A Systematic Review and Meta-Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6339914/), *PMC* | — | 02 |
+| Cochran, S. & Rabinowitz, F. (2000), [Men and Depression: Clinical and Empirical Perspectives](https://www.sciencedirect.com/book/9780121775407/men-and-depression), Academic Press | — | 06 |
+| Assurance Maladie, [Dispositif Mon soutien psy : chiffres-clés](https://www.ameli.fr/assure/actualites/dispositif-mon-soutien-psy-chiffres-cles-et-premiers-temoignages-de-patients) | — | 06 |
+| [Effectiveness of man therapy to reduce suicidal ideation and depression among working-age men: A randomized controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10100179/), *PMC* | — | 06 |
+| [Key Findings in Effective Therapeutic Approaches for Men](https://kingsburywellness.org/key-findings-in-effective-therapeutic-approaches-for-men/), Kingsbury Wellness | — | 06 |
+| [Heart rate variability biofeedback in a global study of the most common coherence frequencies](https://www.nature.com/articles/s41598-025-87729-7), *Scientific Reports* | — | 07 |
+| [Influencing Cardiovascular Outcomes through Heart Rate Variability Modulation: A Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8700170/), *PMC* | — | 07 |
+| [Endurance- and Resistance-Trained Men Exhibit Lower Cardiovascular Responses to Psychosocial Stress Than Untrained Men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5992644/), *PMC* | — | 07 |
+| [The Optimal Exercise Modality and Dose for Cortisol Reduction in Psychological Distress](https://pmc.ncbi.nlm.nih.gov/articles/PMC12736704/), *PMC* | — | 07 |
+| [Does CPAP Therapy Really Work For Sleep Apnea?](https://dreamsleep.ca/does-cpap-therapy-really-work-for-sleep-apnea/), Dream Sleep | — | 07 |
+| [From CPAP Struggles to Sleep Success](https://www.jeffersonhealth.org/your-health/living-well/from-cpap-to-success-how-upper-airway-stimulation-helped-me-find-restorative-rest), Jefferson Health | — | 07 |
+| Haute Autorité de Santé, [Détection précoce du cancer de la prostate](https://www.has-sante.fr/jcms/c_1623737/fr/detection-precoce-du-cancer-de-la-prostate) | — | 08 |
+| Wu, F. et coll. (2010), [Identification of Late-Onset Hypogonadism in Middle-Aged and Elderly Men (EMAS)](https://www.nejm.org/doi/full/10.1056/NEJMoa0911101), *New England Journal of Medicine* | — | 08 |
+| [Testosterone replacement therapy improves the health-related quality of life of men diagnosed with late-onset hypogonadism](https://www.sciencedirect.com/science/article/pii/S2090598X15001333), *Arab Journal of Urology* | — | 08 |
+| [Testosterone Replacement Therapy in Men Aged 50 and Above: A Narrative Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12535424/), *PMC* | — | 08 |
+| Organisation mondiale de la santé, [Family planning/contraception methods](https://www.who.int/news-room/fact-sheets/detail/family-planning-contraception) | — | 09 |
+| [Hormonal contraceptive gel for men suppresses sperm production by week 8](https://www.healio.com/news/endocrinology/20240603/hormonal-contraceptive-gel-for-men-suppresses-sperm-production-by-week-8), Healio | — | 09 |
+| ["Encouraging" Early Results in Male Contraceptive Gel Trial](https://www.medcentral.com/endocrinology/male-contraceptive-gel-is-safe-effective-and-easy), MedCentral | — | 09 |
+| [Do Men Regret Vasectomy? Facts & Research Explained](https://vasec.org/do-men-regret-vasectomy-what-the-research-really-says/), Vasec | — | 09 |
+| [A review of the changing landscape of vasectomy trends in the United States in the post-Dobbs era](https://www.nature.com/articles/s41443-025-01053-2), *International Journal of Impotence Research* | — | 09 |
+| [Phosphodiesterase-5 (PDE5) Inhibitors In the Management of Erectile Dysfunction](https://pmc.ncbi.nlm.nih.gov/articles/PMC3776492/), *PMC* | — | 10 |
+| [Efficacy of PDE-5-inhibitors for erectile dysfunction](https://www.nature.com/articles/3901395), *International Journal of Impotence Research* | — | 10 |
+| [Phosphodiesterase type 5 inhibitors as a treatment for erectile dysfunction: Current information and new horizons](https://www.tandfonline.com/doi/full/10.1016/j.aju.2013.07.009), *Arab Journal of Urology* | — | 10 |
+| [PDE5 Inhibitors](https://www.ncbi.nlm.nih.gov/books/NBK549843/), StatPearls | — | 10 |
+| [The Role of Sexual Communication in Committed Relationships](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=6032&context=etd) | — | 11 |
+| [The mediating role of sexual and nonsexual communication](https://scholars.uky.edu/en/publications/the-mediating-role-of-sexual-and-nonsexual-communication-between-/), University of Kentucky | — | 11 |
+| [Happiness Across the Life Span: Not a Slippery Slope after all](https://dornsife.usc.edu/news/stories/people-get-happier-as-they-age/), USC Dornsife | — | 13 |
+| [The U-Curve of Happiness Revisited](https://link.springer.com/article/10.1007/s10902-022-00569-4), *Journal of Happiness Studies* | — | 13 |
+| [How Dads bond with toddlers: Brain scans link oxytocin to paternal nurturing](https://www.sciencedaily.com/releases/2017/02/170217095925.htm), *ScienceDaily* | — | 13 |
+| [Is paternal oxytocin an oxymoron?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9272151/), *PMC* | — | 13 |
+| [The Men's Shed Movement: Highlighting Friendship](https://menssheds.ie/wp-content/uploads/2020/04/Mens-Shed-Movement-and-Friendship-A-McGrath-2020.pdf), Men's Sheds Ireland | — | 14 |
+| [You've Got a Friend in Me: The Importance of a Confidant](https://www.ijmsc.org/view/importance-of-confidant-among-women-with-multiple-sclerosis), *International Journal of MS Care* | — | 14 |
+| [What Is the Soft Startup?](https://empathi.com/blog/what-is-the-soft-startup/), Figs O'Sullivan Couples Therapy | — | 16 |
+| [Gottman Conflict Resolution: Softened Startup](https://naturalstatecounselingcenters.com/wp-content/uploads/2024/07/Gottman-Conflict-Softened-Startup-R-FRY.pdf) | — | 16 |
+| [Gottman Repair Attempts](https://couplestherapyinc.com/gottman-repair-attempts/), Couples Therapy Inc | — | 16 |
+| Lewicki, R. et coll. (2016), [The 6 elements of an effective apology, according to science](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/), Ohio State University | — | 16 |
+| [Wong, Y. J., Ho, M.-H. R., Wang, S.-Y. & Miller, I. S. K. (2017), « Meta-Analyses of the Relationship Between Conformity to Masculine Norms and Mental Health-Related Outcomes », *Journal of Counseling Psychology*](https://pubmed.ncbi.nlm.nih.gov/27869454/) | — | 18 |
+| [Wilson, M., Gwyther, K., Swann, R., Casey, K., Featherston, R., Oliffe, J. L., Englar-Carlson, M. & Rice, S. M. (2022), « Operationalizing positive masculinity: a theoretical synthesis and school-based framework to engage boys and young men », *Health Promotion International*](https://academic.oup.com/heapro/article/37/1/daab031/6220389) | — | 18 |
+| [Reis, H., Clark, M. & Holmes, J. (2004), « Perceived Partner Responsiveness as an Organizing Construct for the Study of Intimacy and Closeness »](https://www.sas.rochester.edu/psy/people/faculty/reis_harry/assets/pdf/ReisClarkHolmes_2004.pdf) | — | 19 |
+| [Blood Pressure Lowering Treatment Trialists' Collaboration (2021), « Pharmacological blood pressure lowering for primary and secondary prevention of cardiovascular disease across different levels of blood pressure », *The Lancet*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00590-0/fulltext) | — | 20 |
+| [Santé publique France, *Cancer colorectal : données de dépistage*](https://www.santepubliquefrance.fr/en/cancer-du-colon-rectum/data) | — | 20 |
+| [American Men Suffer a Friendship Recession](https://www.americansurveycenter.org/commentary/american-men-suffer-a-friendship-recession/), Survey Center on American Life | — | 21 |
+| [What Is The Bro Code](https://www.thebrogan.org/what-is-the-bro-code/) | — | 21 |
+| [Men and Friendships](https://www.gatewaytosolutions.org/men-and-friendships/), Gateway to Solutions | — | 21 |
+| [The Strength in Vulnerability for Men](https://www.psychologytoday.com/us/blog/the-male-friendship-experience/202509/the-strength-in-vulnerability-for-men), *Psychology Today* | — | 21 |
+| [It's Okay, I'm Fine: A Communication Approach to Masculinity, Vulnerability, And Emotional Intimacy in Male Friendships](https://digitalcommons.usu.edu/etd2023/795/), thèse, Utah State University, 2023 | — | 21 |
+| [Are Men More Loyal to Their Friends Than Their Partners?](https://goodmenproject.com/featured-content/are-men-more-loyal-to-their-friends-than-their-partners/), *Men and Masculinities*, reprise par The Good Men Project | — | 21 |
+| [Global Research Report of Male Social Connection: Fatherhood and Social Connections](https://cdn.movember.com/uploads/images/News/UK/Movember%20Fathers%20&%20Social%20Connections%20Report.pdf), Movember | — | 21 |
+| Hammarén, N. & Johansson, T. (2014), [Homosociality: In Between Power and Intimacy](https://journals.sagepub.com/doi/10.1177/2158244013518057), *SAGE Open* | — | 21 |
+| [The Death of the Third Place — and How to Bring It Back](https://dinnerswithfriends.co.uk/blog/death-of-third-place-how-to-bring-it-back), Dinners With Friends | — | 21 |
+| [Where Did All the Men's Friends Go?](https://www.longevityhub.net/p/where-did-all-the-mens-friends-go), Longevity Hub | — | 21 |
+| [The Friendship Recession: Why We Have Fewer Close Friends Than Ever](https://www.therr.app/blog/2026/4_23_2026_friendship_recession.html) | — | 21 |
+| Frei, J. & Shaver, P. (2002), [Respect in close relationships: Prototype definition, self-report assessment, and initial correlates](https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Frei_2002_Respect-in-close-relationships.pdf), *Personal Relationships* | — | 22 |
+| [The Dual-Pathway Model of Respect in Romantic Relationships](https://doi.org/10.3390/sexes5030024), *Sexes* | — | 22 |
+| [Women and Men are the Barometers of Relationships: Testing the Predictive Power of Women's and Men's Relationship Satisfaction](https://www.pnas.org/doi/10.1073/pnas.2209460119), *PNAS* | — | 22 |
+| [Research connects affection, attachment style and marriage satisfaction](https://www.binghamton.edu/news/story/2391/hugs-and-kisses-research-connects-affection-attachment-style-and-marriage-satisfaction), Binghamton University | — | 22 |
+| [Mindfulness and Gratitude as Predictors of Marital Satisfaction](https://dash.harvard.edu/bitstreams/19e350f4-97fb-4dae-a544-f5d3970f67fd/download), Harvard DASH | — | 22 |
+| [In the quest for effective factors of satisfaction with life: Insights from intra-couple interaction and financial management variables](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10019632/), *PMC* | — | 22 |
+| [Men seen as financial providers in U.S., even as women's contributions grow](https://www.pewresearch.org/short-reads/2017/09/20/americans-see-men-as-the-financial-providers-even-as-womens-contributions-grow/), Pew Research Center, 2017 | — | 22 |
+| [When 'Be the Provider' Becomes a Burden: How Traditional Expectations Impact Men's Mental Health](https://www.cbscounseling.com/post/when-being-the-provider-becomes-a-burden-how-traditional-expectations-impact-mens-mental-health) | — | 22 |
+| [Satisfaction guaranteed? How individual, partner, and relationship factors impact sexual satisfaction within partnerships](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0172855), *PLOS ONE* | — | 22 |
+| [Intimately Connected: The Importance of Partner Responsiveness for Experiencing Sexual Desire](https://www.researchgate.net/publication/305211692_Intimately_Connected_The_Importance_of_Partner_Responsiveness_for_Experiencing_Sexual_Desire) | — | 22 |
+| Kaufman, M., cité dans [Young Men's Vulnerability in Relation to Women's Resistance to Emphasized Femininity](https://www.westga.edu/share/documents/pubs/010814_73.pdf) | — | 23 |
+| [Competition and humiliation: how masculine norms shape men's sexual and violent behaviors](https://pubmed.ncbi.nlm.nih.gov/31190723/), *PubMed* | — | 23 |
+| [Why Men Struggle With Vulnerability](https://www.anxiousminds.co.uk/vulnerability/), Anxious Minds | — | 23 |
+| Downey, G. et coll. (2000), [Rejection sensitivity and male violence in romantic relationships](https://onlinelibrary.wiley.com/doi/10.1111/j.1475-6811.2000.tb00003.x), *Personal Relationships* | — | 23 |
+| [The Fear of Failure in Men and How It Shapes Their Behavior](https://www.madregawellness.com/blog/the-fear-of-failure-in-men-and-how-it-shapes-their-behavior), Madrega Wellness | — | 23 |
+| [MANdatory - why men need (and are needed for) gender equality progress](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1263313/full), *Frontiers in Psychology* | — | 23 |
+| [Les victimes de violences physiques hors cadre familial enregistrées par les services de sécurité en 2023](https://www.interieur.gouv.fr/actualites/communiques-de-presse/victimes-de-violences-physiques-hors-cadre-familial-enregistrees), Ministère de l'Intérieur | — | 23 |
+| [Les victimes de violences physiques hors cadre familial enregistrées par les services de sécurité en 2024](https://www.interieur.gouv.fr/actualites/communiques-de-presse/victimes-de-violences-physiques-hors-cadre-familial-enregistrees-par-services-de-securite-en-2024), Ministère de l'Intérieur | — | 23 |
+| [En 2023, trois suicides sur quatre concernaient des hommes](https://www.cnews.fr/sante/2025-10-10/en-2023-trois-suicides-sur-quatre-concernaient-des-hommes-selon-sante-publique), Santé publique France, reprise par *CNEWS* | — | 23 |
+| [The psychological impact of false accusations, and how men cope](https://www.centreformalepsychology.com/male-psychology-magazine-listings/the-psychological-impact-of-false-accusations-and-how-men-cope), Centre for Male Psychology | — | 24 |
+| [False allegations of sexual and domestic violence: the facts](https://xyonline.net/content/false-allegations-sexual-and-domestic-violence-facts), XY Online | — | 24 |
+| [Violences conjugales enregistrées par les services de sécurité : quasi-stabilisation en 2024](https://www.interieur.gouv.fr/actualites/communiques-de-presse/violences-conjugales-enregistrees-par-services-de-securite-quasi-stabilisation-en-2024), Ministère de l'Intérieur | — | 24 |
+| [Men's Fears of Dependency in Relationships](https://psychologytoday.com/gb/blog/fear-intimacy/201901/men-s-fears-dependency-in-relationships), *Psychology Today* | — | 24 |
+| [Impact of Fear of Intimacy and Emotional Dependency on Romantic Relationships](https://www.ijfmr.com/papers/2025/5/59318.pdf), *IJFMR*, 2025 | — | 24 |
+| [Economic Consequences of Divorce: A Review](https://link.springer.com/chapter/10.1007/978-3-030-44575-1_2), Springer | — | 24 |
+| [Who Suffers Most in Divorce](https://wmtxlaw.com/who-suffers-most-in-divorce/) | — | 24 |
+| [Attachment Style, Friendship Quality and the Mediating Effect of Communication Skills in Young Adults Friendship](https://www.researchgate.net/publication/372034812_Attachment_Style_Friendship_Quality_and_the_Mediating_Effect_of_Communication_Skills_in_Young_Adults_Friendship) | — | 25 |
+| [Exploring Attachment Styles and Friendship Quality in Boys and Men](https://ijip.in/wp-content/uploads/2024/05/18.01.198.20241202.pdf), *IJIP* | — | 25 |
+| [When Friendships End: 5 Ways Men and Women Process Loss of Friendship Grief](https://ahead-app.com/blog/grief/when-friendships-end-5-ways-men-and-women-process-loss-of-friendship-grief), Ahead App | — | 25 |
+| [Why Men's Loss Of Friendship Grief Matters For Mental Health](https://ahead-app.com/blog/Grief/why-men-s-loss-of-friendship-grief-matters-for-mental-health-grief), Ahead App | — | 25 |
+| [Are Dominant or Prestigious Men More Attractive to Women?](https://www.psychologytoday.com/us/blog/the-attraction-doctor/201803/are-dominant-or-prestigious-men-more-attractive-to-women), *Psychology Today* | — | 25 |
+| [Generativity and Gendered Pathways to Health: The Role of Human, Social, and Financial Capital Past Mid-Life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9099985/), *PMC* | — | 25 |
+| [Men Who Mentor: The Sacred Art of Guiding the Next Generation](https://www.beyondbrotherhood.ca/post/men-who-mentor-the-sacred-art-of-guiding-the-next-generation), Beyond Brotherhood | — | 25 |
+| [Adult friendship and wellbeing: A systematic review with practical implications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9902704/), *PMC* | — | 25 |
+| [Evidence Brief: How Many Friends Do You Need?](https://www.socialconnectionguidelines.org/en/evidence-briefs/how-many-friends-do-you-need), Social Connection Guidelines | — | 25 |
+| Buss, D., [étude interculturelle sur 37 cultures](https://www.sciencedaily.com/releases/2019/09/190919122506.htm), reprise par *ScienceDaily* | — | 26 |
+| [Intelligence and kindness are the most valued traits in romantic partners, study finds](https://www.psypost.org/intelligence-and-kindness-are-the-most-valued-traits-in-romantic-partners-study-finds/), *PsyPost* | — | 26 |
+| Université de l'Iowa, reprise dans [What Men Really Want: The Most Common Qualities Men Look For In Women](https://thoughtsonlifeandlove.com/what-men-really-want-the-most-common-qualities-men-look-for-in-women-according-to-research/96306/) | — | 26 |
+| [Why Men Need to Be in a Relationship More Than Women Do](https://www.psychologytoday.com/us/blog/closer-encounters/202501/why-men-need-to-be-in-a-relationship-more-than-women-do), *Psychology Today* | — | 26 |
+| [Men more likely to struggle with emotional support](https://mentalhealth.barchester.com/news/men-more-likely-struggle-emotional-support), Barchester Mental Health Hospitals | — | 26 |
+| [Laughter, then love: Study explores why humor is important in romantic attraction](https://news.ku.edu/news/article/2015/08/27/first-comes-laughter-then-love-study-finds-out-why-humor-important-romantic-attraction), University of Kansas | — | 26 |
+| [In the long run, funny women satisfy men more](https://news.ku.edu/news/article/2019/05/24/long-run-funny-women-satisfy-men-more), University of Kansas | — | 26 |
+| [Marriage Provides Health Benefits–Especially for Men](https://www.bluezones.com/2025/02/marriage-provides-health-benefits-especially-for-men/), Blue Zones | — | 26 |
+| [Health, Marriage, and Longer Life for Men](https://www.rand.org/pubs/research_briefs/RB5018.html), RAND Corporation | — | 26 |
+| [Moving beyond attraction, compassion, and competence: evidence for compatibility as a distinct component of mate preferences](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1725609/full), *Frontiers in Psychology*, 2026 | — | 26 |
+| Arnocky, S. (2018), [Self-Perceived Mate Value, Facial Attractiveness, and Mate Preferences: Do Desirable Men Want It All?](https://journals.sagepub.com/doi/10.1177/1474704918763271), *Evolutionary Psychology* | — | 26 |
+| [Little evidence linking five 'love languages' to healthy relationships, researchers say](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say), University of Toronto | — | 27 |
+| Bode, A. et coll. (2025), [Sex differences in romantic love: an evolutionary perspective](https://doi.org/10.1186/s13293-025-00698-4), *Biology of Sex Differences* | — | 27 |
+| [How Do Men Perceive Love](https://www.talktoangel.com/blog/how-do-men-perceive-love), TalktoAngel | — | 27 |
+| [The Power of Acts of Service: Showing Love Through Actions](https://mentalzon.com/en/post/3179/the-power-of-acts-of-service-showing-love-through-actions), Mentalzon, citant Schoenfeld et coll. (2012) | — | 27 |
+| [The Neurobiology of Love and Pair Bonding from Human and Animal Perspectives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10295201/), *PMC* | — | 27 |
+| [An Experimental Test of Jealousy's Evolved Function](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11363030/), *PMC* | — | 27 |
+| [Sexual and Emotional Infidelity: Evolved Gender Differences in Jealousy Prove Robust and Replicable](https://pubmed.ncbi.nlm.nih.gov/29592639/), *PubMed* | — | 27 |
+| [Why Some Long-Term Couples Can Maintain Their Passion](https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202407/can-passionate-love-survive-the-test-of-time), *Psychology Today* | — | 27 |
+| [Long-Term Relationship Maintenance: The Psychology of Staying Connected](https://www.simplypsychology.com/articles/long-term-relationship-maintenance-psychology), *Simply Psychology* | — | 27 |
+| [Father involvement in family dynamics: a qualitative exploration of perceptions and cultural influences](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1672384/full), *Frontiers in Psychology* | — | 28 |
+| ["Good fathers": Community perceptions of idealized fatherhood and reported fathering behaviors in Mwanza, Tanzania](https://pmc.ncbi.nlm.nih.gov/articles/PMC11238964/), *PMC* | — | 28 |
+| [Dads Can Be Nurturing Too: Debunking Stereotypes About Fatherhood In The Modern Family](https://funtimesmagazine.com/dads-can-be-nurturing-too-debunking-stereotypes-about-fatherhood-in-the-modern-family/), FunTimes Magazine | — | 28 |
+| [Maternal Gatekeeping: Mothers' Beliefs and Behaviors That Inhibit Greater Father Involvement in Family Work](https://www.researchgate.net/publication/270206190_Maternal_Gatekeeping_Mothers'_Beliefs_and_Behaviors_That_Inhibit_Greater_Father_Involvement_in_Family_Work) | — | 28 |
+| [When New Fathers Take More Leave, Does Maternal Gatekeeping Decline?](https://link.springer.com/article/10.1007/s11199-025-01565-7), *Sex Roles* | — | 28 |
+| [Father Wound: Signs in Daughters, Women and Men](https://www.attachmentproject.com/psychology/father-wound/), The Attachment Project | — | 28 |
+| Miller, R. (2013), [Why the Father Wound Matters: Consequences for Male Mental Health and the Father-Son Relationship](https://www.researchgate.net/publication/264407639_Why_the_Father_Wound_Matters_Consequences_for_Male_Mental_Health_and_the_Father-Son_Relationship), *Child Abuse Review* | — | 28 |
+| [Healing wounds: exploring the hyphen in son-father relations as an adult child of an alcoholic](https://www.tandfonline.com/doi/full/10.1080/03069885.2021.1996535) | — | 28 |
+| [Father presence, adolescent girls' resilience, psychological security, and achievement goal orientation](https://pmc.ncbi.nlm.nih.gov/articles/PMC11488148/), *PMC* | — | 28 |
+| [The Importance of Father Daughter Relationships](https://www.allforkids.org/news/blog/the-importance-of-father-daughter-relationships/), Children's Bureau | — | 28 |
+| [Father–Daughter Relationships: Impact, Stages & Support](https://mindandbodyworks.com/father-daughter-relationships/) | — | 28 |
+| [Understanding the Disneyland Dad](https://dadsdivorce.com/articles/understanding-the-disneyland-dad/), Dads Divorce | — | 28 |
+| [Mères vs pères célibataires : inégalités et chiffres](https://www.mere-celibataire.fr/article/les-meres-celibataires-vs-les-peres-celibataires/) | — | 29 |
+| [Being One in a World of Twos: Experiences and Consequences of Single Parenting](https://www.researchgate.net/publication/359120723_Being_One_in_a_World_of_Twos_Experiences_and_Consequences_of_Single_Parenting) | — | 29 |
+| [American Journal of Humanities and Social Sciences Research, 2024](https://www.ajhssr.com/wp-content/uploads/2024/09/ZA24809310333.pdf) | — | 29 |
+| [Being Raised by a Single Parent Who Dates: How It May be Affecting the Children](https://www.communicatingpsychologicalscience.com/blog/being-raised-by-a-single-parent-who-dates-how-it-may-be-affecting-the-children), Communicating Psychological Science | — | 29 |
+| [Recherche de prise de masse musculaire et dysmorphie musculaire chez les bodybuilders](https://shs.cairn.info/revue-staps-2018-1-page-65?lang=fr), *STAPS*, Cairn.info | — | 38 |
+| [Dysmorphie musculaire et pratiques problématiques de l'activité physique](https://stm.cairn.info/revue-movement-and-sport-sciences-2024-1-page-33?lang=fr), *Movement & Sport Sciences*, Cairn.info | — | 38 |
+| Psychology Today, [Why Are Younger Men Presenting with Erectile Disorder?](https://www.psychologytoday.com/us/blog/sex-esteem/202204/why-are-younger-men-presenting-with-erectile-disorder) | — | 39 |
+| Creative Soul Coaching, [The Burden of the Breadwinner](https://www.creativesoulcoaching.net/blog/the-burden-of-the-breadwinner) | — | 39 |
+| InsideHook, [Why Do Men Avoid Going to the Doctor?](https://www.insidehook.com/wellness/why-men-avoid-doctor) | — | 39 |
+| Farges, Corcos & Speranza et al., [L'alexithymie dans les conduites de dépendance et chez le sujet sain](https://www.researchgate.net/publication/246563574_L'alexithymie_dans_les_conduites_de_dependance_et_chez_le_sujet_sain_valeur_en_population_francaise_et_francophone), réseau Dépendance | — | 4 |
+| [Sex differences in the timing and experience of falling in love](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows), *ScienceAlert* | — | 27 |
+| [When New Fathers Take More Leave: healing and the son-father hyphen](https://onlinelibrary.wiley.com/doi/abs/10.1002/car.2219), *Child Abuse Review* | — | 28 |
+| Feldman, R. et al., [OT and T in fathers](https://ruthfeldmanlab.com/wp-content/uploads/2019/06/OT-and-T-in-fathers.PNBP2014.pdf), *Psychoneuroendocrinology*, 2014 | — | 31 |
+| Haute Autorité de santé, [page d'accueil](https://www.has-sante.fr/) | — | 20 |
+| Fédération française des CECOS, [cecos.org](https://www.cecos.org/) | — | 33 |
+| ANAMACaP, [anamacap.fr](https://anamacap.fr/) | — | 33 |
+| Movember, [movember.com](https://movember.com/) | — | 33 |

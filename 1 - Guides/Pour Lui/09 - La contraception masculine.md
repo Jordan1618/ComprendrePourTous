@@ -89,6 +89,13 @@ La plupart des hommes qui arrivent au bout de ce chapitre découvrent qu'ils ava
 
 Ce que ce chapitre a essayé de faire, c'est de combler ce manque une bonne fois, en un seul endroit : ce qui existe réellement aujourd'hui, ce qui progresse et dans quel délai réaliste, ce qui ne protège de rien malgré les croyances persistantes, et la conversation concrète à avoir pour que la charge cesse de reposer par défaut sur une seule personne. Un homme qui a lu ce chapitre en entier dispose, à la fin, de plus d'informations sur sa propre contraception que la plupart des hommes de son entourage — ce qui, en soi, change déjà la nature de la conversation qu'il peut avoir avec sa ou son partenaire.
 
+⚖️ **Nuance.** Deux confusions freinent l'engagement masculin en matière de contraception.
+
+- Interrompre la fertilité n'est pas toucher à la virilité : la vasectomie ne modifie ni la testostérone, ni l'érection, ni le plaisir, et l'association ancienne entre les deux n'a aucun fondement physiologique.
+- « Elle gère » n'est pas une méthode contraceptive : c'est une délégation, qui peut être un choix commun assumé, mais seulement si elle a été discutée explicitement plutôt que reconduite par défaut.
+
+Ce que recouvrent ces deux confusions : traiter une question de couple comme une affaire réglée d'avance, par ignorance ou par habitude plutôt que par choix.
+
 ## Sources vérifiables
 
 - Grady, W., Tanfer, K., Billy, J. & Lincoln-Hanson, J. (1996), [Men's Perceptions of Their Roles and Responsibilities Regarding Sex, Contraception and Childrearing](https://www.guttmacher.org/journals/psrh/1996/09/mens-perceptions-their-roles-and-responsibilities-regarding-sex-contraception), *Family Planning Perspectives* ; vérification du 7 août 2026.

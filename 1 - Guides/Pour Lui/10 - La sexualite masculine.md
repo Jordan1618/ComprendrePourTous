@@ -97,6 +97,13 @@ La formulation qui désamorce, dite à froid et hors de la chambre : **« ça n'
 
 Un dernier point mérite d'être répété une fois, à la fin, parce qu'il résume tout ce chapitre : la sexualité masculine est un système physiologique parmi d'autres, avec ses mécanismes propres, ses dérèglements identifiables et ses traitements documentés — pas un test de virilité qui se réussirait ou s'échouerait une fois pour toutes. Un homme qui consulte pour un trouble sexuel fait exactement la même démarche que celui qui consulte pour une douleur au genou ou une tension trop élevée. Rien dans cette démarche ne dit quoi que ce soit sur qui il est, et tout ce que la médecine sait aujourd'hui sur ces troubles va dans le même sens : ils se traitent, souvent bien, et l'attente avant de consulter est presque toujours, très largement, plus longue que nécessaire — souvent des années, alors que la consultation elle-même prend quelques minutes et débouche, dans la majorité des cas, sur une solution concrète et rapidement efficace.
 
+⚖️ **Nuance.** Deux confusions pèsent sur la sexualité masculine plus que sur son fonctionnement réel.
+
+- Un trouble sexuel n'est pas un test de virilité raté : c'est un dérèglement physiologique identifiable, qui se traite comme n'importe quel autre, et le vivre comme un verdict sur qui on est retarde la consultation sans rien résoudre.
+- Le désir réactif n'est pas une anomalie masculine : la culture présente le désir des hommes comme toujours spontané et disponible, alors que ne pas avoir envie spontanément est une variation normale du système, pas un signe que quelque chose ne va pas.
+
+Ce que recouvrent ces deux confusions : prendre une variation physiologique banale pour un jugement sur sa valeur.
+
 ## Sources vérifiables
 
 - Lue, T. (2000), [Erectile dysfunction](https://pubmed.ncbi.nlm.nih.gov/10853004/), *New England Journal of Medicine* ; vérification du 7 août 2026.

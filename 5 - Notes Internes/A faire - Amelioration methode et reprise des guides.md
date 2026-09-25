@@ -368,8 +368,25 @@ Les 31 chapitres relevés par l'audit ont tous été repris (28 en chirurgie sta
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : Pour Lui (38 chapitres)
+### Guide Pour Lui (38 chapitres) — terminé le 25/09/2026
+
+Les 29 chapitres en chirurgie relevés par l'audit ont tous été repris (17 en chirurgie légère : 1-11, 13, 14, 16, 18, 19, 20 ; 13 en chirurgie plus lourde : 21-29, 36-39 ; le chapitre 18 comptait double car sa section 18.4 servait déjà de bloc nuance en 12 points, formalisée plutôt que dupliquée). Les 9 chapitres jugés « rien à faire » (12, 15, 17, 30, 31, 32, 33, 34) n'ont pas été touchés. Défaut dominant relevé par l'audit : absence totale des blocs ⚖️ Nuance et 🗣️ Témoignage sur les 38 chapitres, et sourçage nettement plus collé (40-55 %) sur la série 21-29 et 36-39, sans analogie filée.
+
+- 29 blocs ⚖️ Nuance ajoutés (un par chapitre en chirurgie), formalisant chaque fois une nuance déjà présente en prose plutôt que d'en inventer une nouvelle, jamais de redéfinition d'un terme déjà défini dans le corps du texte.
+- Aucun bloc 🗣️ Témoignage forcé, faute d'accès web fiable pour vérifier un témoignage réel et publié dans cette session — conforme à la règle du skill.
+- Blocs 👁️ ajoutés là où un candidat évident dormait dans le texte sans bloc dédié : ch.3 (double injonction contemporaine vécue par le partenaire).
+- 13 analogies filées et retournées en fin de chapitre ajoutées sur les chapitres 21 à 29 et 36 à 39, qui n'en avaient aucune : le feu de camp (21), le compte de reconnaissance (22), le casier fermé à clé (23), le détecteur de fumée (24), l'arbre élagué (25), la façade et la fondation (26), l'interprète (27), la porte à deux battants (28), l'île mal reliée (29), le radar discret (36), l'horloge à deux aiguilles (37), le cheval de Troie (38), le frein à main serré (39).
+- Liens collés découpés sur les 13 chapitres denses (21-29, 36-39), avec ajout de la méthode concrète (ce que les chercheurs ont fait) pour plusieurs études centrales auparavant citées par leur seul résultat.
+- Deux défauts de structure corrigés au passage : la numérotation 19.6 placée avant 19.3 (section réordonnée à la fin, sans changer le contenu), et deux sections « Sources vérifiables » mal placées en milieu de chapitre (ch.6 et ch.8), déplacées en toute fin de chapitre.
+- Tous les réflexes passifs (« Se rappeler que… », « Retenir que… », « Se souvenir que… ») convertis en actions sur les 29 chapitres.
+- Total du guide : 66 500 mots environ (audit) → 76 243 mots comptés par le script local, 76 281 par `build-guides-complets.py` (écart mineur accepté).
+- Pipeline complet exécuté sans erreur, aucun lien cassé spécifique à ce guide (hors faux positifs connus de fragments d'ancre interne), README du guide et README racine mis à jour (colonne Chapitres corrigée de 30 à 38), réciprocité vérifiée et complétée dans `4 - Sources/Pour Lui.md` (146 sources préexistantes qui manquaient de réciprocité, ajoutées, la plupart antérieures à cette session de chirurgie).
+- Guide non commité par l'agent en arrière-plan, laissé pour vérification et commit par la session principale.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : Pour Elle (39 chapitres)
 
 ## Comment reprendre
 
-Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions, L'amour et Les nouvelles compositions familiales. Continuer guide par guide sur les trois guides restants (Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales et Pour Lui. Continuer guide par guide sur les deux guides restants (Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

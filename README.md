@@ -85,7 +85,7 @@ Ce projet est un kit de base : de quoi se comprendre soi-même et comprendre l'a
 | Guide | Sujet | Chapitres | Contenu | Lire |
 |---|---|---|---|---|
 | [Pour Elle](<1 - Guides/Pour Elle/README.md>) | corps féminin | 34 | Cycle, contraception, pathologies, sexualité, grossesse, profils psychologiques, âges de la vie, couple, limites, attentes et peurs relationnelles, mères célibataires | [intégrale](<0 - Guides complets/Pour Elle.md>) |
-| [Pour Lui](<1 - Guides/Pour Lui/README.md>) | corps masculin | 30 | Émotions, dépression, corps, cycle, contraception, sexualité, couple, santé long terme, attentes et peurs relationnelles, pères célibataires | [intégrale](<0 - Guides complets/Pour Lui.md>) |
+| [Pour Lui](<1 - Guides/Pour Lui/README.md>) | corps masculin | 38 | Émotions, dépression, corps, cycle, contraception, sexualité, couple, santé long terme, attentes et peurs relationnelles, pères célibataires | [intégrale](<0 - Guides complets/Pour Lui.md>) |
 | [Pour Nous](<1 - Guides/Pour Nous/README.md>) | commun | 11 | Trauma, décisions communes, quotidien et charge, projets de vie, épreuves, deuil, histoire du couple | [intégrale](<0 - Guides complets/Pour Nous.md>) |
 | [Les nouvelles compositions familiales](<1 - Guides/Les nouvelles compositions familiales/README.md>) | commun | 31 | Panorama actuel, autres modèles familiaux, droit, biologie du lien, coparentalité numérique et écrans, religion et mixité culturelle, place de chacun, risques et protections | [intégrale](<0 - Guides complets/Les nouvelles compositions familiales.md>) |
 | [La rencontre](<1 - Guides/La rencontre/README.md>) | commun | 9 | Attirance, attachement, biais de choix, applications, signaux d'alerte, sécurité | [intégrale](<0 - Guides complets/La rencontre.md>) |

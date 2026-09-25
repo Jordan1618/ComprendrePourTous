@@ -67,6 +67,13 @@ C'est tout l'intérêt du 14.3 bis : un seul confident de plus, ou un seul rende
 
 Le paradoxe qui traverse tout ce chapitre, une fois qu'on prend le temps de le voir clairement, devient ensuite difficile à ignorer, tant il éclaire tout le reste : c'est souvent la peur de perdre du temps de couple qui empêche d'investir dans ces liens extérieurs, alors que c'est précisément l'absence de ces liens qui, à terme, use le couple lui-même. Un homme qui a trois personnes vers qui se tourner arrive dans la conversation de couple moins chargé, moins en attente d'une réponse à tout, et donc, paradoxalement, plus disponible pour elle plutôt que moins. Ce chapitre n'a donc pas seulement cherché à décrire un problème réel : il a cherché à montrer que la solution la plus efficace ne coûte, au fond, presque rien — un rendez-vous régulier, une activité partagée, un seul confident supplémentaire — au regard de ce qu'elle rapporte concrètement, à lui comme au couple dans son ensemble, sur des années entières de vie commune.
 
+⚖️ **Nuance.** Deux confusions entretiennent ce désert relationnel.
+
+- Un réseau amical construit par l'activité n'est pas moins réel qu'un réseau construit par la conversation : c'est un autre chemin vers la même intimité, et le lire comme une carence relationnelle plutôt que comme un format différent mène à sous-estimer ce que ces liens apportent réellement.
+- Encourager ses amitiés extérieures n'est pas du temps volé au couple : c'est de la redondance de circuit qui rend, à terme, plus disponible pour la relation, pas moins.
+
+Ce que recouvrent ces deux confusions : juger un mode de lien masculin à l'aune d'un modèle qui n'est pas le sien.
+
 ## Sources vérifiables
 
 - Wright, P. (1982), [Men's friendships, women's friendships and the alleged inferiority of the former](https://link.springer.com/article/10.1007/BF00287670), *Sex Roles* ; vérification du 7 août 2026.

@@ -39,20 +39,6 @@ Si plusieurs de ces points sont vrais, ce n'est pas un problème de communicatio
 
 Un repère simple pour distinguer un ajustement normal d'un déséquilibre installé : est-ce que ce travail de traduction circule dans les deux sens, à des moments différents, sur des sujets différents, ou est-ce qu'il ne circule que dans un seul sens depuis que la relation existe. Le premier cas est la vie normale d'un couple. Le second est le signal qui doit alerter, quelle que soit la bonne volonté des deux personnes.
 
-### 19.6 Ce qui rend une relation réciproque solide
-
-Ce chapitre a surtout parlé de charge, de déséquilibre et de limites à poser — il faut dire aussi ce que la recherche montre du côté opposé, celui qui fonctionne, parce que ça change directement la façon de lire ce qui précède.
-
-**La réciprocité perçue, pas seulement réelle, prédit la solidité du lien.** Un cadre de recherche déjà ancien mais toujours central en psychologie des relations montre que ce qui construit l'intimité et la sécurité dans un couple, ce n'est pas seulement le fait que chacun soutienne effectivement l'autre, c'est le fait que chacun *perçoive* que l'autre comprend, valorise et soutient les aspects centraux de qui il est. [Ce sentiment d'être compris et pris en compte fonctionne dans les deux sens à la fois : plus une personne se sent elle-même comprise, plus elle devient capable d'être présente et attentive pour l'autre](https://www.sas.rochester.edu/psy/people/faculty/reis_harry/assets/pdf/ReisClarkHolmes_2004.pdf). C'est un cercle qui s'auto-alimente quand il fonctionne, et qui s'épuise vite quand il ne circule que dans un seul sens — exactement le mécanisme derrière les six signes du 19.2.
-
-**Ce que ça change concrètement dans ce chapitre.** Poser une limite sur la traduction permanente n'est pas un renoncement à l'intimité, c'est souvent la condition pour qu'elle redevienne possible. Une personne qui porte seule le décodage émotionnel de l'autre pendant des mois finit, presque toujours, par se sentir elle-même de moins en moins comprise en retour — ce qui abîme exactement le mécanisme qui rend un couple solide. Nommer la limite, demander de l'aide extérieure, refuser de porter seule ce qui ne se porte pas seul : ce n'est donc pas contraire à une relation réciproque forte, c'est ce qui la protège.
-
-**Bons réflexes.**
-
-- Se demander, une fois par mois environ, qui a porté quoi ces dernières semaines, dans les deux sens. Un déséquilibre ponctuel ne veut rien dire ; un déséquilibre qui se répète sur plusieurs mois veut dire quelque chose.
-- Nommer à voix haute, une fois que ça va mieux, ce qui a été porté et ce qui a aidé. La réciprocité se construit aussi en étant reconnue, pas seulement en étant pratiquée.
-- Se rappeler qu'un homme qui reçoit autant qu'il apprend à donner progresse plus vite qu'un homme à qui on ne demande jamais rien en retour.
-
 ### 19.3 Ce qui relève du soin et pas de toi
 
 Trois situations où l'intervention professionnelle n'est pas une option parmi d'autres :
@@ -91,6 +77,26 @@ Dernier point, et il compte. Vivre avec quelqu'un qui exprime peu demande une vi
 Un couple où une personne est en permanence l'aidante et l'autre l'aidé n'est pas un couple, c'est un service. La réciprocité n'a pas besoin d'être symétrique dans la forme, elle a besoin d'exister. [Préserver sa propre santé émotionnelle est un facteur protecteur documenté chez les proches aidants](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et coll., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
 Ce dernier point rejoint directement le 19.6 : une personne qui prend soin de ses propres besoins n'est pas égoïste, elle entretient la seule ressource qui lui permettra de continuer à être présente pour l'autre sur la durée. Ce n'est pas un renoncement au couple, c'est une condition de sa tenue dans le temps.
+
+### 19.6 Ce qui rend une relation réciproque solide
+
+Ce chapitre a surtout parlé de charge, de déséquilibre et de limites à poser — il faut dire aussi ce que la recherche montre du côté opposé, celui qui fonctionne, parce que ça change directement la façon de lire ce qui précède.
+
+**La réciprocité perçue, pas seulement réelle, prédit la solidité du lien.** Un cadre de recherche déjà ancien mais toujours central en psychologie des relations montre que ce qui construit l'intimité et la sécurité dans un couple, ce n'est pas seulement le fait que chacun soutienne effectivement l'autre, c'est le fait que chacun *perçoive* que l'autre comprend, valorise et soutient les aspects centraux de qui il est. [Ce sentiment d'être compris et pris en compte fonctionne dans les deux sens à la fois : plus une personne se sent elle-même comprise, plus elle devient capable d'être présente et attentive pour l'autre](https://www.sas.rochester.edu/psy/people/faculty/reis_harry/assets/pdf/ReisClarkHolmes_2004.pdf). C'est un cercle qui s'auto-alimente quand il fonctionne, et qui s'épuise vite quand il ne circule que dans un seul sens — exactement le mécanisme derrière les six signes du 19.2.
+
+**Ce que ça change concrètement dans ce chapitre.** Poser une limite sur la traduction permanente n'est pas un renoncement à l'intimité, c'est souvent la condition pour qu'elle redevienne possible. Une personne qui porte seule le décodage émotionnel de l'autre pendant des mois finit, presque toujours, par se sentir elle-même de moins en moins comprise en retour — ce qui abîme exactement le mécanisme qui rend un couple solide. Nommer la limite, demander de l'aide extérieure, refuser de porter seule ce qui ne se porte pas seul : ce n'est donc pas contraire à une relation réciproque forte, c'est ce qui la protège.
+
+**Bons réflexes.**
+
+- Se demander, une fois par mois environ, qui a porté quoi ces dernières semaines, dans les deux sens. Un déséquilibre ponctuel ne veut rien dire ; un déséquilibre qui se répète sur plusieurs mois veut dire quelque chose.
+- Nommer à voix haute, une fois que ça va mieux, ce qui a été porté et ce qui a aidé. La réciprocité se construit aussi en étant reconnue, pas seulement en étant pratiquée.
+- Face à un homme à qui on ne demande jamais rien en retour, lui confier explicitement quelque chose à porter : recevoir autant qu'il apprend à donner accélère sa progression, plus que le fait d'être seulement soutenu.
+
+⚖️ **Nuance.** Une confusion traverse tout ce chapitre.
+
+- Comprendre un mécanisme n'est pas excuser un comportement : l'un sert à choisir la bonne approche et à continuer de demander un changement, l'autre glisse en tolérance indéfinie de quelque chose qui n'a jamais été traité, et les deux se ressentent très différemment de l'intérieur alors qu'ils partent de la même compréhension.
+
+Ce que recouvre cette confusion : utiliser la connaissance d'une cause pour justifier de ne rien changer, plutôt que pour ajuster ce qu'on fait ensuite.
 
 ## Sources vérifiables
 

@@ -10,13 +10,15 @@ licence: "CC BY 4.0"
 
 # Comment expriment-ils leur amour
 
+**L'analogie de l'interprète.** Un discours traduit en simultané perd son ton, jamais son sens, à condition que l'auditeur sache qu'une traduction est en cours. Sans le savoir, on peut croire que l'orateur dit peu de choses, simplement parce que la voix qu'on entend n'est pas la sienne. L'amour masculin, tel que la recherche le décrit dans ce chapitre, fonctionne souvent ainsi : le message est là, entier, mais il passe par une langue différente de celle qu'on attend.
+
 Ce chapitre fait le miroir direct de celui déjà écrit côté féminin dans ce projet, avec la même mise en garde en ouverture : la théorie des cinq langages de l'amour, largement popularisée, [ne tient pas la route scientifique, aucune des dix études empiriques disponibles ne soutenant les affirmations de son auteur](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say). Ce qui suit décrit donc ce que la recherche montre réellement sur l'expression masculine de l'amour, pas un cadre figé à appliquer mécaniquement.
 
 ### Tomber amoureux plus vite, aimer autrement
 
 Ce chapitre s'appuie, comme celui déjà écrit côté féminin, sur un principe simple qui mérite d'être posé avant d'entrer dans le détail : ce que la recherche décrit ici sont des tendances statistiques observées à grande échelle, pas une règle qui s'appliquerait à chaque homme de façon uniforme. Elles donnent un cadre de lecture utile, jamais une prédiction individuelle figée — un homme donné peut très bien s'exprimer de façon plus verbale que la moyenne décrite ici, sans que cela remette en cause la validité générale du résultat.
 
-[Une étude portant sur 808 jeunes adultes dans 33 pays d'Europe, d'Amérique du Nord et d'Afrique du Sud — la première à comparer aussi largement l'expérience de l'amour romantique entre hommes et femmes — a montré que les hommes tombent amoureux en moyenne un mois plus tôt que les femmes](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows), tandis que [les femmes vivent l'amour romantique avec une intensité légèrement supérieure et pensent plus souvent à la personne aimée](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows) — dans 54 % de leurs heures éveillées contre 44 % chez les hommes.
+Des chercheurs ont fait remplir un questionnaire détaillé sur l'expérience amoureuse à 808 jeunes adultes dans 33 pays d'Europe, d'Amérique du Nord et d'Afrique du Sud — la première comparaison aussi large entre hommes et femmes sur ce terrain précis. [Le résultat montre que les hommes tombent amoureux en moyenne un mois plus tôt que les femmes](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows), tandis que [les femmes vivent l'amour romantique avec une intensité légèrement supérieure et pensent plus souvent à la personne aimée](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows) — dans 54 % de leurs heures éveillées contre 44 % chez les hommes.
 
 Ce résultat pourrait laisser penser à un attachement moins profond chez les hommes. La recherche dit précisément l'inverse : [les hommes sont tout aussi capables d'un attachement profond ; ils tendent à le montrer par l'action plutôt que par le récit, le comportement amoureux masculin différant du schéma féminin typique surtout dans le style d'expression, pas dans la profondeur du sentiment](https://www.sciencealert.com/men-tend-to-fall-in-love-faster-than-women-new-study-shows). C'est la même distinction, déjà établie dans ce guide à propos de l'amitié masculine, qui se rejoue ici dans le registre amoureux.
 
@@ -67,7 +69,16 @@ Pour un homme dont l'expression de l'amour passe surtout par l'action plutôt qu
 
 ### Ce qui rejoint ce qui compte vraiment dans la durée
 
-Ce chapitre rejoint directement ce qui a déjà été établi dans ce guide sur ce qui compte vraiment chez les hommes et chez les femmes : la fiabilité démontrée par les actes, la présence répétée dans le temps, la protection au sens large plutôt que la seule déclaration. L'expression masculine de l'amour n'est donc pas une version incomplète ou moins riche de l'expression féminine — c'est une grammaire différente, tout aussi capable de porter un attachement profond, à condition d'apprendre à la lire pour ce qu'elle est plutôt que de la comparer à un modèle qui n'est pas le sien — et à condition, des deux côtés, de continuer à nommer ce que ces gestes signifient, pour qu'ils ne restent jamais silencieux au point de devenir invisibles à ceux-là mêmes qui en bénéficient chaque jour sans toujours les remarquer.
+Ce chapitre rejoint directement ce qui a déjà été établi dans ce guide sur ce qui compte vraiment chez les hommes et chez les femmes : la fiabilité démontrée par les actes, la présence répétée dans le temps, la protection au sens large plutôt que la seule déclaration. L'expression masculine de l'amour n'est donc pas une version incomplète ou moins riche de l'expression féminine — c'est une grammaire différente, tout aussi capable de porter un attachement profond, à condition d'apprendre à la lire pour ce qu'elle est plutôt que de la comparer à un modèle qui n'est pas le sien.
+
+L'interprète de l'ouverture de ce chapitre se retourne ici : le message n'a jamais manqué, c'est l'oreille qui n'était pas réglée sur la bonne voix. Nommer, des deux côtés, ce que ces gestes signifient évite qu'ils ne restent silencieux au point de devenir invisibles à ceux-là mêmes qui en bénéficient chaque jour sans toujours les remarquer.
+
+⚖️ **Nuance.** Deux confusions faussent la lecture de l'amour masculin.
+
+- Proposer une solution n'est pas une absence d'écoute : c'est souvent, pour un homme, la façon la plus directe de dire qu'une difficulté le touche, même si ce n'est pas la forme d'attention recherchée sur le moment.
+- Une jalousie ponctuelle et proportionnée n'est pas du contrôle : la première est une émotion ordinaire liée à l'attachement, le second est une réduction progressive de la liberté de l'autre, et la différence est de nature, pas de degré.
+
+Ce que recouvrent ces deux confusions : juger une expression d'attachement à sa forme plutôt qu'à ce qu'elle signifie réellement.
 
 ## Sources vérifiables
 

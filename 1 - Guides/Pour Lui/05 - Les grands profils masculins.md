@@ -228,6 +228,13 @@ Dans sa tête à lui : « je n'ai jamais ressenti ça aussi fort, ça doit être
 
 Ce ne sont pas des cases, et surtout pas des diagnostics. Un homme change de profil dominant après une thérapie, après une paternité, après une rupture, après une réussite. La question utile n'est jamais « lequel est-il », c'est « lequel est-il en ce moment, et pourquoi maintenant ». Cette typologie descriptive n'a pas la validité psychométrique des instruments de mesure comme [l'inventaire de conformité aux normes masculines](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) ou les échelles d'attachement adulte — elle en reprend des dimensions documentées pour construire des portraits lisibles, pas pour remplacer une évaluation clinique.
 
+⚖️ **Nuance.** Deux confusions guettent la lecture de cette typologie.
+
+- Un profil n'est pas un diagnostic : c'est une stratégie adoptée avec les moyens du bord, pas un trait de caractère figé, et le traiter comme un verdict clinique revient à enfermer quelqu'un dans un mot au lieu de comprendre ce qu'il fait avec ce qu'il a.
+- Un profil dominant n'est pas une case à vie : la plupart des hommes en combinent deux, et changent de profil dominant après une thérapie, une paternité ou une rupture, ce qui rend la question « lequel est-il en ce moment » bien plus utile que « lequel est-il ».
+
+Ce que recouvrent ces deux confusions : prendre un portrait descriptif, construit pour être lisible, pour une étiquette permanente.
+
 ## Sources vérifiables
 
 - Mahalik et al. (2003), [Development of the Conformity to Masculine Norms Inventory](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory), *Psychology of Men & Masculinity* ; vérification du 10 août 2026.

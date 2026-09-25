@@ -10,11 +10,13 @@ licence: "CC BY 4.0"
 
 # Ce que les hommes attendent des femmes
 
+**L'analogie du compte de reconnaissance.** Un couple tient, sans jamais l'écrire nulle part, une sorte de compte partagé où se déposent le respect, la gratitude, l'attention portée à l'autre. Ce n'est jamais un seul retrait massif qui met ce compte à découvert : c'est l'absence répétée de petits dépôts, invisible jour après jour, qui finit par se voir. Ce chapitre suit ce compte à travers plusieurs mécanismes documentés chez les hommes en couple.
+
 Après les attentes entre hommes, ce chapitre se tourne vers ce que la recherche montre sur ce qui compte réellement pour les hommes dans leur relation à une partenaire — au-delà des clichés sur ce qu'ils rechercheraient superficiellement.
 
 ### Le respect, avant l'amour lui-même
 
-Un des résultats les plus solides de la littérature scientifique sur ce sujet concerne le respect, un concept longtemps sous-étudié faute d'outil de mesure fiable. [Une étude de référence a développé une échelle du respect envers un partenaire, et a montré qu'elle prédisait la satisfaction relationnelle mieux que les échelles mesurant l'affection, l'amour, l'attachement anxieux ou évitant, et les qualités positives ou négatives perçues chez le partenaire](https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Frei_2002_Respect-in-close-relationships.pdf). Ce résultat vaut pour les deux sexes, mais il éclaire particulièrement une attente masculine souvent mal comprise ou minimisée : ce n'est pas que les hommes rechercheraient le respect *plutôt que* l'amour, c'est que le respect ressenti conditionne directement la capacité à recevoir et à vivre cet amour comme sûr et stable.
+Un des résultats les plus solides de la littérature scientifique sur ce sujet concerne le respect, un concept longtemps sous-étudié faute d'outil de mesure fiable. Des chercheurs ont construit et validé une échelle mesurant le respect ressenti envers un partenaire, puis l'ont comparée à des échelles déjà existantes sur l'affection, l'amour et l'attachement. [Le résultat a montré qu'elle prédisait la satisfaction relationnelle mieux que les échelles mesurant l'affection, l'amour, l'attachement anxieux ou évitant](https://adultattachment.faculty.ucdavis.edu/wp-content/uploads/sites/66/2015/09/Frei_2002_Respect-in-close-relationships.pdf). Ce résultat vaut pour les deux sexes, mais il éclaire particulièrement une attente masculine souvent mal comprise ou minimisée : ce n'est pas que les hommes rechercheraient le respect *plutôt que* l'amour, c'est que le respect ressenti conditionne directement la capacité à recevoir et à vivre cet amour comme sûr et stable — le premier dépôt qui rend les suivants possibles.
 
 [Des recherches plus récentes distinguent un respect fondé sur le statut et un respect fondé sur l'inclusion, tous deux associés à l'engagement dans la relation, cet effet passant spécifiquement par la satisfaction ressentie](https://doi.org/10.3390/sexes5030024) — deux formes de reconnaissance différentes mais également nécessaires : se sentir valorisé pour ce qu'on accomplit, et se sentir pleinement inclus et considéré dans la relation elle-même.
 
@@ -32,7 +34,7 @@ Dans sa tête à lui : le contact physique compte réellement, mais son absence 
 
 ### La gratitude, un mécanisme qui se propage dans le couple
 
-[Une disposition à la gratitude prédit non seulement l'humeur reconnaissante de la personne elle-même, mais aussi celle de son conjoint, ce qui prédit à son tour la satisfaction relationnelle des deux partenaires](https://dash.harvard.edu/bitstreams/19e350f4-97fb-4dae-a544-f5d3970f67fd/download). Autrement dit, exprimer sa reconnaissance à un partenaire n'est jamais un geste isolé — c'est un mécanisme qui se transmet et qui construit, dans les deux sens, une dynamique relationnelle plus stable. Ce résultat rejoint directement ce qui a été établi au chapitre sur ce qui compte vraiment chez les hommes, dans le guide Pour Elle, à propos de l'effet tampon de la reconnaissance sur la charge domestique inégale : la gratitude explicite n'est jamais un supplément superficiel, elle a un effet mesurable sur la solidité du lien.
+[Une disposition à la gratitude prédit non seulement l'humeur reconnaissante de la personne elle-même, mais aussi celle de son conjoint](https://dash.harvard.edu/bitstreams/19e350f4-97fb-4dae-a544-f5d3970f67fd/download), [ce qui prédit à son tour la satisfaction relationnelle des deux partenaires](https://dash.harvard.edu/bitstreams/19e350f4-97fb-4dae-a544-f5d3970f67fd/download). Autrement dit, exprimer sa reconnaissance à un partenaire n'est jamais un geste isolé — c'est un mécanisme qui se transmet et qui construit, dans les deux sens, une dynamique relationnelle plus stable. Ce résultat rejoint directement ce qui a été établi au chapitre sur ce qui compte vraiment chez les hommes, dans le guide Pour Elle, à propos de l'effet tampon de la reconnaissance sur la charge domestique inégale : la gratitude explicite n'est jamais un supplément superficiel, elle a un effet mesurable sur la solidité du lien.
 
 ### Les valeurs partagées et la gestion financière, un terrain sous-estimé
 
@@ -61,7 +63,7 @@ Ce résultat mérite d'être dit clairement : un homme n'attend pas seulement de
 **Bons réflexes.**
 - Reconnaître explicitement la contribution d'un partenaire, financière ou non, plutôt que de la tenir pour acquise — un geste simple qui allège une charge identitaire réelle et rarement exprimée à voix haute.
 - Prendre soi-même l'initiative sexuelle de temps à autre plutôt que de la laisser reposer systématiquement sur un partenaire masculin — l'effet sur le sentiment de désirabilité est mesuré, pas seulement supposé.
-- Se rappeler qu'un homme peut ressentir le rejet d'une initiative sexuelle aussi intensément qu'une femme, même si les codes sociaux l'encouragent rarement à le montrer.
+- Face à un homme qui encaisse mal un refus sexuel sans le montrer, le nommer directement : « je sais que ça touche, même si tu ne le montres pas » — le rejet d'une initiative se ressent aussi intensément qu'ailleurs, même quand les codes sociaux découragent de le montrer.
 
 ### Ce qui reste vrai, même hors de ces mécanismes précis
 
@@ -69,7 +71,16 @@ Ce chapitre s'est concentré sur des résultats mesurés et vérifiables, mais i
 
 ### Ce que ça change concrètement
 
-Aucune de ces attentes — le respect, la reconnaissance de sa contribution, le contact physique régulier, le désir actif d'une partenaire — n'a besoin d'être devinée. Ce sont des mécanismes documentés, mesurables, et surtout activables directement, sans attendre qu'un homme les formule en mots, ce que les normes sociales ne l'encouragent pas toujours à faire spontanément. Ce chapitre n'a pas cherché à décrire un homme abstrait et universel, mais des tendances statistiques robustes, retrouvées d'étude en étude : elles laissent, bien sûr, une place entière à ce qui distingue chaque homme en particulier — mais elles donnent un point de départ solide, préférable à la supposition ou au cliché — et un vocabulaire concret pour nommer, des deux côtés, ce qui reste trop souvent tu.
+Aucune de ces attentes — le respect, la reconnaissance de sa contribution, le contact physique régulier, le désir actif d'une partenaire — n'a besoin d'être devinée. Ce sont des mécanismes documentés, mesurables, et surtout activables directement, sans attendre qu'un homme les formule en mots, ce que les normes sociales ne l'encouragent pas toujours à faire spontanément.
+
+Le compte de reconnaissance de l'ouverture de ce chapitre se retourne ici : ce n'est jamais un grand geste isolé qui le maintient à flot, ce sont de petits dépôts répétés — un merci précis, un contact sans arrière-pensée, une initiative prise à sa place une fois de temps en temps. Ce chapitre n'a pas cherché à décrire un homme abstrait et universel, mais des tendances statistiques robustes, retrouvées d'étude en étude, qui laissent une place entière à ce qui distingue chaque homme en particulier tout en donnant un vocabulaire concret pour nommer, des deux côtés, ce qui reste trop souvent tu.
+
+⚖️ **Nuance.** Deux confusions faussent la lecture de ces attentes masculines.
+
+- Le respect n'est pas un substitut à l'amour : c'est ce qui conditionne la capacité à recevoir cet amour comme sûr, les deux fonctionnent ensemble et non l'un à la place de l'autre.
+- L'absence de demande de contact physique n'est pas une absence de besoin : chez les hommes, le toucher fonctionne davantage comme un facteur qui construit la satisfaction sur la durée que comme un manque immédiatement ressenti en son absence, ce qui le rend facile à sous-estimer de l'extérieur.
+
+Ce que recouvrent ces deux confusions : prendre l'absence d'expression explicite d'un besoin pour l'absence du besoin lui-même.
 
 ## Sources vérifiables
 

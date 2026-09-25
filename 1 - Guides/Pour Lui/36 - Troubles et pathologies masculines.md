@@ -10,11 +10,13 @@ licence: "CC BY 4.0"
 
 # Troubles et pathologies masculines
 
+**L'analogie du radar discret.** Un radar de recul de voiture ne hurle jamais avant l'obstacle : il émet un signal de plus en plus rapproché, qu'il faut apprendre à entendre avant le choc. Les pathologies décrites dans ce chapitre fonctionnent sur le même principe : rarement bruyantes, souvent indolores au départ, elles laissent un signal discret — une gêne, une masse, une courbure — que seule l'auto-observation permet de capter à temps, faute de dépistage organisé pour la plupart d'entre elles.
+
 Le chapitre 8 de ce guide a décrit le corps masculin dans ses grandes lignes. Celui-ci va plus loin, sur un terrain rarement abordé sans gêne : les pathologies génitales et urinaires propres aux hommes, de l'enfance à la vieillesse — leur fréquence réelle, leurs signaux, et pourquoi le dépistage repose largement sur l'auto-observation plutôt que sur un examen systématique.
 
 ### 36.1 La cryptorchidie et la varicocèle : deux anomalies fréquentes, souvent silencieuses
 
-[La prévalence de la cryptorchidie (un ou deux testicules non descendus) à la naissance chez les garçons de poids normal se situe entre 1,8 et 8,4 % ; elle redescend à 0,9-1,6 % à 3 mois et 1,0-1,5 % à un an, une partie des cas se corrigeant spontanément dans les premiers mois de vie](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/). Cette anomalie n'est pas seulement cosmétique : [la cryptorchidie peut être associée à l'infertilité, à l'hypogonadisme et à un risque secondaire de cancer du testicule à l'âge adulte ; elle est plus fréquente chez les garçons porteurs d'un hypogonadisme congénital, et les données montrent qu'elle est associée à une production réduite d'hormones testiculaires et à une altération du fonctionnement des cellules de Sertoli](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/) — ce qui explique pourquoi un dépistage précoce, dès la petite enfance, reste recommandé plutôt que reporté.
+[La prévalence de la cryptorchidie, un ou deux testicules non descendus, à la naissance chez les garçons de poids normal se situe entre 1,8 et 8,4 %](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/). [Elle redescend à 0,9-1,6 % à 3 mois et 1,0-1,5 % à un an, une partie des cas se corrigeant spontanément dans les premiers mois de vie](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/). Cette anomalie n'est pas seulement cosmétique : [elle peut être associée à l'infertilité et à l'hypogonadisme à l'âge adulte](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/), et [les données montrent qu'elle est associée à une production réduite d'hormones testiculaires et à une altération du fonctionnement des cellules de Sertoli](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6974459/) — ce qui explique pourquoi un dépistage précoce, dès la petite enfance, reste recommandé plutôt que reporté.
 
 La varicocèle, une dilatation des veines du cordon spermatique, touche une population différente mais tout aussi large : [son incidence atteint 20 à 40 % dans la population hypofertile](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4405070/), ce qui en fait l'une des causes les plus fréquentes d'infertilité masculine réversible par la chirurgie.
 
@@ -31,7 +33,7 @@ Le pronostic, justement, est l'un des meilleurs de toute l'oncologie quand le ca
 **Bons réflexes.**
 - Pratiquer une autopalpation régulière, simple et rapide, en particulier entre 15 et 35 ans : c'est le moyen de dépistage le plus efficace disponible aujourd'hui.
 - Consulter sans délai devant une masse indolore ou un changement de volume d'un testicule — l'absence de douleur n'est pas un signe rassurant, c'est justement la présentation typique de ce cancer.
-- Retenir le taux de survie de 93 % à 5 ans : ce diagnostic, pris à temps, n'est presque jamais synonyme de pronostic sombre.
+- Face à l'inquiétude d'un diagnostic de cancer du testicule, donner le vrai chiffre plutôt que de laisser l'angoisse parler seule : 93 % de survie à 5 ans quand il est pris à temps, ce qui en fait l'un des cancers au meilleur pronostic.
 
 ### 36.3 L'hypertrophie bénigne de la prostate : une pathologie qui touche la majorité des hommes âgés
 
@@ -41,7 +43,7 @@ Les symptômes restent souvent discrets avant de devenir gênants : [difficulté
 
 **Bons réflexes.**
 - Ne pas attendre une gêne sévère pour en parler à un médecin : des troubles urinaires même modérés après 50 ans méritent d'être évalués, la prise en charge précoce étant plus simple.
-- Se souvenir que l'hypertrophie bénigne de la prostate n'est, par définition, pas cancéreuse — un diagnostic qui inquiète souvent à tort par association avec le cancer de la prostate, une pathologie distincte.
+- Face à l'inquiétude qu'un diagnostic d'hypertrophie bénigne déclenche par association avec le cancer, préciser directement que ce n'est, par définition, pas une pathologie cancéreuse : ce sont deux maladies distinctes de la prostate.
 
 ### 36.4 L'infertilité masculine : une cause sur quatre, rarement nommée en premier
 
@@ -62,6 +64,15 @@ Son évolution suit un schéma précis, utile à connaître pour ne pas attendre
 **Bons réflexes.**
 - Consulter dès les premiers signes (douleur, début de courbure) plutôt que d'attendre la stabilisation : une prise en charge précoce, pendant la phase active, élargit les options thérapeutiques disponibles.
 - Ne pas rester seul avec cette question par gêne : c'est une pathologie médicale documentée et prise en charge, pas un sujet à taire par pudeur.
+
+Le radar discret de l'ouverture de ce chapitre se retourne ici : dans les cinq pathologies passées en revue, c'est presque toujours l'homme lui-même qui capte le premier signal, pas un dépistage organisé qui le ferait à sa place. Apprendre à s'auto-observer n'est donc pas une option parmi d'autres, c'est le radar principal.
+
+⚖️ **Nuance.** Deux confusions retardent la consultation sur ces sujets.
+
+- Une pathologie indolore n'est pas une pathologie bénigne : le cancer du testicule se présente typiquement comme une masse dure et sans douleur, ce qui en fait un cancer à haut risque de retard diagnostique précisément parce qu'il ne fait pas mal.
+- Une pathologie fréquente n'est pas anodine : l'hypertrophie bénigne de la prostate touche la majorité des hommes âgés, mais fréquence ne veut pas dire qu'elle ne mérite pas d'être suivie et traitée quand elle gêne.
+
+Ce que recouvrent ces deux confusions : juger la gravité d'un signal à son intensité ou à sa rareté, plutôt qu'à ce qu'il indique réellement.
 
 ## Sources vérifiables
 

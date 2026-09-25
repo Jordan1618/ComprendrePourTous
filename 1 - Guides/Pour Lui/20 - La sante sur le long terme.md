@@ -86,9 +86,17 @@ Ce chapitre a listé ce qu'il faut surveiller et quand. Il faut dire aussi, trè
 
 **Bons réflexes.**
 
-- Retenir un seul chiffre si un seul doit rester : dix points de tension en moins, c'est environ un cinquième de risque cardiovasculaire majeur en moins. Ça motive davantage qu'une recommandation générale de « surveiller sa tension ».
+- Face à quelqu'un qui traîne pour prendre sa tension, donner le chiffre précis plutôt que la recommandation générale : dix points de tension en moins, c'est environ un cinquième de risque cardiovasculaire majeur en moins. Ça motive davantage qu'un « surveille ta tension » vague.
 - Ne pas attendre un symptôme pour s'y mettre. L'intérêt de ces deux gestes est justement qu'ils agissent avant que quoi que ce soit ne se fasse sentir.
 - Partager ces chiffres avec les hommes de son entourage qui repoussent leur bilan annuel « parce que tout va bien ». C'est précisément l'argument qui manque le plus souvent dans ces conversations.
+
+Ce dernier point mérite d'être développé une phrase de plus : ce n'est pas une question de discipline personnelle ou de volonté, c'est une question d'accès à l'information. La plupart des hommes qui repoussent ces gestes ne le font pas par déni, mais parce que personne ne leur a jamais présenté le rapport entre l'effort minime que ça demande et le bénéfice réel que ça produit, faute de quoi cet effort reste, à leurs yeux, sans justification suffisante pour être priorisé face au reste d'un emploi du temps chargé.
+
+⚖️ **Nuance.** Une confusion coûte cher sur ce terrain.
+
+- Aller bien aujourd'hui n'est pas une preuve que le suivi est inutile : la médecine préventive agit précisément sur des événements qui n'arrivent jamais grâce à elle, ce qui la rend invisible tant qu'elle fonctionne et évidente seulement a posteriori, pour ceux qui en ont bénéficié sans le savoir.
+
+Ce que recouvre cette confusion : juger l'utilité d'un geste de prévention à l'absence de symptôme présent, alors que c'est justement l'absence de symptôme futur qu'il vise.
 
 ## Sources vérifiables
 
@@ -99,5 +107,3 @@ Ce chapitre a listé ce qu'il faut surveiller et quand. Il faut dire aussi, trè
 - Addis, M. & Mahalik, J. (2003), [Men, masculinity, and the contexts of help seeking](https://scispace.com/pdf/men-masculinity-and-the-contexts-of-help-seeking-39yqubxun4.pdf), *American Psychologist* ; vérification du 7 août 2026.
 - [Blood Pressure Lowering Treatment Trialists' Collaboration (2021), « Pharmacological blood pressure lowering for primary and secondary prevention of cardiovascular disease across different levels of blood pressure », *The Lancet*](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00590-0/fulltext) ; vérification du 11 août 2026.
 - [Santé publique France, *Cancer colorectal : données de dépistage*](https://www.santepubliquefrance.fr/en/cancer-du-colon-rectum/data) ; vérification du 11 août 2026.
-
-Ce dernier point mérite d'être développé une phrase de plus : ce n'est pas une question de discipline personnelle ou de volonté, c'est une question d'accès à l'information. La plupart des hommes qui repoussent ces gestes ne le font pas par déni, mais parce que personne ne leur a jamais présenté le rapport entre l'effort minime que ça demande et le bénéfice réel que ça produit, faute de quoi cet effort reste, à leurs yeux, sans justification suffisante pour être priorisé face au reste d'un emploi du temps chargé.

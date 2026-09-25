@@ -73,7 +73,7 @@ Enfin, sur le dispositif français déjà cité plus haut, une précision positi
 **Bons réflexes.**
 - Privilégier, quand c'est possible, une approche orientée vers l'action et la résolution concrète de problèmes plutôt qu'une seule introspection verbale — c'est ce qui engage le mieux, statistiquement, un public masculin.
 - Évoquer l'existence de groupes de parole spécifiquement masculins comme une option à part entière, pas comme un pis-aller par rapport à une thérapie individuelle.
-- Se rappeler que la satisfaction des hommes engagés dans un programme adapté est élevée — la difficulté principale est presque toujours de passer la porte, rarement ce qui se passe une fois à l'intérieur.
+- Face à sa réticence à consulter, la nommer directement plutôt que d'insister : « une fois dedans, la plupart des hommes trouvent ça utile, c'est passer la porte qui coince, pas ce qu'il y a derrière ».
 
 ### 6.5 Comment ouvrir la porte sans la forcer
 
@@ -85,6 +85,16 @@ Ce qui fonctionne beaucoup mieux :
 - **Utiliser le corps comme porte d'entrée.** "Tu devrais faire un bilan sanguin, tu es épuisé en permanence." Un homme qui n'irait jamais chez un psy ira souvent chez son généraliste pour de la fatigue, et le généraliste fait le reste du chemin. C'est un contournement parfaitement légitime.
 - **Prendre le rendez-vous n'est pas infantilisant si tu le proposes une fois.** Beaucoup d'hommes ne consultent pas non pas par refus, mais parce que la démarche entière (trouver, appeler, expliquer) est un obstacle massif quand l'énergie est au plus bas.
 - **Mentionner le dispositif Mon soutien psy.** [Il permet un accès remboursé à des séances de psychologue, et plus d'un million de patients y ont eu recours depuis sa création en 2022](https://www.ameli.fr/assure/actualites/dispositif-mon-soutien-psy-chiffres-cles-et-premiers-temoignages-de-patients). Le coût étant l'un des trois freins majeurs identifiés, le lever change réellement la donne.
+- **Dire ce que ça te fait, à toi.** "Je m'inquiète et ça me pèse" est parfois plus mobilisateur que n'importe quel argument sur son état à lui, parce que la règle 2 du code viril s'active : il devient utile en allant mieux.
+
+Le point à garder de tout ce chapitre : aucune de ces portes d'entrée ne demande de convaincre un homme qu'il va mal. Elles demandent seulement de lui proposer un premier pas suffisamment petit et suffisamment concret pour ne pas ressembler à un aveu de faiblesse. C'est souvent ce premier pas, minuscule en apparence, qui déclenche tout le reste — et le reste, une fois enclenché, fonctionne nettement mieux que ce que la réticence initiale laissait présager, comme le montrent les taux de satisfaction élevés recensés au 6.4 bis chez les hommes qui finissent par franchir cette porte.
+
+⚖️ **Nuance.** Deux confusions rendent la dépression masculine invisible.
+
+- Une dépression n'est pas toujours une tristesse : elle se présente aussi souvent sous forme d'irritabilité, de fuite dans l'activité ou de hausse des consommations, des signes qui ne ressemblent en rien à l'image attendue, et chercher uniquement la tristesse revient à rater la majorité des cas masculins.
+- Le calme retrouvé après une période noire n'est pas un mieux-être : c'est parfois le signal le plus sérieux, celui d'une décision déjà prise qui soulage l'angoisse plutôt qu'un vrai apaisement, et le confondre avec une amélioration peut coûter très cher.
+
+Ce que recouvrent ces deux confusions : chercher les signaux attendus plutôt que les signaux réels, alors que ce chapitre entier explique pourquoi les deux se ressemblent si peu chez un homme.
 
 ## Sources vérifiables
 
@@ -93,6 +103,3 @@ Ce qui fonctionne beaucoup mieux :
 - Assurance Maladie, [Dispositif Mon soutien psy : chiffres-clés](https://www.ameli.fr/assure/actualites/dispositif-mon-soutien-psy-chiffres-cles-et-premiers-temoignages-de-patients) ; vérification du 11 août 2026.
 - [Effectiveness of man therapy to reduce suicidal ideation and depression among working-age men: A randomized controlled trial](https://pmc.ncbi.nlm.nih.gov/articles/PMC10100179/), *PMC* ; vérification du 11 août 2026.
 - [Key Findings in Effective Therapeutic Approaches for Men](https://kingsburywellness.org/key-findings-in-effective-therapeutic-approaches-for-men/), Kingsbury Wellness ; vérification du 11 août 2026.
-- **Dire ce que ça te fait, à toi.** "Je m'inquiète et ça me pèse" est parfois plus mobilisateur que n'importe quel argument sur son état à lui, parce que la règle 2 du code viril s'active : il devient utile en allant mieux.
-
-Le point à garder de tout ce chapitre : aucune de ces portes d'entrée ne demande de convaincre un homme qu'il va mal. Elles demandent seulement de lui proposer un premier pas suffisamment petit et suffisamment concret pour ne pas ressembler à un aveu de faiblesse. C'est souvent ce premier pas, minuscule en apparence, qui déclenche tout le reste — et le reste, une fois enclenché, fonctionne nettement mieux que ce que la réticence initiale laissait présager, comme le montrent les taux de satisfaction élevés recensés au 6.4 bis chez les hommes qui finissent par franchir cette porte.

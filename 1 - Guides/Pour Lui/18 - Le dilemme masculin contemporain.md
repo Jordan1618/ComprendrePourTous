@@ -61,7 +61,7 @@ Il faut décrire ce mécanisme précisément, parce qu'il concerne un nombre cro
 
 ### 18.4 Les vérités à remettre en place
 
-Douze corrections, applicables des deux côtés. Ce sont les affirmations qui, quand elles sont fausses, produisent le plus de dégâts.
+⚖️ **Nuance.** Douze corrections, applicables des deux côtés. Ce sont les affirmations qui, quand elles sont fausses, produisent le plus de dégâts.
 
 1. **Le déficit d'expression masculin n'est pas une différence de sensibilité.** Le ressenti est équivalent, c'est la sortie qui est bouchée.
 2. **Ce n'est pas naturel, donc c'est modifiable.** Un homme de quarante ans peut apprendre à nommer ce qu'il ressent. Ça prend des mois, pas des années.
@@ -74,7 +74,9 @@ Douze corrections, applicables des deux côtés. Ce sont les affirmations qui, q
 9. **Les hommes ne sont pas privés d'émotions, ils sont privés de destinataires.** C'est un problème d'infrastructure sociale, pas de nature.
 10. **L'intensité n'est pas l'amour.** Le chaos, la jalousie et les montagnes russes ne sont pas des preuves de sentiment. C'est vrai dans les deux sens.
 11. **Le sexe n'est pas un dû, et le refus n'est pas un rejet de la personne.** Deux vérités simultanées, souvent tenues séparément par chacun des deux membres du couple.
-12. **La plupart des hommes vont bien.** Ce guide décrit des mécanismes et des risques. Il ne décrit pas une pathologie généralisée, et lire chaque comportement à travers cette grille serait aussi faux que de ne rien voir du tout. [Ces clarifications reprennent le cadre de l'inventaire de conformité aux normes masculines, qui distingue plusieurs dimensions indépendantes plutôt qu'un bloc uniforme](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
+12. **La plupart des hommes vont bien.** Ce guide décrit des mécanismes et des risques. Il ne décrit pas une pathologie généralisée, et lire chaque comportement à travers cette grille serait aussi faux que de ne rien voir du tout.
+
+Ce que recouvrent ces douze corrections : des affirmations à moitié vraies, retenues pour leur moitié la plus commode, qui finissent par produire plus de dégâts que l'ignorance pure. [Ces clarifications reprennent le cadre de l'inventaire de conformité aux normes masculines, qui distingue plusieurs dimensions indépendantes plutôt qu'un bloc uniforme](https://www.researchgate.net/publication/230800994_Development_of_the_Conformity_to_Masculine_Norms_Inventory) (Mahalik et coll., « Development of the Conformity to Masculine Norms Inventory », *Psychology of Men & Masculinity*, 2003 ; vérification du 7 août 2026).
 
 ### 18.5 Ce qui fonctionne pour de bon
 
@@ -92,7 +94,7 @@ Tout ce chapitre a décrit un vide et ses pièges. Il faut dire aussi ce qui le 
 
 - Ne pas chercher un modèle unique et parfait à copier. Chercher plutôt, chez plusieurs hommes admirés, ce que chacun fait bien, et assembler.
 - Nommer explicitement, dans le couple, ce qui a été construit et qui fonctionne — pas seulement ce qui reste à corriger. Le 18.4 liste les pièges ; il faut aussi se dire, à voix haute, ce qui marche.
-- Se souvenir que ce travail-là est en cours dans toute une génération d'hommes à la fois, ce qui veut dire que personne ne le fait vraiment seul, même quand c'est l'impression qu'on en a.
+- Face à l'impression de traverser ça seul, la nommer à voix haute : toute une génération d'hommes fait le même travail en parallèle, ce qui change la solitude ressentie même si la démarche reste individuelle.
 
 ## Sources vérifiables
 
