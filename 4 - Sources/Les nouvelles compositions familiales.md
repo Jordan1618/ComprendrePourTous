@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Les nouvelles compositions familiales"
-mis_a_jour_le: 2026-09-17
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -17,7 +17,21 @@ Sources du guide [Les nouvelles compositions familiales](<../1 - Guides/Les nouv
 | Bumpass, L., Raley, K. & Sweet, J. (1995), [The Changing Character of Stepfamilies](https://read.dukeupress.edu/demography/article/32/3/425/170979/The-Changing-Character-of-Stepfamilies), *Demography* | Prévalence cumulée sur l'enfance (États-Unis, étude classique) | 1 |
 | Pew Research Center (2011), [A Portrait of Stepfamilies](https://www.pewresearch.org/social-trends/2011/01/13/a-portrait-of-stepfamilies/) | Part des adultes ayant un proche « en beau » | 1 |
 | [Les limites de la coparentalité, 2houses](https://www.2houses.com/fr/blog/les-limites-de-la-coparentalite-comment-les-depasser) | Cadre légal de la résidence alternée | 1, 3 |
+| Papernow, P., [modèle des étapes de développement des familles recomposées](https://couplestherapymelbourne.com.au/stepfamily-stages-of-development/) | Sept étapes de la stabilisation d'une famille recomposée | 1, 4 |
+| [Statistiques du divorce en France 2026 : chiffres clés](https://divorce-simplifie.fr/article/statistiques-du-divorce-en-france-2026-chiffres-cles), Divorce Simplifié | Nombre de divorces et de ruptures de Pacs | 1 |
+| [Analyse complète des taux de divorce en France en 2025 et 2026](https://www.simplidroit.fr/civil/taux-de-divorce-en-france-2025-2026/), SimpliDroit | Taux de divorce stabilisé | 1 |
+| [Psychological Effects Of The Death Of A Parent](https://www.parentingstyles.com/child-psychology/parent-death/) | Effets du deuil d'un parent sur l'enfant | 1 |
+| [Accompanying your children: Living without parents at different stages of pre-adulthood](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10040656/), *PMC* | Santé physique et mentale à l'âge adulte | 1 |
+| [Psychological Effects of Absent Parents: Long-Term Impact on Children's Well-being](https://neurolaunch.com/psychological-effects-of-absent-parents/) | Absence parentale émotionnelle vs physique | 1 |
+| [Father absence and trajectories of offspring mental health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10666570/), *PMC* | Absence paternelle précoce et dépression | 1 |
+| [Study examines what makes adult children cut ties with parents](https://news.osu.edu/study-examines-what-makes-adult-children-cut-ties-with-parents/), Ohio State University | Maltraitance émotionnelle et rupture de lien | 1 |
+| [From family estrangement to empowered exits](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12504279/), *PMC* | Rupture protectrice et construction de sens | 1 |
+| [The Benefits of a Healthy Blended Family](https://www.westlake-mediation.com/the-benefits-of-a-healthy-blended-family/), Westlake Mediation | Compétences relationnelles développées en famille recomposée | 1 |
+| [Blended Family: Definition, Issues, & Tips for Success](https://www.choosingtherapy.com/blended-family/), Choosing Therapy | Élargissement du cercle relationnel | 1 |
+| [Blended Families: A Critical Review of the Current Research](https://www.researchgate.net/publication/258193436_Blended_Families_A_Critical_Review_of_the_Current_Research) | Résilience comparable aux familles intactes | 1, 2 |
 | Insee, [Le couple dans tous ses états](https://www.insee.fr/fr/statistiques/fichier/1281436/ip1435.pdf), Insee Première n° 1435, 2013 | Part des couples de même sexe vivant avec un enfant | 2 |
+| Institut national de la recherche scientifique (Québec), [La coparentalité élective](https://www.orfq.inrs.ca/la-coparentalite-elective-quand-parentalite-ne-rime-pas-avec-conjugalite/) | Dissociation de la parentalité et de la conjugalité | 2 |
+| [Avantages et inconvénients de la coparentalité hors couple](https://www.lexhorizon.com/avantages-et-inconvenient-de-la-coparentalite/) | Absence de statut juridique de la coparentalité élective | 2 |
 | DREES (2024), [Fin 2024, 392 600 enfants et jeunes bénéficient d'une mesure d'aide sociale à l'enfance](https://drees.solidarites-sante.gouv.fr/communique-de-presse-jeux-de-donnees/jeux-de-donnees/fin-2024-392-600-enfants-et-jeunes-de-moins-de) | Enfants confiés à l'aide sociale à l'enfance, répartition par mode d'accueil | 2 |
 | DREES, [Les grands-parents : un mode de garde régulier ou occasionnel](https://drees.solidarites-sante.gouv.fr/sites/default/files/er1070.pdf) | Part des enfants gardés régulièrement par leurs grands-parents | 2 |
 | Régnier-Loilier, A. (2019), [Nouvelle vie de couple, nouvelle vie commune ?](https://ideas.repec.org/a/cai/popine/popu_1901_0073.html), *Population*, INED | Freins à la remise en couple après séparation, en particulier pour les femmes | 10 |
@@ -130,6 +144,13 @@ Sources du guide [Les nouvelles compositions familiales](<../1 - Guides/Les nouv
 | [Living in two homes — Swedish national survey](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3848933/), *PMC* | Bien-être en garde alternée, point de vue de l'enfant | 14 |
 | Custody Queens, [Navigating Youth Sports When Co-Parenting](https://custodyqueens.com/navigating-youth-sports-when-co-parenting/) | Coordination des activités sportives | 14 |
 | Higginbotham, B., [Economic Predictors of Marital Quality among Newly-Remarried Rural and Urban Couples](https://www.familyscienceassociation.org/wp-content/uploads/2021/07/2009-14-2-Ecomnomic-Predictors-of-marital-quality-among-newly-remarreid-rural-and-urban-couples_Brian-Higginbotham-Final.pdf) | Contexte socio-économique rural/urbain | 14 |
+| [Disciplining dilemma: The role of the stepparent](https://www.canr.msu.edu/news/disciplining_dilemma_the_role_of_the_stepparent), Michigan State University Extension | Connexion avant correction, autorité empruntée | 3, 4 |
+| Gottman Institute, [Navigating Different Parenting Styles in Blended Families](https://www.gottman.com/blog/navigating-different-parenting-styles-in-blended-families/) | Parent biologique disciplinaire principal | 3, 4 |
+| [Famille recomposée : comment gérer les conflits et l'ex trop présent(e) ?](https://www.mamaste.fr/famille-recomposee-conflits-ex/) | Ligne à ne pas franchir avec l'ex-conjoint | 3, 4 |
+| [6 Common Patterns of Stepparent-Stepchild Relationships](https://www.psychologytoday.com/us/blog/stepping-together/202603/6-common-patterns-of-stepparent-stepchild-relationships), *Psychology Today* | 80 % des enfants fonctionnent bien | 3 |
+| [Stepchildren relate to stepparents based on perceived benefits](https://www.sciencedaily.com/releases/2011/03/110329141554.htm), *ScienceDaily* | Construire une amitié plutôt qu'un lien parental | 3 |
+| [Positive Turning Points in Stepparent-Stepchild Relationships](https://ifstudies.org/blog/positive-turning-points-in-stepparent-stepchild-relationships), Institute for Family Studies | Actions prosociales répétées | 3 |
+| ReachLink, [Blended Family Mental Health: 5 Struggles Parents Miss](https://www.reachlink.com/advice/family/blended-family-mental-health-5-struggles-parents-miss/) | Cortisol et sommeil en foyer à conflit élevé | 5 |
 | OurFamilyWizard, [Negotiating Custody Agreements With Your Co-Parent](https://www.ourfamilywizard.com/blog/negotiating-custody-agreements-your-co-parent) | Négociation d'un accord de coparentalité | 8 |
 | Cohen, O. & Finzi-Dottan, R. (2013), [Defense mechanisms and negotiation as predictors of co-parenting](https://journals.sagepub.com/doi/10.1177/0265407512458657) | Négociation et coopération | 8 |
 | Family Court Corner, [Effective Communication Strategies for Negotiating with a High-Conflict Co-Parent](https://www.familycourtcorner.com/effective-communication-strategies-for-negotiating-with-a-high-conflict-co-parent/) | Méthode BIFF | 8 |
@@ -198,7 +219,7 @@ Sources du guide [Les nouvelles compositions familiales](<../1 - Guides/Les nouv
 | DéfiJeunes, [C'est quoi le sharenting ?](https://www.defijeunes.fr/actus/cest-quoi-le-sharenting-pourquoi-certains-parents-postent-autant-leurs-enfants.php) | Identité numérique construite à plusieurs mains | 21 |
 | Fondation Jean-Jaurès, [Dans la tête des éco-anxieux](https://www.jean-jaures.org/wp-content/uploads/2022/10/jeunes-eco-anxiete.pdf) | Éco-anxiété transmise selon le foyer | 21 |
 | [Media Effects on Divorce Attitudes: Breaking the Taboo](https://thejsms.org/index.php/JSMS/article/download/713/429/3605), *Journal of Social Media in Society* | Divorce numérique | 21 |
-| Rowen, J. (2018), [Parental Denigration: A Form of Conflict that Typically Backfires](https://onlinelibrary.wiley.com/doi/10.1111/fcre.12339), *Family Court Review* | Dénigrement parental et aliénation | 21 |
+| Rowen, J. (2018), [Parental Denigration: A Form of Conflict that Typically Backfires](https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.12339), *Family Court Review* | Dénigrement parental et aliénation | 21 |
 | Psychology Today, [New Voices on Social Media Empower Alienated Parents](https://www.psychologytoday.com/us/blog/brothers-sisters-strangers/202602/new-voices-on-social-media-empower-alienated-parents) | Aliénation parentale et réseaux sociaux | 21 |
 
 ## Religion, mixité culturelle et place de chacun (chapitres 22-25)
