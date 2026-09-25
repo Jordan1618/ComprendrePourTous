@@ -1,73 +1,74 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-24
+mis_a_jour_le: 2026-09-25
 ---
 
 # Audit — Alimentation
 
 ## Synthèse
 
-26 chapitres audités, lecture intégrale de chacun. Répartition des verdicts : **0 Rien à faire, 9 Chirurgie, 17 Réécriture**. Comme pour « Le sommeil », le fil de chaque chapitre reste globalement tenu (renvois croisés nombreux et cohérents d'un chapitre à l'autre, y compris vers le guide « Le sommeil » et « Les émotions ») : la bascule vers Réécriture est presque toujours due au seuil de liens collés (>85 %), rarement à un problème de fond ou de structure.
+Ré-audit complet des 26 chapitres après la reprise sous `Redaction2Chapitre`, lecture intégrale de chacun (les 26 fichiers ont été ouverts en entier, pas seulement échantillonnés). Répartition des verdicts : **0 Rien à faire, 26 Chirurgie, 0 Réécriture**.
 
-Défauts dominants, par ordre de fréquence :
-1. **Aucune analogie filée** dans les 26 chapitres, sans exception. Le défaut le plus systématique du guide, y compris sur des sujets qui l'appellent frontalement (axe intestin-cerveau comme « autoroute à deux sens », point de consigne du poids, façade d'emballage comme « vitrine trompeuse »).
-2. **Zéro bloc ⚖️ Nuance** sur 26 chapitres, malgré des termes galvaudés récurrents qui l'auraient justifié (grossophobie, diet culture, kéto/paléo, alimentation intuitive, tout-ou-rien).
-3. **Blocs 👁️/💑 quasiment absents** : un seul 🗣️ (témoignage, ch.10) sur tout le guide, zéro bloc 👁️ malgré des écarts de genre ou raciaux chiffrés déjà présents dans le texte (ch.2 carences plus fréquentes chez les femmes, ch.10 TCA très majoritairement féminins, ch.19 insécurité alimentaire 2x plus fréquente chez les foyers noirs américains, ch.21 réseaux sociaux et image corporelle ciblant les jeunes femmes) ; zéro bloc 💑 alors que le chapitre 23 porte entièrement sur le couple à table.
-4. **Sourçage** : ratio global de liens collés de 88,0 % (206 collés sur 234 liens), plus élevé que sur « Le sommeil ». C'est le guide le plus touché par le résumé d'étude traduit et collé en un seul lien.
-5. **Longueur** : les 26 chapitres sont sous le plancher de 1 500 mots, le plus long culminant à 1 023 mots (ch.14). C'est un guide structurellement plus court que « Le sommeil », alors même qu'il compte davantage de chapitres — chaque chapitre couvre moins de terrain, ce qui laisse peu de place pour une analogie ou un bloc Nuance sans extension du texte.
-6. **Réflexes** : 36 occurrences passives (« Retenir que… », « Garder à l'esprit que… ») relevées sur l'ensemble du guide, plus nombreuses en proportion que sur « Le sommeil », mais rarement majoritaires dans un chapitre donné — la plupart des puces « Bons réflexes » restent formulées en actions concrètes.
+La reprise a clairement fonctionné sur le fond : dans les 26 chapitres, le fil tient de bout en bout (thème unique du titre au dernier paragraphe, aucun bloc autonome juxtaposé), chaque chapitre porte une analogie filée sur toute sa longueur et retournée en conclusion (le chantier au ch. 1, les petites pièces au ch. 2, l'élastique au ch. 14, le dictionnaire visuel au ch. 25, le conducteur automatisé au ch. 26, etc.), les objets centraux sont définis avant d'être cités, le bloc ⚖️ Nuance est présent et unique dans les 26/26 chapitres et nuance réellement plutôt que de redéfinir, et les chiffres sont systématiquement amenés par une question puis comparés pour leur donner une échelle. Aucun chapitre n'affiche le problème structurel qui justifierait une réécriture.
 
-## Mesures globales
+Deux défauts dominants, récurrents mais tous deux du registre chirurgical, ressortent malgré tout :
 
-| Mesure | Valeur |
-|---|---|
-| Liens totaux | 234 |
-| Liens collés (résumé d'étude > 25 mots ou point-virgule) | 206 (88,0 %) |
-| Réflexes passifs (Retenir/Garder à l'esprit/Se rappeler/Se méfier) | 36 occurrences |
-| Blocs ⚖️ Nuance | 0 |
-| Blocs 👁️ Écart de perception | 0 |
-| Blocs 💑 Couple | 0 |
-| Blocs 🗣️ Témoignage | 1 (chapitre 10) |
-| Chapitres sous 1 500 mots | 26 / 26 |
+1. **Plancher de 1 500 mots jamais atteint.** Les 26 chapitres se situent entre 844 mots (ch. 13) et 1 344 mots (ch. 10), pour une moyenne autour de 1 010 mots. Aucun chapitre n'atteint le plancher fixé par `Redaction2Chapitre`. C'est le défaut le plus systématique du guide : chaque chapitre a la place d'être approfondi (plus d'exemples concrets, plus de mécanisme expliqué, un deuxième témoignage) sans rien casser de la structure actuelle.
+2. **Bullet final « Retenez que... » / « Retenir que... » dans 15 chapitres sur 26** (01, 03, 08, 09, 10, 14, 15, 16, 17, 19 ×2, 20 ×2, 21, 22, 24, 25). C'est exactement le résumé déguisé en réflexe que le point 9 de la grille signale : la phrase récapitule un lien inter-chapitres ou un constat plutôt que de proposer une action. Les 11 autres chapitres (02, 04, 05, 06, 07, 11, 12, 13, 18, 23, 26) n'ont pas ce problème sur leur liste de réflexes.
 
-## Détail par chapitre
+Défaut secondaire, présent partout à des degrés divers : une part significative des hyperliens (5 à 11 par chapitre, généralement 6-8) portent un texte de plus de 25 mots ou un point-virgule, signe de résultats d'étude traduits et accrochés à la phrase plutôt que pleinement digérés. Le procédé reste globalement maîtrisé par rapport à l'ancien état du guide : les citations sont enchâssées dans un raisonnement continu, reliées par l'analogie filée, et la plupart du temps on explique ce qui ressort de l'étude et pourquoi c'est intéressant. Ce qui manque presque partout, c'est le « ce que les chercheurs ont fait » (méthode, échantillon) — les résultats sont donnés, la manière dont ils ont été obtenus rarement. Les chapitres 04, 10, 14, 17, 19, 20 et 25 sont les plus concernés (8 liens denses ou plus).
 
-| # | Chapitre | Mots | Liens collés | Défauts relevés | Verdict |
-|---|---|---|---|---|---|
-| 1 | Les macronutriments | 932 | 7/11 (64 %) | Aucune analogie (carburant/matériaux inexploité) ; pas de bloc ⚖️ | Chirurgie |
-| 2 | Micronutriments et carences | 769 | 8/9 (89 %) | Chapitre <800 mots ; 89 % collé ; pas de bloc 👁️ malgré écart de genre cité en texte | Réécriture |
-| 3 | Calculer ses besoins | 786 | 7/9 (78 %) | Chapitre <800 mots ; aucune analogie ; objet bien défini (BMR/TDEE) ; pas de bloc ⚖️ | Chirurgie |
-| 4 | Nutrition selon l'objectif | 1012 | 9/10 (90 %) | 90 % collé ; aucune analogie ; pas de bloc ⚖️ | Réécriture |
-| 5 | Sportif vs sédentaire | 996 | 7/9 (78 %) | Aucune analogie (NEAT inexploité) ; pas de bloc ⚖️ | Chirurgie |
-| 6 | Les régimes populaires passés au crible | 831 | 8/9 (89 %) | 89 % collé ; aucune analogie ; pas de bloc ⚖️ (kéto/paléo galvaudés) | Réécriture |
-| 7 | Compléments alimentaires | 871 | 8/10 (80 %) | Aucune analogie ; pas de bloc ⚖️ ; structure correcte (créatine/BCAA/multivitamines) | Chirurgie |
-| 8 | Hydratation, IG, fibres, microbiote | 903 | 10/11 (91 %) | 91 % collé ; trois sous-thèmes juxtaposés avec fil faible entre eux ; aucune analogie | Réécriture |
-| 9 | Nutrition et maladies | 817 | 7/7 (100 %) | 100 % collé ; aucune analogie (mécanisme du « point de consigne » inexploité) ; pas de bloc ⚖️ | Réécriture |
-| 10 | Troubles du comportement alimentaire | 984 | 10/12 (83 %) | Aucune analogie ; pas de bloc 👁️ malgré écart de genre massif cité (5,5-17,9 % vs 0,6-2,4 %) ; bloc 🗣️ déjà présent (bon point, seul du guide) | Chirurgie |
-| 11 | Allergies, intolérances, végétarisme, véganisme | 792 | 7/8 (88 %) | Chapitre <800 mots ; 88 % collé ; aucune analogie | Réécriture |
-| 12 | Nutrition selon l'âge et la situation | 995 | 8/10 (80 %) | Trois sous-parties juxtaposées (enfance/senior/grossesse) au fil ténu ; aucune analogie ; pas de bloc ⚖️ | Chirurgie |
-| 13 | Lire une étiquette et le marketing | 774 | 6/6 (100 %) | Chapitre <800 mots ; 100 % collé ; aucune analogie (façade = vitrine trompeuse, inexploité) | Réécriture |
-| 14 | Outils pratiques | 1023 | 8/10 (80 %) | Aucune analogie ; pas de bloc ⚖️ (tout-ou-rien galvaudé) | Chirurgie |
-| 15 | Une histoire longue de l'alimentation humaine | 729 | 8/8 (100 %) | Chapitre <800 mots ; 100 % collé ; aucune analogie | Réécriture |
-| 16 | Le repas partagé | 751 | 8/8 (100 %) | Chapitre <800 mots ; 100 % collé ; aucune analogie ; pas de bloc 👁️/💑 malgré sujet social/familial | Réécriture |
-| 17 | Religion, interdits et jeûnes | 939 | 11/12 (92 %) | 92 % collé ; aucune analogie ; pas de bloc ⚖️ | Réécriture |
-| 18 | L'industrie agroalimentaire | 757 | 8/8 (100 %) | Chapitre <800 mots ; 100 % collé ; aucune analogie | Réécriture |
-| 19 | Précarité, déserts alimentaires, gaspillage | 755 | 8/8 (100 %) | Chapitre <800 mots ; 100 % collé ; pas de bloc 👁️ malgré écart racial documenté en texte | Réécriture |
-| 20 | Écologie et géopolitique de l'alimentation | 807 | 8/8 (100 %) | 100 % collé ; aucune analogie ; pas de bloc ⚖️ | Réécriture |
-| 21 | Diet culture, grossophobie, réseaux sociaux | 814 | 7/8 (88 %) | 88 % collé ; pas de bloc 👁️ malgré ciblage documenté des jeunes femmes ; pas de bloc ⚖️ (grossophobie galvaudée) | Réécriture |
-| 22 | Alimentation émotionnelle et lien intestin-cerveau | 797 | 8/10 (80 %) | Chapitre <800 mots ; aucune analogie (autoroute à deux sens inexploitée) ; pas de bloc ⚖️ | Chirurgie |
-| 23 | Le couple et la famille à table | 870 | 7/8 (88 %) | 88 % collé ; pas de bloc 💑 malgré sujet entièrement centré sur le couple ; pas de bloc ⚖️ | Réécriture |
-| 24 | Cuisines du monde et éthique alimentaire | 849 | 7/7 (100 %) | 100 % collé ; aucune analogie ; pas de bloc ⚖️ malgré débat clivant (bien-être animal) | Réécriture |
-| 25 | L'alimentation dans l'art et le folklore | 1004 | 11/11 (100 %) | 100 % collé ; aucune analogie (ironique pour un chapitre sur le symbolisme) ; pas de bloc ⚖️ | Réécriture |
-| 26 | Sortir de la culpabilité | 827 | 5/7 (71 %) | Aucune analogie ; pas de bloc ⚖️ (alimentation intuitive galvaudée, ne convient pas à tous les profils) ; bon chapitre de clôture, fil explicite avec l'ensemble du guide | Chirurgie |
+Les blocs 👁️ / 💑 / 🗣️ sont utilisés avec discernement plutôt que systématiquement : présents aux chapitres 02 (écart de genre sur les carences), 10 (regard masculin sur les TCA + témoignage), 16, 21 et 23 (couple), absents ailleurs à raison — aucun chapitre lu ne semblait appeler un tel bloc sans l'avoir.
 
-## Estimation de coût
+## Réciprocité des sources
 
-- Chirurgie : 9 chapitres × 10-15k tokens = 90k-135k tokens.
-- Réécriture : 17 chapitres × 35-45k tokens = 595k-765k tokens.
-- **Total estimé : 685k-900k tokens**, soit environ **4 à 6 sessions Pro** (~150-200k tokens/session).
+Vérification automatisée des URL citées en hyperlien dans les 26 chapitres contre `4 - Sources/Alimentation.md` : 138 URL distinctes citées, **3 absentes telles quelles du fichier Sources, soit 2,2 %**. Dans les trois cas, il ne s'agit pas d'une source manquante mais d'une variante d'URL du même article (miroir `pmc.ncbi.nlm.nih.gov` vs `ncbi.nlm.nih.gov/pmc/`, ou lien `/abs/` vs lien complet ScienceDirect) :
 
-## Résumé
+- ch. 11 : `https://pmc.ncbi.nlm.nih.gov/articles/PMC10180846/` cité dans le texte, alors que Sources référence `https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10180846/` (même article PMC).
+- ch. 16 : deux occurrences de `https://www.sciencedirect.com/science/article/pii/S0195666315300210` (sans `/abs/`) cité dans le texte, alors que Sources référence `.../article/abs/pii/S0195666315300210` (même article).
+- ch. 23 : `https://pmc.ncbi.nlm.nih.gov/articles/PMC7742522/` cité dans le texte, alors que Sources référence `https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7742522/` (même article PMC).
 
-26 chapitres, aucun « rien à faire ». 9 chapitres en chirurgie et 17 en réécriture, la bascule étant presque toujours due au seuil de liens collés (88,0 % en moyenne sur le guide, pire que « Le sommeil »). Défaut le plus systématique : zéro analogie et zéro bloc ⚖️ Nuance sur les 26 chapitres. Plusieurs écarts de genre ou raciaux chiffrés (ch.2, ch.10, ch.19, ch.21) auraient mérité un bloc 👁️ formaté, et le chapitre 23 (couple à table) n'a aucun bloc 💑 malgré son sujet. C'est le guide le plus coûteux à reprendre des deux audités : 4-6 sessions Pro estimées, contre 2-3 pour « Le sommeil », en raison du nombre de chapitres et du taux de liens collés plus élevé.
+Pas de correction apportée (lecture seule) : à uniformiser sur l'URL canonique lors de la prochaine reprise de ces trois chapitres.
+
+## Tableau détaillé
+
+| # | Chapitre | Mots | Défauts relevés | Verdict |
+|---|---|---|---|---|
+| 1 | Les macronutriments | 1 131 | Sous le plancher (1 131/1 500) ; 7 liens denses (résultats d'étude sans méthode) | Chirurgie |
+| 2 | Micronutriments et carences | 1 003 | Sous le plancher ; 6 liens denses ; 👁️ présent et pertinent | Chirurgie |
+| 3 | Calculer ses besoins | 917 | Sous le plancher (le plus court après le 13) ; 4 liens denses ; 1 bullet « Retenez » disguisé en 3.x | Chirurgie |
+| 4 | Nutrition selon l'objectif | 1 031 | Sous le plancher ; 9 liens denses (le plus dense de la première moitié) | Chirurgie |
+| 5 | Sportif vs sédentaire | 1 051 | Sous le plancher ; 7 liens denses | Chirurgie |
+| 6 | Les régimes populaires passés au crible | 977 | Sous le plancher ; 8 liens denses | Chirurgie |
+| 7 | Compléments alimentaires | 950 | Sous le plancher ; 6 liens denses | Chirurgie |
+| 8 | Hydratation, IG, fibres, microbiote | 1 077 | Sous le plancher ; 7 liens denses ; 1 bullet « Retenez » disguisé | Chirurgie |
+| 9 | Nutrition et maladies | 939 | Sous le plancher ; 7 liens denses ; 1 bullet « Retenez » disguisé | Chirurgie |
+| 10 | Troubles du comportement alimentaire | 1 344 | Le plus long du guide, encore sous le plancher ; 10 liens denses ; 1 bullet « Retenir » disguisé ; 👁️ et 🗣️ présents et bien utilisés | Chirurgie |
+| 11 | Allergies, intolérances, végétarisme, véganisme | 908 | Sous le plancher ; 6 liens denses ; URL de source en miroir non reprise à l'identique dans Sources (11.2) | Chirurgie |
+| 12 | Nutrition selon l'âge et la situation | 1 102 | Sous le plancher ; 7 liens denses | Chirurgie |
+| 13 | Lire une étiquette et le marketing | 844 | Chapitre le plus court du guide ; 6 liens denses | Chirurgie |
+| 14 | Outils pratiques | 1 276 | Sous le plancher ; 9 liens denses ; 1 bullet « Retenir » disguisé en synthèse finale | Chirurgie |
+| 15 | Une histoire longue de l'alimentation humaine | 912 | Sous le plancher ; 6 liens denses ; 1 bullet « Retenez » disguisé | Chirurgie |
+| 16 | Le repas partagé | 917 | Sous le plancher ; 5 liens denses ; 1 bullet « Retenez » disguisé ; URL Bourdieu incohérente avec Sources (16.2) | Chirurgie |
+| 17 | Religion, interdits et jeûnes | 1 157 | Sous le plancher ; 9 liens denses ; 1 bullet « Retenez » disguisé | Chirurgie |
+| 18 | L'industrie agroalimentaire | 889 | Sous le plancher ; 7 liens denses | Chirurgie |
+| 19 | Précarité, déserts alimentaires et gaspillage | 992 | Sous le plancher ; 8 liens denses ; 2 bullets « Retenez » disguisés en synthèse finale | Chirurgie |
+| 20 | Écologie et géopolitique de l'alimentation | 940 | Sous le plancher ; 8 liens denses ; 2 bullets « Retenez » disguisés | Chirurgie |
+| 21 | Diet culture, grossophobie et réseaux sociaux | 937 | Sous le plancher ; 6 liens denses ; 1 bullet « Retenez » disguisé ; 👁️/💑 présent et pertinent | Chirurgie |
+| 22 | Alimentation émotionnelle et lien intestin-cerveau | 1 029 | Sous le plancher ; 8 liens denses ; 1 bullet « Retenir » disguisé | Chirurgie |
+| 23 | Le couple et la famille à table | 907 | Sous le plancher ; 6 liens denses ; 💑 présent et bien utilisé ; URL de source en miroir non reprise à l'identique dans Sources (23.1) | Chirurgie |
+| 24 | Cuisines du monde et éthique alimentaire | 986 | Sous le plancher ; 7 liens denses ; 1 bullet « Retenez » disguisé | Chirurgie |
+| 25 | L'alimentation dans l'art et le folklore | 1 125 | Sous le plancher ; 11 liens denses (le plus dense du guide) ; 1 bullet « Retenez » disguisé | Chirurgie |
+| 26 | Sortir de la culpabilité | 1 037 | Sous le plancher ; 5 liens denses (le moins dense du guide) | Chirurgie |
+
+## Ce qui ne relève pas d'un défaut
+
+- Bandeau d'avertissement et pied de page du `README.md` conformes à `MAINTENANCE.md` (bandeau exact, pas de section interdite, ligne de retour à l'accueil présente).
+- Aucun chapitre ne porte de section « Sources et mise à jour », « Autour de ce guide », « La suite » ou de contenu de journal/mainteneur.
+- Chaque chapitre garde sa propre section « Sources vérifiables » en fin de chapitre, conforme à la règle v12 (pas de chapitre agrégateur dédié).
+- Guillemets français et gras d'emphase respectés dans les échantillons lus ; pas d'italique ni de tiret cadratin relevés.
+
+## Estimation de coût de la reprise
+
+26 chapitres en Chirurgie, aucun en Réécriture. Le travail principal par chapitre est homogène : approfondir jusqu'au plancher de 1 500 mots (ajouter environ 300 à 650 mots selon le chapitre), convertir le bullet « Retenez que... » en action quand il est présent (15 chapitres), et expliquer la méthode d'au moins une étude par chapitre plutôt que son seul résultat (surtout 04, 10, 14, 17, 19, 20, 25). Fourchette basse à moyenne pour une chirurgie de ce type : **26 chapitres × 15-25 minutes de reprise ≈ 6h30 à 11h de travail au total**, plus une passe finale de 10 minutes pour uniformiser les 3 URL en miroir avec `4 - Sources/Alimentation.md`.
