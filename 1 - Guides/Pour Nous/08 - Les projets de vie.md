@@ -4,11 +4,13 @@ chapitre: "8"
 titre: "Les projets de vie : enfant, lieu, travail"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Les projets de vie : enfant, lieu, travail
+
+Une gare affiche plusieurs trains, chacun avec son propre horaire de départ : certains repassent le lendemain, d'autres ne repassent jamais à la même heure. Rater un train par indécision n'est pas neutre : c'est choisir, sans le décider explicitement, de rester sur le quai. Les trois grands projets de vie de ce chapitre, l'enfant, le lieu, le travail, fonctionnent comme trois trains à des horaires différents, et le chapitre 5 a déjà montré comment décider à deux ; celui-ci applique la méthode à ces trois départs précis.
 
 ### 8.1 Ce qui rend ces décisions différentes des autres
 
@@ -16,9 +18,9 @@ Trois caractéristiques les distinguent, et elles expliquent pourquoi les métho
 
 Elles sont **peu réversibles** — un enfant ne se défait pas, un déménagement se refait mal. Elles sont **asymétriques** : elles ne coûtent pas la même chose aux deux, notamment en matière de carrière et de corps. Et elles sont **datées** : certaines fenêtres se referment, ce qui interdit de repousser indéfiniment.
 
-D'où une règle qui traverse ce chapitre : sur ces sujets, **l'absence de décision est une décision**, et elle est prise par défaut au détriment de celui pour qui la fenêtre se referme. [Le caractère peu réversible de ces décisions et leur sensibilité au facteur temps sont bien documentés en psychologie de la décision, notamment sur les choix à fenêtre limitée](https://gwern.net/doc/psychology/2002-gilbert.pdf) (Gilbert & Ebert, « Decisions and revisions: the affective forecasting of changeable outcomes », *Journal of Personality and Social Psychology*, 2002 ; vérification du 7 août 2026).
+D'où une règle qui traverse ce chapitre : sur ces sujets, **l'absence de décision est une décision**, celle de rester sur le quai, et elle est prise par défaut au détriment de celui pour qui le train part le premier. [Le caractère peu réversible de ces décisions et leur sensibilité au facteur temps sont bien documentés en psychologie de la décision, notamment sur les choix à fenêtre limitée](https://gwern.net/doc/psychology/2002-gilbert.pdf) (Gilbert & Ebert, « Decisions and revisions: the affective forecasting of changeable outcomes », *Journal of Personality and Social Psychology*, 2002 ; vérification du 7 août 2026).
 
-### 8.2 L'enfant : la conversation la plus mal menée
+### 8.2 L'enfant : le train qui a l'horaire le plus strict
 
 Elle est souvent réduite à une question binaire — tu en veux ou pas — posée trop tard et trop frontalement.
 
@@ -57,6 +59,8 @@ Applicable aux trois sujets.
 **Dater le point de contrôle.** « On en reparle en janvier » évite à la fois la décision dans l'urgence et le report indéfini.
 
 **Écrire cinq lignes.** Ce qu'on décide, à partir de quand, qui fait quoi, ce qui se passe si l'un veut revenir dessus, quand on refait le point. [Cette méthode reprend les principes de la négociation par les intérêts appliqués à une décision commune](https://www2.hawaii.edu/~barkai/HO/GTY.pdf) (Fisher & Ury, *Getting to Yes*, Houghton Mifflin, 1981 ; vérification du 7 août 2026).
+
+La gare de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai horaire affiché sur un panneau, aucun des trois trains de ce chapitre n'annonce précisément l'heure de son dernier départ. C'est justement pour cela que les questions posées à l'avance comptent plus que l'intuition du bon moment.
 
 💑 **Dans le couple**
 

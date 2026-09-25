@@ -4,19 +4,21 @@ chapitre: "2"
 titre: "Hypervigilance et évitement : ce que ça donne à deux"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Hypervigilance et évitement : ce que ça donne à deux
 
+Deux maisons voisines peuvent réagir à l'insécurité de façons opposées : l'une installe des détecteurs de mouvement sur chaque fenêtre, réglés si fin qu'un chat qui passe les déclenche ; l'autre débranche carrément son système d'alarme, pour ne plus jamais entendre sonner quoi que ce soit. Aucune des deux maisons n'est plus en sécurité que l'autre, elles ont simplement choisi deux façons différentes de composer avec le même risque perçu. Ce chapitre suit ces deux réglages, chez la même personne, souvent en alternance.
+
 ### 2.1 Les deux stratégies, et pourquoi elles s'opposent
 
 Après un trauma, deux grandes stratégies s'installent, souvent chez la même personne, en alternance.
 
-**L'hypervigilance** consiste à scruter en permanence les signes de danger : lire les micro-changements d'humeur, anticiper les réactions, préparer des scénarios. Elle a une logique implacable — si on voit venir, on peut se protéger. Son coût est l'épuisement, et le fait de voir des signaux là où il n'y en a pas.
+**L'hypervigilance** consiste à scruter en permanence les signes de danger : lire les micro-changements d'humeur, anticiper les réactions, préparer des scénarios — le détecteur de mouvement réglé si fin qu'il capte le moindre courant d'air. Elle a une logique implacable : si on voit venir, on peut se protéger. Son coût est l'épuisement, et le fait de voir des signaux là où il n'y en a pas.
 
-**L'évitement** consiste à se tenir à distance de tout ce qui pourrait réactiver : conversations, situations, proximité, engagement. Il fonctionne à court terme et échoue à long terme, parce qu'il empêche le système d'apprendre que la situation est devenue sûre.
+**L'évitement** consiste à se tenir à distance de tout ce qui pourrait réactiver : conversations, situations, proximité, engagement — l'alarme débranchée, pour ne plus jamais avoir à composer avec elle. Il fonctionne à court terme et échoue à long terme, parce qu'il empêche le système d'apprendre que la situation est devenue sûre.
 
 En couple, ces deux stratégies produisent des malentendus caractéristiques. L'hypervigilance est perçue comme du contrôle ou de la jalousie. L'évitement est perçu comme du désamour ou de l'indifférence. Dans les deux cas, le partenaire interprète une **stratégie de protection** comme un **message sur la relation**. [Ces deux stratégies portent un nom en recherche sur l'attachement adulte : hyperactivation et désactivation](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
@@ -33,6 +35,10 @@ Ce que les partenaires décrivent le plus souvent, formulé du point de vue de c
 - Elle est absente pendant l'intimité, ou s'en éloigne sans explication.
 
 Aucun de ces comportements n'est un caprice. Chacun a été utile, à un moment, dans un contexte où il protégeait. [Ces manifestations correspondent aux comportements de recherche de proximité et de mise à distance décrits dans la même littérature](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+
+👁️ **Vu de l'autre côté**
+
+Vivre avec ces deux réglages, sans en connaître l'origine, produit un vécu que la personne traumatisée elle-même ne voit pas toujours depuis l'intérieur. Se faire questionner sur un simple trajet, se sentir surveillé jusque dans le ton d'un message, ou au contraire sentir un partenaire se fermer sans explication au milieu d'un moment heureux, use une relation même quand chaque geste isolé reste compréhensible une fois expliqué. Ce que beaucoup de partenaires ressentent, sans oser toujours le formuler : j'ai l'impression de vivre avec deux systèmes d'alarme différents selon les jours, sans jamais savoir lequel va se déclencher ce soir.
 
 ### 2.3 Le cercle vicieux le plus fréquent
 
@@ -63,6 +69,8 @@ Le **retour à froid**. Reprendre une scène le lendemain, sans reproche, pour r
 La formulation qui change le plus de choses, à dire à froid, par la personne concernée : **« quand tu réponds sèchement, mon système part très vite en alerte, et je sais que ce n'est pas proportionné. Ce n'est pas une accusation. Ce qui m'aide, c'est que tu me dises que tu es contrarié mais que ça ne concerne pas nous. »**
 
 Elle contient les trois éléments qui rendent une demande recevable : le déclencheur précis, la responsabilité assumée, et une action concrète demandée.
+
+Les deux maisons voisines de ce chapitre ont une limite que la comparaison ne doit pas cacher : contrairement à un système d'alarme, un réglage humain ne se change pas d'un simple geste sur un boîtier. Recalibrer un détecteur trop sensible ou rebrancher une alarme débranchée demande le temps, la prévisibilité et parfois l'accompagnement professionnel déjà présentés au chapitre 1.
 
 **Bons réflexes**
 

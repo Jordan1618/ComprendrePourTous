@@ -3,7 +3,7 @@ projet: "Comprendre pour tous"
 type: "collection"
 guides: 15
 chapitres: 313
-mots: 426052
+mots: 430457
 cree_le: 2026-07-21
 mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"

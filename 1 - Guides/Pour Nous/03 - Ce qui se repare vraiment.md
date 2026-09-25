@@ -4,11 +4,13 @@ chapitre: "3"
 titre: "Ce qui se répare vraiment : les prises en charge qui ont des preuves"
 sujet: "commun"
 angle: "prévention"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Ce qui se répare vraiment : les prises en charge qui ont des preuves
+
+Face à une même destination, une carte peut afficher plusieurs itinéraires : certains ont été vérifiés par des milliers de conducteurs et validés comme fiables, d'autres sont des raccourcis suggérés par un panneau isolé, jamais testés, qui peuvent très bien mener à une impasse. Le champ du psychotrauma fonctionne sur cette même carte, avec des itinéraires validés par des essais contrôlés d'un côté, et des raccourcis non vérifiés, parfois coûteux, parfois nuisibles, de l'autre.
 
 ### 3.1 Pourquoi ce chapitre est important
 
@@ -16,9 +18,9 @@ Le champ du psychotrauma est envahi de propositions non validées, parfois coût
 
 Le repère principal : les recommandations de l'Organisation mondiale de la santé, du NICE britannique, et en France les travaux de la Haute Autorité de santé et du réseau des centres régionaux du psychotraumatisme. [Les recommandations de bonne pratique existent précisément parce que l'efficacité des différentes approches a été comparée dans des essais contrôlés](https://www.nice.org.uk/guidance/ng116) (NICE, *Post-traumatic stress disorder*, NG116, 2018 ; vérification du 7 août 2026).
 
-### 3.2 Les approches recommandées en première intention
+### 3.2 Les approches recommandées en première intention : les itinéraires vérifiés
 
-Trois familles ressortent de façon convergente.
+Trois familles d'itinéraires ressortent de façon convergente sur cette carte.
 
 **Les TCC centrées sur le trauma.** Thérapies cognitivo-comportementales adaptées, incluant un travail d'exposition progressive aux souvenirs et aux situations évitées, et une restructuration des croyances installées par l'événement (culpabilité, dangerosité du monde). C'est l'approche la mieux étayée quantitativement.
 
@@ -28,7 +30,7 @@ Trois familles ressortent de façon convergente.
 
 À cela s'ajoutent, selon les situations, des approches à médiation corporelle et des thérapies de couple spécifiques, dont l'appui empirique est plus récent et plus limité — ce qui ne les disqualifie pas, mais justifie de commencer par les approches de première intention. [L'OMS recommande les TCC centrées sur le trauma et l'EMDR en première intention, sur la base de revues systématiques d'essais contrôlés](https://www.who.int/publications/i/item/guidelines-for-the-management-of-conditions-that-are-specifically-related-to-stress) (OMS, *Guidelines for the management of conditions specifically related to stress*, 2013 ; vérification du 7 août 2026).
 
-### 3.3 Ce qu'il faut savoir sur les médicaments
+### 3.3 Ce qu'il faut savoir sur les médicaments : un véhicule d'appoint, pas la route elle-même
 
 Les traitements médicamenteux ne sont pas le premier choix pour le trouble de stress post-traumatique lui-même. Les recommandations placent la psychothérapie en première intention.
 
@@ -36,7 +38,7 @@ Les antidépresseurs de type ISRS ont une place documentée, notamment quand une
 
 Un effet indésirable a une importance particulière dans un guide sur le couple : les ISRS entraînent fréquemment une baisse de la libido et des difficultés orgasmiques. Cet effet est réel, fréquent, et souvent non anticipé. Il se discute avec le prescripteur — il existe des ajustements — et il ne doit jamais conduire à un arrêt brutal du traitement. [Une revue Cochrane a comparé les antidépresseurs au trouble de stress post-traumatique et conclu à un bénéfice modeste, inférieur à celui des psychothérapies centrées sur le trauma](https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/pharmacotherapy-for-posttraumatic-stress-disorder-systematic-review-and-metaanalysis/596AAEA74F5BA470727289799ED63BEF) (Hoskins et al., « Pharmacotherapy for post-traumatic stress disorder », *British Journal of Psychiatry*, 2015 ; vérification du 7 août 2026).
 
-### 3.4 Comment s'y retrouver en pratique, en France
+### 3.4 Comment s'y retrouver en pratique, en France : choisir le bon guide de route
 
 **Les titres.** « Psychologue » et « psychiatre » sont des titres protégés. Le psychiatre est médecin, peut prescrire, et ses consultations sont remboursées. « Psychothérapeute » est un titre réglementé depuis 2010. En revanche, **« psychopraticien », « coach » et la plupart des appellations voisines ne correspondent à aucun cadre légal**, et n'importe qui peut les employer.
 
@@ -44,13 +46,15 @@ Un effet indésirable a une importance particulière dans un guide sur le couple
 
 **Le choix du praticien.** Deux critères pratiques : demander explicitement quelle approche est pratiquée pour le psychotrauma, et considérer que l'alliance thérapeutique — le fait de se sentir en confiance — est un des meilleurs prédicteurs de résultat, tous courants confondus. Ne pas s'entendre avec un thérapeute n'est pas un échec : c'est une raison légitime d'en changer. [Le cadre légal des titres de soin psychique en France est fixé par décret](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022244482) (décret n° 2010-534 du 20 mai 2010 relatif au titre de psychothérapeute ; vérification du 7 août 2026).
 
-### 3.5 Ce qui ne fonctionne pas, ou pas comme on le croit
+### 3.5 Ce qui ne fonctionne pas, ou pas comme on le croit : les raccourcis qui mènent à une impasse
 
-**Le débriefing psychologique immédiat de groupe** après un événement traumatique a longtemps été pratiqué. Les données ont montré qu'il n'était pas bénéfique, et pourrait même être délétère chez certaines personnes. Il n'est plus recommandé.
+**Le débriefing psychologique immédiat de groupe** après un événement traumatique a longtemps été pratiqué, présenté comme le raccourci évident après une catastrophe. Les données ont montré qu'il n'était pas bénéfique, et pourrait même être délétère chez certaines personnes. Il n'est plus recommandé.
 
 **Raconter en boucle** son trauma à ses proches n'est pas thérapeutique en soi. Le récit répété sans cadre peut entretenir l'activation plutôt que la réduire. C'est le cadrage thérapeutique qui fait la différence entre exposition et rumination.
 
 **Le temps seul** ne suffit pas toujours. La majorité des gens vont mieux avec le temps ; une minorité significative voit les symptômes se chroniciser. « Attendre que ça passe » n'est pas une stratégie quand cela dure depuis des années. [Une revue Cochrane sur le débriefing psychologique individuel après un événement traumatique n'a montré aucun bénéfice et a signalé un risque d'aggravation dans certaines études](https://pubmed.ncbi.nlm.nih.gov/11686967/) (Rose, Bisson & Wessely, « Psychological debriefing for preventing post traumatic stress disorder », *Cochrane Database of Systematic Reviews*, 2002 ; vérification du 7 août 2026).
+
+La carte de ce chapitre a une limite qu'il faut nommer avant de la refermer : contrairement à une vraie carte routière, aucun panneau ne prévient jamais, en cours de route, qu'un itinéraire mène en réalité à une impasse. C'est précisément pour cela que les repères de ce chapitre (titres protégés, recommandations internationales, méthode annoncée dès le premier rendez-vous) comptent davantage qu'une impression de confiance immédiate.
 
 💑 **Dans le couple**
 

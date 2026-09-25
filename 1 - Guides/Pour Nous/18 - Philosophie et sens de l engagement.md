@@ -4,21 +4,25 @@ chapitre: "18"
 titre: "Philosophie et sens de l'engagement à deux"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Philosophie et sens de l'engagement à deux
 
-Après le corps, le droit et la sociologie, ce chapitre pose une question plus lente : qu'est-ce que « choisir » quelqu'un chaque jour veut dire concrètement, et ce que deux traditions philosophiques très différentes — l'existentialisme et la philosophie contemporaine de l'amour — en disent.
+Un artisan qui possède son atelier depuis vingt ans ne le considère pas pour autant comme acquis une fois pour toutes : chaque matin, il choisit encore de lever le rideau, d'allumer les machines, de reprendre le travail plutôt que de fermer boutique. L'engagement de couple fonctionne sur ce même principe, moins visible parce que rien ne ferme jamais visiblement si personne ne relève le rideau. Après le corps, le droit et la sociologie, ce chapitre pose une question plus lente : qu'est-ce que « choisir » de relever le rideau chaque jour veut dire concrètement, et ce que deux traditions philosophiques très différentes, l'existentialisme et la philosophie contemporaine de l'amour, en disent.
 
-### 18.1 L'amour comme engagement libre plutôt que comme nature fixe
+### 18.1 L'amour comme choix quotidien plutôt que comme atelier acquis
 
 Le principe fondateur de la philosophie existentialiste éclaire directement la question de l'engagement de couple. [Le principe central de Sartre est que « l'existence précède l'essence » — les êtres humains n'ont pas de nature fixe, mais sont libres de créer leur propre essence à travers les projets qu'ils poursuivent](https://en.wikipedia.org/wiki/Bad_faith_(existentialism)) ; appliqué à l'amour, ce principe déplace la question de « suis-je fait pour cette personne ? » vers « qu'est-ce que je choisis de construire avec elle, aujourd'hui ? ». [Sartre a expliqué ses propres engagements philosophiquement comme un choix libre de ses priorités, et de façon pratique comme une préférence à « être un idiot plutôt qu'un salaud »](https://ora.ox.ac.uk/objects/uuid:ffd68a7f-b0cb-4ce6-a467-24a532998851/files/mdeeff8e660c1dd2a5792621a5b4b855b).
 
 Sartre a lui-même vécu une application concrète, et non conventionnelle, de ce principe. [Il a préconisé de passer de « l'esprit de sérieux » à « l'esprit de jeu », en abordant chaque rencontre comme nouvelle à mesure que la relation se déploie — ce qui ne signifie pas abandonner l'engagement, mais continuer à s'y investir tout en restant ouvert à la surprise et au changement](https://morlene.substack.com/p/55-learning-from-sartre-and-de-beauvoirs). Sa relation avec Simone de Beauvoir illustre cette philosophie de façon durable et documentée : [de 1929 jusqu'à leur mort, ils ont partagé leur travail et leur vie sans jamais partager de domicile ; leur partenariat a commencé comme une expérience de responsabilité personnelle et d'ouverture, de Beauvoir ayant elle-même refusé une demande en mariage de Sartre](https://morlene.substack.com/p/55-learning-from-sartre-and-de-beauvoirs).
 
-Ce modèle particulier n'est pas présenté ici comme un idéal à reproduire — les deux avaient un accord explicite hors des cadres classiques, qui ne conviendrait ni ne correspondrait à la plupart des couples. Il illustre en revanche, de façon concrète, le principe philosophique central : l'engagement n'est jamais un état acquis une fois pour toutes, c'est un choix renouvelé, dont la forme peut varier d'un couple à l'autre sans qu'aucune ne soit plus « vraie » qu'une autre.
+Ce modèle particulier n'est pas présenté ici comme un idéal à reproduire — les deux avaient un accord explicite hors des cadres classiques, qui ne conviendrait ni ne correspondrait à la plupart des couples. Il illustre en revanche, de façon concrète, le principe philosophique central : l'atelier ne reste jamais acquis une fois pour toutes, c'est un choix renouvelé, dont la forme peut varier d'un couple à l'autre sans qu'aucune ne soit plus « vraie » qu'une autre.
+
+💑 **Dans le couple**
+
+Une question utile à se poser régulièrement, dans l'esprit de ce principe : **« si je devais choisir aujourd'hui, pour la première fois, est-ce que je relèverais le rideau ? »** Elle ne sert pas à remettre la relation en question à chaque doute passager, mais à sortir du pilote automatique qui traite l'engagement comme un acquis qui n'aurait plus besoin d'être choisi.
 
 ### 18.2 « Je t'aime » : transformer une rencontre en destin
 
@@ -46,6 +50,8 @@ Un point de communication concret mérite d'être connu, tant il explique une pa
 Plusieurs angles philosophiques classiques restent, à ce jour, peu ou pas documentés par une recherche spécifique au couple construit dans la durée : le métaphysique et l'épistémologique (ce que « connaître vraiment » un partenaire après des décennies veut dire), l'esthétique au sens de la philosophie de l'art (au-delà des représentations culturelles déjà traitées au chapitre 11), et le politique au sens de la philosophie politique (la place du couple dans les théories du contrat social). Le signaler explicitement plutôt que de meubler ce chapitre avec un contenu non vérifié reste, comme partout ailleurs dans ce guide, la règle.
 
 Un dernier registre mérite en revanche une place, dans la continuité directe du chapitre 5 de ce guide sur la décision à deux : la philosophie stoïcienne, déjà mobilisée dans d'autres guides de ce dépôt, offre un principe directement actionnable pour la vie quotidienne d'un couple — distinguer ce qui dépend de soi (sa propre régularité, sa propre honnêteté, la clarté de ce qu'on communique) de ce qui n'en dépend pas (les choix, les humeurs ou le passé du partenaire). Un couple qui concentre son énergie sur le premier registre plutôt que sur le second retrouve, par un chemin philosophique différent, le même principe pratique que celui déjà exposé au chapitre 15 sur les biais cognitifs qui poussent à s'accrocher à ce qui ne dépend plus de soi.
+
+L'atelier de ce chapitre a une limite que la comparaison artisanale ne doit pas cacher : un artisan qui ferme boutique un matin peut toujours rouvrir le lendemain sans dommage durable. Un couple qui cesse, ne serait-ce que quelques mois, de choisir activement l'autre risque, lui, de ne pas retrouver l'atelier dans l'état où il l'a laissé.
 
 ## Sources vérifiables
 

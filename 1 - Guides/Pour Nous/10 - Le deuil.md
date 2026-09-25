@@ -4,11 +4,13 @@ chapitre: "10"
 titre: "Le deuil, seul et à deux"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Le deuil, seul et à deux
+
+Une marée ne descend jamais en ligne droite jusqu'à son point le plus bas avant de remonter définitivement : elle va et vient, avec des vagues qui reculent puis reviennent, sans calendrier fixe et sans jamais suivre le même rythme deux jours de suite. Le deuil suit ce même mouvement de marée, pas la ligne droite en cinq étapes qu'on lui prête trop souvent, et deux personnes qui pleurent la même perte ne se trouvent presque jamais au même point de la marée au même moment.
 
 ### 10.1 Ce que le modèle des cinq étapes a abîmé
 
@@ -18,9 +20,9 @@ Les cinq étapes — déni, colère, marchandage, dépression, acceptation — v
 
 Le dégât est concret : croire à un ordre produit de la culpabilité. On se croit en retard, bloqué à une étape, anormal de ressentir de la colère après avoir cru accepter. Le deuil ne suit ni ordre ni calendrier. [Le modèle des cinq étapes décrit à l'origine le vécu de personnes en fin de vie face à leur propre mort, et non celui de personnes endeuillées](https://search.worldcat.org/title/on-death-and-dying/oclc/4238) (Kübler-Ross, *On Death and Dying*, Macmillan, 1969 ; vérification du 7 août 2026).
 
-### 10.2 Un modèle plus juste : l'oscillation
+### 10.2 Un modèle plus juste : la marée qui va et vient
 
-Le modèle du double processus, proposé par Margaret Stroebe et Henk Schut, décrit mieux ce qui s'observe : le deuil alterne entre deux orientations. Une orientation vers la **perte** — pleurer, se souvenir, ressentir le manque — et une orientation vers la **restauration** — s'occuper du quotidien, des démarches, reconstruire une vie.
+**Le modèle du double processus, proposé par Margaret Stroebe et Henk Schut, décrit le deuil comme une alternance entre deux orientations, plutôt qu'une progression linéaire.** Une orientation vers la **perte** — pleurer, se souvenir, ressentir le manque, la marée basse — et une orientation vers la **restauration** — s'occuper du quotidien, des démarches, reconstruire une vie, la marée qui remonte.
 
 Le point important est que **l'oscillation entre les deux est le mécanisme sain**, pas un signe d'incohérence. Rire une heure après avoir pleuré n'est pas de l'indifférence. Être efficace sur des démarches administratives n'est pas de la froideur. Les deux mouvements sont nécessaires, et une personne bloquée exclusivement dans l'un des deux est celle dont il faut s'inquiéter. [Le modèle du double processus décrit une oscillation entre orientation vers la perte et orientation vers la restauration, plutôt qu'une séquence d'étapes](https://pubmed.ncbi.nlm.nih.gov/10848151/) (Stroebe & Schut, « The dual process model of coping with bereavement », *Death Studies*, 1999 ; vérification du 7 août 2026).
 
@@ -32,7 +34,7 @@ Le point important est que **l'oscillation entre les deux est le mécanisme sain
 
 **Ce qui justifie d'appeler tout de suite** : des idées suicidaires. **3114**, gratuit, en permanence, ouvert aussi aux proches inquiets. [Le deuil prolongé, distinct d'un deuil normal par sa durée et son retentissement, est désormais reconnu comme un trouble à part entière](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2711304/) (Prigerson et al., « Prolonged Grief Disorder: psychometric validation of criteria », *PLOS Medicine*, 2009 ; vérification du 7 août 2026).
 
-### 10.4 Deux personnes ne font pas le même deuil
+### 10.4 Deux personnes ne suivent pas la même marée
 
 C'est la principale difficulté du deuil à deux, et elle est rarement anticipée.
 
@@ -49,6 +51,8 @@ La perte d'un enfant mérite d'être signalée à part : elle met les couples so
 **Aide** : dire le nom, parler de la personne, raconter des souvenirs, y compris drôles. Proposer du concret plutôt que « dis-moi si tu as besoin » — apporter un repas, garder les enfants, faire une démarche. Marquer les dates : les anniversaires et les fêtes sont des reprises prévisibles, et les anticiper à deux les rend traversables.
 
 Et une chose simple qui fonctionne mieux que toutes les formules : **« je ne sais pas quoi te dire, et je suis là. »** [Le fait de nommer le défunt et d'accompagner de gestes concrets plutôt que d'une disponibilité générale figure parmi les recommandations issues de la littérature clinique sur l'accompagnement du deuil](https://www.thelancet.com/journals/lancet/article/PIIS0140673607618169/abstract) (Stroebe, Schut & Stroebe, « Health outcomes of bereavement », *The Lancet*, 2007 ; vérification du 7 août 2026).
+
+La marée de ce chapitre a une limite qu'il faut nommer : contrairement à une vraie marée, celle du deuil n'a pas de table des marées à consulter à l'avance. Personne ne peut prédire quand la vague suivante arrivera, ce qui rend d'autant plus nécessaire de nommer, à deux, où chacun se trouve au moment où ça se produit.
 
 💑 **Dans le couple**
 

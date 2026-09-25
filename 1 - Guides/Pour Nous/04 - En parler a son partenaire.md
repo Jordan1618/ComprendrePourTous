@@ -4,11 +4,13 @@ chapitre: "4"
 titre: "En parler à son partenaire : les formulations qui passent"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # En parler à son partenaire : les formulations qui passent
+
+Un appareil livré sans notice force son utilisateur à deviner, bouton par bouton, ce qui fait quoi — quitte à appuyer sur le mauvais au pire moment. Un trauma non nommé au sein d'un couple fonctionne exactement de la même façon : le partenaire navigue à l'aveugle, sans savoir quel geste ou quelle phrase va déclencher une réaction disproportionnée. Ce chapitre donne la notice, formulation par formulation.
 
 ### 4.1 Le problème du « il faut communiquer »
 
@@ -26,7 +28,7 @@ Trois choses, et les décider évite l'essentiel des dérapages.
 
 **L'objectif.** Cherchez-vous à être compris, ou à obtenir un changement concret ? Les deux sont valables, mais ce ne sont pas les mêmes conversations, et l'ambiguïté sur ce point crée de la frustration des deux côtés. [Le choix du moment et du cadre d'une conversation difficile influence directement le niveau d'activation physiologique des deux interlocuteurs](https://archive.org/details/scienceoftrustem0000gott) (Gottman, *The Science of Trust*, Norton, 2011 ; vérification du 7 août 2026).
 
-### 4.3 Les formulations, par situation
+### 4.3 Les formulations, par situation : les pages de la notice
 
 **Pour annoncer sans tout dire.**
 « Il y a quelque chose dans mon histoire qui fait que je réagis fort à certaines situations. Je ne suis pas prêt à en raconter le détail, et j'aimerais quand même que tu saches que ça existe, parce que ça nous concerne tous les deux. »
@@ -65,6 +67,8 @@ Un trauma explique une réaction. Il n'autorise pas un comportement. Crier, surv
 La différence entre une explication et une excuse tient à ce qui suit. Une explication est suivie d'une **réparation** et d'un **travail** : reconnaître les faits, dire ce qui va être mis en place. Une excuse demande à l'autre de s'adapter indéfiniment.
 
 Et une phrase doit être écrite noir sur blanc : **si le comportement relève du contrôle coercitif ou de la violence, l'origine traumatique n'y change rien, et la priorité devient la sécurité.** Voir le chapitre 7 du guide [La rencontre](<../La rencontre/README.md>) et la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>). Le **3919** et, en danger immédiat, le **17** ou le **114 par SMS**. [La distinction entre expliquer un comportement par son histoire et l'excuser est centrale dans les protocoles de psychoéducation sur le trauma en contexte de couple](https://archive.org/details/practiceofemotio0000john) (Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
+
+La notice de ce chapitre a une limite qu'il faut nommer : contrairement à un appareil, un trauma évolue, et une notice écrite une fois ne reste pas valable indéfiniment. Un déclencheur nommé aujourd'hui peut s'atténuer avec le temps ou un accompagnement, ou au contraire un nouveau peut apparaître ; la notice se met à jour, elle ne se rédige jamais une seule fois pour toutes.
 
 **Bons réflexes**
 

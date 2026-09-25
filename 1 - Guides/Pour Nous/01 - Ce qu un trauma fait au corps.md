@@ -4,7 +4,7 @@ chapitre: "1"
 titre: "Ce qu'un trauma fait au corps"
 sujet: "commun"
 angle: "physiologie"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -22,7 +22,7 @@ Cette distinction est la base de tout ce guide. Un partenaire qui se met en aler
 
 Face à un danger, l'organisme déclenche une cascade rapide : l'amygdale détecte la menace, l'axe du stress libère adrénaline et cortisol, le rythme cardiaque et la respiration s'accélèrent, la vigilance monte. Dans le même mouvement, l'activité du cortex préfrontal — l'analyse, la nuance, la mise en contexte — diminue. C'est adapté : face à un danger réel, réfléchir coûte du temps.
 
-Après un événement traumatique, ce circuit peut rester durablement plus réactif. Concrètement, cela produit trois phénomènes que les partenaires observent sans les comprendre.
+Après un événement traumatique, ce circuit peut rester durablement plus réactif — l'alarme reste réglée sur le seuil de l'incendie d'origine, longtemps après que le danger a disparu. Ce réglage ne s'use pas tout seul avec le temps qui passe : sans intervention, il peut rester actif des années, ce qui explique pourquoi un événement vécu à vingt ans peut encore déclencher une réaction à cinquante. Concrètement, cela produit trois phénomènes que les partenaires observent sans les comprendre.
 
 **La réaction précède la pensée.** La personne réagit avant d'avoir évalué. Lui demander « pourquoi tu réagis comme ça ? » revient à demander une analyse à un système qui a justement mis l'analyse hors circuit.
 
@@ -38,15 +38,21 @@ Un souvenir ordinaire est daté, contextualisé, racontable : on sait que c'est 
 
 C'est ce qui explique que « c'est fini, tu es en sécurité maintenant » ne fonctionne pas. La phrase s'adresse au raisonnement ; l'alarme, elle, n'entend pas les arguments. Ce n'est pas que la personne refuse d'être rassurée — c'est que la réassurance verbale ne passe pas par le bon canal. [Bessel van der Kolk a documenté comment un souvenir traumatique reste stocké sous une forme sensorielle et fragmentaire plutôt que narrative](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952) (van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
 
-### 1.4 Ce que ce chapitre ne dit pas
+⚖️ **Nuance : ce que le mot « trauma » ne veut pas dire**
 
-Trois précautions, parce que le vocabulaire du trauma s'est banalisé et perd en précision.
+Trois malentendus, parce que le vocabulaire du trauma s'est banalisé et perd en précision.
 
-**Tout événement difficile n'est pas un trauma.** Une rupture douloureuse, un licenciement, un deuil sont des épreuves ; elles ne produisent pas nécessairement de séquelle traumatique. Utiliser le mot pour tout affaiblit ce qu'il décrit.
+**Tout événement difficile n'est pas un trauma.** Une rupture douloureuse, un licenciement, un deuil sont des épreuves ; elles ne produisent pas nécessairement de séquelle traumatique au sens clinique décrit dans ce chapitre. Utiliser le mot pour tout affaiblit ce qu'il décrit, et rend plus difficile de repérer une vraie alarme mal réglée quand elle se présente.
 
-**La majorité des personnes exposées à un événement traumatique ne développent pas de trouble durable.** La résilience est la réponse la plus fréquente. C'est important à dire : un événement grave ne condamne pas.
+**La majorité des personnes exposées à un événement traumatique ne développent pas de trouble durable.** [La résilience est la réponse la plus fréquente à un événement potentiellement traumatique : George Bonanno l'a montré sur plusieurs cohortes exposées à des pertes et des événements violents](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/americanPsychologist.pdf) (Bonanno, « Loss, trauma, and human resilience », *American Psychologist*, 2004 ; vérification du 7 août 2026). C'est important à dire : un événement grave ne condamne pas, la plupart des alarmes finissent par se recalibrer avec le temps ou un accompagnement adapté.
 
-**Un trauma n'explique pas tout et n'excuse rien.** Il explique une réaction ; il n'autorise pas un comportement blessant envers un partenaire. La différence est traitée au chapitre 5. [La résilience est la réponse la plus fréquente à un événement potentiellement traumatique : George Bonanno l'a montré sur plusieurs cohortes exposées à des pertes et des événements violents](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/americanPsychologist.pdf) (Bonanno, « Loss, trauma, and human resilience », *American Psychologist*, 2004 ; vérification du 7 août 2026).
+**Un trauma n'explique pas tout et n'excuse rien.** Il explique une réaction ; il n'autorise pas un comportement blessant envers un partenaire. La différence entre expliquer et excuser est traitée au chapitre 5.
+
+### 1.5 Recalibrer l'alarme : ce qui change réellement le seuil
+
+Une alarme mal réglée ne se recalibre pas en la couvrant d'un oreiller pour ne plus l'entendre : elle se recalibre en intervenant sur le mécanisme lui-même, ce qui prend du temps et une méthode adaptée. [Les thérapies les mieux validées pour le trouble de stress post-traumatique, dont la thérapie cognitivo-comportementale centrée sur le trauma et l'EMDR (désensibilisation et retraitement par les mouvements oculaires), agissent en aidant le cerveau à retraiter le souvenir traumatique de façon à ce qu'il devienne narratif plutôt que sensoriel et intrusif](https://www.apa.org/ptsd-guideline/treatments) (American Psychological Association, *Clinical Practice Guideline for PTSD*, 2017 ; vérification du 7 août 2026) — l'équivalent, pour l'alarme, d'un technicien qui vient ajuster le seuil de déclenchement plutôt que de débrancher le fil.
+
+Ce travail ne dépend pas seulement d'un professionnel : l'environnement relationnel joue un rôle documenté dans la vitesse de ce recalibrage. Un partenaire qui répond de façon stable et prévisible aux activations, sans les punir ni les fuir, participe concrètement au processus, même sans remplacer un accompagnement thérapeutique quand celui-ci est nécessaire. C'est ce que détaille la suite de ce chapitre, et plus largement le reste de ce guide.
 
 💑 **Dans le couple**
 

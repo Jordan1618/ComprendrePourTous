@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Pour Nous"
-mis_a_jour_le: 2026-08-07
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -147,7 +147,10 @@ Sources du guide [Pour Nous](<../1 - Guides/Pour Nous/README.md>), classées par
 | Left Unsaid, [Long Distance Relationship Success Rate](https://leftunsaid.store/pages/long-distance-relationship-success-rate) | Couple à distance | 24 |
 | Mogilski, J. K., cité par Psypost, [Nine core habits](https://www.psypost.org/psychologists-identify-nine-core-habits-associated-with-healthy-non-monogamous-partnerships/), *Archives of Sexual Behavior* | Non-monogamie consensuelle | 24 |
 | Cornell University, [Gerontologist finds the formula to a happy marriage](https://news.cornell.edu/node/284565) | Cornell Marriage Advice Project (Pillemer) | 25 |
+| Gottman Institute, [Long-Term Marriage: Age, Gender, and Satisfaction](https://www.johngottman.net/wp-content/uploads/2011/05/Long-term-marriage-age-gender-and-satisfaction..pdf), citant Alford-Cooper (1998) | Thèmes clés des mariages de longue durée | 25 |
 | Harvard Gazette, [Over nearly 80 years, Harvard study](https://news.harvard.edu/gazette/story/2017/04/over-nearly-80-years-harvard-study-has-been-showing-how-to-live-a-healthy-and-happy-life/) | Harvard Study of Adult Development | 25 |
+| Waldinger, R., [What Harvard's Study of Adult Development Reveals about Happiness](https://www.robertwaldinger.com/post/what-harvard-s-study-of-adult-development-reveals-about-happiness/) | Conclusion de l'étude sur la qualité des relations | 25 |
+| ABC News, [4 couples married more than 50 years spill secret to long-lasting love](https://abcnews.com/amp/Lifestyle/couples-married-longer-50-years-spill-secret-long/story?id=45222748) | Témoignages réels de Sammy et Macie Waller, Frank Hoffman, Betty Mattocks | 25 |
 
 ---
 

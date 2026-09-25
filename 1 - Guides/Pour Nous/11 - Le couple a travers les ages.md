@@ -4,11 +4,13 @@ chapitre: "11"
 titre: "Le couple à travers les âges et les civilisations"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Le couple à travers les âges et les civilisations
+
+Un costume transmis de génération en génération, jamais retaillé, finit par mal tomber sur celui qui le porte aujourd'hui : les épaules ont été coupées pour un autre corps, dans une autre époque, et personne n'a jamais vérifié s'il correspondait encore. La plupart des règles de couple qui paraissent naturelles fonctionnent sur ce même principe : un costume hérité, jamais réajusté à la mesure de qui le porte maintenant.
 
 ### 11.1 Pourquoi ce chapitre est utile, et pas seulement curieux
 
@@ -44,7 +46,7 @@ Trois transformations, très récentes à l'échelle historique, qui expliquent 
 
 **L'allongement de la durée.** Un mariage « à vie » n'engageait pas la même durée quand l'espérance de vie était bien plus courte. Rester ensemble cinquante ou soixante ans est une situation historiquement inédite, dont personne n'a hérité le mode d'emploi. [En France, la loi du 13 juillet 1965 a permis pour la première fois à une femme mariée d'exercer une profession et d'ouvrir un compte bancaire sans l'autorisation de son mari](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000503950/) (loi n° 65-570 du 13 juillet 1965 ; vérification du 7 août 2026).
 
-### 11.5 Ce que ça change pour vous, concrètement
+### 11.5 Ce que ça change pour vous, concrètement : réajuster le costume plutôt que le porter tel quel
 
 Trois déplacements utiles.
 
@@ -53,6 +55,8 @@ Trois déplacements utiles.
 **Il n'existe pas de modèle par défaut.** L'absence de norme unique est une charge — tout est à négocier — mais aussi une liberté : votre couple n'a aucune obligation de ressembler à celui de vos parents ou de vos amis.
 
 **Les règles explicites protègent mieux que les règles supposées.** Les sociétés qui organisaient le couple par la coutume avaient au moins l'avantage de règles connues de tous. Un couple contemporain qui ne discute pas les siennes ne fonctionne pas sans règles : il fonctionne avec des règles implicites, différentes chez chacun, et découvertes au moment du conflit. [Que les couples se donnent des règles explicites plutôt que des règles supposées est cohérent avec les travaux sur la communication et la satisfaction conjugale](https://archive.org/details/the-seven-principles-for-making-marriage-work) (Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
+
+Le costume de ce chapitre a une limite qu'il faut nommer : contrairement à un vêtement, une norme de couple ne montre jamais visiblement qu'elle ne va plus, jusqu'au jour du conflit. C'est tout l'intérêt de l'exercice qui suit, à faire avant que l'inconfort ne devienne visible de force.
 
 💑 **Dans le couple**
 

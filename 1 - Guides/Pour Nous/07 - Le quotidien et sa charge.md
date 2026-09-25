@@ -4,7 +4,7 @@ chapitre: "7"
 titre: "Le quotidien et sa charge"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 

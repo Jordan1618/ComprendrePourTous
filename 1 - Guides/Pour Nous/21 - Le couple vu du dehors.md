@@ -4,15 +4,15 @@ chapitre: "21"
 titre: "Le couple vu du dehors : réseaux sociaux, belle-famille, amitiés, télétravail"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Le couple vu du dehors : réseaux sociaux, belle-famille, amitiés, télétravail
 
-Un couple ne vit jamais en vase clos. Ce chapitre regarde ce que l'environnement extérieur — les écrans, la belle-famille, les voyages, le travail à la maison — fait concrètement à la relation, dans un sens comme dans l'autre.
+Une cellule vivante ne survit pas en s'isolant totalement de son environnement : elle s'entoure d'une membrane semi-perméable, qui laisse entrer ce qui la nourrit et tente de filtrer ce qui l'empoisonne, sans jamais pouvoir tout contrôler parfaitement. Un couple fonctionne sur ce même principe : il ne vit jamais en vase clos, et sa propre membrane, plus ou moins bien réglée, laisse passer les réseaux sociaux, la belle-famille, les amitiés, le travail à la maison, chacun pouvant nourrir la relation ou l'user selon ce qui traverse le filtre.
 
-### 21.1 Les réseaux sociaux : ce qui use vraiment un couple
+### 21.1 Les réseaux sociaux : ce qui passe la membrane sans qu'on le veuille
 
 Le guide [Réseaux sociaux](<../Reseaux sociaux/README.md>) traite en détail les mécanismes généraux de ces plateformes ; ce chapitre se concentre sur leur effet spécifique au sein du couple. [Un usage actif de Twitter et Instagram est négativement associé à la satisfaction relationnelle, via le stress relationnel qu'il génère, chez des adultes de 18 à 46 ans](https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1026&context=psych_journals). Un résultat plus précis distingue deux mécanismes qu'on confond souvent : [la surveillance électronique elle-même — consulter les publications, la liste d'amis et les mentions « j'aime » d'un partenaire — n'est pas directement liée à une satisfaction relationnelle plus faible ; le facteur réellement corrosif est la jalousie suscitée par le contenu que le partenaire publie en ligne](https://phys.org/news/2025-12-jealousy-fueled-social-media-erode.html).
 
@@ -22,7 +22,7 @@ Le mécanisme de comparaison sociale, déjà documenté ailleurs dans ce dépôt
 - Distinguer, en cas de jalousie liée aux réseaux sociaux, ce qui relève d'un vrai signal (comportement ambigu documenté) de ce qui relève de la comparaison sociale généralisée par l'exposition constante à la vie mise en scène d'autrui.
 - Discuter explicitement, en couple, des règles de publication concernant la relation elle-même (photos, statut) plutôt que de laisser chacun improviser ses propres limites.
 
-### 21.2 La belle-famille : un facteur de satisfaction plus fort qu'on ne le pense
+### 21.2 La belle-famille : un flux qui nourrit ou empoisonne selon son dosage
 
 [Une satisfaction élevée de l'épouse dans sa relation avec sa belle-famille augmente son propre ajustement conjugal ainsi que celui de son mari ; des relations positives du mari avec sa belle-famille augmentent de la même façon son propre ajustement conjugal et celui de son épouse](https://pmc.ncbi.nlm.nih.gov/articles/PMC3686301/) — la qualité de la relation avec la belle-famille de chacun des deux partenaires rejaillit donc directement sur le couple lui-même, pas seulement sur la personne concernée.
 
@@ -48,11 +48,17 @@ Un point de nuance complète ce tableau : [quand les personnes interrogées sont
 - Cultiver consciemment un cercle social partagé, sans pour autant renoncer aux amitiés individuelles de chacun : les deux registres contribuent, séparément, au bien-être du couple.
 - Ne jamais attendre des amitiés extérieures qu'elles comblent un manque réel dans la relation de couple elle-même — la recherche montre qu'elles s'ajoutent à la satisfaction de couple plutôt qu'elles ne s'y substituent.
 
-### 21.5 Le télétravail à deux : proximité choisie ou proximité subie
+### 21.5 Le télétravail à deux : la membrane devenue trop perméable
 
-[Une étude suivant 117 couples à double revenu sur dix jours de travail révèle un paradoxe : la même technologie qui met à l'épreuve les relations familiales améliore aussi la performance professionnelle ; travailler à domicile avec son partenaire comporte des compromis — bénéfique pour la carrière, difficile pour la relation, en particulier pour les femmes](https://www.reworked.co/collaboration-productivity/working-from-home-is-good/). La proximité accrue n'est pourtant pas uniquement un facteur de tension : [elle peut conduire à une compréhension plus profonde des routines quotidiennes et des pressions professionnelles de l'autre, favorisant empathie et soutien mutuel](https://www.reworked.co/collaboration-productivity/working-from-home-is-good/).
+[Une étude suivant 117 couples à double revenu sur dix jours de travail révèle un paradoxe : la même technologie qui met à l'épreuve les relations familiales améliore aussi la performance professionnelle](https://www.reworked.co/collaboration-productivity/working-from-home-is-good/) ; [travailler à domicile avec son partenaire comporte des compromis, bénéfique pour la carrière, difficile pour la relation, en particulier pour les femmes](https://www.reworked.co/collaboration-productivity/working-from-home-is-good/). La proximité accrue n'est pourtant pas uniquement un facteur de tension : [elle peut conduire à une compréhension plus profonde des routines quotidiennes et des pressions professionnelles de l'autre, favorisant empathie et soutien mutuel](https://www.reworked.co/collaboration-productivity/working-from-home-is-good/).
 
-Ce qui use réellement le couple n'est donc pas la proximité en tant que telle, mais un mécanisme précis : [une bonne partie de la tension vient de l'intrusion du travail dans le temps familial, via des interruptions constantes des appareils numériques, un phénomène que les chercheurs nomment la « perméabilité TIC »](https://www.reworked.co/collaboration-productivity/working-from-home-is-good/).
+Ce qui use réellement le couple n'est donc pas la proximité en tant que telle, mais un mécanisme précis : [une bonne partie de la tension vient de l'intrusion du travail dans le temps familial, via des interruptions constantes des appareils numériques, un phénomène que les chercheurs nomment la « perméabilité TIC »](https://www.reworked.co/collaboration-productivity/working-from-home-is-good/) — la membrane du couple, cette fois, laisse entrer le travail sans aucun filtre.
+
+💑 **Dans le couple**
+
+Les cinq flux de ce chapitre, réseaux sociaux, belle-famille, voyages, amitiés, télétravail, ne se règlent jamais une fois pour toutes : la membrane a besoin d'être réajustée à chaque étape de la vie du couple. Une question à se poser régulièrement à deux : **« qu'est-ce qu'on laisse entrer en ce moment qui nous nourrit, et qu'est-ce qu'on laisse entrer qui nous use ? »**
+
+La membrane de ce chapitre a une limite qu'il faut nommer : contrairement à une cellule biologique, elle ne se règle jamais automatiquement. C'est aux deux partenaires de décider, consciemment et à voix haute, ce qu'ils laissent traverser.
 
 **Bons réflexes, en synthèse de ce chapitre.**
 - Traiter la comparaison sur les réseaux sociaux comme un phénomène à nommer et à relativiser explicitement, plutôt que comme une vérité sur la qualité de sa propre relation.

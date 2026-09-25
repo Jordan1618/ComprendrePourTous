@@ -244,8 +244,21 @@ Les 7 chapitres en réécriture (1, 5, 7, 10, 12, 15, 16) et les 9 chirurgies (2
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : Pour Nous (4 réécriture + 21 chirurgie)
+## Pour Nous — TERMINÉ (25/09/2026)
+
+Les 4 chapitres en réécriture (16, 19, 20, 24) et les 21 chirurgies ont tous été repris. Le guide se lisait en deux moitiés très inégales : les chapitres 1 à 11 (écrits le 6 août) étaient déjà d'excellente facture, avec fil tenu et analogies filées sur 4 d'entre eux (l'alarme mal réglée, le chantier, le chef de projet, le bateau et la vague) — la reprise s'y est limitée à ajouter les analogies manquantes sur les 7 chapitres qui n'en avaient pas, un bloc 👁️ (ch.2), et à combler le plancher de mots. Les chapitres 12 à 25 (écrits le 18 septembre) avaient un défaut plus systématique : zéro analogie sur 14 chapitres, bloc 💑 presque disparu, et un sourçage qui penchait vers des blogs de coaching plutôt que des sources académiques.
+
+- Total du guide : 31 686 → 36 091 mots (25 chapitres, tous au-dessus de 1 100 mots).
+- Une analogie filée par chapitre sans sujet préexistant (25 chapitres sur 25 en ont désormais une) : l'équipe de sécurité de la maison (ch.2), la carte routière des itinéraires validés (ch.3), la notice d'appareil (ch.4), le pont suspendu (ch.6), la gare et les trains à horaire (ch.8), la marée qui va et vient (ch.10), le costume hérité jamais retaillé (ch.11), le changement de carburant (ch.12), les trois contrats d'assurance (ch.13), la digue fissurée (ch.14), le test diagnostique (ch.15), les deux plantes dans le même pot (ch.16), le dictionnaire réédité (ch.17), l'atelier qu'on choisit de rouvrir chaque matin (ch.18), le dialecte inventé à deux (ch.19), l'iceberg (ch.20), la membrane semi-perméable (ch.21), le carrefour à deux routes (ch.22), la bande originale (ch.23), les trois plans de maison (ch.24), le phare resté allumé (ch.25).
+- Blocs 💑 ajoutés là où l'audit notait leur absence malgré un sujet pertinent : ch.14 (infidélité), ch.17 (double charge historique du mariage), ch.18 (choix quotidien), ch.19 (dialecte du couple), ch.21 (régler la membrane), ch.22 (désaccord sur l'enfant), ch.23 (bande-son du couple). Bloc 👁️ ajouté au ch.2 (vécu du partenaire non traumatisé).
+- Second tour de recherche mené sur le chapitre 25 pour trouver des témoignages réels et nommés de couples mariés depuis plusieurs décennies (Sammy et Macie Waller, 75 ans de mariage ; Frank Hoffman, 67 ans ; Betty Mattocks, 51 ans), le projet Cornell cité en 25.1 n'ayant, lui, fourni aucune citation individuelle vérifiable malgré la recherche.
+- Pipeline complet exécuté (36 116 mots comptés par le script de build, écart mineur accepté), aucun lien cassé spécifique à ce guide, README du guide et README racine mis à jour, réciprocité vérifiée et complétée avec `4 - Sources/Pour Nous.md` (deux sources manquantes retrouvées et ajoutées : Waldinger, Gottman Long-Term Marriage).
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : La rencontre (2 réécriture + 18 chirurgie, 8 rien à faire)
 
 ## Comment reprendre
 
-Étapes 0 à 5 (premier guide) faites. Continuer l'étape 5 guide par guide dans l'ordre du tableau maître : Pour Nous ensuite, puis La rencontre, puis les dix guides en chirurgie pure. Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 (premier guide) faites. Continuer l'étape 5 guide par guide dans l'ordre du tableau maître : La rencontre ensuite, puis les dix guides en chirurgie pure. Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

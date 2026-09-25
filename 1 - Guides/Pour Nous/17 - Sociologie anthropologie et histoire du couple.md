@@ -4,19 +4,23 @@ chapitre: "17"
 titre: "Sociologie, anthropologie et histoire du couple"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Sociologie, anthropologie et histoire du couple
 
-Le chapitre 11 de ce guide (« Le couple à travers les âges et les civilisations ») a déjà posé les grandes lignes historiques et anthropologiques du couple. Ce chapitre les approfondit sous trois angles précis : ce que le mariage d'amour a coûté à l'institution du mariage elle-même, ce que la sociologie française documente sur la cohabitation hors mariage, et ce que la comparaison interculturelle apprend sur les mariages arrangés.
+Un dictionnaire réédité tous les cinquante ans peut voir un même mot changer complètement de définition d'une édition à l'autre, sans jamais changer d'orthographe : le mot reste le même, ce qu'il désigne se transforme du tout au tout. Le mot « mariage » a suivi exactement cette trajectoire depuis deux siècles. Le chapitre 11 de ce guide a déjà posé les grandes lignes historiques et anthropologiques du couple ; ce chapitre feuillette les éditions successives du dictionnaire sous trois angles précis : ce que la nouvelle définition a coûté à l'ancienne, ce que la sociologie française documente sur la cohabitation hors mariage, et ce que la comparaison interculturelle apprend sur les mariages arrangés.
 
-### 17.1 Ce que le mariage d'amour a coûté à l'institution du mariage
+### 17.1 Ce que la nouvelle définition a coûté à l'ancienne
 
 Le chapitre 11 citait déjà l'historienne Stephanie Coontz sur la bascule vers le mariage d'amour. Un second résultat de son travail, plus contre-intuitif, mérite d'être ajouté ici : [l'idée que le mariage repose sur l'amour et l'engagement émotionnel n'a émergé qu'il y a environ deux cents ans ; lorsque le mariage a basculé dans la sphère émotionnelle au XIXe siècle, il en a souffert en tant qu'institution, au moment même où il commençait à prospérer en tant que relation personnelle](https://www.penguinrandomhouse.com/books/291184/marriage-a-history-by-stephanie-coontz/) (Coontz, S., *Marriage, a History*, déjà cité au chapitre 11 ; vérification du 18 septembre 2026).
 
-Ce paradoxe éclaire une tension que beaucoup de couples ressentent sans savoir la nommer : demander à une seule relation de porter à la fois la fonction sociale ancienne du mariage (stabilité, transmission, alliance) et sa promesse moderne (épanouissement personnel, passion durable) crée une pression que le mariage, historiquement, n'a jamais eu à porter avant le XIXe siècle. Ce n'est pas un couple particulier qui échoue à tenir cette promesse — c'est la promesse elle-même qui est historiquement récente et structurellement exigeante.
+Ce paradoxe éclaire une tension que beaucoup de couples ressentent sans savoir la nommer : demander à une seule relation de porter à la fois l'ancienne définition du dictionnaire (stabilité, transmission, alliance) et la nouvelle (épanouissement personnel, passion durable) crée une pression que le mariage, historiquement, n'a jamais eu à porter avant le XIXe siècle. Ce n'est pas un couple particulier qui échoue à tenir cette promesse — c'est la promesse elle-même qui est historiquement récente et structurellement exigeante.
+
+💑 **Dans le couple**
+
+Nommer cette double charge à voix haute désamorce une partie de la pression qu'elle installe silencieusement. Une formulation utile, à se dire mutuellement plutôt qu'à subir seul : **« on essaie de faire tenir dans une seule relation ce qui, avant, reposait sur toute une communauté, la famille élargie et les voisins compris. C'est normal que ce soit lourd, ce n'est pas qu'on s'y prend mal. »**
 
 ### 17.2 Le mariage, la cohabitation, ou rien : ce que documente la sociologie française
 
@@ -42,6 +46,8 @@ Un dernier facteur, temporel celui-ci, mérite d'être connu avant de se remettr
 Un dernier détour, anthropologique celui-ci, pour nuancer une intuition occidentale répandue selon laquelle le mariage choisi librement par amour serait nécessairement plus satisfaisant qu'un mariage arrangé. [Une étude comparant des couples indiens-américains en mariage d'amour et en mariage arrangé n'a trouvé aucune différence significative entre les deux groupes : des niveaux élevés d'amour, de satisfaction et d'engagement ont été rapportés dans les deux cas — l'amour, la satisfaction et l'engagement apparaissent comme des résultats communs aux deux formes de mariage, du moins chez les adultes indiens vivant aux États-Unis](https://pubmed.ncbi.nlm.nih.gov/22897093/).
 
 D'autres études nuancent ce résultat dans le temps plutôt que dans l'intensité : [les mariages d'amour peuvent produire des niveaux de satisfaction initiale plus élevés grâce au lien émotionnel fort entre les partenaires, mais maintenir cette satisfaction demande un effort constant, tandis que les mariages arrangés voient parfois leur niveau de satisfaction croître avec le temps, à mesure que les couples apprennent à s'adapter et à construire une intimité émotionnelle](https://vocal.media/families/love-vs-arranged-marriage-a-comparative-study-of-cultural-practices-and-marital-outcomes). Ce résultat ne doit surtout pas être lu comme un argument en faveur d'un modèle plutôt que l'autre — les deux formes d'union s'inscrivent dans des contextes culturels et des attentes très différentes, difficiles à comparer terme à terme. Il invite plutôt à une nuance simple, déjà présente ailleurs dans ce guide : la trajectoire d'un couple compte au moins autant que son point de départ.
+
+Le dictionnaire de ce chapitre a une limite que la comparaison ne doit pas cacher : contrairement à un vrai dictionnaire, aucune nouvelle édition ne vient jamais remplacer complètement l'ancienne. Les deux définitions du mariage, l'alliance sociale et la promesse d'épanouissement personnel, coexistent aujourd'hui dans la tête de la plupart des couples, sans qu'aucune des deux n'ait jamais été formellement rayée.
 
 **Bons réflexes, en synthèse de ce chapitre.**
 - Se souvenir que la promesse moderne du mariage (épanouissement personnel autant que stabilité) est historiquement très récente — un couple qui peine à tout tenir à la fois ne porte pas un échec personnel, mais une exigence culturelle nouvelle.

@@ -4,7 +4,7 @@ chapitre: "9"
 titre: "Faire face aux épreuves qui viennent de l'extérieur"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 

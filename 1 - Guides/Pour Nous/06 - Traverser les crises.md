@@ -4,11 +4,13 @@ chapitre: "6"
 titre: "Traverser les crises et tenir dans la durée"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-08-06
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Traverser les crises et tenir dans la durée
+
+Un pont suspendu conçu pour résister à une tempête n'est jamais le plus rigide : c'est celui qui peut plier de plusieurs mètres sans se rompre, en répartissant la charge sur l'ensemble de sa structure plutôt que sur un seul pilier. Un couple qui traverse une crise fonctionne sur le même principe : ce n'est jamais celui qui refuse de plier qui tient, mais celui dont la structure absorbe le choc sans reposer entièrement sur une seule personne.
 
 ### 6.1 Ce qui distingue les couples qui traversent
 
@@ -22,7 +24,7 @@ Trois éléments reviennent dans la littérature sur les couples résilients.
 
 **Le maintien de ressources extérieures.** Amis, famille, professionnels. Les couples qui se replient entièrement l'un sur l'autre pendant une crise sont plus fragiles, parce que la totalité de la charge repose sur deux personnes déjà épuisées. [Le sens partagé donné à une épreuve est l'un des trois facteurs de résilience familiale identifiés par Froma Walsh à partir de l'observation clinique de familles traversant des crises variées](https://www.guilford.com/books/Strengthening-Family-Resilience/Froma-Walsh/9781462529865) (Walsh, *Strengthening Family Resilience*, Guilford Press, 2006 ; vérification du 7 août 2026).
 
-### 6.2 Le piège de l'aidant
+### 6.2 Le piège de l'aidant : quand tout le poids repose sur un seul pilier
 
 C'est la situation la plus fréquente quand l'un des deux porte un trauma, une dépression ou une maladie chronique, et elle est très peu abordée.
 
@@ -48,9 +50,9 @@ Garder au moins **un domaine entièrement à soi**, non partagé et non négocia
 
 **Se faire aider soi-même.** Les proches de personnes traumatisées ou dépressives développent fréquemment leur propre détresse. Consulter en tant que conjoint est légitime. [Le maintien de ressources personnelles distinctes est l'un des facteurs protecteurs identifiés dans la littérature sur le fardeau de l'aidant](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
 
-### 6.4 Les signaux d'épuisement d'un couple
+### 6.4 Les signaux d'épuisement d'un couple : les fissures avant l'effondrement
 
-Le délitement est rarement soudain. Il donne des signaux dans un ordre assez régulier, et les connaître permet d'agir avant la rupture.
+Le délitement est rarement soudain. Comme un pont, il donne des signaux de fissure bien avant l'effondrement, et les connaître permet d'agir avant la rupture.
 
 **Précoces.** On ne se raconte plus les petites choses de la journée. Les sollicitations quotidiennes ne reçoivent plus de réponse (le mécanisme décrit dans [L'amour](<../L amour/README.md>), chapitre 7). Le contact physique non sexuel disparaît. On commence à se raconter des versions différentes des mêmes scènes.
 
@@ -65,6 +67,8 @@ Ce n'est pas une fatalité mécanique : chacun de ces signaux est réversible, e
 Une seule, et elle vaut mieux que beaucoup de bilans : **« est-ce que je deviens quelqu'un que j'aime bien, dans cette relation ? »**
 
 Elle est préférable à « est-ce que je suis heureux » — trop global, trop dépendant de l'humeur du jour — et à « est-ce que je l'aime » — qui, on l'a vu, mélange trois systèmes différents. Elle porte sur la seule chose directement observable : ce que la relation fait de vous. [Ce type de question auto-évaluative rejoint les échelles de satisfaction conjugale utilisées en recherche, qui portent sur le vécu subjectif plus que sur des critères extérieurs](https://archive.org/details/the-seven-principles-for-making-marriage-work) (Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
+
+Le pont de ce chapitre a une limite que la comparaison ne doit pas cacher : un vrai pont est inspecté par des ingénieurs extérieurs à intervalles réguliers, alors qu'un couple doit souvent apprendre à repérer ses propres fissures lui-même, ce qui rend le rituel qui suit d'autant plus utile.
 
 💑 **Dans le couple**
 

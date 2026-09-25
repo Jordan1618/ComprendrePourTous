@@ -4,17 +4,17 @@ chapitre: "13"
 titre: "Le droit et l'argent du couple : mariage, PACS, fiscalité, succession"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-09-18
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Le droit et l'argent du couple : mariage, PACS, fiscalité, succession
 
-Ce chapitre décrit ce que le droit français encadre réellement dans un couple — mariage, PACS ou union libre — et ce que chaque statut change concrètement le jour où il compte le plus : un décès, une séparation, un achat immobilier.
+Trois contrats d'assurance peuvent sembler équivalents en apparence, tant que rien n'arrive : ce n'est que le jour du sinistre que les clauses en petits caractères font toute la différence, l'un couvrant intégralement, l'autre partiellement, le troisième pas du tout. Le mariage, le PACS et l'union libre fonctionnent exactement sur ce modèle : trois contrats qui paraissent proches au quotidien, mais dont les clauses divergent radicalement au moment où elles comptent le plus, un décès, une séparation, un achat immobilier.
 
-### 13.1 Mariage, PACS, union libre : ce que chaque statut protège vraiment
+### 13.1 Mariage, PACS, union libre : trois contrats, trois clauses très différentes
 
-Le choix du statut n'est jamais qu'une question symbolique — il détermine des droits très concrets, en particulier face au décès d'un partenaire. [Le partenaire pacsé bénéficie de la même exonération fiscale qu'un couple marié, mais n'a aucun droit de succession légal et ne reçoit rien par défaut sans testament explicite ; un époux marié bénéficie au contraire automatiquement d'une part de la succession, avec le choix entre l'usufruit total ou un quart en pleine propriété des biens du défunt](https://hephata.fr/pacs-et-succession-droits-protection/). [Même avec un testament, l'héritage d'un partenaire pacsé reste limité par la réserve héréditaire des enfants : la part disponible tombe à la moitié avec un enfant, au tiers avec deux enfants, au quart à partir de trois enfants](https://hephata.fr/pacs-et-succession-droits-protection/).
+Le choix du statut n'est jamais qu'une question symbolique — il détermine des droits très concrets, en particulier face au décès d'un partenaire. [Le partenaire pacsé bénéficie de la même exonération fiscale qu'un couple marié](https://hephata.fr/pacs-et-succession-droits-protection/), mais [il n'a aucun droit de succession légal et ne reçoit rien par défaut sans testament explicite](https://hephata.fr/pacs-et-succession-droits-protection/) — une clause absente du contrat PACS que beaucoup découvrent trop tard. [Un époux marié bénéficie au contraire automatiquement d'une part de la succession, avec le choix entre l'usufruit total ou un quart en pleine propriété des biens du défunt](https://hephata.fr/pacs-et-succession-droits-protection/). Même quand un testament comble cette absence, sa portée reste limitée : [l'héritage d'un partenaire pacsé reste borné par la réserve héréditaire des enfants, la part disponible tombant à la moitié avec un enfant, au tiers avec deux enfants, au quart à partir de trois enfants](https://hephata.fr/pacs-et-succession-droits-protection/).
 
 Deux autres différences concrètes, rarement anticipées avant qu'elles ne deviennent urgentes : [le mariage garantit une pension de réversion au conjoint survivant, un avantage totalement absent du PACS](https://hephata.fr/pacs-et-succession-droits-protection/), et [le PACS n'accorde qu'un droit d'occupation temporaire du logement commun, limité à un an après le décès, alors que le mariage assure au conjoint survivant un droit au logement à vie](https://hephata.fr/pacs-et-succession-droits-protection/). Sur le plan fiscal, en revanche, aucune différence n'existe plus entre les deux statuts depuis une réforme ancienne : [en matière d'impôt sur le revenu et de donations, il n'existe aucune différence entre le mariage et le PACS depuis 2011](https://hephata.fr/pacs-et-succession-droits-protection/).
 
@@ -53,10 +53,12 @@ Un point juridique rarement anticipé, alors qu'il concerne une part importante 
 
 Une solution pratique existe pour éviter un contentieux sur ce point précis : [un accord de divorce par consentement mutuel peut inclure une clause détaillant les modalités de garde de l'animal, une organisation qui évite les litiges futurs](https://www.justifit.fr/b/guides/droit-famille/divorce/separation-divorce-garde-animal-compagnie/).
 
+Les trois contrats de ce chapitre ont une limite que la comparaison assurantielle ne doit pas cacher : contrairement à une police d'assurance, personne ne relit jamais son statut de couple en petits caractères avant de le signer. C'est précisément ce que ce chapitre propose de faire, une bonne fois, avant le sinistre plutôt qu'après.
+
 **Bons réflexes, en synthèse de ce chapitre.**
-- Choisir le statut du couple (mariage, PACS, union libre) en connaissance de cause sur ce qu'il protège réellement en cas de décès, pas seulement sur sa charge symbolique.
-- Formaliser par écrit (testament, convention d'indivision) ce que le droit ne protège pas automatiquement, plutôt que de présumer une protection qui n'existe pas.
-- Anticiper, même en dehors de tout conflit, les points juridiques concrets qui deviennent sources de tension en cas de séparation — jusqu'à la garde d'un animal de compagnie.
+- Choisissez le statut du couple (mariage, PACS, union libre) en connaissance de cause sur ce qu'il protège réellement en cas de décès, pas seulement sur sa charge symbolique.
+- Formalisez par écrit (testament, convention d'indivision) ce que le droit ne protège pas automatiquement, plutôt que de présumer une protection qui n'existe pas.
+- Anticipez, même en dehors de tout conflit, les points juridiques concrets qui deviennent sources de tension en cas de séparation — jusqu'à la garde d'un animal de compagnie.
 
 ## Sources vérifiables
 
