@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Sport adapté, voyager et loisirs accessibles
 
-Après les chapitres consacrés au soin, aux droits et au travail intérieur, ce chapitre s'attarde sur une dimension trop souvent reléguée au second plan : le plaisir, le mouvement et le voyage, avec ce que la recherche établit sur leurs bénéfices réels et les obstacles qui subsistent.
+Une porte déjà installée dans un mur, mais restée verrouillée faute de clé, n'est pas un mur plein : c'est une ouverture qui existe déjà, en attente qu'on lui fournisse ce qui manque pour s'ouvrir. Après les chapitres consacrés au soin, aux droits et au travail intérieur, ce chapitre s'attarde sur une dimension trop souvent reléguée au second plan : le plaisir, le mouvement et le voyage, deux portes de ce genre, avec ce que la recherche établit sur leurs bénéfices réels une fois ouvertes et les clés qui manquent encore trop souvent.
 
 ### 31.1 Le sport adapté : des bénéfices mesurés, physiques et psychologiques à la fois
 
@@ -19,8 +19,8 @@ La pratique sportive adaptée ne relève pas d'un simple loisir accessoire : ses
 Les bénéfices physiques, mesurés séparément, complètent ce tableau plutôt que de s'y substituer. [Des différences significatives ont été observées dans la qualité de vie physique avant et après la pratique d'un sport adapté ; l'exercice améliore l'endurance, la force musculaire, la fonction cardiopulmonaire et la flexibilité, améliore l'équilibre et les habiletés motrices, et procure des bénéfices psychologiques significatifs, incluant une meilleure estime de soi, une meilleure image corporelle et une meilleure régulation émotionnelle](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10531072/).
 
 **Bons réflexes.**
-- Proposer le sport adapté comme un axe de rééducation et de bien-être à part entière, dès que la situation médicale le permet, plutôt que comme une option secondaire réservée à un petit nombre : les bénéfices mesurés touchent simultanément la santé mentale et physique.
-- Retenir que le sentiment d'appartenance à une communauté, généré par la pratique en groupe, constitue un bénéfice documenté en soi, distinct de l'effort physique lui-même : cela rejoint directement le chapitre 15 sur la solitude et l'importance des liens sociaux.
+- Proposez le sport adapté comme un axe de rééducation et de bien-être à part entière, dès que la situation médicale le permet, plutôt que comme une option secondaire réservée à un petit nombre : les bénéfices mesurés touchent simultanément la santé mentale et physique.
+- Reliez le sentiment d'appartenance à une communauté, généré par la pratique en groupe, au chapitre 15 sur la solitude : c'est un bénéfice documenté en soi, distinct de l'effort physique lui-même, pas un simple à-côté de la pratique sportive.
 
 ### 31.2 Le voyage accessible : un marché massif, encore largement sous-desservi
 
@@ -30,10 +30,12 @@ Malgré cette demande massive, l'offre reste largement inadaptée, avec des obst
 
 Une étude qualitative menée auprès d'utilisateurs de fauteuil roulant voyageant dans la région de Bodrum, en Turquie, illustre concrètement l'écart entre le désir de voyager et la réalité de l'accueil reçu. [Un participant a témoigné : « J'ai toujours l'intention de participer à un voyage où je peux avoir des activités comme nager, prendre le soleil, visiter des lieux historiques » ; malgré des exigences légales d'accessibilité en Turquie, leur mise en œuvre restait insuffisante, forçant les touristes handicapés à composer avec des barrières physiques, des attitudes discriminatoires et un personnel insuffisamment formé](https://pmc.ncbi.nlm.nih.gov/articles/PMC7980567/). Un facteur s'est révélé déterminant pour rendre le voyage possible malgré ces obstacles. [L'accompagnement par la famille ou un aidant s'est révélé indispensable pour répondre aux besoins de soin quotidiens pendant les vacances](https://pmc.ncbi.nlm.nih.gov/articles/PMC7980567/) — un rappel direct du rôle de l'aidant déjà détaillé au chapitre 16, cette fois appliqué au contexte spécifique du voyage.
 
+La porte verrouillée de ce chapitre a une limite qu'il faut nommer : contrairement à une vraie serrure, il n'existe pas une clé unique qui ouvre tout. Chaque hébergement, chaque club sportif, chaque destination a sa propre serrure, ce qui explique pourquoi le flou sur l'accessibilité annoncée reste, à lui seul, un obstacle documenté en 31.2.
+
 **Bons réflexes, en synthèse de ce chapitre.**
-- Vérifier systématiquement, au-delà de la simple mention « accessible », le détail concret des équipements proposés (largeur des portes, hauteur des lits, présence réelle d'une douche accessible) avant de réserver un hébergement : le flou de l'information sur l'accessibilité est lui-même identifié comme un obstacle à part entière.
-- Retenir que le marché du voyage accessible représente une demande massive et solvable, pas une niche marginale : ce constat économique devrait peser sur les choix des professionnels du tourisme autant que la seule obligation légale d'accessibilité.
-- Voir dans ce chapitre la confirmation d'un principe déjà posé au chapitre 10 : la barrière n'est presque jamais dans le corps de la personne handicapée elle-même, mais dans un environnement (sportif, touristique) pas encore pensé pour elle, malgré une demande réelle et chiffrée.
+- Vérifiez systématiquement, au-delà de la simple mention « accessible », le détail concret des équipements proposés (largeur des portes, hauteur des lits, présence réelle d'une douche accessible) avant de réserver un hébergement : le flou de l'information sur l'accessibilité est lui-même identifié comme un obstacle à part entière.
+- Rappelez, face à un professionnel du tourisme hésitant à investir dans l'accessibilité, que ce marché représente une demande massive et solvable, pas une niche marginale : ce constat économique devrait peser autant que la seule obligation légale.
+- Reliez ce chapitre au chapitre 10 : la barrière n'est presque jamais dans le corps de la personne handicapée elle-même, mais dans un environnement (sportif, touristique) pas encore pensé pour elle, malgré une demande réelle et chiffrée.
 
 ## Sources vérifiables
 

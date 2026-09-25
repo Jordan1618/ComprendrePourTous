@@ -4,15 +4,15 @@ chapitre: "13"
 titre: "Sexualité, désir et handicap"
 sujet: "commun"
 angle: "physiologie"
-verifie_le: 2026-09-22
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Sexualité, désir et handicap
 
-Un sujet trop souvent absent des discours sur le handicap, alors qu'il figure, la recherche le montre, parmi les priorités les plus importantes des personnes concernées elles-mêmes. Ce chapitre déconstruit d'abord le mythe de l'asexualité, avant de détailler ce que la recherche établit sur la sexualité après une lésion médullaire spécifiquement.
+Une lumière qu'on éteint depuis l'extérieur, sans que la personne dans la pièce n'ait jamais demandé l'obscurité, reste allumée dans son propre ressenti même si personne d'autre ne la voit plus briller. C'est ce qui arrive au désir des personnes handicapées dans l'imaginaire collectif : une société qui coupe le courant de l'extérieur, sur un sujet trop souvent absent des discours sur le handicap, alors qu'il figure, la recherche le montre, parmi les priorités les plus importantes des personnes concernées elles-mêmes. Ce chapitre déconstruit d'abord le mythe de l'asexualité, avant de détailler ce que la recherche établit sur la sexualité après une lésion médullaire spécifiquement.
 
-### 13.1 Le mythe de l'asexualité : une désexualisation qui a des conséquences concrètes
+### 13.1 Le mythe de l'asexualité : la lumière éteinte depuis l'extérieur
 
 Un présupposé culturel largement répandu prive les personnes handicapées d'une dimension entière de leur vie, sans base factuelle réelle. [Les personnes handicapées sont désavantagées sexuellement par une société qui les perçoit à tort comme des êtres asexués ; les mythes courants incluent l'idée que les personnes handicapées seraient asexuées, sans désir ni intérêt sexuel, qu'aucune personne valide ne pourrait les trouver désirables, et que l'intimité sexuelle serait impossible pour elles](https://link.springer.com/article/10.1023/A:1010621705591).
 
@@ -30,10 +30,16 @@ Les effets physiologiques concrets d'une lésion médullaire sur la sexualité s
 
 Malgré cette ampleur, la recherche récente a considérablement élargi les solutions disponibles, avec une approche désormais centrée sur le patient. [Grâce aux avancées de la recherche sur les lésions médullaires au cours des dernières décennies, les professionnels disposent aujourd'hui des connaissances et des outils pour traiter beaucoup de ces préoccupations selon une approche fondée sur les preuves et centrée sur le patient ; restaurer la fonction sexuelle est considéré comme l'une des fonctions importantes pour les patients dans le domaine physique, une amélioration de la fonction sexuelle étant censée améliorer significativement leur qualité de vie globale](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9781084/). La question de la parentalité, souvent redoutée à tort comme définitivement fermée, dispose elle aussi de réponses concrètes. [De nombreux traitements de fertilité sûrs et efficaces sont disponibles pour les couples touchés par une lésion médullaire](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9781084/).
 
+💑 **Dans le couple**
+
+Un couple formé avant la lésion, ou qui se construit après, gagne à nommer explicitement ce qui a changé plutôt qu'à laisser le silence décider à sa place. Une formulation qui rouvre la conversation sans pression : **« je ne sais pas encore ce qui marche pour nous maintenant, et j'ai envie qu'on explore ça ensemble plutôt que d'éviter le sujet. »** Le rôle des équipes soignantes, déjà central en 13.2, n'exclut jamais celui du couple lui-même dans cette exploration.
+
+La lumière de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai courant électrique, personne d'autre que la personne concernée elle-même ne peut réellement l'éteindre. Ce que la société coupe, c'est seulement la reconnaissance qu'elle brille encore.
+
 **Bons réflexes, en synthèse de ce chapitre.**
-- Considérer la sexualité comme un axe central de la rééducation après une lésion médullaire, à aborder proactivement par les équipes soignantes, plutôt que comme un sujet tabou que le patient devrait oser aborder seul en premier : les données montrent que c'est déjà la priorité numéro un des personnes concernées elles-mêmes.
-- Ne jamais présumer qu'un projet de parentalité est définitivement fermé après une lésion médullaire : des solutions de fertilité existent et sont documentées comme sûres et efficaces.
-- Retenir le lien direct entre ce chapitre et le précédent sur le langage : parler explicitement de sexualité et de désir avec une personne handicapée, plutôt que d'éviter le sujet par malaise, est l'un des gestes concrets les plus efficaces contre la désexualisation documentée en 13.1.
+- Considérez la sexualité comme un axe central de la rééducation après une lésion médullaire, à aborder proactivement par les équipes soignantes, plutôt que comme un sujet tabou que le patient devrait oser aborder seul en premier : les données montrent que c'est déjà la priorité numéro un des personnes concernées elles-mêmes.
+- Ne présumez jamais qu'un projet de parentalité est définitivement fermé après une lésion médullaire : des solutions de fertilité existent et sont documentées comme sûres et efficaces.
+- Reliez ce chapitre au précédent sur le langage : parler explicitement de sexualité et de désir avec une personne handicapée, plutôt que d'éviter le sujet par malaise, est l'un des gestes concrets les plus efficaces contre la désexualisation documentée en 13.1.
 
 ## Sources vérifiables
 

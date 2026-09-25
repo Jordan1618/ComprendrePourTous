@@ -4,15 +4,15 @@ chapitre: "8"
 titre: "Deuil de la vie d'avant et reconstruction identitaire"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-09-22
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Deuil de la vie d'avant et reconstruction identitaire
 
-Ce chapitre ouvre la partie psychologique et sociétale de ce guide. Il part d'un concept sociologique précis pour expliquer pourquoi une maladie grave ou un handicap ne bouleverse pas seulement le corps, mais l'histoire entière qu'une personne se raconte sur elle-même.
+Un roman dont l'auteur, au milieu de l'écriture, apprend que les chapitres qu'il avait déjà planifiés ne pourront jamais s'écrire tels quels, ne referme pas le livre pour autant : il reprend la plume, change de direction, et continue d'écrire une histoire différente de celle prévue, pas une histoire arrêtée. Ce chapitre ouvre la partie psychologique et sociétale de ce guide sur ce même principe. Il part d'un concept sociologique précis pour expliquer pourquoi une maladie grave ou un handicap ne bouleverse pas seulement le corps, mais l'histoire entière qu'une personne se raconte sur elle-même, ses chapitres à venir compris.
 
-### 8.1 La rupture biographique : quand la maladie interrompt un récit de vie, pas seulement un corps
+### 8.1 La rupture biographique : quand la maladie force à réécrire les chapitres à venir
 
 Le sociologue Michael Bury a proposé, dès la fin des années 1970, un concept devenu central pour comprendre l'impact psychologique de la maladie chronique. [Bury a développé l'idée que le diagnostic d'une maladie chronique perturbe la structure même de la vie quotidienne, lors de son travail de terrain à la fin des années 1970 auprès de personnes diagnostiquées avec une polyarthrite rhumatoïde ; il soutenait qu'une maladie grave ne produit pas seulement des symptômes physiques, mais rompt les présupposés jusque-là allant de soi qui sous-tendent la vie quotidienne et la planification biographique à long terme](https://www.psychologytoday.com/us/blog/chronically-me/202405/chronic-illness-as-a-biographical-disruption).
 
@@ -32,10 +32,16 @@ Le processus par lequel une personne reconstruit un sens de soi après cette lis
 
 Un point essentiel distingue ce processus d'un deuil classique, qui suppose une clôture possible : ici, la reconstruction ne se termine pas nécessairement. [La reconstruction identitaire n'est pas nécessairement un processus fini, certaines conditions invalidantes étant progressives et nécessitant un réajustement constant](https://rcej.scholasticahq.com/article/38666-strengthening-rehabilitation-professional-identities-including-grief-education-as-a-psychosocial-aspect-of-disability) — un constat qui rejoint directement le concept de chagrin chronique déjà présenté au chapitre 1 : la reconstruction identitaire, comme le chagrin, est un travail permanent plutôt qu'une étape franchie une fois pour toutes.
 
+⚖️ **Nuance : le « deuil » de la vie d'avant n'est pas le deuil d'un décès**
+
+Le mot « deuil », employé dans ce chapitre comme dans le langage courant, prête à un malentendu qu'il vaut la peine de désamorcer. Un deuil au sens strict porte sur une personne disparue, avec une fin de vie datée et un processus qui, pour la plupart des gens, finit par se stabiliser. Le deuil de la vie d'avant n'a ni ces deux propriétés : personne n'est mort, et la perte elle-même peut continuer d'évoluer, de s'aggraver ou de se transformer au fil d'une maladie progressive. Employer le même mot pour les deux situations aide à nommer une souffrance réelle, mais ne doit jamais laisser croire que l'une se referme comme l'autre.
+
+Le roman de ce chapitre a une limite qu'il faut nommer : contrairement à un auteur qui garde toujours la plume en main, la personne malade ne choisit jamais le moment où les chapitres à venir doivent être réécrits. Elle garde en revanche, et c'est ce que montrent les chapitres suivants, la main sur la façon de les écrire.
+
 **Bons réflexes, en synthèse de ce chapitre.**
-- Utiliser la liste des pertes possibles (mobilité, spontanéité, rôles sociaux, sentiment de contrôle, identité professionnelle) comme un outil de mise en mots plutôt que de la voir comme exhaustive ou universelle : elle aide souvent à nommer une souffrance qui, sans ce vocabulaire, reste diffuse et culpabilisante.
-- Pour les conditions évolutives ou dégénératives en particulier, anticiper que la reconstruction identitaire sera un processus répété plutôt qu'un aboutissement unique : chaque nouvelle perte fonctionnelle peut rouvrir un travail de deuil et d'adaptation déjà mené une première fois.
-- Retenir que ce chapitre pose une base théorique qui éclairera les chapitres suivants sur l'acceptation, le validisme et le couple face à la maladie : la rupture biographique de Bury est le fil conducteur de toute la partie psychologique de ce guide.
+- Utilisez la liste des pertes possibles (mobilité, spontanéité, rôles sociaux, sentiment de contrôle, identité professionnelle) comme un outil de mise en mots plutôt que de la voir comme exhaustive ou universelle : elle aide souvent à nommer une souffrance qui, sans ce vocabulaire, reste diffuse et culpabilisante.
+- Pour les conditions évolutives ou dégénératives en particulier, anticipez que la reconstruction identitaire sera un processus répété plutôt qu'un aboutissement unique : chaque nouvelle perte fonctionnelle peut rouvrir un travail de deuil et d'adaptation déjà mené une première fois.
+- Gardez ce chapitre en tête pour les suivants, sur l'acceptation, le validisme et le couple face à la maladie : la rupture biographique de Bury est le fil conducteur de toute la partie psychologique de ce guide.
 
 ## Sources vérifiables
 

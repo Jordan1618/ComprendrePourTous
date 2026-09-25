@@ -4,15 +4,15 @@ chapitre: "17"
 titre: "Les professionnels du parcours de soin"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-09-22
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Les professionnels du parcours de soin
 
-Autour d'une personne malade ou handicapée gravitent souvent de nombreux professionnels aux rôles mal distingués les uns des autres. Ce chapitre clarifie qui fait quoi, avant d'aborder un problème structurel qui touche presque tous les parcours de soin complexes : la fragmentation du système.
+Un chantier de construction avec un architecte, un plombier et un électricien qui travaillent chacun dans leur coin, sans personne pour superviser l'ensemble, finit avec des tuyaux qui traversent des murs porteurs et des câbles qui passent là où la plomberie devait être installée. Autour d'une personne malade ou handicapée gravite ce même type de chantier, avec des corps de métier aux rôles mal distingués et, trop souvent, personne pour superviser l'ensemble. Ce chapitre clarifie qui fait quoi, avant d'aborder un problème structurel qui touche presque tous les parcours de soin complexes : l'absence de chef de chantier.
 
-### 17.1 Qui fait quoi : distinguer les rôles pour mieux les mobiliser
+### 17.1 Qui fait quoi : distinguer les corps de métier pour mieux les mobiliser
 
 Trois professions reviennent systématiquement dans l'accompagnement d'une maladie grave ou d'un handicap, avec des rôles précis et complémentaires plutôt qu'interchangeables. [Le kinésithérapeute aide à restaurer la fonction des patients ayant des problèmes liés au mouvement, à la force musculaire, à l'exercice et à la fonction articulaire, en s'attaquant à la fonction motrice et à la rééducation par des exercices](https://globalhealtheducation.com/au/resources/multidisciplinary-healthcare-teams). [L'ergothérapeute aide à restaurer la fonction des patients ayant des problèmes liés aux activités de la vie quotidienne, incluant le travail, l'école, la famille et les activités communautaires et de loisirs](https://globalhealtheducation.com/au/resources/multidisciplinary-healthcare-teams). [Le travailleur social apporte un accompagnement psychologique et des bilans de santé mentale, aide pour les questions d'assurance, et organise les transports](https://globalhealtheducation.com/au/resources/multidisciplinary-healthcare-teams).
 
@@ -22,7 +22,7 @@ Au-delà de ces trois professions centrales, un principe organisationnel structu
 - Solliciter explicitement chaque professionnel pour son rôle précis (le kinésithérapeute pour la fonction motrice, l'ergothérapeute pour l'autonomie du quotidien, le travailleur social pour les démarches administratives et le lien social) plutôt que de tout attendre d'un seul interlocuteur médical généraliste.
 - Se considérer soi-même, ainsi que sa famille, comme un membre à part entière de l'équipe de soin, pas comme un simple destinataire passif des décisions prises par les professionnels : c'est la position affirmée par la littérature de référence sur les équipes pluridisciplinaires elle-même.
 
-### 17.2 La fragmentation du système : un fardeau de coordination qui retombe sur le patient
+### 17.2 La fragmentation du système : le chantier sans chef pour le superviser
 
 Au-delà de la clarté des rôles individuels, un problème structurel touche la plupart des parcours de soin complexes : personne ne coordonne réellement l'ensemble, laissant ce travail retomber sur la personne malade elle-même. [La fragmentation des services de santé et sociaux force les patients ayant des besoins complexes à naviguer eux-mêmes dans des systèmes confus et accablants ; une mauvaise communication et coordination entre prestataires peut avoir un effet boule de neige coûteux, la perte d'informations cliniques d'un prestataire à l'autre pouvant entraîner des tests et services redondants ou inutiles](https://htdhealth.com/insights/is-care-navigation-the-answer-to-a-messy-us-health-system/).
 
@@ -30,10 +30,12 @@ Les patients eux-mêmes décrivent ce fardeau comme distinct de la maladie elle-
 
 Face à ce constat, une réponse organisationnelle précise a émergé et montre des résultats documentés. [La navigation de patients peut servir d'approche novatrice pour améliorer l'intégration des soins pour les personnes ayant des besoins de soins complexes dans un système de plus en plus fragmenté ; la navigation de soins redistribue le fardeau de la navigation dans le système de santé, l'éloignant des patients](https://htdhealth.com/insights/is-care-navigation-the-answer-to-a-messy-us-health-system/).
 
+Le chantier de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai chantier, personne n'engage jamais automatiquement de chef de chantier pour la santé. C'est au patient ou à sa famille d'aller le chercher activement, faute de quoi ce rôle reste vacant par défaut.
+
 **Bons réflexes, en synthèse de ce chapitre.**
-- Se renseigner activement sur l'existence d'un service de coordination ou de navigation de soins (souvent proposé par les hôpitaux pour les maladies complexes ou par les associations de patients, voir un chapitre à venir dans ce guide) : cela permet de transférer une partie réelle du fardeau administratif hors des épaules du patient et de sa famille.
-- Ne jamais interpréter la difficulté à coordonner son propre parcours de soin comme un échec personnel d'organisation : la recherche montre qu'il s'agit d'un problème structurel du système de santé lui-même, largement indépendant des compétences individuelles du patient.
-- Retenir le fil qui relie ce chapitre au chapitre 2 sur les démarches administratives françaises : la complexité rencontrée dans les dossiers MDPH ou ALD n'est pas un cas isolé, mais un symptôme du même problème plus large de fragmentation du système de santé, documenté ici à l'échelle internationale.
+- Renseignez-vous activement sur l'existence d'un service de coordination ou de navigation de soins (souvent proposé par les hôpitaux pour les maladies complexes ou par les associations de patients) : cela permet de transférer une partie réelle du fardeau administratif hors des épaules du patient et de sa famille.
+- N'interprétez jamais la difficulté à coordonner votre propre parcours de soin comme un échec personnel d'organisation : la recherche montre qu'il s'agit d'un problème structurel du système de santé lui-même, largement indépendant des compétences individuelles du patient.
+- Reliez ce chapitre au chapitre 2 sur les démarches administratives françaises : la complexité rencontrée dans les dossiers MDPH ou ALD n'est pas un cas isolé, mais un symptôme du même problème plus large de fragmentation du système de santé, documenté ici à l'échelle internationale.
 
 ## Sources vérifiables
 

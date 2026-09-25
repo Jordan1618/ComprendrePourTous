@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Le vécu des soignants
 
-Ce guide a jusqu'ici gardé le point de vue du patient et de son entourage. Ce chapitre inverse la perspective : ce que vivent, émotionnellement, les professionnels qui accompagnent au quotidien la maladie grave, la douleur chronique et le handicap.
+Une digue protège une ville entière en absorbant elle-même, année après année, la pression de l'eau qu'elle retient : personne ne voit l'érosion qui s'accumule de son côté, tant qu'elle continue de tenir. Ce guide a jusqu'ici gardé le point de vue du patient et de son entourage. Ce chapitre inverse la perspective : ce que vivent, émotionnellement, les professionnels qui accompagnent au quotidien la maladie grave, la douleur chronique et le handicap, cette digue qui tient sans que personne ne pense à regarder son état.
 
 ### 30.1 Un fardeau émotionnel mesuré, largement sous-reconnu
 
@@ -26,10 +26,14 @@ Un concept complémentaire, plus récent, décrit le traumatisme spécifique vé
 
 Face à ce constat, des leviers concrets de protection ont été identifiés par la recherche. [Intégrer l'éducation, un débriefing structuré, des processus de soutien par les pairs et une culture institutionnelle soutenante est essentiel pour maintenir des soins humains et de qualité tout au long d'une carrière](https://thejns.org/focus/view/journals/neurosurg-focus/61/2/article-pE11.xml).
 
+👁️ **Vu de l'autre côté.** Ce chapitre a retourné la perspective vers le soignant, mais elle continue de se retourner : ce qui érode la digue finit par se voir de l'autre côté, du côté du patient. Un soignant en fatigue de compassion devient plus distant et moins empathique avec les personnes mêmes qu'il accompagne, ce que ce chapitre a déjà établi en 30.1. Le patient qui sent son médecin pressé, moins présent, moins chaleureux qu'avant, ne se trompe souvent pas : il perçoit l'érosion d'une digue qui, avant de céder pour de bon, laisse d'abord filtrer un peu d'eau.
+
+La digue de ce chapitre a une limite qu'il faut nommer : contrairement à une vraie digue, elle ne se répare jamais seule une fois la crue passée. Elle a besoin d'un entretien actif et continu, débriefing et soutien par les pairs, ce que la dernière étude citée ici établit sans ambiguïté.
+
 **Bons réflexes, en synthèse de ce chapitre.**
-- Pour un patient ou un proche, garder à l'esprit que le soignant qui accompagne une maladie grave porte lui aussi une charge émotionnelle réelle, documentée à plus de 50 % de prévalence sur certains indicateurs : cela n'excuse jamais un manque de professionnalisme, mais nuance une perception parfois trop unilatérale de la relation de soin.
-- Pour les soignants eux-mêmes, ne jamais minimiser le deuil ressenti après la mort ou une complication grave d'un patient comme illégitime ou hors de propos professionnellement : le concept de deuil interdit rappelle que cette souffrance, bien que socialement peu reconnue, mérite d'être exprimée et traitée activement.
-- Retenir que les structures de soin qui intègrent débriefing et soutien par les pairs protègent mieux leurs équipes : ce n'est pas un luxe institutionnel, mais un levier documenté contre l'épuisement et le syndrome de seconde victime, avec un effet direct, en creux, sur la qualité de l'accompagnement reçu par les patients eux-mêmes.
+- Pour un patient ou un proche, gardez en tête que le soignant qui accompagne une maladie grave porte lui aussi une charge émotionnelle réelle, documentée à plus de 50 % de prévalence sur certains indicateurs : cela n'excuse jamais un manque de professionnalisme, mais nuance une perception parfois trop unilatérale de la relation de soin.
+- Pour les soignants eux-mêmes, ne minimisez jamais le deuil ressenti après la mort ou une complication grave d'un patient comme illégitime ou hors de propos professionnellement : le concept de deuil interdit rappelle que cette souffrance, bien que socialement peu reconnue, mérite d'être exprimée et traitée activement.
+- Reliez la solidité des structures de soin (débriefing, soutien par les pairs) à la qualité perçue par les patients eux-mêmes : ce n'est pas un luxe institutionnel, mais un levier documenté contre l'épuisement et le syndrome de seconde victime, avec un effet direct, en creux, sur l'accompagnement reçu.
 
 ## Sources vérifiables
 

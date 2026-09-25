@@ -4,25 +4,25 @@ chapitre: "1"
 titre: "Recevoir un diagnostic : le choc et ses phases"
 sujet: "commun"
 angle: "psychologie"
-verifie_le: 2026-09-22
+verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
 # Recevoir un diagnostic : le choc et ses phases
 
-Ce guide s'ouvre là où tout commence pour beaucoup : le moment où un médecin prononce un mot qui change tout. Ce chapitre déconstruit d'abord le modèle le plus connu mais le plus mal utilisé pour comprendre ce moment, avant de présenter ce que la recherche propose à la place.
+Un escalier se gravit marche après marche, dans un seul sens, jusqu'à un palier final où l'on peut se retourner et considérer le chemin parcouru comme terminé. Une vague, elle, ne fonctionne pas ainsi : elle revient, se retire, revient encore, sans jamais suivre un ordre fixe ni se refermer définitivement. Ce guide s'ouvre là où tout commence pour beaucoup : le moment où un médecin prononce un mot qui change tout, et le faux escalier qu'on nous promet ensuite de gravir. Ce chapitre déconstruit d'abord ce modèle en escalier, le plus connu mais le plus mal utilisé pour comprendre ce moment, avant de présenter ce que la recherche propose à la place : une vague, pas un escalier.
 
-### 1.1 Les « cinq étapes du deuil » : un modèle populaire, mais scientifiquement fragile
+### 1.1 Les « cinq étapes du deuil » : un escalier qui n'a jamais existé
 
 Le modèle le plus cité pour décrire la réaction à une mauvaise nouvelle médicale n'a jamais été conçu comme une règle universelle, et sa base scientifique reste ténue. [Le modèle de Kübler-Ross a été introduit en 1969 dans le livre « Les derniers instants de la vie » et propose que les patients recevant un diagnostic de maladie terminale traversent cinq étapes séquentielles : déni, colère, marchandage, dépression et acceptation ; Kübler-Ross a développé ce modèle après avoir interrogé des personnes atteintes de maladies engageant le pronostic vital, et n'a modélisé que l'expérience de ces patients précis](https://www.ncbi.nlm.nih.gov/books/NBK507885/). Ce modèle n'a jamais reposé sur une méthodologie rigoureuse. [Le modèle de Kübler-Ross ne s'est jamais appuyé, dès sa conception, sur des investigations empiriques ou systématiques ; il s'est essentiellement fondé sur des études de cas issues de ses entretiens avec des patients mourants](https://www.mcgill.ca/oss/article/health-history/its-time-let-five-stages-grief-die).
 
 L'erreur la plus répandue dans l'usage populaire de ce modèle porte sur sa structure même. [Les étapes sont largement mal comprises comme une séquence fixe et ordonnée que tout le monde devrait traverser, alors que la recherche montre que le deuil et la confrontation à la maladie sont bien plus variés, individuels et non linéaires ; la plupart des gens ne traversent pas chacune des étapes identifiées par Kübler-Ross, et de nombreux chercheurs estiment que certaines de ces réactions ne sont même pas présentes du tout](https://www.mcgill.ca/oss/article/health-history/its-time-let-five-stages-grief-die). Cette mauvaise interprétation n'est pas sans conséquence concrète pour les personnes concernées. [Une représentation inexacte du modèle peut conduire les personnes endeuillées ou malades à se sentir « en train de mal vivre leur deuil », ce qui peut aussi entraîner un soutien inefficace de la part des proches et des professionnels de santé](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8675126/).
 
 **Bons réflexes.**
-- Ne jamais s'inquiéter de ne pas « suivre les étapes dans l'ordre » après un diagnostic : la recherche montre que ce n'est pas une séquence fixe, et l'absence de certaines étapes chez une personne donnée n'a rien d'anormal.
-- Se méfier de tout discours, y compris professionnel, qui présenterait le deuil du diagnostic comme un parcours linéaire à valider étape par étape : c'est précisément cette lecture rigide qui a été démentie par la recherche récente.
+- Ne vous inquiétez pas de ne pas « suivre les étapes dans l'ordre » après un diagnostic : la recherche montre que ce n'est pas une séquence fixe, et l'absence de certaines étapes chez une personne donnée n'a rien d'anormal.
+- Interrogez tout discours, y compris professionnel, qui présenterait le deuil du diagnostic comme un parcours linéaire à valider étape par étape : c'est précisément cette lecture rigide qui a été démentie par la recherche récente.
 
-### 1.2 Le chagrin chronique : une réponse qui revient, pas une phase qu'on solde
+### 1.2 Le chagrin chronique : la vague qui revient, jamais l'escalier qu'on gravit
 
 Un modèle plus récent et mieux corroboré par la recherche décrit une réalité différente de celle d'un deuil qui se referme après une série d'étapes. [Le concept de chagrin chronique (chronic sorrow) a été proposé pour la première fois par Olshansky en 1962, un travailleur social qui accompagnait des parents d'enfants avec un handicap intellectuel sévère ; ce chagrin désigne des sentiments de deuil envahissants qui reviennent périodiquement tout au long de la vie des personnes concernées par une condition de santé chronique, en réponse à un écart persistant avec la vie « normale » anticipée](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2648.1991.tb01559.x).
 
@@ -38,9 +38,11 @@ Pour de nombreuses personnes, en particulier atteintes de maladies auto-immunes,
 
 🗣️ **Témoignage réel.** [Une femme atteinte de lupus a raconté que son médecin lui avait dit, à 16 ans, qu'elle avait « trop de symptômes pour que ce ne soit pas de l'hypocondrie » ; les mots et les sentiments liés à ce déni initial étaient restés gravés des décennies plus tard](https://theconversation.com/all-in-your-head-when-doctors-misdiagnose-autoimmune-disease-as-psychosomatic-250953) (témoignage recueilli dans une étude qualitative, cité dans The Conversation).
 
+La vague de ce chapitre a une conséquence directe sur la suite de ce guide : contrairement à l'escalier, elle n'a pas de palier d'arrivée où déclarer le sujet clos. Chaque chapitre qui suit doit se lire avec cette même attente, jamais celle d'un point final atteint une fois pour toutes.
+
 **Bons réflexes, en synthèse de ce chapitre.**
-- Ne jamais minimiser le poids psychologique d'un parcours diagnostique long et semé de doutes exprimés par des professionnels : ce vécu, documenté à grande échelle en particulier chez les femmes atteintes de maladies auto-immunes, fait partie intégrante du choc du diagnostic, pas seulement l'annonce finale.
-- Retenir que ce chapitre pose une base pour tout le reste du guide : le choc initial n'est ni linéaire, ni ponctuel, ni identique d'une personne à l'autre — un principe qui devrait guider chaque interaction avec une personne récemment diagnostiquée, y compris de la part de ses proches.
+- Ne minimisez jamais le poids psychologique d'un parcours diagnostique long et semé de doutes exprimés par des professionnels : ce vécu, documenté à grande échelle en particulier chez les femmes atteintes de maladies auto-immunes, fait partie intégrante du choc du diagnostic, pas seulement l'annonce finale.
+- Face à une personne récemment diagnostiquée, attendez-vous à des vagues plutôt qu'à un escalier : le choc initial n'est ni linéaire, ni ponctuel, ni identique d'une personne à l'autre.
 
 ## Sources vérifiables
 

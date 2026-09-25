@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Maladie grave et handicap"
-mis_a_jour_le: 2026-09-22
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -80,6 +80,7 @@ Sources du guide [Maladie grave et handicap](<../1 - Guides/Maladie grave et han
 | [The greatest taboo: Urinary incontinence as a source of shame and embarrassment](https://www.researchgate.net/publication/51659462_The_greatest_taboo_Urinary_incontinence_as_a_source_of_shame_and_embarrassment), ResearchGate | Ampleur du tabou (60,6%) | 7.2 |
 | [Addressing the Stigma: Empowering Women with Urinary Incontinence](https://pmc.ncbi.nlm.nih.gov/articles/PMC10482022/), *PMC* | Conséquences psychosociales, recours aux soins | 7.2 |
 | [Uncovering Hidden Patterns of Stigma Amongst Older Men With Urinary Incontinence](https://pmc.ncbi.nlm.nih.gov/articles/PMC13276010/), *PMC* | Profils de stigmatisation intériorisée | 7.2 |
+| CMAJ, [témoignage de Sharon Roman sur la dysfonction vésicale neurogène liée à la sclérose en plaques](https://www.cmaj.ca/content/198/28/E1138), *Canadian Medical Association Journal*, témoignage réel | Témoignage patiente | 7.2 |
 
 ## Chapitre 8 — Deuil de la vie d'avant et reconstruction identitaire
 
@@ -236,6 +237,7 @@ Sources du guide [Maladie grave et handicap](<../1 - Guides/Maladie grave et han
 | Ivy Brain Tumor Center, [Debunking Common Myths about Palliative Care](https://www.ivybraintumorcenter.org/blog/debunking-common-myths-about-palliative-care/) | Mythes, essai Temel et al. NEJM 2010 | 24.1 |
 | [Role of patients' family members in end-of-life communication](https://pmc.ncbi.nlm.nih.gov/articles/PMC9945016/), *PMC* | Tabou culturel, méthode ALL pour les enfants | 24.2 |
 | [Contradictions and Promise for End-of-Life Communication: Death over Dinner](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5485454/), *PMC* | Thèmes récurrents des conversations finales | 24.2 |
+| Widow's Voice, [témoignage d'Emma Pearson, « Let's Talk About Death Over Dinner »](https://widowsvoice.com/post/lets-talk-about-death-over-dinner/), témoignage réel | Dîner sur la mort et le mourir | 24.2 |
 
 ## Chapitre 25 — Rechutes et incertitude médicale au long cours
 

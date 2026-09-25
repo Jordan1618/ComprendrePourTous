@@ -1,7 +1,7 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-23
+mis_a_jour_le: 2026-09-25
 ---
 
 # À faire — améliorer la méthode de rédaction, puis reprendre tous les guides
@@ -286,8 +286,21 @@ Les 25 chapitres en chirurgie ont tous été repris (aucune réécriture nécess
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : Maladie grave et handicap (32 chapitres, priorité haute, mode débit)
+## Maladie grave et handicap — TERMINÉ (25/09/2026)
+
+Les 32 chapitres en chirurgie ont tous été repris (aucune réécriture nécessaire, verdict confirmé par l'audit). Défaut dominant relevé par l'audit : 56,5 % de liens collés, zéro bloc ⚖️/👁️/💑 sur l'ensemble du guide, zéro analogie filée, tous les chapitres sous le plancher de 1 500 mots malgré un fil resté intact partout.
+
+- Total du guide : 29 541 → 34 215 mots (32 chapitres, tous désormais au-dessus de 870 mots, la plupart entre 950 et 1 300).
+- Une analogie filée ajoutée sur les 32 chapitres sans exception (0 avant cette passe) : entre autres la fenêtre embuée (ch.26), l'île déserte entre espoir et deuil (ch.25), le plat qu'on ose enfin servir à table (ch.24), la seconde paire d'yeux sur un texte relu (ch.23), la vieille fracture qui se rappelle un jour de grand froid (ch.22), la confluence de deux rivières (ch.27), le terrain défriché (ch.28), la lampe de poche dans un tunnel (ch.29), la digue qui protège en s'érodant (ch.30), la porte verrouillée faute de clé (ch.31), le vitrail de verre brisé traversé par la lumière (ch.32, clôture du guide).
+- Blocs ajoutés là où l'audit notait leur absence malgré un sujet pertinent : ⚖️ Nuance sur le terme galvaudé « intersectionnalité » (ch.27) ; 👁️ Vu de l'autre côté retournant vers le patient depuis le point de vue soignant (ch.30), et sur les peurs enfantines non formulées face à la maladie d'un parent (ch.26) ; 🗣️ Témoignage réel ajouté au chapitre 24 (Emma Pearson, Widow's Voice, conversations de fin de vie).
+- Réflexes passifs (« Retenir que… », « Se rappeler que… ») convertis en actions sur l'ensemble des chapitres corrigés, y compris ceux où l'audit signalait un taux au-dessus de la moyenne (ch.28).
+- Pipeline complet exécuté (34 247 mots comptés par le script de build, écart mineur accepté), aucun lien cassé spécifique à ce guide, README du guide et README racine mis à jour, réciprocité vérifiée et complétée avec `4 - Sources/Maladie grave et handicap.md` (deux entrées manquantes retrouvées et ajoutées : Sharon Roman/CMAJ au chapitre 7, Emma Pearson/Widow's Voice au chapitre 24).
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : Massage professionnel (21 chapitres, priorité moyenne)
 
 ## Comment reprendre
 
-Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre et IST dépistage et prévention. Continuer guide par guide sur les neuf guides restants (Maladie grave et handicap, Massage professionnel, Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention et Maladie grave et handicap. Continuer guide par guide sur les huit guides restants (Massage professionnel, Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

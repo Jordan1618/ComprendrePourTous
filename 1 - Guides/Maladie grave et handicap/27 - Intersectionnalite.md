@@ -10,7 +10,9 @@ licence: "CC BY 4.0"
 
 # Intersectionnalité : handicap, genre, précarité, racisme
 
-Ce chapitre applique un principe déjà esquissé au fil de ce guide (écart de genre dans les ruptures de couple au chapitre 14, écarts raciaux dans le chômage au chapitre 20) : le handicap ne s'additionne pas simplement à d'autres formes de marginalisation, il les recompose en une expérience propre, distincte de chacune prise isolément.
+Deux rivières qui se rejoignent ne produisent pas un cours d'eau deux fois plus large : elles produisent un courant nouveau, avec ses propres remous, à des endroits où ni l'une ni l'autre n'en créait seule. Ce chapitre applique ce même principe de confluence à un phénomène déjà esquissé au fil de ce guide (écart de genre dans les ruptures de couple au chapitre 14, écarts raciaux dans le chômage au chapitre 20) : le handicap ne s'additionne pas simplement à d'autres formes de marginalisation, il se mélange à elles pour produire un courant propre, distinct de chacune prise isolément.
+
+⚖️ **Nuance.** L'intersectionnalité est un terme devenu courant dans le débat public, souvent au prix d'un affaiblissement de son sens précis. L'intersectionnalité n'est pas une addition de handicaps sociaux qu'on empilerait pour établir un classement de qui souffre le plus : elle décrit une recomposition, pas un score cumulé. L'intersectionnalité n'est pas non plus une étiquette identitaire figée qu'on colle à une personne : c'est un outil d'analyse d'une situation, pas une catégorie de personnes. L'intersectionnalité n'est pas réservée aux discriminations les plus visibles ou les plus médiatisées : elle s'applique tout autant à un croisement peu étudié, comme celui entre handicap et orientation sexuelle en 27.3. Confondre ces sens revient à traiter une rivière comme un simple ruisseau plus gros, en ratant précisément ce que la confluence change.
 
 ### 27.1 Une oppression composée, pas seulement additionnée
 
@@ -30,10 +32,12 @@ Un dernier croisement, encore plus rarement étudié que les précédents, conce
 
 Les formes concrètes de cette discrimination en contexte de soin ont été détaillées avec précision par la recherche. [Les patients ont rapporté les actions discriminatoires suivantes de la part de professionnels de santé : insensibilité envers leur identité LGBTQ+ (35,2 %), méconnaissance des besoins de santé spécifiques LGBTQ+ (30 %), sentiment d'être jugés pour leur identité LGBTQ+ (23,1 %), impolitesse (20,7 %), mauvaise utilisation des pronoms (20,3 %), et mépris de leurs décisions de traitement (19,7 %)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11689290/). Cette discrimination s'aggrave encore lorsque d'autres facteurs s'y ajoutent. [La discrimination était plus élevée chez les répondants LGBTQI+ racisés, en situation de handicap, ou s'identifiant comme transgenres, non-binaires ou intersexes](https://www.americanprogress.org/article/the-state-of-disabled-lgbtqi-people-in-2024/) — une confirmation directe du principe d'oppression composée posé en 27.1.
 
+La confluence de ce chapitre a une limite qu'il faut nommer : contrairement à deux rivières, dont on peut remonter le cours pour identifier chaque source séparément, les facteurs d'une oppression composée ne se dissocient plus une fois mêlés. C'est précisément ce qui rend leur mesure difficile, et leur déni si facile.
+
 **Bons réflexes, en synthèse de ce chapitre.**
-- Ne jamais analyser une situation de discrimination vécue par une personne handicapée en isolant un seul facteur (le seul handicap, le seul genre, la seule origine) quand plusieurs sont manifestement à l'œuvre : l'intersectionnalité montre que ces facteurs se recomposent en une expérience propre, pas en une simple addition de facteurs séparés.
-- Face à une femme handicapée, en particulier une femme noire handicapée, dans un contexte médical, garder à l'esprit les écarts massifs mesurés sur le dépistage préventif et le questionnement sur les violences subies : ce sont des angles morts documentés du système de santé, pas des impressions isolées.
-- Retenir que ce chapitre referme une boucle ouverte à plusieurs reprises dans ce guide (chapitres 14 et 20 notamment) : le handicap n'existe jamais dans un vide social neutre, il s'articule toujours avec le genre, la race et la classe sociale d'une façon qui aggrave, et non simplement additionne, chaque facteur pris seul.
+- N'analysez jamais une situation de discrimination vécue par une personne handicapée en isolant un seul facteur (le seul handicap, le seul genre, la seule origine) quand plusieurs sont manifestement à l'œuvre : l'intersectionnalité montre que ces facteurs se recomposent en une expérience propre, pas en une simple addition de facteurs séparés.
+- Face à une femme handicapée, en particulier une femme noire handicapée, dans un contexte médical, gardez en tête les écarts massifs mesurés sur le dépistage préventif et le questionnement sur les violences subies : ce sont des angles morts documentés du système de santé, pas des impressions isolées.
+- Reliez ce chapitre aux chapitres 14 et 20 de ce guide : le handicap n'existe jamais dans un vide social neutre, il s'articule toujours avec le genre, la race et la classe sociale d'une façon qui recompose, et non simplement additionne, chaque facteur pris seul.
 
 ## Sources vérifiables
 

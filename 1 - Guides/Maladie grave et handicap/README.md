@@ -3,7 +3,7 @@ type: "guide"
 guide: "Maladie grave et handicap"
 sujet: "commun"
 chapitres: 32
-mots: 29541
+mots: 34215
 verifie_le: 2026-09-22
 licence: "CC BY 4.0"
 ---
@@ -22,37 +22,37 @@ Pour ce qui touche spécifiquement au couple qui traverse une maladie grave au l
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Recevoir un diagnostic](<01 - Recevoir un diagnostic.md>) | Psychologie | 1 267 |
-| 2 | [Le parcours de soin et les démarches en France](<02 - Le parcours de soin et les demarches en France.md>) | Pratique | 810 |
-| 3 | [La douleur chronique : mécanismes et traitements](<03 - La douleur chronique mecanismes et traitements.md>) | Physiologie | 946 |
-| 4 | [Maladies invisibles](<04 - Maladies invisibles.md>) | Psychologie | 841 |
-| 5 | [Paraplégie, tétraplégie et rééducation](<05 - Paraplegie tetraplegie et reeducation.md>) | Physiologie | 978 |
-| 6 | [Le fauteuil roulant : choix et autonomie](<06 - Le fauteuil roulant choix et autonomie.md>) | Pratique | 879 |
-| 7 | [L'incontinence : gestion et tabou](<07 - L incontinence gestion et tabou.md>) | Physiologie | 915 |
-| 8 | [Deuil de la vie d'avant et reconstruction identitaire](<08 - Deuil de la vie d avant.md>) | Psychologie | 914 |
-| 9 | [L'acceptation et la résilience](<09 - L acceptation et la resilience.md>) | Psychologie | 912 |
-| 10 | [Validisme et modèle social du handicap](<10 - Validisme et modele social du handicap.md>) | Société | 1 147 |
-| 11 | [Histoire et représentation culturelle du handicap](<11 - Histoire et representation culturelle du handicap.md>) | Repères | 951 |
-| 12 | [Le langage du handicap](<12 - Le langage du handicap.md>) | Société | 869 |
-| 13 | [Sexualité, désir et handicap](<13 - Sexualite desir et handicap.md>) | Physiologie | 838 |
-| 14 | [Le couple face à la maladie](<14 - Le couple face a la maladie.md>) | Relation | 1 058 |
-| 15 | [La solitude du malade et l'entourage](<15 - La solitude du malade et l entourage.md>) | Psychologie | 809 |
-| 16 | [Le rôle de l'aidant familial et du partenaire](<16 - Le role de l aidant familial et du partenaire.md>) | Société | 890 |
-| 17 | [Les professionnels du parcours de soin](<17 - Les professionnels du parcours de soin.md>) | Pratique | 854 |
-| 18 | [Santé mentale du malade chronique](<18 - Sante mentale du malade chronique.md>) | Psychologie | 846 |
-| 19 | [Logement, accessibilité, aides techniques](<19 - Logement accessibilite aides techniques.md>) | Pratique | 873 |
-| 20 | [Emploi, droits et aides financières](<20 - Emploi droits et aides financieres.md>) | Société | 1 086 |
-| 21 | [Fatigue chronique et gestion de l'énergie](<21 - Fatigue chronique et gestion de l energie.md>) | Pratique | 918 |
-| 22 | [Cancer, rémission et après](<22 - Cancer remission et apres.md>) | Psychologie | 793 |
-| 23 | [Errance diagnostique et erreurs médicales](<23 - Erreurs medicales et second avis.md>) | Prévention | 854 |
-| 24 | [Soins palliatifs et fin de vie](<24 - Soins palliatifs et fin de vie.md>) | Prévention | 926 |
-| 25 | [Rechutes et incertitude médicale au long cours](<25 - Rechutes et incertitude medicale.md>) | Psychologie | 951 |
-| 26 | [Enfants et parentalité face à la maladie ou au handicap](<26 - Enfants et parentalite face a la maladie.md>) | Relation | 966 |
-| 27 | [Intersectionnalité : handicap, genre, précarité, racisme](<27 - Intersectionnalite.md>) | Société | 1 048 |
-| 28 | [Droits, luttes et associations de patients](<28 - Droits luttes et associations de patients.md>) | Repères | 975 |
-| 29 | [Spiritualité, sens et humour comme stratégies de survie](<29 - Spiritualite sens et humour.md>) | Psychologie | 902 |
-| 30 | [Le vécu des soignants](<30 - Le vecu des soignants.md>) | Psychologie | 813 |
-| 31 | [Sport adapté, voyager et loisirs accessibles](<31 - Sport adapte voyager et loisirs accessibles.md>) | Pratique | 948 |
-| 32 | [Vivre léger malgré la gravité](<32 - Vivre leger malgre la gravite.md>) | Psychologie | 764 |
+| 1 | [Recevoir un diagnostic](<01 - Recevoir un diagnostic.md>) | Psychologie | 1 365 |
+| 2 | [Le parcours de soin et les démarches en France](<02 - Le parcours de soin et les demarches en France.md>) | Pratique | 902 |
+| 3 | [La douleur chronique : mécanismes et traitements](<03 - La douleur chronique mecanismes et traitements.md>) | Physiologie | 1 086 |
+| 4 | [Maladies invisibles](<04 - Maladies invisibles.md>) | Psychologie | 1 014 |
+| 5 | [Paraplégie, tétraplégie et rééducation](<05 - Paraplegie tetraplegie et reeducation.md>) | Physiologie | 1 123 |
+| 6 | [Le fauteuil roulant : choix et autonomie](<06 - Le fauteuil roulant choix et autonomie.md>) | Pratique | 984 |
+| 7 | [L'incontinence : gestion et tabou](<07 - L incontinence gestion et tabou.md>) | Physiologie | 1 163 |
+| 8 | [Deuil de la vie d'avant et reconstruction identitaire](<08 - Deuil de la vie d avant.md>) | Psychologie | 1 154 |
+| 9 | [L'acceptation et la résilience](<09 - L acceptation et la resilience.md>) | Psychologie | 1 120 |
+| 10 | [Validisme et modèle social du handicap](<10 - Validisme et modele social du handicap.md>) | Société | 1 179 |
+| 11 | [Histoire et représentation culturelle du handicap](<11 - Histoire et representation culturelle du handicap.md>) | Repères | 1 043 |
+| 12 | [Le langage du handicap](<12 - Le langage du handicap.md>) | Société | 1 035 |
+| 13 | [Sexualité, désir et handicap](<13 - Sexualite desir et handicap.md>) | Physiologie | 1 010 |
+| 14 | [Le couple face à la maladie](<14 - Le couple face a la maladie.md>) | Relation | 1 302 |
+| 15 | [La solitude du malade et l'entourage](<15 - La solitude du malade et l entourage.md>) | Psychologie | 1 010 |
+| 16 | [Le rôle de l'aidant familial et du partenaire](<16 - Le role de l aidant familial et du partenaire.md>) | Société | 1 152 |
+| 17 | [Les professionnels du parcours de soin](<17 - Les professionnels du parcours de soin.md>) | Pratique | 942 |
+| 18 | [Santé mentale du malade chronique](<18 - Sante mentale du malade chronique.md>) | Psychologie | 955 |
+| 19 | [Logement, accessibilité, aides techniques](<19 - Logement accessibilite aides techniques.md>) | Pratique | 994 |
+| 20 | [Emploi, droits et aides financières](<20 - Emploi droits et aides financieres.md>) | Société | 1 185 |
+| 21 | [Fatigue chronique et gestion de l'énergie](<21 - Fatigue chronique et gestion de l energie.md>) | Pratique | 999 |
+| 22 | [Cancer, rémission et après](<22 - Cancer remission et apres.md>) | Psychologie | 903 |
+| 23 | [Errance diagnostique et erreurs médicales](<23 - Erreurs medicales et second avis.md>) | Prévention | 945 |
+| 24 | [Soins palliatifs et fin de vie](<24 - Soins palliatifs et fin de vie.md>) | Prévention | 1 167 |
+| 25 | [Rechutes et incertitude médicale au long cours](<25 - Rechutes et incertitude medicale.md>) | Psychologie | 1 036 |
+| 26 | [Enfants et parentalité face à la maladie ou au handicap](<26 - Enfants et parentalite face a la maladie.md>) | Relation | 1 158 |
+| 27 | [Intersectionnalité : handicap, genre, précarité, racisme](<27 - Intersectionnalite.md>) | Société | 1 265 |
+| 28 | [Droits, luttes et associations de patients](<28 - Droits luttes et associations de patients.md>) | Repères | 1 089 |
+| 29 | [Spiritualité, sens et humour comme stratégies de survie](<29 - Spiritualite sens et humour.md>) | Psychologie | 1 015 |
+| 30 | [Le vécu des soignants](<30 - Le vecu des soignants.md>) | Psychologie | 1 006 |
+| 31 | [Sport adapté, voyager et loisirs accessibles](<31 - Sport adapte voyager et loisirs accessibles.md>) | Pratique | 1 042 |
+| 32 | [Vivre léger malgré la gravité](<32 - Vivre leger malgre la gravite.md>) | Psychologie | 872 |
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).
