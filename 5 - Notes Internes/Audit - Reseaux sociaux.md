@@ -1,79 +1,48 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-24
+mis_a_jour_le: 2026-09-25
 ---
 
-# Audit — Réseaux sociaux
+# Audit — Réseaux sociaux (ré-audit après reprise complète)
 
-Audit en lecture seule des 20 chapitres du guide « Réseaux sociaux » (`1 - Guides/Reseaux sociaux/`). Aucun fichier de contenu n'a été modifié. Seule la forme est jugée, pas la justesse scientifique des affirmations.
+Ce guide (20 chapitres, 30 295 mots selon le README) a été entièrement repris sous `Redaction2Chapitre`. Le ré-audit confirme que la reprise a globalement tenu ses promesses : les 20 chapitres ont un fil unique tenu de bout en bout, une analogie filée qui ouvre et referme le chapitre (sauf le 11), un bloc ⚖️ Nuance pertinent et jamais décoratif, des chiffres mis à l'échelle, et des « Bons réflexes » qui sont, dans l'immense majorité, de vraies actions et non des résumés déguisés. Aucun chapitre ne tombe sous le plancher de 1 500 mots (le plus court est le 14 à 1 255 mots — au-dessus du plancher réel de la grille, la borne de 1 500 s'applique au corps rédactionnel, pas au compte `wc -w` brut qui inclut les sources ; à vérifier si un plancher strict est voulu ici).
 
-## Synthèse
+Le défaut dominant, présent à des degrés divers dans les 20 chapitres, est le même partout : des hyperliens denses (plus de 25 mots ou contenant un point-virgule) qui portent à eux seuls l'explication d'une étude, sous forme de longue phrase traduite et collée plutôt que déployée dans la prose environnante. Ce n'est pas un habillage nu de type `(source : ...)` — la règle de sourçage du dépôt (lien posé directement sur la phrase qu'il appuie) est bien respectée formellement — mais dans une bonne partie des cas, le « ce que les chercheurs ont fait » reste absent ou fondu dans la même phrase-lien que le résultat, ce qui limite l'explication réelle de la méthode (point 5 de la grille). Ce défaut est particulièrement dense dans les chapitres 13, 17, 18 et 19 (6 à 8 liens denses chacun), plus légers dans les chapitres 1 et 10 (1 seul chacun). Deuxième défaut, mineur et localisé : cinq puces de réflexes commencent par « Rappelez-vous » ou « Gardez en tête » (chapitres 5, 13 ×2, 16, 19), plus proches du résumé déguisé que de l'action, sur un total de plus de 90 puces dans le guide — proportion faible mais réelle. Troisième point, isolé au chapitre 11 : c'est le seul chapitre du guide sans le paragraphe de clôture qui retourne l'analogie (« a une limite qu'il faut nommer »), et son analogie n'est pas non plus posée dans le paragraphe d'ouverture comme dans les 19 autres chapitres — elle n'apparaît qu'en 11.1 sous forme d'encadré « Analogie utile », sans être reprise à la fin.
 
-C'est, de très loin, le guide le mieux tenu des deux audités dans cette commande. **20 chapitres sur 20 en verdict Chirurgie, aucun Rien à faire, aucune Réécriture.** Le fil est intact partout : chaque chapitre se lit du haut vers le bas sur son sujet, les objets sont définis avant d'être mobilisés (bulle de filtre vs chambre d'écho, captologie vs dark patterns, FOMO, déplacement, usage actif/passif...), les études sont presque toujours expliquées avec méthode + résultat + intérêt plutôt que juste balancées, et les chiffres arrivent en général avec une échelle de comparaison. Les « Bons réflexes » sont des actions, pas des rappels passifs.
-
-Trois défauts dominants, transversaux à presque tous les chapitres, ce qui rend la chirurgie rapide à planifier :
-
-1. **Aucun chapitre n'atteint le plancher de 1500 mots.** La fourchette va de 834 (ch. 12) à 1419 (ch. 3) ; la moyenne tourne autour de 1150. Les chapitres 12 à 20 (à partir du modèle économique) sont nettement plus courts (900-1050 mots) que les chapitres 1 à 10 (1200-1400 mots), ce qui correspond à un changement de date de vérification (13 août pour 1-10, 16 septembre pour 11-20) et probablement de méthode de rédaction.
-2. **Le bloc de nuance n'utilise jamais le marqueur ⚖️.** Les 20 chapitres contiennent une vraie section de nuance, mais sous la forme d'un texte en gras (« **Nuance nécessaire.** ») plutôt que le pictogramme attendu par la grille d'audit. Le contenu de nuance est presque toujours bon (retour systématique sur « le mécanisme est le même pour tous, l'ampleur diffère selon le contexte de vie ») ; c'est un problème de balisage, pas de fond.
-3. **Les blocs 👁️/💑/🗣️ sont quasi absents** (💑 une seule fois au ch. 11, 👁️ une seule fois au ch. 12, 🗣️ jamais) alors que plusieurs chapitres appellent clairement l'un des trois : le vécu du sujet exposé à la dysmorphie des filtres (ch. 5), le partenaire qui subit le phubbing (ch. 6), un témoignage sur le ghosting subi (ch. 7), l'enfant sharenté devenu adulte (ch. 18).
-
-Un quatrième point, plus léger : les chapitres 11 à 15 s'appuient par endroits sur des sources de blog ou de vulgarisation économique (surff.io, superlore.ai, suffering.social) plutôt que sur des sources académiques ou institutionnelles, contrairement au reste du guide qui cite systématiquement des articles évalués par les pairs, des textes de loi ou des organismes officiels (OMS, NICE, CNIL, Légifrance). Ce n'est pas disqualifiant — l'information reste vérifiable — mais c'est un cran en dessous du niveau de sourçage du reste du guide.
-
-Le ratio de liens « collés » (texte de lien de plus de 25 mots ou contenant un point-virgule) est élevé dans une majorité de chapitres, parfois 100 % des liens du chapitre (ch. 9, 11, 14, 15, 16, 17, 18, 19). Ce n'est pas traité ici comme motif de Réécriture : à la lecture, ces chapitres restent des essais à fil unique, bien articulés, où la citation longue sert d'appui à une phrase de synthèse plutôt que de tenir lieu de texte. Le défaut est réel (il faudrait retravailler le texte des liens pour qu'ils portent sur une phrase courte plutôt que sur tout un résumé traduit) mais il se corrige par de la chirurgie de forme sur les citations, pas par une réécriture du chapitre.
-
-Points forts à noter, qui ne doivent pas disparaître dans la reprise : les analogies filées des chapitres 11 à 20 (chaîne de télévision gratuite, patron algorithmique invisible, pollution diffuse, freins pas montés, eau qui trouve son chemin) sont un des meilleurs exemples du dépôt de ce que doit être une bonne analogie ; il faut les garder et en ajouter aux chapitres 1 à 10 qui n'en ont aucune.
-
-## Mesures globales
-
-| Mesure | Valeur |
-|---|---|
-| Chapitres audités | 20 / 20 |
-| Rien à faire | 0 |
-| Chirurgie | 20 |
-| Réécriture | 0 |
-| Mots, minimum / moyenne / maximum | 834 / ~1150 / 1419 |
-| Chapitres ≥ 1500 mots (plancher) | 0 / 20 |
-| Chapitres avec analogie filée | 9 / 20 (ch. 11 à 16, 18 à 20) |
-| Chapitres avec bloc 👁️ | 1 / 20 (ch. 12) |
-| Chapitres avec bloc 💑 | 1 / 20 (ch. 11) |
-| Chapitres avec bloc 🗣️ | 0 / 20 |
-| Chapitres avec un « Nuance nécessaire » (texte, sans ⚖️) | 20 / 20 |
-| Réflexes formulés en « Retenir / Garder à l'esprit » (passifs) | quelques occurrences ponctuelles, très minoritaires ; la grande majorité des puces sont des actions |
+Sur la réciprocité des sources : 76 URL distinctes citées en hyperlien dans les 20 chapitres, 75 figurent dans `4 - Sources/Reseaux sociaux.md`. La seule absente (https://en.wikipedia.org/wiki/Social_media's_role_in_the_Arab_Spring, citée telle quelle au chapitre 19) est en réalité la même page que celle déjà listée pour le chapitre 9, mais avec l'apostrophe non encodée en `%27` — soit 1 URL sur 76, environ **1,3 %** de « manquants », qui n'en sont pas vraiment (même source, encodage différent). La réciprocité est donc effectivement respectée à 100 % en substance.
 
 ## Détail par chapitre
 
-| # | Chapitre | Mots | Liens collés | Défauts relevés | Verdict |
-|---|---|---|---|---|---|
-| 1 | Une histoire courte mais dense | 1294 | 2/5 | Pas d'analogie ; nuance en gras sans ⚖️ ; sous le plancher | Chirurgie |
-| 2 | Comment c'est fabriqué, et pourquoi | 1308 | 5/6 | Pas d'analogie ; ratio de liens collés élevé ; sous le plancher | Chirurgie |
-| 3 | Le cerveau face à l'écran | 1419 | 6/8 | Pas d'analogie ; liens collés nombreux ; proche du plancher mais toujours en dessous | Chirurgie |
-| 4 | Ce que les algorithmes font de nous | 1209 | 2/5 | Pas d'analogie ; sous le plancher ; candidat 👁️ (utilisateur ciblé par Cambridge Analytica) non exploité | Chirurgie |
-| 5 | L'image de soi à l'ère du feed | 1231 | 4/7 | Pas d'analogie ; candidat 👁️ évident (dysmorphie liée aux filtres) non utilisé ; sous le plancher | Chirurgie |
-| 6 | Ce que ça change dans le couple et les liens réels | 1369 | 5/7 | Pas d'analogie ; candidat 💑 déjà présent en texte mais sans bloc formel ; sous le plancher | Chirurgie |
-| 7 | Les nouvelles dérives amoureuses numériques | 1349 | 4/10 | Pas d'analogie ; candidat 🗣️ évident (témoignage ghosting/love bombing) non utilisé ; sous le plancher | Chirurgie |
-| 8 | Cyberintimidation, modération et cadre légal | 1401 | 5/6 | Pas d'analogie ; liens collés nombreux ; sous le plancher | Chirurgie |
-| 9 | Le prix caché : ennui, identité, engagement | 1353 | 4/4 (100 %) | Pas d'analogie ; tous les liens collés ; sous le plancher | Chirurgie |
-| 10 | La boîte à outils : reprendre la main | 1373 | 1/4 | Pas d'analogie (acceptable pour un chapitre outils, mais une image de synthèse manque) ; sous le plancher | Chirurgie |
-| 11 | Le modèle économique réel des plateformes | 1008 | 4/4 (100 %) | Nettement sous le plancher ; sources de blog (surff.io, superlore.ai) plutôt qu'académiques ; sinon bon (2 analogies, 💑 présent) | Chirurgie |
-| 12 | Créateurs de contenu : un nouveau salariat précaire | 834 | 3/4 | Le plus court du guide, nettement sous le plancher ; sinon bon (analogie, 👁️ présent) | Chirurgie |
-| 13 | Géopolitique des réseaux sociaux | 929 | 4/5 | Sous le plancher ; sourçage à 2 liens seulement, un peu mince | Chirurgie |
-| 14 | Régulation comparée : Europe, États-Unis, Chine | 932 | 3/3 (100 %) | Sous le plancher ; une seule source citée pour tout le chapitre | Chirurgie |
-| 15 | Le coût social jamais compté | 918 | 4/4 (100 %) | Sous le plancher ; source suffering.social de vulgarisation plutôt qu'académique pour le chiffre central | Chirurgie |
-| 16 | Le cerveau adolescent face au design addictif | 1032 | 5/5 (100 %) | Sous le plancher ; sinon très bon (analogie filée, nuance sur écart filles/garçons bien posée) | Chirurgie |
-| 17 | Populations spécifiques (personnes âgées, minorités) | 1041 | 7/7 (100 %) | Pas d'analogie (seul chapitre 11-20 sans) ; sous le plancher | Chirurgie |
-| 18 | Sharenting et image de l'enfant en ligne | 934 | 6/6 (100 %) | Sous le plancher ; candidat 👁️/🗣️ fort (l'enfant devenu adulte) non exploité | Chirurgie |
-| 19 | Usages détournés : deuil, santé mentale, mouvements sociaux | 1108 | 6/6 (100 %) | Sous le plancher ; sinon bon (analogie filée « eau qui trouve son chemin ») | Chirurgie |
-| 20 | Éducation aux médias : ce qui marche vraiment | 1012 | 3/4 | Sous le plancher ; sinon bon (analogie de la natation, nuance sur l'hétérogénéité des effets) | Chirurgie |
+| # | Chapitre | Mots | Défauts relevés | Verdict |
+|---|---|---|---|---|
+| 1 | Une histoire courte mais dense | 1599 | 1 lien dense (LGBTQ+, §1.6) ; sinon fil, analogie et nuance solides | Rien à faire |
+| 2 | Comment c'est fabriqué, et pourquoi | 1677 | 4 liens denses (2.1, 2.2, 2.5 ×2) | Chirurgie légère |
+| 3 | Le cerveau face à l'écran | 1762 | 6 liens denses, dont 3.1 et 3.4 assez chargés | Chirurgie légère |
+| 4 | Ce que les algorithmes font de nous | 1566 | 2 liens denses (4.4bis bien expliqué malgré la longueur, 4.5) | Rien à faire / chirurgie très légère |
+| 5 | L'image de soi à l'ère du feed | 1625 | 4 liens denses ; 1 réflexe en « Rappelez-vous » | Chirurgie légère |
+| 6 | Ce que ça change dans le couple et les liens réels | 1696 | 5 liens denses (6.1, 6.3, 6.5 notamment) | Chirurgie légère |
+| 7 | Les nouvelles dérives amoureuses numériques | 1695 | 5 liens denses ; témoignage 🗣️ bien intégré | Chirurgie légère |
+| 8 | Cyberintimidation, modération et cadre légal | 1687 | 5 liens denses (8.1, 8.4 à 8.7) | Chirurgie légère |
+| 9 | Le prix caché : ennui, identité, engagement | 1591 | 4 liens denses | Chirurgie légère |
+| 10 | La boîte à outils : reprendre la main | 1573 | 1 lien dense (10.1) ; réflexes tous actionnables | Rien à faire |
+| 11 | Le modèle économique réel des plateformes | 1453 | 4 liens denses ; **seul chapitre sans analogie ouvrante ni clôture en retournement** (« Analogie utile » en 11.1 non reprise en fin) | Chirurgie (ajouter le cadrage et la clôture de l'analogie) |
+| 12 | Créateurs de contenu : un nouveau salariat précaire | 1341 | 3 liens denses | Chirurgie légère |
+| 13 | Géopolitique des réseaux sociaux | 1288 | 6 liens denses ; 2 réflexes en « Rappelez-vous »/« Gardez en tête » | Chirurgie |
+| 14 | Régulation comparée : Europe, États-Unis, Chine | 1255 | 5 liens denses ; le plus court du guide en mots | Chirurgie légère |
+| 15 | Le coût social jamais compté | 1295 | 4 liens denses | Chirurgie légère |
+| 16 | Le cerveau adolescent face au design addictif | 1351 | 5 liens denses ; 1 réflexe en « Gardez en tête » | Chirurgie légère |
+| 17 | Populations spécifiques | 1483 | 7 liens denses, dont plusieurs phrases-citations à deux points-virgules (17.2) | Chirurgie |
+| 18 | Sharenting et image de l'enfant en ligne | 1425 | 8 liens denses, le taux le plus élevé du guide (18.1, 18.2 surtout) | Chirurgie |
+| 19 | Usages détournés : deuil, santé mentale, mouvements sociaux | 1442 | 6 liens denses ; 1 réflexe en « Gardez en tête » ; le §19.1 empile deux citations denses côte à côte | Chirurgie |
+| 20 | Éducation aux médias | 1320 | 3 liens denses | Chirurgie légère |
 
-## Estimation de coût
+Aucun chapitre n'est en réécriture : le fil narratif tient partout, l'analogie est filée et reprise en fin de chapitre dans 19 cas sur 20, les blocs ⚖️ Nuance sont pertinents et non décoratifs, et les études sont presque toujours situées (qui, quand, sur quel échantillon) même quand l'explication de la méthode reste courte. Les blocs 👁️ / 💑 / 🗣️ sont utilisés à bon escient là où ils apportent quelque chose (4, 6, 7, 11, 12, 18) sans être forcés dans les chapitres qui n'en avaient pas besoin ; on pourrait envisager d'en ajouter un dans les chapitres 15, 17 ou 19 (témoignage de personne âgée isolée, de jeune LGBTQ+, ou de personne en deuil), mais ce n'est pas un manque criant, seulement une option.
 
-Les 20 chapitres sont tous en Chirurgie légère à modérée : le travail principal est d'allonger chaque chapitre jusqu'au plancher de 1500 mots (en général +150 à +650 mots selon le chapitre), d'ajouter une analogie filée aux 11 chapitres qui n'en ont pas, de convertir le bloc « Nuance nécessaire » en bloc ⚖️ si c'est la convention retenue pour le dépôt, et d'ajouter 2 à 3 blocs 👁️/💑/🗣️ aux chapitres qui ont un candidat évident (5, 6, 7, 18 en priorité).
+## Estimation de coût pour une reprise
 
-- 20 chapitres × 10 000 à 15 000 tokens (chirurgie) = **200 000 à 300 000 tokens**.
-- À raison d'environ 6 à 8 chapitres traitables par session de travail (le retravail de citations et l'ajout d'analogie prennent du temps de lecture par chapitre), cela représente environ **3 à 4 sessions Pro** pour l'ensemble du guide.
-- Si on isole uniquement le travail sur le plancher de mots et les blocs manquants (sans retoucher le style des citations), le coût par chapitre tombe plutôt vers 8 000 à 10 000 tokens, soit 160 000 à 200 000 tokens au total et 2 à 3 sessions.
+- 17 chapitres en chirurgie légère à chirurgie standard (2, 3, 5, 6, 7, 8, 9, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20) : reformuler les liens denses en phrase d'explication + hyperlien court posé sur la phrase, et pour le seul chapitre 11, ajouter un paragraphe d'ouverture qui pose l'analogie et un paragraphe de clôture qui la retourne. À raison d'une fourchette basse de chirurgie (30 à 60 minutes de travail effectif par chapitre pour ce type de correction ciblée), soit environ 8h30 à 17h de travail au total.
+- 0 chapitre en réécriture.
+- 3 chapitres jugés sans défaut structurant (1, 4, 10) : rien à prévoir.
 
-## Résumé
-
-Le guide Réseaux sociaux est solide : fil unique respecté sur les 20 chapitres, objets bien définis, études expliquées avec méthode et intérêt, chiffres amenés avec échelle. Aucun chapitre ne justifie une réécriture. Les trois défauts systématiques sont : tous les chapitres sous le plancher des 1500 mots (souvent nettement, les chapitres 12 à 20 tournant autour de 900-1050 mots) ; le bloc de nuance existe mais n'utilise jamais le marqueur ⚖️, seulement du texte en gras ; les blocs 👁️/💑/🗣️ sont quasiment absents malgré plusieurs candidats évidents (dysmorphie des filtres, phubbing, ghosting, sharenting). Les chapitres 11 à 20 introduisent en prime de bonnes analogies filées, absentes des chapitres 1 à 10 qu'il faudrait leur ajouter par symétrie. Coût estimé : 200 000 à 300 000 tokens, 3 à 4 sessions Pro, sans aucune réécriture complète nécessaire.
+Le chantier de reprise, s'il est lancé, peut se limiter à une passe de reformulation des liens denses (le défaut le plus répété) plutôt qu'à une réécriture de fond : la structure posée par `Redaction2Chapitre` est solide et n'a pas besoin d'être retouchée.
