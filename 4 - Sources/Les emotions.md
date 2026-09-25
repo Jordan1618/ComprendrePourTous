@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Les émotions"
-mis_a_jour_le: 2026-09-15
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -24,6 +24,7 @@ Sources du guide [Les émotions](<../1 - Guides/Les emotions/README.md>), class�
 |---|---|---|
 | Lieberman, M. D. et coll. (2007), [Putting feelings into words](https://pubmed.ncbi.nlm.nih.gov/17576282/), *Psychological Science* | Nommer une émotion réduit l'activité de l'amygdale | 3 |
 | Kashdan, T., Barrett, L. F. & McKnight, P. (2015), [Unpacking emotion differentiation](https://www.affective-science.org/pubs/2015/kashdan-et-all-unpacking-emotion-differentiation-2015.pdf), *Current Directions in Psychological Science* | Différenciation émotionnelle associée à une meilleure régulation | 3 |
+| Sam, [Alexithymia: What It's Like to Not Know How You Feel](https://neuroclastic.com/alexithymia-and-autism-what-its-like-to-not-know-how-you-feel/), NeuroClastic, témoignage réel | Vécu de l'alexithymie chez une personne autiste | 3 |
 | Brown, B. (2012), [Daring Greatly](https://scholar.google.com/scholar?q=%22Daring+Greatly%22), *Gotham Books* | Honte contre culpabilité ; la honte se dissout dans le fait d'être vu | 4 |
 
 ## Réguler
@@ -50,6 +51,7 @@ Sources du guide [Les émotions](<../1 - Guides/Les emotions/README.md>), class�
 | [OMS — Mental health](https://www.who.int/health-topics/mental-health) | Repères internationaux | 8, 9 |
 | [Assurance maladie — Mon soutien psy](https://www.ameli.fr/assure/remboursements/rembourse/remboursement-mon-soutien-psy) | Conditions de prise en charge des séances | 9 |
 | [Santé publique France — Suicide](https://www.santepubliquefrance.fr/maladies-et-traumatismes/suicide-et-tentative-de-suicide) | Surmortalité masculine par suicide | 10 |
+| [« It's just one of those things people don't seem to talk about... » women's experiences of social support following miscarriage](https://pmc.ncbi.nlm.nih.gov/articles/PMC6206670/), *BMC Women's Health*, 2018 | Vécu du silence social après une fausse couche | 10 |
 | [Décret n° 2010-534 du 20 mai 2010](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000022244482) | Réglementation du titre de psychothérapeute | 9 |
 
 ## Corps, société et prise en charge

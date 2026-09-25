@@ -30,7 +30,7 @@ Conséquence pratique : reprocher à quelqu'un de « réagir avant de réfléchi
 
 William James proposait dès 1884 une idée qui choque encore : nous ne pleurons pas parce que nous sommes tristes, nous sommes tristes parce que nous pleurons. La formulation est excessive, et elle a été corrigée depuis. Mais le fond tient.
 
-Antonio Damasio a développé cette intuition avec l'hypothèse des **marqueurs somatiques** : les états corporels associés à nos expériences passées servent de signal rapide lors des décisions. [Ses observations de patients dont les lésions cérébrales avaient dissocié raisonnement et émotion sont éclairantes : ces personnes conservaient une intelligence intacte et devenaient pourtant incapables de décider, s'enlisant indéfiniment dans les avantages et inconvénients](https://cmc.marmot.org/Record/.b10696726) (Damasio, *L'erreur de Descartes*, 1994 ; vérification du 6 août 2026).
+Antonio Damasio a développé cette intuition avec l'hypothèse des **marqueurs somatiques** : les états corporels associés à nos expériences passées servent de signal rapide lors des décisions. [Ses observations de patients dont les lésions cérébrales avaient dissocié raisonnement et émotion sont éclairantes](https://cmc.marmot.org/Record/.b10696726) : ces personnes conservaient une intelligence intacte et devenaient pourtant incapables de décider, s'enlisant indéfiniment dans les avantages et inconvénients (Damasio, *L'erreur de Descartes*, 1994 ; vérification du 6 août 2026).
 
 **L'émotion n'est donc pas l'opposé de la raison. Elle en est une condition.** Sans elle, aucune option ne pèse plus qu'une autre, et le choix devient impossible.
 
@@ -45,6 +45,8 @@ Il faut le poser, parce qu'il change la façon d'interpréter tout ce qui suit.
 Le terrain qui a lancé ce débat mérite d'être connu. [Paul Ekman a montré, en présentant des photographies de visages exprimant des émotions à des membres du peuple Fore de Papouasie-Nouvelle-Guinée, jusque-là non exposés à la culture occidentale, qu'ils reconnaissaient et produisaient des expressions faciales comparables aux siennes pour six émotions](https://www.researchgate.net/publication/17640481_Constants_across_cultures_in_the_face_and_emotion) (Ekman & Friesen, « Constants across cultures in the face and emotion », *Journal of Personality and Social Psychology*, 1971 ; vérification du 14 août 2026). C'est ce résultat, répliqué depuis avec des nuances importantes selon les émotions et les cultures testées, qui a longtemps fait pencher la balance vers la thèse des émotions de base. Les critiques constructivistes ne nient généralement pas que ces expressions existent : elles contestent ce que ce résultat prouverait. Reconnaître un visage fermé et tendu comme « en colère » ne prouve pas qu'il existe, dans le cerveau, un circuit dédié et unique à la colère, distinct de celui de la peur ou du dégoût.
 
 Le débat n'est pas tranché, et je ne prétendrai pas le trancher ici. Ce qui compte est sa conséquence pratique, sur laquelle les deux camps se rejoignent largement : **les mots dont vous disposez modifient ce que vous ressentez**. Une personne qui ne distingue que « bien » et « mal » vit un monde émotionnel plus grossier que celle qui distingue l'agacement de l'humiliation. C'est l'objet du chapitre 3.
+
+⚖️ **Nuance.** Le mot « émotion » lui-même n'a pas le même sens dans la bouche d'un partisan d'Ekman et dans celle d'une partisane de Barrett, et confondre les deux usages coûte cher en clarté. Pour Ekman, une émotion n'est pas une chose vague : elle est une catégorie discrète, avec une signature corporelle et faciale reconnaissable, au même titre qu'une espèce biologique se reconnaît à des critères précis. Pour Barrett, une émotion n'est pas non plus un mot creux : c'est une construction active du cerveau, différente à chaque occurrence, qui n'a de stabilité que par le concept appris qu'on y plaque après coup. Utiliser le mot « émotion » comme s'il désignait toujours la même chose, indépendamment du camp théorique, c'est déjà avoir tranché le débat sans le savoir.
 
 ### 1.5 Le déroulé complet, en cinq temps
 
@@ -97,7 +99,7 @@ La question qui fonctionne vise le corps plutôt que le sens : **« où est-ce q
 - Cessez d'attendre de vous que la réaction n'arrive pas. Elle arrivera. Ce qui se travaille est ce qui suit, pas ce qui précède.
 - Traitez le corps comme une source d'information, pas comme un symptôme à faire taire : mâchoire serrée, gorge nouée, ventre dur sont des données.
 - Défiez-vous de vos propres explications à chaud. La cause que vous trouverez dans la minute est souvent celle qui était disponible, pas celle qui était vraie.
-- Retenez la conséquence commune aux deux théories : plus votre vocabulaire est fin, plus votre expérience l'est aussi.
+- Appliquez la conséquence commune aux deux théories : enrichissez délibérément votre vocabulaire émotionnel, parce que plus il est fin, plus votre expérience l'est aussi.
 
 ## Sources vérifiables
 

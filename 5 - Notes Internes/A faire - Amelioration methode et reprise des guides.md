@@ -326,8 +326,22 @@ Les 20 chapitres en chirurgie ont tous été repris (aucune réécriture nécess
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : Les émotions (20 chapitres, priorité basse)
+## Les émotions — TERMINÉ (25/09/2026)
+
+Les 20 chapitres en chirurgie ont tous été repris (aucune réécriture nécessaire, verdict confirmé par l'audit). C'était l'un des guides les mieux tenus du dépôt sur le fond dès avant la reprise (fil clair partout, objets bien définis, études expliquées avec méthode et intérêt, aucun chapitre sous 1450 mots). Deux défauts systémiques dominaient : le bloc de nuance jamais marqué de l'émoji ⚖️ (absent sur 14 chapitres, présent en texte gras non conforme sur 6, avec 3 chapitres portant plusieurs blocs en violation de la règle du bloc unique) ; et quatre chapitres (11 à 14) terminés par une note de mainteneur résiduelle (« Aucune affirmation... ») à supprimer.
+
+- Total du guide : 45 154 → 47 470 mots (20 chapitres, tous désormais entre 1480 et 3410 mots).
+- Un bloc ⚖️ Nuance ajouté ou reformaté avec l'émoji sur les 20 chapitres, avec fusion des blocs surnuméraires des chapitres 15 à 18 (2 à 3 blocs « Nuance nécessaire » en texte gras ramenés à un seul bloc ⚖️ officiel par chapitre, le reste du contenu conservé en prose).
+- Note de mainteneur supprimée sur les 4 chapitres concernés (11, 12, 13, 14).
+- Une analogie filée ajoutée aux 6 chapitres qui n'en avaient aucune : la corde d'instrument tendue juste ce qu'il faut (ch.18), la maison en travaux habitée pendant le chantier (ch.17), le levier appliqué à l'émotion humaine (ch.16), entre autres ; celles déjà présentes ailleurs (ch.1 à 5, 11 à 14, 19) ont été conservées et, pour le chapitre 19, refermée en fin de chapitre là où elle n'était qu'introduite.
+- Blocs ajoutés là où l'audit notait leur absence malgré un candidat évident : 🗣️ Témoignage réel ajouté au chapitre 3 (Sam, alexithymie chez une personne autiste, NeuroClastic) et un bloc 👁️ documenté ajouté au chapitre 10 (silence social après une fausse couche, étude qualitative *BMC Women's Health*) et au chapitre 8 (dysrégulation émotionnelle du TDAH adulte, vécue de l'intérieur).
+- Pipeline complet exécuté (47 490 mots comptés par le script de build, écart mineur accepté), aucun lien cassé spécifique à ce guide au-delà des deux faux positifs d'ancre interne connus (renvoi croisé chapitres 11/20), README du guide et README racine mis à jour, réciprocité vérifiée et complétée avec `4 - Sources/Les emotions.md` (deux sources nouvelles ajoutées : Sam/NeuroClastic, étude BMC Women's Health).
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : L'amour (28 chapitres, priorité basse)
 
 ## Comment reprendre
 
-Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel et Réseaux sociaux. Continuer guide par guide sur les six guides restants (Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel, Réseaux sociaux et Les émotions. Continuer guide par guide sur les cinq guides restants (L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

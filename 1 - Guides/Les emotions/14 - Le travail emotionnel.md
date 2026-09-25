@@ -36,7 +36,7 @@ La conséquence pratique de cette découverte est directe pour l'encadrement : u
 
 ### 14.5 Le burn-out comme dérèglement, pas comme fatigue
 
-Le mot burn-out est aujourd'hui tellement utilisé qu'il en perd sa précision clinique, souvent réduit à "être très fatigué par le travail". Ce n'est pas exact, et la distinction compte pour se soigner correctement.
+⚖️ **Nuance.** Le mot burn-out est aujourd'hui tellement utilisé qu'il en perd sa précision clinique, souvent réduit à "être très fatigué par le travail". Ce n'est pas exact, et la distinction compte pour se soigner correctement.
 
 [L'instrument de mesure de référence du burn-out, le Maslach Burnout Inventory, décrit trois dimensions bien distinctes : l'épuisement émotionnel proprement dit, la dépersonnalisation — un cynisme et une mise à distance des personnes avec qui on travaille — et une baisse du sentiment d'accomplissement personnel](https://en.wikipedia.org/wiki/Maslach_Burnout_Inventory) (Maslach Burnout Inventory ; vérification du 14 août 2026). Ce n'est donc pas une fatigue simple qui se résout par une bonne nuit de sommeil ou des vacances : c'est un dérèglement plus profond du système de réponse au stress, qui affecte à la fois la disponibilité émotionnelle et la capacité à se sentir compétent.
 
@@ -83,5 +83,3 @@ La formulation qui aide à ne pas transformer ça en reproche : **« est-ce que 
 - [Maslach Burnout Inventory](https://en.wikipedia.org/wiki/Maslach_Burnout_Inventory) — les trois dimensions du burn-out (vérification du 14 août 2026).
 - [Rothlin & Werder, *Diagnose Boreout*, 2007](https://en.wikipedia.org/wiki/Boreout) — origine et définition du bore-out (vérification du 14 août 2026).
 - [« Effort-reward imbalance at work and health: Review and critical appraisal of three decades of research »](https://pubmed.ncbi.nlm.nih.gov/41485243/) — reconnaissance au travail et santé (vérification du 14 août 2026).
-
-Aucune affirmation de ce chapitre n'est restée sans source identifiée.

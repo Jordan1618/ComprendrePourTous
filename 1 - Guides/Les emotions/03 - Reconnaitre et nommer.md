@@ -28,6 +28,8 @@ Si tout ce que vous savez est « je me sens mal », aucune action ne s'impose : 
 
 Nommer n'est donc pas décrire, c'est **orienter**.
 
+⚖️ **Nuance.** La granularité émotionnelle n'est pas la même chose que l'intensité émotionnelle, une confusion fréquente. Une personne à forte granularité ne ressent pas forcément des émotions plus intenses : elle distingue plus finement les émotions qu'elle a, quelle que soit leur force. Ce n'est pas non plus un talent inné réservé à une élite sensible : c'est une compétence apprise, qui se développe comme un vocabulaire de langue étrangère, détaillé au 3.9. Et ce n'est pas un objectif de perfection permanente : chercher le mot exact pour chaque micro-variation d'humeur, à chaque instant, deviendrait vite un exercice épuisant plutôt qu'utile.
+
 ### 3.3 Un effet documenté : mettre des mots calme
 
 Un résultat expérimental mérite d'être connu, parce qu'il justifie une pratique très simple. [Matthew Lieberman et son équipe ont observé que le fait de nommer une émotion (*affect labeling*) s'accompagne d'une baisse de l'activité de l'amygdale et d'une hausse de l'activité préfrontale](https://pubmed.ncbi.nlm.nih.gov/17576282/) (Lieberman et coll., *Psychological Science*, 2007 ; vérification du 6 août 2026).
@@ -43,6 +45,8 @@ Certaines personnes ne manquent pas de vocabulaire par négligence : elles ont u
 Ce n'est ni une maladie ni une absence d'émotions — les réponses physiologiques sont bien présentes, parfois même plus fortes. C'est un défaut d'accès à l'information. Les personnes concernées décrivent souvent des sensations corporelles (« j'ai le ventre noué ») là où d'autres nommeraient un état.
 
 C'est fréquent, plus souvent rapporté chez les hommes, et corrélé aux règles d'affichage décrites au chapitre 2. C'est aussi travaillable, et l'entrée par le corps est ici la plus efficace. [L'alexithymie est définie et mesurée dans la littérature clinique comme une difficulté à identifier et décrire ses émotions, distincte d'une absence de vie affective](https://archive.org/details/disordersofaffec0000tayl) (Taylor, Bagby & Parker, *Disorders of Affect Regulation*, Cambridge University Press, 1997 ; vérification du 7 août 2026).
+
+🗣️ **Témoignage réel.** [Sam, autiste, diagnostiquée en 2019, décrit ainsi ce que l'alexithymie change concrètement : « Mon plus gros problème pour identifier mes émotions, c'est de devoir relier consciemment les manifestations physiques d'une émotion dans mon corps à cette émotion précise. Il m'a fallu des années de thérapie pour seulement réaliser que quand le sang afflue dans mes bras, ça veut dire que je suis en colère, ou que cette sensation de chute au creux de l'estomac veut dire que je suis anxieuse »](https://neuroclastic.com/alexithymia-and-autism-what-its-like-to-not-know-how-you-feel/) (Sam, « Yo Samdy Sam », témoignage publié sur NeuroClastic ; vérification du 25 septembre 2026). Elle préfère parler d'« illettrisme émotionnel » plutôt que de « cécité émotionnelle » : le signal existe bien dans le corps, c'est sa traduction en mot qui fait défaut.
 
 ### 3.5 La méthode, en trois étapes
 
@@ -109,5 +113,6 @@ La question la plus utile n'est pas « qu'est-ce que tu ressens » — trop ouve
 - L'effet de l'étiquetage affectif sur l'amygdale et le cortex préfrontal : [Matthew Lieberman et coll., « Putting feelings into words »](https://pubmed.ncbi.nlm.nih.gov/17576282/), *Psychological Science*, 2007 ; vérification du 6 août 2026.
 - La définition clinique de l'alexithymie : [Graeme Taylor, R. Michael Bagby & James Parker, *Disorders of Affect Regulation*](https://archive.org/details/disordersofaffec0000tayl), Cambridge University Press, 1997 ; vérification du 7 août 2026.
 - La distinction entre émotion primaire et émotion secondaire en thérapie centrée sur l'émotion : [Leslie Greenberg & Sandra Paivio, *Working with Emotions in Psychotherapy*](https://www.abebooks.com/9781572302433/Working-Emotions-Psychotherapy-Greenberg-Leslie-1572302437/plp), Guilford Press, 1997 ; vérification du 7 août 2026.
+- Sam, [Alexithymia: What It's Like to Not Know How You Feel](https://neuroclastic.com/alexithymia-and-autism-what-its-like-to-not-know-how-you-feel/), NeuroClastic, témoignage réel ; vérification du 25 septembre 2026.
 - L'origine et la théorie de la roue des émotions : [Robert Plutchik, « The Nature of Emotions »](https://www.americanscientist.org/article/the-nature-of-emotions), *American Scientist*, 2001 ; vérification du 14 août 2026.
 - La théorie de la sélectivité socio-émotionnelle et la granularité chez les personnes âgées : [Laura Carstensen, Derek Isaacowitz & Susan Charles, « Taking time seriously: a theory of socioemotional selectivity »](https://pubmed.ncbi.nlm.nih.gov/10199217/), *American Psychologist*, 1999 ; vérification du 14 août 2026.

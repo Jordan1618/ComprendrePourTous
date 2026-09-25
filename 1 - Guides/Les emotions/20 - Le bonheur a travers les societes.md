@@ -46,13 +46,13 @@ Le mot « épicurien » a fini par désigner, dans l'usage courant, la recherche
 
 Le contresens courant tient en un mot : l'épicurisme authentique est une philosophie de la modération calculée (préférer un plaisir simple et sans conséquence négative à un plaisir intense mais suivi de trouble), pas une philosophie de l'excès. Un dîner simple partagé sans arrière-pensée correspond mieux à l'idéal épicurien qu'un excès ponctuel suivi de regret.
 
-**Nuance nécessaire.** Stoïcisme et épicurisme, souvent présentés comme opposés, convergent sur un point central pour ce chapitre : les deux écoles jugent qu'une joie qui dépend entièrement de circonstances extérieures incontrôlables est une joie fragile, et que la stabilité émotionnelle recherchée passe par un travail sur ce qui dépend de soi (le jugement porté sur les événements, le choix des plaisirs recherchés) plutôt que par l'accumulation de circonstances favorables.
+⚖️ **Nuance.** « Stoïcien » et « épicurien » sont devenus, dans l'usage courant, deux étiquettes opposées et déformées : le premier réduit à la froideur, le second à l'excès, alors que les deux écoles convergent sur un point central pour ce chapitre : les deux écoles jugent qu'une joie qui dépend entièrement de circonstances extérieures incontrôlables est une joie fragile, et que la stabilité émotionnelle recherchée passe par un travail sur ce qui dépend de soi (le jugement porté sur les événements, le choix des plaisirs recherchés) plutôt que par l'accumulation de circonstances favorables.
 
 **Bons réflexes**
 
 - Face à une joie qui dépend entièrement d'un facteur extérieur incontrôlable (le regard des autres, un gain matériel), chercher aussi une source de satisfaction qui dépend d'un jugement ou d'une action propre, plus stable dans le temps.
-- Se méfier du réflexe de comparaison permise par les réseaux sociaux en le nommant explicitement au moment où il se déclenche, plutôt qu'en le laissant agir silencieusement sur l'humeur.
-- Retenir qu'un indicateur économique national ne dit rien, à lui seul, du bien-être ressenti par une population : les deux se mesurent et s'améliorent séparément.
+- Interrogez le réflexe de comparaison permise par les réseaux sociaux en le nommant explicitement au moment où il se déclenche, plutôt qu'en le laissant agir silencieusement sur l'humeur.
+- Rappelez, face à un indicateur économique national présenté comme preuve de réussite, qu'il ne dit rien à lui seul du bien-être ressenti par une population : les deux se mesurent et s'améliorent séparément.
 
 ## Sources vérifiables
 

@@ -30,7 +30,7 @@ Une des découvertes les plus contre-intuitives de la recherche sur le bonheur p
 
 Le mécanisme proposé combine deux effets. Le contraste : après un pic de plaisir intense, les plaisirs ordinaires paraissent fades par comparaison. L'habituation : un même stimulus produit un effet de moins en moins fort à mesure qu'il se répète. Les deux jouent contre la personne qui espère qu'une augmentation de salaire, une nouvelle maison ou une promotion produira un bonheur stable : l'effet existe, mais son intensité redescend vers un niveau proche du point de départ, souvent en quelques mois.
 
-**Nuance nécessaire.** Ce résultat ne dit pas que rien ne change jamais durablement le bonheur ressenti, ni que les accidents graves ou les gains importants n'ont aucun effet réel sur la vie d'une personne. Il dit que l'intensité subjective du bonheur rapportée s'ajuste plus vite qu'on ne l'imagine spontanément, dans les deux sens, ce qui devrait tempérer aussi bien l'espoir qu'un événement heureux réglera tout que la crainte qu'un coup dur détruira tout pour toujours.
+⚖️ **Nuance.** Ce résultat ne dit pas que rien ne change jamais durablement le bonheur ressenti, ni que les accidents graves ou les gains importants n'ont aucun effet réel sur la vie d'une personne. Il dit que l'intensité subjective du bonheur rapportée s'ajuste plus vite qu'on ne l'imagine spontanément, dans les deux sens, ce qui devrait tempérer aussi bien l'espoir qu'un événement heureux réglera tout que la crainte qu'un coup dur détruira tout pour toujours.
 
 ### 19.4 Ralentir l'adaptation : ce qui augmente durablement le bonheur
 
@@ -83,6 +83,8 @@ La différence tient en une règle simple : les techniques de ce chapitre (grati
 
 - Ne jamais opposer aux émotions négatives d'un proche une injonction à la positivité (« pense positif », « regarde le bon côté ») : ça ajoute une charge de honte à la difficulté déjà présente.
 - Traiter les techniques de ce chapitre comme des ajouts à une vie qui comporte aussi des émotions négatives légitimes, jamais comme des substituts qui viendraient les remplacer ou les nier.
+
+La lumière qui s'élargit, posée en 19.1, a une limite qu'il faut nommer : contrairement à une vraie lumière, elle ne s'allume jamais sur commande simple. On ne décide pas de ressentir de la joie comme on appuierait sur un interrupteur ; on peut seulement, comme ce chapitre l'a montré, créer les conditions (la variété plutôt que la répétition, l'attention plutôt que la distraction, la gratitude précise plutôt que vague) qui la rendent plus probable, sans jamais la garantir.
 
 ## Sources vérifiables
 

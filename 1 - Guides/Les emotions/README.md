@@ -3,7 +3,7 @@ type: "guide"
 guide: "Les émotions"
 sujet: "commun"
 chapitres: 20
-mots: 45154
+mots: 47470
 verifie_le: 2026-09-15
 licence: "CC BY 4.0"
 ---
@@ -26,28 +26,28 @@ Deux partis pris le distinguent des contenus habituels sur le sujet.
 
 | # | Chapitre | Angle | Mots |
 |---|---|---|---|
-| 1 | [Comment une émotion se fabrique](<01 - Comment une emotion se fabrique.md>) | physiologie | 2 239 |
-| 2 | [D'où viennent les émotions : famille, société, institutions](<02 - D ou viennent les emotions.md>) | psychologie | 2 181 |
-| 3 | [Reconnaître et nommer : la granularité émotionnelle](<03 - Reconnaitre et nommer.md>) | psychologie | 2 236 |
-| 4 | [Décoder une émotion : à quoi sert chacune](<04 - Decoder une emotion.md>) | pratique | 2 146 |
-| 5 | [Réguler : ce qui marche et ce qui ne marche pas](<05 - Reguler ce qui marche.md>) | pratique | 2 516 |
-| 6 | [Les bonnes pratiques au quotidien](<06 - Les bonnes pratiques au quotidien.md>) | pratique | 2 331 |
-| 7 | [Quand le corps est en cause : ce qu'il faut écarter d'abord](<07 - Quand le corps est en cause.md>) | prévention | 2 825 |
-| 8 | [Les troubles psychiques : des repères, pas un diagnostic](<08 - Les troubles psychiques.md>) | prévention | 2 394 |
-| 9 | [Envisager un parcours de soin, seul ou à deux](<09 - Envisager un parcours de soin.md>) | pratique | 2 746 |
-| 10 | [Les tabous à démonter](<10 - Les tabous a demonter.md>) | relation | 3 127 |
-| 11 | [Une histoire des émotions, des stoïciens aux neurosciences affectives](<11 - Une histoire des emotions.md>) | histoire | 2 044 |
-| 12 | [Les émotions à travers les cultures](<12 - Les emotions a travers les cultures.md>) | culture | 2 108 |
-| 13 | [Ce que l'art, la musique et le cinéma font à nos émotions](<13 - L art la musique et le cinema.md>) | culture | 2 051 |
-| 14 | [Le travail émotionnel : ce que ça coûte de sourire au travail](<14 - Le travail emotionnel.md>) | travail | 2 064 |
-| 15 | [Émotions collectives : foule, contagion, indignation numérique](<15 - Emotions collectives.md>) | relation | 2 159 |
-| 16 | [Les émotions de l'argent, du pouvoir et de la politique](<16 - Emotions argent pouvoir et politique.md>) | société | 2 076 |
-| 17 | [L'éco-anxiété et les émotions des grandes transitions](<17 - L eco-anxiete.md>) | environnement | 2 051 |
-| 18 | [Émotions, corps et performance](<18 - Emotions corps et performance.md>) | sport | 2 032 |
-| 19 | [Les émotions positives : joie, plaisir et gratitude](<19 - Les emotions positives.md>) | psychologie | 2 287 |
-| 20 | [Le bonheur à travers les sociétés et les philosophies](<20 - Le bonheur a travers les societes.md>) | culture | 1 490 |
+| 1 | [Comment une émotion se fabrique](<01 - Comment une emotion se fabrique.md>) | physiologie | 2 376 |
+| 2 | [D'où viennent les émotions : famille, société, institutions](<02 - D ou viennent les emotions.md>) | psychologie | 2 259 |
+| 3 | [Reconnaître et nommer : la granularité émotionnelle](<03 - Reconnaitre et nommer.md>) | psychologie | 2 489 |
+| 4 | [Décoder une émotion : à quoi sert chacune](<04 - Decoder une emotion.md>) | pratique | 2 251 |
+| 5 | [Réguler : ce qui marche et ce qui ne marche pas](<05 - Reguler ce qui marche.md>) | pratique | 2 623 |
+| 6 | [Les bonnes pratiques au quotidien](<06 - Les bonnes pratiques au quotidien.md>) | pratique | 2 433 |
+| 7 | [Quand le corps est en cause : ce qu'il faut écarter d'abord](<07 - Quand le corps est en cause.md>) | prévention | 2 970 |
+| 8 | [Les troubles psychiques : des repères, pas un diagnostic](<08 - Les troubles psychiques.md>) | prévention | 2 508 |
+| 9 | [Envisager un parcours de soin, seul ou à deux](<09 - Envisager un parcours de soin.md>) | pratique | 2 902 |
+| 10 | [Les tabous à démonter](<10 - Les tabous a demonter.md>) | relation | 3 407 |
+| 11 | [Une histoire des émotions, des stoïciens aux neurosciences affectives](<11 - Une histoire des emotions.md>) | histoire | 2 110 |
+| 12 | [Les émotions à travers les cultures](<12 - Les emotions a travers les cultures.md>) | culture | 2 189 |
+| 13 | [Ce que l'art, la musique et le cinéma font à nos émotions](<13 - L art la musique et le cinema.md>) | culture | 2 143 |
+| 14 | [Le travail émotionnel : ce que ça coûte de sourire au travail](<14 - Le travail emotionnel.md>) | travail | 2 056 |
+| 15 | [Émotions collectives : foule, contagion, indignation numérique](<15 - Emotions collectives.md>) | relation | 2 157 |
+| 16 | [Les émotions de l'argent, du pouvoir et de la politique](<16 - Emotions argent pouvoir et politique.md>) | société | 2 285 |
+| 17 | [L'éco-anxiété et les émotions des grandes transitions](<17 - L eco-anxiete.md>) | environnement | 2 247 |
+| 18 | [Émotions, corps et performance](<18 - Emotions corps et performance.md>) | sport | 2 178 |
+| 19 | [Les émotions positives : joie, plaisir et gratitude](<19 - Les emotions positives.md>) | psychologie | 2 403 |
+| 20 | [Le bonheur à travers les sociétés et les philosophies](<20 - Le bonheur a travers les societes.md>) | culture | 1 484 |
 
-Total : 45 154 mots, 20 chapitres.
+Total : 47 470 mots, 20 chapitres.
 
 ## Par où commencer
 
