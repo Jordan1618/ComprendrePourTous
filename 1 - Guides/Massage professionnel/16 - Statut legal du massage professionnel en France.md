@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Statut légal du massage professionnel en France
 
-Le chapitre 10 a posé la distinction de base entre massage à visée médicale (réservé aux kinésithérapeutes) et massage bien-être. Ce chapitre entre dans le détail concret : ce qui est réglementé, ce qui ne l'est pas, et où se situe la ligne, souvent mal connue, entre massage bien-être et infraction pénale.
+Un terrain de sport sans lignes tracées au sol ne devient pas un terrain sans règles pour autant : le hors-jeu existe toujours, même sans marquage visible, il faut juste le connaître pour ne pas le franchir sans le voir. Le massage bien-être en France fonctionne sur ce même principe : peu de lignes tracées au sol (pas de diplôme obligatoire), mais des limites bien réelles, en particulier une ligne rouge pénale qu'il vaut mieux connaître avant de s'en approcher. Le chapitre 10 a posé la distinction de base entre massage à visée médicale (réservé aux kinésithérapeutes) et massage bien-être. Ce chapitre entre dans le détail concret : ce qui est réglementé, ce qui ne l'est pas, et où se situe la ligne, souvent mal connue, entre massage bien-être et infraction pénale.
 
 ### 16.1 Une profession non réglementée, et ce que ça change concrètement
 
@@ -20,13 +20,13 @@ Le chapitre 10 a posé la distinction de base entre massage à visée médicale 
 
 ### 16.2 La ligne rouge : où s'arrête le massage bien-être, où commence autre chose
 
-C'est le point le moins bien connu du grand public, et pourtant le plus important pour un praticien comme pour un client. [La définition jurisprudentielle qui sert de pierre angulaire au système reste : relation sexuelle rémunérée plus contact physique, tout contact physique destiné à satisfaire sexuellement un client suffit à caractériser une infraction, y compris des massages sexuels, des attouchements, des pratiques non pénétratives](https://www.useyourlaw.com/droit-social-et-travail-du-sexe-lincoherence-francaise/) (analyse juridique sur le droit social et le travail du sexe en France ; vérification du 16 septembre 2026).
+C'est le point le moins bien connu du grand public, et pourtant le plus important pour un praticien comme pour un client. [Tout contact physique destiné à satisfaire sexuellement un client suffit à caractériser une infraction](https://www.useyourlaw.com/droit-social-et-travail-du-sexe-lincoherence-francaise/), y compris des massages sexuels, des attouchements ou des pratiques non pénétratives (analyse juridique sur le droit social et le travail du sexe en France ; vérification du 16 septembre 2026).
 
-Le massage tantrique illustre bien cette zone grise. [Un massage tantrique thérapeutique, en aucun cas affilié au travail sexuel, ne pose pas de problème légal, tandis qu'un massage érotique incluant une prestation sexuelle est interdit par la loi ; la grande majorité des offres de massage tantrique trouvées en ligne relèvent malheureusement d'une prostitution déguisée](https://www.oueb-revue.fr/massage-erotique-interdit-legal) (analyse juridique sur la légalité du massage érotique en France ; vérification du 16 septembre 2026). [Depuis la loi du 13 avril 2016, l'achat de tout service sexuel est pénalisé](https://www.useyourlaw.com/droit-social-et-travail-du-sexe-lincoherence-francaise/) (vérification du 16 septembre 2026), ce qui expose aussi bien le praticien que le client en cas de franchissement de cette ligne.
+Le massage tantrique illustre bien cette zone grise, cette ligne tracée mais peu visible. [Un massage tantrique thérapeutique, en aucun cas affilié au travail sexuel, ne pose pas de problème légal, tandis qu'un massage érotique incluant une prestation sexuelle est interdit par la loi](https://www.oueb-revue.fr/massage-erotique-interdit-legal) (analyse juridique sur la légalité du massage érotique en France ; vérification du 16 septembre 2026). [La grande majorité des offres de massage tantrique trouvées en ligne relèvent malheureusement d'une prostitution déguisée](https://www.oueb-revue.fr/massage-erotique-interdit-legal). [Depuis la loi du 13 avril 2016, l'achat de tout service sexuel est pénalisé](https://www.useyourlaw.com/droit-social-et-travail-du-sexe-lincoherence-francaise/) (vérification du 16 septembre 2026), ce qui expose aussi bien le praticien que le client en cas de franchissement de cette ligne.
 
 **Bons réflexes.**
-- Pour un praticien : définir et annoncer clairement le cadre de sa pratique dès la prise de rendez-vous, sans ambiguïté sur ce que la séance comporte et ne comporte pas.
-- Pour un client : se méfier de toute offre en ligne de "massage tantrique" qui insiste sur des critères physiques du praticien plutôt que sur sa formation, un signal fréquent de prestation déguisée plutôt que thérapeutique.
+- Pour un praticien : définissez et annoncez clairement le cadre de votre pratique dès la prise de rendez-vous, sans ambiguïté sur ce que la séance comporte et ne comporte pas.
+- Pour un client : interrogez toute offre en ligne de « massage tantrique » qui insiste sur des critères physiques du praticien plutôt que sur sa formation, un signal fréquent de prestation déguisée plutôt que thérapeutique.
 
 ### 16.3 Ce que "non réglementé" implique concrètement pour la responsabilité
 
@@ -45,6 +45,8 @@ Un cadre légal non réglementé n'est pas un cadre figé pour autant : les déb
 **Bons réflexes.**
 - S'inscrire à la newsletter ou suivre les publications d'une fédération professionnelle reconnue du secteur, une source fiable pour être informé de toute évolution réglementaire à venir.
 - Anticiper qu'une réglementation renforcée, si elle survient un jour, valoriserait probablement les praticiens déjà formés sérieusement (voir chapitre 17.1) plutôt que de les pénaliser : se former au-delà du minimum légal actuel reste un investissement rentable sur le long terme, quel que soit le cadre futur.
+
+Le terrain sans lignes de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai terrain de sport, l'arbitre n'est pas toujours visible avant la faute. C'est au praticien de connaître seul l'emplacement de la ligne rouge, sans sifflet extérieur pour l'avertir avant qu'il ne la franchisse.
 
 ## Sources vérifiables
 

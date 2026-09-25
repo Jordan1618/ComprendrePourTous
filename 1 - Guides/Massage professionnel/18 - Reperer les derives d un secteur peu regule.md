@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Repérer les dérives d'un secteur peu régulé
 
-Le chapitre 16 a établi que le massage bien-être n'exige aucun diplôme obligatoire en France. C'est une force pour l'accessibilité du métier, et une faiblesse pour un client qui ne sait pas toujours à qui il a affaire.
+Un marché sans étiquetage obligatoire n'est jamais un marché sans faux produits : c'est même l'inverse, l'absence de contrôle systématique laisse le champ libre à qui veut coller une étiquette « bio » sur un produit qui ne l'est pas. Le secteur du massage bien-être, sans diplôme obligatoire, fonctionne sur ce même principe : le chapitre 16 a établi cette absence de contrôle en amont, ce qui en fait une force pour l'accessibilité du métier, et une faiblesse pour un client qui ne sait pas toujours lire l'étiquette de qui il a affaire.
 
 ### 18.1 Les pratiques commerciales trompeuses, un cadre légal qui s'applique aussi au bien-être
 
@@ -35,8 +35,8 @@ Trois signaux concrets méritent une vigilance particulière avant de réserver 
 Le secteur du bien-être se prête particulièrement bien à la manipulation des avis en ligne, pour une raison simple : l'expérience vécue reste largement subjective, ce qui rend plus difficile pour un client potentiel de distinguer un avis sincère d'un avis fabriqué ou incité. Un établissement qui affiche uniquement des avis dithyrambiques, sans aucune nuance ni avis moyen, mérite une attention particulière : l'absence totale de variabilité dans les retours reste statistiquement improbable pour n'importe quel service rendu à un public large.
 
 **Bons réflexes.**
-- Se méfier d'un profil d'avis trop uniformément excellent, sans aucune critique même mineure, un signal souvent associé à des avis achetés ou incités plutôt que spontanés.
-- Croiser les avis d'une plateforme avec ceux d'une autre plutôt que de se fier à une seule source, les pratiques de manipulation ciblant généralement une plateforme à la fois plutôt que toutes simultanément.
+- Interrogez un profil d'avis trop uniformément excellent, sans aucune critique même mineure : c'est un signal souvent associé à des avis achetés ou incités plutôt que spontanés, la même logique qu'une étiquette trop parfaite pour être honnête.
+- Croisez les avis d'une plateforme avec ceux d'une autre plutôt que de vous fier à une seule source, les pratiques de manipulation ciblant généralement une plateforme à la fois plutôt que toutes simultanément.
 
 ### 18.5 Ce qui distingue une dérive commerciale d'une dérive plus grave
 
@@ -49,6 +49,8 @@ Face à un secteur qui souffre collectivement de la mauvaise réputation causée
 **Bons réflexes.**
 - Afficher clairement sa formation et ses certifications sur son site ou sa fiche professionnelle, plutôt que de considérer que "le travail parle de lui-même" une fois sur place.
 - Encourager les clients satisfaits à laisser un avis authentique et détaillé plutôt que générique, ce qui contribue à distinguer un profil de confiance des faux avis évoqués au chapitre 18.4.
+
+L'étiquette de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai produit alimentaire, personne ne vient vérifier périodiquement ce qui est réellement affiché derrière elle. C'est au client de développer ce réflexe de lecture, faute d'un contrôleur qui le ferait à sa place.
 
 ## Sources vérifiables
 

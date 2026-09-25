@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Massage professionnel"
-mis_a_jour_le: 2026-09-16
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -105,6 +105,7 @@ Sources du guide [Massage professionnel](<../1 - Guides/Massage professionnel/RE
 | DGCCRF, [Pratiques commerciales trompeuses](https://www.economie.gouv.fr/dgccrf/les-fiches-pratiques/pratiques-commerciales-trompeuses-les-cles-pour-les-reconnaitre-et-sen-premunir) | Définition légale des pratiques trompeuses | 18.1 |
 | [Signaler une arnaque à la DGCCRF via SignalConso](https://www.smart-legal.fr/signaler-arnaque-dgccrf-signal-conso-procedure/) | Procédure de signalement | 18.3 |
 | American Massage Therapy Association, [Preventing Burnout in Massage Therapists](https://www.amtamassage.org/publications/massage-therapy-journal/massage-therapy-and-burnout/) | Épuisement professionnel du métier | 20.3 |
+| Steph Swarts, [How to Prevent Burnout as a Massage Therapist](https://stephswarts.com/how-to-prevent-burnout-as-a-massage-therapist/), témoignage réel | Vécu personnel de l'épuisement professionnel chez une praticienne | 20.3 |
 
 ---
 

@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Éthique professionnelle et gestion du consentement
 
-Le chapitre 11 traite du consentement dans le cadre du couple. Celui-ci traite d'un cadre différent, tout aussi central : la relation professionnelle entre un praticien et un client, où le consentement se construit et se vérifie autrement.
+Un garde-frontière ne décide jamais, une fois pour toutes au premier contrôle, que tel voyageur peut désormais franchir n'importe quel poste sans nouvelle vérification : chaque passage se recontrôle, même pour quelqu'un de déjà connu. Le consentement en cadre professionnel fonctionne sur ce même principe de poste-frontière répété : rien ne se vérifie une fois pour toutes, tout se revérifie à chaque geste, à chaque séance. Le chapitre 11 traite du consentement dans le cadre du couple. Celui-ci traite d'un cadre différent, tout aussi central : la relation professionnelle entre un praticien et un client, où le consentement se construit et se vérifie autrement.
 
 ### 20.1 Le consentement en cadre professionnel n'est jamais acquis une fois pour toutes
 
@@ -31,11 +31,13 @@ Le chapitre 16.2 a posé la ligne légale entre massage bien-être et prestation
 
 ### 20.3 La charge émotionnelle propre aux métiers du contact physique répété
 
-**Nuance nécessaire.** Gérer ces situations, même rarement, a un coût cumulatif réel pour un praticien qui les vit répétées sur des années de carrière, distinct de la fatigue physique déjà connue du métier. [L'épuisement professionnel dans la profession de masseur est fréquent, avec des facteurs contributifs incluant les exigences physiques du métier et la gestion des limites énergétiques propres à une activité relationnelle et corporelle intense](https://www.amtamassage.org/publications/massage-therapy-journal/massage-therapy-and-burnout/) (American Massage Therapy Association, sur l'épuisement professionnel des masseurs ; vérification du 16 septembre 2026). Gérer un incident lié au consentement fait partie de cette charge, moins visible que la fatigue musculaire mais tout aussi réelle sur la durée d'une carrière.
+**Nuance nécessaire.** Gérer ces situations, même rarement, a un coût cumulatif réel pour un praticien qui les vit répétées sur des années de carrière, distinct de la fatigue physique déjà connue du métier. [L'épuisement professionnel dans la profession de masseur est fréquent](https://www.amtamassage.org/publications/massage-therapy-journal/massage-therapy-and-burnout/), avec des facteurs contributifs incluant les exigences physiques du métier et la gestion des limites énergétiques propres à une activité relationnelle et corporelle intense (American Massage Therapy Association, sur l'épuisement professionnel des masseurs ; vérification du 16 septembre 2026). Gérer un incident lié au consentement fait partie de cette charge, moins visible que la fatigue musculaire mais tout aussi réelle sur la durée d'une carrière.
+
+🗣️ **Témoignage réel.** [Steph Swarts, praticienne de massage, raconte : « Je n'ai pas vu venir mon épuisement professionnel avant d'être en plein dedans. Trois ans dans ma carrière, je pensais que la douleur constante à la nuque faisait juste partie du métier »](https://stephswarts.com/how-to-prevent-burnout-as-a-massage-therapist/) (Steph Swarts, témoignage publié sur son site professionnel ; vérification du 25 septembre 2026). Elle décrit des mains douloureuses pendant des heures après le dernier client, une fatigue chronique que le sommeil ne suffisait plus à réparer, et rappelle que la fatigue de compassion, chez les praticiens du contact physique, « est réelle et brutale ».
 
 **Bons réflexes.**
-- Se ménager du temps de récupération après une séance difficile plutôt que d'enchaîner immédiatement le rendez-vous suivant, pour ne pas laisser la charge s'accumuler silencieusement.
-- Échanger avec des pairs ou une supervision professionnelle sur les situations délicates rencontrées : nommer l'incident à voix haute, même après coup, réduit son poids individuel.
+- Ménagez-vous du temps de récupération après une séance difficile plutôt que d'enchaîner immédiatement le rendez-vous suivant, pour ne pas laisser la charge s'accumuler silencieusement.
+- Échangez avec des pairs ou une supervision professionnelle sur les situations délicates rencontrées : nommer l'incident à voix haute, même après coup, réduit son poids individuel.
 
 ### 20.4 Le cas particulier du massage à domicile
 
@@ -58,6 +60,9 @@ Au-delà du consentement traité tout au long de ce chapitre, la confidentialit�
 - Ne jamais partager, même de façon anecdotique et anonymisée, ce qu'un client a confié pendant une séance, sans son accord explicite.
 - Rappeler ce principe de confidentialité dès la première séance avec un nouveau client, ce qui contribue en retour à installer la confiance nécessaire au relâchement recherché par la séance elle-même.
 
+Le poste-frontière de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai contrôle douanier, personne ne tamponne un passeport pour confirmer que le consentement a bien été vérifié. C'est au seul praticien de savoir qu'il l'a fait, séance après séance, sans preuve extérieure à produire.
+
 ## Sources vérifiables
 
 - American Massage Therapy Association, [Preventing Burnout in Massage Therapists](https://www.amtamassage.org/publications/massage-therapy-journal/massage-therapy-and-burnout/) — épuisement professionnel spécifique au métier ; vérification du 16 septembre 2026.
+- Steph Swarts, [How to Prevent Burnout as a Massage Therapist](https://stephswarts.com/how-to-prevent-burnout-as-a-massage-therapist/), témoignage réel — vécu personnel de l'épuisement professionnel chez une praticienne ; vérification du 25 septembre 2026.

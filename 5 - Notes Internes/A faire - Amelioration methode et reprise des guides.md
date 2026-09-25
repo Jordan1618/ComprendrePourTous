@@ -299,8 +299,21 @@ Les 32 chapitres en chirurgie ont tous été repris (aucune réécriture nécess
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : Massage professionnel (21 chapitres, priorité moyenne)
+## Massage professionnel — TERMINÉ (25/09/2026)
+
+Les 20 chapitres en chirurgie ont tous été repris ; le chapitre 12, jugé « rien à faire » par l'audit, n'a pas été touché. Défaut dominant relevé par l'audit : 74 % de liens collés (souvent deux ou trois affirmations chaînées derrière un seul lien), 13 chapitres sans analogie, blocs 👁️/💑/🗣️ quasi inexistants malgré des candidats explicites. Deux défauts de structure trouvés en cours de route, absents du rapport d'audit : les sections « Sources vérifiables » de trois chapitres (5, 8, 10, 7) étaient placées au milieu du chapitre plutôt qu'à la fin, coupant le fil ; corrigées au passage.
+
+- Total du guide : 22 778 → 23 879 mots (21 chapitres).
+- Une analogie filée ajoutée sur les 13 chapitres qui n'en avaient aucune : les dialectes d'une même langue du toucher (ch.2), la palette de peintre (ch.4), le feu de signalisation (ch.9), le code de la route entre pays (ch.10), la langue privée inventée à deux (ch.11), le tribunal qui instruit un dossier de preuves (ch.14), le chantier qui déplace son périmètre de sécurité (ch.8), le marché sans étiquetage obligatoire (ch.18), les fondations avant les murs (ch.17), le poste-frontière qui recontrôle à chaque passage (ch.20), la carte topographique aux reliefs distincts (ch.6), entre autres.
+- Blocs ajoutés là où l'audit notait leur absence malgré un sujet pertinent : 👁️ sur l'écart de perception de pression selon le sexe (ch.7), 💑 explicite sur la grammaire du couple qui se réapprend après une rupture (ch.11), 🗣️ Témoignage réel ajouté au chapitre 20 (Steph Swarts, praticienne de massage, sur l'épuisement professionnel, trouvé et vérifié par recherche web).
+- Réflexes passifs (« Se rappeler que… », « Se méfier de… ») convertis en actions sur l'ensemble des chapitres corrigés.
+- Pipeline complet exécuté (23 900 mots comptés par le script de build, écart mineur accepté), aucun lien cassé spécifique à ce guide, README du guide et README racine mis à jour, réciprocité vérifiée et complétée avec `4 - Sources/Massage professionnel.md` (une entrée manquante ajoutée : Steph Swarts).
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : Réseaux sociaux (20 chapitres, priorité moyenne)
 
 ## Comment reprendre
 
-Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention et Maladie grave et handicap. Continuer guide par guide sur les huit guides restants (Massage professionnel, Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap et Massage professionnel. Continuer guide par guide sur les sept guides restants (Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

@@ -14,7 +14,7 @@ Tout le monde ne peut pas se payer une séance chaque semaine, et tout le monde 
 
 ### 15.1 Le relâchement myofascial auto-administré, une pratique sérieusement étudiée
 
-Le rouleau de mousse (foam roller) et les balles de massage, popularisés dans le sport, ne sont pas qu'un effet de mode. [Une revue systématique sur le relâchement myofascial auto-administré chez les sportifs conclut à des bénéfices réels sur la performance physique, en particulier sur l'amplitude articulaire à court terme, avec un effet moindre mais présent sur la récupération perçue](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10801590/) (revue systématique sur les effets du relâchement myofascial auto-administré sur la performance des athlètes ; vérification du 16 septembre 2026).
+Le rouleau de mousse (foam roller) et les balles de massage, popularisés dans le sport, ne sont pas qu'un effet de mode. [Une revue systématique conclut à des bénéfices réels sur l'amplitude articulaire à court terme](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10801590/), avec un effet moindre mais présent sur la récupération perçue (revue systématique sur les effets du relâchement myofascial auto-administré sur la performance des athlètes ; vérification du 16 septembre 2026).
 
 **Bons réflexes.**
 - Utiliser un rouleau de mousse avant un effort pour l'amplitude articulaire, après un effort pour la sensation de récupération, sans attendre un effet miracle sur la performance pure.

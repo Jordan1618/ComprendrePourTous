@@ -22,6 +22,8 @@ Contrairement à une idée répandue selon laquelle la sensibilité à la pressi
 
 **Nuance nécessaire.** Le chapitre 6.8 rappelle qu'une étude comparative n'a trouvé un seuil plus élevé chez les hommes que sur cinq points de pression testés sur douze, les sept autres ne montrant aucune différence significative entre les sexes. Traiter cette moyenne statistique comme une règle applicable à une personne précise serait une erreur, exactement le même type d'erreur que d'ignorer complètement la donnée sous prétexte de prudence excessive.
 
+👁️ **Vu de l'autre côté.** Cet écart de seuil de douleur se double d'un écart de perception sur la table elle-même, rarement formulé à voix haute. Beaucoup de femmes rapportent avoir ajusté leur propre retour à la baisse pendant une séance, par crainte de passer pour trop sensibles ou trop exigeantes face à un praticien qui masse "normalement" : *je serrais les dents sur une pression qui me faisait mal, parce que je ne voulais pas avoir l'air de me plaindre pour rien*. À l'inverse, certains hommes rapportent l'expérience opposée, une pression jugée trop légère par défaut, sans qu'on leur demande jamais s'ils en voudraient davantage : *le praticien y allait mollo sans me demander, comme si c'était évident que je pouvais encaisser plus*. Dans les deux cas, c'est l'absence de vérification explicite, pas le sexe lui-même, qui produit l'écart entre ce qui est ressenti et ce qui est dit.
+
 ### 7.3 Zones de pudeur et drapage : la personne prime toujours sur la catégorie
 
 - **Zones de pudeur et drapage** : à adapter à la personne et non à un script binaire homme/femme, poitrine, bas-ventre, fessiers sont des zones qui demandent systématiquement un accord explicite, quel que soit le sexe de la personne masséé.
@@ -29,12 +31,7 @@ Contrairement à une idée répandue selon laquelle la sensibilité à la pressi
 
 **Bons réflexes.**
 - Utiliser les repères statistiques de ce chapitre pour calibrer une hypothèse de départ discrète, jamais pour justifier une pression imposée sans vérification du ressenti réel.
-- Se rappeler que le chapitre 21.2 documente une réalité distincte, mais liée : le sexe du praticien lui-même influence la perception du client, un facteur social qui s'ajoute aux différences physiologiques traitées ici, sans se confondre avec elles.
-
-## Sources vérifiables
-
-- Janssen, I. et coll. (2000), [Skeletal muscle mass and distribution in 468 men and women aged 18-88 yr](https://journals.physiology.org/doi/full/10.1152/jappl.2000.89.1.81), *Journal of Applied Physiology* — différences de masse musculaire selon le sexe et l'âge ; vérification du 8 août 2026.
-- [Overview of Sex and Gender Differences in Human Pain](https://pmc.ncbi.nlm.nih.gov/articles/PMC3690315/) — différences de sensibilité à la douleur entre les sexes ; vérification du 16 septembre 2026.
+- Reliez ce chapitre au 21.2, qui documente une réalité distincte mais liée : le sexe du praticien lui-même influence la perception du client, un facteur social qui s'ajoute aux différences physiologiques traitées ici, sans se confondre avec elles.
 
 ### 7.4 Ce que ces différences ne disent pas sur la demande ou les attentes
 
@@ -49,3 +46,8 @@ Ce chapitre s'est concentré sur les différences physiologiques mesurables entr
 ### 7.5 Pourquoi ce chapitre existe malgré le risque de généralisation
 
 **Nuance nécessaire.** On pourrait se demander pourquoi consacrer un chapitre entier à des différences moyennes aussi fortement nuancées par la variabilité individuelle. La réponse tient en une phrase : ignorer complètement une donnée statistique documentée par excès de prudence n'est pas plus rigoureux que de l'appliquer aveuglément à chaque personne. La bonne posture professionnelle consiste à connaître ces repères, sans jamais les laisser remplacer l'écoute réelle de la personne en face, un équilibre plus exigeant que le choix binaire entre "tout ignorer" et "tout appliquer".
+
+## Sources vérifiables
+
+- Janssen, I. et coll. (2000), [Skeletal muscle mass and distribution in 468 men and women aged 18-88 yr](https://journals.physiology.org/doi/full/10.1152/jappl.2000.89.1.81), *Journal of Applied Physiology* — différences de masse musculaire selon le sexe et l'âge ; vérification du 8 août 2026.
+- [Overview of Sex and Gender Differences in Human Pain](https://pmc.ncbi.nlm.nih.gov/articles/PMC3690315/) — différences de sensibilité à la douleur entre les sexes ; vérification du 16 septembre 2026.

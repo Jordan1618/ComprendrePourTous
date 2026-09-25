@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Risques, contre-indications et signaux d'alerte
 
-Un tableau qu'un vrai praticien garde en tête en permanence :
+Un feu de signalisation ne demande jamais au conducteur de deviner s'il doit s'arrêter : le rouge, l'orange et le vert encodent d'un coup d'œil un niveau de risque et l'action qui va avec. Le tableau des contre-indications qui suit fonctionne exactement sur ce principe, et c'est un vrai praticien qui le garde en tête en permanence :
 
 | Situation | Niveau de risque | Conduite à tenir |
 |---|---|---|
@@ -27,17 +27,17 @@ Un tableau qu'un vrai praticien garde en tête en permanence :
 
 **Effets secondaires bénins possibles** (à connaître pour ne pas s'inquiéter à tort) : courbatures le lendemain, fatigue passagère, petits bleus après un travail profond ou du cupping, parfois maux de tête légers liés à la libération des tensions. [Les effets indésirables du massage sont majoritairement bénins et transitoires](https://pubmed.ncbi.nlm.nih.gov/17983334/) (Cambron, Dexheimer, Coe & Swenson, « Side-effects of massage therapy: a cross-sectional study of 100 clients », *Journal of Alternative and Complementary Medicine*, 2007 ; vérification du 8 août 2026), [les événements graves restant rares et généralement liés à des contre-indications non respectées](https://pubmed.ncbi.nlm.nih.gov/12777645/) (Ernst, « The safety of massage therapy », *Rheumatology*, 2003 ; vérification du 8 août 2026).
 
-**Le réflexe numéro un à retenir** : dans le doute, on masse plus léger, jamais plus fort. Un massage trop doux ne fait jamais de mal. Un massage trop fort sur la mauvaise zone peut créer un vrai problème (aggravation d'une inflammation, déclenchement d'une douleur nerveuse, etc.).
+**Le réflexe numéro un** : dans le doute, on masse plus léger, jamais plus fort, comme on ralentit à l'approche d'un feu orange plutôt que d'accélérer pour le passer. Un massage trop doux ne fait jamais de mal. Un massage trop fort sur la mauvaise zone peut créer un vrai problème (aggravation d'une inflammation, déclenchement d'une douleur nerveuse, etc.).
 
 ### 9.1 Pourquoi ce tableau plutôt qu'une liste vague de "précautions"
 
-Ce tableau n'est pas une formalité administrative : chaque ligne correspond à un mécanisme physiologique précis qui explique pourquoi la contre-indication existe, pas seulement qu'elle existe. La phlébite, par exemple, n'est pas contre-indiquée par prudence excessive : masser un mollet où un caillot s'est formé risque, mécaniquement, de le détacher et de le faire migrer vers les poumons, une complication potentiellement mortelle appelée embolie pulmonaire. Ce n'est pas un risque théorique lointain, c'est la raison concrète, jamais expliquée aux clients dans le détail, derrière une règle qui peut sinon sembler arbitraire.
+Ce tableau n'est pas une formalité administrative : chaque ligne correspond à un mécanisme physiologique précis qui explique pourquoi la contre-indication existe, pas seulement qu'elle existe, exactement comme un feu rouge n'est jamais arbitraire mais encode un carrefour réellement dangereux. La phlébite, par exemple, n'est pas contre-indiquée par prudence excessive : masser un mollet où un caillot s'est formé risque, mécaniquement, de le détacher et de le faire migrer vers les poumons, une complication potentiellement mortelle appelée embolie pulmonaire. Ce n'est pas un risque théorique lointain, c'est la raison concrète, jamais expliquée aux clients dans le détail, derrière une règle qui peut sinon sembler arbitraire.
 
 De la même façon, le diabète avancé n'est pas listé par précaution générique : une neuropathie diabétique peut réduire la sensibilité d'une zone au point que la personne ne ressente pas une pression excessive en train de créer une lésion tissulaire, ce qui inverse le principe de base du massage sûr (la douleur ressentie comme signal d'alerte fiable) précisément dans les cas où ce signal ferait le plus défaut.
 
 ### 9.2 Fréquence réelle des effets indésirables : rassurer sans minimiser
 
-[Une étude transversale menée auprès de 100 clients a documenté la fréquence des effets secondaires du massage thérapeutique, confirmant que la grande majorité de ces effets restent bénins et transitoires (courbatures, fatigue passagère, maux de tête légers), les événements plus sérieux demeurant rares](https://pubmed.ncbi.nlm.nih.gov/17983334/) (Cambron, Dexheimer, Coe & Swenson, « Side-effects of massage therapy: a cross-sectional study of 100 clients », *Journal of Alternative and Complementary Medicine*, 2007 ; vérification du 8 août 2026). [Une revue de référence sur la sécurité du massage thérapeutique conclut que les événements indésirables graves restent rares dans la littérature publiée, et qu'ils sont généralement associés au non-respect d'une contre-indication déjà identifiée plutôt qu'à un massage exécuté dans les règles](https://pubmed.ncbi.nlm.nih.gov/12777645/) (Ernst, « The safety of massage therapy », *Rheumatology*, 2003 ; vérification du 8 août 2026).
+[Une étude transversale menée auprès de 100 clients a confirmé que la grande majorité des effets secondaires du massage restent bénins et transitoires](https://pubmed.ncbi.nlm.nih.gov/17983334/) (courbatures, fatigue passagère, maux de tête légers ; Cambron, Dexheimer, Coe & Swenson, *Journal of Alternative and Complementary Medicine*, 2007 ; vérification du 8 août 2026). [Une revue de référence sur la sécurité du massage conclut que les événements graves restent rares dans la littérature publiée](https://pubmed.ncbi.nlm.nih.gov/12777645/) (Ernst, « The safety of massage therapy », *Rheumatology*, 2003 ; vérification du 8 août 2026), et [qu'ils sont généralement associés au non-respect d'une contre-indication déjà identifiée](https://pubmed.ncbi.nlm.nih.gov/12777645/) plutôt qu'à un massage exécuté dans les règles.
 
 **Nuance nécessaire.** Cette fréquence rassurante ne dispense jamais de la vigilance individuelle détaillée dans le tableau ci-dessus : c'est précisément parce que les praticiens respectent globalement bien ces contre-indications, en pratique courante, que les événements graves restent rares. Ce tableau n'est donc pas une formalité qu'on pourrait relâcher sous prétexte que les statistiques globales sont favorables, il est la raison même de ces statistiques favorables.
 
@@ -60,5 +60,7 @@ L'ostéoporose mérite d'être rappelée pour une raison simple : contrairement 
 **Bons réflexes.**
 - Demander systématiquement, dans le questionnaire préalable évoqué au chapitre 1.5, si un diagnostic d'ostéoporose ou de fragilité osseuse a été posé, en particulier chez les personnes âgées.
 - En cas de doute sur la densité osseuse d'une personne qui n'a jamais été explicitement diagnostiquée mais présente des facteurs de risque (âge avancé, ménopause ancienne, antécédents familiaux), privilégier par défaut une pression légère plutôt que de tester la limite.
+
+Le feu de signalisation de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai carrefour, personne ne l'installe à la place du praticien. C'est lui qui doit reconnaître la couleur du risque, sur un corps qui ne porte pas d'étiquette, ce que rappelle le questionnaire de santé du chapitre 1.5.
 
 Le chapitre 14 détaille, pathologie par pathologie, ce que la recherche valide réellement comme bénéfice, au-delà de la seule question des contre-indications traitée ici.

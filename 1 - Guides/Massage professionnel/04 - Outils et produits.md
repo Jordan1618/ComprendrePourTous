@@ -10,7 +10,7 @@ licence: "CC BY 4.0"
 
 # Outils et produits
 
-Le matériel ne remplace jamais la technique, mais un mauvais choix d'huile, de pierre ou d'outil peut annuler l'effet d'un geste par ailleurs parfaitement exécuté. Ce chapitre détaille ce qu'il faut savoir avant d'ouvrir sa trousse.
+Un peintre qui maîtrise parfaitement son geste produit quand même une toile ratée s'il choisit la mauvaise texture de peinture pour l'effet recherché, trop fluide là où il fallait épais, trop mat là où il fallait de la brillance. Le matériel du massage fonctionne comme cette palette : il ne remplace jamais la technique, mais un mauvais choix d'huile, de pierre ou d'outil peut annuler l'effet d'un geste par ailleurs parfaitement exécuté. Ce chapitre détaille ce qu'il faut savoir avant d'ouvrir sa trousse.
 
 ### 4.1 Les huiles de massage : comparatif pratique
 
@@ -29,7 +29,7 @@ Le matériel ne remplace jamais la technique, mais un mauvais choix d'huile, de 
 
 ### 4.2 Pourquoi le choix de l'huile n'est jamais anodin
 
-Le chapitre 4.1 a posé un comparatif pratique. Il vaut la peine d'expliquer pourquoi ces différences de texture ne sont pas qu'une question de préférence esthétique. [L'huile de jojoba est en réalité un ester de cire, ce qui explique pourquoi elle s'apparente de si près au sébum naturel de la peau : non grasse, légère, elle s'absorbe facilement sans obstruer les pores](https://www.healthline.com/health/carrier-oil) (guide sur les huiles végétales de massage ; vérification du 16 septembre 2026). [L'huile d'amande douce, à l'inverse, reste l'une des huiles les plus riches, ses molécules plus grandes restant plus longtemps en surface de la peau, ce qui verrouille physiquement l'hydratation et empêche son évaporation](https://www.healthline.com/health/carrier-oil) (vérification du 16 septembre 2026), un avantage réel pour un massage long mais un inconvénient pour une peau déjà grasse.
+Le chapitre 4.1 a posé un comparatif pratique. Il vaut la peine d'expliquer pourquoi ces différences de texture, comme deux peintures de viscosité différente, ne sont pas qu'une question de préférence esthétique. [L'huile de jojoba est en réalité un ester de cire, ce qui explique sa proximité avec le sébum naturel de la peau](https://www.healthline.com/health/carrier-oil) : non grasse et légère, elle s'absorbe facilement sans obstruer les pores (guide sur les huiles végétales de massage ; vérification du 16 septembre 2026). [L'huile d'amande douce, à l'inverse, reste l'une des huiles les plus riches](https://www.healthline.com/health/carrier-oil), ses molécules plus grandes restant plus longtemps en surface de la peau, ce qui verrouille physiquement l'hydratation, un avantage réel pour un massage long mais un inconvénient pour une peau déjà grasse.
 
 **Nuance nécessaire.** Il n'existe pas d'huile universellement "meilleure" : le bon choix dépend du type de peau du client, de la durée de la séance, et de l'objectif technique recherché (glisse maximale pour un effleurage long, ou accroche suffisante pour un pétrissage profond). Un praticien qui propose systématiquement le même produit, sans jamais l'ajuster, passe à côté d'un levier de confort simple à actionner.
 
@@ -45,7 +45,7 @@ Le chapitre 4.1 a posé un comparatif pratique. Il vaut la peine d'expliquer pou
 
 - **Ventouses (cupping)** : créent une dépression qui décolle les tissus. [Laissent des marques circulaires (ecchymoses bénignes) qui peuvent durer plusieurs jours](https://pubmed.ncbi.nlm.nih.gov/31982686/), à annoncer avant la séance (Cramer et coll., « Cupping for patients with chronic pain: a systematic review and meta-analysis », *The Journal of Pain*, 2020 ; vérification du 8 août 2026).
 
-Ce qu'il vaut la peine d'expliquer au client avant la séance, plutôt que de laisser la marque parler d'elle-même : [ces marques résultent d'un pooling sanguin superficiel causé par la rupture de petits capillaires, la même biologie qu'une ecchymose ordinaire, mais elles ne sont pas douloureuses au toucher, ne ressemblent pas à une ecchymose au ressenti, et s'estompent généralement en trois à dix jours à mesure que le corps réabsorbe le sang superficiellement accumulé](https://foothillsrehab.com/blog/cupping-therapy-behind-those-circular-bruises/) (explication des marques de cupping ; vérification du 16 septembre 2026). [La preuve la plus solide en faveur du cupping concerne la douleur musculosquelettique et le syndrome myofascial douloureux, tandis que l'efficacité pour la plupart des autres troubles reste encore peu documentée](https://foothillsrehab.com/blog/cupping-therapy-behind-those-circular-bruises/) (vérification du 16 septembre 2026).
+Ce qu'il vaut la peine d'expliquer au client avant la séance, plutôt que de laisser la marque parler d'elle-même : [ces marques résultent d'un pooling sanguin superficiel causé par la rupture de petits capillaires, la même biologie qu'une ecchymose ordinaire](https://foothillsrehab.com/blog/cupping-therapy-behind-those-circular-bruises/) (explication des marques de cupping ; vérification du 16 septembre 2026). Contrairement à une ecchymose classique, [elles ne sont pas douloureuses au toucher et s'estompent généralement en trois à dix jours](https://foothillsrehab.com/blog/cupping-therapy-behind-those-circular-bruises/). [La preuve la plus solide en faveur du cupping concerne la douleur musculosquelettique et le syndrome myofascial douloureux](https://foothillsrehab.com/blog/cupping-therapy-behind-those-circular-bruises/), l'efficacité pour la plupart des autres troubles restant peu documentée.
 
 **Bons réflexes.**
 - Toujours montrer et expliquer une marque de cupping à un client qui la découvre pour la première fois, avant qu'il ne la voie seul dans un miroir et l'interprète comme une vraie blessure.
@@ -59,6 +59,8 @@ Ce qu'il vaut la peine d'expliquer au client avant la séance, plutôt que de la
 - Ne jamais utiliser un racloir à sec sur la peau : une huile ou un sérum glissant est indispensable pour éviter tout risque d'irritation mécanique.
 - Adapter la pression au visage à un niveau bien inférieur à celui utilisé sur le dos, la peau du visage étant nettement plus fine et plus vascularisée.
 - **Rouleaux en mousse / balles de massage** : auto-massage, complément entre deux séances. Le chapitre 15 développe en détail ce que la recherche valide spécifiquement sur l'usage de ces outils en auto-massage, au-delà de leur simple présentation ici.
+
+La palette de ce chapitre a une limite qu'il faut nommer : contrairement à une vraie peinture, aucun de ces produits ne se choisit une fois pour toutes. La bonne huile ou le bon outil pour un client donné change avec sa peau, son objectif du jour et parfois la saison, ce qui suppose de reposer la question à chaque séance plutôt que de s'en tenir à un choix figé.
 
 ## Sources vérifiables
 
