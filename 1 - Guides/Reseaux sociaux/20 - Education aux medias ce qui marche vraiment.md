@@ -22,7 +22,7 @@ Le chapitre 10 a proposé une boîte à outils individuelle pour reprendre la ma
 
 **Analogie utile.** C'est un peu comme apprendre à nager : un programme qui enseigne un seul geste bien maîtrisé (la battue de jambes) avant d'ajouter les bras produit souvent de meilleurs nageurs qu'un programme qui tente d'enseigner cinq mouvements simultanément dès la première leçon. La simplicité d'une intervention n'est pas un signe de faiblesse, c'est souvent la condition de son efficacité réelle.
 
-**Nuance nécessaire.** La méta-analyse elle-même signale une hétérogénéité réelle des effets selon les études incluses, un résultat moyen positif ne signifiant pas un effet garanti pour chaque programme pris isolément : certains dispositifs, notamment les interventions préventives menées en une seule séance sans suivi, montrent des résultats plus mitigés que les programmes déployés dans la durée. Un programme efficace dans une étude contrôlée ne garantit jamais un effet identique une fois déployé à grande échelle, dans des conditions moins contrôlées.
+⚖️ **Nuance nécessaire.** La méta-analyse elle-même signale une hétérogénéité réelle des effets selon les études incluses, un résultat moyen positif ne signifiant pas un effet garanti pour chaque programme pris isolément : certains dispositifs, notamment les interventions préventives menées en une seule séance sans suivi, montrent des résultats plus mitigés que les programmes déployés dans la durée. Un programme efficace dans une étude contrôlée ne garantit jamais un effet identique une fois déployé à grande échelle, dans des conditions moins contrôlées.
 
 ### 20.3 Ce que les élèves rapportent eux-mêmes
 
@@ -46,11 +46,17 @@ Le chapitre 16 a montré que le cerveau adolescent est particulièrement vulnér
 
 ### 20.6 Ce que l'école peut faire, ce qu'elle ne peut pas faire seule
 
-**Nuance nécessaire.** Même la meilleure intervention scolaire d'éducation aux médias, aussi bien conçue soit-elle selon les principes de ce chapitre, ne peut pas compenser à elle seule un environnement familial ou social qui ne relaie jamais ces messages en dehors de la salle de classe. La recherche sur l'efficacité des interventions mesure un effet en contexte contrôlé, pas la résistance de cet effet une fois l'élève rentré chez lui, exposé de nouveau au design addictif détaillé au chapitre 16 sans aucun relais adulte cohérent avec ce qui a été enseigné.
+⚖️ **Nuance nécessaire.** Même la meilleure intervention scolaire d'éducation aux médias, aussi bien conçue soit-elle selon les principes de ce chapitre, ne peut pas compenser à elle seule un environnement familial ou social qui ne relaie jamais ces messages en dehors de la salle de classe. La recherche sur l'efficacité des interventions mesure un effet en contexte contrôlé, pas la résistance de cet effet une fois l'élève rentré chez lui, exposé de nouveau au design addictif détaillé au chapitre 16 sans aucun relais adulte cohérent avec ce qui a été enseigné.
 
 **Bons réflexes.**
 - Coordonner, quand c'est possible, une intervention scolaire d'éducation aux médias avec une sensibilisation parallèle des parents, pour que le message reçu en classe trouve un écho cohérent à la maison plutôt que d'y être immédiatement contredit ou ignoré.
 - Ne jamais déléguer entièrement à l'école la responsabilité de l'éducation aux médias d'un enfant : la boîte à outils du chapitre 10, pensée pour un usage individuel et familial, reste un complément nécessaire, pas une option secondaire.
+
+### 20.7 Ce que ce dernier chapitre change dans la lecture de tout le guide
+
+Ce guide s'est ouvert sur une histoire, celle d'un web qui bascule de la lecture à la participation (chapitre 1), et se referme sur ce que la recherche valide pour aider chacun à naviguer cette participation plutôt que la subir. Entre les deux, les mécanismes de conception (chapitre 2), le cerveau (chapitre 3), les algorithmes (chapitre 4), l'image de soi (chapitre 5), le couple (chapitre 6), l'amour (chapitre 7), la sécurité (chapitre 8), le prix caché (chapitre 9), la boîte à outils individuelle (chapitre 10), le modèle économique (chapitre 11), le travail des créateurs (chapitre 12), la géopolitique (chapitre 13 et 14), le coût social (chapitre 15), l'adolescence (chapitre 16), les populations spécifiques (chapitre 17), l'enfance (chapitre 18) et les usages détournés (chapitre 19) ont chacun ajouté une pièce à un même constat : les réseaux sociaux ne sont ni un simple outil neutre ni une menace à fuir, ils sont une infrastructure conçue avec des objectifs précis, qu'il vaut mieux connaître pour choisir, plutôt que subir, la place qu'on leur laisse.
+
+La leçon de natation de ce chapitre a une limite qu'il faut nommer : contrairement à une piscine, l'eau des réseaux sociaux ne reste jamais tout à fait la même d'une année sur l'autre. Le geste appris aujourd'hui devra être réajusté demain, à mesure que les plateformes elles-mêmes se transforment, ce qui fait de l'éducation aux médias un exercice permanent plutôt qu'un diplôme obtenu une fois pour toutes.
 
 ## Sources vérifiables
 

@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # Ce que les algorithmes font de nous
 
+Un miroir de fête foraine ne ment jamais ouvertement : il renvoie bien une image de la personne qui s'y regarde, mais déformée dans le sens qui produit le plus d'effet, plus large ici, plus étiré là. Le fil algorithmique fonctionne sur ce même principe de miroir déformant : il ne montre jamais un contenu totalement étranger à ce qu'on aime déjà, il renvoie une version amplifiée de ce qu'on a montré vouloir voir, jusqu'à ce que l'image déformée finisse par sembler plus vraie que le reflet d'origine.
+
 ### 4.1 Ce qu'un algorithme de recommandation optimise vraiment
 
 Un algorithme de recommandation n'essaie pas de montrer "le meilleur contenu" au sens absolu : il essaie de prédire ce qui maximisera un signal mesurable, le plus souvent le temps passé, le taux de clic ou le taux d'interaction. Ce choix d'objectif, purement technique en apparence, a une conséquence directe : un contenu qui suscite de l'indignation ou de l'inquiétude génère généralement plus d'interactions qu'un contenu neutre, donc l'algorithme apprend, sans intention explicite de nuire, à en montrer davantage. Ce n'est pas un biais idéologique du système, c'est la conséquence mécanique de l'objectif qu'on lui a fixé.
@@ -36,7 +38,7 @@ Ce que les sections précédentes décrivent au niveau de l'opinion et de l'info
 
 Cette expérience a suscité une controverse éthique majeure, notamment sur l'absence de consentement éclairé des utilisateurs concernés, et une note de préoccupation éditoriale a été publiée a posteriori par la revue elle-même. Elle reste néanmoins la démonstration la plus directe qu'un simple choix de curation algorithmique, invisible pour l'utilisateur, peut modifier son état émotionnel réel, pas seulement les informations ou opinions auxquelles il est exposé.
 
-**Nuance nécessaire.** Ici encore, tout le monde n'est pas égal face à ce mécanisme. Une personne dotée d'un fort esprit critique préexistant, ou d'un réseau social diversifié dans la vraie vie, résiste mieux à l'enfermement algorithmique qu'une personne isolée, pour qui le fil devient la principale, voire l'unique, fenêtre sur l'actualité et les opinions des autres. C'est une nouvelle illustration de la règle du chapitre 3 : le mécanisme est structurel, l'ampleur de l'effet dépend du contexte de vie de la personne qui le subit.
+⚖️ **Nuance nécessaire.** Ici encore, tout le monde n'est pas égal face à ce mécanisme. Une personne dotée d'un fort esprit critique préexistant, ou d'un réseau social diversifié dans la vraie vie, résiste mieux à l'enfermement algorithmique qu'une personne isolée, pour qui le fil devient la principale, voire l'unique, fenêtre sur l'actualité et les opinions des autres. C'est une nouvelle illustration de la règle du chapitre 3 : le mécanisme est structurel, l'ampleur de l'effet dépend du contexte de vie de la personne qui le subit.
 
 ### 4.5 Micro-ciblage publicitaire et exploitation des données personnelles
 
@@ -44,12 +46,16 @@ Le modèle économique de la plupart des réseaux sociaux repose sur la publicit
 
 Ce cas est spectaculaire, mais le mécanisme qu'il illustre est ordinaire et permanent : la collecte de données comportementales à des fins de ciblage publicitaire est le modèle économique par défaut de la plupart des plateformes gratuites, pas une dérive exceptionnelle. Le cadre juridique qui encadre cette collecte en Europe est traité au chapitre 8.
 
+👁️ **Vu de l'autre côté.** La plupart des personnes concernées par le scandale Cambridge Analytica n'ont jamais su, sur le moment, qu'elles participaient à quoi que ce soit : elles avaient simplement répondu à un quiz de personnalité partagé par un ami, sans lien apparent avec la politique. Ce que ça change de le découvrir après coup, ce n'est pas seulement une question de vie privée abstraite : c'est réaliser qu'un choix d'apparence anodine, fait un jour ordinaire, a nourri un profilage qu'on n'a jamais consenti à donner, ni même imaginé possible au moment de cliquer.
+
 **Bons réflexes**
 
 - Diversifier volontairement ses sources d'information plutôt que de s'en remettre uniquement au fil recommandé : chercher activement un point de vue contradictoire, au moins de temps en temps.
-- Se méfier davantage d'un contenu qui déclenche une émotion forte et immédiate avant de le partager : c'est précisément le type de contenu que la structure de diffusion favorise, qu'il soit vrai ou non.
+- Interrogez tout contenu qui déclenche une émotion forte et immédiate avant de le partager : c'est précisément le type de contenu que la structure de diffusion favorise, qu'il soit vrai ou non.
 - Vérifier régulièrement, dans les réglages de confidentialité de chaque plateforme, quelles données sont collectées et à quelles fins, plutôt que de présumer qu'elles sont neutres.
 - Se désabonner activement des comptes qui déclenchent systématiquement de l'anxiété ou de l'indignation plutôt que de laisser l'algorithme continuer à en proposer, geste détaillé au chapitre 10.
+
+Le miroir de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai miroir de fête foraine, celui-ci se règle en continu, séance après séance, sur chaque clic qu'on lui donne. On ne le regarde jamais deux fois de façon identique, ce qui rend la déformation d'autant plus difficile à repérer de l'intérieur.
 
 ## Sources vérifiables
 

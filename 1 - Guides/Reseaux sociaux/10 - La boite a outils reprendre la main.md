@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # La boîte à outils : reprendre la main
 
+Un bricoleur qui ouvre une vraie boîte à outils ne sort jamais la scie pour visser, ni le marteau pour couper : chaque outil répond à un problème précis, et prendre le mauvais aggrave souvent la situation plutôt que de la résoudre. Les dix leviers de ce chapitre fonctionnent sur ce même principe d'outil dédié : chacun répond au mécanisme précis décrit dans un chapitre antérieur de ce guide, pas à "les réseaux sociaux" en général.
+
 ### 10.1 Pourquoi ce chapitre ne propose pas de tout supprimer
 
 Ce guide a documenté, chapitre après chapitre, des mécanismes réels et des effets mesurés. Il serait pourtant malhonnête d'en conclure qu'il faudrait supprimer tous ses comptes. [Une revue systématique portant sur 26 études et plus de 8 000 participants montre que les interventions de "détox numérique" réduisent significativement les symptômes dépressifs chez les personnes déjà en difficulté, mais n'ont pas d'effet significatif démontré sur le bien-être général, la satisfaction de vie ou le niveau de stress pour l'ensemble des utilisateurs](https://pubmed.ncbi.nlm.nih.gov/39280291/) (revue systématique et méta-analyse sur la détox numérique et la santé mentale, *Cyberpsychology, Behavior, and Social Networking*, 2024 ; vérification du 13 août 2026). Une suppression radicale n'est donc pas la réponse universelle que l'intuition suggère : elle aide surtout les profils déjà vulnérables, et son effet reste modeste pour la majorité.
@@ -52,7 +54,9 @@ Le chapitre 5 a noté qu'une interdiction sèche pousse souvent vers un usage ca
 
 Le chapitre 6 a montré l'effet corrosif du phubbing sur la satisfaction relationnelle. La réponse la plus documentée n'est pas une interdiction générale du téléphone, difficile à tenir et souvent ressentie comme punitive, mais des règles explicites et négociées à deux : pas de téléphone à table, pas de téléphone au lit, un signal convenu pour indiquer qu'on souhaite l'attention pleine de l'autre. Voir le guide [Questions et communication](<../Questions et communication/README.md>) pour les formulations qui permettent de poser ce type de règle sans qu'elle sonne comme un reproche.
 
-**Nuance nécessaire, pour clore ce guide.** Aucun de ces leviers n'est une obligation morale : appliquer un seul d'entre eux, celui qui répond le mieux à sa propre difficulté principale, vaut mieux qu'essayer de tous les mettre en place à la fois et abandonner faute de temps. Et pour une part significative des utilisateurs, dont l'usage reste majoritairement actif et choisi, aucun de ces ajustements n'est même nécessaire : ce chapitre s'adresse en priorité à qui reconnaît, dans les chapitres précédents, un schéma qui lui coûte réellement quelque chose.
+⚖️ **Nuance nécessaire, pour clore ce guide.** Aucun de ces leviers n'est une obligation morale : appliquer un seul d'entre eux, celui qui répond le mieux à sa propre difficulté principale, vaut mieux qu'essayer de tous les mettre en place à la fois et abandonner faute de temps. Et pour une part significative des utilisateurs, dont l'usage reste majoritairement actif et choisi, aucun de ces ajustements n'est même nécessaire : ce chapitre s'adresse en priorité à qui reconnaît, dans les chapitres précédents, un schéma qui lui coûte réellement quelque chose.
+
+La boîte à outils de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai coffret, aucun outil ici ne se range définitivement une fois utilisé. Un réglage activé aujourd'hui peut être désactivé par une mise à jour de l'application demain, ce qui suppose de revenir vérifier de temps en temps que l'outil choisi fait toujours le travail attendu.
 
 **Bons réflexes, en synthèse**
 

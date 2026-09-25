@@ -10,11 +10,15 @@ licence: "CC BY 4.0"
 
 # Ce que ça change dans le couple et les liens réels
 
+Un dîner à deux prévu depuis longtemps peut être totalement gâché par un invité surprise qui s'installe sans y être convié, capte l'attention, interrompt les silences, et repart sans jamais s'excuser. Le téléphone, posé sur la table entre deux personnes en couple, joue exactement ce rôle d'invité fantôme : personne ne l'a formellement invité à la conversation, et pourtant il finit par y prendre toute la place.
+
 ### 6.1 Le phubbing : quand le téléphone devient un tiers dans la conversation
 
 Le mot phubbing, contraction de "phone" et "snubbing" (snober), désigne le fait de se laisser distraire par son téléphone pendant une interaction en face à face avec quelqu'un. Ce n'est pas qu'une gêne ponctuelle : [une étude menée auprès de 145 adultes en couple montre que le phubbing perçu par le partenaire réduit la satisfaction conjugale, en partie parce qu'il génère des conflits directement liés à l'usage du téléphone, et que cette baisse de satisfaction est elle-même associée à davantage de dépression et une moindre satisfaction de vie chez le partenaire qui la subit](https://kellercenter.hankamer.baylor.edu/news/story/2017/partner-phubbing-how-cell-phones-impact-romantic-partnerships) (Roberts, J. A. & David, M. E., "My Life Has Become a Major Distraction From My Cell Phone", *Computers in Human Behavior*, 2016 ; vérification du 13 août 2026).
 
 Ce qui rend le phubbing particulièrement corrosif n'est pas seulement le temps qu'il prend, c'est le message implicite qu'il envoie : la personne en face comprend, sans qu'on ait besoin de le dire, qu'un contenu inconnu sur un écran l'emporte à cet instant sur la conversation en cours. C'est un message répété, souvent inconscient chez celui qui l'émet.
+
+💑 **Dans le couple.** L'invité fantôme ne s'installe presque jamais d'un coup : il grignote d'abord les silences (le moment où on attendait autrefois que l'autre parle), puis les repas, puis le lit. Un couple qui n'a jamais nommé explicitement sa place autour de la table finit par négocier son existence en silence, chacun l'acceptant un peu plus que l'autre ne le voudrait, sans jamais avoir posé la question à voix haute.
 
 ### 6.2 La consumérisation des relations : choisir un partenaire comme un produit
 
@@ -46,7 +50,7 @@ Les canaux numériques offrent une possibilité que la conversation en face à f
 
 Ce mécanisme n'est pas propre aux situations de rupture : il s'étend à l'ensemble des petites frictions ordinaires de la vie relationnelle, poser une limite, dire non à une sollicitation, exprimer un inconfort. Chaque fois qu'un canal à faible friction est disponible, il devient tentant de l'utiliser pour éviter l'inconfort d'un échange en direct, ce qui peut, à force de répétition, réduire la capacité à tenir une conversation difficile en face à face quand aucun autre canal n'est disponible. Le ghosting, traité en détail au chapitre 7, en est la forme la plus radicale : la disparition plutôt que l'explication.
 
-**Nuance nécessaire.** Aucun de ces effets n'est une fatalité mécanique. Un couple qui pose des règles explicites sur l'usage du téléphone en présence l'un de l'autre, ou une personne qui cultive délibérément des relations réciproques dans le monde réel en parallèle de ses relations parasociales, réduit fortement l'ampleur de ces effets. La communication explicite sur ces usages, plutôt que le ressentiment silencieux, reste le levier le plus documenté pour éviter que ces mécanismes ne s'installent durablement dans un couple. Voir le guide [Questions et communication](<../Questions et communication/README.md>) pour les formulations concrètes à ce sujet.
+⚖️ **Nuance nécessaire.** Aucun de ces effets n'est une fatalité mécanique. Un couple qui pose des règles explicites sur l'usage du téléphone en présence l'un de l'autre, ou une personne qui cultive délibérément des relations réciproques dans le monde réel en parallèle de ses relations parasociales, réduit fortement l'ampleur de ces effets. La communication explicite sur ces usages, plutôt que le ressentiment silencieux, reste le levier le plus documenté pour éviter que ces mécanismes ne s'installent durablement dans un couple. Voir le guide [Questions et communication](<../Questions et communication/README.md>) pour les formulations concrètes à ce sujet.
 
 **Bons réflexes**
 
@@ -54,6 +58,8 @@ Ce mécanisme n'est pas propre aux situations de rupture : il s'étend à l'ense
 - Avant une première rencontre issue du virtuel, réduire volontairement l'idéalisation en se concentrant sur des faits vérifiables plutôt que sur une image construite mentalement.
 - Repérer les moments où l'attention donnée à un créateur de contenu suivi quotidiennement dépasse celle donnée à ses relations réciproques réelles, sans culpabiliser mais en rééquilibrant consciemment.
 - En cas de phubbing répété subi, le nommer factuellement plutôt que de laisser le ressentiment s'accumuler : "quand tu regardes ton téléphone pendant qu'on se parle, je me sens moins important pour toi à cet instant" plutôt qu'un reproche global.
+
+L'invité fantôme de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai invité, il ne repart jamais de lui-même. C'est toujours l'un des deux membres du couple qui doit, activement, décider de le renvoyer, ce qui suppose d'abord de reconnaître qu'il est là.
 
 ## Sources vérifiables
 

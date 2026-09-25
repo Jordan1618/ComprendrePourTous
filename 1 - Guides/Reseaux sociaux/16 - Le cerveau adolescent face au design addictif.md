@@ -28,11 +28,11 @@ Le chapitre 3 a détaillé les mécanismes généraux du cerveau face à l'écra
 
 [Pendant la puberté, le cerveau devient plus sensible aux signaux sociaux et émotionnels ; chez les filles, ces changements surviennent souvent plus tôt et plus intensément, ce qui contribue à expliquer pourquoi les adolescentes sont touchées de façon disproportionnée par l'anxiété et la dépression liées aux réseaux sociaux](https://theconversation.com/neuroscience-explains-why-teens-are-so-vulnerable-to-big-tech-social-media-platforms-278521) (vérification du 16 septembre 2026).
 
-**Nuance nécessaire.** Ce constat statistique moyen ne signifie pas que les garçons seraient épargnés, ni que chaque adolescente serait affectée de la même façon : c'est une différence de trajectoire développementale moyenne, pas une prédiction individuelle fiable, exactement le même type de nuance déjà appliqué aux différences physiologiques ailleurs dans ce projet.
+⚖️ **Nuance nécessaire.** Ce constat statistique moyen ne signifie pas que les garçons seraient épargnés, ni que chaque adolescente serait affectée de la même façon : c'est une différence de trajectoire développementale moyenne, pas une prédiction individuelle fiable, exactement le même type de nuance déjà appliqué aux différences physiologiques ailleurs dans ce projet.
 
 **Bons réflexes.**
-- Pour un parent, retenir que la vulnérabilité décrite ici n'est pas un trait de caractère de l'adolescent concerné, c'est une caractéristique développementale normale et temporaire, qui ne dit rien de sa force de volonté personnelle.
-- Retarder, dans la mesure du possible, l'exposition à un design conçu pour capter l'attention pendant les phases les plus sensibles de la puberté documentées ci-dessus, plutôt que de considérer l'âge d'accès comme un détail secondaire.
+- Pour un parent, gardez en tête que la vulnérabilité décrite ici n'est pas un trait de caractère de l'adolescent concerné, c'est une caractéristique développementale normale et temporaire, qui ne dit rien de sa force de volonté personnelle.
+- Retardez, dans la mesure du possible, l'exposition à un design conçu pour capter l'attention pendant les phases les plus sensibles de la puberté documentées ci-dessus, plutôt que de considérer l'âge d'accès comme un détail secondaire.
 - Nommer explicitement ce mécanisme avec un adolescent plutôt que de simplement limiter le temps d'écran sans explication : comprendre pourquoi son propre cerveau répond si fortement à ces sollicitations reste, d'après la littérature sur l'éducation aux médias (chapitre 20), plus efficace qu'une interdiction non expliquée.
 
 ### 16.4 Pourquoi le design compte autant que le contenu
@@ -41,15 +41,23 @@ Une distinction importante mérite d'être posée explicitement : la vulnérabil
 
 **Bons réflexes.**
 - Privilégier, quand elles existent, les versions ou paramètres d'application spécifiquement conçus pour un public plus jeune (sans défilement infini, sans compteur public de likes) plutôt que l'application standard avec de simples restrictions de contenu.
-- Garder à l'esprit que limiter uniquement le contenu regardé, sans agir sur le design de l'interface elle-même, laisse intact le mécanisme neurologique le plus documenté par la recherche de ce chapitre.
+- Gardez en tête que limiter uniquement le contenu regardé, sans agir sur le design de l'interface elle-même, laisse intact le mécanisme neurologique le plus documenté par la recherche de ce chapitre.
 
 ### 16.5 Ce que ça n'implique pas : interdire n'est pas comprendre
 
-**Nuance nécessaire.** Documenter une vulnérabilité neurologique réelle ne débouche pas automatiquement sur la conclusion "il faut interdire les réseaux sociaux aux adolescents". Une interdiction pure et simple, sans accompagnement ni explication, prive l'adolescent des bénéfices réels également documentés ailleurs dans ce guide (maintien du lien social, accès à des communautés de soutien pour les jeunes isolés, voir le chapitre 17.2), tout en ne réglant rien une fois la restriction levée à la majorité, sans qu'aucune compréhension du mécanisme n'ait été transmise entre-temps.
+⚖️ **Nuance nécessaire.** Documenter une vulnérabilité neurologique réelle ne débouche pas automatiquement sur la conclusion "il faut interdire les réseaux sociaux aux adolescents". Une interdiction pure et simple, sans accompagnement ni explication, prive l'adolescent des bénéfices réels également documentés ailleurs dans ce guide (maintien du lien social, accès à des communautés de soutien pour les jeunes isolés, voir le chapitre 17.2), tout en ne réglant rien une fois la restriction levée à la majorité, sans qu'aucune compréhension du mécanisme n'ait été transmise entre-temps.
 
 **Bons réflexes.**
 - Privilégier une exposition progressive et accompagnée plutôt qu'un accès brutal et total au passage d'un âge donné, une transition qui laisse le temps au cortex préfrontal encore en construction de développer ses propres réflexes de régulation.
 - Modéliser soi-même, en tant qu'adulte, un usage réfléchi des réseaux sociaux : un adolescent apprend davantage par observation du comportement réel de son entourage que par un discours théorique sur les dangers du design addictif.
+
+### 16.6 Ce que cette fenêtre de vulnérabilité rend particulièrement urgent
+
+Le chapitre 8.7 a détaillé la loi française sur la majorité numérique fixée à 15 ans. Ce chapitre éclaire directement pourquoi ce seuil précis, plutôt qu'un autre, a été choisi par le législateur : il correspond approximativement à la période où la sensibilité au retour social documentée en 16.1 et 16.3 atteint son intensité la plus forte, avant que le cortex préfrontal n'ait fini de développer ses propres capacités de régulation. Fixer un seuil d'accès autonome avant cette fenêtre, sans accompagnement parental, revient à exposer un cerveau au moment précis où sa vulnérabilité au design addictif culmine.
+
+Cette convergence entre le seuil légal et la fenêtre de vulnérabilité neurologique n'est pas un hasard de calendrier : elle reflète une prise en compte, encore rare dans la législation numérique mondiale, des données de développement cérébral dans la définition même d'un cadre réglementaire. Peu de pays ont, à ce jour, fait ce même effort d'alignement entre seuil légal et connaissance scientifique du développement adolescent.
+
+La route dangereuse de ce chapitre a une limite qu'il faut nommer : contrairement à une vraie route, personne ne peut simplement en fermer l'accès à un adolescent le temps que ses freins finissent de se monter. Il continue d'y circuler, la question n'est donc jamais de l'en éloigner totalement mais de l'accompagner tant que le véhicule reste incomplet.
 
 ## Sources vérifiables
 

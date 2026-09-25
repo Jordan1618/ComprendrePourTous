@@ -10,6 +10,8 @@ licence: "CC BY 4.0"
 
 # Les nouvelles dérives amoureuses numériques
 
+Un rayon de supermarché avec cinquante variétés du même produit ne rend jamais l'achat plus facile : le client hésite davantage, compare plus longtemps, et repart parfois les mains vides, persuadé qu'un meilleur choix existait un rayon plus loin. Les applications de rencontre reproduisent ce rayon sans fin, et les cinq comportements de ce chapitre, du FOBO au love bombing, sont autant de façons de réagir à cette surabondance de rayons : hésiter sans jamais choisir, garder plusieurs paniers en réserve, ou au contraire se précipiter sur le premier article par peur de le perdre.
+
 ### 7.1 FOBO : quand la peur de rater mieux empêche de choisir
 
 Le paradoxe du choix, présenté au chapitre 6, prend une forme spécifique dans les rencontres en ligne, désignée par l'acronyme FOBO (fear of better options, peur de passer à côté d'une meilleure option). [Le mécanisme découle directement des travaux de Barry Schwartz sur la surabondance de choix : plus les options perçues sont nombreuses, plus le stress décisionnel augmente et plus la satisfaction ressentie une fois un choix fait diminue, un effet documenté aussi bien pour des biens de consommation que pour des décisions relationnelles](https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice) (Schwartz, B., *The Paradox of Choice: Why More Is Less*, Ecco, 2004 ; vérification du 13 août 2026).
@@ -21,6 +23,8 @@ Une application de rencontre rend ce mécanisme presque structurel : le profil s
 Le ghosting est défini dans la littérature académique comme une stratégie de rupture par laquelle une personne cesse brutalement toute communication pour mettre fin à une relation, sans explication ni confrontation directe, souvent via un ou plusieurs canaux numériques. [Une étude menée auprès de 333 adultes américains rapporte que 72 % des participants déclaraient avoir déjà été victimes de ghosting, et 64,5 % avoir eux-mêmes ghosté un partenaire](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7037474/) (Koessler, R. B. et coll., "Psychological Correlates of Ghosting and Breadcrumbing Experiences", *Behavioral Sciences*, 2019 ; vérification du 13 août 2026).
 
 Le ghosting doit sa prévalence à une facilité structurelle propre aux canaux numériques : rompre en personne ou par téléphone impose une confrontation directe avec la réaction de l'autre, alors que rompre en cessant simplement de répondre à des messages ne le demande pas. Cette facilité technique n'annule pas l'impact psychologique du côté de la personne ghostée, souvent marqué par une incompréhension prolongée faute d'explication.
+
+🗣️ **Témoignage réel.** [Umber Bhatti, 29 ans, fréquentait quelqu'un depuis environ huit mois pendant la pandémie et prévoyait de le présenter à ses amis lors de son anniversaire ; il n'est jamais venu, et n'a plus jamais répondu](https://www.npr.org/2025/02/14/nx-s1-5277169/listeners-share-their-experiences-with-ghosting) (Umber Bhatti, témoignage publié sur NPR ; vérification du 25 septembre 2026). Elle raconte s'être appuyée sur ses amis et sa communauté pour traverser cette période, et précise que si elle a avancé depuis, l'épisode est resté marquant.
 
 ### 7.3 Le breadcrumbing : entretenir sans jamais engager
 
@@ -34,7 +38,7 @@ Ces deux termes sont d'origine journalistique et populaire plutôt qu'académiqu
 
 Le cushioning consiste à entretenir plusieurs contacts flirteurs en parallèle d'une relation en cours, engagée ou non, de façon à disposer d'un filet de sécurité si celle-ci ne fonctionne pas. Le benching consiste à garder quelqu'un "sur le banc" : ni rompre, ni s'engager, simplement maintenir un contact suffisant pour garder l'option ouverte, le temps d'évaluer d'autres possibilités. [Les professionnels qui documentent ce phénomène le distinguent du ghosting précisément par le maintien d'un contact, même minimal, plutôt qu'une coupure totale](https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202307/the-new-benching-dating-trend) (Psychology Today, "The New 'Benching' Dating Trend", 2023 ; vérification du 13 août 2026).
 
-Les deux comportements s'appuient sur la même infrastructure que le FOBO du 7.1 : la disponibilité permanente d'options alternatives, rendue triviale par les applications de rencontre, abaisse le coût perçu de garder plusieurs pistes ouvertes en même temps.
+Les deux comportements s'appuient sur la même infrastructure que le FOBO du 7.1 : la disponibilité permanente d'options alternatives, rendue triviale par les applications de rencontre, abaisse le coût perçu de garder plusieurs paniers ouverts en même temps dans ce même rayon sans fin.
 
 ### 7.5 Le love bombing : l'intensité prise pour de la compatibilité
 
@@ -52,7 +56,7 @@ Cette lecture structurelle ne dédouane personne : elle explique pourquoi ces co
 
 Ces comportements ne sont pas tous équivalents en gravité. Le ghosting isolé, désagréable, reste souvent une maladresse ordinaire de communication plutôt qu'une manipulation délibérée. Le love bombing suivi d'un contrôle croissant, en revanche, peut être le signe avant-coureur d'un schéma relationnel coercitif, à ne jamais banaliser : voir la notion [Contrôle coercitif](<../../2 - Notions/Contrôle coercitif.md>) et la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>).
 
-**Nuance nécessaire.** Reconnaître ces schémas ne doit pas conduire à interpréter systématiquement tout comportement ambigu comme une manipulation intentionnelle : un silence de deux jours n'est pas du breadcrumbing, une déclaration sincère mais précoce n'est pas du love bombing. La différence tient à la répétition du schéma et à sa fonction, maintenir sans engager, plutôt qu'à un incident isolé.
+⚖️ **Nuance nécessaire.** Reconnaître ces schémas ne doit pas conduire à interpréter systématiquement tout comportement ambigu comme une manipulation intentionnelle : un silence de deux jours n'est pas du breadcrumbing, une déclaration sincère mais précoce n'est pas du love bombing. La différence tient à la répétition du schéma et à sa fonction, maintenir sans engager, plutôt qu'à un incident isolé.
 
 **Bons réflexes**
 
@@ -61,9 +65,12 @@ Ces comportements ne sont pas tous équivalents en gravité. Le ghosting isolé,
 - Ne jamais transformer un ghosting subi en jugement définitif sur sa propre valeur : dans la majorité des cas documentés, il reflète l'évitement de la confrontation chez l'autre, pas un verdict sur la personne ghostée.
 - Avant de rompre soi-même, préférer un message bref mais direct au silence complet, quand la situation le permet en sécurité : c'est un des points de communication explicite les plus utiles pour ne pas reproduire ce qu'on a soi-même détesté subir.
 
+Le rayon sans fin de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai supermarché, il n'y a jamais de caisse où finalement poser son choix et sortir. Le rayon continue de s'actualiser en permanence, ce qui rend la sortie elle-même, choisir vraiment et s'y tenir, plus difficile que le choix lui-même.
+
 ## Sources vérifiables
 
 - Schwartz, B. (2004), [The Paradox of Choice: Why More Is Less](https://thedecisionlab.com/reference-guide/economics/the-paradox-of-choice), Ecco — paradoxe du choix et FOBO ; vérification du 13 août 2026.
 - Koessler, R. B. et coll. (2019), [Psychological Correlates of Ghosting and Breadcrumbing Experiences: A Preliminary Study among Adults](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7037474/), *Behavioral Sciences* — prévalence et définitions du ghosting et du breadcrumbing ; vérification du 13 août 2026.
 - Psychology Today (2023), [The New 'Benching' Dating Trend](https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202307/the-new-benching-dating-trend) — définition du benching ; vérification du 13 août 2026.
 - Choosing Therapy, [Love Bombing: Definition, Signs, & How to Heal](https://www.choosingtherapy.com/love-bombing/) — synthèse clinique sur le love bombing ; vérification du 13 août 2026.
+- NPR, [témoignage d'Umber Bhatti sur le ghosting](https://www.npr.org/2025/02/14/nx-s1-5277169/listeners-share-their-experiences-with-ghosting), témoignage réel ; vérification du 25 septembre 2026.

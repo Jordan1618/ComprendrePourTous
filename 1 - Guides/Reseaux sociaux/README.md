@@ -3,7 +3,7 @@ type: "guide"
 guide: "Réseaux sociaux"
 sujet: "commun"
 chapitres: 20
-mots: 25233
+mots: 30295
 verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 ---
@@ -59,6 +59,6 @@ Il complète naturellement le guide [Questions et communication](<../Questions e
 - **Un enfant ou un adolescent, et la question de ce qu'on publie de lui** : chapitre 18.
 - **Mettre en place une éducation aux médias qui fonctionne, en famille ou à l'école** : chapitre 20.
 
-Total : 25 233 mots, 20 chapitres.
+Total : 30 295 mots, 20 chapitres.
 
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

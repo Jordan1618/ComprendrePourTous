@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Réseaux sociaux"
-mis_a_jour_le: 2026-09-17
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -77,6 +77,7 @@ Sources du guide [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/README.md>), 
 | Koessler, R. B. et coll. (2019), [Psychological Correlates of Ghosting and Breadcrumbing Experiences](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7037474/), *Behavioral Sciences* | Prévalence et définitions du ghosting et du breadcrumbing | 7 |
 | Psychology Today (2023), [The New 'Benching' Dating Trend](https://www.psychologytoday.com/us/blog/a-funny-bone-to-pick/202307/the-new-benching-dating-trend) | Définition du benching | 7 |
 | Choosing Therapy, [Love Bombing: Definition, Signs, & How to Heal](https://www.choosingtherapy.com/love-bombing/) | Synthèse clinique sur le love bombing | 7 |
+| NPR, [témoignage d'Umber Bhatti sur le ghosting](https://www.npr.org/2025/02/14/nx-s1-5277169/listeners-share-their-experiences-with-ghosting), témoignage réel | Vécu réel du ghosting | 7 |
 
 ## Cyberharcèlement, modération et cadre légal
 
@@ -114,7 +115,10 @@ Sources du guide [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/README.md>), 
 | [The Emotional and Financial Impact of De-Platforming on Creators at the Margins](https://journals.sagepub.com/doi/10.1177/20563051231155103) | Impact du déplateformement chez les créateurs marginalisés | 12 |
 | [Banning TikTok: Turning point for U.S. data security or threat to free speech?](https://www.ohio.edu/news/2025/01/banning-tiktok-turning-point-u-s-data-security-or-threat-free-speech) | Décision de la Cour suprême et enjeux de sécurité nationale | 13 |
 | [Beyond the Ban: TikTok and the Politics of Digital Sovereignty in the EU and US](https://www.cogitatiopress.com/politicsandgovernance/article/view/10461) | Comparaison des discours de souveraineté numérique | 13 |
+| NPR, [TikTok signs deal to give U.S. operations to Oracle-led investor group](https://www.npr.org/2025/12/18/nx-s1-5648844/tiktok-deal-oracle-trump) | Dénouement de la cession des activités américaines de TikTok | 13 |
 | [A guide to the Digital Services Act, the EU's law to rein in Big Tech](https://algorithmwatch.org/en/dsa-explained/) | Fonctionnement et portée du DSA, comparaison UE/US/Chine | 14 |
+| Yale Law School, [China's Cybersecurity Administration Cracks Down on Free Speech](https://law.yale.edu/mfia/case-disclosed/chinas-cybersecurity-administration-cracks-down-free-speech) | Autorité de la CAC et loi de cybersécurité chinoise | 14 |
+| Chatham House, [Restrictions on online freedom of expression in China](https://www.chathamhouse.org/2021/03/restrictions-online-freedom-expression-china/chinas-domestic-restrictions-online-freedom) | Intégration du contrôle du contenu au cadre légal chinois | 14 |
 | [Social Media Costs Society $3.2T Annually](https://www.suffering.social/) | Estimation du coût économique et humain agrégé | 15 |
 | [Economic burden of the therapeutic management of mental illnesses](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6130881/) | Catégories de coûts (directs, indirects, non quantifiables) | 15 |
 | [Economic Burden Associated With Untreated Mental Illness in Indiana](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10576212/) | Étude de cas régionale chiffrée | 15 |
@@ -134,6 +138,8 @@ Sources du guide [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/README.md>), 
 | [Sharenting: characteristics and awareness of parents publishing sensitive content of their children](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11290302/) | Ampleur du phénomène et conscience des risques | 18 |
 | American Psychiatric Association, ['Sharenting': How Parents' Social Media Posts About Their Kids May Impact Kids and Families](https://www.psychiatry.org/news-room/apa-blogs/sharenting-parents-social-media-impact-kids) | Risques concrets pour l'enfant | 18 |
 | [Mindful sharenting: how millennial parents balance between sharing and protecting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10407087/) | Équilibre entre partage et protection | 18 |
+| NPR, [témoignage de Lou, "The Sunday Story: Permission to Share"](https://www.npr.org/2023/07/06/1186221489/the-sunday-story-permission-to-share), témoignage réel | Vécu d'un enfant devenu adulte, "sharenté" par sa mère | 18 |
+| Ministère de l'Économie, [Lettre de la DAJ sur la loi n° 2024-120 du 19 février 2024](https://www.economie.gouv.fr/daj/lettre-de-la-daj-respect-du-droit-limage-des-enfants-les-apports-de-la-loi-du-19-fevrier-2024) | Droit à l'image de l'enfant en France | 18 |
 | [What Happens to My Instagram Account After I Die?](https://link.springer.com/chapter/10.1007/978-3-030-85616-8_26) | Commémoration numérique et deuil collectif | 19 |
 | [Can Women Break the Glass Ceiling?: An Analysis of #MeToo Hashtagged Posts on Twitter](https://arxiv.org/pdf/1906.00896) | Fonction du mouvement #MeToo comme espace de parole collectif | 19 |
 | [Media Literacy Interventions Improve Resilience to Misinformation](https://journals.sagepub.com/doi/10.1177/00936502241288103) | Efficacité mesurée des interventions d'éducation aux médias | 20 |

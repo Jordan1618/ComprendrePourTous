@@ -312,8 +312,22 @@ Les 20 chapitres en chirurgie ont tous été repris ; le chapitre 12, jugé « r
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
 
-### Prochain guide dans l'ordre du tableau maître : Réseaux sociaux (20 chapitres, priorité moyenne)
+## Réseaux sociaux — TERMINÉ (25/09/2026)
+
+Les 20 chapitres en chirurgie ont tous été repris (aucune réécriture nécessaire, verdict confirmé par l'audit). C'était le guide le mieux tenu des deux audités à ce stade sur le fond (fil intact partout, objets bien définis, études expliquées), mais avec trois défauts transversaux : aucun chapitre au plancher de 1500 mots, le bloc de nuance présent partout mais jamais marqué de l'émoji ⚖️ (texte en gras seul), et les blocs 👁️/💑/🗣️ quasi absents malgré des candidats évidents (dysmorphie des filtres, phubbing, ghosting, sharenting).
+
+- Total du guide : 25 233 → 30 295 mots (20 chapitres, tous désormais au-dessus de 1250 mots, la plupart entre 1300 et 1800).
+- Une analogie filée ajoutée sur les 10 premiers chapitres qui n'en avaient aucune (arbre généalogique des plateformes, casino conçu par des architectes, pêche à l'incertitude, miroir de fête foraine, scène et coulisses de théâtre, invité fantôme à table, rayon de supermarché sans fin, filet de sécurité troué, tiroir jamais vidé, boîte à outils). Les analogies déjà présentes aux chapitres 11-20 ont été conservées et complétées là où le chapitre manquait d'un fil visuel propre (médicament et terrain, livre écrit à la place de l'enfant).
+- Les 20 blocs "Nuance nécessaire" en texte gras converti en blocs ⚖️ Nuance avec l'émoji, conformément à la convention du dépôt.
+- Blocs ajoutés là où l'audit notait leur absence malgré un sujet pertinent : 👁️ sur la dysmorphie liée aux filtres (ch.5) et sur le vécu d'un utilisateur profilé via Cambridge Analytica (ch.4) ; 💑 explicite sur le phubbing comme "invité fantôme" à table (ch.6) ; 🗣️ Témoignage réel ajouté au chapitre 7 (Umber Bhatti, NPR, sur le ghosting) et au chapitre 18 (Lou, NPR, sur le sharenting subi durant l'enfance), les deux trouvés et vérifiés par recherche web.
+- Deux mises à jour factuelles trouvées au second tour de recherche : le dénouement du dossier TikTok (cession à un consortium mené par Oracle, close le 22 janvier 2026, chapitre 13) et la loi française du 19 février 2024 sur le droit à l'image de l'enfant (chapitre 18), toutes deux absentes de la version d'origine.
+- Pipeline complet exécuté (30 315 mots comptés par le script de build, écart mineur accepté), aucun lien cassé spécifique à ce guide au-delà des trois faux positifs d'ancre interne déjà connus, README du guide et README racine mis à jour, réciprocité vérifiée et complétée avec `4 - Sources/Reseaux sociaux.md` (six sources nouvelles ajoutées : témoignages d'Umber Bhatti et de Lou, dénouement TikTok, loi de cybersécurité chinoise, restrictions Chatham House, loi française sur le droit à l'image de l'enfant).
+- Guide entièrement commité.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
+
+### Prochain guide dans l'ordre du tableau maître : Les émotions (20 chapitres, priorité basse)
 
 ## Comment reprendre
 
-Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap et Massage professionnel. Continuer guide par guide sur les sept guides restants (Réseaux sociaux, Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.
+Étapes 0 à 5 faites pour Psychologie de la personnalité, Alimentation, Le sommeil, Pour Nous, La rencontre, IST dépistage et prévention, Maladie grave et handicap, Massage professionnel et Réseaux sociaux. Continuer guide par guide sur les six guides restants (Les émotions, L'amour, Les nouvelles compositions familiales, Pour Lui, Pour Elle, Questions et communication), dans l'ordre du tableau maître (le plus endommagé en premier selon les mesures de l'audit). Ne pas redemander l'arbitrage entre chaque guide — la consigne de l'utilisateur est de continuer et de signaler seulement à la fin de chaque guide.

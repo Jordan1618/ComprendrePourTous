@@ -10,9 +10,11 @@ licence: "CC BY 4.0"
 
 # Le prix caché : ennui, identité, engagement
 
+Un tiroir qu'on vide régulièrement garde une marge de manœuvre, de la place pour ranger une trouvaille inattendue, réorganiser, respirer. Un tiroir qu'on ne vide plus jamais, parce qu'on y entasse en continu, finit par ne plus rien pouvoir accueillir de nouveau. Ce chapitre explore trois tiroirs mentaux que les réseaux sociaux remplissent en continu, sans jamais laisser l'occasion de les vider : l'ennui, l'identité, et l'engagement pour une cause.
+
 ### 9.1 L'ennui comme espace cognitif utile, occupé en permanence
 
-L'ennui a longtemps une mauvaise réputation, comme un état vide à éliminer au plus vite. La recherche en psychologie cognitive suggère l'inverse : c'est un état qui favorise la divagation de l'esprit (mind-wandering), elle-même liée à la production d'idées nouvelles. [Une étude expérimentale a montré que des participants ayant réalisé une tâche volontairement ennuyeuse pendant quinze minutes produisaient davantage de solutions créatives à un problème donné ensuite, comparés à un groupe témoin n'ayant pas traversé cette phase d'ennui](https://www.tandfonline.com/doi/abs/10.1080/10400419.2014.901073) (Mann, S. & Cadman, R., "Does Being Bored Make Us More Creative?", *Creativity Research Journal*, 2014 ; vérification du 13 août 2026).
+L'ennui a longtemps une mauvaise réputation, comme un état vide à éliminer au plus vite. La recherche en psychologie cognitive suggère l'inverse : c'est un état qui favorise la divagation de l'esprit (mind-wandering), elle-même liée à la production d'idées nouvelles. [Une étude expérimentale a montré que des participants ayant réalisé une tâche volontairement ennuyeuse pendant quinze minutes produisaient davantage de solutions créatives à un problème donné ensuite](https://www.tandfonline.com/doi/abs/10.1080/10400419.2014.901073), comparés à un groupe témoin n'ayant pas traversé cette phase d'ennui (Mann, S. & Cadman, R., "Does Being Bored Make Us More Creative?", *Creativity Research Journal*, 2014 ; vérification du 13 août 2026).
 
 Un smartphone à portée de main supprime presque totalement les occasions d'ennui non comblé : la file d'attente, le trajet, la salle d'attente, autrefois des moments creux, deviennent systématiquement des moments de consultation. Le coût de cette disparition n'est pas immédiatement visible, parce qu'il ne se traduit pas par un symptôme identifiable, mais par l'absence d'un espace mental qui servait, sans qu'on en ait toujours conscience, à digérer, relier et générer. Ce chapitre décrit ce prix à l'échelle individuelle ; le chapitre 15 change d'échelle et documente ce que ce même prix représente une fois additionné à celle d'une société entière.
 
@@ -42,7 +44,7 @@ L'épuisement identitaire décrit au 9.3 n'épuise pas à lui seul ce que les r�
 
 Les mécanismes des chapitres 5, 7 et 9 convergent vers un même point d'arrivée : à force d'exposition répétée à des standards visuels retouchés, des rythmes relationnels accélérés et une identité gérée en continu pour plaire à un public large, ces normes construites finissent par être perçues comme la norme réelle, celle à laquelle on se compare pour se juger soi-même. C'est un processus lent, cumulatif, qui ne se vit jamais comme un événement isolé mais comme un déplacement progressif du curseur de ce qui semble "normal".
 
-**Nuance nécessaire.** Aucun de ces effets n'est irréversible ni universel. Une personne qui garde des temps volontairement non connectés, qui limite le nombre de publics auxquels elle s'adresse en ligne, ou qui a une pratique associative réelle en parallèle de son engagement numérique, atténue nettement ces mécanismes. Ils ne relèvent pas non plus d'un déterminisme technologique : ce sont des tendances statistiques, pas des lois qui s'appliqueraient identiquement à chacun.
+⚖️ **Nuance nécessaire.** Aucun de ces effets n'est irréversible ni universel. Une personne qui garde des temps volontairement non connectés, qui limite le nombre de publics auxquels elle s'adresse en ligne, ou qui a une pratique associative réelle en parallèle de son engagement numérique, atténue nettement ces mécanismes. Ils ne relèvent pas non plus d'un déterminisme technologique : ce sont des tendances statistiques, pas des lois qui s'appliqueraient identiquement à chacun.
 
 **Bons réflexes**
 
@@ -50,6 +52,8 @@ Les mécanismes des chapitres 5, 7 et 9 convergent vers un même point d'arrivé
 - Réduire le nombre de publics différents auxquels une même publication s'adresse, en utilisant les listes ou groupes restreints proposés par la plupart des plateformes, plutôt que de publier systématiquement en public.
 - Après un geste de soutien symbolique en ligne pour une cause qui compte réellement, se fixer volontairement une action concrète supplémentaire, pour éviter l'effet de licence morale documenté par la recherche.
 - Se demander périodiquement si un standard perçu comme "normal" (rythme relationnel, apparence, réussite affichée) provient d'une observation réelle et diversifiée, ou seulement d'un fil algorithmique répétitif.
+
+Le tiroir de ce chapitre a une limite qu'il faut nommer : contrairement à un vrai tiroir, personne ne peut simplement le forcer une fois pour toutes à s'ouvrir. Le vider suppose une décision répétée, prise consciemment à chaque occasion (la file d'attente, le trajet, le moment creux), pas un rangement fait une bonne fois pour toutes.
 
 ## Sources vérifiables
 
