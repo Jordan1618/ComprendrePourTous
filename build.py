@@ -39,6 +39,7 @@ def asset_version(name):
 CSS_VERSION = asset_version("style.css")
 JS_VERSION = asset_version("app.js")
 FAVICON_VERSION = asset_version("favicon.svg")
+OG_IMAGE_VERSION = asset_version("og-image.png")
 
 REPO = "https://github.com/Jordan1618/ComprendrePourTous"
 BLOB = REPO + "/blob/main"
@@ -734,6 +735,16 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
 <meta property="og:description" content="%(desc)s">
 <meta property="og:type" content="website">
 <meta property="og:url" content="%(canonical)s">
+<meta property="og:image" content="%(ogimage)s">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="%(site)s">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:site_name" content="%(site)s">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="%(title)s">
+<meta name="twitter:description" content="%(desc)s">
+<meta name="twitter:image" content="%(ogimage)s">
 <link rel="stylesheet" href="/assets/style.css?v=%(cssv)s">
 <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg?v=%(faviconv)s">
 <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
@@ -788,6 +799,7 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
         "cssv": CSS_VERSION,
         "jsv": JS_VERSION,
         "faviconv": FAVICON_VERSION,
+        "ogimage": esc("https://%s/assets/og-image.png?v=%s" % (DOMAIN, OG_IMAGE_VERSION)),
         "nav": nav,
         "body": body,
         "extra_head": extra_head,
