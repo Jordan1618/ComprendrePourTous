@@ -138,26 +138,28 @@ SECTION_HUE = {
     "sources": 96,
 }
 GUIDE_HUE = {
-    # Palette sans violet ni rose vif (retires : jugés trop flashy sur
-    # l'accueil) : vin/brique -> rouille -> terracotta -> ambre -> olive ->
-    # mousse -> sauge -> vert sarcelle -> sarcelle -> bleu ardoise -> bleu ->
-    # indigo -> bleu-nuit -> prune sourde. 15 teintes, une par guide, espacees
-    # pour rester distinguables meme cote a cote sur l'accueil.
-    "pour-elle": 350,
-    "psychologie-de-la-personnalite": 8,
-    "la-rencontre": 18,
-    "les-emotions": 45,
-    "massage-professionnel": 70,
-    "les-nouvelles-compositions-familiales": 95,
-    "alimentation": 112,
-    "questions-et-communication": 130,
+    # 15 teintes sans violet ni rose vif, reparties en 3 familles de 5 sur la
+    # roue chromatique (rouges/ambres, verts/sarcelle, bleus/indigo). La
+    # mosaïque de l'accueil affiche les guides par rangees de 3 (GUIDE_ORDER,
+    # dans l'ordre) : chaque rangee prend une teinte de chaque famille, et
+    # les familles tournent d'une rangee a l'autre, pour qu'aucune carte
+    # voisine (a cote ou au-dessus/en dessous) ne partage une famille de
+    # couleur proche.
+    "pour-elle": 8,
+    "pour-lui": 112,
+    "ist-depistage-et-prevention": 220,
+    "massage-professionnel": 130,
+    "questions-et-communication": 245,
+    "les-emotions": 18,
+    "la-rencontre": 262,
+    "l-amour": 45,
     "pour-nous": 155,
+    "les-nouvelles-compositions-familiales": 70,
     "reseaux-sociaux": 178,
-    "l-amour": 200,
-    "pour-lui": 220,
-    "ist-depistage-et-prevention": 245,
-    "le-sommeil": 262,
-    "maladie-grave-et-handicap": 300,
+    "alimentation": 300,
+    "le-sommeil": 200,
+    "maladie-grave-et-handicap": 350,
+    "psychologie-de-la-personnalite": 95,
 }
 
 # Illustrations : SVG en ligne, decoratifs, qui prennent la teinte de la
