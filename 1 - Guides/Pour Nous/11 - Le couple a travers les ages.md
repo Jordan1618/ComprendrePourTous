@@ -4,7 +4,7 @@ chapitre: "11"
 titre: "Le couple à travers les âges et les civilisations"
 sujet: "commun"
 angle: "repères"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -36,6 +36,14 @@ Les enquêtes anthropologiques comparatives montrent que la majorité des socié
 
 Deux précautions honnêtes. Ces exemples ne décrivent pas des paradis égalitaires : une société matrilinéaire n'est pas nécessairement une société où les femmes détiennent le pouvoir politique. Et le couple, sous une forme ou une autre, reste l'unité de coopération dominante presque partout — la diversité porte sur ses règles, pas sur son existence. [L'Atlas ethnographique de George Murdock, qui recense les régimes matrimoniaux de plusieurs centaines de sociétés, documente cette diversité](https://archive.org/details/ethnographicatla00murdrich) (Murdock, *Ethnographic Atlas*, University of Pittsburgh Press, 1967 ; vérification du 7 août 2026).
 
+⚖️ **Nuance**
+
+**Une société qui autorise une forme n'est pas une société qui la pratique majoritairement.** La polygynie est permise dans la majorité des sociétés répertoriées par l'Atlas de Murdock, mais y reste minoritaire en pratique : confondre le permis et le courant fausse toute comparaison avec le présent.
+
+**Une organisation matrilinéaire n'est pas un synonyme de pouvoir féminin.** La transmission par la lignée maternelle est une règle de filiation, pas une répartition du pouvoir politique ou économique ; les deux peuvent coexister avec un pouvoir masculin par ailleurs assez marqué.
+
+**Constater qu'une règle est datée n'indique pas ce qu'il faut faire à la place.** Voir que « il gagne, elle élève » est une configuration récente plutôt qu'un ordre naturel rend la règle discutable ; cela ne dit rien sur la règle qui devrait la remplacer, ce qui reste une décision propre à chaque couple.
+
 ### 11.4 Ce qui a changé récemment, et vite
 
 Trois transformations, très récentes à l'échelle historique, qui expliquent l'essentiel des désaccords contemporains.
@@ -46,13 +54,15 @@ Trois transformations, très récentes à l'échelle historique, qui expliquent 
 
 **L'allongement de la durée.** Un mariage « à vie » n'engageait pas la même durée quand l'espérance de vie était bien plus courte. Rester ensemble cinquante ou soixante ans est une situation historiquement inédite, dont personne n'a hérité le mode d'emploi. [En France, la loi du 13 juillet 1965 a permis pour la première fois à une femme mariée d'exercer une profession et d'ouvrir un compte bancaire sans l'autorisation de son mari](https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000503950/) (loi n° 65-570 du 13 juillet 1965 ; vérification du 7 août 2026).
 
+Ces trois transformations se sont produites en l'espace d'une ou deux générations, ce qui est extrêmement court à l'échelle de l'histoire du mariage. Concrètement, cela signifie qu'une personne née avant 1965 en France a pu voir, au cours de sa propre vie d'adulte, le passage d'un cadre où sa mère ne pouvait pas ouvrir de compte en banque sans autorisation à un cadre où sa fille négocie à égalité juridique la répartition du travail domestique. Aucune norme intermédiaire stable n'a eu le temps de s'installer entre les deux, ce qui explique en partie pourquoi tant de couples se retrouvent à improviser des règles que ni leurs parents ni la loi ne leur ont vraiment transmises.
+
 ### 11.5 Ce que ça change pour vous, concrètement : réajuster le costume plutôt que le porter tel quel
 
 Trois déplacements utiles.
 
 **Ce qui paraît naturel est presque toujours daté.** La répartition « il gagne, elle élève », souvent perçue comme traditionnelle, correspond surtout à une configuration occidentale du milieu du XXe siècle. Avant, dans les milieux paysans et artisans, les femmes travaillaient massivement.
 
-**Il n'existe pas de modèle par défaut.** L'absence de norme unique est une charge — tout est à négocier — mais aussi une liberté : votre couple n'a aucune obligation de ressembler à celui de vos parents ou de vos amis.
+**Il n'existe pas de modèle par défaut.** L'absence de norme unique est une charge — tout est à négocier — mais aussi une liberté : votre couple n'a aucune obligation de ressembler à celui de vos parents ou de vos amis. C'est une différence nette avec les sociétés décrites en 11.3, où la coutume tranchait à l'avance l'essentiel des questions : le prix de la liberté contemporaine est que rien n'est tranché d'office, pas même la question de qui décide.
 
 **Les règles explicites protègent mieux que les règles supposées.** Les sociétés qui organisaient le couple par la coutume avaient au moins l'avantage de règles connues de tous. Un couple contemporain qui ne discute pas les siennes ne fonctionne pas sans règles : il fonctionne avec des règles implicites, différentes chez chacun, et découvertes au moment du conflit. [Que les couples se donnent des règles explicites plutôt que des règles supposées est cohérent avec les travaux sur la communication et la satisfaction conjugale](https://archive.org/details/the-seven-principles-for-making-marriage-work) (Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
 

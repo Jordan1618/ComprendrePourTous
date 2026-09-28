@@ -4,7 +4,7 @@ chapitre: "8"
 titre: "Les projets de vie : enfant, lieu, travail"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -32,11 +32,21 @@ Elle est souvent réduite à une question binaire — tu en veux ou pas — pos�
 
 **Le désaccord durable.** C'est l'un des rares sujets où le compromis n'existe pas : on ne fait pas un demi-enfant. Quand le désaccord est profond et stable, la question honnête n'est pas comment convaincre l'autre, mais si chacun peut vivre avec la décision de l'autre. Y répondre tôt évite dix ans de malentendu. [Le déclin de la fertilité avec l'âge est documenté par les sociétés savantes de gynécologie, avec une accélération marquée après 35 ans](https://www.acog.org/en/clinical/clinical-guidance/committee-opinion/articles/2014/03/female-age-related-fertility-decline) (American College of Obstetricians and Gynecologists, *Female Age-Related Fertility Decline*, Committee Opinion, 2014 ; vérification du 7 août 2026).
 
+⚖️ **Nuance**
+
+**Un « non » n'est pas toujours un « non ».** Beaucoup de refus sur l'enfant, le lieu ou le travail sont en réalité des « pas maintenant » ou des « pas dans ces conditions », mal formulés faute d'avoir posé les questions séparément. Les traiter comme des verdicts définitifs ferme des discussions qui auraient pu se rouvrir.
+
+**Ne pas décider n'est pas rester neutre.** Sur ces trois sujets à fenêtre limitée, laisser filer le temps sans choisir revient à choisir par défaut, généralement au détriment de celui des deux pour qui l'horloge tourne le plus vite. Le silence n'est jamais une option sans coût ici.
+
+**Un accord immédiat n'est pas toujours un vrai accord.** Sur une décision de cette ampleur, un oui donné en quelques secondes cache souvent un renoncement plutôt qu'une adhésion réelle, ce que développe la fin de ce chapitre.
+
 ### 8.3 Le lieu : ce qu'on sous-estime
 
 Où vivre paraît moins lourd qu'un enfant. C'est pourtant la décision qui détermine le plus le quotidien : temps de trajet, proximité des proches, possibilités d'emploi, réseau amical.
 
 Deux erreurs fréquentes. **Suivre l'un sans compensation explicite** : celui qui déménage perd son réseau, parfois son emploi, et se retrouve dépendant. Ce n'est pas un problème si c'est nommé et compensé ; c'en est un si c'est traité comme allant de soi. Et **sous-estimer le trajet** : les temps de transport quotidiens ont un effet documenté sur le bien-être, très supérieur à ce que les gens anticipent au moment de choisir.
+
+Concrètement, la compensation d'un déménagement subi ne se limite pas à un « merci » verbal. Elle peut prendre la forme d'un budget dédié à reconstruire un réseau social dans la nouvelle ville, d'un engagement écrit sur une date de réexamen si l'adaptation échoue, ou d'un partage plus favorable du temps domestique le temps que celui qui a suivi retrouve un emploi. Ce qui compte n'est pas la forme précise, c'est qu'elle soit nommée avant le déménagement, pas négociée après coup une fois que le déséquilibre est déjà installé.
 
 Le point d'attention pratique : qui est au bail ou au prêt, et selon quelles parts. Voir [Indivision](<../../2 - Notions/Indivision.md>) et le chapitre 9 de [L'amour](<../L amour/README.md>). [Le temps de trajet quotidien a un effet documenté et sous-estimé sur le bien-être, ce que les économistes appellent le paradoxe du trajet domicile-travail](https://www.bsfrey.ch/wp-content/uploads/2021/08/stress-that-doesnt-pay-the-commuting-paradox.pdf) (Stutzer & Frey, « Stress that doesn't pay: the commuting paradox », *Scandinavian Journal of Economics*, 2008 ; vérification du 7 août 2026).
 

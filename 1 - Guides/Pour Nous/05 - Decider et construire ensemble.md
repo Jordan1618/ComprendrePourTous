@@ -4,7 +4,7 @@ chapitre: "5"
 titre: "Décider et construire ensemble"
 sujet: "commun"
 angle: "pratique"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -15,6 +15,14 @@ licence: "CC BY 4.0"
 Un projet commun — emménager, s'installer durablement, avoir un enfant, changer de ville — est un chantier. Ce qui fait s'effondrer un chantier, ce n'est presque jamais un désaccord franc : c'est un **accord supposé** qui n'a jamais été vérifié. Chacun a cru que l'autre pensait la même chose, et personne n'a écrit le plan.
 
 Quand des appréhensions ou des séquelles s'ajoutent, le risque augmente : l'un accepte pour éviter le conflit, l'autre croit à un accord sincère. [L'absence d'accord explicite avant une décision importante est l'un des facteurs de conflit de couple les mieux documentés](https://archive.org/details/the-seven-principles-for-making-marriage-work) (Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
+
+⚖️ **Nuance**
+
+**Un accord rapide n'est pas un accord solide.** Un chantier lancé sans plan vérifié tient parfois par chance, jusqu'à ce que la première contrainte imprévue révèle que les deux équipes construisaient des versions différentes du même bâtiment. Un « oui » donné en trente secondes sur une décision qui engage des années mérite d'être interrogé plutôt que salué.
+
+**Vouloir écrire une décision n'est pas se méfier de l'autre.** C'est reconnaître que la mémoire de deux personnes sur une même conversation diverge presque toujours, sans mauvaise foi d'aucun côté. Le formaliser n'est pas un geste de contrôle, c'est un geste de vérification.
+
+**Poser des conditions n'est pas dire non.** Beaucoup de partenaires entendent une liste de conditions comme un refus déguisé, alors qu'elle est souvent l'inverse : la carte de ce qu'il faudrait pour transformer un refus en accord. Confondre les deux clôture des discussions qui auraient pu aboutir.
 
 ### 5.2 Séparer trois questions qu'on mélange toujours
 
@@ -38,6 +46,8 @@ Exemple concret. Position : « je veux qu'on garde chacun notre appartement ». 
 
 Ces deux intérêts sont parfaitement conciliables : un logement commun avec une pièce individuelle garantie, ou un calendrier avec une clause de réversibilité explicite. Aucune des deux positions initiales ne permettait de le voir.
 
+C'est là que l'image du chantier reprend tout son sens : deux équipes qui campent sur leurs plans respectifs s'épuisent à défendre chacune sa version, alors qu'un ingénieur qui demande à chacune ce qu'elle cherche réellement à obtenir, plutôt que ce qu'elle a dessiné, trouve souvent un troisième plan que ni l'une ni l'autre n'avait envisagé. La négociation par intérêts ne consiste pas à faire des concessions sur les positions de départ : elle consiste à les abandonner temporairement pour aller chercher, derrière chacune, ce qu'elle protège vraiment.
+
 **La question qui fait passer des positions aux intérêts** : « qu'est-ce que tu protèges, exactement, en demandant ça ? » [C'est l'apport central de la méthode de négociation développée au Harvard Negotiation Project](https://www2.hawaii.edu/~barkai/HO/GTY.pdf) (Fisher & Ury, *Getting to Yes*, Houghton Mifflin, 1981 ; vérification du 7 août 2026).
 
 ### 5.4 Décider quand l'un des deux a peur
@@ -49,6 +59,8 @@ Une appréhension n'est pas un veto, et elle n'est pas non plus un détail à su
 **Le fractionnement.** Une grande décision se découpe presque toujours. Emménager peut commencer par deux mois d'essai, ou par un logement qui reste au nom d'un seul avec un accord écrit.
 
 **Le point de contrôle daté.** Décider maintenant qu'on refera le point à une date précise évite les deux écueils symétriques : décider dans l'urgence, ou repousser indéfiniment. [Prévoir explicitement les conditions de sortie d'une décision est documenté comme un facteur qui réduit l'anxiété décisionnelle](https://www.prospectivepsych.org/sites/default/files/pictures/Gollwitzer_Implementation-intentions-1999.pdf) (Gollwitzer, « Implementation intentions: strong effects of simple plans », *American Psychologist*, 1999 ; vérification du 7 août 2026).
+
+Ces trois principes se combinent dans la pratique plus qu'ils ne s'appliquent séparément. Un couple qui hésite à emménager peut, par exemple, décider d'un essai de trois mois (fractionnement), avec la clause explicite que chacun garde son bail en cours pendant cette période (réversibilité), et une discussion fixée dans le calendrier au terme des trois mois plutôt qu'attendue au hasard d'un désaccord (point de contrôle daté). Aucun de ces trois éléments seuls ne suffit à désamorcer une peur ; ensemble, ils transforment une décision qui semblait être un saut dans le vide en une suite d'étapes dont chacune reste petite.
 
 ### 5.5 Écrire, même entre personnes qui s'aiment
 
@@ -73,3 +85,5 @@ La formulation qui sécurise : **« je préfère que tu me dises non maintenant 
 - Utilisez le levier du menu fermé pour débloquer un calendrier : **« plutôt dans les six mois, plutôt dans deux ans, ou plutôt jamais ? »** — les trois réponses sont acceptables, ce qui rend la question sûre à poser.
 - Prévoyez toujours la sortie. Une décision réversible se prend ; une décision définitive se repousse.
 - Écrivez en cinq lignes et relisez-les à deux. L'écart entre les deux compréhensions apparaît immédiatement.
+
+L'analogie du chantier a elle aussi une limite à voir en la retournant : un vrai chantier a un plan qui, une fois validé, ne bouge plus jusqu'à la livraison. Un couple, lui, continue de changer pendant que la décision se construit : les intérêts identifiés en 5.3 peuvent eux-mêmes évoluer d'ici le point de contrôle daté. Ce n'est pas un défaut de la méthode, c'est la raison pour laquelle elle prévoit justement, à chaque étape, un moment où l'on revient vérifier que le plan correspond encore à ce que chacun protège.
