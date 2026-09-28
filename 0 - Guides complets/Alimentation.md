@@ -20,7 +20,7 @@ genere_le: 2026-09-28
 
 **Ce qu'on mange, pourquoi, et ce que ça change vraiment**
 
-Ce guide traite l'alimentation à la fois comme une question de calcul (macronutriments, besoins caloriques, maladies liées au régime) et comme une question humaine (histoire, culture, précarité, émotions, couple et famille à table). Ce que la science établit vraiment sur la nutrition, plutôt que ce que le marketing ou les réseaux sociaux en disent.
+Personne ne mange seulement des calories : on mange une histoire, une culture, une émotion, parfois une contrainte financière qu'on ne dit pas. Ce guide tient les deux bouts — le calcul (macronutriments, besoins caloriques, maladies liées au régime) et l'humain (histoire, culture, précarité, émotions, couple et famille à table) — avec ce que la science établit vraiment sur la nutrition, plutôt que ce que le marketing en fait dire.
 
 Pour ce qui touche à l'alimentation pendant la grossesse, voir [Pour Elle](<../1 - Guides/Pour Elle/README.md>). Pour le lien entre alimentation et sommeil, voir [Le sommeil](<../1 - Guides/Le sommeil/README.md>). Pour l'alimentation émotionnelle en lien avec la régulation émotionnelle générale, voir [Les émotions](<../1 - Guides/Les emotions/README.md>).
 

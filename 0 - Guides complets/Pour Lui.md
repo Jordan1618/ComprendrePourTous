@@ -20,7 +20,7 @@ genere_le: 2026-09-28
 
 **Ce qui se passe à l'intérieur, et pourquoi ça ne se voit pas**
 
-Ce guide traite de la vie émotionnelle des hommes : comment elle se construit, pourquoi elle s'exprime si peu, à quoi ressemble une dépression masculine qui ne ressemble pas à une dépression, comment fonctionnent le corps et la sexualité masculine, et ce qui se joue dans les relations et les conflits.
+Les hommes ressentent autant que tout le monde, mais on ne leur a jamais vraiment appris à le montrer, ni à le lire chez eux-mêmes. Ce guide reconstruit ce qui manque : comment se construit la vie émotionnelle masculine, à quoi ressemble une dépression qui ne ressemble à aucune dépression connue, comment fonctionnent le corps et la sexualité, et ce qui se joue vraiment dans les relations et les conflits.
 
 C'est le miroir exact du guide sur le cycle féminin. Là où l'un explique un corps aux personnes qui ne l'habitent pas, celui-ci explique un fonctionnement psychologique aux personnes qui le côtoient sans le comprendre. Il est utile aux femmes qui partagent la vie d'un homme, et tout autant aux hommes qui ne se sont jamais vu décrire de l'extérieur.
 

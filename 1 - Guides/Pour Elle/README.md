@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 **Le cycle, la contraception, les pathologies, la sexualité, la grossesse**
 
-Ce guide couvre le fonctionnement du cycle menstruel, la contraception hormonale, le panorama des troubles et pathologies qui touchent le cycle, la sexualité, la grossesse et le post-partum. Il est écrit pour deux publics à la fois : les femmes qui veulent comprendre ce qui se passe dans leur propre corps, et les personnes qui veulent comprendre celui de leur partenaire.
+La plupart des femmes apprennent leur propre corps par bribes, souvent dans l'urgence d'un symptôme jamais expliqué. Ce guide reprend tout depuis le début : le cycle menstruel, la contraception hormonale, les troubles et pathologies qui touchent le cycle, la sexualité, la grossesse et le post-partum. Il est écrit pour deux publics à la fois : les femmes qui veulent comprendre ce qui se passe chez elles, et les personnes qui veulent comprendre celui de leur partenaire.
 
 Sa particularité est de ne jamais s'arrêter au mécanisme biologique. Chaque pathologie ou situation importante est suivie d'une partie **Dans le couple**, qui explique ce que ça change concrètement à deux, et de **Bons réflexes**, qui donne des actions ou des formulations précises plutôt que des conseils généraux. Savoir ce qu'est l'endométriose ne sert pas à grand-chose si on ne sait pas quoi faire quand quelqu'un autour de soi en souffre.
 

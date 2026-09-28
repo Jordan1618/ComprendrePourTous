@@ -20,7 +20,7 @@ genere_le: 2026-09-28
 
 **Le diagnostic, le corps qui change, l'entourage qui doit s'adapter — et ce qui reste possible**
 
-Ce guide traite la maladie grave, la douleur chronique et le handicap dans leur ensemble : le choc du diagnostic, les démarches concrètes, des situations précises (paraplégie, incontinence, fauteuil roulant), la santé mentale, le rôle du partenaire et des aidants, les droits, et la dimension sociétale du validisme. Il assume de parler à la fois du lourd (deuil, épuisement, fin de vie) et du léger (ce qui reste possible, l'humour, la joie).
+Un diagnostic grave change tout, sauf qu'il n'existe pas de mode d'emploi pour l'encaisser. Ce guide sert de repère : le choc du diagnostic, les démarches concrètes, des situations précises (paraplégie, incontinence, fauteuil roulant), la santé mentale, le rôle du partenaire et des aidants, les droits, et la dimension sociétale du validisme. Il assume de parler à la fois du lourd (deuil, épuisement, fin de vie) et du léger (ce qui reste possible, l'humour, la joie).
 
 Pour ce qui touche spécifiquement au couple qui traverse une maladie grave au long cours, voir [Pour Nous](<../1 - Guides/Pour Nous/README.md>), qui prend le relais sur ce terrain plutôt que de le redire ici. Pour la régulation émotionnelle générale, voir [Les émotions](<../1 - Guides/Les emotions/README.md>).
 

@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 **Les traits qui nous composent : d'où ils viennent, ce qu'ils changent, comment vivre avec**
 
-Ce guide traite la personnalité comme objet scientifique (modèles validés, origines génétiques et environnementales, ce qui distingue un test sérieux d'un horoscope) et comme expérience vécue (perfectionnisme, estime de soi, conformisme, solitude choisie ou subie, et leur impact sur le travail, la santé, la famille, l'amitié et la séduction entre hommes et femmes).
+Tout le monde a une théorie sur sa propre personnalité, rarement fondée sur autre chose qu'un test en ligne. Ce guide la traite comme objet scientifique (modèles validés, origines génétiques et environnementales, ce qui distingue un vrai test d'un horoscope) et comme expérience vécue (perfectionnisme, estime de soi, conformisme, solitude choisie ou subie, et leur impact sur le travail, la santé, la famille, l'amitié et la séduction).
 
 Pour les styles d'attachement en amour, voir la notion [Style d'attachement](<../../2 - Notions/Style d'attachement.md>) et le guide [La rencontre](<../La rencontre/README.md>), qui prennent le relais sur ce terrain plutôt que de le redire ici. Pour l'image de soi sur les réseaux sociaux, voir [Réseaux sociaux](<../Reseaux sociaux/README.md>).
 

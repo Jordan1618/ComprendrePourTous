@@ -20,7 +20,7 @@ genere_le: 2026-09-28
 
 **Ce qui se passe vraiment pendant qu'on dort, et ce que ça coûte de mal dormir**
 
-Ce guide traite le sommeil comme un sujet à part entière plutôt que comme la note de bas de page qu'il reste souvent ailleurs dans ce dépôt. Ce qui se joue biologiquement pendant qu'on dort, les troubles les plus fréquents et les plus méconnus, ce qui aide vraiment face à ce qui relève du marketing, et ce que le sommeil change concrètement en couple, en famille, au travail et dans la société.
+On passe un tiers de sa vie à dormir, et on ne sait presque rien de ce qui s'y joue. Ce guide traite le sommeil comme un sujet à part entière, pas comme la note de bas de page qu'il reste ailleurs : ce qui se passe biologiquement pendant la nuit, les troubles les plus fréquents et les plus méconnus, ce qui aide vraiment face à ce qui relève du marketing, et ce que mal dormir change concrètement en couple, en famille, au travail et dans la société.
 
 Pour ce qui touche spécifiquement à la charge mentale nocturne en couple ou en famille recomposée, voir [Pour Nous](<../1 - Guides/Pour Nous/README.md>) et [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>), qui prennent le relais sur ce terrain plutôt que de le redire ici. Pour l'effet des écrans sur le sommeil, voir [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/README.md>).
 

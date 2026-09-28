@@ -47,8 +47,9 @@ TREE = REPO + "/tree/main"
 
 DOMAIN = "www.comprendrepourtous.fr"
 SITE_TITLE = "Comprendre Pour Tous"
-TAGLINE = ("Des guides gratuits et sourcés sur le corps, les émotions et les "
-           "relations, pour mieux se comprendre soi-même et comprendre l'autre.")
+TAGLINE = ("Comprendre pour tous explique le corps, la sexualité, le couple et "
+           "les émotions avec de vraies sources, sans jargon. Pour ne plus "
+           "deviner seul des sujets qu'on nous explique rarement bien.")
 
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
@@ -85,6 +86,10 @@ GUIDE_ORDER = [
     "Pour Nous",
     "Les nouvelles compositions familiales",
     "Reseaux sociaux",
+    "Alimentation",
+    "Le sommeil",
+    "Maladie grave et handicap",
+    "Psychologie de la personnalite",
 ]
 
 # Ordre d'affichage des fichiers de "0 - Guides complets".
@@ -101,6 +106,10 @@ FULL_GUIDE_ORDER = [
     "Pour Nous",
     "Les nouvelles compositions familiales",
     "Réseaux sociaux",
+    "Alimentation",
+    "Le sommeil",
+    "Maladie grave et handicap",
+    "Psychologie de la personnalité",
 ]
 
 # Fichiers de la racine qui ne sont pas publies comme pages.
@@ -129,20 +138,26 @@ SECTION_HUE = {
     "sources": 96,
 }
 GUIDE_HUE = {
-    # Palette sans violet ni rose (retires : jugés trop flashy sur l'accueil) :
-    # vin/brique -> terracotta -> ambre -> olive -> mousse -> sauge ->
-    # vert sarcelle -> sarcelle -> bleu ardoise -> bleu -> indigo.
+    # Palette sans violet ni rose vif (retires : jugés trop flashy sur
+    # l'accueil) : vin/brique -> rouille -> terracotta -> ambre -> olive ->
+    # mousse -> sauge -> vert sarcelle -> sarcelle -> bleu ardoise -> bleu ->
+    # indigo -> bleu-nuit -> prune sourde. 15 teintes, une par guide, espacees
+    # pour rester distinguables meme cote a cote sur l'accueil.
     "pour-elle": 350,
+    "psychologie-de-la-personnalite": 8,
     "la-rencontre": 18,
     "les-emotions": 45,
     "massage-professionnel": 70,
     "les-nouvelles-compositions-familiales": 95,
+    "alimentation": 112,
     "questions-et-communication": 130,
     "pour-nous": 155,
     "reseaux-sociaux": 178,
     "l-amour": 200,
     "pour-lui": 220,
     "ist-depistage-et-prevention": 245,
+    "le-sommeil": 262,
+    "maladie-grave-et-handicap": 300,
 }
 
 # Illustrations : SVG en ligne, decoratifs, qui prennent la teinte de la
@@ -1164,12 +1179,26 @@ def render_section(sec, by_url, nav):
 
 
 def render_guide(guide, by_url, nav):
+    # Le bandeau d'avertissement obligatoire (MAINTENANCE.md) ouvre le
+    # README de chaque guide, mais l'afficher en tout premier sur la page
+    # noie l'intro sous un avertissement avant que le visiteur sache meme
+    # de quoi parle le guide. On l'extrait pour le reafficher plus bas,
+    # une fois le sujet et les chapitres presentes.
+    warning_html = ""
+    intro_html = guide.html
+    if intro_html:
+        m = re.match(r"^\s*(<blockquote>.*?Un rep.re, pas une v.rit.*?</blockquote>)",
+                     intro_html, flags=re.S)
+        if m:
+            warning_html = m.group(1)
+            intro_html = intro_html[m.end():]
+
     body = ['<article class="prose">']
     body.append(breadcrumb(guide, by_url))
     body.append("<h1>%s</h1>" % esc(guide.title))
     body.append(meta_bar(guide))
-    if guide.html:
-        body.append('<div class="section-intro">%s</div>' % guide.html)
+    if intro_html:
+        body.append('<div class="section-intro">%s</div>' % intro_html)
     rows = []
     for n, p in enumerate(guide.children, 1):
         chips = ""
@@ -1182,6 +1211,8 @@ def render_guide(guide, by_url, nav):
     if guide.children:
         body.append('<p class="start-guide"><a class="btn" href="%s">'
                     'Commencer au premier chapitre</a></p>' % guide.children[0].url)
+    if warning_html:
+        body.append('<div class="guide-warning">%s</div>' % warning_html)
     sources_url = "/sources/%s/" % slugify(Path(guide.folder).name)
     if sources_url in by_url:
         body.append('<p class="source"><a href="%s">Toutes les sources sont ici</a> '

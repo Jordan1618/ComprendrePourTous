@@ -14,7 +14,7 @@ licence: "CC BY 4.0"
 
 **Le cadre, les gestes, les zones, les limites**
 
-Un guide pratique sur le massage : le cadre à poser avant de toucher quelqu'un, les grandes familles de techniques, les gestes fondamentaux, le découpage zone par zone du corps, les produits, et les contre-indications qui comptent vraiment. Il couvre aussi la neurobiologie du toucher, ce que la recherche valide vraiment pathologie par pathologie, le statut légal du métier en France, comment devenir praticien, l'histoire longue du massage, et comment accepter de faire son premier massage, qu'on soit un homme ou une femme.
+Toucher quelqu'un professionnellement engage plus de règles qu'on ne le pense avant de commencer. Ce guide pose d'abord le cadre — consentement, limites, contre-indications qui comptent vraiment — puis les gestes : grandes familles de techniques, découpage zone par zone du corps, produits. Il couvre aussi la neurobiologie du toucher, ce que la recherche valide vraiment pathologie par pathologie, le statut légal du métier en France, comment devenir praticien, l'histoire longue du massage, et comment accepter de faire son premier massage, qu'on soit un homme ou une femme.
 
 C'est le seul guide de la collection dont l'objet est un geste plutôt qu'une compréhension. Il reste dans la même logique : ce qui fait la différence n'est presque jamais la technique, c'est le cadre, le consentement et l'attention portée aux réactions de l'autre.
 
