@@ -7,7 +7,7 @@ mots: 47490
 verifie_le: 2026-09-15
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Les emotions"
-genere_le: 2026-09-25
+genere_le: 2026-09-28
 ---
 
 # Les émotions

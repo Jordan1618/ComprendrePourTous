@@ -7,7 +7,7 @@ mots: 76281
 verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Pour Lui"
-genere_le: 2026-09-25
+genere_le: 2026-09-28
 ---
 
 # Pour Lui

@@ -463,3 +463,19 @@ Le chantier le plus lourd identifié par le ré-audit du 25/09/2026 ci-dessus a 
 **Finalisation.** Comptage de mots exact avec le script demandé, vérifié deux fois : total du guide passé de 36 091 à **44 594 mots** sur 25 chapitres. Tableau et frontmatter du `README.md` du guide mis à jour avec les vrais chiffres (`mots: 44594`, `verifie_le: 2026-09-28`) ; colonne Chapitres du `README.md` racine corrigée de 11 à 25. Réciprocité des sources vérifiée par script de comparaison d'ensembles d'URLs : sur 48 URL manquantes avant reprise (36 % des 132 URL du guide), 0 manquante après reprise sur 128 URL uniques désormais citées ; `4 - Sources/Pour Nous.md` entièrement recomposé pour les chapitres 12-25 et complété pour deux oublis préexistants au chapitre 1. Pipeline complet (`build-guides-complets.py`, `build-index.py`, `build.py`) exécuté sans erreur ; aucun lien cassé spécifique à ce guide. Guide non commité par cet agent, laissé pour vérification et commit par la session principale.
 
 **Ce guide est maintenant fini au sens de l'arbitrage.**
+
+## Psychologie de la personnalité — reprise en chirurgie du 28/09/2026
+
+Le chantier identifié par le ré-audit du 25/09/2026 ci-dessus (31 chapitres sur 32 très sous le plancher de 1 500 mots, chapitre 3 laissé intact comme référence) a été traité intégralement le 28/09/2026, sous `Redaction2Chapitre`, en mode Chirurgie sur les 31 chapitres.
+
+**Étoffement au plancher.** Chaque chapitre a été développé par approfondissement de mécanismes déjà évoqués, exemples concrets ajoutés, développement d'une étude déjà citée (protocole, pas seulement résultat), implications pratiques supplémentaires : jamais de remplissage. Total du guide passé de 33 171 à **49 821 mots** sur 32 chapitres (le chapitre 3, intact, reste à 2 066 mots ; les 31 autres passent de 734-1 204 mots à 1 505-1 634 mots).
+
+**Liens à ancre longue.** Retaillés au fil de l'étoffement sur l'ensemble des 31 chapitres : l'ancre de chaque lien retouché est resserrée à ~25 mots maximum, jamais de point-virgule dans le texte lié, posée sur la proposition précise. Le raisonnement autour n'a été réécrit que là où le chapitre était de toute façon étoffé pour le plancher.
+
+**Blocs ⚖️ Nuance.** Ajoutés sur les 4 chapitres qui en manquaient : 15 (adaptation du trait selon le métier), 17 (contexte culturel, chapitre le plus court du guide avant reprise, étoffé en priorité), 20 (effet acteur/partenaire), 21 (ressemblance en amitié). La nuance déjà présente en 13.4 (perception genrée du célibat) a été formalisée avec le marqueur ⚖️, sans en inventer une nouvelle.
+
+**Réciprocité des sources.** Les 2 non-réciprocités identifiées par l'audit au chapitre 24 ont été corrigées : `socialsci.libretexts.org` ajouté à `4 - Sources/Psychologie de la personnalite.md`, et la variante d'URL PMC9786603 harmonisée sur `pmc.ncbi.nlm.nih.gov/articles/PMC9786603/` dans le chapitre et dans le fichier Sources. Vérification par script de comparaison d'ensembles d'URLs sur l'ensemble du guide (142 URL distinctes citées dans les 32 chapitres, nouvelles sources ajoutées pendant l'étoffement comprises) : 142/142 présentes dans `4 - Sources/Psychologie de la personnalite.md`, réciprocité complète.
+
+**Finalisation.** Comptage de mots exact avec le script demandé, vérifié deux fois. Tableau et frontmatter du `README.md` du guide mis à jour avec les vrais chiffres (`mots: 49821`, `verifie_le: 2026-09-28`) ; colonne Chapitres du `README.md` racine déjà correcte à 32, aucun changement nécessaire. Pipeline complet (`build-guides-complets.py`, `build-index.py`, `build.py`) exécuté sans erreur, total de 49 853 mots annoncé par `build-guides-complets.py` pour ce guide, cohérent avec le comptage manuel ; aucun lien cassé spécifique à ce guide. Guide non commité par cet agent, laissé pour vérification et commit par la session principale.
+
+**Ce guide est maintenant fini au sens de l'arbitrage.**
