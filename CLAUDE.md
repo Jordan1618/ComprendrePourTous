@@ -21,7 +21,7 @@ Le chantier de reprise des guides est suivi dans `5 - Notes Internes/A faire - A
 - **Sourçage en hyperlien**, jamais un tag `(source : ...)` nu : le lien se pose directement sur la phrase que la source appuie. Ne jamais fabriquer une URL ou un DOI — si aucune source vérifiable n'est trouvée après recherche sérieuse, le dire explicitement dans le texte plutôt que d'inventer ou d'omettre.
 - **Réciprocité obligatoire avec `4 - Sources/<Guide>.md`** : toute source hyperliée dans un chapitre doit aussi y figurer, avec le même lien direct.
 - **Pas de chapitre final "Sources vérifiables" par guide** (règle v12 du skill, 13 août 2026) — chaque chapitre garde sa propre section de sources en fin de chapitre, mais l'agrégation complète du guide n'existe que dans `4 - Sources/`.
-- **Pied de page réduit à l'essentiel** : la dernière section de contenu utile suivie de `Retour à [l'accueil de Comprendre pour tous](<../../README.md>).` — jamais de section "Autour de ce guide", "La suite", "Le guide jumeau" ni "Sources et mise à jour". "Par où commencer" reste bienvenue.
+- **Pied de page réduit à l'essentiel** : la dernière section de contenu utile suivie de `Retour à [l'accueil de Comprendre pour tous](<../../README.md>).` — jamais de section "Autour de ce guide", "La suite", "Le guide jumeau" ni "Sources et mise à jour".
 - **Nuance systématique** : aucune affirmation universalisante sur le couple, la famille ou le genre — "dans la plupart des cas", jamais présenté comme une règle qui s'appliquerait partout.
 - **Rien de journal ou de mainteneur dans le contenu publié** : pas de "Ajouts du [date]", pas de "ce qui reste à faire", pas de cadence de révision. Ce type de contenu va dans `5 - Notes Internes/`, jamais dans un dossier consultable.
 

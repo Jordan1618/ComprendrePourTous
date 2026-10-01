@@ -16,7 +16,7 @@ Le guide Pour Lui traite, à son chapitre 17, les reproches les plus fréquemmen
 
 **Ce qui est vrai.** La croyance selon laquelle les femmes seraient plus émotives que les hommes est l'une des croyances de genre les plus solidement ancrées dans les cultures occidentales — un fait social réel, indépendamment de sa véracité psychologique.
 
-**Ce qui est faux.** Que cette différence d'expressivité émotionnelle reflète une différence réelle et massive de vécu intérieur. [Si hommes et femmes croient tous deux que les femmes sont plus expressives émotionnellement que les hommes, il n'existe que peu ou pas de différence dans la façon dont chaque sexe se perçoit réellement lui-même ; une recherche testant l'hypothèse d'une sensibilité émotionnelle supérieure chez les femmes n'a trouvé aucun appui empirique, les deux sexes évaluant les émotions cibles avec une intensité similaire](https://www.ursulakhess.com/resources/HSKHPK2000.pdf).
+**Ce qui est faux.** Que cette différence d'expressivité émotionnelle reflète une différence réelle et massive de vécu intérieur. [Si hommes et femmes croient tous deux que les femmes sont plus expressives émotionnellement que les hommes, il n'existe que peu ou pas de différence dans la façon dont chaque sexe se perçoit réellement lui-même](https://www.ursulakhess.com/resources/HSKHPK2000.pdf) : une recherche testant l'hypothèse d'une sensibilité émotionnelle supérieure chez les femmes n'a trouvé aucun appui empirique, les deux sexes évaluant les émotions cibles avec une intensité similaire.
 
 **La mécanique.** Ce n'est pas l'émotion elle-même qui diffère le plus, mais son évaluation par l'entourage. [Comparées aux hommes, les femmes sont plus souvent perçues comme incapables de contrôler si leurs émotions influencent leurs pensées et leur comportement, et comme affichant soit trop, soit trop peu d'émotion ; leurs réactions émotionnelles positives sont jugées moins appropriées et moins sincères que celles des hommes, en particulier dans un contexte interpersonnel](https://kentstater.com/120042/news/understanding-gender-stereotypes-are-women-too-emotional/). Le reproche ne mesure donc pas un excès d'émotion réel, mais un double standard d'évaluation : la même intensité émotionnelle, jugée différemment selon qui l'exprime.
 
@@ -26,7 +26,7 @@ Le guide Pour Lui traite, à son chapitre 17, les reproches les plus fréquemmen
 
 ### 38.2 « Elle ne dit jamais clairement ce qu'elle veut »
 
-**Ce qui est vrai.** Un style de communication plus indirect, plus prudent, plus soucieux de construire un terrain d'entente avant d'aborder le sujet de front, est statistiquement plus fréquent chez les femmes que chez les hommes. [Les femmes utilisent souvent une approche plus indirecte, construisant un terrain commun avant d'aborder la question directement, un style attribué à des processus de socialisation qui encouragent les femmes à être plus coopératives, polies et moins directement assertives dans leur communication](https://connectedspeechpathology.com/blog/the-role-of-gender-in-interpersonal-communication-in-the-workplace).
+**Ce qui est vrai.** Un style de communication plus indirect, plus prudent, plus soucieux de construire un terrain d'entente avant d'aborder le sujet de front, est statistiquement plus fréquent chez les femmes que chez les hommes. [Les femmes utilisent souvent une approche plus indirecte, construisant un terrain commun avant d'aborder la question directement](https://connectedspeechpathology.com/blog/the-role-of-gender-in-interpersonal-communication-in-the-workplace), un style attribué à des processus de socialisation qui encouragent les femmes à être plus coopératives, polies et moins directement assertives dans leur communication.
 
 **Ce qui est faux.** Que ce style traduise un manque de clarté sur ce qu'elle veut, ou une volonté de faire deviner par jeu. C'est un apprentissage social, pas une préférence pour l'ambiguïté.
 
@@ -61,9 +61,15 @@ Le guide Pour Lui traite, à son chapitre 17, les reproches les plus fréquemmen
 **Ce qui reste de sa responsabilité.** Un temps de délibération plus long, légitime en soi, ne dispense pas de fixer un horizon clair pour la décision finale — sans quoi la consultation continue peut, à raison cette fois, être vécue par l'entourage comme une indécision réelle.
 
 **Bons réflexes, en synthèse de ce chapitre.**
-- Face à chacun de ces trois reproches, séparer systématiquement le constat (souvent réel) de l'interprétation d'intention (presque toujours fausse) avant de réagir.
+- Face à chacun de ces quatre reproches, séparer systématiquement le constat (souvent réel) de l'interprétation d'intention (presque toujours fausse) avant de réagir.
 - Utiliser les reformulations proposées comme point de départ, pas comme formule magique : elles fonctionnent parce qu'elles nomment le mécanisme réel plutôt que de l'accuser.
 - Se référer à la notion [Rumination](<../../2 - Notions/Rumination.md>) pour le détail complet du mécanisme évoqué en 38.3, déjà développé ailleurs dans ce dépôt.
+
+⚖️ **Nuance.** Le malentendu qui traverse les quatre reproches de ce chapitre est toujours le même.
+
+- « Elle est trop émotive », « elle ne dit jamais clairement ce qu'elle veut », « elle tient rancune » et « elle n'arrive jamais à se décider » ne sont pas quatre défauts distincts : ce sont quatre constats souvent réels, habillés à chaque fois d'une intention fausse (jouer, punir, ne pas savoir) qu'aucune donnée ne soutient.
+
+Ce que recouvre ce malentendu : transformer un comportement documenté et explicable (socialisation, mécanisme cognitif, style de décision) en trait de caractère volontaire qu'il resterait à corriger.
 
 ## Sources vérifiables
 

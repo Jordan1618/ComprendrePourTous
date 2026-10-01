@@ -40,6 +40,10 @@ Trois précautions, sans lesquelles ce type de raisonnement devient de la mauvai
 
 **Les différences entre groupes sont plus faibles que les différences entre individus.** Les écarts moyens documentés entre hommes et femmes en matière de préférences sont réels mais modestes, et complètement écrasés par la variation d'un individu à l'autre. Toute affirmation du type « les hommes sont ainsi, les femmes sont ainsi » déforme les données dont elle se réclame.
 
+👁️ **Vu de l'autre côté**
+
+Cette confusion entre moyenne de groupe et destin individuel ne se vit pas de façon neutre selon qui l'entend. Une femme à qui l'on répète qu'elle « recherche naturellement » la sécurité matérielle avant tout se voit réduite à une moyenne statistique qui ne dit rien de ses propres priorités. Un homme à qui l'on répète qu'il serait « naturellement » porté vers la multiplication des partenaires se voit prêter un déterminisme qui excuse d'avance des comportements qu'il n'a jamais choisis. Dans les deux cas, l'argument évolutionniste sert moins à décrire qu'à fermer une conversation qui mériterait d'être ouverte.
+
 ⚖️ **Nuance.** [Confondre une explication d'origine et une justification morale correspond à ce que la philosophie appelle le sophisme naturaliste](https://www.gutenberg.org/ebooks/53430) (Moore, *Principia Ethica*, Cambridge University Press, 1903 ; vérification du 7 août 2026) : « c'est naturel » n'est ni un synonyme de « c'est bon » ni de « c'est obligatoire ». Ce sophisme n'est pas une subtilité académique réservée aux philosophes : c'est l'argument le plus fréquemment mobilisé, en ligne comme en conversation, pour justifier l'infidélité, la jalousie possessive ou des rôles de genre rigides au nom d'une « nature humaine » présentée comme indiscutable. Repérer ce glissement, de la description à la prescription, désarme l'essentiel de ce type d'argumentation sans même avoir besoin de contester les faits évolutionnistes sur lesquels elle prétend s'appuyer.
 
 ### 4.4 Ce que ça change concrètement
@@ -53,6 +57,8 @@ Peu de choses sur le plan pratique, et c'est honnête de le dire. Cet angle n'in
 💑 **Dans le couple.** La question de l'exclusivité illustre bien ce que ce chapitre déplace : elle n'a pas de réponse biologique toute faite à découvrir, elle a une réponse à construire à deux. Deux couples peuvent choisir des règles opposées, l'un une exclusivité stricte, l'autre un accord plus ouvert, sans que l'un soit plus « naturel » que l'autre : les deux options se rencontrent dans l'histoire humaine, et ce qui distingue un couple qui tient d'un couple qui se déchire n'est presque jamais la règle choisie, c'est qu'elle ait été énoncée clairement plutôt que supposée.
 
 La colle de ce chapitre a une limite qu'il faut nommer : contrairement à une vraie colle, elle n'immobilise jamais rien de force. Elle prédispose, elle ne détermine pas, ce qui laisse toujours à deux adultes la responsabilité de décider ensemble ce qu'ils font de cette prédisposition.
+
+Cette limite éclaire aussi pourquoi tant de tentatives pour expliquer un comportement de couple précis par la seule évolution échouent : la colle évolutionniste explique pourquoi un mécanisme d'attachement existe en général dans l'espèce, pas pourquoi telle personne précise ressent ou ne ressent pas telle chose dans telle relation. C'est le même écart, déjà signalé au chapitre 4.3, entre une explication qui porte sur des tendances de population et une prédiction qui porterait sur un individu.
 
 **Bons réflexes**
 

@@ -28,6 +28,14 @@ Chez de nombreuses espèces, la préférence pour un partenaire aux gènes HLA d
 
 Honnêtement : la littérature ne tranche pas. Ce qu'on peut dire sans exagérer, c'est qu'il existe un signal biologique réel, probablement faible et facilement recouvert par des facteurs sociaux et psychologiques bien plus puissants (proximité, ressemblance de valeurs, timing de vie). Présenter l'immunité comme le véritable moteur caché de l'attirance serait une déformation du niveau de preuve disponible.
 
+⚖️ **Nuance.** Trois affirmations circulent sur ce sujet, et une seule tient.
+
+- « L'odorat révèle notre compatibilité génétique » : une étude le montre, une autre étude de même ampleur ne retrouve rien à l'échelle des populations. Le débat n'est pas tranché, pas juste nuancé.
+- « Un test d'ADN peut trouver le partenaire biologiquement compatible » : aucun test commercial vendu sous cet argument n'a de valeur prédictive individuelle sérieuse, quel que soit le côté du débat scientifique qui finit par l'emporter.
+- « L'attirance immunitaire serait le vrai moteur caché de la passion » : même dans l'étude la plus favorable à cette idée, l'effet mesuré reste secondaire face à la proximité, aux valeurs partagées et au moment de vie.
+
+Ce qui recouvre les trois : un signal biologique réel et faible n'est pas la même chose qu'une loi qui explique le choix amoureux.
+
 💑 **Dans le couple**
 
 Ce résultat n'a aucune application pratique individuelle : personne ne choisit un partenaire sur la base de son typage HLA, et aucun test commercial vendu sous cet argument n'a de valeur prédictive sérieuse à l'échelle d'un individu. Le seul intérêt de ce savoir est de désamorcer une fausse évidence : « on est faits l'un pour l'autre biologiquement » relève de la poésie, pas de la génétique.
@@ -73,4 +81,4 @@ Il en va de même pour l'épigénétique : elle donne un mécanisme biologique p
 - Repérer honnêtement son propre chronotype et celui du partenaire plutôt que de le juger comme un trait de caractère.
 - Caler les moments d'intimité et de conversation importante sur une fenêtre où les deux horloges se recoupent, plutôt qu'au pic de l'un et au creux de l'autre.
 - Ne pas transformer un décalage de rythme biologique en accusation de désintérêt : nommer l'écart plutôt que le subir.
-- Se rappeler qu'aucun test génétique, immunitaire ou hormonal ne remplace ce que la relation elle-même révèle dans la durée.
+- Face à un test génétique, immunitaire ou hormonal vendu comme révélateur de compatibilité amoureuse, poser une seule question avant d'y croire : quelle taille avait l'échantillon, et est-ce que le résultat a été reproduit ailleurs ?

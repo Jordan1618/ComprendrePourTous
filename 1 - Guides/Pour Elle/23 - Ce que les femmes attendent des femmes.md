@@ -18,7 +18,7 @@ Concrètement, ce qui est attendu d'une amie proche va au-delà de la présence 
 
 ### Le paradoxe : proximité et rivalité en même temps
 
-C'est le point le moins dit à voix haute. [Les amitiés féminines combinent un investissement affectif réel avec une rivalité intrasexuelle documentée](https://www.skeptic.com/article/from-sisterhood-to-mean-girls-evolutionary-insights-into-friendship-and-fiendship/) — pas systématique, pas consciente, mais mesurable. [Les femmes les moins sûres de leur propre attractivité perçoivent davantage de rivalité dans leurs amitiés que celles qui le sont plus](https://link.springer.com/article/10.1007/s12110-010-9081-5), ce qui montre que la rivalité n'est pas produite par l'amie elle-même mais projetée depuis l'insécurité de chacune.
+C'est le point le moins dit à voix haute. [Les amitiés féminines combinent un investissement affectif réel avec une rivalité intrasexuelle documentée](https://www.skeptic.com/article/from-sisterhood-to-mean-girls-evolutionary-insights-into-friendship-and-fiendship/) — pas systématique, pas consciente, mais mesurable. D'où vient-elle, quand elle existe ? [Les femmes les moins sûres de leur propre attractivité perçoivent davantage de rivalité dans leurs amitiés que celles qui le sont plus](https://link.springer.com/article/10.1007/s12110-010-9081-5), ce qui montre que la rivalité n'est pas produite par l'amie elle-même mais projetée depuis l'insécurité de chacune.
 
 Cette rivalité, quand elle existe, ne prend presque jamais une forme frontale. [La compétition entre amies prend des formes indirectes — commérage qui abîme la réputation, exclusion sociale, sape discrète des intérêts de l'autre](https://www.skeptic.com/article/from-sisterhood-to-mean-girls-evolutionary-insights-into-friendship-and-fiendship/) — plus difficiles à nommer qu'un conflit ouvert, et donc plus difficiles à réparer.
 
@@ -86,6 +86,12 @@ Trois signes concrets, à vérifier honnêtement avant de décider, qu'une amiti
 Un dernier repère, utile à travers toutes les périodes évoquées ici : la qualité d'une amitié ne se mesure jamais à sa fréquence de contact mais à ce qui se passe quand elle reprend après un silence. Une amitié qui retrouve immédiatement sa proximité après plusieurs mois sans nouvelles n'est pas une amitié négligée, c'est une amitié solide qui n'a pas besoin d'entretien constant pour rester réelle — une distinction qui allège beaucoup de culpabilité inutile, en particulier dans les périodes (maternité, deuil, surcharge professionnelle) où le temps disponible pour les autres se réduit fortement.
 
 Ce chapitre, pris dans son ensemble, dit une chose simple : les amitiés féminines ne sont ni un luxe secondaire ni un supplément d'âme à la vie de couple ou de famille. Ce sont des relations qui protègent la santé mentale et physique, qui traversent différemment chaque étape de la vie, et qui méritent qu'on leur consacre autant d'attention et de soin qu'à n'importe quelle relation amoureuse — pas moins, simplement autrement. Les négliger sous prétexte qu'elles « attendront », dans une période chargée, revient à négliger un facteur de santé aussi réel que le sommeil ou l'alimentation, même s'il est socialement moins reconnu comme tel — une reconnaissance qui gagnerait à être aussi explicite que celle accordée, sans hésitation, aux autres relations de vie.
+
+⚖️ **Nuance.** Un malentendu traverse presque tout ce chapitre.
+
+- La proximité et la rivalité entre deux amies ne s'excluent pas : elles coexistent souvent dans la même relation, et la seconde ne dit rien de la solidité réelle de la première, elle vient de l'insécurité de celle qui compare, pas d'un défaut de l'amitié elle-même.
+
+Ce que recouvre ce malentendu : croire qu'une vraie amitié féminine serait, par définition, sans aucune tension ni comparaison.
 
 **Bons réflexes.**
 - Faire le premier pas ne signifie pas avoir tort — c'est souvent la personne la moins blessée qui peut se permettre de le faire, indépendamment de qui a commencé.

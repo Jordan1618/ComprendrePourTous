@@ -59,7 +59,7 @@ Le levier le plus documenté est le poids. [Une perte de poids peut réduire de 
 **Bons réflexes.**
 - Ne pas considérer une baisse de testostérone liée à l'âge comme une fatalité définitive — le poids, l'activité physique et le sommeil restent des leviers réels, à tout âge.
 - Viser l'entraînement en résistance pour ses bénéfices larges (force, fonction, cognition, estime de soi), sans en attendre nécessairement une hausse spectaculaire et durable du taux de testostérone au repos.
-- Se rappeler qu'une perte de poids modérée, chez un homme en surpoids, a un effet mesuré et significatif sur ce terrain — un levier concret, accessible sans prescription ni traitement hormonal.
+- Face à un taux bas mesuré chez un homme en surpoids, viser une perte de poids modérée avant d'envisager un traitement hormonal : l'effet est mesuré et significatif, et c'est un levier accessible sans prescription.
 
 ### 2.5 Les variations d'humeur, sans les surinterpréter
 
@@ -91,6 +91,13 @@ La formulation qui remplace, avec le levier du chiffre : **« sur dix, ton éner
 Ce chapitre a démonté un mythe assez répandu — celui d'un cycle masculin calqué sur le cycle féminin — sans pour autant nier ce qui est réel : des variations d'énergie, d'humeur et de libido existent bel et bien chez les hommes, elles ont une base physiologique solide, et elles méritent d'être prises au sérieux plutôt que rangées sous un vague « il est de mauvaise humeur en ce moment ».
 
 La différence essentielle avec le cycle féminin n'est donc pas que ces variations n'existeraient pas chez l'homme, c'est qu'elles ne suivent pas un calendrier fixe et prévisible : elles répondent à des causes identifiables, pour l'essentiel modifiables, ce qui change complètement la façon d'agir dessus. Une femme qui connaît sa phase de cycle peut anticiper une variation à venir. Un homme qui connaît ses leviers — sommeil, alcool, stress, activité physique — peut, lui, agir directement sur la cause plutôt que d'attendre que la phase passe. Ce n'est pas un cycle moins riche, c'est un système différent, avec ses propres règles, et ce chapitre a cherché à donner les vraies, plutôt que d'en emprunter à un autre corps que le corps masculin.
+
+⚖️ **Nuance.** Deux confusions entretiennent le mythe du cycle masculin.
+
+- Une variation n'est pas un cycle : la marée revient à heure fixe et se prédit des mois à l'avance, la vague dépend du vent du moment ; les hormones masculines varient réellement, mais rien de mensuel ni de prévisible ne les régit, et parler de « cycle » prête une régularité qui n'existe pas.
+- L'andropause n'est pas une ménopause masculine : la ménopause est un arrêt relativement rapide et universel, le déficit androgénique lié à l'âge est une baisse lente, partielle et très variable d'un homme à l'autre, ce qui rend le terme trompeur au point d'avoir été critiqué comme une extrapolation commerciale.
+
+Ce que recouvrent ces deux confusions : plaquer un vocabulaire et un calendrier empruntés au corps féminin sur des variations masculines réelles, mais différentes par nature.
 
 ## Sources vérifiables
 

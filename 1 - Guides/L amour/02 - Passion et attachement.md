@@ -61,12 +61,19 @@ Le moment le plus risqué d'une relation n'est pas le conflit : c'est le **passa
 
 La formulation utile, à froid : **« je pense qu'on est en train de passer de la première phase à la deuxième. Ce que je ressens a changé, ce n'est pas moins, c'est autrement. Toi ? »** Elle transforme une inquiétude solitaire en constat partagé.
 
+### 2.5 La limite de l'analogie du feu
+
+Un feu, une fois passé en braise, ne redevient jamais flambée sans qu'on y ajoute du bois : il décline lentement, mécaniquement, jusqu'à s'éteindre s'il n'est pas entretenu. Une relation, elle, peut connaître de nouveaux pics d'intensité sans repartir de zéro, précisément parce que le système d'attachement n'est pas seulement passif : il peut coexister avec des relances ponctuelles du système dopaminergique, par exemple lors d'un voyage, d'un projet commun ou d'une séparation temporaire suivie de retrouvailles. C'est là que l'image du feu trouve sa limite : elle décrit bien la trajectoire moyenne, mais elle laisse croire à une pente à sens unique, alors que la réalité documentée est plus proche d'un feu qu'on peut relancer volontairement sans jamais revenir à la flambée initiale, ni en avoir besoin.
+
+Concrètement, cela veut dire qu'un couple installé en braise n'a pas seulement le choix entre subir un déclin lent ou se raconter que rien n'a changé. Il peut délibérément aller chercher, de temps en temps, ce qui fait remonter un peu d'intensité, sans que cela signifie revenir au régime initial ni le vouloir : un projet qui sort de la routine, une contrainte inhabituelle traversée à deux, une séparation de quelques jours suivie de retrouvailles. Ce ne sont pas des recettes magiques, ce sont des leviers documentés qui agissent sur le même système dopaminergique décrit au chapitre 1, appliqués volontairement plutôt que subis par hasard comme au tout début.
+
 **Bons réflexes**
 
 - Faites le diagnostic en trois composantes avant de conclure quoi que ce soit sur « l'amour ». Nommer ce qui manque rend la chose traitable.
 - N'essayez pas de recréer artificiellement l'incertitude du début — jouer l'indisponibilité ou provoquer la jalousie relance effectivement le système dopaminergique, mais en abîmant le système d'attachement. C'est un échange perdant.
 - Ce qui entretient réellement la passion dans la durée est documenté : la **nouveauté partagée** (activités inhabituelles faites ensemble), et non la nouveauté de partenaire.
 - Si vous enchaînez des relations qui s'arrêtent toutes vers dix-huit mois, la question n'est pas de savoir si vous rencontrez les mauvaises personnes. C'est de savoir si vous confondez systématiquement l'amour avec sa première phase.
+- Face à un désaccord sur ce que « ça va » veut dire dans le couple, demander directement laquelle des trois composantes du triangle de Sternberg manque à chacun, plutôt que de discuter en termes globaux et flous.
 
 ## Sources vérifiables
 

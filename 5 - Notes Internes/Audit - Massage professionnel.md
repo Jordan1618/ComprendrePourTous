@@ -1,67 +1,63 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-24
+mis_a_jour_le: 2026-09-25
 ---
 
-# Audit — Massage professionnel
+# Audit — Massage professionnel (ré-audit post-Redaction2Chapitre)
+
+Ré-audit intégral des 21 chapitres, fait à neuf, sans reprendre le tableau de l'ancien rapport (`5 - Notes Internes/Audit - Massage professionnel.md`, désormais remplacé par celui-ci). Lecture seule : aucun fichier de `1 - Guides/`, `4 - Sources/` ni ailleurs n'a été modifié pendant cet audit.
 
 ## Synthèse
 
-Sur les 21 chapitres, le verdict dominant est la **chirurgie** (20 chapitres), avec un seul chapitre jugé « rien à faire » (le 12, un chapitre de clôture/navigation qui ne prétend pas expliquer une étude). **Aucun chapitre n'est en réécriture.** C'est un guide plus solide que le profil décrit en amont : le fil est intact partout, les objets centraux sont presque toujours définis avant d'être sourcés (tableaux comparatifs au chapitre 2, mécanismes expliqués au 9.1, 13, 14), les études sont en général expliquées (ce qui a été fait, ce qui en est sorti, pourquoi c'est intéressant, avec un bloc « Nuance nécessaire » pour rappeler les limites méthodologiques), les chiffres sont presque toujours amenés par une question puis recontextualisés, et les « Bons réflexes » sont très majoritairement des actions concrètes, pas des résumés passifs (7 réflexes en « Retenir/Garder à l'esprit/Se rappeler » sur plusieurs dizaines de puces au total).
+La reprise sous `Redaction2Chapitre` a globalement tenu ses promesses sur le fond : les 21 chapitres ont un fil unique tenu de bout en bout, une analogie filée et retournée en fin de chapitre (le chantier qui se déplace, le tribunal, le poste-frontière, le pendule, la carte topographique, etc.), des objets définis plutôt que juste sourcés, des chiffres amenés par une question puis mis à l'échelle, des blocs Nuance qui nuancent réellement, et des « Bons réflexes » qui sont des actions concrètes, pas des résumés déguisés en « Retenir ». Les blocs 👁️ / 💑 / 🗣️ apparaissent aux bons endroits (7.2, 18.2, 20.3, 21.2) sans être plaqués artificiellement ailleurs.
 
-Le défaut dominant, de très loin, est mécanique et récurrent sur presque tous les chapitres : **le lien hypertexte porte le résumé entier d'une étude** (souvent deux ou trois affirmations chaînées derrière un seul lien, parfois 60 à 90 mots), au lieu d'être posé sur une courte phrase dans un texte écrit normalement. Le ratio global liens collés/liens totaux atteint 74 %, et neuf chapitres sont à 100 % (souvent sur un petit nombre de liens, 1 à 2). Sur les chapitres où le volume de liens est important (02, 03, 04, 14, 19, 21), ce défaut est franchement visible et alourdit la lecture même quand le fil autour reste bon.
+**Deux défauts dominent, et ils sont systémiques plutôt que ponctuels :**
 
-Deux défauts secondaires, plus dispersés : l'absence d'analogie sur environ 13 des 21 chapitres (surtout les chapitres à dominante factuelle/légale : 04, 06, 08, 09, 10, 11, 14, 16, 17, 18, 20), et l'usage quasi inexistant des blocs 👁️/💑/🗣️ malgré plusieurs occasions documentées qui les justifieraient (écart de perception hommes/femmes au chapitre 7, sujet de couple entier au chapitre 11, charge émotionnelle du praticien au chapitre 20). Le bloc ⚖️ Nuance existe partout où il faut sous la forme **« Nuance nécessaire. »** en gras, mais jamais avec l'émoji ⚖️ : écart de convention de forme avec le reste du dépôt, pas un manque de fond.
+1. **Plancher de 1 500 mots non atteint sur 20 chapitres sur 21** (seul le chapitre 2, à 1 659 mots, le dépasse). Le déficit va de -54 mots (chapitre 1) à -774 mots (chapitre 12) et -672 (chapitre 15). Le contenu existant est dense et de qualité, ce n'est pas un problème de remplissage artificiel à corriger, mais un vrai manque de développement (une sous-partie de plus, un exemple concret supplémentaire, un cas nuancé) sur la quasi-totalité du guide.
+2. **Rupture de réciprocité des sources sur 37 des 178 liens du guide (20,8 %)**, concentrée sur des chapitres précis plutôt qu'uniformément répartie. Le mécanisme identifié : `4 - Sources/Massage professionnel.md` contient deux générations de liens pour les mêmes références. Les sections hautes du fichier (« Cadre et efficacité générale », « Outils, produits et zones du corps ») pointent encore vers des liens de recherche `scholar.google.com/scholar?q=...` (des placeholders), alors que les chapitres eux-mêmes citent désormais des liens directs vérifiés (nature.com, pubmed.ncbi.nlm.nih.gov, academic.oup.com, sciencedirect.com, journals.physiology.org). La section basse du fichier (« Techniques, hygiène et matériel — passe d'approfondissement ») a bien les bons liens directs pour les sources qui y figurent. Le chapitre le plus touché est le **9** (5 liens sur 5, 100 % sans réciprocité) ; suivent le **6** (10/16, 62 %) et le **4** (6/13, 46 %). Quelques nuances mineures s'ajoutent (liens non trouvés hors ces deux catégories, à la marge).
 
-Enfin, tous les 21 chapitres sont sous le plancher de 1500 mots (de 544 à 1414), sans que cela indique systématiquement un objet mal posé : plusieurs chapitres courts (07, 12, 15) sont denses et bien construits malgré leur taille.
+Aucun chapitre n'a le fil cassé ni ne se résume à une suite de résumés d'études collées : aucune réécriture n'est nécessaire. Le verdict Chirurgie s'applique aux 21 chapitres, avec une intensité variable selon le déficit de mots et l'ampleur de la rupture de sourçage.
 
-## Mesures globales
+Défaut mineur transverse à signaler sans qu'il pèse sur le verdict : le guide utilise partout `**Nuance nécessaire.**` en gras plutôt que l'étiquette `⚖️ Nuance` attendue par le skill ; le fond est là, seule l'étiquette diffère. Quatre chapitres (1, 3, 5, 19, 21) n'ont même pas ce bloc explicite alors que la matière s'y prêterait (ex. 1.2 évoque une nuance en passant sans bloc dédié).
 
-| Mesure | Valeur |
-|---|---|
-| Liens totaux (hors bloc Sources) | 91 |
-| Liens collés (texte >25 mots ou point-virgule) | 67 |
-| Ratio liens collés / liens totaux | 74 % |
-| Réflexes passifs (Retenir/Garder à l'esprit/Se rappeler/Se méfier) | 7 (sur plusieurs dizaines de puces « Bons réflexes ») |
-| Blocs ⚖️ Nuance (avec émoji) | 0 (mais « Nuance nécessaire » en gras présent dans 13 chapitres) |
-| Blocs 👁️ | 1 (chapitre 21) |
-| Blocs 💑 | 1 (chapitre 18) |
-| Blocs 🗣️ | 0 |
-| Chapitres sous 1500 mots | 21 / 21 |
+## Tableau
 
-## Détail par chapitre
+| # | Chapitre | Mots | Défauts relevés | Verdict |
+|---|---|---|---|---|
+| 1 | Le cadre général | 1446 | -54 mots sous le plancher ; pas de bloc Nuance dédié (1.2 en évoque une sans le formaliser) ; 3/6 liens sans réciprocité (Craig x2, Legifrance) | Chirurgie |
+| 2 | Les grandes familles de massage | 1659 | Au-dessus du plancher, fil et nuance solides ; 3/23 liens sans réciprocité (Moyer) | Chirurgie légère |
+| 3 | Les gestes techniques fondamentaux | 1260 | -240 mots ; pas de bloc Nuance dédié | Chirurgie |
+| 4 | Outils et produits | 1296 | -204 mots ; 6/13 liens sans réciprocité (46 %, Tiran, spatheory, Cramer) | Chirurgie |
+| 5 | Astuces de pro | 1147 | -353 mots ; pas de bloc Nuance dédié ; 2/4 liens sans réciprocité | Chirurgie |
+| 6 | Découpage par zone du corps | 1276 | -224 mots ; 10/16 liens sans réciprocité (62 %, quasi tous les liens pubmed/academic.oup) | Chirurgie |
+| 7 | Différences hommes et femmes | 1106 | -394 mots ; 2/4 liens sans réciprocité (Janssen) | Chirurgie |
+| 8 | Femme enceinte | 1072 | -428 mots ; 2/11 liens sans réciprocité (Field) | Chirurgie |
+| 9 | Risques et contre-indications | 1290 | -210 mots ; 5/5 liens sans réciprocité (100 %, Cambron 2007 et Ernst absents sous leur lien direct) | Chirurgie |
+| 10 | Orient et Occident | 918 | -582 mots (déficit important) ; 2/8 liens sans réciprocité (Legifrance) | Chirurgie |
+| 11 | Intimité de couple | 1233 | -267 mots ; 2/9 liens sans réciprocité (Mark & Jozkowski) | Chirurgie |
+| 12 | Pour aller plus loin | 726 | -774 mots (déficit le plus important, mais chapitre de synthèse/méta sans section Sources) ; pas d'analogie ni de bloc Nuance, cohérent avec sa fonction de clôture | Chirurgie |
+| 13 | La neurobiologie du toucher | 886 | -614 mots ; sourçage réciproque correct ; par ailleurs l'un des chapitres les mieux construits du guide | Chirurgie |
+| 14 | Ce que la recherche valide vraiment | 1253 | -247 mots ; sourçage réciproque correct | Chirurgie |
+| 15 | Auto-massage, ce qui est valide | 828 | -672 mots (déficit important) ; sourçage réciproque correct | Chirurgie |
+| 16 | Statut légal du massage professionnel en France | 1091 | -409 mots ; sourçage réciproque correct | Chirurgie |
+| 17 | Devenir praticien | 1019 | -481 mots ; sourçage réciproque correct | Chirurgie |
+| 18 | Repérer les dérives d'un secteur peu régulé | 1087 | -413 mots ; sourçage réciproque correct | Chirurgie |
+| 19 | Histoire et sociologie du massage | 880 | -620 mots (déficit important) ; pas de bloc Nuance dédié ; sourçage réciproque correct | Chirurgie |
+| 20 | Éthique professionnelle et consentement | 1235 | -265 mots ; sourçage réciproque correct | Chirurgie |
+| 21 | Accepter de faire son premier massage | 1168 | -332 mots ; pas de bloc Nuance dédié (compensé par le bloc 👁️ en 21.2) ; sourçage réciproque correct | Chirurgie |
 
-| # | Chapitre | Mots | Liens collés | Défauts relevés | Verdict |
-|---|---|---|---|---|---|
-| 1 | Le cadre général | 1386 | 1/3 | 1 lien collé (interoception) ; pas de bloc ⚖️ marqué (non nécessaire ici) | Chirurgie (légère) |
-| 2 | Les grandes familles de massage | 1414 | 8/11 | Majorité de liens collés ; aucune analogie ; tableaux bien faits mais texte autour très dense en citations | Chirurgie |
-| 3 | Les gestes techniques fondamentaux | 1233 | 4/4 | Tous les liens sont collés ; fil et analogie (3.1 bis) déjà solides | Chirurgie (sourçage) |
-| 4 | Outils et produits | 1080 | 5/7 | Majorité de liens collés ; aucune analogie malgré un sujet qui s'y prête (comparatif huiles) | Chirurgie |
-| 5 | Astuces de pro | 678 | 2/2 | Chapitre court (678 mots) ; 2 liens collés sur 2 ; analogie déjà présente (5.1) | Chirurgie |
-| 6 | Découpage par zone du corps | 1092 | 3/8 | Aucune analogie ; 1 réflexe passif (« Garder à l'esprit ») | Chirurgie |
-| 7 | Différences hommes et femmes | 544 | 1/2 | Chapitre très court ; 1 réflexe passif (« Se rappeler ») ; aucun bloc 👁️ malgré un écart de perception documenté au 7.2 | Chirurgie |
-| 8 | Femme enceinte | 698 | 3/6 | Chapitre court ; aucune analogie ; moitié des liens collés | Chirurgie |
-| 9 | Risques et contre-indications | 1189 | 2/4 | Aucune analogie malgré des mécanismes bien expliqués (9.1, 9.4) qui s'y prêteraient | Chirurgie |
-| 10 | Orient et Occident | 600 | 3/5 | Chapitre court ; aucune analogie ; 1 réflexe passif (« Se méfier ») | Chirurgie |
-| 11 | Intimité de couple | 937 | 3/4 | Majorité de liens collés ; aucune analogie ; aucun bloc 💑 alors que le chapitre entier traite du couple | Chirurgie |
-| 12 | Pour aller plus loin | 729 | 0/1 | Chapitre de clôture/navigation, pas d'étude à expliquer, fil impeccable | Rien à faire |
-| 13 | La neurobiologie du toucher | 854 | 2/2 | 2 liens collés sur 2, mais 2 analogies portées et retournées (13.1, 13.4), nuance double (13.3, 13.5) : le meilleur chapitre du guide, seul le sourçage doit être retravaillé | Chirurgie (sourçage) |
-| 14 | Ce que la recherche valide vraiment | 959 | 8/8 | Tous les liens collés, sur un volume important (8) ; aucune analogie malgré une structure pathologie par pathologie qui s'y prêterait bien | Chirurgie (sourçage, la plus lourde) |
-| 15 | Auto-massage : ce qui est valide | 813 | 1/1 | 1 lien collé ; analogie déjà présente (15.3, le pinceau) ; nuance déjà posée (15.2) | Chirurgie (légère) |
-| 16 | Statut légal du massage en France | 902 | 3/4 | Majorité de liens collés ; aucune analogie sur un sujet juridique qui pourrait en porter une | Chirurgie |
-| 17 | Devenir praticien | 826 | 3/4 | Majorité de liens collés ; aucune analogie | Chirurgie |
-| 18 | Repérer les dérives d'un secteur peu régulé | 925 | 2/2 | 2 liens collés sur 2 ; aucune analogie ; bloc 💑 déjà présent et pertinent (18.2) | Chirurgie (sourçage) |
-| 19 | Histoire et sociologie du massage | 930 | 5/5 | Tous les liens collés, sur un volume notable (5) ; mais 2 analogies portées (19.1, 19.4) et fil très cohérent | Chirurgie (sourçage) |
-| 20 | Éthique professionnelle et consentement | 968 | 1/1 | 1 lien collé ; aucune analogie ; aucun bloc 🗣️ malgré la charge émotionnelle documentée en 20.3 qui s'y prêterait | Chirurgie |
-| 21 | Accepter de faire son premier massage | 1166 | 7/7 | Tous les liens collés, sur un volume notable (7) ; mais 2 analogies (21.1, 21.4) et un bloc 👁️ déjà bien utilisé (21.2) | Chirurgie (sourçage) |
-
-Note méthodologique sur les verdicts : neuf chapitres (03, 05, 13, 14, 15, 18, 19, 20, 21) atteignent ou dépassent le seuil mécanique de 85 % de liens collés qui, pris isolément, déclencherait un verdict de réécriture. Dans chacun de ces cas, le fil n'est pas cassé, les études sont expliquées dans le texte autour du lien, et plusieurs de ces chapitres (13, 19, 21) comptent parmi les mieux construits du guide avec analogies portées et blocs de nuance. Le déclassement vers « chirurgie » reflète ce constat : ce qui doit changer, c'est la mécanique du lien (le poser sur une courte phrase plutôt que sur un résumé entier), pas la substance du chapitre.
+Comptage des mots : frontmatter, syntaxe Markdown des liens et URL exclus (texte de lien conservé). Réciprocité : URL exacte de chaque lien de chapitre recherchée telle quelle dans `4 - Sources/Massage professionnel.md` ; une URL différente pour la même référence (ex. lien scholar.google.com vs lien direct) compte comme non réciproque, conformément à la règle du lien direct identique.
 
 ## Estimation de coût
 
-- 20 chapitres en chirurgie × 10 000 à 15 000 tokens : 200 000 à 300 000 tokens.
-- 0 chapitre en réécriture.
-- **Total estimé : 200 000 à 300 000 tokens**, soit environ **1,5 à 2 sessions Claude Pro** (à 150 000-200 000 tokens exploitables par session).
+21 chapitres en Chirurgie, 0 en Réécriture, 0 Rien à faire.
 
-Les chapitres marqués « chirurgie (sourçage) » (03, 13, 14, 15, 18, 19, 21) sont les moins chers de leur catégorie : le travail y est presque uniquement mécanique (retravailler la pose des liens), sans ajout de structure. Les chapitres nécessitant en plus une analogie et/ou un bloc 👁️/💑/🗣️ (02, 04, 06, 07, 09, 11, 16, 17, 20) se situeront plutôt en haut de la fourchette 10-15k.
+- 21 × chirurgie : la fourchette basse couvre les chapitres à faible déficit et sourçage déjà réciproque (2, 9, 14, 20 — développement ciblé d'une sous-partie) ; la fourchette haute couvre les chapitres à fort déficit de mots et/ou forte casse de réciprocité (6, 9, 10, 12, 13, 15, 19 — développement plus substantiel, parfois une sous-partie entière à ajouter, plus correction de plusieurs liens dans `4 - Sources/`).
+- Aucune réécriture nécessaire : le fil, les objets définis, les analogies filées et les blocs Nuance/👁️/💑/🗣️ existants sont solides partout, ils ne sont nulle part à repartir de zéro.
+
+Chantier prioritaire suggéré avant relecture complète : corriger en un seul passage la réciprocité de `4 - Sources/Massage professionnel.md` (remplacer les 5-6 liens `scholar.google.com/scholar?q=...` obsolètes par les liens directs déjà utilisés dans les chapitres 1, 2, 4, 5, 6, 7, 8, 9, 10, 11), puis traiter chapitre par chapitre le déficit de mots, en commençant par les plus courts (12, 13, 15, 19, 10) où l'écart au plancher est le plus grand.
+
+---
+
+Retour à [l'accueil de Comprendre pour tous](<../README.md>).

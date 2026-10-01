@@ -4,7 +4,7 @@ chapitre: "10"
 titre: "Le deuil, seul et à deux"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -26,6 +26,14 @@ Le dégât est concret : croire à un ordre produit de la culpabilité. On se cr
 
 Le point important est que **l'oscillation entre les deux est le mécanisme sain**, pas un signe d'incohérence. Rire une heure après avoir pleuré n'est pas de l'indifférence. Être efficace sur des démarches administratives n'est pas de la froideur. Les deux mouvements sont nécessaires, et une personne bloquée exclusivement dans l'un des deux est celle dont il faut s'inquiéter. [Le modèle du double processus décrit une oscillation entre orientation vers la perte et orientation vers la restauration, plutôt qu'une séquence d'étapes](https://pubmed.ncbi.nlm.nih.gov/10848151/) (Stroebe & Schut, « The dual process model of coping with bereavement », *Death Studies*, 1999 ; vérification du 7 août 2026).
 
+⚖️ **Nuance**
+
+**Rire ou s'activer pendant un deuil n'est pas un manque de peine.** C'est le mouvement de restauration décrit ci-dessus, aussi nécessaire que le mouvement vers la perte. Y voir de la froideur ou de l'indifférence pousse souvent à culpabiliser quelqu'un qui traverse simplement l'autre moitié du même mécanisme.
+
+**Ne pas suivre le même rythme que son partenaire n'est pas un désaccord sur l'importance de la perte.** Le décalage des oscillations, détaillé plus loin, est la règle et non l'exception ; le prendre pour un signe que l'autre s'en fiche ou n'avance pas ajoute une seconde blessure à la première.
+
+**Un deuil qui dure n'est pas nécessairement un deuil qui dysfonctionne.** La durée seule n'alerte pas : c'est l'absence totale d'évolution au-delà d'environ un an, avec une identification qui empêche tout mouvement vers la vie, qui distingue un deuil prolongé à prendre en charge d'un deuil simplement long.
+
 ### 10.3 Ce qui est normal et ce qui alerte
 
 **Normal, même si déroutant** : des vagues sans prévenir des mois plus tard ; le soulagement, notamment après une longue maladie, et la culpabilité qui l'accompagne ; la colère contre le défunt ; l'impression de « voir » ou d'entendre la personne dans les premiers temps ; une fatigue physique importante.
@@ -42,7 +50,9 @@ Deux personnes qui perdent la même personne — un parent, un enfant, un ami co
 
 Le décalage des oscillations est la règle, pas l'exception. Le nommer suffit souvent à désamorcer : **« on n'est pas au même endroit en même temps, et ce n'est pas un problème. »**
 
-La perte d'un enfant mérite d'être signalée à part : elle met les couples sous une pression considérable, et l'accompagnement spécialisé y est particulièrement indiqué — non parce que le couple serait fragile, mais parce que la charge est hors norme. [Le décalage entre deux personnes endeuillées d'une même perte, chacune oscillant à son rythme, est décrit dans les prolongements du modèle du double processus](https://www.thelancet.com/journals/lancet/article/PIIS0140673607618169/abstract) (Stroebe, Schut & Stroebe, « Health outcomes of bereavement », *The Lancet*, 2007 ; vérification du 7 août 2026).
+Une image aide à s'en souvenir : deux personnes sur le même rivage, face à la même marée, n'ont pas forcément les pieds dans l'eau au même instant. L'une peut reculer devant une vague pendant que l'autre, plus loin sur la plage, est en train de ranger ses affaires en vue de rentrer. Ce n'est pas que l'une prend la perte plus au sérieux que l'autre : c'est que la marée ne touche jamais deux points du rivage exactement de la même façon au même moment.
+
+La perte d'un enfant mérite d'être signalée à part : elle met les couples sous une pression considérable, et l'accompagnement spécialisé y est particulièrement indiqué — non parce que le couple serait fragile, mais parce que la charge est hors norme. Demander cet accompagnement tôt, avant que le décalage entre les deux parents ne s'installe en ressentiment, change souvent la trajectoire de la relation davantage qu'une aide sollicitée des années plus tard, une fois les positions figées. [Le décalage entre deux personnes endeuillées d'une même perte, chacune oscillant à son rythme, est décrit dans les prolongements du modèle du double processus](https://www.thelancet.com/journals/lancet/article/PIIS0140673607618169/abstract) (Stroebe, Schut & Stroebe, « Health outcomes of bereavement », *The Lancet*, 2007 ; vérification du 7 août 2026).
 
 ### 10.5 Ce qui aide et ce qui n'aide pas
 

@@ -16,7 +16,7 @@ La distinction est connue : une question fermée appelle oui, non, ou un fait un
 
 Le malentendu, c'est de croire que l'ouverte est toujours meilleure. Faux. Une question ouverte posée trop tôt met la pression : raconte-moi ton enfance, à quelqu'un qui vient de s'asseoir, est une demande de travail. Une question fermée bien placée est un point d'appui : elle est facile à répondre, elle engage peu, et elle ouvre une porte que l'autre peut franchir s'il le veut.
 
-La bonne séquence est presque toujours fermée puis ouverte. Tu vois encore ton frère ? Puis, si la réponse ouvre quelque chose, vous vous êtes rapprochés ou c'est resté pareil ? [Cette séquence fermé-puis-ouvert est une technique classique d'entretien, où les questions fermées cadrent le terrain avant que les questions ouvertes ne le développent, sans le biaiser](https://books.google.com/books/about/MEMORY_ENHANCING_TECHNIQUES_FOR_INVESTIG.html?id=W0_YCQAAQBAJ) (Fisher & Geiselman, *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 ; vérification du 8 août 2026).
+La bonne séquence est presque toujours fermée puis ouverte. Tu vois encore ton frère ? Puis, si la réponse ouvre quelque chose, vous vous êtes rapprochés ou c'est resté pareil ? Cette séquence fermé-puis-ouvert est [une technique classique d'entretien](https://books.google.com/books/about/MEMORY_ENHANCING_TECHNIQUES_FOR_INVESTIG.html?id=W0_YCQAAQBAJ), où les questions fermées cadrent le terrain avant que les questions ouvertes ne le développent, sans le biaiser (Fisher & Geiselman, *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 ; vérification du 8 août 2026).
 
 **Bons réflexes.** Utiliser le fermé pour ouvrir un dossier, l'ouvert pour l'explorer. Et ne jamais poser deux questions dans la même phrase : l'autre répond à la plus facile des deux et l'autre est perdue.
 
@@ -32,7 +32,7 @@ Une même question existe à trois étages, et l'écart entre les trois est tout
 
 **Étage 3, le sens.** Qu'est-ce que ça t'a fait, ou qu'est-ce que ça change pour toi. C'est là que la réponse n'existe pas encore et qu'elle doit être fabriquée.
 
-La plupart des conversations restent bloquées à l'étage 1 toute une vie, entre des gens qui s'apprécient sincèrement. Ce n'est pas un manque d'affection, c'est un manque de vocabulaire de requête. [Ce passage du fait au vécu puis au sens correspond à la progression décrite par le modèle du processus d'intimité, où l'auto-divulgation et la réactivité du partenaire s'approfondissent par paliers](https://www.researchgate.net/publication/347687013_Intimacy_as_an_interpersonal_process) (Reis & Shaver, dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 8 août 2026).
+La plupart des conversations restent bloquées à l'étage 1 toute une vie, entre des gens qui s'apprécient sincèrement. Ce n'est pas un manque d'affection, c'est un manque de vocabulaire de requête. Ce passage du fait au vécu puis au sens correspond à [la progression décrite par le modèle du processus d'intimité](https://www.researchgate.net/publication/347687013_Intimacy_as_an_interpersonal_process), où l'auto-divulgation et la réactivité du partenaire s'approfondissent par paliers (Reis & Shaver, dans *Handbook of Personal Relationships*, Wiley, 1988 ; vérification du 8 août 2026).
 
 **Bons réflexes.** Une conversation par jour où tu montes d'un étage. Pas trois, un. Le passage du 1 au 2 se fait avec c'était comment ou tu l'as vécu comment. Le passage du 2 au 3 se fait avec qu'est-ce que ça t'a fait ou t'en as retenu quoi.
 
@@ -76,11 +76,21 @@ Cinq formes à repérer, parce qu'elles ont l'apparence de questions et n'en son
 
 **Bons réflexes.** Après avoir posé une question, ne rien ajouter. La reformuler, la préciser, ou l'illustrer par un exemple personnel, c'est déjà la refermer.
 
+⚖️ **Nuance : cinq questions qui n'en sont pas**
+
+- **"Tu ne trouves pas que c'était abusé ?" n'est pas une question, c'est une affirmation qui réclame une ratification.** Elle ne fait remonter aucune information nouvelle.
+- **"Tu comptais me le dire quand ?" n'est pas une question, c'est une accusation.** Elle appelle une défense, jamais une réponse sincère.
+- **"Ça a dû être dur, non ?" n'est pas une question, c'est une réponse déjà fournie.** L'autre devrait te contredire pour exprimer ce qu'il ressent vraiment, ce que la plupart des gens ne font pas.
+- **"Tu as fait quoi ce week-end, moi j'ai fait ça" n'est pas une question, c'est un tremplin vers toi-même.** Ça se repère instantanément et ça annule le bénéfice de la démarche.
+- **Trois questions d'affilée sans laisser répondre ne sont pas de la curiosité, c'est de l'anxiété.** L'autre ne répond alors qu'à la dernière, les deux précédentes sont perdues.
+
+Ce que ces cinq formes ont en commun : elles ont la ponctuation d'une question et la fonction d'autre chose, affirmation, accusation, validation ou tremplin. Ce n'est jamais l'intention qui les trahit, c'est ce qu'elles laissent réellement à répondre.
+
 ### 2.6 Direct ou indirect, une affaire de contexte plus que de politesse
 
 Le degré de franchise attendu dans une question n'est pas universel, et confondre ça avec un trait de caractère fait rater beaucoup d'échanges.
 
-L'anthropologue Edward T. Hall distingue les cultures à contexte fort, où [le sens d'un échange repose largement sur le non-dit, la relation entre les personnes et la situation, rendant une question trop directe intrusive ou même agressive](https://archive.org/details/beyondculture0000hall), des cultures à contexte faible, où la clarté explicite prime et où une question indirecte passe pour de l'esquive (Hall, *Beyond Culture*, Anchor Press, 1976 ; vérification du 17 septembre 2026). Une bonne partie du monde francophone occupe une position intermédiaire, plus indirecte que les pays anglo-saxons du nord de l'Europe et moins que certaines cultures est-asiatiques.
+L'anthropologue Edward T. Hall distingue les cultures à contexte fort, où le sens d'un échange repose largement sur le non-dit, [rendant une question trop directe intrusive ou même agressive](https://archive.org/details/beyondculture0000hall), des cultures à contexte faible, où la clarté explicite prime et où une question indirecte passe pour de l'esquive (Hall, *Beyond Culture*, Anchor Press, 1976 ; vérification du 17 septembre 2026). Une bonne partie du monde francophone occupe une position intermédiaire, plus indirecte que les pays anglo-saxons du nord de l'Europe et moins que certaines cultures est-asiatiques.
 
 Ça se joue aussi à l'intérieur d'une même culture, entre régions, générations ou familles. Une question posée frontalement à quelqu'un habitué à un style plus feutré ne sera pas entendue comme de la franchise, elle sera entendue comme un manque d'égards, même si l'intention était bonne.
 
@@ -90,7 +100,7 @@ L'anthropologue Edward T. Hall distingue les cultures à contexte fort, où [le 
 
 Deux personnes peuvent recevoir exactement la même question et y réagir de façon opposée, pour une raison qui n'a rien à voir avec la question elle-même : leur rapport habituel à l'intimité.
 
-[Une étude comparant des personnes classées selon leur style d'attachement montre que les personnes à l'attachement évitant se dévoilent nettement moins, quel que soit le niveau de dévoilement de leur interlocuteur, tandis que les personnes à l'attachement sécure ajustent leur propre niveau de confidence à celui de la personne en face, un phénomène appelé dévoilement réactif](https://www.researchgate.net/profile/Mario-Mikulincer/publication/247434084_Attachment_Styles_and_Patterns_of_Self-Disclosure/links/555f052508ae6f4dcc8e1a75/Attachment-Styles-and-Patterns-of-Self-Disclosure.pdf) (Mikulincer & Nachshon, *Journal of Personality and Social Psychology*, 1991 ; vérification du 17 septembre 2026).
+Une étude comparant des personnes classées selon leur style d'attachement montre que [les personnes à l'attachement évitant se dévoilent nettement moins](https://www.researchgate.net/profile/Mario-Mikulincer/publication/247434084_Attachment_Styles_and_Patterns_of_Self-Disclosure/links/555f052508ae6f4dcc8e1a75/Attachment-Styles-and-Patterns-of-Self-Disclosure.pdf), quel que soit le niveau de dévoilement de leur interlocuteur, tandis que les personnes à l'attachement sécure ajustent leur propre niveau de confidence à celui de la personne en face, un phénomène appelé dévoilement réactif (Mikulincer & Nachshon, *Journal of Personality and Social Psychology*, 1991 ; vérification du 17 septembre 2026).
 
 Concrètement, une question profonde qui ne produit presque rien chez quelqu'un ne veut pas forcément dire que la question était ratée ou que la relation est froide. Ça peut simplement être le style habituel de cette personne face à toute question intime, y compris venant de quelqu'un en qui elle a confiance. Le contraire est vrai aussi : quelqu'un qui répond avec beaucoup de détails à une question banale ne cherche pas forcément à créer un lien particulier avec toi, c'est peut-être son mode par défaut.
 

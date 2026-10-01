@@ -4,7 +4,7 @@ chapitre: "1"
 titre: "Ce qu'un trauma fait au corps"
 sujet: "commun"
 angle: "physiologie"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -17,6 +17,8 @@ Une alarme incendie est censée sonner quand il y a le feu. Si elle a été mal 
 C'est exactement ce qu'est une séquelle traumatique. Ce n'est pas de la fragilité, ni un défaut de volonté. C'est un système de détection du danger qui a appris, dans une situation où c'était utile, à déclencher plus vite et plus fort — et qui continue à appliquer ce réglage dans des situations où il ne l'est plus.
 
 Cette distinction est la base de tout ce guide. Un partenaire qui se met en alerte pour une remarque anodine ne fait pas un caprice : son alarme se déclenche avant que son raisonnement ait eu le temps d'intervenir. [Ce réglage sensoriel a été décrit par Joseph LeDoux, qui a montré que la voie courte du traitement de la menace passe par l'amygdale avant tout traitement conscient](https://www.simonandschuster.com/books/The-Emotional-Brain/Joseph-Ledoux/9780684836591) (LeDoux, *The Emotional Brain*, Simon & Schuster, 1996 ; vérification du 7 août 2026).
+
+Concrètement, cela peut donner une scène banale : un couple regarde un film, une porte claque dans l'appartement voisin, et l'un des deux partenaires se lève d'un bond, le cœur battant, avant même d'avoir identifié le bruit. L'autre, qui n'a pas ce réglage, ne comprend pas ce qui se passe et peut y voir de l'exagération. Les deux ont raison sur ce qu'ils vivent : l'un perçoit un bruit sans enjeu, l'autre perçoit un signal qui, pour son système d'alarme, ressemble à celui d'un vrai danger passé. Ce n'est un jugement moral ni dans un sens ni dans l'autre, c'est un désaccord de calibrage.
 
 ### 1.2 Ce qui se passe physiologiquement
 
@@ -38,15 +40,19 @@ Un souvenir ordinaire est daté, contextualisé, racontable : on sait que c'est 
 
 C'est ce qui explique que « c'est fini, tu es en sécurité maintenant » ne fonctionne pas. La phrase s'adresse au raisonnement ; l'alarme, elle, n'entend pas les arguments. Ce n'est pas que la personne refuse d'être rassurée — c'est que la réassurance verbale ne passe pas par le bon canal. [Bessel van der Kolk a documenté comment un souvenir traumatique reste stocké sous une forme sensorielle et fragmentaire plutôt que narrative](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952) (van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
 
-⚖️ **Nuance : ce que le mot « trauma » ne veut pas dire**
+Dans la pratique, ce mécanisme se traduit souvent par un décalage de rythme entre les deux partenaires : celui qui n'a pas vécu l'événement voudrait comprendre tout de suite, poser des questions, obtenir une explication cohérente. Celui qui porte la séquelle peut n'avoir accès, sur le moment, qu'à des fragments : une image, une sensation dans la poitrine, l'envie de fuir la pièce, sans le fil narratif qui les relierait. Demander ce fil pendant l'activation revient à demander à quelqu'un de lire un livre dont les pages ont été mélangées, alors que la seule chose possible dans l'instant est de reconnaître qu'il y a bien des pages, et d'attendre qu'elles se remettent en ordre.
 
-Trois malentendus, parce que le vocabulaire du trauma s'est banalisé et perd en précision.
+### 1.4 Ce que le mot « trauma » ne veut pas dire
 
-**Tout événement difficile n'est pas un trauma.** Une rupture douloureuse, un licenciement, un deuil sont des épreuves ; elles ne produisent pas nécessairement de séquelle traumatique au sens clinique décrit dans ce chapitre. Utiliser le mot pour tout affaiblit ce qu'il décrit, et rend plus difficile de repérer une vraie alarme mal réglée quand elle se présente.
+Le mot s'est banalisé au point de désigner presque n'importe quel désagrément, et cette banalisation a un coût concret : elle rend plus difficile de repérer une vraie alarme mal réglée quand elle se présente vraiment.
 
-**La majorité des personnes exposées à un événement traumatique ne développent pas de trouble durable.** [La résilience est la réponse la plus fréquente à un événement potentiellement traumatique : George Bonanno l'a montré sur plusieurs cohortes exposées à des pertes et des événements violents](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/americanPsychologist.pdf) (Bonanno, « Loss, trauma, and human resilience », *American Psychologist*, 2004 ; vérification du 7 août 2026). C'est important à dire : un événement grave ne condamne pas, la plupart des alarmes finissent par se recalibrer avec le temps ou un accompagnement adapté.
+⚖️ **Nuance**
 
-**Un trauma n'explique pas tout et n'excuse rien.** Il explique une réaction ; il n'autorise pas un comportement blessant envers un partenaire. La différence entre expliquer et excuser est traitée au chapitre 5.
+**« Trauma » n'est pas synonyme de « difficile ».** Une rupture douloureuse, un licenciement, un conflit familial sont des épreuves réelles ; elles ne produisent pas nécessairement de séquelle traumatique au sens clinique décrit dans ce chapitre, celui d'un système de détection du danger durablement recalibré. Employer le mot pour toute contrariété dilue ce qu'il décrit et empêche de le prendre au sérieux quand il s'applique vraiment.
+
+**Avoir vécu un événement traumatique n'est pas la même chose que développer un trouble durable.** [La résilience est la réponse la plus fréquente à un événement potentiellement traumatique : George Bonanno l'a montré sur plusieurs cohortes exposées à des pertes et des événements violents](https://www.tc.columbia.edu/faculty/gab38/faculty-profile/files/americanPsychologist.pdf) (Bonanno, « Loss, trauma, and human resilience », *American Psychologist*, 2004 ; vérification du 7 août 2026). Dans la plupart des cas, l'alarme finit par se recalibrer avec le temps ou un accompagnement adapté ; un événement grave ne condamne pas systématiquement à vivre avec une séquelle.
+
+**Expliquer n'est pas excuser.** Un trauma explique une réaction ; il n'autorise pas un comportement blessant envers un partenaire. La différence entre les deux est traitée au chapitre 5, et elle recouvre les deux malentendus précédents : le mot ne doit ni être dilué par confort de langage, ni brandi comme un totem qui rendrait une réaction incontestable.
 
 ### 1.5 Recalibrer l'alarme : ce qui change réellement le seuil
 
@@ -66,3 +72,5 @@ La seule chose qui aide sur le moment est de faire baisser l'activation, pas de 
 - Utilisez le levier du corps plutôt que de l'émotion : **« où est-ce que tu le sens, là, physiquement ? »** est répondable, contrairement à « qu'est-ce que tu ressens ? ».
 - Ne demandez jamais « pourquoi » pendant l'activation. Demandez **« qu'est-ce qui s'est passé juste avant ? »** — la chronologie est accessible, la justification ne l'est pas.
 - Ne touchez pas sans prévenir une personne en état d'activation, même avec de bonnes intentions. Demandez : « est-ce que je peux te prendre la main ? »
+
+L'analogie de l'alarme mal réglée a cependant une limite, et c'est en la voyant qu'on comprend ce que ce chapitre ne peut pas résumer en une image. Une alarme incendie est un objet : un technicien ouvre le boîtier, ajuste un seuil, et le réglage tient. Le système d'alerte humain n'a pas de boîtier unique à ouvrir une fois pour toutes : le seuil se redéplace en fonction du sommeil, du stress ambiant, de la sécurité relationnelle du moment, et le recalibrage n'est jamais définitivement acquis. C'est une raison de patience, pas de découragement : le chapitre suivant explique ce que ce recalibrage progressif donne concrètement une fois qu'il commence à s'installer dans la vie à deux.

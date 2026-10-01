@@ -1,98 +1,69 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-24
+mis_a_jour_le: 2026-09-25
 ---
 
 # Audit — Pour Elle
 
-## Synthèse
+Ré-audit complet, à neuf, des 39 chapitres du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), après la passe de reprise sous `Redaction2Chapitre` qui avait touché 16 chapitres (8, 9, 14, 20, 23, 24, 25, 27, 28, 29, 30, 35, 36, 37, 38, 39) et laissé les 23 autres tels quels. Cet audit ne présume pas du résultat de cette reprise : chaque chapitre a été relu et noté sur la grille des neuf points, indépendamment de son statut précédent. L'ancien rapport à cet emplacement est remplacé intégralement.
 
-39 chapitres numérotés (01 à 39) plus un `README.md`. Aucun spawn d'agent, lecture intégrale chapitre par chapitre.
+**Verdicts : 18 chapitres rien à faire, 21 en chirurgie, aucun en réécriture.** Le fil narratif tient partout, aucun chapitre n'est une simple juxtaposition de résumés d'études ; personne ne mérite une réécriture complète.
 
-Verdicts : **23 Rien à faire**, **16 Chirurgie**, **0 Réécriture**.
+**Défaut dominant, transversal : l'analogie filée est absente dans 19 chapitres sur 39.** Les chapitres 1 à 13 (bloc physiologie/santé) ont presque tous leur analogie ("le fusible", "la maison qui s'éteint pièce par pièce", "l'alarme mal calibrée"...). À partir du chapitre 15, l'analogie disparaît presque totalement, y compris dans huit des seize chapitres pourtant déjà passés en chirurgie (23, 24, 25, 27, 28, 29, 37, 38, 39 — seuls 20, 35 et 36 dans ce lot en ont une). La reprise a donc bien ajouté les blocs ⚖️ Nuance et 👁️💑 aux chapitres qu'elle a touchés, mais a laissé de côté l'analogie sur la majorité d'entre eux : ce n'est pas un chantier neuf, c'est une reprise inachevée sur un critère précis.
 
-Ce guide est globalement solide : le fil est tenu dans les 39 chapitres, les objets centraux sont presque toujours définis (pas seulement cités), les analogies filées sont nombreuses et bien reprises en fin de chapitre (orchestre du cycle, fusible de la santé émotionnelle, maison qui s'éteint pièce par pièce pour la dépression, détecteur de fumée pour l'anxiété, standard téléphonique pour la pilule, iceberg pour le clitoris, chantier de construction pour la grossesse, miroir déformant pour les réseaux sociaux, alarme mal calibrée pour les peurs, pompe et disjoncteur pour la demande/retrait). Les chiffres sont presque systématiquement amenés par une question et suivis d'une échelle de comparaison (chapitre 1 en particulier est exemplaire sur ce point). Les études sont en général expliquées (méthode + résultat + intérêt), avec de bons exemples au chapitre 1 (cohorte danoise), chapitre 3 (étude McClintock 1971 et sa réfutation), chapitre 20 (l'expérience des trois minutes de Gottman).
+**Deuxième défaut, mineur mais récurrent (dans et hors des chapitres repris) : un réflexe isolé formulé en "Se rappeler que…" ou "Retenir…" ou "Garder à l'esprit…"**, qui restaure un fait plutôt que de proposer une action — dans 05, 06, 07, 13, 15, 18, 24, 25 (×2), 31 (×2), 36. Toujours un seul réflexe sur une liste de trois à cinq par ailleurs correctement formulée en actions : correction rapide, pas une reprise de fond.
 
-Trois défauts structurels traversent tout le guide, plutôt que d'être isolés à quelques chapitres :
+**Troisième point, sur le chapitre 1 spécifiquement** : 12 liens dont le texte dépasse 25 mots (chiffre amené directement, sans être posé par une question ni systématiquement suivi d'une comparaison d'échelle) — le seul chapitre où ce défaut est concentré à ce point.
 
-1. **Aucun bloc `⚖️ Nuance` au format standard nulle part dans les 39 chapitres.** De la nuance existe bel et bien dans le texte (chapitre 1.5, chapitre 9 sur le squirting, chapitre 25 sur les reines des abeilles, chapitre 29 sur les langages de l'amour), mais jamais sous la forme d'un bloc dédié et identifiable. C'est un choix éditorial cohérent sur l'ensemble du guide, donc probablement volontaire, mais il vaut la peine d'être signalé puisque la grille d'audit le cherche explicitement.
-2. **Aucun bloc `🗣️` (témoignage) nulle part.** Les blocs 💑 (23 chapitres) et 👁️ (12 chapitres : 16, 17, 18, 19, 23, 24, 25, 26, 28, 30, 31, 35) sont bien présents et pertinents, mais le registre du témoignage personnel n'est jamais utilisé, y compris dans des chapitres où un vécu très fort serait un candidat naturel (fausse couche au chapitre 10, TDPM au chapitre 8, mère célibataire au chapitre 31).
-3. **Le sourçage « collé »** (liens dont le texte dépasse 25 mots ou contient un point-virgule) est très inégal. Les chapitres médicaux/physiologiques (2, 3, 8, 9, 10, 11) restent en dessous de 35 % et souvent sous 15 %. À l'inverse, les chapitres de la série relationnelle/sociologique (23 à 30, 35 à 39) dépassent presque tous 30 %, avec des pics à 73 % (chapitre 35), 47 % (chapitres 28 et 30) et 60 % (chapitre 36). Ces chapitres empilent des phrases-citations issues d'articles de vulgarisation anglophones, traduites et collées telles quelles derrière un lien, plutôt que reformulées et expliquées. Le sourçage reste réel (pas de source fabriquée détectée), mais la forme est celle d'un résumé d'étude traduit-collé plutôt que d'une explication.
+**Réciprocité des sources : 0 % d'écart.** Les 360 URL uniques citées dans les 39 chapitres figurent toutes dans `4 - Sources/Pour Elle.md`. Aucune source orpheline détectée.
 
-Un défaut isolé mais net repéré au chapitre 34 (Glossaire) : la dernière ligne du document (« *Fin du document. Rédigé le 21 juillet 2026, édition augmentée. Sources vérifiées et datées à cette même période.* ») est une note de mainteneur laissée dans le contenu publié, en violation directe de la règle « rien de journal ou de mainteneur dans le contenu publié ». À corriger en priorité, c'est un simple retrait de ligne.
+**Note de format, non comptée comme défaut** : les chapitres 8 et 9 (catalogues de pathologies/troubles) n'ont pas de section `## Sources vérifiables` de fin de chapitre — leurs sources sont toutes en lien direct sur la phrase qu'elles appuient, sous-partie par sous-partie, ce qui respecte la règle de réciprocité et le sourçage en hyperlien. Format cohérent avec leur nature de panorama, pas un défaut au sens de la grille.
 
-Défaut structurel isolé au chapitre 30 : la section « Bons réflexes » apparaît **deux fois de suite**, avec deux jeux de puces différents (lignes ~63 et ~68 du fichier) — probablement un reliquat de fusion/édition, à consolider en un seul bloc.
-
-## Mesures globales
-
-| Mesure | Valeur |
-|---|---|
-| Chapitres numérotés | 39 |
-| Mots, total guide (hors README) | environ 77 200 |
-| Chapitres sous le plancher de 1500 mots | 7 (32, 33, 34 — format FAQ/ressources/glossaire, plancher non pertinent ; 36, 37, 39 sous 1500 ; 38 juste au-dessus à 1642) |
-| Chapitres avec bloc 💑 | 23 / 39 |
-| Chapitres avec bloc 👁️ | 12 / 39 |
-| Chapitres avec bloc 🗣️ | 0 / 39 |
-| Chapitres avec bloc ⚖️ Nuance (format dédié) | 0 / 39 |
-| Ratio moyen de liens « collés » (>25 mots ou point-virgule) | environ 30 %, avec de fortes disparités (6 % à 73 % selon les chapitres) |
-| Chapitres avec ratio de liens collés > 40 % | 8 (14, 20, 25, 27, 28, 35, 36, 39) |
-| Verdict Rien à faire | 23 |
-| Verdict Chirurgie | 16 |
-| Verdict Réécriture | 0 |
-
-## Tableau détaillé par chapitre
+## Tableau
 
 | # | Chapitre | Mots | Défauts relevés | Verdict |
 |---|---|---|---|---|
-| 01 | Le décor : ce que disent les chiffres | 1976 | Pas d'analogie filée (non nécessaire, chapitre de repères chiffrés) ; nuance de fin (1.5) solide mais pas en bloc ⚖️ dédié ; 34 % liens collés | Rien à faire |
-| 02 | Le cycle menstruel | 2423 | Analogie orchestre/thermostat filée et reprise ; sourçage propre (20 % collé) | Rien à faire |
-| 03 | Pourquoi les humains menstruent | 2138 | Analogie hôtel filée ; étude McClintock bien expliquée avec sa réfutation ; 33 % collé | Rien à faire |
-| 04 | La santé émotionnelle féminine | 1943 | Analogie fusible filée et reprise ; bon équilibre positif/négatif (4.2 bis) ; 23 % collé | Rien à faire |
-| 05 | La dépression féminine | 2021 | Analogie maison filée ; section chances de rémission bien sourcée et chiffrée ; 1 réflexe passif (« se rappeler ») sur 3 | Rien à faire |
-| 06 | Anxiété, stress et corps | 1948 | Analogie détecteur de fumée filée et reprise en clôture ; bon équilibre difficultés/espoir | Rien à faire |
-| 07 | Contraception hormonale | 2222 | Analogie standard téléphonique présente mais moins reprise en fin de chapitre ; 28 % collé ; sinon raisonnement en étapes très clair | Rien à faire |
-| 08 | Troubles et pathologies du cycle | 5672 | Très long (3,8× le plancher) ; format panorama juxtaposé (24 sous-parties courtes) plutôt qu'un fil unique, ce qui est le genre assumé mais rend la lecture linéaire difficile ; sourçage propre (8 % collé) | Chirurgie (fragmenter ou resserrer, pas de problème de fond) |
-| 09 | Sexualité féminine | 4736 | Long (3× le plancher) mais bien structuré en sous-numéros cohérents ; analogies multiples et filées (iceberg, voiture accélérateur/frein, pomme véreuse) ; sourçage propre (6 % collé) | Chirurgie (longueur à resserrer, aucun défaut de fond) |
-| 10 | La grossesse | 2492 | Analogie chantier filée ; sourçage très propre (7 % collé) | Rien à faire |
-| 11 | Accouchement et post-partum | 2102 | Pas d'analogie unique mais panorama cohérent ; sourçage très propre (7 % collé) | Rien à faire |
-| 12 | Les pièges de la modernité | 1961 | Analogie miroir déformant filée et reprise en clôture | Rien à faire |
-| 13 | Les peurs rationnelles ou non | 1943 | Analogie alarme mal calibrée filée et reprise en clôture ; bonne distinction risques sur/sous-estimés | Rien à faire |
-| 14 | La recherche en 2026 | 2015 | Pas d'analogie (non nécessaire, chapitre biographique) ; 45 % liens collés, plusieurs portraits résumés en une phrase-citation plutôt qu'expliqués | Chirurgie (désourcer, expliquer davantage la méthode de chaque étude citée) |
-| 15 | Conseils pratiques généraux | 1914 | Pas d'analogie (non nécessaire) ; bonne clôture avec données sur le couple comme facteur de santé | Rien à faire |
-| 16 | Les grands profils féminins | 3866 | Long mais structure répétitive assumée (11 profils) qui porte la longueur ; blocs 👁️ nombreux et pertinents | Rien à faire |
-| 17 | Le corps féminin : ce qu'il est utile de savoir | 1961 | Bloc 👁️ pertinent ; bon fil reliant thyroïde/fer/os/auto-immun en conclusion | Rien à faire |
-| 18 | Les âges de la vie féminine | 1965 | Bloc 👁️ pertinent ; bonne section sur la génération sandwich | Rien à faire |
-| 19 | Le désert relationnel féminin | 1972 | Bloc 👁️ pertinent ; bon contrepoint méthodologique en ouverture (le réseau féminin est statistiquement plus large, pas plus pauvre) | Rien à faire |
-| 20 | La boîte à outils de couple | 1937 | 43 % liens collés (nombreuses citations Gottman/OSU compressées) ; contenu solide malgré la forme | Chirurgie (reformuler les citations en explications) |
-| 21 | Les limites | 1961 | 2 réflexes passifs sur 3 dans la dernière section ; sinon chapitre nécessaire et bien calibré (DARVO bien expliqué) | Rien à faire |
-| 22 | La santé sur le long terme | 1989 | Pas d'analogie (non nécessaire, chapitre calendrier) ; bon croisement classement/décennies | Rien à faire |
-| 23 | Ce que les femmes attendent des femmes | 1959 | 28 % liens collés ; bloc 👁️ présent | Chirurgie (désourcer partiellement) |
-| 24 | Ce que les femmes attendent des hommes | 1958 | 36 % liens collés ; bloc 👁️ présent ; « mythe du baromètre » bien expliqué | Chirurgie (désourcer) |
-| 25 | Ce qui leur fait peur chez les femmes | 2129 | 45 % liens collés, le plus élevé après 35/36 ; plusieurs citations juxtaposées sans reformulation complète | Chirurgie (désourcer) |
-| 26 | Ce qui leur fait peur chez les hommes | 1967 | Sourçage plus propre (21 % collé) ; chiffres français bien contextualisés (SSMSI) ; bloc 👁️ pertinent | Rien à faire |
-| 27 | Ce qui compte vraiment chez les femmes | 1976 | 43 % liens collés ; enchaînement de résultats d'études sans toujours expliquer la méthode | Chirurgie (désourcer, expliquer les études) |
-| 28 | Ce qui compte vraiment chez les hommes | 1970 | 47 % liens collés, le plus élevé de la série relationnelle avec le 30 ; bloc 👁️ présent mais noyé sous les citations | Chirurgie (désourcer) |
-| 29 | Comment expriment-elles leur amour | 1967 | 36 % liens collés ; bon point de méthode critique sur les « langages de l'amour » (rare et bienvenu) | Chirurgie (désourcer) |
-| 30 | Comment sont-elles vues... dans la famille | 1978 | 47 % liens collés ; **section « Bons réflexes » dupliquée** (deux blocs consécutifs avec puces différentes, probable reliquat d'édition) | Chirurgie (fusionner les deux blocs de réflexes, désourcer) |
-| 31 | Mères célibataires aujourd'hui | 2065 | 26 % liens collés ; bloc 👁️ pertinent ; bon équilibre difficulté réelle / données rassurantes | Rien à faire |
-| 32 | Foire aux questions | 487 | Format FAQ assumé, plancher de 1500 mots non pertinent ; contenu correct et actionnable | Rien à faire |
-| 33 | Ressources et associations | 294 | Format liste de ressources assumé, plancher non pertinent | Rien à faire |
-| 34 | Glossaire des termes médicaux | 617 | Format glossaire assumé, plancher non pertinent ; **dernière ligne = note de mainteneur laissée dans le contenu publié** (« Fin du document. Rédigé le... ») à supprimer | Rien à faire hors ce point (suppression d'une ligne) |
-| 35 | Les conflits entre femmes | 1807 | **73 % de liens collés, le plus élevé de tout le guide** ; beaucoup de citations d'études juxtaposées sans reformulation ; analogie de la pièce silencieuse présente mais peu reprise ensuite | Chirurgie (désourçage prioritaire) |
-| 36 | Le substrat neuro-psychologique féminin | 1444 | Sous le plancher de 1500 mots ; 60 % liens collés ; 3 réflexes passifs sur 6 (« se souvenir/se rappeler ») ; analogie du tissu tricoté bonne mais sourçage à revoir | Chirurgie (désourcer, étoffer, convertir les réflexes passifs) |
-| 37 | Le désir féminin dans la durée | 1461 | Sous le plancher de 1500 mots ; 40 % liens collés ; pas d'analogie filée propre au chapitre | Chirurgie (désourcer, étoffer légèrement) |
-| 38 | Les reproches récurrents | 1642 | 42 % liens collés malgré une structure « vrai/faux/mécanique/reformulation/responsabilité » très réussie qui limite l'impact du sourçage collé | Chirurgie (désourcer uniquement, structure à garder telle quelle) |
-| 39 | Le dilemme féminin contemporain | 990 | Nettement sous le plancher (990 mots, le plus court des chapitres numérotés hors FAQ/ressources/glossaire) ; seulement 2 sous-parties, structure moins développée que le reste du guide ; 50 % liens collés | Chirurgie (étoffer avec au moins une sous-partie supplémentaire, désourcer) |
+| 1 | Le décor : ce que disent les chiffres | 2027 | 12 liens longs/collés, chiffres pas amenés par une question, pas d'analogie (chapitre chiffré, attendu) | Chirurgie |
+| 2 | Le cycle menstruel | 2484 | Aucun défaut majeur relevé | Rien à faire |
+| 3 | Pourquoi les humains menstruent | 2183 | Aucun défaut majeur relevé | Rien à faire |
+| 4 | La santé émotionnelle féminine | 1998 | Aucun défaut majeur relevé | Rien à faire |
+| 5 | La dépression féminine | 2083 | 1 réflexe en "Se rappeler" | Rien à faire |
+| 6 | Anxiété, stress et corps | 2007 | 1 réflexe en "Se rappeler" | Rien à faire |
+| 7 | Contraception hormonale | 2258 | 1 réflexe en "Se rappeler" | Rien à faire |
+| 8 | Troubles et pathologies du cycle | 5889 | Pas de section Sources vérifiables de fin (sourcé en ligne, cf. note de format) | Rien à faire |
+| 9 | Sexualité féminine | 4880 | Idem 8, format catalogue assumé | Rien à faire |
+| 10 | La grossesse | 2540 | Aucun défaut majeur relevé | Rien à faire |
+| 11 | Accouchement et post-partum | 2136 | Analogie ponctuelle (baby blues) seulement, pas filée sur tout le chapitre (format catalogue) | Rien à faire |
+| 12 | Les pièges de la modernité | 2029 | Aucun défaut majeur relevé | Rien à faire |
+| 13 | Les peurs rationnelles ou non | 1998 | 1 réflexe en "Retenir" (13.5) | Rien à faire |
+| 14 | La recherche en 2026 | 2252 | Format profils de chercheurs, pas d'analogie (non pertinent ici), fil assuré par la section de clôture dédiée | Rien à faire |
+| 15 | Conseils pratiques généraux | 1961 | Pas d'analogie, 1 réflexe en "Se rappeler" (15.7 bis) | Chirurgie |
+| 16 | Les grands profils féminins | 4053 | Pas d'analogie (catalogue de 11 profils) | Chirurgie |
+| 17 | Le corps féminin : ce qu'il est utile de savoir | 2031 | Pas d'analogie | Chirurgie |
+| 18 | Les âges de la vie féminine | 2025 | Pas d'analogie, 1 réflexe en "Garder à l'esprit" (18.2 bis) | Chirurgie |
+| 19 | Le désert relationnel féminin | 2035 | Pas d'analogie | Chirurgie |
+| 20 | La boîte à outils de couple | 2196 | Aucun défaut majeur relevé (analogie pompe/disjoncteur, nuance, réflexes en actions) | Rien à faire |
+| 21 | Les limites | 2031 | Pas d'analogie | Chirurgie |
+| 22 | La santé sur le long terme | 2047 | Pas d'analogie | Chirurgie |
+| 23 | Ce que les femmes attendent des femmes | 2109 | Pas d'analogie | Chirurgie |
+| 24 | Ce que les femmes attendent des hommes | 2135 | Pas d'analogie, 1 réflexe en "Se rappeler" | Chirurgie |
+| 25 | Ce qui leur fait peur chez les femmes | 2332 | Pas d'analogie, 2 réflexes en "Se rappeler", 14 liens longs | Chirurgie |
+| 26 | Ce qui leur fait peur chez les hommes | 2049 | Pas d'analogie | Chirurgie |
+| 27 | Ce qui compte vraiment chez les femmes | 2149 | Pas d'analogie, 14 liens longs | Chirurgie |
+| 28 | Ce qui compte vraiment chez les hommes | 2149 | Pas d'analogie, 17 liens longs | Chirurgie |
+| 29 | Comment expriment-elles leur amour | 2120 | Pas d'analogie | Chirurgie |
+| 30 | Comment sont-elles vues et existent-elles dans la famille | 2163 | Pas d'analogie | Chirurgie |
+| 31 | Mères célibataires aujourd'hui | 2142 | Pas d'analogie, 2 réflexes en "Se rappeler" | Chirurgie |
+| 32 | Foire aux questions | 494 | Page de référence, hors grille de chapitre narratif | Rien à faire |
+| 33 | Ressources et associations | 298 | Page de référence, hors grille de chapitre narratif | Rien à faire |
+| 34 | Glossaire des termes médicaux | 605 | Page de référence, hors grille de chapitre narratif | Rien à faire |
+| 35 | Les conflits entre femmes | 2167 | Aucun défaut majeur relevé (analogie filée, nuance) | Rien à faire |
+| 36 | Le substrat neuro-psychologique féminin | 1954 | 1 réflexe en "Se rappeler" (analogie filée par ailleurs présente) | Chirurgie |
+| 37 | Le désir féminin dans la durée | 1692 | Pas d'analogie | Chirurgie |
+| 38 | Les reproches récurrents | 1797 | Pas d'analogie | Chirurgie |
+| 39 | Le dilemme féminin contemporain | 1534 | Pas d'analogie, longueur proche du plancher | Chirurgie |
 
 ## Estimation de coût
 
-Aucun chapitre ne relève de la réécriture : le fil est partout tenu, et même les chapitres les plus chargés en liens collés (35, 36, 28, 30) restent construits sur un raisonnement clair, pas sur une simple juxtaposition de résumés d'études sans lien entre eux.
-
-16 chapitres en chirurgie, de deux natures différentes :
-
-- **Désourçage** (convertir des liens collés en phrases expliquées) : chapitres 14, 20, 23, 24, 25, 27, 28, 29, 30, 35, 36, 37, 38 — 13 chapitres. C'est la chirurgie la moins chère à l'unité (reformulation locale, pas de restructuration), de l'ordre de 20 à 40 minutes par chapitre selon la densité de liens collés (35 et 36 en haut de fourchette).
-- **Resserrage de longueur** sans défaut de fond : chapitres 8 et 9 — 2 chapitres, format panorama assumé, chirurgie légère si on la fait (fragmentation ou synthèse), 15 à 20 minutes chacun si jugée utile, sinon rien à faire réellement puisque le format est cohérent avec leur fonction (panorama de référence).
-- **Étoffement** (sous le plancher, structure à développer) : chapitres 36, 37, 39 — déjà comptés en partie ci-dessus pour 36 et 37 (désourçage + étoffement cumulés), plus spécifiquement le chapitre 39 qui mérite une sous-partie de plus.
-
-Fourchette basse totale pour les 16 chapitres en chirurgie : environ 6 à 8 heures de reprise, essentiellement du désourçage ponctuel plutôt que de la restructuration. Deux corrections quasi gratuites et prioritaires à traiter en premier, indépendamment du reste : retirer la ligne de mainteneur en fin de chapitre 34, et fusionner le doublon de section « Bons réflexes » du chapitre 30.
+21 chapitres en chirurgie, aucun en réécriture. En comptant la correction ciblée d'un seul point (surtout : ajouter une analogie filée, parfois retoucher un réflexe déguisé) à environ 20-40 minutes par chapitre selon sa longueur, le chantier représente grossièrement 7 à 14 heures de reprise. Le chapitre 1 (12 liens longs à retisser en plus de l'absence d'analogie) et les trois chapitres à double réflexe déguisé (25, 31, et dans une moindre mesure 24) sont un peu plus longs à traiter que la moyenne du lot.

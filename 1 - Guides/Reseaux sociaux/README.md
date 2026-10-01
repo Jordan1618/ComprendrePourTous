@@ -47,18 +47,4 @@ Il complète naturellement le guide [Questions et communication](<../Questions e
 | 19 | [Usages détournés : deuil, santé mentale, mouvements sociaux](<19 - Usages detournes deuil sante mentale mouvements sociaux.md>) | société |
 | 20 | [Éducation aux médias : ce qui marche vraiment selon la recherche](<20 - Education aux medias ce qui marche vraiment.md>) | prévention |
 
-## Par où commencer
-
-- **Comprendre pourquoi c'est difficile de s'arrêter** : chapitres 2 et 3.
-- **Une comparaison douloureuse avec les autres, ou avec des photos retouchées** : chapitre 5.
-- **Une relation en ligne qui semble aller trop vite, ou qui reste dans le flou** : chapitre 7.
-- **Un enfant ou un adolescent concerné par le harcèlement en ligne** : chapitre 8, avec le numéro **3018**.
-- **Envie de changer concrètement ses habitudes, sans tout supprimer** : chapitre 10, directement.
-- **Comprendre pourquoi ces services sont gratuits, et ce que ça implique** : chapitre 11.
-- **S'informer sur le statut d'un créateur de contenu, ou en devenir un** : chapitre 12.
-- **Un enfant ou un adolescent, et la question de ce qu'on publie de lui** : chapitre 18.
-- **Mettre en place une éducation aux médias qui fonctionne, en famille ou à l'école** : chapitre 20.
-
-Total : 30 295 mots, 20 chapitres.
-
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

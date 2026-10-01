@@ -40,6 +40,14 @@ Un partenaire non autiste qui attend des démonstrations d'affection standard (c
 
 Un autre effet moins visible de cette invisibilisation : les personnes a-spec réinventent souvent leurs propres formes de famille et d'engagement, en dehors du modèle du couple romantique exclusif. [Les chercheurs en sociologie des sexualités soulignent que l'aromantisme et l'asexualité remettent en question les normes de formation des relations et redessinent les catégories de sexe, de romance, d'amour et de famille](https://journals.sagepub.com/doi/10.1177/13634607231197061) (Tessler, *Sexualities*, 2025 ; vérification du 21 septembre 2026), en construisant par exemple des colocations engagées sur le long terme, des réseaux d'amitié structurés comme des familles choisies, ou des partenariats de vie sans composante romantique ni sexuelle.
 
+⚖️ **Nuance.** Trois confusions reviennent souvent autour de ces mots.
+
+- Asexuel n'est pas la même chose qu'aromantique : le premier porte sur l'attirance sexuelle, le second sur l'attirance romantique, et les deux cadrans, décrits en 13.1, peuvent bouger indépendamment l'un de l'autre.
+- Aromantique n'est pas la même chose que célibataire par choix ou en difficulté relationnelle : ce n'est ni une préférence provisoire ni un problème à résoudre, c'est une orientation qui décrit une absence durable de désir romantique.
+- Asexuel n'est pas la même chose qu'abstinent : l'abstinence est un choix de comportement, l'asexualité est une absence d'attirance, ce qui n'a rien à voir avec le fait d'avoir ou non une activité sexuelle par ailleurs.
+
+Ce qui recouvre les trois confusions : ces mots décrivent une orientation, pas un manque ou une étape transitoire vers autre chose.
+
 ### 13.5 L'amour platonique intense, une expérience réelle et sous-étudiée
 
 Une amitié peut atteindre une intensité émotionnelle comparable à celle d'une relation romantique, sans que le désir sexuel ou romantique en fasse partie. [Une étude a isolé ce type de liens en demandant directement aux participants s'ils avaient déjà vécu « une amitié platonique aussi intense émotionnellement qu'une relation romantique »](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1766&context=etd) (recherche universitaire sur les amitiés romantiques platoniques, Utah State University ; vérification du 21 septembre 2026), confirmant l'existence répandue de ce type de lien, encore largement sous-étudié comparé à l'amour romantique. Un des freins identifiés à sa reconnaissance sociale : l'absence de vocabulaire et de rituels dédiés, ce que possède l'amour romantique (fiançailles, anniversaires de couple) et que l'amitié la plus intense n'a pas, quel que soit son poids réel dans une vie.
@@ -50,11 +58,13 @@ Les personnes qui se découvrent asexuelles ou aromantiques rapportent fréquemm
 
 Ce constat rejoint un principe déjà énoncé ailleurs dans ce guide : nommer précisément ce qu'on ressent, ou ce qu'on ne ressent pas, aide autant la personne concernée que son entourage à ajuster ses attentes, plutôt que de laisser le silence ou l'approximation entretenir un malentendu.
 
+Un témoignage individuel nommé et vérifiable aurait sa place ici plutôt qu'une synthèse de recherche seule ; faute d'en avoir trouvé un accessible et solidement sourcé au moment de la vérification, ce chapitre le signale plutôt que d'en inventer un.
+
 **Bons réflexes**
 
 - Ne jamais présumer, face à une personne qui se dit asexuelle ou aromantique, qu'elle « n'a simplement pas encore rencontré la bonne personne » : c'est une manière fréquente, et généralement mal reçue, de nier une identité déjà clairement énoncée.
 - Face à une personne autiste, demander directement comment elle exprime et perçoit l'affection plutôt que de supposer un fonctionnement standard : la variabilité individuelle est large, au sein de l'autisme comme ailleurs.
 - Reconnaître la place qu'une amitié intense occupe dans sa propre vie, sans la minorer au prétexte qu'elle n'est « que » de l'amitié : le [chapitre 3 de ce guide sur les types d'amour](<03 - Les types d amour.md>) détaille plus largement cette diversité des formes d'attachement.
 - Voir aussi le [chapitre 16 de La rencontre, sur la neuroatypie, l'anxiété sociale et les applications de niche](<../La rencontre/16 - Neuroatypie anxiete sociale et applications de niche.md>), pour le versant rencontre de ces mêmes expériences.
-- Se rappeler que ni l'asexualité, ni l'aromantisme, ni l'autisme ne sont des états homogènes : deux personnes qui partagent la même identité ou le même diagnostic peuvent vivre l'amour de façon très différente l'une de l'autre. Traiter chaque relation comme un cas individuel reste plus fiable que d'appliquer une description générale, aussi bien documentée soit-elle.
+- Traiter chaque relation comme un cas individuel, jamais comme l'application d'une étiquette : deux personnes qui partagent la même identité ou le même diagnostic peuvent vivre l'amour de façon très différente l'une de l'autre, et poser la question plutôt que de présumer la réponse.
 - Dans un couple mixte, où l'un des partenaires est a-spec et l'autre non, la question la plus utile à poser tôt n'est pas « qu'est-ce qui va nous manquer » mais « qu'est-ce que chacun de nous veut vraiment construire ensemble » : beaucoup de ces couples fonctionnent durablement une fois les attentes explicitement négociées plutôt que supposées communes d'office.

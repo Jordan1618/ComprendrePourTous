@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Pour Elle"
-mis_a_jour_le: 2026-09-17
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -182,4 +182,248 @@ Sources du guide [Pour Elle](<../1 - Guides/Pour Elle/README.md>), classées par
 | Friedman, S. (2015), [Still a "Stalled Revolution"?](https://www.researchgate.net/publication/273330800_Still_a_Stalled_Revolution_WorkFamily_Experiences_Hegemonic_Masculinity_and_Moving_Toward_Gender_Equality), *Sociology Compass* | Révolution en panne (Hochschild) | 39.1 |
 | [The Second Shift: Why it is Diminishing but Still an Issue](https://fisherpub.sjf.edu/cgi/viewcontent.cgi?article=1100&context=ur), sur Hochschild, A. R. (1989) | La deuxième journée | 39.1 |
 | [Feeling Pressure to Be a Perfect Mother](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6230657/), *PMC* | Pression parentale et ambitions de carrière | 39.2 |
+| Hoan, E. & MacDonald, G. (2025), [Women report greater satisfaction with singlehood than men, study finds](https://www.psypost.org/women-report-greater-satisfaction-with-singlehood-than-men-study-finds/), *PsyPost* | Détail chiffré sur la satisfaction du célibat féminin | 37.3 |
+| [Thinking About Rumination](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1239112/full), *Frontiers in Psychology* | Mécanisme cognitif de la rumination | 38.3 |
+| Biri Publishing, [Gender and Decision-Making: Do We Choose Differently or Just Think We Do](https://www.biripublishing.com/blogs/gender-psychology/gender-and-decision-making-do-we-choose-differently-or-just-think-we-do) | Style de décision consultatif vs analytique | 38.4 |
+| The Seattle Times, [Contrary to popular opinion, women make good decisions and take risks](https://www.seattletimes.com/explore/careers/contrary-to-popular-opinion-women-make-good-decisions-and-take-risks/) | Prise de risque sociale vs financière | 38.4 |
+| KentStater, [Understanding gender stereotypes: Are women too emotional?](https://kentstater.com/120042/news/understanding-gender-stereotypes-are-women-too-emotional/) | Double standard d'évaluation des émotions | 38.1 |
+| The Wave of Edgewater, [Perfectionism and Women's Mental Health](https://thewaveedgewater.com/perfectionism-and-womens-mental-health/) | Perfectionnisme et internalisation des attentes | 39.2 |
+| Psychology Today, [Why Ambitious Women Burn Out: A Hidden Toll of Self-Neglect](https://www.psychologytoday.com/us/blog/empower-your-mind/202505/why-ambitious-women-burn-out-a-hidden-toll-of-self-neglect) | Paradoxe de la femme qui « a tout réussi » | 39.2 |
 
+## Chapitre 8 (troubles et pathologies du cycle)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [Le trouble dysphorique prémenstruel](https://www.qare.fr/sante/cycle-menstruel/trouble-dysphorique-premenstruel/), Qare, d'après la HAS | Diagnostic du TDPM sur deux cycles | 8.2 |
+| [PMDD Hormones, PMS, Premenstrual Dysphoric Disorder](https://www.nationalgeographic.com/health/article/pmdd-hormones-pms-premenstrual-dysphoric-disorder), *National Geographic* | Sensibilité cérébrale à l'allopregnanolone dans le TDPM | 8.2 |
+| [Traitement du TDPM en dernier recours](https://www.cmaj.ca/content/197/8/E229), *CMAJ* | Agonistes de la GnRH dans les formes sévères de TDPM | 8.2 |
+| [Focus endométriose](https://www.frm.org/fr/maladies/recherches-autres-maladies/endometriose/focus-endometriose), FRM | Prévalence de l'endométriose | 8.4 |
+| [Le diagnostic souvent tardif de l'endométriose](https://www.sante.fr/endometriose/le-diagnostic-souvent-tardif-de-lendometriose), Santé.fr | Délai moyen de diagnostic de l'endométriose | 8.4 |
+| [Dossier Endométriose](https://www.inserm.fr/dossier/endometriose/), Inserm | Stratégie nationale de lutte contre l'endométriose | 8.4 |
+| [Endométriose intra-utérine (adénomyose)](https://lemedecin.fr/medical/pathologies/endometriose-intra-uterine.html), LeMedecin.fr | Prévalence de l'adénomyose | 8.5 |
+| [Syndrome métabolique ovarien polyendocrinien](https://fr.wikipedia.org/wiki/Syndrome_m%C3%A9tabolique_ovarien_polyendocrinien) | Renommage du SOPK en SMOP | 8.6 |
+| [Pourquoi le syndrome des ovaires polykystiques a-t-il été rebaptisé ?](https://lactualite.com/sante-et-science/pourquoi-le-syndrome-des-ovaires-polykystiques-a-t-il-ete-rebaptise/), *L'Actualité* | Explication du renommage par Elisabet Stener-Victorin | 8.6 |
+| [Polycystic ovary syndrome](https://www.who.int/fr/news-room/fact-sheets/detail/polycystic-ovary-syndrome), OMS | Prévalence et sous-diagnostic du SMOP | 8.6 |
+| Teede, H. et coll. (2023), [International Evidence-based Guideline for PCOS](https://pubmed.ncbi.nlm.nih.gov/37580861/) | Traitement de première intention du SMOP | 8.6 |
+| [Sous-types cliniques du SMOP](https://www.nature.com/articles/s41591-025-03984-1), *Nature Medicine* | Sous-types distincts du SMOP | 8.6 |
+| [Évaluation et prise en charge des masses annexielles](https://pubmed.ncbi.nlm.nih.gov/27776072/), ACOG Practice Bulletin No. 174 | Conduite à tenir devant un kyste ovarien | 8.8 |
+| [Réduction du risque de syndrome d'hyperstimulation ovarienne](https://academic.oup.com/humrep/article/31/6/1253/1749630), *Human Reproduction*, 2016 | Protocoles modernes de stimulation ovarienne en FIV | 8.8ter |
+
+## Chapitre 9 (sexualité féminine)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [Comment soigner le vaginisme](https://www.qare.fr/sante/vaginisme/comment-soigner-le-vaginisme/), Qare, d'après le CNGOF | Prise en charge du vaginisme | 9.6 |
+| [Dyspareunie](https://www.qare.fr/sante/dyspareunie/), Qare | Prévalence de la dyspareunie | 9.7 |
+| [La dyspareunie, douleurs lors des rapports sexuels](https://www.sante.fr/endometriose/la-dyspareunie-douleurs-lors-des-rapports-sexuels), Santé.fr | Prévalence des douleurs périnéales significatives | 9.7 |
+| [Le point sur les vestibulodynies](https://www.sfms.fr/litterature/articles-originaux/le-point-sur-les-vestibulodynies/), Société Francophone de Médecine Sexuelle | Prise en charge multidisciplinaire de la vulvodynie | 9.8 |
+| Braunstein, Sheinis, Laktabai & Selk, [Vulvodynia (chronic vulval pain)](https://pmc.ncbi.nlm.nih.gov/articles/PMC12826333/), *BMJ*, 2026 | Prévalence de la vulvodynie | 9.8 |
+| Emily Nagoski, [The Truth About Unwanted Arousal](https://www.ted.com/talks/emily_nagoski_the_truth_about_unwanted_arousal), conférence TED | Non-concordance de l'excitation | 9.3 bis |
+| Herbenick, D. et coll., [Women's Experiences With Genital Touching, Sexual Pleasure, and Orgasm](https://pubmed.ncbi.nlm.nih.gov/28678639/), *Journal of Sex & Marital Therapy* | Répartition statistique des voies de l'orgasme féminin | 9.5 |
+| [Santé sexuelle](https://www.santepubliquefrance.fr/index.php/sante-sexuelle), Santé publique France | Recommandations de dépistage des IST | 9.12 |
+| Zimmerman et coll. (2014), [Sex Hormone-Binding Globulin sous contraception hormonale](https://academic.oup.com/humupd/article/20/1/76/887764), *Human Reproduction Update* | Effet de la contraception hormonale sur la testostérone libre | 9.4 |
+| [Consensus Statement on Urogenital Atrophy](https://www.imsociety.org/2018/11/26/consensus-statement-on-urogenital-atrophy/), International Menopause Society | Atrophie vulvo-vaginale en péri-ménopause | 9.4 |
+
+## Chapitre 14 (figures de la recherche en 2026)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| Inserm, [Camille Berthelot: understanding the origin of menstruation could help treat endometriosis](https://www.inserm.fr/en/news/camille-berthelot-understanding-the-origin-of-menstruation-could-help-treat-endometriosis/) | Portrait de Camille Berthelot et le projet EVOMENS | 14 |
+| MIT News, [MIT launches Moonshot for Menstruation Science](https://news.mit.edu/2025/mit-launches-moonshot-menstruation-for-science-0718) | Portrait de Linda Griffith et le moonshot du MIT | 14 |
+| World Endometriosis Society, [Stacey Missmer](https://www.worldendosociety.org/executive-board/stacey-missmer) | Portrait de Stacey Missmer | 14 |
+| University of Edinburgh Research Explorer, [Hilary Critchley](https://www.research.ed.ac.uk/en/persons/hilary-critchley/) | Portrait de Hilary Critchley | 14 |
+| Université Paris-Saclay, [Marina Kvaskoff: Research in Service of Women's Health](https://www.universite-paris-saclay.fr/en/news/marina-kvaskoff-research-service-womens-health) | Portrait de Marina Kvaskoff | 14 |
+| *The Conversation*, [Améliorer la prise en charge des patientes en changeant le nom du SOPK en SMOP](https://theconversation.com/ameliorer-la-prise-en-charge-des-patientes-en-changeant-le-nom-du-sopk-en-syndrome-metabolique-ovarien-polyendocrinien-smop-283344) | Portrait d'Elisabet Stener-Victorin | 14 |
+| [Sous-types cliniques du SMOP](https://www.nature.com/articles/s41591-025-04040-8), *Nature Medicine*, octobre 2025 | Étude de l'équipe de Stener-Victorin | 14 |
+| NIMH, [Sex-hormone-sensitive gene complex linked to premenstrual mood disorder](https://www.nimh.nih.gov/news/science-updates/2017/sex-hormone-sensitive-gene-complex-linked-to-premenstrual-mood-disorder) | Portrait de Peter Schmidt | 14 |
+| [Trajectoires hormonales neuro-actives et TDPM](https://www.nature.com/articles/s41380-024-02566-w), *Molecular Psychiatry*, 2024 | Portrait de Jennifer Gordon | 14 |
+| UNC Department of Psychiatry, [Samantha Meltzer-Brody](https://www.med.unc.edu/psych/people/samantha-meltzer-brody/) | Portrait de Samantha Meltzer-Brody | 14 |
+| Mass General Brigham, [Looking Ahead: Predictions for Cardiology in 2026](https://www.massgeneralbrigham.org/en/about/newsroom/articles/2026-predictions-about-cardiovascular) | Portrait de C. Noel Bairey Merz | 14 |
+| National Academies of Sciences, Engineering, and Medicine, [To Advance Women's Health Research](https://www.nationalacademies.org/news/to-advance-womens-health-research-nih-should-form-new-institute-and-congress-should-appropriate-new-funding-says-report) | Fonds interdisciplinaire recommandé pour la santé des femmes | 14 |
+| Society for Women's Health Research, [Looking Back, Moving Forward: Women's Health Research in 2025](https://swhr.org/looking-back-moving-forward-womens-health-research-in-2025-and-the-road-ahead/) | Priorités budgétaires 2026 des NIH | 14 |
+| te Velde & Pearson (2002), [The Variability of Female Reproductive Ageing](https://academic.oup.com/humupd/article-abstract/8/2/141/624668), *Human Reproduction Update* | Remise en cause de savoirs établis en médecine reproductive | 14 |
+
+## Chapitre 20 (boîte à outils de couple)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [What Is the Soft Startup?](https://empathi.com/blog/what-is-the-soft-startup/), Figs O'Sullivan Couples Therapy | Prédiction de Gottman sur trois minutes de conversation | 20.3 bis |
+| [Gottman Conflict Resolution: Softened Startup](https://naturalstatecounselingcenters.com/wp-content/uploads/2024/07/Gottman-Conflict-Softened-Startup-R-FRY.pdf) | Démarrage en douceur | 20.3 bis |
+| [Gottman Repair Attempts](https://couplestherapyinc.com/gottman-repair-attempts/), Couples Therapy Inc. | Tentatives de réparation en plein conflit | 20.3 ter |
+| Lewicki, R. et coll. (2016), [The 6 elements of an effective apology, according to science](https://news.osu.edu/the-6-elements-of-an-effective-apology-according-to-science/), Ohio State University | Structure d'une excuse efficace | 20.5 |
+
+## Chapitres 23-30 (série relationnelle : attentes, peurs, ce qui compte, expression de l'amour, famille)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [Attractiveness and Rivalry in Women's Friendships with Women](https://link.springer.com/article/10.1007/s12110-010-9081-5), *Human Nature* | Standard élevé et rivalité dans l'amitié féminine | 23, 27 |
+| [From Sisterhood to Mean Girls](https://www.skeptic.com/article/from-sisterhood-to-mean-girls-evolutionary-insights-into-friendship-and-fiendship/), *Skeptic* | Rivalité intrasexuelle documentée | 23 |
+| [The Great Divide: How Motherhood Fractures Friendships](https://www.essence.com/lifestyle/friendships-after-kids/), *Essence* | Contraction du réseau amical après une naissance | 23 |
+| [Impact of senior center friendships on aging women who live alone](https://pubmed.ncbi.nlm.nih.gov/16635950/), *PubMed* | Isolement des femmes âgées vivant seules | 23 |
+| [Loneliness, Gender, and Relationships in Later Life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12761591/), *Innovation in Aging* | Solitude en fin de vie et parcours genré | 23 |
+| [Friendship in Later Life: A Research Agenda](https://academic.oup.com/innovateage/article/3/1/igz005/5423647), *Innovation in Aging* | Amitié et maintien des fonctions cognitives | 23 |
+| [UCLA Study On Friendship Among Women](https://womensbrainhealth.org/think-tank/think-twice/ucla-study-on-friendship-among-women) | Effet santé de l'absence d'amie proche | 23 |
+| [Why The Kindest Women Often Have A Small Circle of Friends](https://richwoman.co/article/why-the-kindest-women-often-have-a-small-circle-of-friends-how-to-keep-yourself-safe-from-spr) | Qualité plutôt que nombre d'amitiés | 23 |
+| [Women's Perspectives on Emotional Men](https://neurolaunch.com/do-women-like-emotional-men/) | Réactivité perçue comme prédicteur de satisfaction | 24 |
+| [Relationship Satisfaction Predictors](https://www.simplypsychology.com/articles/relationship-satisfaction-predictors), *Simply Psychology* | Acceptation de l'influence, amitié conjugale | 24 |
+| [Women and Men are the Barometers of Relationships](https://www.pnas.org/doi/10.1073/pnas.2209460119), *PNAS* | Réfutation du mythe du baromètre féminin | 24 |
+| [Emotional Needs in Marriage](https://neurolaunch.com/emotional-needs-spouse-men-vs-women-psychology/) | Appréciation de l'effort, partage des rôles | 24 |
+| [Predictors of Relationship Satisfaction Across the Transition to Parenthood](https://journals.sagepub.com/doi/10.1177/0192513X221113850), *Journal of Family Issues* | Baisse de satisfaction après une naissance | 24 |
+| [Relationship Supportiveness during the Transition to Parenting](https://pmc.ncbi.nlm.nih.gov/articles/PMC2838213/), *PMC* | Déclin du soutien perçu après la naissance | 24 |
+| [Women Experiencing More Affectionate Touch](https://www.psypost.org/women-experiencing-more-affectionate-touch-are-more-satisfied-with-their-bodies-and-relationships/), *PsyPost* | Contact affectueux non sexuel et satisfaction corporelle | 24 |
+| [Affectionate Touch and Relational, Mental, and Physical Well-Being in Older Couples](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6845267/), *PMC* | Contact physique non sexuel dans la durée | 24 |
+| [How Do Couples Really Deal With Money Behind the Scenes?](https://www.psychologytoday.com/us/blog/your-emotions-and-money/202605/how-do-couples-really-deal-with-money-behind-the-scenes), *Psychology Today* | Transparence financière | 24 |
+| [Love and Money: How Financial Transparency Can Strengthen Relationships](https://www.experian.com/blogs/news/2025/02/06/how-financial-transparency-strengthens-relationships/), Experian | Chiffres sur la transparence financière | 24 |
+| [Women's gossip disguised as concern](https://www.psypost.org/womens-gossip-disguised-as-concern-harms-reputations-while-protecting-the-gossiper/), *PsyPost* | Commérage déguisé en inquiétude | 25 |
+| [Why Competitive Women Are Sometimes Seen as Threats](https://www.psychologytoday.com/us/blog/rethinking-rivalry-competition-and-collaboration/202602/why-competitive-women-are-sometimes), *Psychology Today* | Peur d'être jugée « trop compétitive » | 25 |
+| Crowley, J., [Unpacking the Power of the Mommy Wars](https://onlinelibrary.wiley.com/doi/10.1111/soin.12077), *Sociological Inquiry* | Jugement entre mères | 25 |
+| [Mommy Wars](https://www.pathwaysprofessional.org/blog/2019/2/19/mommy-wars), Pathways Professional Counseling | Écart entre jugement anticipé et réel entre mères | 25 |
+| [The immortal – and false – myth of the workplace Queen Bee](https://theconversation.com/the-immortal-and-false-myth-of-the-workplace-queen-bee-129680), *The Conversation* | Réfutation du mythe de la reine des abeilles | 25 |
+| [Coping with mate poaching](https://www.sciencedirect.com/science/article/abs/pii/S1090513814001019), *Evolution and Human Behavior* | Détection des rivales potentielles | 25 |
+| [Women's Fertility Status Alters Other Women's Jealousy and Mate Guarding](https://journals.sagepub.com/doi/10.1177/0146167216678859), *Personality and Social Psychology Bulletin* | Vigilance envers les rivales au pic de fertilité | 25 |
+| [Gender differences in response to infidelity types and rival attractiveness](https://www.tandfonline.com/doi/full/10.1080/14681994.2019.1639657), *Psychology & Sexuality* | Infidélité émotionnelle perçue comme menaçante | 25 |
+| [The Impact of Upward Social Comparison on Social Media on Appearance Anxiety](https://www.mdpi.com/2076-328X/15/1/8), *Behavioral Sciences* | Comparaison ascendante et anxiété liée à l'apparence | 25 |
+| [The impact of appearance comparisons](https://www.researchgate.net/publication/311065845_The_impact_of_appearance_comparisons_made_through_social_media_traditional_media_and_in_person_in_women's_everyday_lives) | Comparaisons via réseaux sociaux vs face à face | 25 |
+| [Instagram Social Comparison: Mental Health Impact](https://netpsychology.org/social-comparison-instagram-mental-health-guide/) | Effet genré de la comparaison sur Instagram | 25 |
+| [The Silent Heartbreak: Why Friendship Breakups Often Hurt More Than Romantic Ones](https://formalpsychology.com/friendship-breakups-psychology-of-loss/), Formal Psychology | Deuil disenfranchisé après une rupture amicale | 25, 27 |
+| [Friendship Quality in Same-Sex Relationships](https://www.ijcrt.org/papers/IJCRT1812965.pdf), *IJCRT* | Réciprocité comme matière première de l'amitié féminine | 27 |
+| [The power of making and nurturing female friendships](https://www.flashpack.com/us/solo/relationships/making-nurturing-female-friendships/), Flash Pack | Ocytocine et sérotonine dans l'amitié féminine | 27 |
+| Buss, D., [étude interculturelle sur 37 cultures](https://studyfinds.org/study-kindness-most-important-quality-in-long-term-partner/), *StudyFinds* | Gentillesse comme trait le plus valorisé | 27, 28 |
+| [Intelligence and kindness are the most valued traits in romantic partners](https://www.psypost.org/intelligence-and-kindness-are-the-most-valued-traits-in-romantic-partners-study-finds/), *PsyPost* | Gentillesse devant l'attractivité physique | 27 |
+| Pew Research Center, [valeurs partagées](https://shebudgets.com/lifestyle/relationships/what-women-value-most-in-men-at-every-stage-of-life-according-to-research/) | Valeurs partagées plus importantes que l'attirance | 27, 28 |
+| [Why Female Friendship Breakups Hurt More Than Romantic Ones](https://ahead-app.com/blog/heartbreak/why-female-friendship-breakups-hurt-more-than-romantic-ones) | Mécanismes d'attachement dans l'amitié féminine | 27 |
+| [Early Attachment Patterns Influence How We Show Up For Our Adult Friendships](https://www.psychotherapysingapore.com/post/early-attachment-patterns-influence-how-we-show-up-for-our-adult-friendships) | Style d'attachement et qualité de l'amitié | 27 |
+| [Generativity and Gendered Pathways to Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9099985/), *PMC* | Capital social et générativité au milieu de la vie | 27 |
+| [Generativity in Midlife and Young Adults](https://www.researchgate.net/publication/279418146_Generativity_in_Midlife_and_Young_Adults_Links_to_Agency_Communion_and_Subjective_Well-Being) | Mentorat intergénérationnel | 27 |
+| [Statistics on How Many Friends You Need](https://www.thetreetop.com/statistics/how-many-friends-you-need-statistics/) | Nombre optimal d'amitiés proches | 27 |
+| [Evidence Brief: How Many Friends Do You Need?](https://www.socialconnectionguidelines.org/en/evidence-briefs/how-many-friends-do-you-need), Social Connection Guidelines | Effet non linéaire du nombre d'amitiés | 27 |
+| [The Importance Of Female Friendships](https://thewell.northwell.edu/womens-health/importance-of-female-friendships), The Well by Northwell | Qualité plutôt que nombre d'amitiés | 27 |
+| [Trust in Friendship: A Comparative Analysis](https://www.researchgate.net/publication/216049657_Trust_in_Friendship_A_Comparative_Analysis_of_Male_and_Female_University_Students) | Confiance comme fondation de l'amitié | 27 |
+| [Men and Friendships](https://www.gatewaytosolutions.org/men-and-friendships/), Gateway to Solutions | Confiance et loyauté dans l'amitié masculine | 28 |
+| [Creating Stronger Connections: The Power and Importance of Male Friendship](https://www.thecounsellingplace.com/blog/creating-stronger-connections-the-power-and-importance-of-male-friendship) | Impact santé de l'amitié masculine | 28 |
+| [What Women Value Most in Men at Every Stage of Life](https://shebudgets.com/lifestyle/relationships/what-women-value-most-in-men-at-every-stage-of-life-according-to-research/) | Maturité émotionnelle, trajectoire, fiabilité | 28 |
+| [Long-Term Mating Orientation in Men](https://pmc.ncbi.nlm.nih.gov/articles/PMC8913582/), *PMC* | Force physique et orientation long terme | 28 |
+| [Unequal Chores, Unequal Joy?](https://link.springer.com/article/10.1007/s11205-026-03839-3), *Social Indicators Research* | Satisfaction face à la répartition des tâches | 28 |
+| [Mine and Yours, or Ours: Are All Egalitarian Relationships Equal?](https://contemporaryfamilies.utah.edu/publications/posts/2022/april/egalitarian-relationships-brief-report.php), Contemporary Families | Modèle familial à double revenu | 28 |
+| [Feeling Appreciated Buffers against the Negative Effects of Unequal Division of Household Labor](https://sites.lsa.umich.edu/whirl/wp-content/uploads/sites/792/2022/02/Gordon-et-al.-2022-Psych-Science.pdf) | Charge mentale et reconnaissance | 28 |
+| [Are Dominant or Prestigious Men More Attractive to Women?](https://www.psychologytoday.com/us/blog/the-attraction-doctor/201803/are-dominant-or-prestigious-men-more-attractive-to-women), *Psychology Today* | Dominance vs prestige | 28 |
+| [Ethics trumps resources in women's and men's evaluations of potential mates](https://www.nature.com/articles/s41598-025-06611-8), *Scientific Reports* | Réputation éthique et attractivité de long terme | 28 |
+| [High care and low overprotection from paternal and maternal parents](https://www.nature.com/articles/s41598-023-42674-1), *Scientific Reports* | Contribution paternelle à l'attachement adulte | 28 |
+| Noller, P. et coll., [Attachment Style as a Predictor of Adult Romantic Relationships](https://www.researchgate.net/profile/Patricia-Noller/publication/232532243_Attachment_Style_as_a_Predictor_of_Adult_Romantic_Relationships/links/0fcfd51023040599e8000000/Attachment-Style-as-a-Predictor-of-Adult-Romantic-Relationships.pdf) | Soins paternels perçus et attachement sécure | 28 |
+| [Exploring the Association between Adult Attachment Styles in Romantic Relationships](https://www.researchgate.net/publication/264947709_Exploring_the_Association_between_Adult_Attachment_Styles_in_Romantic_Relationships_Perceptions_of_Parents_from_Childhood_and_Relationship_Satisfaction) | Prédicteurs genrés de la qualité relationnelle | 28 |
+| [Little evidence linking five 'love languages' to healthy relationships](https://www.utoronto.ca/news/little-evidence-linking-five-love-languages-healthy-relationships-researchers-say), University of Toronto | Réfutation scientifique des langages de l'amour | 29 |
+| [Do men and women show love differently in marriage?](https://pubmed.ncbi.nlm.nih.gov/22711739/), *PubMed* | Expression de l'amour par l'absence de comportements négatifs | 29 |
+| [The 5 Love Languages: How Men and Women Express Love Differently](https://www.earlyyears.tv/the-5-love-languages-gender-differences/) | Préférences déclarées par sexe | 29 |
+| [Psychologists Reveal That Men and Women Do "Love Differently"](https://www.medicaldaily.com/psychologists-reveal-men-and-women-do-love-differently-are-equally-affectionate-241662), *Medical Daily* | Décalage temporel de l'amour selon le sexe | 29 |
+| [Men Who Compliment a Woman's Appearance Using Metaphorical Language](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5742614/), *PMC* | Sensibilité féminine aux compliments | 29 |
+| [How Compliments Maintain Romance](https://www.psychologytoday.com/us/blog/why-bad-looks-good/202512/how-compliments-maintain-romance), *Psychology Today* | Authenticité et spécificité du compliment | 29 |
+| [Why Some Long-Term Couples Can Maintain Their Passion](https://www.psychologytoday.com/us/blog/fulfillment-at-any-age/202407/can-passionate-love-survive-the-test-of-time), *Psychology Today* | Transformation de la passion dans la durée | 29 |
+| [Long-Term Relationship Maintenance](https://www.simplypsychology.com/articles/long-term-relationship-maintenance-psychology), *Simply Psychology* | Entretien actif de la relation, ratio de Gottman | 29 |
+| [Love Language Statistics 2026](https://www.connectedcouples.app/blog/love-language-statistics) | Écart entre ce qu'on donne et ce qu'on attend | 29 |
+| [The Relationship between Jealousy and Mate Retention Strategies](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10742941/), *PMC* | Jalousie et comportements de rétention du partenaire | 29 |
+| [Feminist Insights into Family as a Social Institution](https://sociology.institute/sociology-of-gender/feminist-perspective-family-social-institution-power-women-roles/), Sociology.Institute | Identité féminine perçue à travers les rôles familiaux | 30 |
+| [Daughtering: An Invisible Labor](https://www.geneseo.edu/news/daughtering-invisible-labor), SUNY Geneseo | Travail relationnel invisible des filles | 30 |
+| [Invisible labor can negatively impact well-being in mothers](https://www.sciencedaily.com/releases/2019/01/190122092857.htm), *ScienceDaily* | Organisation des emplois du temps familiaux | 30 |
+| [Postpartum identity and invisible labor among urban mothers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12756369/), *PMC* | Basculement identitaire de la maternité | 30 |
+| [Mothers, Fathers, Daughters, and Sons](https://www.researchgate.net/publication/338491714_Mothers_Fathers_Daughters_and_Sons_Gender_Differences_in_Adults'_Intergenerational_Ties) | Proximité et friction de la relation mère-fille | 30 |
+| [Mother-in-Law Daughter-in-Law Conflict: an Evolutionary Perspective](https://link.springer.com/article/10.1007/s40806-021-00312-x), *Evolutionary Psychological Science* | Mécanisme du conflit belle-mère/belle-fille | 30 |
+| Rosenthal, C. (1985), sur le kinkeeping, repris par [The Flow Space](https://www.theflowspace.com/interpersonal-health/family/what-is-kinkeeping-emotional-labor-2946773/) | Définition du kinkeeping | 30 |
+| [What Is Kinkeeping, and How Does It Impact Mothers During the Holidays?](https://www.thealliancecenterct.com/blog/what-is-kinkeeping-and-how-does-it-impact-mothers-during-the-holidays), The Alliance Center | Saisonnalité du kinkeeping | 30 |
+| Correll, S., Benard, S., Paik, I., [Getting a Job: Is There a Motherhood Penalty?](https://sociology.stanford.edu/publications/getting-job-there-motherhood-penalty), *American Journal of Sociology* | Pénalité de compétence perçue pour les mères | 30 |
+| [When work–family guilt becomes a women's issue](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10087844/), *PMC* | Culpabilité genrée liée aux stéréotypes | 30 |
+| [Blame, balance and beyond: the cognitive mechanics of "mom guilt"](https://www.emerald.com/edi/article/doi/10.1108/EDI-05-2025-0346/1350095/Blame-balance-and-beyond-the-cognitive-mechanics), *Equality, Diversity and Inclusion* | Culpabilité maternelle chiffrée | 30 |
+| [Which sibling pairs are closer, brothers or sisters?](https://www.good.is/sibling-relationships-brothers-sisters-closest/), Good.is | Lien entre sœurs, le plus stable | 30 |
+
+## Réciprocité complémentaire (chapitres hors chirurgie de septembre 2026)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [ameli.fr](https://www.ameli.fr/assure/sante/themes/regles-et-protections-intimes/protections-intimes-et-risque-de-choc-toxique-lors-des-regles) | En France, le Centre national de référence des staphylocoques recense en moyenne une... | 2 |
+| [pasteur.fr](https://www.pasteur.fr/fr/journal-recherche/portraits/camille-berthelot-indiana-jones-endometriose) | On ne la retrouve que chez une poignée d'espèces : les humains, la plupart des... | 3 |
+| [research.pasteur.fr](https://research.pasteur.fr/en/project/erc-2019-stg-evomens/) | La menstruation serait donc la solution la plus économe en énergie, chez les espèces... | 3 |
+| [techno-science.net](https://www.techno-science.net/fr/actualites/tres-peu-de-mammiferes-ont-des-regles-pourquoi-25483) | Une autre piste de recherche, complémentaire et moins étayée, propose que la... | 3 |
+| [geneve.ch](https://www.geneve.ch/themes/culture/bibliotheques/interroge/reponses/est-ce-que-la-duree-du-cycle-menstruel-de-espece-humaine-toujours-ete-la) | chez les primates non humains eux-mêmes, la **durée des cycles varie de 11 à 55... | 3 |
+| [mavenpreprint.substack.com](https://mavenpreprint.substack.com/p/dr-linda-griffith-reengineers-endometriosis) | estimant que ce champ a été historiquement sous-financé par rapport à son importance... | 3 |
+| [helloclue.com](https://helloclue.com/articles/cycle-a-z/do-menstrual-cycles-sync-unlikely-finds-clue-data) | n'a trouvé **aucun alignement** entre les cycles de femmes qui se côtoient, pire,... | 3 |
+| [acog.org](https://www.acog.org/clinical/clinical-guidance/clinical-practice-guideline/articles/2023/12/management-of-premenstrual-disorders) | Le trouble dysphorique prémenstruel, à distinguer nettement du syndrome prémenstruel... | 4 |
+| [wildflowerllc.com](https://www.wildflowerllc.com/cycle-syncing-increasing-emotional-well-being-during-your-menstrual-cycle/) | Durant la phase folliculaire, la hausse des œstrogènes s'accompagne d'une production... | 4 |
+| [evanaperiods.com](https://evanaperiods.com/blog/menstrual-health-advice/understanding-the-follicular-phase/) | Cette même hausse d'œstrogènes soutient la curiosité, l'optimisme, l'apprentissage et... | 4 |
+| [bellehealth.co](https://bellehealth.co/4-phases-of-menstrual-cycle-and-moods/) | Beaucoup de femmes ressentent, durant cette phase, davantage de confiance, de... | 4 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9856962/) | une hausse significative des dimensions positives de l'humeur — sociabilité, gaieté,... | 4 |
+| [talktoangel.com](https://www.talktoangel.com/blog/emotional-granularity-why-naming-your-feelings-improves-mental-health) | La granularité émotionnelle désigne la capacité à identifier et nommer ses émotions... | 4 |
+| [cannelevate.com.au](https://www.cannelevate.com.au/article/understanding-emotional-granularity-modern-wellness/) | Une revue de la recherche a montré que les personnes capables de différencier leurs... | 4 |
+| [sciencewatch.blog](https://sciencewatch.blog/how-many-people-recover-from-depression) | Environ 40 à 60 % des personnes constatent une amélioration de leurs symptômes dès le... | 5 |
+| [doi.org](https://doi.org/10.1111/j.1748-720X.2001.tb00037.x) | Les symptômes physiques d'anxiété sont réels et mesurables, ce qui n'empêche pas leur... | 6 |
+| [link.springer.com](https://link.springer.com/article/10.1007/s11920-022-01402-8) | L'anxiété est le domaine où la thérapie cognitivo-comportementale montre ses meilleurs... | 6 |
+| [simplypsychology.org](https://www.simplypsychology.org/self-efficacy.html) | Parmi les sources de la confiance en soi identifiées par le psychologue Albert... | 6 |
+| [psychologynoteshq.com](https://www.psychologynoteshq.com/selfefficacy/) | ce qui détermine l'effet de l'activation physiologique — palpitations, tension,... | 6 |
+| [ashasexualhealth.org](https://www.ashasexualhealth.org/more-proof-that-the-birth-control-pill-reduces-risk-of-ovarian-cancer/) | La contraception orale combinée réduit le risque de cancer de l'ovaire d'environ 50 %... | 7 |
+| [cancer.gov](https://www.cancer.gov/about-cancer/causes-prevention/risk/hormones/oral-contraceptives-fact-sheet) | après au moins trois ans d'usage, la réduction de risque avoisine 40 %, un effet... | 7 |
+| [ameli.fr](https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/fausse-couche) | environ **15 % des grossesses connues** se terminent en fausse couche | 10 |
+| [ameli.fr](https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/saignements-gynecologiques-grossesse/saignements-gynecologiques-du-premier-trimestre-de-la-grossesse) | Un quart des femmes enceintes présentent un saignement au 1er trimestre sans que cela... | 10 |
+| [msdmanuals.com](https://www.msdmanuals.com/fr/professional/gyn%C3%A9cologie-et-obst%C3%A9trique/troubles-pr%C3%A9coces-de-la-grossesse/grossesse-extra-ut%C3%A9rine) | Touche environ **1 grossesse sur 50 (2 %)** | 10 |
+| [sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S2352580023000722) | Sa prévalence a fortement augmenté en France : de **10,8 % en 2016 à 16,4 % en 2021** | 10 |
+| [santepubliquefrance.fr](https://www.santepubliquefrance.fr/en/diabetes/diabetes-and-pregnancy) | d'autres sources situent la prévalence prise en charge autour de 8-10% selon les... | 10 |
+| [larevuedupraticien.fr](https://www.larevuedupraticien.fr/exercice/quand-et-comment-depister-un-diabete-gestationnel) | Une femme ayant eu un diabète gestationnel garde un risque accru de diabète de type 2... | 10 |
+| [ameli.fr](https://www.ameli.fr/assure/sante/devenir-parent/grossesse/difficultes-et-maladies-pendant-la-grossesse/preeclampsie/traitement-pre-eclampsie) | avec des corticoïdes donnés au fœtus pour accélérer la maturation pulmonaire en cas de... | 10 |
+| [beh.santepubliquefrance.fr](https://beh.santepubliquefrance.fr/beh/2023/18/2023_18_1.html) | 5% de ces femmes rapportent des idées suicidaires | 11 |
+| [santepubliquefrance.fr](https://www.santepubliquefrance.fr/presse/2021/les-maladies-cardiovasculaires-et-les-suicides-premieres-causes-de-deces-maternels-en-france-en-2013-2015) | Le suicide maternel est la deuxième cause de mortalité maternelle en France | 11 |
+| [beh.santepubliquefrance.fr](https://beh.santepubliquefrance.fr/beh/2025/14/2025_14_2.html) | Un entretien postnatal précoce est obligatoire en France depuis 2022 | 11 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11872799/) | La zuranolone, forme orale du même principe actif développée par la même équipe et... | 11 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11733619/) | une cohorte nationale française de 2021 a estimé sa prévalence à **27,6 %** à 2 mois... | 11 |
+| [ameli.fr](https://www.ameli.fr/assure/sante/themes/accouchement-et-nouveau-ne/contraception-apres-un-accouchement) | Les options de contraception du post-partum sont détaillées par l'Assurance maladie | 11 |
+| [economie.gouv.fr](https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/les-enquetes-et-les-controles/complements-alimentaires-des-anomalies-encore-trop-nombreuses) | L'essor commercial des produits de bien-être sans fondement clinique établi est... | 12 |
+| [forbrukerradet.no](https://www.forbrukerradet.no/out-of-control/) | Une enquête du Conseil norvégien des consommateurs a documenté le partage de données... | 12 |
+| [nevadacancercoalition.org](https://www.nevadacancercoalition.org/blog/hpv-vaccine-erasing-cancer-heres-proof) | Les filles vaccinées entre 12 et 13 ans montrent une réduction de 83,9 % du diagnostic... | 13 |
+| [lisafeldmanbarrett.com](https://lisafeldmanbarrett.com/books/how-emotions-are-made/) | La distinction entre une peur fondée sur un manque d'information et une anxiété qui... | 13 |
+| [has-sante.fr](https://www.has-sante.fr/jcms/c_2024559/fr/depistage-et-prevention-du-cancer-du-sein) | L'efficacité du dépistage organisé sur la mortalité par cancer gynécologique est... | 13 |
+| [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1748-720X.2001.tb00037.x) | La tendance à attribuer plus vite une plainte féminine à l'anxiété plutôt qu'à une... | 15 |
+| [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/0003122419859007) | Le partage du travail cognitif de suivi médical du foyer suit le même mécanisme que... | 15 |
+| [has-sante.fr](https://www.has-sante.fr/jcms/fc_2875208/fr/rechercher-une-recommandation-un-avis) | Anticiper plutôt que réagir face à un symptôme récurrent rejoint les recommandations... | 15 |
+| [patientpower.info](https://www.patientpower.info/breast-cancer/partner-power-better-romantic-relationships-better-outcomes) | les personnes atteintes d'un cancer et engagées dans une relation forte avec leur... | 15 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8774593/) | le soutien du partenaire joue un rôle déterminant dans l'adaptation à la maladie pour... | 15 |
+| [csyorkregion.com](https://csyorkregion.com/news/435-what-keeps-couples-together-through-life-s-biggest-challenges) | Une collaboration de soutien mutuel face à un stress majeur — une maladie, une... | 15 |
+| [genderhealthdata.org](https://genderhealthdata.org/wp-content/uploads/gravity_forms/scale-repository-PDFs/Conformity-to-Feminine-Norms-Inventory.pdf) | le souci du foyer et des obligations familiales comme norme identitaire | 16 |
+| [erevo.fr](https://erevo.fr/blog/abaissement-age-controle-cancer-sein/) | Une révision à la baisse de cet âge d'entrée, vers 45 ans, est à l'étude par la Haute... | 17 |
+| [nutritionpro.fr](https://nutritionpro.fr/en/blogs/infos/les-5-carences-les-plus-frequentes-en-france) | En France, la carence en fer touche environ 25 % des femmes en âge de procréer, et... | 17 |
+| [universpharmacie.fr](https://universpharmacie.fr/blog/article/maladies-auto-immunes-pourquoi-les-femmes-sont-elles-plus-touchees-.html) | Les maladies auto-immunes touchent environ 5 millions de personnes en France, et 4... | 17 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC8154636/) | Une puberté plus précoce et un rythme plus rapide de son déroulement sont associés à... | 18 |
+| [statnews.com](https://www.statnews.com/2024/03/07/girls-precocious-puberty-mental-health/) | Les filles qui entrent en puberté plus tôt que leurs pairs ne sont pas toujours... | 18 |
+| [fivfrance.com](https://www.fivfrance.com/l-autoconservation-des-ovocytes-et-du-sperme-en-france/) | Depuis la loi de bioéthique du 2 août 2021, l'autoconservation ovocytaire pour... | 18 |
+| [agence-biomedecine.fr](https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/congelation-des-ovocytes-l-agence-de-la-biomedecine-publie-les-resultats-d-une-enquete-nationale) | fin 2024, près de 42 300 demandes de première consultation avaient été déposées depuis... | 18 |
+| [agence-biomedecine.fr](https://www.agence-biomedecine.fr/fr/don-de-gametes-et-assistance-medicale-a-la-procreation/l-agence-de-la-biomedecine-devoile-les-resultats-d-une-enquete-sur-les-connaissances-et-les-perceptions-de-la-congelation-des-ovocytes-par-les-femmes) | Cinq ans après l'ouverture du dispositif, 80 % des femmes concernées connaissent son... | 18 |
+| [ihpi.umich.edu](https://ihpi.umich.edu/news-events/news/sandwich-generation-study-shows-challenges-caring-both-kids-and-aging-parents) | Ce phénomène, désigné par le terme de « génération sandwich », concerne un groupe... | 18 |
+| [caregiveraction.org](https://www.caregiveraction.org/sandwich-generation/) | Les personnes de la génération sandwich consacrent en moyenne 30 heures par semaine à... | 18 |
+| [pewresearch.org](https://www.pewresearch.org/social-trends/2013/01/30/the-sandwich-generation/) | 31 % des personnes concernées se déclarent constamment pressées par le temps | 18 |
+| [researchgate.net](https://www.researchgate.net/publication/226960649_Use_of_Social_Support_Gender_and_Personality_Differences) | Les femmes, quel que soit leur âge, rapportent des réseaux sociaux plus larges que les... | 19 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6470062/) | la qualité comme la quantité de ce soutien produisent des bénéfices de santé plus... | 19 |
+| [en.wikipedia.org](https://en.wikipedia.org/wiki/Kinkeeping) | l'effort constant pour que les membres d'une famille restent en contact, que les... | 19 |
+| [expathy.org](https://www.expathy.org/trailing-spouse-expat-partner) | Selon une enquête internationale, 84 % des « conjoints suiveurs » sont des femmes, et... | 19 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6845032/) | Les aidantes conjugales connaissent davantage d'isolement social que les autres types... | 19 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12759896/) | les facteurs qui prédisent le plus de solitude chez les aidantes incluent le fait... | 19 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12797457/) | le sens donné à sa propre vie atténue partiellement le lien entre la charge d'aidante,... | 19 |
+| [fr.wikipedia.org](https://fr.wikipedia.org/wiki/Charge_mentale_m%C3%A9nag%C3%A8re) | Le travail cognitif d'anticipation et de coordination relève du même mécanisme... | 21 |
+| [domesticshelters.org](https://www.domesticshelters.org/articles/identifying-abuse/explaining-darvo-deny-attack-reverse-victim-amp-offender) | Le terme DARVO — Nier, Attaquer, Inverser Victime et Agresseur — a été proposé par la... | 21 |
+| [journals.sagepub.com](https://journals.sagepub.com/doi/abs/10.1177/08862605231169751) | des participants exposés à un scénario de DARVO percevaient la victime comme moins... | 21 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11616802/) | Ce mécanisme n'est pas propre aux situations les plus graves : la recherche montre... | 21 |
+| [mentalhealthctr.com](https://www.mentalhealthctr.com/boundaries-and-mental-health/) | Un excès de conciliation, de sacrifice de soi et de comportements de plaisir à tout... | 21 |
+| [psychologytoday.com](https://www.psychologytoday.com/us/blog/urban-survival/202409/6-tips-on-how-to-be-assertive-to-reduce-stress-and-anxiety) | Une formation à l'affirmation de soi, dispensée une fois par semaine pendant dix... | 21 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9605579/) | La prééclampsie et le diabète gestationnel sont tous deux associés à un risque accru... | 22 |
+| [obgyn.onlinelibrary.wiley.com](https://obgyn.onlinelibrary.wiley.com/doi/10.1111/1471-0528.17454) | la prééclampsie et le diabète gestationnel sont des facteurs de risque indépendants de... | 22 |
+| [mdpi.com](https://www.mdpi.com/2673-9488/6/2/22) | Les troubles du sommeil comptent parmi les symptômes les plus fréquents et les plus... | 22 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12713907/) | Une qualité de sommeil insuffisante contribue à diverses conditions de santé chez les... | 22 |
+| [americansurveycenter.org](https://www.americansurveycenter.org/newsletter/after-metoo-have-women-become-more-afraid-of-men/) | Chaque femme doit évaluer si une personne semble sûre, et refaire continuellement... | 26 |
+| [researchgate.net](https://www.researchgate.net/publication/379715919_Women's_sensitivity_to_threat_in_online_dating_and_the_ineffectiveness_of_standard_safety_warnings) | Les femmes sont significativement moins intéressées par des profils de rencontre en... | 26 |
+| [arretonslesviolences.gouv.fr](https://arretonslesviolences.gouv.fr/je-suis-professionnel/chiffres-de-reference-violences-faites-aux-femmes) | En 2023, environ 277 000 femmes de 18 ans et plus ont été victimes de viols,... | 26 |
+| [interieur.gouv.fr](https://www.interieur.gouv.fr/actualites/communiques-de-presse/victimes-de-violences-physiques-ou-sexuelles-enregistrees-par-0) | Les victimes de violences sexuelles enregistrées restent très majoritairement des... | 26 |
+| [interieur.gouv.fr](https://www.interieur.gouv.fr/actualites/communiques-de-presse/violences-conjugales-enregistrees-par-services-de-securite-quasi-stabilisation-en-2024) | En 2024, les services de sécurité ont enregistré 272 400 victimes de violences... | 26 |
+| [insee.fr](https://www.insee.fr/fr/statistiques/8310621) | En 2023, 30 % des enfants mineurs en France vivent avec un seul de leurs parents,... | 31 |
+| [observationsociete.fr](https://www.observationsociete.fr/structures-familiales/personnes-seules/de-plus-en-plus-de-familles-monoparentales-2/) | Le taux de pauvreté des familles monoparentales avoisine 20 %, contre 7 % pour les... | 31 |
+| [aecf.org](https://www.aecf.org/blog/child-well-being-in-single-parent-families) | 27 % des familles monoparentales vivent sous le seuil de pauvreté fédéral, plus de... | 31 |
+| [journals.lww.com](https://journals.lww.com/jehp/fulltext/2024/04290/the_psychosocial_impact_on_single_mothers_.148.aspx) | L'absence de soutien financier et social pèse lourdement sur le bien-être émotionnel... | 31 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC3454453/) | Dans les cinq ans suivant une naissance, environ deux tiers des mères non mariées... | 31 |
+| [researchgate.net](https://www.researchgate.net/publication/304913910_Romantic_and_dating_behaviors_among_single_parents_in_the_United_States) | le temps et l'argent restent des freins concrets à la vie amoureuse d'une mère... | 31 |
+| [csi.pressbooks.pub](https://csi.pressbooks.pub/childandadolescentpsychology/chapter/divorce-repartnering-and-stepfamilies/) | la proximité entre une adolescente ou un adolescent et sa mère diminue lorsqu'un... | 31 |
+| [triplep-parenting.com](https://www.triplep-parenting.com/us/articles-and-news/post/apart-but-together-co-parenting-after-separation-or-divorce/) | l'effet le plus délétère du divorce ou de la séparation sur l'ajustement et le... | 31 |
+| [onlinelibrary.wiley.com](https://onlinelibrary.wiley.com/doi/full/10.1111/fcre.12801) | une coparentalité de meilleure qualité est associée à une meilleure régulation... | 31 |
+| [researchgate.net](https://www.researchgate.net/publication/313185970_Promoting_Strengths_and_Resilience_in_Single-Mother_Families) | Les travaux sur la résilience des familles monoparentales insistent au contraire sur... | 31 |

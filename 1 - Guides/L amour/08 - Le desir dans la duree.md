@@ -60,6 +60,10 @@ La conversation la plus difficile est celle sur l'écart de désir, parce que ch
 
 La formulation qui désamorce, à froid et hors de la chambre : **« je crois qu'on n'a pas un problème d'envie, on a un problème de freins. Est-ce qu'on peut lister ce qui, dans nos semaines, appuie sur le frein ? »** Elle transforme un procès en inventaire, et elle met les deux du même côté.
 
+### 8.5 La limite de l'analogie du frein et de l'accélérateur
+
+Une voiture a un accélérateur et un frein clairement séparés, chacun avec un seul rôle. Le corps humain est moins net : la même chose, la fatigue par exemple, peut à la fois freiner le désir et, dans certains contextes, en devenir accidentellement le déclencheur, par exemple quand un moment de repos partagé recrée les conditions d'une proximité qui manquait. L'analogie reste utile pour se poser la bonne question, freins ou accélérateur, mais elle ne doit pas faire oublier qu'un même facteur peut jouer les deux rôles selon le contexte, ce qui rend l'inventaire suggéré plus haut plus utile qu'une règle générale appliquée sans y regarder de près.
+
 **Bons réflexes**
 
 - Utilisez le levier du chiffre : **« sur dix, à quel point tu es disponible pour toi-même en ce moment ? »** est bien plus informatif que « tu as encore envie de moi ? ».

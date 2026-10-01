@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "Psychologie de la personnalité"
-mis_a_jour_le: 2026-09-23
+mis_a_jour_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -238,6 +238,7 @@ Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de
 | Source | Appuie | Lien |
 |---|---|---|
 | OpenStax, 4.2 Temperament and Personality in Infants and Toddlers | Thomas et Chess, 9 dimensions, goodness of fit | https://openstax.org/books/lifespan-development/pages/4-2-temperament-and-personality-in-infants-and-toddlers |
+| Social Sci LibreTexts, The Thomas and Chess Study of Temperament | Détail des neuf dimensions de tempérament | https://socialsci.libretexts.org/Courses/Woodland_Community_College/Social-Emotional_Development_in_Early_Childhood/03%3A_Temperament/3.02%3A_The_Thomas_and_Chess_Study_of_Temperament |
 | PMC, Understanding How Child Temperament, Negative Parenting... | Susceptibilité différentielle, enfant orchidée | https://pmc.ncbi.nlm.nih.gov/articles/PMC9786603/ |
 
 ## Chapitre 25 — La résilience comme trait de personnalité
@@ -310,3 +311,90 @@ Sources du guide [Psychologie de la personnalité](<../1 - Guides/Psychologie de
 | Journal of Rational-Emotive & Cognitive-Behavior Therapy, Unconditional self-acceptance | Rogers, acceptation de soi et santé mentale | https://link.springer.com/10.1007/s10942-023-00517-y |
 | Personality and Social Psychology Bulletin, From Me to You: Self-Compassion Predicts Acceptance | Autocompassion prédit acceptation d'autrui | https://journals.sagepub.com/doi/10.1177/0146167219853846 |
 | The New Hope MHCS, The Power of Acceptance: Embracing Imperfection in Your Partner | Gottman, conflits perpétuels, acceptation vs changement | https://www.thenewhopemhcs.com/the-power-of-acceptance-embracing-imperfection-in-your-partner/ |
+
+## Réciprocité complémentaire (reprise du 28/09/2026)
+
+| Référence | Ce qu'elle appuie | Chapitre |
+|---|---|---|
+| [albert.io](https://www.albert.io/blog/trait-theory-of-personality-ap-psychology-review/) | Les traits de personnalité se définissent comme des schémas de pensées, de sentiments et de comportements… | 1 |
+| [esoftskills.com](https://esoftskills.com/trait-vs-state/) | Les traits de personnalité sont des schémas stables et durables qui s'expriment dans la vie quotidienne… | 1 |
+| [experts.illinois.edu](https://experts.illinois.edu/en/publications/personality-stability-and-change-a-meta-analysis-of-longitudinal-/) | Elle a augmenté significativement au cours de la petite enfance avant d'atteindre un plateau au début de… | 1 |
+| [greatergood.berkeley.edu](https://greatergood.berkeley.edu/article/item/can_your_personality_change_over_your_lifetime) | Le caractère consciencieux et l'agréabilité tendent à augmenter au cours de l'âge adulte | 1 |
+| [en.wikipedia.org](https://en.wikipedia.org/wiki/Person%E2%80%93situation_debate) | Un débat majeur a opposé, à partir de 1968, les théoriciens des traits aux psychologues sociaux | 1 |
+| [lidsen.com](https://www.lidsen.com/journals/neurobiology/neurobiology-09-03-297) | L'isolement social renvoie à une séparation géographique choisie | 13 |
+| [scienceblog.com](https://scienceblog.com/t-choice-voluntary-solitude-unwanted-loneliness-wellbeing/) | Le choix, ou l'autonomie ressentie d'être seul, peut modifier la façon dont une même quantité de temps… | 13 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10736762/) | La solitude subie était associée positivement aux symptômes dépressifs, tandis que la solitude positive y… | 13 |
+| [researchgate.net](https://www.researchgate.net/publication/391276441_Being_single_in_the_twenty-first_century) | Le célibat volontaire désigne un état dans lequel une personne fait le choix conscient d'être célibataire… | 13 |
+| [huffpost.com](https://www.huffpost.com/entry/single-at-heart-living-alone-adult_n_65495a25e4b01b258584e025) | La psychologue Bella DePaulo raconte avoir vécu seule toute sa vie adulte et se décrit comme « single at… | 13 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC13046179/) | Une revue systématique et méta-analyse a examiné 158 tailles d'effet portant sur 569 859 personnes | 14 |
+| [academic.oup.com](https://academic.oup.com/abm/article/47/1/92/4563919) | Un niveau élevé de caractère consciencieux est associé positivement à plusieurs aspects de l'observance… | 14 |
+| [sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0191886921005584) | Les traits de personnalité influencent les évaluations du stress et les mécanismes d'adaptation des individus | 14 |
+| [online.ucpress.edu](https://online.ucpress.edu/collabra/article/6/1/33/114445/Is-Healthy-Neuroticism-Associated-with-Longevity-A) | Les résultats actuels ne soutiennent pas l'idée que la combinaison d'un caractère consciencieux élevé et… | 14 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9938997/) | Un niveau plus élevé de névrosisme et des niveaux plus faibles d'agréabilité, de caractère consciencieux,… | 15 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC7265221/) | Le perfectionnisme, en particulier sa dimension de préoccupations perfectionnistes, est associé à une… | 15 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9714607/) | Une étude a examiné comment les traits de personnalité du modèle en cinq facteurs chez les responsables… | 15 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12649285/) | Le névrosisme était le prédicteur le plus fort du premier fusible, l'épuisement émotionnel | 15 |
+| [criteriacorp.com](https://www.criteriacorp.com/blog/4-reasons-you-should-never-use-the-myers-briggs-test-for-hiring) | Quatre-vingt-neuf des cent entreprises du classement Fortune 100, et des milliers d'autres organisations… | 16 |
+| [plum.io](https://www.plum.io/blog/schmidt-hunter-meta-analysis) | Une capacité mentale générale correctement mesurée prédit la performance professionnelle avec une… | 16 |
+| [hoganassessments.com](https://www.hoganassessments.com/blog/our-assessments-dont-discriminate-but-many-do/) | Les tests de personnalité bien conçus aident les entreprises à prendre des décisions d'embauche équitables | 16 |
+| [researchgate.net](https://www.researchgate.net/publication/277621154_Personality_Tests_in_Employment_A_Continuing_Legal_Ethical_and_Practical_Quandary) | Les tests de personnalité ne produisent généralement pas d'impact disproportionné | 16 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6917272/) | La structure des Big Five est stable à travers les cultures | 17 |
+| [en.wikipedia.org](https://en.wikipedia.org/wiki/National_character) | La question de savoir si les analyses de caractère national expriment un contenu réel, par opposition à de… | 17 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6248921/) | Les stéréotypes de caractère national des Canadiens et des Américains divergent | 17 |
+| [sciencedirect.com](https://www.sciencedirect.com/science/article/pii/S0191886924002551) | Les profils de personnalité nationaux sont mesurablement différents | 17 |
+| [pubmed.ncbi.nlm.nih.gov](https://pubmed.ncbi.nlm.nih.gov/11767823/) | Les personnes issues de cultures collectivistes, comparées à celles issues de cultures individualistes,… | 17 |
+| [apa.org](https://www.apa.org/pubs/journals/releases/amp-606581.pdf) | L'hypothèse des similarités de genre soutient que les hommes et les femmes se ressemblent davantage qu'ils… | 18 |
+| [cin.ufpe.br](https://cin.ufpe.br/~ssj/Gender%20differences%20in%20Personality%20A%20Meta-.pdf) | Des traits comme l'impulsivité, le niveau d'activité et l'ordre montraient des différences de genre… | 18 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6428189/) | Le chevauchement entre les distributions masculine et féminine est systématiquement plus important que la… | 18 |
+| [doi.org](https://doi.org/10.1177/0146167217713190) | Les stéréotypes contiennent une part de justesse, mais exagèrent significativement les différences de… | 19 |
+| [journals.sagepub.com](https://journals.sagepub.com/doi/abs/10.1177/0022022113520075) | Les évaluateurs percevaient les femmes comme légèrement plus élevées en ouverture, en agréabilité et en… | 19 |
+| [en.wikipedia.org](https://en.wikipedia.org/wiki/Gender-equality_paradox) | Le paradoxe de l'égalité des genres désigne le fait que les pays avec davantage d'égalité présentent de… | 19 |
+| [researchgate.net](https://www.researchgate.net/publication/337752795_Does_Gender_Equality_Cause_Gender_Differences_in_Values_Reassessing_the_Gender-Equality-Personality_Paradox) | Sur le plan évolutionniste, l'égalité pourrait augmenter les différences de genre car elle offre davantage… | 19 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7006385/) | Une méta-analyse portant sur 19 études et 3 848 participants a montré que quatre des cinq facteurs du… | 20 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10312100) | La similarité de personnalité joue un rôle négligeable dans l'explication de la satisfaction de vie et de… | 20 |
+| [bpl.studentorg.berkeley.edu](https://bpl.studentorg.berkeley.edu/docs/07-%20Birds%20of%20a%20feather%20don't%20always%20fly%20farthest-%20Similarity%20in%20Big%20Five%20personality%20predicts%20more%20negative%20marital%20satisfaction%20trajectories%20in%20long-term%20marriages.pdf) | La similarité dans les Big Five prédit des trajectoires de satisfaction conjugale plus négatives dans les… | 20 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC5790806/) | Deux des traits des Big Five, l'extraversion et l'ouverture à l'expérience, apparaissent plus similaires… | 21 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7212830/) | Dans des contextes de groupe, la similarité des individus en névrosisme et en caractère consciencieux… | 21 |
+| [en.wikipedia.org](https://en.wikipedia.org/wiki/Cross-sex_friendship) | Environ 80 % des adultes ont eu au moins une amitié entre personnes de sexes différents au cours de leur vie | 21 |
+| [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/0265407512443611) | Les jeunes adultes de sexe masculin rapportaient davantage d'attirance envers leur ami que les jeunes… | 21 |
+| [pnas.org](https://www.pnas.org/doi/10.1073/pnas.0705290104) | Dans une étude de speed dating portant sur 46 adultes, les préférences déclarées ne prédisaient pas les… | 22 |
+| [gwern.net](https://gwern.net/doc/psychology/personality/2017-fugere.pdf) | Les hommes choisissaient les femmes en fonction de leur attractivité physique, les femmes étant… | 22 |
+| [spring.org.uk](https://www.spring.org.uk/2025/03/personality-traits-dating.php) | Les traits de la triade noire incluent des comportements extravertis susceptibles de créer une bonne… | 22 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12421710/) | À travers les deux sexes, le narcissisme était positivement associé à l'attrait comme partenaire pour des… | 22 |
+| [nature.com](https://www.nature.com/articles/s41539-023-00173-y) | Les environnements non partagés et la génétique ont une influence bien plus élevée sur la personnalité que… | 23 |
+| [arthurjensen.net](https://arthurjensen.net/wp-content/uploads/2014/06/1987-plomin.pdf) | Les différences environnementales entre enfants d'une même famille, appelées « environnement non partagé… | 23 |
+| [en.wikipedia.org](https://en.wikipedia.org/wiki/Sibling_deidentification) | C'est le processus par lequel les frères et sœurs développent inconsciemment des personnalités différentes… | 23 |
+| [traitpath.com](https://www.traitpath.com/blog/articles/birth-order-personality-effects) | Bien que les premiers-nés obtiennent des scores plus élevés en intelligence mesurée objectivement | 23 |
+| [openstax.org](https://openstax.org/books/lifespan-development/pages/4-2-temperament-and-personality-in-infants-and-toddlers) | Thomas et Chess ont débuté leur étude longitudinale en réaction à ce qu'ils percevaient comme un accent… | 24 |
+| [socialsci.libretexts.org](https://socialsci.libretexts.org/Courses/Woodland_Community_College/Social-Emotional_Development_in_Early_Childhood/03%3A_Temperament/3.02%3A_The_Thomas_and_Chess_Study_of_Temperament) | Le niveau d'activité, c'est-à-dire l'énergie générale de l'enfant | 24 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC9786603/) | Un enfant hautement réactif pourrait s'épanouir exceptionnellement bien avec une parentalité sensible,… | 24 |
+| [en.wikipedia.org](https://en.wikipedia.org/wiki/Psychological_resilience) | L'approche par trait définit la résilience comme des ressources personnelles ou des caractéristiques de… | 25 |
+| [fd-resilience.org](https://fd-resilience.org/les-temoignages/) | Ludovic, ancien moniteur parachutiste, a été blessé au combat en Afghanistan en 2003 ; après vingt années… | 25 |
+| [nature.com](https://www.nature.com/articles/s44271-024-00138-w) | Les facteurs de résilience individuels incluent des variables psychologiques comme l'optimisme… | 25 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC11687749/) | Des liens directs significatifs relient le soutien social à l'auto-efficacité, l'auto-efficacité à… | 25 |
+| [frontiersin.org](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2021.671421/full) | Le principe de maturation s'est révélé vrai de façon transculturelle | 26 |
+| [nature.com](https://www.nature.com/articles/s44271-024-00167-5) | Des preuves méta-analytiques montrent que les interventions visant à modifier des traits de personnalité… | 26 |
+| [pmc.ncbi.nlm.nih.gov](https://pmc.ncbi.nlm.nih.gov/articles/PMC6123904/) | Elle propose des intentions de mise en œuvre très concrètes, comme « si je n'ai aucune réunion avant 13… | 26 |
+| [pnas.org](https://www.pnas.org/doi/10.1073/pnas.2017548118) | Les changements autodéclarés étaient significatifs pour les personnes souhaitant augmenter un trait, et… | 26 |
+| [empathi.com](https://empathi.com/blog/what-is-a-toxic-person/) | Une personnalité toxique n'est pas un diagnostic psychologique, et la toxicité n'est pas un diagnostic | 27 |
+| [psychologytoday.com](https://www.psychologytoday.com/us/blog/love-them-or-leave-them/202510/pop-pathology-the-modern-obsession-with-diagnosis) | La pathologie populaire désigne la tendance culturelle à utiliser des termes cliniques pour expliquer… | 27 |
+| [time.com](https://time.com/6262891/psychology-terms-misused-gaslighting-toxic-narcissist/) | Quand les termes cliniques deviennent surutilisés, leur poids communicatif diminue | 27 |
+| [en.wikipedia.org](https://en.wikipedia.org/wiki/Persona_(psychology) | La persona est le visage social qu'un individu présente au monde | 28 |
+| [iaap.org](https://iaap.org/jung-analytical-psychology/short-articles-on-analytical-psychology/persona-2/) | Elle permet de participer à la vie collective, de répondre aux attentes sociales et de maintenir des… | 28 |
+| [thecollector.com](https://www.thecollector.com/jungian-persona-what-are-the-masks-we-wear/) | Quand la persona est trop rigide, ou si une personne s'identifie fortement à elle, elle la garde même dans… | 28 |
+| [thedecisionlab.com](https://thedecisionlab.com/reference-guide/psychology/self-monitoring) | Les personnes à forte auto-surveillance s'efforcent d'ajuster leur présentation à des situations spécifiques | 28 |
+| [ira.lib.polyu.edu.hk](https://ira.lib.polyu.edu.hk/bitstream/10397/119053/1/annurev-orgpsych-031424-094951.pdf) | Les personnes à forte auto-surveillance sont plus susceptibles d'être impliquées dans leur travail, de… | 28 |
+| [boords.com](https://boords.com/storytelling/character-archetypes) | Ils partagent des vérités fondamentales sur les personnalités, les objectifs, les peurs et les faiblesses… | 29 |
+| [researchtrendsjournal.com](https://researchtrendsjournal.com/counter/d/3-2-29/3-2-29.1.pdf) | Aucune corrélation significative n'existe entre les signes du zodiaque et les traits de personnalité réels | 29 |
+| [neurofied.com](https://neurofied.com/barnum-effect-the-reason-why-we-believe-our-horoscopes/) | Le mécanisme tient à la tendance de notre cerveau à attacher une signification personnelle à des… | 29 |
+| [researchgate.net](https://www.researchgate.net/publication/45658807_Self-Presentation_20_Narcissism_and_Self-Esteem_on_Facebook) | Les utilisateurs des réseaux sociaux tendent à présenter une version idéalisée d'eux-mêmes de façon exagérée | 30 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12109065/) | Les plateformes contribuent à une « inflation de personnalité », où les utilisateurs présentent une… | 30 |
+| [sciencedirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0747563219303073) | Un niveau plus élevé de narcissisme vulnérable et de machiavélisme prédit une moins bonne congruence entre… | 30 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7538578/) | L'expression authentique de soi sur les réseaux sociaux est associée à un plus grand bien-être subjectif | 30 |
+| [ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10784547/) | Les recherches révèlent des différences partisanes claires dans la façon dont les utilisateurs se… | 30 |
+| [nationalaffairs.com](https://www.nationalaffairs.com/public_interest/detail/sincerity-and-authenticity-in-modern-society) | Le critique littéraire Lionel Trilling situe l'émergence de la sincérité comme trait central de la vie… | 31 |
+| [blogs.lse.ac.uk](https://blogs.lse.ac.uk/southasia/2016/10/19/charles-taylor-has-reimagined-identity-and-morality-for-a-secular-age/) | L'authenticité est un thème central de la culture moderne, avec un horizon d'évaluation fort pour de… | 31 |
+| [healthypsych.com](https://healthypsych.com/the-study-of-authenticity/) | Une méta-analyse a montré que l'authenticité est une pierre angulaire du bien-être | 31 |
+| [link.springer.com](https://link.springer.com/10.1007/s10942-023-00517-y) | Rogers a intégré l'acceptation de soi dans sa théorie centrée sur la personne, postulant qu'elle naît de… | 32 |
+| [journals.sagepub.com](https://journals.sagepub.com/doi/10.1177/0146167219853846) | Les personnes autocompatissantes rapportaient davantage d'acceptation de leurs propres défauts, ce qui… | 32 |
+| [thenewhopemhcs.com](https://www.thenewhopemhcs.com/the-power-of-acceptance-embracing-imperfection-in-your-partner/) | Environ 69 % des conflits conjugaux sont enracinés dans des problèmes perpétuels et non résolubles, comme… | 32 |

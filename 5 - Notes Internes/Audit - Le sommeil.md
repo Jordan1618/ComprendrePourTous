@@ -1,63 +1,40 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-24
+mis_a_jour_le: 2026-09-25
 ---
 
-# Audit — Le sommeil
+# Audit - Le sommeil (ré-audit post-Redaction2Chapitre)
 
-## Synthèse
+Ré-audit intégral des 16 chapitres, sans présumer du résultat ni reprendre le tableau de l'ancien rapport (remplacé entièrement). Verdict global : la reprise a fonctionné. **6 chapitres « rien à faire », 10 en « chirurgie », aucun en « réécriture ».** Le fil unique et l'analogie filée (portée de bout en bout puis retournée en fin de chapitre avec sa propre limite nommée) sont présents dans les 16 chapitres, sans exception. Le bloc ⚖️ Nuance est présent dans 14/16 chapitres, absent seulement en 8 et 15. Aucun réflexe en « Retenir/Garder à l'esprit/Se rappeler » sur l'ensemble du guide (0 occurrence) : les réflexes sont systématiquement des actions. Les chiffres cités sont presque toujours amenés par une échelle de comparaison concrète (« soit l'équivalent de… », « pour donner une échelle à ce chiffre… »). Les études mobilisées sont expliquées (qui, quoi, pourquoi c'est intéressant), pas seulement citées pour leur résultat — y compris dans les chapitres aux liens les plus longs.
 
-16 chapitres audités, lecture intégrale de chacun. Répartition des verdicts : **0 Rien à faire, 9 Chirurgie, 7 Réécriture**. Aucun chapitre n'a le fil cassé au sens strict (l'enchaînement des sous-parties reste logique, les renvois croisés entre chapitres sont nombreux et bien tenus) : les 7 Réécriture le sont uniquement à cause du seuil de liens collés (>85 %), pas d'un problème de structure.
+**Le défaut dominant qui subsiste est la longueur : 9 chapitres sur 16 sont sous le plancher de 1 500 mots** (comptage officiel du README), certains de peu (16 : 1 488 mots), d'autres nettement (8 et 14 : environ 1 160 mots). Dans tous les cas la structure et le fond tiennent ; il s'agit d'étoffer, pas de refondre. Deux défauts ponctuels s'y ajoutent : le chapitre 2 saute sa numérotation interne (2.2 puis 2.4, sans 2.3) ; les chapitres 8 et 15 n'ont pas de bloc ⚖️ Nuance alors que le reste du guide en pose systématiquement un.
 
-Défauts dominants, par ordre de fréquence :
-1. **Aucune analogie filée** dans aucun des 16 chapitres. C'est le défaut le plus systématique du guide : même les sujets qui s'y prêtent explicitement (le réveil-matin comme outil de discipline au ch.9, l'orthosomnie au ch.12, l'horloge d'organes désynchronisés au ch.2) restent purement factuels.
-2. **Zéro bloc ⚖️ Nuance** sur 16 chapitres, alors que plusieurs termes galvaudés s'y prêtaient (chronotype, divorce de sommeil, orthosomnie, cosleeping).
-3. **Blocs 👁️/💑 quasiment absents** : un seul bloc 🗣️ (témoignage, ch.14) sur tout le guide, zéro bloc 👁️ malgré des écarts de genre chiffrés et déjà présents dans le texte brut (ch.2 cancer du sein/travail posté, ch.3 sous-diagnostic de l'apnée chez les femmes, ch.13 : 86 % des réveils nocturnes gérés par les mères contre 6-7 % par les pères) ; zéro bloc 💑 alors que le chapitre 13 entier porte sur le couple.
-4. **Sourçage** : ratio global de liens collés de 85,6 % (172 collés sur 201 liens). La quasi-totalité du contenu factuel arrive sous forme de résumé d'étude traduit et empaqueté dans un seul lien, plutôt que d'être expliqué en prose avec la source posée sur la phrase précise.
-5. **Longueur** : 15 chapitres sur 16 sont sous le plancher de 1 500 mots (seul le chapitre 4, à 1 556 mots, le dépasse). La densité du guide reste correcte malgré cette brièveté — les objets sont pour la plupart bien définis (TCC-I, système glymphatique, orthosomnie, technoférence) — mais le format reste trop condensé pour porter une analogie et un bloc Nuance sans extension.
-6. **Réflexes** : mélange d'actions concrètes et de formulations passives (« Retenir que… », « Garder à l'esprit que… ») ; 16 occurrences passives relevées sur l'ensemble du guide, jamais dominantes dans un chapitre donné.
+**Réciprocité des sources (chapitres ↔ `4 - Sources/Le sommeil.md`) : quasi totale.** Sur 124 URL uniques citées dans les 16 chapitres, 122 figurent dans le fichier de sources central. Un seul écart réel : le chapitre 2 source le chiffre « 30 millions de travailleurs postés aux États-Unis » sur `onlinelibrary.wiley.com/doi/10.1155/2018/8576890`, absent du fichier de sources, qui attribue cette même ligne (repère 2.4) à un autre article (PMC5828540) au lieu du lien réellement posé dans le chapitre — **soit 0,8 % des URL du guide sans réciprocité réelle**, très en dessous du seuil qui justifierait une correction en urgence. Un second écart (PMC10735476 côté chapitre 14 vs son miroir `ncbi.nlm.nih.gov/pmc/articles/PMC10735476` côté sources) n'est qu'une variante d'URL du même article, pas une absence de source. Aucune correction n'a été appliquée : signalé pour action ultérieure, conformément au mode lecture seule du skill.
 
-## Mesures globales
+| # | Chapitre | Mots | Défauts relevés | Verdict |
+|---|---|---|---|---|
+| 1 | Ce que le sommeil fait vraiment | 2 121 | Aucun défaut significatif relevé | Rien à faire |
+| 2 | L'horloge interne | 1 847 | Numérotation interne saute de 2.2 à 2.4 (pas de 2.3) ; 1 lien source (stat. « 30 millions ») absent de `4 - Sources` | Chirurgie |
+| 3 | Les troubles les plus fréquents | 1 810 | Aucun défaut significatif relevé | Rien à faire |
+| 4 | Le sommeil à chaque âge | 2 183 | Aucun défaut significatif relevé | Rien à faire |
+| 5 | Ce qui aide vraiment | 1 585 | Aucun défaut significatif relevé | Rien à faire |
+| 6 | Sommeil et corps | 1 279 | 221 mots sous le plancher | Chirurgie |
+| 7 | Sommeil et santé mentale | 1 818 | Aucun défaut significatif relevé | Rien à faire |
+| 8 | Métiers à risque | 1 166 | 334 mots sous le plancher ; aucun bloc ⚖️ Nuance | Chirurgie |
+| 9 | Une histoire longue du sommeil | 1 292 | 208 mots sous le plancher | Chirurgie |
+| 10 | Le sommeil ailleurs | 1 337 | 163 mots sous le plancher | Chirurgie |
+| 11 | Ce que le manque de sommeil coûte | 1 307 | 193 mots sous le plancher | Chirurgie |
+| 12 | L'industrie du sommeil | 1 423 | 77 mots sous le plancher (léger) | Chirurgie |
+| 13 | Le sommeil en couple et en famille | 1 718 | Aucun défaut significatif relevé | Rien à faire |
+| 14 | Sommeil, précarité et contrôle coercitif | 1 158 | 342 mots sous le plancher | Chirurgie |
+| 15 | Le sommeil dans l'art et la culture | 1 288 | 212 mots sous le plancher ; aucun bloc ⚖️ Nuance | Chirurgie |
+| 16 | Rituels, sport et alimentation | 1 488 | 12 mots sous le plancher (marginal) | Chirurgie |
 
-| Mesure | Valeur |
-|---|---|
-| Liens totaux | 201 |
-| Liens collés (résumé d'étude > 25 mots ou point-virgule) | 172 (85,6 %) |
-| Réflexes passifs (Retenir/Garder à l'esprit/Se rappeler/Se méfier) | 16 occurrences |
-| Blocs ⚖️ Nuance | 0 |
-| Blocs 👁️ Écart de perception | 0 |
-| Blocs 💑 Couple | 0 |
-| Blocs 🗣️ Témoignage | 1 (chapitre 14) |
-| Chapitres sous 1 500 mots | 15 / 16 |
+## Estimation de coût de reprise
 
-## Détail par chapitre
+10 chapitres en chirurgie (2, 6, 8, 9, 10, 11, 12, 14, 15, 16), fourchette basse de 10 à 15k tokens par chapitre selon le précédent utilisé sur d'autres guides (« Pour Lui », « Les nouvelles compositions familiales ») : **environ 100 à 150k tokens** pour l'ensemble, l'essentiel du travail consistant à étoffer les sections existantes (pas de nouvelle recherche de fond attendue, sauf pour les deux blocs ⚖️ Nuance manquants en 8 et 15) plutôt qu'à reformuler des citations collées ou reconstruire une analogie absente, contrairement aux guides encore non repris. Aucun chapitre en réécriture, donc pas de fourchette haute à appliquer ici.
 
-| # | Chapitre | Mots | Liens collés | Défauts relevés | Verdict |
-|---|---|---|---|---|---|
-| 1 | Ce que le sommeil fait vraiment | 1323 | 16/18 (89 %) | Aucune analogie ; pas de bloc ⚖️ ; sourçage massivement collé ; fin en « Retenir que » passif | Réécriture |
-| 2 | L'horloge interne | 1092 | 9/16 (56 %) | Aucune analogie ; pas de bloc ⚖️ (chronotype) ; pas de bloc 👁️ malgré écart de genre cité (cancer du sein, travail posté) | Chirurgie |
-| 3 | Les troubles les plus fréquents | 954 | 11/13 (85 %) | Aucune analogie ; pas de bloc 👁️ malgré sous-diagnostic féminin de l'apnée signalé en texte ; objets bien définis (DSM-5) | Chirurgie |
-| 4 | Le sommeil à chaque âge | 1556 | 16/19 (84 %) | Seul chapitre >1500 mots ; aucune analogie ; pas de bloc 💑 malgré appel explicite à « nommer en couple » en 4.4 ; pas de bloc ⚖️ | Chirurgie |
-| 5 | Ce qui aide vraiment | 923 | 13/13 (100 %) | 100 % liens collés ; aucune analogie ; pas de bloc ⚖️ (mélatonine galvaudée) | Réécriture |
-| 6 | Sommeil et corps | 978 | 11/13 (85 %) | Aucune analogie (horloge/machine biologique inexploitée) ; pas de bloc ⚖️ | Chirurgie |
-| 7 | Sommeil et santé mentale | 1047 | 13/14 (93 %) | 93 % liens collés ; aucune analogie ; pas de bloc 🗣️ malgré sujet trauma/neuroatypie très porteur | Réécriture |
-| 8 | Métiers à risque | 732 | 7/9 (78 %) | Chapitre court (<800 mots) ; aucune analogie ; pas de bloc 👁️ (soignantes, dépression) ; objet épigénétique bien expliqué | Chirurgie |
-| 9 | Une histoire longue du sommeil | 958 | 10/12 (83 %) | Aucune analogie (réveil-matin comme outil de discipline, angle inexploité) ; pas de bloc ⚖️ | Chirurgie |
-| 10 | Le sommeil ailleurs | 814 | 10/10 (100 %) | 100 % liens collés ; aucune analogie malgré sujet culturel riche ; pas de bloc ⚖️ (cosleeping nuancé en texte mais pas en bloc) | Réécriture |
-| 11 | Ce que le manque de sommeil coûte | 908 | 9/11 (82 %) | Aucune analogie ; pas de bloc ⚖️ ; section 11.1 avec un seul réflexe | Chirurgie |
-| 12 | L'industrie du sommeil | 892 | 10/10 (100 %) | 100 % liens collés ; aucune analogie (matelas connectés, orthosomnie) ; pas de bloc ⚖️ | Réécriture |
-| 13 | Le sommeil en couple et en famille | 1083 | 10/12 (83 %) | Aucune analogie ; pas de bloc 👁️ malgré écart massif chiffré (86 %/6-7 %) ; pas de bloc 💑 alors que le chapitre est entièrement dédié au couple ; pas de bloc ⚖️ | Chirurgie |
-| 14 | Sommeil, précarité et contrôle coercitif | 839 | 8/12 (67 %) | Aucune analogie ; pas de bloc ⚖️ ; bloc 🗣️ déjà présent (bon point, seul du guide) | Chirurgie |
-| 15 | Le sommeil dans l'art et la culture | 799 | 10/10 (100 %) | 100 % liens collés ; chapitre <800 mots ; aucune analogie (ironique pour un chapitre sur le symbolisme) ; pas de bloc ⚖️ | Réécriture |
-| 16 | Rituels, sport et alimentation | 881 | 9/9 (100 %) | 100 % liens collés ; aucune analogie ; pas de bloc ⚖️ | Réécriture |
+## Conclusion
 
-## Estimation de coût
-
-- Chirurgie : 9 chapitres × 10-15k tokens = 90k-135k tokens.
-- Réécriture : 7 chapitres × 35-45k tokens = 245k-315k tokens.
-- **Total estimé : 335k-450k tokens**, soit environ **2 à 3 sessions Pro** (~150-200k tokens/session).
-
-## Résumé
-
-16 chapitres, aucun « rien à faire ». 9 chapitres en chirurgie (structure et fond solides, ajouter analogie, bloc ⚖️, et pour certains un bloc 👁️/💑 déjà suggéré par les données citées) et 7 en réécriture, tous à cause d'un ratio de liens collés supérieur à 85 % plutôt que d'un problème de fond. Le guide souffre d'un défaut quasi uniforme : zéro analogie et zéro bloc Nuance sur l'ensemble des 16 chapitres, alors que plusieurs écarts de genre chiffrés (ch.2, ch.3, ch.13) auraient mérité un bloc 👁️ formaté et que le chapitre 13 (couple) n'a aucun bloc 💑 malgré son sujet. Coût de reprise estimé à 2-3 sessions Pro.
+La reprise sous Redaction2Chapitre a globalement fonctionné : les défauts structurels lourds identifiés sur d'autres guides non repris (liens collés non expliqués, absence d'analogie filée, réflexes déguisés en résumés) n'apparaissent plus nulle part dans « Le sommeil ». Ce qui reste à corriger est mineur et localisé — de la longueur à ajouter sur 9 chapitres et deux blocs Nuance à poser — pas une nouvelle passe de fond.

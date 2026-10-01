@@ -4,7 +4,7 @@ chapitre: "2"
 titre: "Hypervigilance et évitement : ce que ça donne à deux"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -22,6 +22,14 @@ Après un trauma, deux grandes stratégies s'installent, souvent chez la même p
 
 En couple, ces deux stratégies produisent des malentendus caractéristiques. L'hypervigilance est perçue comme du contrôle ou de la jalousie. L'évitement est perçu comme du désamour ou de l'indifférence. Dans les deux cas, le partenaire interprète une **stratégie de protection** comme un **message sur la relation**. [Ces deux stratégies portent un nom en recherche sur l'attachement adulte : hyperactivation et désactivation](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
 
+⚖️ **Nuance**
+
+**L'hypervigilance n'est pas de la jalousie.** La jalousie porte sur l'exclusivité et la comparaison à un rival ; l'hypervigilance porte sur la détection d'un danger, réel ou non. Traiter l'une comme l'autre pousse à répondre par des preuves d'exclusivité, ce qui ne parle pas au bon système.
+
+**L'évitement n'est pas du désamour.** Il peut coexister avec un attachement fort : c'est précisément parce que le lien compte que sa remise en cause potentielle est fuie. Y voir un désintérêt pousse souvent à moins investir en retour, ce qui confirme le scénario que la personne redoutait.
+
+**Avoir raison de son ressenti n'est pas avoir raison sur la boucle.** Chaque partenaire perçoit correctement sa propre réaction ; aucun des deux ne voit, depuis sa place, le cycle entier qu'ils fabriquent à deux. C'est cette dernière confusion qui entretient le plus longtemps le cercle vicieux décrit plus loin dans ce chapitre.
+
 ### 2.2 Les manifestations concrètes
 
 Ce que les partenaires décrivent le plus souvent, formulé du point de vue de celui qui observe.
@@ -35,6 +43,8 @@ Ce que les partenaires décrivent le plus souvent, formulé du point de vue de c
 - Elle est absente pendant l'intimité, ou s'en éloigne sans explication.
 
 Aucun de ces comportements n'est un caprice. Chacun a été utile, à un moment, dans un contexte où il protégeait. [Ces manifestations correspondent aux comportements de recherche de proximité et de mise à distance décrits dans la même littérature](https://archive.org/details/attachmentinadul0000miku) (Mikulincer & Shaver, *Attachment in Adulthood*, Guilford Press, 2007 ; vérification du 7 août 2026).
+
+Ces deux profils ne sont pas figés dans le temps ni exclusifs l'un de l'autre. Une même personne peut passer des semaines dans un registre hypervigilant, puis basculer en évitement après un épisode particulièrement intense, comme si le détecteur trop sensible avait fini par griller un fusible et se coupait entièrement. Un partenaire qui observe ce changement sans le comprendre peut croire à une amélioration soudaine, alors qu'il s'agit souvent d'un déplacement de la même stratégie de fond, la recherche de sécurité, vers un autre mode d'expression.
 
 👁️ **Vu de l'autre côté**
 
@@ -63,6 +73,8 @@ La **prévisibilité** vaut mieux que la réassurance. Dire ce qu'on va faire et
 Les **signaux convenus à l'avance**. Un mot ou un geste décidé à froid, qui signifie « je suis en train de partir en alerte, j'ai besoin de dix minutes ». Il évite d'avoir à expliquer au moment où l'explication est impossible.
 
 Le **retour à froid**. Reprendre une scène le lendemain, sans reproche, pour reconstituer la chronologie : qu'est-ce qui s'est passé juste avant, à quel moment ça a basculé. C'est ainsi que les déclencheurs deviennent identifiables. [La thérapie de couple centrée sur l'émotion, développée par Susan Johnson, vise précisément à interrompre ce cycle en travaillant sur les besoins d'attachement sous-jacents](https://archive.org/details/practiceofemotio0000john) (Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
+
+Un exemple concret de ce que ce travail donne dans le temps : un couple qui convient d'un mot de pause, l'utilise trois fois la première semaine, deux fois la suivante, puis n'en a plus besoin qu'occasionnellement au bout de quelques mois. Ce n'est pas le mot lui-même qui a réglé quoi que ce soit, c'est la preuve répétée que la pause est respectée et suivie d'un vrai retour, qui a progressivement abaissé le seuil de déclenchement. La régularité compte davantage que l'intensité de chaque geste isolé.
 
 💑 **Dans le couple**
 

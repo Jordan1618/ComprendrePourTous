@@ -78,7 +78,7 @@ Un point pratique précis mérite d'être retenu : [les discussions sur les pré
 **Bons réflexes.**
 - Réserver un moment hors de la chambre, à froid, pour parler explicitement des préférences, des envies et des malaises éventuels — pas seulement pendant ou juste après un rapport.
 - Développer activement un vocabulaire commun et précis pour parler de sexualité en couple — plus il est riche, plus il facilite l'expression réelle des désirs de chacun.
-- Se rappeler que la difficulté à en parler est quasi universelle, pas un signe que quelque chose ne va pas spécifiquement dans cette relation.
+- Si la gêne à en parler bloque la conversation, le dire directement : « c'est gênant pour moi aussi, presque tous les couples galèrent là-dessus, on essaie quand même ? ».
 
 ### 11.5 Le sexe après un événement difficile
 
@@ -87,6 +87,13 @@ Un point contre-intuitif mais très courant : beaucoup d'hommes ont une poussée
 Ce n'est pas pour autant une obligation pour toi. Le savoir sert à ne pas mal l'interpréter, pas à te contraindre. [L'effet d'un événement difficile sur la sexualité est cohérent avec la façon dont le corps garde la mémoire d'un vécu traumatique](https://search.worldcat.org/title/body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/oclc/861478952) (van der Kolk, *The Body Keeps the Score*, Viking, 2014 ; vérification du 7 août 2026).
 
 Le point à retenir dépasse le seul cas du deuil : à peu près tous les mécanismes décrits dans ce chapitre partagent la même racine, celle d'un canal unique surchargé de significations qu'aucun autre espace ne peut accueillir. Élargir progressivement ce répertoire — la parole, le contact non sexuel, l'expression directe d'un besoin — ne retire rien à la sexualité elle-même. Ça lui retire seulement le poids de devoir tout porter à elle seule, ce qui, la plupart du temps, la rend plus légère et plus disponible, pas moins présente.
+
+⚖️ **Nuance.** Deux confusions alourdissent inutilement ce sujet.
+
+- Une demande sexuelle n'est pas toujours une demande sexuelle : elle porte souvent un besoin de réassurance, de proximité ou de réparation du lien, et la traiter comme un simple désir d'acte fait rater ce qui se joue réellement derrière.
+- Une panne ponctuelle n'est pas un jugement sur la relation ni sur la virilité : c'est un incident physiologique banal auquel presque tous les hommes font face, et la lecture identitaire qu'on en fait est justement ce qui la transforme en problème durable.
+
+Ce que recouvrent ces deux confusions : prendre le contenu apparent d'un acte sexuel ou de son absence pour ce qu'il signifie réellement.
 
 ## Sources vérifiables
 

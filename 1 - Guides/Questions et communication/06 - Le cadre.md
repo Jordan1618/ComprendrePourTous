@@ -46,7 +46,7 @@ Cette phrase fait deux choses. Elle prépare, ce qui réduit l'effet de surprise
 
 Le cadre ne concerne pas que la famille ou le couple. En entreprise, le point individuel régulier entre un manager et une personne de son équipe est le cadre le plus étudié pour les questions de fond sur le travail, au-delà des urgences opérationnelles du quotidien.
 
-[Les salariés qui ont des échanges réguliers avec leur manager ont près de trois fois plus de chances d'être engagés dans leur travail que ceux qui n'en ont pas](https://www.gallup.com/workplace/505370/great-manager-important-habit.aspx) (Gallup, *A Great Manager's Most Important Habit* ; vérification du 17 septembre 2026). Mais la régularité seule ne suffit pas : [une étude Gallup portant sur près de 15 000 salariés a trouvé que seuls 16 % d'entre eux jugeaient leur dernière conversation avec leur manager "extrêmement significative", et que les échanges perçus comme les plus significatifs étaient ceux construits autour de la reconnaissance, de la relation, des objectifs, du temps suffisant accordé, et des points forts de la personne, plutôt que centrés uniquement sur ses manques](https://news.gallup.com/businessjournal/147749/value-conversations-employees.aspx) (Gallup Business Journal ; vérification du 17 septembre 2026).
+[Les salariés qui ont des échanges réguliers avec leur manager ont près de trois fois plus de chances d'être engagés dans leur travail que ceux qui n'en ont pas](https://www.gallup.com/workplace/505370/great-manager-important-habit.aspx) (Gallup, *A Great Manager's Most Important Habit* ; vérification du 17 septembre 2026). Mais la régularité seule ne suffit pas : une étude Gallup portant sur près de 15 000 salariés a trouvé que [seuls 16 % d'entre eux jugeaient leur dernière conversation avec leur manager "extrêmement significative"](https://news.gallup.com/businessjournal/147749/value-conversations-employees.aspx), et que les échanges perçus comme les plus significatifs étaient ceux construits autour de la reconnaissance, de la relation, des objectifs, du temps suffisant accordé, et des points forts de la personne, plutôt que centrés uniquement sur ses manques (Gallup Business Journal ; vérification du 17 septembre 2026).
 
 Le point commun avec le reste de ce chapitre est frappant : ce n'est pas la fréquence du rendez-vous qui produit l'effet, c'est ce qui se passe une fois que le cadre est posé. Un point hebdomadaire de quinze minutes, entièrement pris par les urgences du moment, n'est pas un vrai cadre pour une question de fond, même s'il a lieu chaque semaine.
 
@@ -65,6 +65,12 @@ Tout ce chapitre suppose une présence physique partagée. Une partie croissante
 Il mérite une mention à part parce qu'il revient sans cesse dans les habitudes de couple, malgré son inefficacité. Le lit, au moment d'éteindre la lumière, est perçu comme un moment calme et disponible, alors qu'il cumule en réalité plusieurs mauvaises conditions à la fois : la fatigue cognitive de la journée écoulée, l'absence d'échappatoire si la conversation tourne mal, et la pression implicite de devoir résoudre quelque chose avant de pouvoir dormir.
 
 **Bons réflexes.** Réserver le coucher aux sujets légers, et déplacer explicitement toute question de fond identifiée en fin de journée vers le lendemain : "on en reparle demain, au calme" plutôt que de la lancer sur l'oreiller. Ce n'est pas de l'évitement, c'est un choix de fenêtre.
+
+⚖️ **Nuance : un cadre régulier n'est pas automatiquement un bon cadre**
+
+- **Décaler une question de fond au lendemain n'est pas de l'évitement.** C'est un choix de fenêtre (6.7) : le lit cumule fatigue de la journée, absence d'échappatoire et pression à résoudre avant de dormir.
+- **Un point régulier avec un manager n'est pas automatiquement un vrai cadre.** Un rendez-vous hebdomadaire entièrement pris par les urgences n'ouvre aucune fenêtre pour une question de fond (6.5), même à fréquence parfaite.
+- **Annoncer une question n'aide pas dans tous les cas.** Ça sert pour les questions les plus lourdes (6.4), mais rend une question ordinaire plus pesante qu'elle ne l'est.
 
 ## Sources vérifiables
 

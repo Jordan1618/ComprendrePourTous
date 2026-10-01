@@ -4,7 +4,7 @@ chapitre: "7"
 titre: "Le quotidien et sa charge"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -28,13 +28,21 @@ La confusion est la source principale des disputes sur ce sujet, parce que chacu
 
 Un couple peut avoir une répartition parfaitement égale des **tâches** et une répartition très déséquilibrée des deux autres. C'est le cas le plus fréquent, et c'est pour cela que « je t'aide pourtant » ne règle rien : le mot « aider » dit précisément où est le problème — il suppose que la responsabilité appartient à l'autre. [Daminger distingue quatre phases du travail cognitif domestique — anticiper, identifier des options, décider, superviser — et montre qu'elles restent inégalement réparties même dans des couples qui se déclarent égalitaires](https://journals.sagepub.com/doi/10.1177/0003122419859007) (Daminger, « The Cognitive Dimension of Household Labor », *American Sociological Review*, 2019 ; vérification du 7 août 2026).
 
+⚖️ **Nuance**
+
+**Faire autant de tâches n'est pas porter autant de charge.** Un partage équitable de la vaisselle et des courses peut coexister avec un déséquilibre total sur qui anticipe, qui décide et qui supervise. Se satisfaire du décompte des tâches masque exactement ce qui use le plus.
+
+**Ne pas anticiper une chose n'est pas de la mauvaise volonté.** L'incompétence acquise décrite plus loin s'installe progressivement, sans qu'aucun des deux ne l'ait choisie : celui qui reprend systématiquement finit par être le seul à savoir faire, ce qui n'est ni un piège tendu ni une preuve de désintérêt de l'autre.
+
+**Déléguer une tâche n'est pas déléguer un domaine.** « Dis-moi ce que je dois faire » laisse la charge d'y penser intacte chez celui qui demande d'être guidé. Seul le transfert d'un domaine entier, avec la responsabilité d'y penser, déleste réellement, ce que détaille la méthode de la section suivante.
+
 ### 7.3 Ce qui la rend invisible
 
 Trois mécanismes qui n'ont rien à voir avec la mauvaise volonté.
 
-**L'incompétence acquise.** Si l'un fait moins bien, l'autre reprend. À force, le premier ne fait plus, et le second devient seul dépositaire du savoir-faire. La spirale s'installe sans que personne ne l'ait décidée.
+**L'incompétence acquise.** Si l'un fait moins bien, l'autre reprend. À force, le premier ne fait plus, et le second devient seul dépositaire du savoir-faire. La spirale s'installe sans que personne ne l'ait décidée. Un exemple typique : le premier envoi d'un formulaire scolaire est fait un peu de travers, l'autre le refait « pour que ce soit fait vite et bien », et six mois plus tard, c'est devenu automatiquement son domaine, sans qu'aucune conversation n'ait jamais eu lieu sur ce transfert.
 
-**Le standard implicite.** Chacun a un seuil différent — de propreté, d'organisation, d'anticipation. Celui qui a le seuil le plus haut agit le plus souvent en premier — pas dans tous les couples, mais assez souvent pour que ce soit un schéma reconnaissable. Le débat ne porte alors pas sur l'équité mais sur le standard, et il est rarement posé comme tel.
+**Le standard implicite.** Chacun a un seuil différent — de propreté, d'organisation, d'anticipation. Celui qui a le seuil le plus haut agit le plus souvent en premier — pas dans tous les couples, mais assez souvent pour que ce soit un schéma reconnaissable. Le débat ne porte alors pas sur l'équité mais sur le standard, et il est rarement posé comme tel. Deux personnes peuvent ainsi se sentir chacune lésée en toute bonne foi : l'une parce qu'elle agit toujours la première, l'autre parce qu'elle a l'impression qu'on ne lui laisse jamais le temps d'agir à son propre rythme.
 
 **La délégation qui n'en est pas une.** « Dis-moi ce que je dois faire » laisse la charge intacte : la personne qui doit dire reste celle qui pense. Déléguer une tâche sans déléguer la responsabilité de savoir qu'elle existe ne déleste de rien. [Le fardeau mental de la charge domestique est associé à une détresse psychologique plus élevée chez les mères, indépendamment du temps consacré aux tâches elles-mêmes](https://pubmed.ncbi.nlm.nih.gov/34177072/) (Ciciolla & Luthar, « Invisible Household Labor and Ramifications for Adjustment », *Sex Roles*, 2019 ; vérification du 7 août 2026).
 
@@ -56,7 +64,7 @@ Beaucoup de couples ne se disputent pas et s'épuisent quand même. Trois usures
 
 **La disparition du récit.** On cesse de se raconter les petites choses de la journée. C'est le tout premier signal, et le plus facile à réinstaller.
 
-**La logistique qui remplace la relation.** Les seules conversations portent sur ce qu'il faut faire. Le couple devient une petite entreprise, efficace et vide.
+**La logistique qui remplace la relation.** Les seules conversations portent sur ce qu'il faut faire. Le couple devient une petite entreprise, efficace et vide. Un signe simple à repérer : si les trois derniers échanges de la journée portaient tous sur une course à faire, un rendez-vous à caler ou une facture à régler, la relation fonctionne, mais elle ne se nourrit plus.
 
 **L'asymétrie du temps libre.** Le temps résiduel est rarement réparti à égalité, et personne ne le calcule. Un test simple et instructif : chacun note, pendant une semaine, ses heures réellement libres — libres, c'est-à-dire sans surveillance ni anticipation. L'écart surprend presque toujours. [La disparition des micro-sollicitations quotidiennes et de la réponse qu'elles reçoivent est l'un des signaux précoces de détérioration du couple observés par Gottman](https://archive.org/details/the-seven-principles-for-making-marriage-work) (Gottman, *The Seven Principles for Making Marriage Work*, Crown, 1999 ; vérification du 7 août 2026).
 
@@ -73,3 +81,5 @@ La formulation qui ouvre déplace vers le « qui y pense » : **« je crois qu'o
 - Bannissez « aider ». Le mot désigne le problème.
 - Ne reprenez pas derrière l'autre. Un standard imparfait tenu par deux vaut mieux qu'un standard parfait tenu par un seul.
 - Comptez le temps libre réel une semaine. C'est la mesure la moins contestable.
+
+L'analogie du chef de projet a une limite qu'il faut voir pour comprendre pourquoi l'inventaire de 7.4 fonctionne mieux qu'une simple promesse de mieux faire. Dans une équipe de travail, le rôle de chef de projet peut être formellement transmis à quelqu'un d'autre du jour au lendemain, avec une fiche de poste et une passation. Dans un foyer, personne n'a jamais signé ce rôle, ce qui rend sa passation invisible tant qu'elle n'est pas rendue explicite sur le papier. C'est précisément pour cela que l'inventaire écrit, aussi laborieux qu'il paraisse pour une seule heure de travail, est l'exercice qui déplace réellement quelque chose : il transforme un rôle jamais nommé en un document que les deux personnes peuvent regarder ensemble, ligne par ligne, et se répartir comme on se répartirait une vraie fiche de poste.

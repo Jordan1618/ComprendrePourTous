@@ -4,7 +4,7 @@ chapitre: "6"
 titre: "Traverser les crises et tenir dans la durée"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -24,6 +24,8 @@ Trois éléments reviennent dans la littérature sur les couples résilients.
 
 **Le maintien de ressources extérieures.** Amis, famille, professionnels. Les couples qui se replient entièrement l'un sur l'autre pendant une crise sont plus fragiles, parce que la totalité de la charge repose sur deux personnes déjà épuisées. [Le sens partagé donné à une épreuve est l'un des trois facteurs de résilience familiale identifiés par Froma Walsh à partir de l'observation clinique de familles traversant des crises variées](https://www.guilford.com/books/Strengthening-Family-Resilience/Froma-Walsh/9781462529865) (Walsh, *Strengthening Family Resilience*, Guilford Press, 2006 ; vérification du 7 août 2026).
 
+Ce que ce travail montre concrètement, c'est qu'on peut observer ces trois facteurs séparément chez deux couples confrontés exactement à la même épreuve, par exemple un diagnostic de maladie chronique, et prédire correctement, plusieurs années à l'avance, lequel des deux tiendra. Ce n'est donc pas la nature de l'épreuve qui décide de l'issue, mais la structure que le couple lui oppose, ce qui est une bonne nouvelle : une structure se construit, elle ne dépend pas d'un trait de caractère figé chez l'un ou chez l'autre.
+
 ### 6.2 Le piège de l'aidant : quand tout le poids repose sur un seul pilier
 
 C'est la situation la plus fréquente quand l'un des deux porte un trauma, une dépression ou une maladie chronique, et elle est très peu abordée.
@@ -37,6 +39,14 @@ Deux conséquences, toutes deux documentées en clinique.
 **La disparition du désir.** Difficile de désirer quelqu'un dont on est devenu responsable. Le glissement vers une relation asymétrique éteint le désir bien plus sûrement que la routine.
 
 Le point important : **ce n'est pas un manque d'amour, c'est une erreur de répartition des rôles**, et elle se corrige. Reconnaître qu'on est passé du côté aidant n'est pas une trahison ; c'est la condition pour rester un partenaire. [Le glissement progressif vers un rôle d'aidant, et son coût, sont décrits par le modèle du stress de l'aidant de Leonard Pearlin](https://academic.oup.com/gerontologist/article-abstract/30/5/583/564941) (Pearlin et al., « Caregiving and the stress process », *The Gerontologist*, 1990 ; vérification du 7 août 2026).
+
+⚖️ **Nuance**
+
+**La disparition du désir dans ce contexte n'est pas un manque d'amour.** C'est une conséquence mécanique de l'asymétrie des rôles : difficile de désirer quelqu'un dont on gère le quotidien comme on gérerait celui d'un patient. Le confondre avec un désamour pousse souvent à se forcer, ce qui aggrave le problème au lieu de le résoudre.
+
+**Se reconnaître épuisé n'est pas abandonner l'autre.** Nommer sa fatigue avant l'effondrement est ce qui permet de rester présent sur la durée ; c'est le silence prolongé, pas l'aveu de fatigue, qui prépare la rupture soudaine décrite plus haut.
+
+**Un signal de fissure n'est pas une fatalité mécanique.** Chacun des signaux listés en 6.4 est réversible, d'autant plus facilement qu'il est repéré tôt. Les prendre pour un verdict irréversible pousse souvent à ne plus rien tenter, alors qu'ils fonctionnent justement comme des alertes à traiter.
 
 ### 6.3 Ce qui protège l'aidant
 

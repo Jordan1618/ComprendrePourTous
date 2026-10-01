@@ -52,7 +52,7 @@ licence: "CC BY 4.0"
 
 ### 9.4 La règle unique, s'il ne fallait en retenir qu'une
 
-Poser la question, puis se taire. [Le silence qui suit une question est le temps de traitement cognitif nécessaire à la construction d'une réponse, et le combler prématurément est l'erreur la plus documentée d'une conversation par ailleurs bien engagée](https://books.google.com/books/about/MEMORY_ENHANCING_TECHNIQUES_FOR_INVESTIG.html?id=W0_YCQAAQBAJ) (Fisher & Geiselman, *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 ; vérification du 8 août 2026).
+Poser la question, puis se taire. Le silence qui suit une question est le temps de traitement cognitif nécessaire à la construction d'une réponse, et [le combler prématurément est l'erreur la plus documentée d'une conversation par ailleurs bien engagée](https://books.google.com/books/about/MEMORY_ENHANCING_TECHNIQUES_FOR_INVESTIG.html?id=W0_YCQAAQBAJ) (Fisher & Geiselman, *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992 ; vérification du 8 août 2026).
 
 ### 9.5 Quand une question ouverte bloque, la technique de l'abstrait au concret
 
@@ -101,5 +101,18 @@ Tout ce guide part du principe qu'une question sert à comprendre l'autre. Il ex
 Ces signaux relèvent d'un mécanisme plus large et documenté, celui du contrôle coercitif, détaillé dans la notion [Contrôle coercitif](<../../2 - Notions/Contrôle coercitif.md>) plutôt que réexpliqué ici. Ce mécanisme concerne aussi bien les hommes que les femmes, à la fois comme personnes exposées à ce risque et, plus rarement mais réellement, comme personnes qui l'exercent sur un partenaire.
 
 **Bons réflexes.** Si poser une question à quelqu'un est systématiquement suivi d'une vérification indépendante de sa réponse, ou si ne pas répondre immédiatement à une question déclenche une réaction disproportionnée, ce n'est plus un problème de communication à corriger avec de meilleures formulations, c'est un signal à prendre au sérieux pour ce qu'il est.
+
+⚖️ **Nuance : trois questions qui empruntent la forme sans la fonction**
+
+- **Une question répétée sous des formulations différentes n'est pas de la curiosité insistante.** C'est une tentative de faire craquer, pas de comprendre.
+- **"T'étais où, avec qui, pendant combien de temps" posé systématiquement n'est pas de l'intérêt.** C'est un interrogatoire déguisé, surtout quand il n'y a aucune réciprocité.
+- **Une question dont la réponse est déjà connue n'est pas un test de confiance légitime.** C'est un piège, et une relation construite sur des tests répétés se dégrade rapidement.
+
+## Sources vérifiables
+
+- Effet du protocole des 36 questions sur la proximité interpersonnelle : Aron et al., *Personality and Social Psychology Bulletin*, 1997. https://journals.sagepub.com/doi/10.1177/0146167297234003 (vérification du 8 août 2026).
+- Effet des questions de suivi sur l'appréciation de l'interlocuteur : Yeomans, Brooks, Huang, Minson & Gino, *Journal of Personality and Social Psychology*, 2019. https://pubmed.ncbi.nlm.nih.gov/31714109/ (vérification du 8 août 2026).
+- Freins à l'écoute active les plus fréquemment observés : Weger, Bell, Minei & Robinson, *International Journal of Listening*, 2014. https://www.tandfonline.com/doi/full/10.1080/10904018.2013.813234 (vérification du 8 août 2026).
+- Silence après une question comme temps de traitement cognitif nécessaire : Fisher & Geiselman, *Memory-Enhancing Techniques for Investigative Interviewing: The Cognitive Interview*, Charles C Thomas, 1992. https://books.google.com/books/about/MEMORY_ENHANCING_TECHNIQUES_FOR_INVESTIG.html?id=W0_YCQAAQBAJ (vérification du 8 août 2026).
 
 Les sources scientifiques citées dans ce guide sont regroupées dans [4 - Sources — Questions et communication](<../../4 - Sources/Questions et communication.md>).

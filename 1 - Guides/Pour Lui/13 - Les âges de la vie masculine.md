@@ -46,8 +46,7 @@ Le bilan décrit plus haut, aussi réel soit-il, n'est pas la fin de l'histoire 
 Un résultat spécifique aux hommes mérite d'être connu, parce qu'il confirme précisément le creux décrit dans ce chapitre tout en promettant sa sortie : [les hommes suivent une courbe en U dont le point le plus bas se situe entre 30 et 49 ans, tandis que la satisfaction de vie des femmes augmente de façon plus continue avec l'âge](https://link.springer.com/article/10.1007/s10902-022-00569-4). Autrement dit, le creux du milieu de la vie masculine n'est ni permanent ni le signe d'un déclin définitif — c'est, statistiquement, la partie la plus basse d'une trajectoire qui remonte ensuite, souvent bien au-delà du niveau ressenti à vingt ans.
 
 **Bons réflexes.**
-- Se rappeler, en plein creux de la quarantaine, que cette période est statistiquement la plus basse de toute la trajectoire de vie — pas une pente descendante sans fin.
-- Ne pas prendre de décision radicale et irréversible en pleine traversée de ce creux, en misant plutôt sur le fait que la remontée, documentée statistiquement, arrive avec le temps.
+- Face à un projet radical et irréversible surgi en pleine quarantaine, le mettre en pause plutôt que l'exécuter : la statistique dit que le creux remonte avec le temps, donc laisser passer la période la plus basse avant de trancher.
 
 ### 13.4 Après 50 ans : le corps, le statut, et le vrai risque
 
@@ -81,6 +80,12 @@ La retraite retire d'un coup ce qui, dans le système décrit au 4.5, tenait lie
 Pris un par un, chacun de ces âges peut sembler porter, à lui seul, sa propre difficulté isolée : la comparaison à vingt ans, la charge à trente, le bilan à quarante, la retraite à soixante. Pris ensemble, sur toute une vie, ils dessinent une trajectoire beaucoup plus lisible et, au fond, plus rassurante que la simple somme de ses parties prises isolément : chaque étape a ses fragilités propres, mais aussi ses ressources propres, et aucune n'est écrite comme définitive avant même d'avoir été traversée.
 
 Le fil qui relie ces âges entre eux n'est donc pas tant la difficulté elle-même que la même absence récurrente de vocabulaire et de cadre pour nommer ce qui se joue, précisément au moment où ça se joue — la comparaison sociale à vingt ans, le deuil silencieux du bilan à quarante, le vide identitaire de la retraite. Ce chapitre n'a pas cherché à résoudre ces moments à la place de qui les traverse, mais à leur donner un nom et un contexte, ce qui, à chaque étape décrite ici, s'est révélé être la première chose qui manquait — bien avant n'importe quel conseil pratique.
+
+⚖️ **Nuance.** Une confusion domine la lecture du bilan de la quarantaine.
+
+- Le bilan de la quarantaine n'est pas une crise ponctuelle qui se résout ou s'aggrave : c'est le point le plus bas d'une courbe en U qui remonte ensuite statistiquement, et le prendre pour une pente descendante sans fin pousse à des décisions radicales que le temps seul aurait suffi à désamorcer.
+
+Ce que recouvre cette confusion : lire un creux passager comme un verdict définitif sur la suite d'une vie.
 
 ## Sources vérifiables
 

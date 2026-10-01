@@ -38,7 +38,7 @@ Chaque `README.md` de guide porte, juste après le titre `# Nom du guide` et ava
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 ```
 
-La liste des professionnels cités peut s'adapter au sujet du guide (médecin, sage-femme, kinésithérapeute, médiateur, selon le cas). Une phrase de sécurité additionnelle (numéro d'urgence) peut être ajoutée à la fin du bandeau si le sujet le justifie (ex : le 3114 dans le guide Les émotions). Dans le source il reste en tête du `README.md` ; c'est `build.py` qui l'affiche en bas de la page du guide, en note discrète (`.guide-notice`). Ce bandeau ne se répète nulle part ailleurs dans le guide : il est dit une fois, au bon endroit, pas martelé à chaque chapitre.
+La liste des professionnels cités peut s'adapter au sujet du guide (médecin, sage-femme, kinésithérapeute, médiateur, selon le cas). Une phrase de sécurité additionnelle (numéro d'urgence) peut être ajoutée à la fin du bandeau si le sujet le justifie (ex : le 3114 dans le guide Les émotions). Dans le source il reste en tête du `README.md` ; c'est `build.py` qui l'affiche plus bas sur la page du guide, après la liste des chapitres (`.guide-warning`). Ce bandeau ne se répète nulle part ailleurs dans le guide : il est dit une fois, au bon endroit, pas martelé à chaque chapitre.
 
 ## Pieds de page : ne garder que l'essentiel
 
@@ -54,7 +54,7 @@ Retour à [l'accueil de Comprendre pour tous](<../../README.md>).
 - `## Le guide jumeau` (le lien vers le guide miroir peut tenir en une ligne simple si vraiment utile, jamais une section entière)
 - `## Sources et mise à jour` (la date de vérification est déjà dans le frontmatter et dans le chapitre Sources vérifiables ; ne pas la répéter ici)
 
-`## Par où commencer` reste autorisée et encouragée : c'est une aide à la navigation réelle, pas une répétition.
+La section `## Par où commencer` n'est plus utilisée : une introduction percutante suffit, et la page du guide enchaîne directement sur la liste des chapitres (v. 1er octobre 2026).
 
 ## Frontmatter
 

@@ -47,14 +47,4 @@ Le guide suit l'ordre dans lequel les choses arrivent : comment une émotion se 
 
 Total : 47 470 mots, 20 chapitres.
 
-## Par où commencer
-
-- **Vous ne savez pas nommer ce que vous ressentez** : chapitre 3.
-- **Vous réagissez trop fort et vous ne comprenez pas pourquoi** : chapitres 1 et 4.
-- **Vous voulez savoir ce qui marche vraiment pour se calmer** : chapitre 5.
-- **Ça dure et vous ne savez pas si c'est physique** : chapitre 7, à lire avant le 8.
-- **Vous vous demandez si ça relève d'un soin** : chapitres 8 et 9.
-- **Vous butez sur ce qui « ne se dit pas »** : chapitre 10.
-- **Vous voulez cultiver la joie, pas seulement gérer les difficultés** : chapitres 19 et 20.
-
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

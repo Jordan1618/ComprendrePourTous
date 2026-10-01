@@ -4,7 +4,7 @@ chapitre: "4"
 titre: "En parler à son partenaire : les formulations qui passent"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -17,6 +17,8 @@ Un appareil livré sans notice force son utilisateur à deviner, bouton par bout
 C'est le conseil le plus répandu et le moins utile, parce qu'il ne décrit aucun geste. Sur un sujet aussi coûteux qu'un trauma ou une appréhension profonde, la difficulté n'est pas de savoir qu'il faut en parler. C'est de savoir **quoi dire exactement**, à quel moment, et sous quelle forme pour que ce soit recevable.
 
 Ce chapitre donne des formulations précises. Elles reposent toutes sur la même mécanique, développée dans le guide [Questions et communication](<../Questions et communication/README.md>) : transformer une demande abstraite et émotionnelle en quelque chose de concret et de répondable. [John Gottman a montré, en observant des milliers d'échanges de couples, que la manière dont un sujet difficile est amené prédit davantage l'issue de la conversation que le sujet lui-même](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
+
+Concrètement, ce que Gottman a observé en laboratoire, caméras filmant des couples en train de discuter d'un désaccord réel de leur vie, c'est que les trois premières minutes d'une conversation difficile suffisent à prédire, avec une fiabilité étonnamment élevée, si elle va bien ou mal se terminer. Ce n'est donc pas seulement le sujet abordé, ni même l'intention derrière, qui joue : c'est la façon exacte dont la première phrase est posée. Une notice sur les formulations n'est donc pas un gadget de politesse, c'est ce qui décide, en amont du contenu, si la conversation a une chance d'aboutir.
 
 ### 4.2 Ce qu'il faut décider avant de parler
 
@@ -58,15 +60,21 @@ Une phrase courte, décidée à froid : « J'ai besoin de vingt minutes. Je revi
 
 Reprendre le mot exact de l'autre plutôt que le reformuler. Décrire ce qu'on observe sans l'interpréter : « je te sens loin depuis hier soir ». Proposer un menu fermé plutôt qu'une question ouverte : **« tu préfères qu'on en parle, qu'on fasse autre chose, ou que je te laisse un peu ? »** — trois options courtes, toutes acceptables, aucune ne demande de formuler un état intérieur. [Le mépris est le comportement dont l'effet destructeur sur la relation est le plus constamment retrouvé dans les observations de couples](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf) (Gottman & Levenson, « Marital processes predictive of later dissolution », *Journal of Personality and Social Psychology*, 1992 ; vérification du 7 août 2026).
 
+Un exemple, pour rendre la différence tangible. Face à un partenaire fermé après une remarque anodine, « qu'est-ce qui t'arrive encore » porte une pointe d'exaspération, même dite calmement, et déclenche presque toujours une défense. « Je te sens loin depuis hier soir, tu veux qu'on en parle, qu'on fasse autre chose, ou que je te laisse un peu ? » décrit un fait, ne suppose rien sur la cause, et offre une sortie dans les trois cas. La première phrase ferme la conversation avant qu'elle commence ; la seconde ouvre trois portes, dont deux ne demandent même pas de parler du sujet qui fâche.
+
 ### 4.5 La ligne entre expliquer et excuser
 
 C'est le point le plus délicat de ce guide, et il doit être dit clairement.
 
-Un trauma explique une réaction. Il n'autorise pas un comportement. Crier, surveiller le téléphone, briser des objets, humilier : ce sont des comportements qui blessent, quelle qu'en soit l'origine. La personne en face les subit dans le présent.
+Un trauma explique une réaction. Il n'autorise pas un comportement. Crier, surveiller le téléphone, briser des objets, humilier : ce sont des comportements qui blessent, quelle qu'en soit l'origine. La personne en face les subit dans le présent. [La distinction entre expliquer un comportement par son histoire et l'excuser est centrale dans les protocoles de psychoéducation sur le trauma en contexte de couple](https://archive.org/details/practiceofemotio0000john) (Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
 
-La différence entre une explication et une excuse tient à ce qui suit. Une explication est suivie d'une **réparation** et d'un **travail** : reconnaître les faits, dire ce qui va être mis en place. Une excuse demande à l'autre de s'adapter indéfiniment.
+⚖️ **Nuance**
 
-Et une phrase doit être écrite noir sur blanc : **si le comportement relève du contrôle coercitif ou de la violence, l'origine traumatique n'y change rien, et la priorité devient la sécurité.** Voir le chapitre 7 du guide [La rencontre](<../La rencontre/README.md>) et la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>). Le **3919** et, en danger immédiat, le **17** ou le **114 par SMS**. [La distinction entre expliquer un comportement par son histoire et l'excuser est centrale dans les protocoles de psychoéducation sur le trauma en contexte de couple](https://archive.org/details/practiceofemotio0000john) (Johnson, *The Practice of Emotionally Focused Couple Therapy*, Routledge, 2004 ; vérification du 7 août 2026).
+**Expliquer n'est pas excuser.** Une explication est suivie d'une **réparation** et d'un **travail** : reconnaître les faits, dire ce qui va être mis en place pour que ça ne se reproduise pas. Une excuse demande à l'autre de s'adapter indéfiniment, sans qu'aucun changement ne soit engagé du côté de celui qui blesse.
+
+**Comprendre l'origine d'un comportement n'est pas suspendre son jugement sur ses conséquences.** La personne en face subit le cri, la surveillance ou l'humiliation dans le présent, quelle que soit la légitimité de l'histoire qui les a produits. Les deux vérités coexistent sans s'annuler.
+
+**Un trauma n'est jamais une justification pour du contrôle coercitif ou de la violence.** Cette phrase doit être écrite noir sur blanc, sans nuance possible cette fois : si le comportement relève de ce registre, l'origine traumatique n'y change rien, et la priorité devient la sécurité. Voir le chapitre 7 du guide [La rencontre](<../La rencontre/README.md>) et la page [Signaux d'alerte](<../../3 - Transversal/Signaux d'alerte.md>). Le **3919** et, en danger immédiat, le **17** ou le **114 par SMS**.
 
 La notice de ce chapitre a une limite qu'il faut nommer : contrairement à un appareil, un trauma évolue, et une notice écrite une fois ne reste pas valable indéfiniment. Un déclencheur nommé aujourd'hui peut s'atténuer avec le temps ou un accompagnement, ou au contraire un nouveau peut apparaître ; la notice se met à jour, elle ne se rédige jamais une seule fois pour toutes.
 

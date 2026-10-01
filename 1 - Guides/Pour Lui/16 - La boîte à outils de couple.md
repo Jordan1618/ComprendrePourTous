@@ -110,6 +110,13 @@ Ce que ça donne, concrètement, à la place d'un « désolé » vague qui refer
 
 Aucun de ces outils ne demande un talent particulier ni une transformation de personnalité. Ce sont des structures simples, répétables, qui produisent un effet mesurable dès la première utilisation sincère — c'est précisément ce qui en fait une boîte à outils, et pas une liste de qualités à espérer développer un jour. Ce qui les distingue vraiment, c'est qu'ils fonctionnent même mal exécutés au début : une excuse maladroite qui reconnaît la responsabilité vaut mieux qu'une excuse parfaite jamais formulée, et un démarrage en douceur un peu raide reste préférable à une critique bien tournée.
 
+⚖️ **Nuance.** Deux confusions rendent ces outils inefficaces si on les manie mal.
+
+- Le silence en plein conflit n'est pas du mépris : c'est, dans une majorité de cas, un disjoncteur physiologique qui coupe l'accès au langage au-delà d'un certain seuil d'activation, et le lire comme une punition pousse à poursuivre quelqu'un qui a, au contraire, besoin d'une pause.
+- Un reproche n'est pas une demande : le premier porte sur le passé et sur la personne, la seconde sur le futur et sur un comportement précis, et transformer systématiquement l'un en l'autre change radicalement ce que l'autre peut réellement entendre.
+
+Ce que recouvrent ces deux confusions : prendre un mécanisme de protection ou une formulation maladroite pour une intention hostile qu'elle ne contient pas.
+
 ## Sources vérifiables
 
 - Christensen, A. & Heavey, C. (1990), [Gender and social structure in the demand/withdraw pattern of marital conflict](https://www.researchgate.net/publication/20941551_Gender_and_Social_Structure_in_the_DemandWithdraw_Pattern_of_Marital_Conflict), *Journal of Personality and Social Psychology* ; vérification du 7 août 2026.

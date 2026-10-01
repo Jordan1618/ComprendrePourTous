@@ -58,7 +58,7 @@ Sur les accidents du travail, une amélioration progressive et réelle est égal
 
 **Bons réflexes.**
 - Encourager activement un homme de l'entourage à essayer une ressource de santé mentale accessible — application, groupe, ligne d'écoute — en s'appuyant sur ce changement culturel réel plutôt que sur l'ancienne image d'un recours aux soins réservé aux femmes.
-- Se rappeler que ces progrès, même partiels, montrent que les écarts documentés dans ce chapitre ne sont pas des fatalités biologiques immuables, mais des phénomènes sociaux qui peuvent, concrètement, évoluer avec le temps et les bonnes initiatives.
+- Face à un écart chiffré dans ce chapitre, poser la question « qu'est-ce qui, dans ce chiffre, a déjà bougé en dix ans » avant d'en tirer une conclusion figée : la baisse des accidents du travail et la hausse du recours aux soins psychiques montrent que ces écarts se déplacent avec les initiatives, pas qu'ils sont écrits d'avance.
 
 ### 1.6 Ce que ces chiffres ne disent pas
 
@@ -70,7 +70,14 @@ Ils ne disent pas, à eux seuls et pris isolément, qu'un homme de l'entourage e
 
 C'est pour cette raison que ce guide existe, et c'est aussi pour cette raison que le chapitre 19 sur les limites est aussi important que les autres.
 
-Un dernier point de méthode, utile pour lire tout le reste de ce guide sans en tirer de fausses conclusions : les chiffres de ce chapitre décrivent des tendances de population, jamais un pronostic individuel. Un homme peut cocher plusieurs facteurs de risque décrits ici et aller très bien ; un autre peut n'en cocher aucun et traverser une période difficile. Ces statistiques servent à comprendre pourquoi certains signaux méritent d'être pris au sérieux quand ils apparaissent, pas à établir un profil de risque figé sur une personne précise. C'est cette nuance, plus que n'importe quel chiffre pris isolément, qui devrait guider la lecture de tout ce qui suit dans ce guide — les mécanismes décrits ensuite expliquent des tendances observées à grande échelle, jamais le destin d'un homme en particulier, et c'est précisément cette prudence qui rend ces chiffres utiles pour comprendre et pour agir, plutôt qu'anxiogènes ou fatalistes.
+Un dernier point de méthode, utile pour lire tout le reste de ce guide sans en tirer de fausses conclusions : les chiffres de ce chapitre décrivent des tendances de population, jamais un pronostic individuel. Un homme peut cocher plusieurs facteurs de risque décrits ici et aller très bien ; un autre peut n'en cocher aucun et traverser une période difficile. Ces statistiques servent à comprendre pourquoi certains signaux méritent d'être pris au sérieux quand ils apparaissent, pas à établir un profil de risque figé sur une personne précise.
+
+⚖️ **Nuance.** Deux confusions reviennent souvent en lisant des statistiques comme celles de ce chapitre.
+
+- Une tendance de population n'est pas un pronostic individuel : dire que les hommes se suicident trois fois plus ne dit rien du risque d'un homme précis, et transformer ce chiffre en verdict sur quelqu'un revient à lui prêter un destin qu'aucune statistique ne peut établir.
+- Un écart qui recule n'est pas un problème réglé : la baisse de l'écart d'espérance de vie ou la hausse du recours aux soins psychiques sont des mouvements réels, pas des lignes d'arrivée déjà franchies, et les traiter comme acquis reviendrait à relâcher l'attention justement là où elle a fait la différence.
+
+Ce que recouvrent ces deux confusions : ces chiffres servent à repérer quels signaux mériteraient d'être pris au sérieux, jamais à écrire d'avance l'histoire d'un homme en particulier.
 
 ## Sources vérifiables
 

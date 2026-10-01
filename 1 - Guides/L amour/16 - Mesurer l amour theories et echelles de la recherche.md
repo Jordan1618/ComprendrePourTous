@@ -22,6 +22,14 @@ Mesurer l'amour ressemble à mesurer la température avec un thermomètre imparf
 
 Un autre point faible identifié : l'échelle originale à 36 items de Sternberg présente des problèmes psychométriques documentés, et l'analyse factorielle ne parvient pas toujours à distinguer clairement intimité et engagement, deux dimensions censées être théoriquement séparées. Une étude a par ailleurs montré que [l'échelle triangulaire de Sternberg peine à s'appliquer aux relations non monogames consenties, remettant en question sa validité universelle pour décrire toutes les formes d'amour contemporaines](https://link.springer.com/article/10.1007/s12119-023-10092-0) (étude sur l'amour dans les non-monogamies consensuelles, *Sexuality & Culture*, 2023 ; vérification du 21 septembre 2026).
 
+⚖️ **Nuance.** Trois idées reçues circulent sur ce modèle.
+
+- Croire que les trois composantes se mesurent aussi précisément qu'un poids ou une taille : l'échelle qui les traduit en chiffres a des défauts psychométriques documentés, dont la difficulté à séparer nettement intimité et engagement.
+- Croire que le modèle a été validé sur toutes les formes d'amour : les 27 études qui le testent proviennent d'échantillons très homogènes, et il peine spécifiquement à décrire les relations non monogames consenties.
+- Croire qu'un triangle « complet » (intimité, passion, engagement au maximum) définit le bon amour : Sternberg lui-même ne présente pas cette combinaison comme une norme à atteindre, seulement comme une des configurations possibles parmi d'autres.
+
+Ce qui recouvre les trois : le modèle décrit des tendances statistiques utiles pour comparer des groupes, pas un instrument de mesure fiable sur une relation individuelle.
+
 ### 16.3 L'échelle de l'amour-passion, une mesure plus directe
 
 Une autre approche mesure directement l'intensité de l'amour passionnel plutôt que ses composantes théoriques. [L'échelle de l'amour-passion, développée par Elaine Hatfield et Susan Sprecher en 1986, évalue les indicateurs cognitifs, physiologiques et comportementaux de l'amour passionnel, notamment la pensée intrusive envers le partenaire, l'idéalisation de la relation et le désir de connaître l'autre en profondeur](http://www.elainehatfield.com/122.pdf) (Hatfield & Sprecher, description de la Passionate Love Scale ; vérification du 21 septembre 2026). Contrairement au modèle de Sternberg, cette échelle mesure une intensité plutôt qu'une structure, et ses propriétés psychométriques sont jugées solides, avec une corrélation robuste avec d'autres mesures d'attachement romantique et de satisfaction relationnelle.
@@ -33,6 +41,10 @@ La comparaison entre amour passionnel et addiction, déjà évoquée au [chapitr
 ### 16.5 Le sociomètre : l'amour comme jauge d'estime de soi
 
 Une théorie plus indirecte éclaire pourquoi l'amour affecte si fortement l'estime de soi. [La théorie du sociomètre, proposée par Mark Leary, avance que l'estime de soi fonctionne comme une jauge du degré d'acceptation sociale dont bénéficie une personne, alertant le soi de toute menace pesant sur son appartenance à un groupe ou à une relation](https://www.tandfonline.com/doi/abs/10.1080/10463280540000007) (Leary, *European Review of Social Psychology*, 2005 ; vérification du 21 septembre 2026). Sous cet angle, l'estime de soi ne serait pas une fin en soi à cultiver isolément, mais un indicateur qui reflète la qualité perçue de nos liens, dont la relation amoureuse. Une chute d'estime de soi après une rupture ne signale donc pas nécessairement une fragilité personnelle préexistante : c'est le sociomètre qui fait exactement son travail, signaler une perte de valeur relationnelle perçue.
+
+👁️ **Vu de l'autre côté**
+
+Le partenaire qui voit l'autre s'effondrer d'estime de soi après un conflit, une rupture d'un proche ou un rejet social extérieur au couple lit souvent cela comme un excès de besoin de réassurance, presque une faiblesse de caractère. La théorie du sociomètre dit l'inverse : ce n'est pas un trait de personnalité qui s'exprime, c'est un système d'alerte qui signale une menace réelle ou perçue sur l'appartenance sociale. Vécu à la première personne : *elle me demandait sans arrêt si tout allait bien entre nous, et je trouvais ça épuisant, jusqu'à ce que je comprenne qu'elle ne doutait pas de moi, elle venait de se faire snober par ses collègues et cherchait juste un endroit où se sentir encore acceptée.*
 
 💑 **Dans le couple**
 
@@ -60,5 +72,5 @@ Aucune de ces échelles ne doit être utilisée comme un outil de diagnostic sur
 - Ne pas dramatiser une baisse d'estime de soi après une rupture : selon la théorie du sociomètre, c'est un signal cohérent avec ce qui vient d'être perdu, pas la preuve d'une fragilité cachée.
 - Distinguer clairement l'amour non réciproque ordinaire, douloureux mais ancré dans la réalité, de l'érotomanie, qui relève d'un trouble psychiatrique nécessitant une prise en charge spécialisée, en particulier en présence de signes de persécution ressentie ou de comportements de traque.
 - Se méfier de tout test en ligne qui promet de révéler le « vrai type d'amour » d'une relation en quelques questions : les échelles validées ci-dessus ont demandé des décennies de travail psychométrique et restent, malgré cela, des instruments de recherche, pas des outils de diagnostic individuel fiables.
-- Retenir surtout la leçon commune à toutes ces échelles : ce que la recherche mesure le mieux, ce sont des tendances statistiques sur de grands groupes, jamais la vérité d'une relation particulière, qui reste la mieux connue par les deux personnes qui la vivent.
+- Face à un résultat de test ou d'échelle qui semble définir une relation, poser la question inverse : qu'est-ce que ce chiffre ne dit pas, et qu'est-ce que les deux personnes concernées savent d'elles-mêmes que l'instrument ne peut pas capter ?
 - En cas de doute sur un comportement qui ressemble à de l'érotomanie, chez soi ou chez une personne de l'entourage, en parler à un médecin ou un psychiatre plutôt qu'à un test en ligne : la vigilance médicale décrite plus haut n'est pas une exagération.

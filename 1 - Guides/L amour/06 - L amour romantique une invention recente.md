@@ -38,6 +38,10 @@ Une génération plus tôt, on demandait à un conjoint d'être un partenaire de
 
 Ce n'est pas un plaidoyer pour revoir ses attentes à la baisse. C'est une invitation à remarquer que la solitude sociale, décrite dans le guide [Pour Lui](<../Pour Lui/README.md>), fait porter au couple une charge qui n'a jamais été conçue pour une seule relation.
 
+👁️ **Vu de l'autre côté**
+
+Dans un couple, les deux partenaires ne portent pas toujours la même liste d'attentes envers l'autre, et ce déséquilibre reste souvent invisible tant qu'il n'est pas nommé. L'un peut attendre surtout un partenaire de vie fiable, dans la continuité d'un modèle plus ancien, pendant que l'autre attend un moteur de développement personnel et une source d'excitation constante. Vécu à la première personne : *je pensais qu'on allait bien parce qu'on ne se disputait pas, jusqu'à ce qu'il me dise qu'il s'ennuyait, et j'ai compris qu'il attendait de moi quelque chose que je ne savais même pas être censée fournir.*
+
 ### 6.4 Ce que la culture nous a appris de faux
 
 Quatre scripts, tellement répétés qu'ils passent pour des évidences.
@@ -58,6 +62,7 @@ Quatre scripts, tellement répétés qu'ils passent pour des évidences.
 - Vérifiez si votre insatisfaction porte sur la relation ou sur l'écart entre la relation et un script. Ce sont deux problèmes différents et seul le premier se traite à deux.
 - Répartissez les attentes. Un couple ne peut pas remplacer des amitiés, une famille, un thérapeute et un projet personnel. Les couples qui durent ont presque tous des ressources en dehors.
 - Utilisez le levier du menu fermé pour clarifier les attentes réciproques : **« pour toi, sur un an, l'essentiel c'est plutôt qu'on soit tranquilles, ou plutôt qu'on avance sur des projets ? »**
+- Face à une attente précise qui manque, demander explicitement si elle relève d'un besoin du couple ou d'un besoin qui pourrait être partiellement couvert ailleurs, amitié, famille, projet personnel, plutôt que de la faire porter uniquement au partenaire par défaut.
 
 ## Sources vérifiables
 

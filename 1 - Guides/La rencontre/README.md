@@ -55,16 +55,4 @@ Pour tout ce qui touche spécifiquement aux dérives relationnelles nées des ou
 
 Total : 47 762 mots, 28 chapitres.
 
-## Par où commencer
-
-- **Vous vous demandez pourquoi vous tombez toujours sur le même profil** : chapitres 2 et 3.
-- **Vous ne rencontrez personne** : chapitre 4, sur le bassin de rencontre, puis 5 sur les applications.
-- **Vous ne savez pas quoi dire** : chapitre 6.
-- **Quelque chose vous met mal à l'aise dans une relation qui commence** : chapitre 7, et en particulier le test du 7.4.
-- **Vous allez rencontrer quelqu'un vu en ligne** : chapitre 8.
-- **Vous voulez la version courte** : chapitre 9.
-- **Vous rencontrez après une rupture, un deuil, ou après 50 ans** : chapitre 13.
-- **Vous vous méfiez d'une arnaque sentimentale** : chapitre 15.
-- **Vous voulez l'histoire et la sociologie de la rencontre** : chapitres 17 et 18.
-
 Retour à [l'accueil de Comprendre pour tous](<../../README.md>).

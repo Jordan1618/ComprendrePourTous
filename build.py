@@ -39,6 +39,7 @@ def asset_version(name):
 CSS_VERSION = asset_version("style.css")
 JS_VERSION = asset_version("app.js")
 FAVICON_VERSION = asset_version("favicon.svg")
+OG_IMAGE_VERSION = asset_version("og-image.png")
 
 REPO = "https://github.com/Jordan1618/ComprendrePourTous"
 BLOB = REPO + "/blob/main"
@@ -46,8 +47,9 @@ TREE = REPO + "/tree/main"
 
 DOMAIN = "www.comprendrepourtous.fr"
 SITE_TITLE = "Comprendre Pour Tous"
-TAGLINE = ("Des guides gratuits et sourcés sur le corps, les émotions et les "
-           "relations, pour mieux se comprendre soi-même et comprendre l'autre.")
+TAGLINE = ("Comprendre pour tous explique le corps, la sexualité, le couple et "
+           "les émotions avec de vraies sources, sans jargon. Pour ne plus "
+           "deviner seul des sujets qu'on nous explique rarement bien.")
 
 MOIS = ["janvier", "février", "mars", "avril", "mai", "juin", "juillet",
         "août", "septembre", "octobre", "novembre", "décembre"]
@@ -84,6 +86,10 @@ GUIDE_ORDER = [
     "Pour Nous",
     "Les nouvelles compositions familiales",
     "Reseaux sociaux",
+    "Alimentation",
+    "Le sommeil",
+    "Maladie grave et handicap",
+    "Psychologie de la personnalite",
 ]
 
 # Ordre d'affichage des fichiers de "0 - Guides complets".
@@ -100,6 +106,10 @@ FULL_GUIDE_ORDER = [
     "Pour Nous",
     "Les nouvelles compositions familiales",
     "Réseaux sociaux",
+    "Alimentation",
+    "Le sommeil",
+    "Maladie grave et handicap",
+    "Psychologie de la personnalité",
 ]
 
 # Fichiers de la racine qui ne sont pas publies comme pages.
@@ -128,20 +138,28 @@ SECTION_HUE = {
     "sources": 96,
 }
 GUIDE_HUE = {
-    # Palette sans violet ni rose (retires : jugés trop flashy sur l'accueil) :
-    # vin/brique -> terracotta -> ambre -> olive -> mousse -> sauge ->
-    # vert sarcelle -> sarcelle -> bleu ardoise -> bleu -> indigo.
-    "pour-elle": 350,
-    "la-rencontre": 18,
-    "les-emotions": 45,
-    "massage-professionnel": 70,
-    "les-nouvelles-compositions-familiales": 95,
-    "questions-et-communication": 130,
+    # 15 teintes sans violet ni rose vif, reparties en 3 familles de 5 sur la
+    # roue chromatique (rouges/ambres, verts/sarcelle, bleus/indigo). La
+    # mosaïque de l'accueil affiche les guides par rangees de 3 (GUIDE_ORDER,
+    # dans l'ordre) : chaque rangee prend une teinte de chaque famille, et
+    # les familles tournent d'une rangee a l'autre, pour qu'aucune carte
+    # voisine (a cote ou au-dessus/en dessous) ne partage une famille de
+    # couleur proche.
+    "pour-elle": 8,
+    "pour-lui": 112,
+    "ist-depistage-et-prevention": 220,
+    "massage-professionnel": 130,
+    "questions-et-communication": 245,
+    "les-emotions": 18,
+    "la-rencontre": 262,
+    "l-amour": 45,
     "pour-nous": 155,
+    "les-nouvelles-compositions-familiales": 70,
     "reseaux-sociaux": 178,
-    "l-amour": 200,
-    "pour-lui": 220,
-    "ist-depistage-et-prevention": 245,
+    "alimentation": 300,
+    "le-sommeil": 200,
+    "maladie-grave-et-handicap": 350,
+    "psychologie-de-la-personnalite": 95,
 }
 
 # Illustrations : SVG en ligne, decoratifs, qui prennent la teinte de la
@@ -734,6 +752,16 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
 <meta property="og:description" content="%(desc)s">
 <meta property="og:type" content="website">
 <meta property="og:url" content="%(canonical)s">
+<meta property="og:image" content="%(ogimage)s">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="%(site)s">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:site_name" content="%(site)s">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="%(title)s">
+<meta name="twitter:description" content="%(desc)s">
+<meta name="twitter:image" content="%(ogimage)s">
 <link rel="stylesheet" href="/assets/style.css?v=%(cssv)s">
 <link rel="icon" type="image/svg+xml" href="/assets/favicon.svg?v=%(faviconv)s">
 <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t;}catch(e){}</script>
@@ -788,6 +816,7 @@ def layout(title, description, body, nav, current_url, extra_head="", hue=DEFAUL
         "cssv": CSS_VERSION,
         "jsv": JS_VERSION,
         "faviconv": FAVICON_VERSION,
+        "ogimage": esc("https://%s/assets/og-image.png?v=%s" % (DOMAIN, OG_IMAGE_VERSION)),
         "nav": nav,
         "body": body,
         "extra_head": extra_head,
@@ -1161,23 +1190,9 @@ def render_guide(guide, by_url, nav):
     banner = re.search(r"<blockquote>.*?Un rep.re, pas une v.rit.*?</blockquote>",
                        guide.html or "", flags=re.S)
     intro = guide.html.replace(banner.group(0), "", 1) if banner else (guide.html or "")
-    # « Par ou commencer » : devient des cartes cliquables avant les chapitres
-    entries = ""
-    m = re.search(r"<h2[^>]*>\s*Par o. commencer.*?</h2>\s*<ul>(.*?)</ul>", intro, flags=re.S)
+    # « Par ou commencer » n'est plus affiche : l'intro suffit
+    m = re.search(r"<h2[^>]*>\s*Par o. commencer", intro)
     if m:
-        cards = []
-        for li in re.findall(r"<li>(.*?)</li>", m.group(1), flags=re.S):
-            q = re.search(r"<strong>(.*?)</strong>", li, flags=re.S)
-            nums = [int(x) for x in re.findall(r"\d+", re.sub(r"<strong>.*?</strong>", "", li, flags=re.S))]
-            links = "".join('<a href="%s">Chapitre %d</a>' % (guide.children[n - 1].url, n)
-                            for n in nums if 0 < n <= len(guide.children))
-            if q and links:
-                cards.append('<li><span class="entry-q">%s</span><span class="entry-links">%s</span></li>'
-                             % (q.group(1), links))
-        if cards:
-            entries = ('<h2 class="guide-h">Par où commencer&nbsp;?</h2>'
-                       '<p class="guide-h-sub">Choisissez la phrase qui vous ressemble.</p>'
-                       '<ul class="entries">%s</ul>' % "".join(cards))
         intro = intro[:m.start()]
     paras = re.findall(r"<p>.*?</p>", intro, flags=re.S)
     see_also = [p for p in paras if re.match(
@@ -1194,7 +1209,9 @@ def render_guide(guide, by_url, nav):
         body.append('<div class="guide-hero">%s</div>' % hero)
     if paras:
         body.append('<div class="guide-intro">%s</div>' % "".join(paras))
-    body.append(entries)
+    if guide.children:
+        body.append('<p class="start-guide"><a class="btn" href="%s">'
+                    'Commencer ce guide</a></p>' % guide.children[0].url)
     body.append('<h2 class="guide-h">Les chapitres</h2>')
     rows = []
     for n, p in enumerate(guide.children, 1):
@@ -1205,9 +1222,6 @@ def render_guide(guide, by_url, nav):
                     '<strong>%s</strong>%s</a></li>'
                     % (p.url, n, esc(p.title), chips))
     body.append('<ol class="chapters">%s</ol>' % "".join(rows))
-    if guide.children:
-        body.append('<p class="start-guide"><a class="btn" href="%s">'
-                    'Commencer au premier chapitre</a></p>' % guide.children[0].url)
     sources_url = "/sources/%s/" % slugify(Path(guide.folder).name)
     if sources_url in by_url:
         body.append('<p class="source"><a href="%s">Toutes les sources sont ici</a> '

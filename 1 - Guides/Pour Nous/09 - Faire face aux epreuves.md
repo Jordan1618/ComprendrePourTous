@@ -4,7 +4,7 @@ chapitre: "9"
 titre: "Faire face aux épreuves qui viennent de l'extérieur"
 sujet: "commun"
 angle: "relation"
-verifie_le: 2026-09-25
+verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 ---
 
@@ -31,6 +31,14 @@ Source de conflit la plus fréquente après l'argent, et celle où les erreurs s
 **Le partenaire n'est pas un arbitre.** Demander de choisir entre sa mère et son conjoint est une impasse. La question utile n'est pas « qui a raison » mais « qu'est-ce qu'on décide, nous, sur ce point précis ».
 
 **Les limites se posent sur des faits, pas sur des personnes.** « On ne parlera pas de nos projets d'enfant à table » est tenable. « Ma mère est insupportable » ne l'est pas. [Les conflits liés à la belle-famille comptent parmi les sources de tension conjugale les plus citées dans les études sur les débuts du mariage](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1084&context=commstudiespapers) (Rittenour & Soliz, « Communicative and relational dimensions of shared family identity and relational intentions in mother-in-law/daughter-in-law relationships », *Western Journal of Communication*, 2009 ; vérification du 7 août 2026).
+
+⚖️ **Nuance**
+
+**« Chacun parle à sa famille » est un repère utile dans la plupart des configurations, pas une règle universelle.** Certaines familles ont un espace d'expression assez ouvert pour que le conjoint puisse parler directement sans rien abîmer ; dans ce cas, appliquer le repère par défaut ajoute une étape inutile plutôt que de protéger quelqu'un.
+
+**Une dispute déclenchée par une pression extérieure n'est pas la preuve d'un couple fragile.** C'est un mécanisme quasiment mécanique, décrit en 9.2 : la tension doit aller quelque part, et le partenaire est la cible la plus disponible. La confondre avec un problème de fond pousse à chercher une explication relationnelle là où il n'y en a pas.
+
+**Se protéger un moment sans parler de l'épreuve n'est pas fuir l'épreuve.** C'est le maintien d'un espace où la relation existe autrement qu'en cellule de crise, ce qui est justement ce qui permet de tenir sur la durée, comme le détaille la fin de ce chapitre.
 
 ### 9.4 Le travail et l'argent
 
@@ -73,3 +81,5 @@ Ce n'est pas de l'évitement. C'est le maintien d'un espace où la relation exis
 - Face à un partenaire en difficulté, demandez ce dont il a besoin plutôt que de proposer des solutions : **« tu veux qu'on cherche des solutions, ou tu veux juste que je t'écoute ? »**
 - Regardez le sommeil avant les explications relationnelles, surtout avec de jeunes enfants.
 - Protégez un temps sans le sujet. Une crise qui occupe cent pour cent de la relation la remplace.
+
+Le bateau de ce chapitre a une limite à voir pour finir : un vrai équipage peut se répartir des rôles fixes une fois pour toutes, barreur, veilleur, manœuvre, et s'y tenir vague après vague. Un couple, lui, change de rôle selon l'épreuve : celui qui tenait la barre pendant le licenciement de l'autre peut être celui qui a besoin d'être porté pendant la maladie suivante. La vraie compétence n'est donc pas de savoir tenir un rôle en particulier, c'est de savoir permuter, ce que les chapitres suivants sur le deuil et l'âge du couple continuent d'explorer.

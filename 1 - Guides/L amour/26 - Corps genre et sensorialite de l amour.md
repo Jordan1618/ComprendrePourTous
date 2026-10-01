@@ -28,6 +28,14 @@ Les études de genre sur l'amour donnent des résultats plus modestes et plus d�
 
 Dans la plupart des cas, ce que la recherche retrouve n'est donc pas une différence de **profondeur** de l'amour entre les genres, mais une différence de **contexte d'expression** : le rythme de la déclaration, la manière de le formuler, l'occasion d'en vivre certaines formes. Présenter les hommes comme aimant « moins » ou les femmes comme aimant « plus intensément » serait une généralisation que les données ne soutiennent pas clairement une fois les biais de méthode et de contexte pris en compte.
 
+⚖️ **Nuance.** Trois lectures rapides de ces résultats déforment ce qu'ils disent réellement.
+
+- « Les hommes tombent amoureux plus vite » ne veut pas dire qu'ils aiment plus superficiellement : la vitesse de la chute amoureuse et sa profondeur sont deux mesures différentes, non corrélées dans ces données.
+- « Les femmes aiment plus intensément » ne veut pas dire que les hommes aiment moins : l'écart mesuré perd sa significativité une fois plusieurs variables de contexte prises en compte.
+- « Il existe un écart de 33 % dans la fréquence d'amour ressenti » ne veut pas dire un écart dans l'amour porté au partenaire : la quasi-totalité de cet écart s'explique par le temps passé avec de jeunes enfants, pas par l'amour de couple lui-même.
+
+Ce qui recouvre les trois : ce que ces études mesurent, c'est un contexte d'expression différent, jamais une différence de nature entre les genres.
+
 ### 26.4 Le toucher, un canal biologique à part entière
 
 Le toucher affectueux n'est pas un supplément agréable à la relation, c'est un canal de régulation physiologique mesurable.

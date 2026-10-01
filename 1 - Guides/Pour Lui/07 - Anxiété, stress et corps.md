@@ -69,6 +69,13 @@ Plusieurs sujets ont été traités dans ce chapitre — la somatisation, le cœ
 
 C'est aussi ce qui rend ce chapitre porteur d'un vrai motif d'espoir, une fois le mécanisme compris : contrairement à une émotion qu'on ne sait pas nommer, un corps se mesure, se traite et se soigne avec des outils concrets, largement documentés et directement actionnables — la respiration, l'exercice, le sommeil, le traitement d'une apnée, un bilan cardiovasculaire régulier. Un homme qui n'a pas encore le vocabulaire pour dire ce qu'il ressent peut malgré tout, dès aujourd'hui, agir sur son corps, et cette action corporelle finit très souvent, avec le temps, par ouvrir la porte à l'expression verbale elle-même plutôt que de s'y substituer indéfiniment. C'est précisément la logique qui traverse tout ce guide, du premier chapitre au dernier : commencer par ce qui est concrètement accessible tout de suite, sans attendre un déclic ou un vocabulaire qui manque encore, pour que le reste — la parole, la relation, la demande d'aide — devienne progressivement possible à son tour, une fois le corps déjà un peu apaisé.
 
+⚖️ **Nuance.** Deux confusions empêchent de prendre ces symptômes au sérieux.
+
+- Un symptôme somatique n'est pas une douleur imaginaire : le mécanisme physiologique qui le produit est parfaitement documenté, et dire « c'est dans la tête » est à la fois faux et contre-productif face à une douleur bien réelle qui a simplement pris un autre canal que la parole.
+- L'hypervigilance n'est pas un trait de caractère fixe : c'est une posture apprise en réponse à une charge de responsabilité réelle, et elle peut se désapprendre, ce qui change tout pour quelqu'un qui la croit gravée pour de bon.
+
+Ce que recouvrent ces deux confusions : prendre un signal corporel réel pour autre chose que ce qu'il est, soit en le niant, soit en le figeant comme une fatalité.
+
 ## Sources vérifiables
 
 - Levant, R. (1992), [Toward the reconstruction of masculinity](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7), *Journal of Family Psychology* ; vérification du 11 août 2026.

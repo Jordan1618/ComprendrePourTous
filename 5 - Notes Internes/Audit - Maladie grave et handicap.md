@@ -1,82 +1,69 @@
 ---
 type: "note-interne"
 sujet: "chantier"
-mis_a_jour_le: 2026-09-24
+mis_a_jour_le: 2026-09-25
 ---
 
-# Audit — Maladie grave et handicap
+# Audit — Maladie grave et handicap (ré-audit après reprise Redaction2Chapitre)
 
 ## Synthèse
 
-32 chapitres audités, tous en verdict **Chirurgie**. Aucun « Rien à faire », aucune « Réécriture » : le guide a été produit par un même processus, avec un défaut homogène plutôt que quelques chapitres cassés. Le fil tient partout (structure en sous-parties numérotées, phrase de transition entre chaque sous-partie, bullet de synthèse qui referme le chapitre sur lui-même et parfois sur les chapitres voisins), et les objets centraux sont bien nommés, mais leur définition vit presque toujours à l'intérieur d'une citation collée plutôt que dans une phrase de l'auteur : le lecteur reçoit un résumé d'étude traduit, jamais une explication reformulée avec ses propres mots.
+32 chapitres audités en lecture seule. Verdicts : **0 Rien à faire, 32 Chirurgie, 0 Réécriture.**
 
-Trois défauts dominent, présents dans la quasi-totalité des 32 chapitres :
+La reprise a fonctionné sur l'essentiel de la grille Redaction2Chapitre. Sur les 32 chapitres, sans exception : un fil unique tient de bout en bout (une analogie filée en ouverture, reprise dans le corps, retournée en fin de chapitre avec sa propre limite nommée — sauf deux chapitres, voir plus bas) ; les objets centraux sont définis avec les mots de l'auteur avant d'être sourcés, pas seulement cités ; les études mobilisées disent presque toujours ce que les chercheurs ont fait et pourquoi c'est intéressant, pas seulement le résultat brut ; les chiffres sont systématiquement amenés par une question et suivis d'une comparaison qui leur donne une échelle (coureur à la ligne de départ reculée, cigarettes fumées par jour, mois d'attente par département) ; les blocs 👁️ 💑 🗣️ apparaissent précisément là où le sujet appelle un écart de perception, un enjeu de couple ou un témoignage, jamais en décor ; aucune puce « Retenir / Garder à l'esprit / Se rappeler » n'a été trouvée sur l'ensemble du guide (0/32) : les « Bons réflexes » sont bien des actions, pas des résumés déguisés.
 
-1. **Liens collés massifs.** 56,5 % des liens du guide portent un texte de plus de 25 mots ou avec point-virgule : ce sont des paragraphes d'étude traduits et collés derrière un lien, pas des phrases écrites. Le pic est à 24 - Soins palliatifs et fin de vie (73 %), le creux à 16 - Le rôle de l'aidant familial (43 %). Aucun chapitre ne dépasse le seuil de 85 % qui justifierait une réécriture : le problème est réparti, pas concentré.
-2. **Aucune analogie dans le guide entier.** Sur les 5 chapitres lus intégralement (1, 10, 13, 14, 32) et par échantillonnage des autres, aucune analogie filée n'apparaît, y compris dans des chapitres qui en appellent une de façon presque évidente (21 - Fatigue chronique, terrain classique de la « théorie des cuillères », n'en a pas ; 3 - Douleur chronique, terrain classique du signal d'alarme, n'en a pas).
-3. **Blocs ⚖️/👁️/💑 totalement absents.** 0 bloc Nuance, 0 bloc « vu de l'autre côté », 0 bloc couple sur les 32 chapitres, alors que plusieurs chapitres appellent ces blocs de façon frontale : 9 (résilience, terme explicitement cité comme galvaudé dans la grille d'audit) et 27 (intersectionnalité) sans Nuance ; 14 (écart de genre massif dans la rupture après diagnostic) sans 👁️ ni 💑 ; 13 et 16 sans 💑 malgré des titres qui portent directement sur le couple. Seul le bloc 🗣️ Témoignage existe, mais seulement dans 5 chapitres sur 32 (1, 4, 5, 6, 22), alors que des sujets aussi chargés que 24 (fin de vie) ou 7 (incontinence, chapitre qui se présente lui-même comme « tabou ») n'en ont aucun.
+Deux défauts dominent malgré cela, présents sur la quasi-totalité des chapitres, ce qui justifie un verdict Chirurgie généralisé plutôt que « Rien à faire » :
 
-Défaut mineur et localisé : les réflexes passifs (« Retenir que… », « Se méfier de… ») représentent 42 des 300 puces du guide (14 %), concentrés pour l'essentiel dans la dernière puce de synthèse de chaque chapitre (schéma récurrent : la dernière puce referme le chapitre au lieu de donner une action). Les chapitres 11, 23 et 28 en comptent trois chacun, au-dessus de la moyenne.
+1. **Plancher de 1 500 mots non atteint, sur les 32 chapitres sans exception.** La fourchette va de 897 mots (chapitre 32) à 1 394 mots (chapitre 1), pour une moyenne d'environ 1 090 mots, soit environ 27 % sous le plancher en moyenne. Aucun chapitre n'atteint 1 500 mots. C'est un manque, pas une faiblesse structurelle : ajouter un paragraphe d'approfondissement, un second angle chiffré ou un bloc supplémentaire suffit dans chaque cas, sans toucher au fil.
+2. **Bloc ⚖️ Nuance absent sur 28/32 chapitres.** Seuls les chapitres 8 (deuil ≠ deuil d'un décès), 9 (résilience, deux sens du mot), 12 (pas de terme universel) et 27 (intersectionnalité ≠ addition) en ont un. Plusieurs chapitres avancent pourtant des généralisations sur le couple ou le genre qui appelleraient un bloc dédié plutôt qu'une simple clause hédée dans les « Bons réflexes » : le chapitre 14 (écart de genre massif dans les séparations, 20,8 % vs 2,9 %) et le chapitre 26 (taux de retrait d'enfant selon le type de handicap parental) sont les cas les plus nets, directement concernés par la règle CLAUDE.md « aucune affirmation universalisante sur le couple, la famille ou le genre ».
 
-Tous les chapitres sont sous le plancher de 1500 mots (moyenne 823 mots, minimum 685 au chapitre 32, maximum 1092 au chapitre 1) mais le contenu est dense et le fil tient : ce n'est pas un défaut de brièveté qui casse la structure, plutôt un chapitre qui s'arrête tôt parce qu'il n'a pas encore ajouté définition reformulée, analogie, ou bloc contextuel.
+Défaut mineur, localisé : les chapitres 11 et 21 referment leur dernier paragraphe par une phrase de transition vers le chapitre suivant, mais sans retourner explicitement l'image d'ouverture ni nommer sa limite, contrairement aux 30 autres chapitres qui suivent tous la même formule (« [l'image] de ce chapitre a une limite qu'il faut nommer... »). Défaut cosmétique, pas structurel.
 
-## Mesures globales sur le guide entier
+Point de style à surveiller sans qu'il ne déclasse aucun chapitre : une proportion notable des liens (43 % à 69 % selon les chapitres, médiane autour de 56 %) a un texte d'ancre de plus de 25 mots ou contenant un point-virgule — la marque d'un résumé d'étude traduit et collé derrière le lien plutôt que reformulé en phrase courte. Le procédé est cependant utilisé de façon homogène dans tout le guide, toujours suivi d'une phrase de liaison de l'auteur, et le contenu de ces liens répond déjà, la plupart du temps, à l'exigence « étude expliquée » (méthode + résultat + pourquoi c'est intéressant). Ce n'est donc pas un défaut qui casse le fil ; c'est une réserve de style à garder en tête si une passe de réécriture des sources est un jour engagée sur l'ensemble du site, pas seulement ce guide.
 
-| Mesure | Valeur |
-|---|---|
-| Chapitres audités | 32 |
-| Liens totaux | 395 |
-| Liens collés (>25 mots ou point-virgule) | 223 (56,5 %) |
-| Puces « Bons réflexes » totales | 300 |
-| Puces passives (Retenir / Garder à l'esprit / Se méfier) | 42 (14 %) |
-| Blocs ⚖️ Nuance | 0 |
-| Blocs 👁️ Vu de l'autre côté | 0 |
-| Blocs 💑 Dans le couple | 0 |
-| Blocs 🗣️ Témoignage réel | 5 (chapitres 1, 4, 5, 6, 22) |
-| Chapitres sous 1500 mots | 32 / 32 (100 %) |
-| Longueur moyenne | 823 mots |
+## Réciprocité des sources
 
-## Détail par chapitre
+151 citations d'URL relevées dans les 32 chapitres, comparées à `4 - Sources/Maladie grave et handicap.md` (318 lignes). **2,6 % (4/151) apparaissent manquantes en comparaison stricte des chaînes de caractères**, mais 3 de ces 4 sont des faux positifs (même article PMC cité sous ses deux domaines équivalents `ncbi.nlm.nih.gov/pmc/articles/…` et `pmc.ncbi.nlm.nih.gov/articles/…`, chapitres 4, 5 et 24). Le seul écart réel concerne le chapitre 11 : le lien du chapitre pointe vers l'URL complète du PDF (avec nom de fichier encodé et paramètres `?sequence=1&isAllowed=y`), tandis que l'entrée correspondante dans `4 - Sources/` est tronquée à `https://our.oakland.edu/bitstream/handle/10323/11469/`, sans le nom de fichier ni les paramètres. **Taux de réciprocité réel : environ 99,3 % (150/151), un seul lien réellement à corriger.**
 
-| # | Chapitre | Mots | Liens collés | Défauts relevés | Verdict |
-|---|---|---|---|---|---|
-| 01 | Recevoir un diagnostic | 1092 | 10/18 (56 %) | objet défini via citation collée (Kübler-Ross, chagrin chronique), aucune analogie, 2 réflexes en Retenir/Se méfier | Chirurgie |
-| 02 | Le parcours de soin et les démarches en France | 739 | 5/11 (45 %) | aucun bloc contextuel, aucune analogie, sujet administratif sec sans fil narratif porteur | Chirurgie |
-| 03 | La douleur chronique : mécanismes et traitements | 842 | 8/13 (62 %) | objet neuro non vulgarisé par analogie (candidat évident : signal d'alarme), aucun bloc | Chirurgie |
-| 04 | Maladies invisibles | 731 | 6/12 (50 %) | 1 témoignage présent, aucune analogie, candidat 👁️ (doute de l'entourage) absent | Chirurgie |
-| 05 | Paraplégie, tétraplégie et rééducation | 888 | 9/15 (60 %) | 1 témoignage présent, 2 réflexes passifs, aucune analogie | Chirurgie |
-| 06 | Le fauteuil roulant : choix et autonomie | 796 | 8/12 (67 %) | 1 témoignage présent, aucune analogie, chiffres techniques sans échelle de comparaison | Chirurgie |
-| 07 | L'incontinence : gestion et tabou | 821 | 7/13 (54 %) | sujet annoncé « tabou » sans bloc 🗣️ témoignage, aucune analogie | Chirurgie |
-| 08 | Deuil de la vie d'avant | 850 | 5/9 (56 %) | candidat ⚖️ Nuance sur « deuil » (terme courant vs deuil sans mort) absent, aucune analogie | Chirurgie |
-| 09 | L'acceptation et la résilience | 813 | 6/11 (55 %) | candidat ⚖️ Nuance sur « résilience » (terme galvaudé) absent, aucune analogie | Chirurgie |
-| 10 | Validisme et modèle social du handicap | 1047 | 9/15 (60 %) | objet « modèle social » défini via citation collée, validisme intériorisé sans témoignage ni 👁️, aucune analogie | Chirurgie |
-| 11 | Histoire et représentation culturelle du handicap | 867 | 8/13 (62 %) | 3 réflexes passifs (au-dessus de la moyenne), aucune analogie | Chirurgie |
-| 12 | Le langage du handicap | 792 | 6/11 (55 %) | candidat ⚖️ Nuance sur les débats de vocabulaire identitaire absent, 2 réflexes passifs | Chirurgie |
-| 13 | Sexualité, désir et handicap | 797 | 6/9 (67 %) | bloc 💑 absent malgré thème central, aucune analogie | Chirurgie |
-| 14 | Le couple face à la maladie | 995 | 8/13 (62 %) | écart de genre massif documenté sans bloc 👁️ ni 💑, aucune analogie | Chirurgie |
-| 15 | La solitude du malade et l'entourage | 740 | 6/11 (55 %) | candidat 👁️ (vécu de l'entourage) absent, aucune analogie | Chirurgie |
-| 16 | Le rôle de l'aidant familial et du partenaire | 796 | 6/14 (43 %) | blocs 💑 et 👁️ absents malgré thème direct, aucune analogie | Chirurgie |
-| 17 | Les professionnels du parcours de soin | 784 | 6/10 (60 %) | aucune analogie, définitions de rôles via citations collées | Chirurgie |
-| 18 | Santé mentale du malade chronique | 758 | 7/11 (64 %) | seul chapitre à 0 réflexe passif, mais aucune analogie et aucun bloc | Chirurgie |
-| 19 | Logement, accessibilité, aides techniques | 769 | 7/14 (50 %) | aucune analogie, chiffres d'aides techniques sans échelle de comparaison | Chirurgie |
-| 20 | Emploi, droits et aides financières | 1007 | 9/16 (56 %) | chiffres d'aides financières nombreux non mis en échelle, aucune analogie | Chirurgie |
-| 21 | Fatigue chronique et gestion de l'énergie | 838 | 8/12 (67 %) | absence de l'analogie standard du domaine (théorie des cuillères), aucun autre bloc | Chirurgie |
-| 22 | Cancer, rémission et après | 693 | 6/12 (50 %) | 1 témoignage présent, chapitre le plus court avec témoignage, aucune analogie | Chirurgie |
-| 23 | Erreurs médicales et second avis | 771 | 5/9 (56 %) | 3 réflexes passifs (au-dessus de la moyenne), aucune analogie | Chirurgie |
-| 24 | Soins palliatifs et fin de vie | 865 | 8/11 (73 %, pic du guide) | sujet le plus chargé émotionnellement sans bloc 🗣️, aucune analogie | Chirurgie |
-| 25 | Rechutes et incertitude médicale | 826 | 8/14 (57 %) | aucun réflexe passif mais aucune analogie ni bloc contextuel | Chirurgie |
-| 26 | Enfants et parentalité face à la maladie | 886 | 7/12 (58 %) | candidats 👁️/💑 (perspective enfant vs parent malade) absents, aucune analogie | Chirurgie |
-| 27 | Intersectionnalité | 921 | 8/16 (50 %) | terme théorique galvaudé sans bloc ⚖️ Nuance, aucune analogie | Chirurgie |
-| 28 | Droits, luttes et associations de patients | 849 | 6/13 (46 %) | 3 réflexes passifs (au-dessus de la moyenne), aucune analogie | Chirurgie |
-| 29 | Spiritualité, sens et humour | 823 | 6/11 (55 %) | sujet riche en métaphores possibles resté sans analogie, aucun bloc | Chirurgie |
-| 30 | Le vécu des soignants | 724 | 7/12 (58 %) | chapitre du point de vue soignant sans bloc 👁️ retournant vers le patient, aucune analogie | Chirurgie |
-| 31 | Sport adapté, voyager et loisirs accessibles | 880 | 6/12 (50 %) | aucune analogie, aucun bloc contextuel | Chirurgie |
-| 32 | Vivre léger malgré la gravité | 685 | 6/10 (60 %) | chapitre de clôture cohérent mais toujours sans analogie propre | Chirurgie |
+## Tableau par chapitre
 
-## Estimation de coût de reprise
+| # | Chapitre | Mots | Défauts relevés | Verdict |
+|---|---|---|---|---|
+| 1 | Recevoir un diagnostic | 1394 | Pas de bloc Nuance ; 10/18 liens longs (56 %) | Chirurgie |
+| 2 | Le parcours de soin et les démarches en France | 931 | Sous le plancher de 569 mots ; pas de bloc Nuance/témoignage | Chirurgie |
+| 3 | La douleur chronique : mécanismes et traitements | 1113 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 4 | Maladies invisibles | 1036 | Sous le plancher ; pas de bloc Nuance ; 1 URL en doublon de domaine à harmoniser dans Sources (4.1) | Chirurgie |
+| 5 | Paraplégie, tétraplégie et rééducation | 1147 | Sous le plancher ; pas de bloc Nuance ; 1 URL en doublon de domaine à harmoniser (5.1) | Chirurgie |
+| 6 | Le fauteuil roulant : choix et autonomie | 1011 | Sous le plancher ; pas de bloc Nuance ; 67 % de liens longs | Chirurgie |
+| 7 | L'incontinence : gestion et tabou | 1188 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 8 | Deuil de la vie d'avant et reconstruction identitaire | 1182 | Sous le plancher (seul défaut réel) | Chirurgie |
+| 9 | L'acceptation et la résilience | 1151 | Sous le plancher (seul défaut réel) | Chirurgie |
+| 10 | Validisme et modèle social du handicap | 1205 | Sous le plancher ; pas de bloc Nuance alors que la comparaison « validisme plus fort que racisme/sexisme » (10.1) l'appelait | Chirurgie |
+| 11 | Histoire et représentation culturelle du handicap | 1069 | Sous le plancher ; pas de bloc Nuance ; clôture sans retour explicite de l'analogie (transition directe vers le chapitre suivant) ; lien Sources tronqué (seule vraie faille de réciprocité du guide) | Chirurgie |
+| 12 | Le langage du handicap | 1059 | Sous le plancher (seul défaut réel, bloc Nuance déjà présent) | Chirurgie |
+| 13 | Sexualité, désir et handicap | 1034 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 14 | Le couple face à la maladie : pouvoir, charge, rupture | 1332 | Sous le plancher ; généralisation de genre (20,8 % vs 2,9 % de séparation) hédée en bullet mais sans bloc ⚖️ Nuance dédié, alors que la règle « pas d'universalisation sur le couple/le genre » s'applique directement ici | Chirurgie |
+| 15 | La solitude du malade et l'entourage | 1036 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 16 | Le rôle de l'aidant familial et du partenaire | 1180 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 17 | Les professionnels du parcours de soin | 968 | Sous le plancher ; pas de bloc Nuance/témoignage | Chirurgie |
+| 18 | Santé mentale du malade chronique | 980 | Sous le plancher ; pas de bloc Nuance ; pas de bloc 👁️/💑/🗣️ malgré un sujet grave (risque suicidaire) qui aurait pu porter un témoignage | Chirurgie |
+| 19 | Logement, accessibilité, aides techniques | 1018 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 20 | Emploi, droits et aides financières | 1210 | Sous le plancher ; pas de bloc Nuance/témoignage | Chirurgie |
+| 21 | Fatigue chronique et gestion de l'énergie | 1025 | Sous le plancher ; clôture sans retour explicite de l'image (transition directe) ; pas de bloc Nuance | Chirurgie |
+| 22 | Cancer, rémission et après | 927 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 23 | Errance diagnostique et erreurs médicales | 970 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 24 | Soins palliatifs et fin de vie | 1193 | Sous le plancher ; pas de bloc Nuance ; 69 % de liens longs (le plus élevé du guide) ; 1 URL en doublon de domaine à harmoniser (24.2) | Chirurgie |
+| 25 | Rechutes et incertitude médicale au long cours | 1063 | Sous le plancher ; pas de bloc Nuance/témoignage | Chirurgie |
+| 26 | Enfants et parentalité face à la maladie ou au handicap | 1188 | Sous le plancher ; généralisation sur la parentalité handicapée (taux de retrait 40-80 %) hédée en bullet mais sans bloc ⚖️ Nuance dédié | Chirurgie |
+| 27 | Intersectionnalité : handicap, genre, précarité, racisme | 1291 | Sous le plancher (seul défaut réel, bloc Nuance déjà présent) | Chirurgie |
+| 28 | Droits, luttes et associations de patients | 1115 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 29 | Spiritualité, sens et humour comme stratégies de survie | 1043 | Sous le plancher ; pas de bloc Nuance/témoignage | Chirurgie |
+| 30 | Le vécu des soignants | 1030 | Sous le plancher ; pas de bloc Nuance | Chirurgie |
+| 31 | Sport adapté, voyager et loisirs accessibles | 1068 | Sous le plancher ; pas de bloc Nuance/témoignage | Chirurgie |
+| 32 | Vivre léger malgré la gravité | 897 | Le plus court du guide (897 mots, 40 % sous le plancher) ; pas de bloc Nuance | Chirurgie |
 
-- 32 chapitres en Chirurgie × 10 000 à 15 000 tokens = 320 000 à 480 000 tokens.
-- 0 chapitre en Réécriture.
-- **Total : environ 320 000 à 480 000 tokens**, soit 2 à 3 sessions Claude Pro pleines (à raison de 150 000 à 200 000 tokens exploitables par session), en traitant les chapitres par lots plutôt qu'un par un pour amortir le chargement de contexte du skill Redaction2Chapitre.
+## Estimation de coût
 
-Ordre de priorité suggéré pour la reprise, sur la base des défauts les plus visibles : 14 (couple, écart de genre le plus documenté du guide), 9 et 27 (candidats Nuance les plus clairs), 21 et 3 (candidats analogie les plus évidents), 24 et 7 (sujets chargés sans témoignage), puis le reste du guide dans l'ordre des chapitres.
+32 chapitres en Chirurgie, aucun en Réécriture. En reprenant la fourchette basse habituelle de la méthode (chirurgie nettement moins coûteuse qu'une réécriture, de l'ordre d'un tiers à la moitié du coût d'un chapitre neuf) : **32 chapitres × chirurgie légère** (principalement : étoffer chaque chapitre de 150 à 400 mots pour franchir le plancher, ajouter un bloc ⚖️ Nuance dans 24 à 28 chapitres selon la sévérité retenue pour les généralisations de genre/couple, retoucher la clôture des chapitres 11 et 21, corriger le lien tronqué du chapitre 11 dans `4 - Sources/`). Aucun chapitre ne justifie une réécriture complète : le fil, la définition des objets et l'explication des études sont déjà solides partout.
+
+Conclusion de la reprise : la reprise sous Redaction2Chapitre a visiblement fonctionné sur le fond (fil, objet défini, études expliquées, chiffres à échelle, absence totale de puces « Retenir ») ; ce qui reste à faire est un travail d'étoffement et de complément (mots, blocs Nuance), pas une correction de défauts structurels.

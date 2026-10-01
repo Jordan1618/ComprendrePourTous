@@ -1,7 +1,7 @@
 ---
 type: "sources"
 guide: "L'amour"
-mis_a_jour_le: 2026-09-21
+mis_a_jour_le: 2026-09-25
 licence: "CC BY 4.0"
 ---
 
@@ -32,7 +32,10 @@ Sources du guide [L'amour](<../1 - Guides/L amour/README.md>), classées par th�
 | Référence | Ce qu'elle appuie | Chapitre |
 |---|---|---|
 | Sternberg, R. J. (1986), [A triangular theory of love](https://bernard.pitzer.edu/~dmoore/1986_Sternberg_TriangleLove_PsyRev.pdf), *Psychological Review* | Intimité, passion, engagement comme composantes | 2 |
+| Hazan, C. & Shaver, P. (1987), [Romantic love conceptualized as an attachment process](https://psycnet.apa.org/record/1987-21950-001), *Journal of Personality and Social Psychology* | Régulation mutuelle du stress par l'attachement adulte | 2 |
 | Bowlby, J. (1969), [Attachment and Loss, vol. 1](https://www.abebooks.com/Attachment-Loss-Vol-1-John-Bowlby/31446358848/bd), *Basic Books* | Modèle interne opérant ; théorie de l'attachement | 5 |
+| Johnson, S. (2004), [*The Practice of Emotionally Focused Couple Therapy*](https://www.routledge.com/The-Practice-of-Emotionally-Focused-Couple-Therapy-Creating-Connection/Johnson/p/book/9780815348016), Routledge | Distinction entre expliquer et excuser un schéma relationnel | 5 |
+| Moore, G. E. (1903), [*Principia Ethica*](https://www.gutenberg.org/ebooks/53430), Cambridge University Press | Définition du sophisme naturaliste | 4 |
 | Gottman, J. & Levenson, R. (1992), [Marital processes predictive of later dissolution](https://www.johngottman.net/wp-content/uploads/2011/05/Marital-processes-predictive-of-later-dissolution-behavior-physiology-and-health.pdf), *Journal of Personality and Social Psychology* | Réponse aux sollicitations, ratio positif/négatif, comportements destructeurs | 7 |
 | Gable, S. et coll. (2004), [What do you do when things go right?](https://scholar.google.com/scholar?q=%22What+do+you+do+when+things+go+right%3F%22), *Journal of Personality and Social Psychology* | La réaction aux bonnes nouvelles prédit la satisfaction du couple | 7 |
 | Impett, E., Park, H. & Muise, A. (2024), [Popular Psychology Through a Scientific Lens: Evaluating Love Languages](https://journals.sagepub.com/doi/10.1177/09637214231217663), *Current Directions in Psychological Science* | Absence de validation empirique des cinq langages de l'amour | 7 |
@@ -207,7 +210,7 @@ Sources du guide [L'amour](<../1 - Guides/L amour/README.md>), classées par th�
 |---|---|---|
 | Diamond, L. M. (2004), [Emerging Perspectives on Distinctions Between Romantic Love and Sexual Desire](https://onlinelibrary.wiley.com/doi/10.1111/j.0963-7214.2004.00287.x), *Current Directions in Psychological Science* | Distinction fonctionnelle entre désir sexuel et amour romantique | 26 |
 | Cacioppo, S. et coll. (2012), [The Common Neural Bases Between Sexual Desire and Love](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1743-6109.2012.02651.x), *Journal of Sexual Medicine* | Zones cérébrales communes et distinctes entre désir et amour | 26 |
-| Méta-analyse (2020), Gender differences concerning love, *revue de psychologie évaluée par les pairs* (résumé consulté via PsycNet) | Différences modestes de genre dans l'expérience amoureuse | 26 |
+| Méta-analyse (2020), [Gender differences concerning love](https://psycnet.apa.org/record/2020-95872-007), *revue de psychologie évaluée par les pairs* (résumé consulté via PsycNet) | Différences modestes de genre dans l'expérience amoureuse | 26 |
 | Association for Psychological Science (2024), [We All Love to Be Loved, But Women May Experience Love More Frequently than Men](https://www.psychologicalscience.org/news/2024-february-love-gender-gap.html) | Écart de fréquence d'amour expliqué en majorité par le contexte parental | 26 |
 | Étude *eLife* (2022), [Affectionate touch and diurnal oxytocin levels](https://elifesciences.org/articles/81241) | Toucher affectueux quotidien associé à un fardeau perçu plus faible | 26 |
 | Feldman, R. et coll. (2012), [Oxytocin during the initial stages of romantic attachment](https://ruthfeldmanlab.com/wp-content/uploads/2019/06/OT-and-love.PNEC2012.pdf), *Psychoneuroendocrinology* | Ocytocine plus élevée chez les nouveaux couples, corrélée à la réciprocité interactive | 26 |

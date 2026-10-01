@@ -46,7 +46,7 @@ Trois choses, dans cet ordre.
 
 Recevoir une réponse ne se joue pas qu'à travers ce que tu dis après. Une bonne partie du travail se fait pendant que l'autre parle encore, à travers des signaux minuscules que tu envoies sans forcément t'en rendre compte.
 
-Une expérience a fait raconter à des inconnus une anecdote personnelle marquante pendant que leur interlocuteur donnait soit des réponses génériques (hocher la tête, dire "mmh"), soit des réponses spécifiques, collées au contenu précis de ce qui venait d'être dit (une grimace au bon moment, une exclamation adaptée). [Quand les auditeurs étaient distraits et cessaient de donner ces réponses spécifiques, les conteurs racontaient leur histoire nettement moins bien, en particulier au moment qui aurait dû être le plus marquant du récit](https://pubmed.ncbi.nlm.nih.gov/11138763/) (Bavelas, Coates & Johnson, *Journal of Personality and Social Psychology*, 2000 ; vérification du 17 septembre 2026). Le message pratique : recevoir une réponse ne consiste pas à rester silencieux jusqu'à la fin, mais à envoyer, en temps réel, des signaux précis qui montrent que tu suis exactement ce qui est en train d'être dit.
+Une expérience a fait raconter à des inconnus une anecdote personnelle marquante pendant que leur interlocuteur donnait soit des réponses génériques (hocher la tête, dire "mmh"), soit des réponses spécifiques, collées au contenu précis de ce qui venait d'être dit (une grimace au bon moment, une exclamation adaptée). Quand les auditeurs étaient distraits et cessaient de donner ces réponses spécifiques, [les conteurs racontaient leur histoire nettement moins bien](https://pubmed.ncbi.nlm.nih.gov/11138763/), en particulier au moment qui aurait dû être le plus marquant du récit (Bavelas, Coates & Johnson, *Journal of Personality and Social Psychology*, 2000 ; vérification du 17 septembre 2026). Le message pratique : recevoir une réponse ne consiste pas à rester silencieux jusqu'à la fin, mais à envoyer, en temps réel, des signaux précis qui montrent que tu suis exactement ce qui est en train d'être dit.
 
 **Bons réflexes.** Remplacer les hochements de tête automatiques par une réaction ciblée sur le détail précis que l'autre vient de donner, un froncement de sourcils au bon moment, une exclamation qui colle au contenu. C'est ce qui distingue une écoute réelle d'une écoute polie.
 
@@ -54,7 +54,7 @@ Une expérience a fait raconter à des inconnus une anecdote personnelle marquan
 
 Le chapitre 8.3 explique pourquoi conseiller sans qu'on te le demande ferme la conversation. Il existe une raison plus précise à ça, documentée directement chez des patients en train de vivre un moment difficile.
 
-Une étude menée auprès de patients hospitalisés pour un problème cardiaque grave a recueilli leur vécu du soutien reçu de leurs proches et des soignants. [Les patients décrivaient les conseils non sollicités comme l'un des comportements de soutien les plus problématiques, même quand l'intention derrière était clairement bienveillante ; l'un d'eux résumait : "je sais que tu veux dire quelque chose, mais ne donne pas de conseil non sollicité"](https://pmc.ncbi.nlm.nih.gov/articles/PMC1236950/) (Boutin-Foster, *Health and Quality of Life Outcomes*, 2005 ; vérification du 17 septembre 2026). Ce que les patients demandaient à la place, ce n'était pas moins d'attention, c'était d'être écoutés avant d'être dirigés.
+Une étude menée auprès de patients hospitalisés pour un problème cardiaque grave a recueilli leur vécu du soutien reçu de leurs proches et des soignants. [Les patients décrivaient les conseils non sollicités comme l'un des comportements de soutien les plus problématiques](https://pmc.ncbi.nlm.nih.gov/articles/PMC1236950/), même quand l'intention derrière était clairement bienveillante. L'un d'eux résumait : "je sais que tu veux dire quelque chose, mais ne donne pas de conseil non sollicité" (Boutin-Foster, *Health and Quality of Life Outcomes*, 2005 ; vérification du 17 septembre 2026). Ce que les patients demandaient à la place, ce n'était pas moins d'attention, c'était d'être écoutés avant d'être dirigés.
 
 Ce qui se passe du côté de celui qui donne le conseil, c'est presque toujours l'inverse de ce qu'il pense produire : il croit apporter une solution utile, l'autre reçoit une reprise de contrôle sur sa situation, au moment précis où il en a le moins besoin. Franchement, la plupart du temps où je balance un conseil non demandé, c'est moins pour aider que pour calmer mon propre malaise de ne rien faire face à la difficulté de l'autre.
 
@@ -71,6 +71,12 @@ Le test le plus fiable pour savoir si tu as vraiment reçu la réponse, plutôt 
 Ce même réflexe de reformulation avant réaction protège aussi celui qui vient de répondre. Une réponse mal reçue une seule fois suffit souvent à fermer durablement la porte à toute question future de la même personne sur le même sujet : mieux vaut prendre le temps de bien recevoir une réponse difficile que d'espérer en obtenir une deuxième chance plus tard.
 
 **💑 Dans le couple.** La façon dont une première confidence difficile est reçue conditionne largement si les suivantes arrivent un jour. Un partenaire qui s'est senti jugé, interrompu ou conseillé sans l'avoir demandé la première fois qu'il a tenté de dire quelque chose de vrai retient la leçon, souvent sans le formuler explicitement : il se limite ensuite au factuel, ce qui referme précisément ce que ce guide entier essaie d'ouvrir.
+
+⚖️ **Nuance : ce qui ressemble à du soutien et n'en est pas**
+
+- **Minimiser une confidence n'est pas de la gentillesse.** C'est de l'évitement de son propre malaise (8.1) : le message reçu en face est que ce qui vient d'être dit est trop lourd à porter.
+- **Donner un conseil non sollicité n'est pas de l'aide, même avec la meilleure intention.** Celui qui le reçoit vit ça comme une reprise de contrôle sur sa situation, pas comme du soutien (8.6).
+- **Revenir sur une confidence le lendemain n'est pas une preuve d'attention.** Sans y être invité, ça peut donner à l'autre le sentiment d'avoir trop dit (8.4).
 
 ## Sources vérifiables
 

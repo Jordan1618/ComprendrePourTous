@@ -99,6 +99,10 @@ Ces injonctions ne sont pas toutes contradictoires en théorie, et une partie du
 
 Cette paralysie est l'un des moteurs principaux du désengagement relationnel masculin décrit en 12.3, et l'un des points d'entrée des discours de ressentiment décrits en 18.3. [Cette tension entre normes masculines traditionnelles et attentes contemporaines est décrite dans les travaux fondateurs sur la reconstruction de la masculinité](https://www.semanticscholar.org/paper/Toward-the-reconstruction-of-masculinity-Levant/bd992654a9ed4ee80c128b2c97ef47da9acc2eb7).
 
+👁️ **Vu de l'autre côté**
+
+De l'extérieur, la paralysie ressemble à de l'indifférence ou à un manque de volonté d'évoluer, alors qu'elle vient souvent d'un excès d'attentes non articulées entre elles. Dans sa tête à lui : « si je bouge, quel que soit le sens, quelqu'un va me dire que je m'y prends mal » ; ce n'est pas un refus de changer, c'est l'absence de mode d'emploi cohérent pour le faire.
+
 ### 3.7 Le carré du blocage
 
 Pour résumer les six sections précédentes en un schéma utilisable. Quatre éléments qui se renforcent mutuellement :
@@ -109,6 +113,14 @@ Pour résumer les six sections précédentes en un schéma utilisable. Quatre é
 4. **Pas de modèle** (aucun homme observé n'a jamais fait autrement).
 
 Retire un seul de ces quatre éléments et le système s'ouvre. C'est exactement ce que fait une bonne relation, et c'est aussi ce que fait une thérapie. Ce n'est pas une question de volonté ou de courage, c'est une question de conditions. [Ce blocage cumulé — mots, droit, lieu, modèle — recoupe les obstacles au recours à l'aide identifiés dans la littérature de référence sur la socialisation masculine](https://www.researchgate.net/publication/10822409_Men_Masculinity_and_the_Contexts_of_Help_Seeking).
+
+⚖️ **Nuance.** Trois raccourcis reviennent souvent sur ce terrain.
+
+- « C'est biologique » n'est pas une explication complète : le plâtre existe, mais la peinture posée par la socialisation pèse largement plus lourd, et s'arrêter au premier niveau revient à ne gratter qu'une seule des trois couches du mur.
+- La testostérone n'est pas un carburant de l'agressivité : elle module surtout la sensibilité au statut, monte avant une compétition et chute après une défaite, ce qui n'a rien à voir avec le fait de pousser quelqu'un à la violence.
+- Un homme au style d'attachement évitant n'aime pas moins qu'un autre : il désactive l'expression de ce qu'il ressent, ce qui n'est pas la même chose qu'une absence de sentiment, et confondre les deux mène à interpréter comme du désintérêt ce qui est une stratégie de protection apprise.
+
+Ce que recouvrent ces trois raccourcis : prendre un mécanisme réel pour toute l'explication, alors qu'il n'en est qu'une des couches.
 
 ## Sources vérifiables
 

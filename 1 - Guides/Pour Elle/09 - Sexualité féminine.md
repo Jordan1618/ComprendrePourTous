@@ -79,11 +79,14 @@ Chercher "la" technique universelle revient à chercher une seule fréquence rad
 
 **Le poids de l'histoire dans ce qu'on croit "normal"** : le concept d'un orgasme "vaginal" supposément plus mature qu'un orgasme "clitoridien" a été popularisé par Freud au début du XXe siècle, au point d'influencer la médecine pendant des décennies, l'incapacité à atteindre l'orgasme par la seule pénétration hétérosexuelle a même longtemps été traitée comme une catégorie diagnostique à part entière. Cette idée est aujourd'hui largement abandonnée par les professionnels de santé sexuelle.
 
-**Mythes à déconstruire au passage**
-- **"Une femme devrait pouvoir jouir par la pénétration seule"**, faux statistiquement, comme on vient de le voir : c'est la minorité, pas la majorité.
-- **"Simuler un orgasme est anodin"**, la simulation répétée entretient une communication faussée sur ce qui fonctionne réellement, ce qui peut creuser sur la durée l'écart entre ce que le partenaire croit efficace et ce qui l'est vraiment. Ce n'est pas une "faute" (souvent fait pour éviter de blesser ou raccourcir un moment inconfortable), mais un signal que la communication directe gagnerait à être plus ouverte.
-- **"Le porno montre des pratiques et des réactions réalistes"**, rythme, intensité et réactions y sont généralement mis en scène et largement exagérés ; ce n'est une bonne référence ni technique, ni émotionnelle.
-- **"L'éjaculation féminine (squirting) arrive forcément avec un vrai orgasme, ou alors ce n'est que de l'urine"**, la réalité scientifique est plus nuancée et encore débattue : le liquide expulsé proviendrait, selon les études, en partie des glandes de Skene évoquées en 5.1, et en partie d'une dilution de contenu vésical, les deux mécanismes ne s'excluent pas nécessairement, et le phénomène ne concerne qu'une partie des femmes, sans lien systématique avec l'intensité du plaisir ressenti.
+⚖️ **Nuance.** Quatre malentendus reviennent le plus souvent sur ce sujet.
+
+- **Jouir par la pénétration seule n'est pas la norme qu'on croit** : c'est statistiquement la minorité, pas la majorité, comme le montre le chiffre ci-dessus.
+- **Simuler un orgasme n'est pas un geste anodin** : la simulation répétée entretient une communication faussée sur ce qui fonctionne réellement, ce qui peut creuser sur la durée l'écart entre ce que le partenaire croit efficace et ce qui l'est vraiment. Ce n'est pas une "faute" (souvent fait pour éviter de blesser ou raccourcir un moment inconfortable), mais un signal que la communication directe gagnerait à être plus ouverte.
+- **Le porno n'est pas une référence réaliste** : rythme, intensité et réactions y sont généralement mis en scène et largement exagérés, ce n'est une bonne référence ni technique, ni émotionnelle.
+- **L'éjaculation féminine (squirting) n'est pas la preuve d'un vrai orgasme, ni simplement de l'urine** : la réalité scientifique est plus nuancée et encore débattue, le liquide expulsé proviendrait, selon les études, en partie des glandes de Skene évoquées en 9.1, et en partie d'une dilution de contenu vésical, les deux mécanismes ne s'excluant pas nécessairement, et le phénomène ne concerne qu'une partie des femmes, sans lien systématique avec l'intensité du plaisir ressenti.
+
+Ce que recouvrent ces quatre malentendus : mesurer le plaisir féminin à l'aune d'une norme extérieure (la pénétration, l'image du porno, un fluide visible) plutôt qu'à l'aune de ce qui se passe réellement, propre à chaque corps.
 
 **💑 Dans le couple** : ce chiffre de "seulement 18 %" n'est ni un échec ni une anomalie chez ta partenaire si elle en fait partie, c'est simplement la réalité anatomique la plus courante. Construire ensemble une sexualité qui n'attend pas l'orgasme uniquement de la pénétration n'est pas "se rabattre sur un plan B", c'est s'aligner sur ce que la majorité des corps féminins demandent réellement.
 
