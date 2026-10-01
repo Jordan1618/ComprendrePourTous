@@ -653,3 +653,12 @@ main::before {
   .prose { max-width: none; }
   body { font-size: 11pt; }
 }
+
+/* Avertissement de guide : note discrete en bas de page */
+.prose .guide-notice {
+  margin: 2.2rem 0 1rem; padding: 1rem 0 0;
+  border-top: 1px solid var(--border);
+  font-size: .86rem; line-height: 1.6; color: var(--muted);
+}
+.prose .guide-notice p { margin: 0; }
+.prose .guide-notice strong:first-child { color: var(--text, inherit); }

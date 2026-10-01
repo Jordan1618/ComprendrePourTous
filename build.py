@@ -1156,8 +1156,13 @@ def render_guide(guide, by_url, nav):
     body.append(breadcrumb(guide, by_url))
     body.append("<h1>%s</h1>" % esc(guide.title))
     body.append(meta_bar(guide))
-    if guide.html:
-        body.append('<div class="section-intro">%s</div>' % guide.html)
+    # le bandeau d'avertissement (MAINTENANCE.md) s'affiche en bas de page,
+    # en note discrete, pour ne pas ouvrir la lecture sur un pave de texte
+    banner = re.search(r"<blockquote>.*?Un rep.re, pas une v.rit.*?</blockquote>",
+                       guide.html or "", flags=re.S)
+    intro = guide.html.replace(banner.group(0), "", 1) if banner else guide.html
+    if intro:
+        body.append('<div class="section-intro">%s</div>' % intro)
     rows = []
     for n, p in enumerate(guide.children, 1):
         chips = ""
@@ -1179,6 +1184,9 @@ def render_guide(guide, by_url, nav):
     else:
         body.append('<p class="source"><a href="%s" target="_blank" rel="noopener">'
                     'Voir ce dossier sur GitHub</a></p>' % gh_tree(guide.folder))
+    if banner:
+        inner = re.sub(r"^<blockquote>\s*|\s*</blockquote>$", "", banner.group(0))
+        body.append('<aside class="guide-notice">%s</aside>' % inner)
     body.append("</article>")
     body.append(avis_block(guide.title, guide.url))
     body.append(feedback_block(guide.title, guide.url))
