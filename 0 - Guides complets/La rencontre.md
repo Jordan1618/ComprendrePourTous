@@ -7,7 +7,7 @@ mots: 47790
 verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/La rencontre"
-genere_le: 2026-09-25
+genere_le: 2026-10-01
 ---
 
 # La rencontre
@@ -18,13 +18,11 @@ genere_le: 2026-09-25
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Comment on choisit vraiment, et comment mieux choisir**
+**L'attirance se décide en un dixième de seconde. La compatibilité demande des semaines. On les confond très souvent.**
 
-Ce guide porte sur ce qui se passe avant le couple : ce qui déclenche une attirance, ce qui fait qu'on choisit mal, où les gens se rencontrent réellement aujourd'hui, comment se déroulent les premiers échanges, et ce qu'il faut savoir en matière de signaux d'alerte et de sécurité.
+Ce guide porte sur ce qui se passe avant le couple : ce qui déclenche l'attirance, pourquoi on choisit mal, où les gens se rencontrent vraiment aujourd'hui, comment se déroulent les premiers échanges, quels sont les signaux d'alerte. Chaque chapitre sépare ce qui **attire** de ce qui **prédit la suite**, et ce sont rarement les mêmes signaux.
 
-Sa logique tient en une phrase : l'attirance se décide en un dixième de seconde, la compatibilité demande des semaines, et on confond systématiquement les deux. Chaque chapitre sépare donc ce qui **attire** de ce qui **prédit la suite** — ce ne sont presque jamais les mêmes signaux.
-
-Il est écrit pour tout le monde, quel que soit le genre et l'orientation. Les passages où les données diffèrent selon les situations le précisent explicitement.
+Il est écrit pour tout le monde, quel que soit le genre et l'orientation. Quand les données diffèrent selon les situations, c'est précisé.
 
 Pour tout ce qui touche spécifiquement aux dérives relationnelles nées des outils numériques, ghosting, breadcrumbing, love bombing, voir le chapitre 7 du guide [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/07 - Les nouvelles derives amoureuses numeriques.md>), qui complète ce guide sur ce point précis.
 

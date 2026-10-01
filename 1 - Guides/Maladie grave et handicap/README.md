@@ -12,9 +12,11 @@ licence: "CC BY 4.0"
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, assistant social, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Le diagnostic, le corps qui change, l'entourage qui doit s'adapter — et ce qui reste possible**
+**Le diagnostic tombe, le corps change, l'entourage doit s'adapter. Et il reste des choses possibles.**
 
-Ce guide traite la maladie grave, la douleur chronique et le handicap dans leur ensemble : le choc du diagnostic, les démarches concrètes, des situations précises (paraplégie, incontinence, fauteuil roulant), la santé mentale, le rôle du partenaire et des aidants, les droits, et la dimension sociétale du validisme. Il assume de parler à la fois du lourd (deuil, épuisement, fin de vie) et du léger (ce qui reste possible, l'humour, la joie).
+Le choc du diagnostic, les démarches concrètes, des situations précises (paraplégie, incontinence, fauteuil roulant), la santé mentale, le rôle du partenaire et des aidants, les droits, et la dimension sociétale du validisme.
+
+Ce guide assume de parler à la fois du lourd (deuil, épuisement, fin de vie) et du léger : ce qui reste possible, l'humour, la joie.
 
 Pour ce qui touche spécifiquement au couple qui traverse une maladie grave au long cours, voir [Pour Nous](<../Pour Nous/README.md>), qui prend le relais sur ce terrain plutôt que de le redire ici. Pour la régulation émotionnelle générale, voir [Les émotions](<../Les emotions/README.md>).
 

@@ -12,13 +12,13 @@ licence: "CC BY 4.0"
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Traverser à deux les étapes de la vie, des plus simples aux plus dures**
+**Les récits s'arrêtent à la rencontre. Ce guide commence après.**
 
-Ce guide est le pendant à deux de [Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>). Il porte sur la partie dont les récits ne parlent jamais : ce qui vient après la rencontre. Comment on décide ensemble, comment on tient dans la durée, et comment on continue à construire quand la vie s'en mêle.
+Comment on décide ensemble, comment on tient dans la durée, comment on continue à construire quand la vie s'en mêle. C'est le pendant à deux de [Pour Elle](<../Pour Elle/README.md>) et [Pour Lui](<../Pour Lui/README.md>), pour **tous les couples et toutes les énergies**, pas seulement ceux qui traversent quelque chose de lourd.
 
-Il s'adresse à **tous les couples et à toutes les énergies**, pas seulement à ceux qui traversent quelque chose de lourd. Les chapitres sur le trauma et l'appréhension sont là parce qu'ils concernent beaucoup de monde et qu'on en parle mal — pas parce qu'il faudrait aller mal pour être concerné. Décider d'un projet commun, répartir la charge du quotidien ou traverser un deuil sont des sujets de couple ordinaires.
+Décider d'un projet commun, répartir la charge du quotidien ou traverser un deuil sont des sujets de couple ordinaires. Les chapitres sur le trauma et l'appréhension sont là parce qu'ils concernent beaucoup de monde et qu'on en parle mal, pas parce qu'il faudrait aller mal pour être concerné.
 
-Le guide distingue nettement ce qui **explique** un comportement de ce qui l'**excuse**. Une histoire difficile explique une réaction ; elle n'autorise pas à blesser quelqu'un. Cette ligne est tracée explicitement au chapitre 4.
+Une ligne nette traverse le guide : ce qui **explique** un comportement n'est pas ce qui l'**excuse**. Une histoire difficile explique une réaction, elle n'autorise pas à blesser quelqu'un (chapitre 4).
 
 Pour ce qui touche spécifiquement à une famille recomposée (beau-parent, coparentalité, place de chacun), voir le guide [Les nouvelles compositions familiales](<../Les nouvelles compositions familiales/README.md>), qui prend le relais sur ce terrain plutôt que de le redire ici. Pour ce qui précède la construction à deux (l'attirance, le choix de partenaire, la nature du sentiment amoureux), voir [La rencontre](<../La rencontre/README.md>) et [L'amour](<../L amour/README.md>).
 

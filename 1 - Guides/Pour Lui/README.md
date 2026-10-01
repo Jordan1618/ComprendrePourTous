@@ -12,11 +12,11 @@ licence: "CC BY 4.0"
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Ce qui se passe à l'intérieur, et pourquoi ça ne se voit pas**
+**Ce qui se passe à l'intérieur, et pourquoi ça ne se voit pas.**
 
-Ce guide traite de la vie émotionnelle des hommes : comment elle se construit, pourquoi elle s'exprime si peu, à quoi ressemble une dépression masculine qui ne ressemble pas à une dépression, comment fonctionnent le corps et la sexualité masculine, et ce qui se joue dans les relations et les conflits.
+La vie émotionnelle des hommes : comment elle se construit, pourquoi elle s'exprime si peu, à quoi ressemble une dépression masculine qui ne ressemble pas à une dépression, comment fonctionnent le corps et la sexualité, et ce qui se joue dans les relations et les conflits.
 
-C'est le miroir exact du guide sur le cycle féminin. Là où l'un explique un corps aux personnes qui ne l'habitent pas, celui-ci explique un fonctionnement psychologique aux personnes qui le côtoient sans le comprendre. Il est utile aux femmes qui partagent la vie d'un homme, et tout autant aux hommes qui ne se sont jamais vu décrire de l'extérieur.
+C'est le miroir de [Pour Elle](<../Pour Elle/README.md>). Là où l'un explique un corps à celles et ceux qui ne l'habitent pas, celui-ci explique un fonctionnement psychologique à celles et ceux qui le côtoient sans le comprendre. Il est utile aux femmes qui partagent la vie d'un homme, et tout autant aux hommes à qui personne n'a jamais décrit ça de l'extérieur.
 
 Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une impression : [version intégrale](<../../0 - Guides complets/Pour Lui.md>).
 

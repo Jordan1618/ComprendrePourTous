@@ -12,13 +12,11 @@ licence: "CC BY 4.0"
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Ce que c'est vraiment, et comment le comprendre**
+**L'amour n'est pas une chose mais trois.**
 
-Ce guide répond à une question qu'on pose rarement sérieusement : qu'est-ce que l'amour, concrètement ? Il l'aborde par quatre entrées — ce qu'en dit la biologie, ce que l'esprit en fait à partir de sa propre histoire, ce que la culture a ajouté par-dessus, et ce que ça engage réellement quand on vit à deux.
+Le désir, l'attirance romantique et l'attachement sont trois systèmes distincts, qui ne s'allument ni ensemble ni dans l'ordre. Dans la plupart des cas, « je ne ressens plus la même chose » ou « est-ce que c'est encore de l'amour » deviennent des questions traitables dès qu'on sait de quel système on parle.
 
-Son fil conducteur : **l'amour n'est pas une chose mais trois**. Le désir, l'attirance romantique et l'attachement sont trois systèmes distincts, qui ne s'allument ni ensemble ni dans l'ordre. La plupart des inquiétudes amoureuses — « je ne ressens plus la même chose », « est-ce que c'est encore de l'amour » — deviennent traitables dès qu'on identifie de quel système on parle.
-
-Le guide dit aussi ce qui n'est **pas** validé. Les langages de l'amour, par exemple, sont utiles comme outil de conversation mais ne sont pas étayés empiriquement, et c'est écrit noir sur blanc plutôt que passé sous silence.
+Biologie, histoire personnelle, culture, vie à deux : quatre entrées pour une question qu'on pose rarement sérieusement. Et le guide dit aussi ce qui n'est **pas** validé : les langages de l'amour servent à ouvrir une conversation, mais la recherche ne les étaye pas.
 
 Ce guide porte sur le sentiment lui-même. Pour ce qui précède (attirance, choix de partenaire, premiers échanges), voir [La rencontre](<../La rencontre/README.md>) ; pour ce qui suit (construire et tenir à deux dans la durée), voir [Pour Nous](<../Pour Nous/README.md>).
 

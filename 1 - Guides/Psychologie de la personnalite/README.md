@@ -12,9 +12,11 @@ licence: "CC BY 4.0"
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — psychologue, psychiatre, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Les traits qui nous composent : d'où ils viennent, ce qu'ils changent, comment vivre avec**
+**D'où viennent nos traits de caractère, ce qu'ils changent dans notre vie, et comment vivre avec.**
 
-Ce guide traite la personnalité comme objet scientifique (modèles validés, origines génétiques et environnementales, ce qui distingue un test sérieux d'un horoscope) et comme expérience vécue (perfectionnisme, estime de soi, conformisme, solitude choisie ou subie, et leur impact sur le travail, la santé, la famille, l'amitié et la séduction entre hommes et femmes).
+Deux façons de regarder la personnalité. Comme un objet scientifique : modèles validés, origines génétiques et environnementales, ce qui distingue un test sérieux d'un horoscope.
+
+Et comme une expérience vécue : perfectionnisme, estime de soi, conformisme, solitude choisie ou subie, avec leur impact sur le travail, la santé, la famille, l'amitié et la séduction entre hommes et femmes.
 
 Pour les styles d'attachement en amour, voir la notion [Style d'attachement](<../../2 - Notions/Style d'attachement.md>) et le guide [La rencontre](<../La rencontre/README.md>), qui prennent le relais sur ce terrain plutôt que de le redire ici. Pour l'image de soi sur les réseaux sociaux, voir [Réseaux sociaux](<../Reseaux sociaux/README.md>).
 

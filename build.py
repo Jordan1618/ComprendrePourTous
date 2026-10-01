@@ -1160,9 +1160,42 @@ def render_guide(guide, by_url, nav):
     # en note discrete, pour ne pas ouvrir la lecture sur un pave de texte
     banner = re.search(r"<blockquote>.*?Un rep.re, pas une v.rit.*?</blockquote>",
                        guide.html or "", flags=re.S)
-    intro = guide.html.replace(banner.group(0), "", 1) if banner else guide.html
-    if intro:
-        body.append('<div class="section-intro">%s</div>' % intro)
+    intro = guide.html.replace(banner.group(0), "", 1) if banner else (guide.html or "")
+    # « Par ou commencer » : devient des cartes cliquables avant les chapitres
+    entries = ""
+    m = re.search(r"<h2[^>]*>\s*Par o. commencer.*?</h2>\s*<ul>(.*?)</ul>", intro, flags=re.S)
+    if m:
+        cards = []
+        for li in re.findall(r"<li>(.*?)</li>", m.group(1), flags=re.S):
+            q = re.search(r"<strong>(.*?)</strong>", li, flags=re.S)
+            nums = [int(x) for x in re.findall(r"\d+", re.sub(r"<strong>.*?</strong>", "", li, flags=re.S))]
+            links = "".join('<a href="%s">Chapitre %d</a>' % (guide.children[n - 1].url, n)
+                            for n in nums if 0 < n <= len(guide.children))
+            if q and links:
+                cards.append('<li><span class="entry-q">%s</span><span class="entry-links">%s</span></li>'
+                             % (q.group(1), links))
+        if cards:
+            entries = ('<h2 class="guide-h">Par où commencer&nbsp;?</h2>'
+                       '<p class="guide-h-sub">Choisissez la phrase qui vous ressemble.</p>'
+                       '<ul class="entries">%s</ul>' % "".join(cards))
+        intro = intro[:m.start()]
+    paras = re.findall(r"<p>.*?</p>", intro, flags=re.S)
+    see_also = [p for p in paras if re.match(
+        r"<p>(Pour |Il compl.te|Ce guide existe aussi|Ce guide porte sur le sentiment)", p)]
+    paras = [p for p in paras if p not in see_also]
+    hero = ""
+    if paras and re.fullmatch(r"<p><strong>.*?</strong></p>", paras[0], flags=re.S):
+        hero = '<p class="guide-hook">%s</p>' % re.sub(r"</?(p|strong)>", "", paras[0])
+        paras = paras[1:]
+    if paras:
+        hero += '<div class="guide-lead">%s</div>' % paras[0]
+        paras = paras[1:]
+    if hero:
+        body.append('<div class="guide-hero">%s</div>' % hero)
+    if paras:
+        body.append('<div class="guide-intro">%s</div>' % "".join(paras))
+    body.append(entries)
+    body.append('<h2 class="guide-h">Les chapitres</h2>')
     rows = []
     for n, p in enumerate(guide.children, 1):
         chips = ""
@@ -1184,6 +1217,8 @@ def render_guide(guide, by_url, nav):
     else:
         body.append('<p class="source"><a href="%s" target="_blank" rel="noopener">'
                     'Voir ce dossier sur GitHub</a></p>' % gh_tree(guide.folder))
+    if see_also:
+        body.append('<div class="guide-seealso">%s</div>' % "".join(see_also))
     if banner:
         inner = re.sub(r"^<blockquote>\s*|\s*</blockquote>$", "", banner.group(0))
         body.append('<aside class="guide-notice">%s</aside>' % inner)

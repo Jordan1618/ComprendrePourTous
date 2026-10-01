@@ -7,7 +7,7 @@ mots: 24836
 verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Le sommeil"
-genere_le: 2026-09-25
+genere_le: 2026-10-01
 ---
 
 # Le sommeil
@@ -18,9 +18,9 @@ genere_le: 2026-09-25
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, spécialiste du sommeil, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Ce qui se passe vraiment pendant qu'on dort, et ce que ça coûte de mal dormir**
+**Mal dormir ne fatigue pas seulement : ça se paie ailleurs.**
 
-Ce guide traite le sommeil comme un sujet à part entière plutôt que comme la note de bas de page qu'il reste souvent ailleurs dans ce dépôt. Ce qui se joue biologiquement pendant qu'on dort, les troubles les plus fréquents et les plus méconnus, ce qui aide vraiment face à ce qui relève du marketing, et ce que le sommeil change concrètement en couple, en famille, au travail et dans la société.
+Le sommeil a droit ici à un guide entier, pas à la note de bas de page qu'il reste souvent ailleurs. Ce qui se joue biologiquement pendant la nuit, les troubles les plus fréquents et les plus méconnus, ce qui aide vraiment face à ce qui relève du marketing, et ce que le sommeil change en couple, en famille, au travail et dans la société.
 
 Pour ce qui touche spécifiquement à la charge mentale nocturne en couple ou en famille recomposée, voir [Pour Nous](<../1 - Guides/Pour Nous/README.md>) et [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>), qui prennent le relais sur ce terrain plutôt que de le redire ici. Pour l'effet des écrans sur le sommeil, voir [Réseaux sociaux](<../1 - Guides/Reseaux sociaux/README.md>).
 

@@ -1,7 +1,7 @@
 ---
 type: "index"
 axe: "sujet"
-mis_a_jour_le: 2026-09-25
+mis_a_jour_le: 2026-10-01
 licence: "CC BY 4.0"
 ---
 

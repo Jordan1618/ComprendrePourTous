@@ -12,11 +12,11 @@ licence: "CC BY 4.0"
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, psychologue, psychiatre, sexologue, thérapeute de couple, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Le cycle, la contraception, les pathologies, la sexualité, la grossesse**
+**Comprendre le cycle, et savoir quoi faire quand quelqu'un autour de soi en souffre.**
 
-Ce guide couvre le fonctionnement du cycle menstruel, la contraception hormonale, le panorama des troubles et pathologies qui touchent le cycle, la sexualité, la grossesse et le post-partum. Il est écrit pour deux publics à la fois : les femmes qui veulent comprendre ce qui se passe dans leur propre corps, et les personnes qui veulent comprendre celui de leur partenaire.
+Cycle menstruel, contraception hormonale, troubles et pathologies, sexualité, grossesse, post-partum : le guide explique le mécanisme, puis ne s'arrête jamais là. Chaque situation importante est suivie d'une partie **Dans le couple**, qui dit ce que ça change à deux, et de **Bons réflexes**, qui donne des actions et des formulations précises plutôt que des conseils généraux.
 
-Sa particularité est de ne jamais s'arrêter au mécanisme biologique. Chaque pathologie ou situation importante est suivie d'une partie **Dans le couple**, qui explique ce que ça change concrètement à deux, et de **Bons réflexes**, qui donne des actions ou des formulations précises plutôt que des conseils généraux. Savoir ce qu'est l'endométriose ne sert pas à grand-chose si on ne sait pas quoi faire quand quelqu'un autour de soi en souffre.
+Savoir ce qu'est l'endométriose ne sert pas à grand-chose si on ne sait pas quoi faire quand quelqu'un en souffre. Le guide est écrit pour deux publics à la fois : les femmes qui veulent comprendre leur propre corps, et les personnes qui veulent comprendre celui de leur partenaire.
 
 Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une impression : [version intégrale](<../../0 - Guides complets/Pour Elle.md>).
 

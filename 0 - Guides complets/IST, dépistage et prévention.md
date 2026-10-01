@@ -7,7 +7,7 @@ mots: 19580
 verifie_le: 2026-09-25
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/IST, depistage et prevention"
-genere_le: 2026-09-25
+genere_le: 2026-10-01
 ---
 
 # IST, dépistage et prévention
@@ -18,13 +18,11 @@ genere_le: 2026-09-25
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, sage-femme, centre de dépistage, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Comprendre, dépister, protéger, en parler**
+**Les IST : ce que vous croyez en savoir date peut-être d'il y a trente ans.**
 
-Un guide directement utile sur les infections sexuellement transmissibles : ce qu'elles sont, comment elles se transmettent, lesquelles sont silencieuses, comment on les dépiste et comment on s'en protège. Chlamydia, gonorrhée, syphilis, herpès génital, VIH et HPV sont traités un par un, avant d'élargir sur le vocabulaire, la conversation en couple, le croisement entre contraception et prévention des IST, la recherche en cours et les bonnes pratiques de réduction des risques. Le guide couvre aussi l'accès réel au dépistage aujourd'hui, la résistance aux antibiotiques, le quotidien de vivre avec une IST chronique, l'histoire de la stigmatisation, la sociologie du dépistage, et les populations que la prévention oublie trop souvent.
+Ce qu'elles sont, lesquelles se taisent, comment on les dépiste, comment on s'en protège. Chlamydia, gonorrhée, syphilis, herpès génital, VIH et HPV sont traités un par un, puis viennent la conversation en couple, l'accès réel au dépistage, la vie avec une IST chronique et la honte que la recherche documente.
 
-Les chapitres 18 à 25 forment une section à part, une infection à la fois (chlamydia, gonorrhée, syphilis, HPV, hépatite B, hépatite C, trichomonase, mycoplasma genitalium) : le poids émotionnel réel, la honte documentée par la recherche, ce qui pousse ou retient de consulter, et pour plusieurs d'entre elles, un vrai témoignage publié, de patient ou de médecin, cité avec sa source.
-
-C'est le guide le plus factuel de la collection, et sans doute le plus immédiatement actionnable. La plupart des idées reçues sur le sujet datent de trente ans et sont fausses aujourd'hui, en particulier sur le VIH.
+C'est le guide le plus factuel de la collection, et l'un des plus immédiatement utiles. Sur le VIH en particulier, beaucoup d'idées reçues sont aujourd'hui fausses. Les chapitres 18 à 25 reprennent une infection à la fois, avec le poids émotionnel réel et, pour plusieurs, un témoignage publié cité avec sa source.
 
 Pour tout ce qui touche à la nouvelle rencontre ou à la vie amoureuse en général, voir [La rencontre](<../1 - Guides/La rencontre/README.md>) et [L'amour](<../1 - Guides/L amour/README.md>), qui renvoient ici plutôt que de redire l'épidémiologie et la prévention.
 

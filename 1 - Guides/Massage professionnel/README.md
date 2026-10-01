@@ -12,11 +12,11 @@ licence: "CC BY 4.0"
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, kinésithérapeute, ostéopathe, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Le cadre, les gestes, les zones, les limites**
+**Ce qui fait un bon massage n'est presque jamais la technique.**
 
-Un guide pratique sur le massage : le cadre à poser avant de toucher quelqu'un, les grandes familles de techniques, les gestes fondamentaux, le découpage zone par zone du corps, les produits, et les contre-indications qui comptent vraiment. Il couvre aussi la neurobiologie du toucher, ce que la recherche valide vraiment pathologie par pathologie, le statut légal du métier en France, comment devenir praticien, l'histoire longue du massage, et comment accepter de faire son premier massage, qu'on soit un homme ou une femme.
+C'est le cadre, le consentement et l'attention portée aux réactions de l'autre. Ce guide pratique pose donc d'abord le cadre à respecter avant de toucher quelqu'un, puis les grandes familles de techniques, les gestes fondamentaux, le découpage zone par zone, les produits et les contre-indications qui comptent vraiment.
 
-C'est le seul guide de la collection dont l'objet est un geste plutôt qu'une compréhension. Il reste dans la même logique : ce qui fait la différence n'est presque jamais la technique, c'est le cadre, le consentement et l'attention portée aux réactions de l'autre.
+Il couvre aussi la neurobiologie du toucher, ce que la recherche valide pathologie par pathologie, le statut légal du métier en France, comment devenir praticien, et comment accepter de faire son premier massage, qu'on soit un homme ou une femme. C'est le seul guide de la collection dont l'objet est un geste plutôt qu'une compréhension.
 
 Ce guide existe aussi en un seul fichier, pour une lecture d'une traite ou une impression : [version intégrale](<../../0 - Guides complets/Massage professionnel.md>).
 

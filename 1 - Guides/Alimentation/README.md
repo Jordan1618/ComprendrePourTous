@@ -12,9 +12,9 @@ licence: "CC BY 4.0"
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — médecin, diététicien, nutritionniste, psychologue, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Ce qu'on mange, pourquoi, et ce que ça change vraiment**
+**Manger, c'est du calcul et c'est de la vie. Trop de conseils n'en gardent qu'un des deux.**
 
-Ce guide traite l'alimentation à la fois comme une question de calcul (macronutriments, besoins caloriques, maladies liées au régime) et comme une question humaine (histoire, culture, précarité, émotions, couple et famille à table). Ce que la science établit vraiment sur la nutrition, plutôt que ce que le marketing ou les réseaux sociaux en disent.
+Calories, macronutriments, maladies liées au régime : le calcul existe, et il compte. Mais on mange aussi par histoire, par culture, par manque d'argent, par émotion, en couple et en famille. Ce guide tient les deux, et trie ce que la science établit vraiment de ce que le marketing et les réseaux sociaux répètent.
 
 Pour ce qui touche à l'alimentation pendant la grossesse, voir [Pour Elle](<../Pour Elle/README.md>). Pour le lien entre alimentation et sommeil, voir [Le sommeil](<../Le sommeil/README.md>). Pour l'alimentation émotionnelle en lien avec la régulation émotionnelle générale, voir [Les émotions](<../Les emotions/README.md>).
 

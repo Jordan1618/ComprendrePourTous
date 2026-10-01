@@ -7,7 +7,7 @@ mots: 75666
 verifie_le: 2026-09-17
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Questions et communication"
-genere_le: 2026-09-25
+genere_le: 2026-10-01
 ---
 
 # Questions et communication
@@ -18,13 +18,13 @@ genere_le: 2026-09-25
 
 > ⚠️ **Un repère, pas une vérité à suivre.** Chaque situation est individuelle et mérite sa propre lecture : ce guide n'est qu'un agrégat de recherches scientifiques et de bons conseils de vie courante, pas un mode d'emploi à appliquer à 100 %. Pour tout ce qui est complexe, rien ne remplace un professionnel — psychologue, thérapeute de couple, médiateur, et les autres selon le sujet. Ce projet est un travail d'étudiant : j'ai sincèrement essayé d'y mettre le meilleur de ce que je sais faire, pour qu'il touche le plus de monde possible et serve aussi de vitrine à mes compétences en informatique et en intelligence artificielle. Il est ouvert à tous : n'importe qui peut le reprendre et proposer des suggestions.
 
-**Ce qu'une question fait, comment on communique vraiment, et ce que ça change**
+**On apprend à parler, à argumenter, à convaincre. Personne n'apprend à demander.**
 
-Une question est l'outil relationnel le plus puissant qui existe, et c'est aussi le plus mal utilisé. On apprend à parler, à argumenter, à convaincre. Personne n'apprend à demander. Résultat, la plupart des gens passent leur vie à côté d'informations que leur entourage leur aurait données volontiers, et meurent avec un stock de questions non posées qui n'intéressaient qu'eux.
+Une question est l'outil relationnel le plus puissant qui existe, et l'un des plus mal utilisés. Beaucoup de gens passent à côté d'informations que leur entourage leur aurait données volontiers, faute de les avoir demandées.
 
-Ce guide part de la question — ce qu'elle produit, comment elle se classe, quelles émotions elle déclenche — puis s'élargit à la communication interpersonnelle dans son ensemble : pourquoi on communique et ce que ça fait au corps, ce que ça change au travail et dans le couple, comment on en est arrivé à en faire un sujet aussi central, ce que le corps transmet sans les mots, comment bien se faire comprendre, comment tenir une conversation par message sans être "trop", et le questionnement tourné vers soi-même — l'introspection, les questions qu'on évite, ce qui distingue un vrai travail personnel d'un marketing bien-être. Il élargit ensuite vers la mécanique fine de l'échange (silence, proxémie, rhétorique, négociation, ruptures de communication, interculturel), la dimension sociale et historique de la parole (pouvoir, propagande, générations, médiation, coût économique), et les à-côtés qu'on associe rarement à la communication mais qui la façonnent : le cerveau et le corps, la santé psychique, le droit, la philosophie, l'environnement physique, la sécurité conversationnelle, et sa place dans l'art et la culture populaire.
+Le guide part de la question (ce qu'elle produit, comment elle se classe, quelles émotions elle déclenche), puis s'élargit à toute la communication : le corps, le travail, le couple, les messages, le silence, l'interculturel, le pouvoir de la parole, et le questionnement tourné vers soi.
 
-Un mot de cadrage, une seule fois. Rien ici n'est une technique de manipulation conversationnelle. Une question posée pour obtenir quelque chose se sent, et elle produit l'inverse de son objectif. Tout ce qui suit suppose l'envie réelle de savoir : sans elle, mieux vaut ne pas poser la question.
+Un mot de cadrage, une seule fois : rien ici n'est une technique de manipulation. Une question posée pour obtenir quelque chose se sent souvent, et elle produit alors l'inverse de son objectif. Tout ce qui suit suppose l'envie réelle de savoir.
 
 Pour les formulations propres à une famille recomposée (nommer un beau-parent, désamorcer un conflit de loyauté, négocier avec un ex-conjoint), voir le guide [Les nouvelles compositions familiales](<../1 - Guides/Les nouvelles compositions familiales/README.md>), qui prend le relais sur ce terrain spécifique plutôt que de le redire ici.
 
