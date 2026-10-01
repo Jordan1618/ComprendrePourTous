@@ -7,7 +7,7 @@ mots: 49853
 verifie_le: 2026-09-28
 licence: "CC BY 4.0"
 genere: "automatiquement depuis 1 - Guides/Psychologie de la personnalite"
-genere_le: 2026-09-28
+genere_le: 2026-10-01
 ---
 
 # Psychologie de la personnalité
